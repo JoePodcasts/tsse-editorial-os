@@ -71,16 +71,17 @@ def extract_issue_date(issue_line: str) -> str:
 
 
 def parse_issue_block(block: str) -> dict:
-    issue_match = re.search(r"^Issue\s+(\d+)\b", block, re.IGNORECASE | re.MULTILINE)
+    # Match either 'Issue 75' or 'Newsletter #75' style headings
+    issue_match = re.search(r"^(?:Issue|Newsletter)\s*#?\s*(\d+)\b", block, re.IGNORECASE | re.MULTILINE)
     if not issue_match:
         return {}
 
     issue_number = issue_match.group(1)
     publication_date = ""
-    issue_line = re.search(r"^Issue\s+\d+.*$", block, re.IGNORECASE | re.MULTILINE)
+    issue_line = re.search(r"^(?:Issue|Newsletter)\s*#?\s*\d+.*$", block, re.IGNORECASE | re.MULTILINE)
     if issue_line:
         publication_date = extract_issue_date(issue_line.group(0))
-
+    # Base extraction using labeled fields
     record = {
         "issue_number": issue_number,
         "featured_episode": first_match(block, FIELD_PATTERNS["featured_episode"]),
@@ -91,6 +92,29 @@ def parse_issue_block(block: str) -> dict:
         "publication_date": publication_date or first_match(block, FIELD_PATTERNS["publication_date"]),
         "central_theme": first_match(block, FIELD_PATTERNS["central_theme"]),
     }
+
+    # Heuristic: capture 'In Episode <n>, my guest is <Name>' style phrases
+    ep_guest_match = re.search(r"In\s+Episode\s*#?(\d+)[^\n\r]*?\b(?:my guest is|my guest was|my guest,? is|my guest,? was)\s*([A-Z][A-Za-z.'’\-]+(?:\s+[A-Z][A-Za-z.'’\-]+){0,3})", block, re.IGNORECASE)
+    if ep_guest_match:
+        if not record["featured_episode"]:
+            record["featured_episode"] = ep_guest_match.group(1)
+        if not record["featured_guest"]:
+            record["featured_guest"] = clean_value(ep_guest_match.group(2))
+
+    # Heuristic: capture 'In Episode <n>, <Name> shares' inside Connected Insights section
+    conn_section = re.search(r"Connected Insights[:\s\-]*([\s\S]*?)(?:\n\s*Startup Corner|\n\s*Community Involvement|\n\s*Newsletter|\n\s*New Podcast|\Z)", block, re.IGNORECASE)
+    if conn_section:
+        cs = conn_section.group(1)
+        conn_guest_match = re.search(r"In\s+Episode\s*#?\d+[^\n\r]*?[,\s]*([A-Z][A-Za-z.'’\-]+(?:\s+[A-Z][A-Za-z.'’\-]+){0,3})", cs)
+        if conn_guest_match and not record.get("connected_insight_guest"):
+            record["connected_insight_guest"] = clean_value(conn_guest_match.group(1))
+
+    # Additional heuristic: if featured_guest still missing, look for pattern 'In Episode <n>, my guest is <Name>' elsewhere
+    if not record["featured_guest"]:
+        fallback_guest = re.search(r"In\s+Episode\s*#?\d+[^\n\r]*?[,\s]*(?:my guest is|my guest was|my guest,? is|guest is)\s*([A-Z][A-Za-z.'’\-]+(?:\s+[A-Z][A-Za-z.'’\-]+){0,3})", block, re.IGNORECASE)
+        if fallback_guest:
+            record["featured_guest"] = clean_value(fallback_guest.group(1))
+
     return record
 
 
@@ -100,7 +124,8 @@ def load_archive_text(path: Path) -> str:
 
 
 def split_issue_blocks(text: str):
-    blocks = re.split(r"(?=^Issue\s+\d+\b)", text, flags=re.MULTILINE)
+    # Support 'Issue <n>' and 'Newsletter #<n>' headings as block separators
+    blocks = re.split(r"(?=^(?:Issue|Newsletter)\s*#?\s*\d+\b)", text, flags=re.MULTILINE)
     return [block.strip() for block in blocks if block.strip()]
 
 

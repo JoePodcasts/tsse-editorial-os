@@ -74,3 +74,42 @@ To improve future archive import quality, the newsletter archive should be struc
 ## Current Status
 
 At the time of this implementation, the importer is ready to run but the archive sample file `data/newsletter_archive_sample.txt` was not present in the repository workspace. Once that file is available, the importer can parse it and update `data/newsletter_history.csv`.
+
+## Findings from the sample archive
+
+- Parsed issues: 45 (Newsletter #31 through Newsletter #75).
+- Recurring sections observed in every issue (in roughly this order):
+  - Email Intro / Host note
+  - New Podcast (episode title and summary)
+  - Quote (episode highlights)
+  - Connected Insights (a past episode or guest used as thematic connection)
+  - Startup Corner (featured startup and short description)
+  - Community Involvement (nonprofit or community org)
+
+- Consistency and extraction pattern:
+  - Every issue begins with a heading like `Newsletter #<n>:` which provides a reliable block boundary.
+  - Labeled sections (e.g., `Startup Corner:`, `Community Involvement:`) are common and provide stable anchors for extraction.
+  - The podcast episode number and guest are frequently present in prose such as `In Episode 188, my guest is Ian Sandler` — this required heuristics to extract reliably.
+  - Connected Insights frequently uses a short title (e.g., `Connected Insights: Leadership Is More Human Than Corporate`) and then references a past episode and guest in the following paragraphs.
+
+- Fields reliably extracted with current heuristics:
+  - `issue_number` (very reliable due to heading format)
+  - `startup_corner_company` (labeled and often clearly formatted)
+  - `community_organization` (labeled)
+
+- Fields that required heuristics and were harder to extract:
+  - `featured_episode` and `featured_guest` — often embedded in narrative sentences rather than in a single labeled line; heuristics were added to capture `In Episode <n>, my guest is <Name>` patterns.
+  - `connected_insight_guest` — the Connected Insights section often contains a title and then a narrative that mentions the guest; we capture the guest only when a clear pattern (`In Episode <n>, <Name>`) is found near the Connected Insights title.
+  - `publication_date` — rarely present explicitly in the archive headings; usually missing.
+  - `central_theme` — sometimes available as a short label, but frequently expressed in prose (hard to normalize automatically).
+
+- Examples of extraction limitations observed:
+  - Guest attributions sometimes include trailing organization text (e.g., `Gilad Shai from BMI`) which may require post-processing to normalize.
+  - Some Connected Insights entries include only a short title and do not name the guest in the header; the guest appears later in the paragraph and required section-specific matching.
+
+## Recommendations (practical next steps)
+
+1. Keep publishing the archive as plain text but standardize a small set of labeled fields for each issue (even simple one-line labels for `Episode:`, `Guest:`, `Connected Insights Guest:` would dramatically improve extraction quality).
+2. Add optional CSV/JSON export of every newsletter at publish time to serve as canonical machine-readable historical data.
+3. For the importer, consider incrementally improving name normalization (strip trailing `from <org>`, unify punctuation, and optionally cross-reference guest names with the guest database to improve quality).
+4. If full fidelity is required, consider a lightweight human review step for parsed records (e.g., a short verification UI showing parsed fields for validation).
