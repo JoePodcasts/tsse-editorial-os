@@ -33,7 +33,8 @@ Each record includes:
 - Selected guests: confirmed from `data/guest_rankings.csv`.
 - Episode URLs: accessible through the `URL` column in `data/guest_rankings.csv`.
 - Schema alignment: records follow the Episode Intelligence schema defined in `docs/episode-intelligence-dataset.md` and `data/episodes/episode_template.json`.
-- Transcript content: not available locally in the repository.
+- Transcript content: successfully sourced from the Simplecast API endpoint discovered via TSSE transcript page analysis.
+- Phase 1 status: completed; all 10 Rank 4 Phase 1 episode records are populated and validated.
 
 ## Required transcript sources
 

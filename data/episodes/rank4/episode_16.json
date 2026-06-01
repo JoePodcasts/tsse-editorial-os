@@ -3,10 +3,30 @@
   "title": "Immigrant Entrepreneur",
   "guest_name": "Manan Mehta",
   "episode_url": "https://podcast.sure.ventures/episodes/immigrant-entrepreneur",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
-  "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 16 to populate themes, lessons, industries, and organizations."
+  "guest_rank": 4,
+  "primary_theme": "Underwriting immigrant founders through process transparency and community",
+  "secondary_themes": [
+    "Immigrant entrepreneurship",
+    "Founder-focused investing",
+    "Community and network access"
+  ],
+  "founder_lessons": [
+    "Investing in immigrant founders means building transparency into the process and making it easy for founders to understand what to expect.",
+    "The strongest early-stage bets are often people with lived immigration experience who can credibly underwrite their own market opportunity.",
+    "A successful founder community includes first-time entrepreneurs and seasoned builders learning from one another.",
+    "Venture capital is a service business: founders should feel supported, not merely evaluated."
+  ],
+  "industries": [
+    "Venture Capital",
+    "Immigrant Entrepreneurship",
+    "Founder Community"
+  ],
+  "community_organizations": [
+    "Unshackled Ventures"
+  ],
+  "notable_quotes": [
+    "This was back in 2013 and early parts of 2014 and little did I know that as an American born, my co-founder, who was a visa holding founder, would be affected.",
+    "We were very adamant on building the first fully vertically integrated fund for immigrant entrepreneurs or teams with immigrant entrepreneurs.",
+    "The main thing at the seed stage that we invest, the thing that's most important is really just the founders. We're betting on the team. Everything else with the company may change."
+  ]
 }

@@ -3,10 +3,30 @@
   "title": "Gut Feel",
   "guest_name": "Sheel Mohnot",
   "episode_url": "https://podcast.sure.ventures/episodes/gut-feel",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
-  "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 20 to populate themes, lessons, industries, and organizations."
+  "guest_rank": 4,
+  "primary_theme": "Seed investing guided by founder quality and intuitive signals",
+  "secondary_themes": [
+    "Founder-first seed investing",
+    "Fintech opportunity assessment",
+    "Balancing gut feel and evidence"
+  ],
+  "founder_lessons": [
+    "At seed stage, the team is the most important asset; the product and strategy can change over time.",
+    "A founder's response to challenge is more telling than a polished, scripted answer.",
+    "Gut feel is useful when it synthesizes team, market opportunity, and execution clarity.",
+    "Early fintech founders need to demonstrate both market conviction and a willingness to evolve product based on what customers learn."
+  ],
+  "industries": [
+    "Fintech",
+    "Venture Capital",
+    "Seed Investing"
+  ],
+  "community_organizations": [
+    "Against Malaria Foundation"
+  ],
+  "notable_quotes": [
+    "The main thing at the seed stage that we invest, the thing that's most important is really just the founders.",
+    "First of all, there's this like gut feeling that you have, which unfortunately is hard to describe.",
+    "You know, I think early on where we invest, oftentimes the product and vision changes. And that's okay."
+  ]
 }

@@ -3,10 +3,30 @@
   "title": "Entrepreneurship Is Liberating",
   "guest_name": "Naeem Zafar",
   "episode_url": "https://podcast.sure.ventures/episodes/entrepreneurship-is-liberating",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
-  "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 8 to populate themes, lessons, industries, and organizations."
+  "guest_rank": 4,
+  "primary_theme": "Network-driven founder development and sales discipline",
+  "secondary_themes": [
+    "Founder and co-founder selection",
+    "Sales as a noble skill",
+    "Network capital and early believer alignment"
+  ],
+  "founder_lessons": [
+    "Invest in founders who treat their network as a real asset and who build relationships before they need them.",
+    "Hire salespeople carefully: they can look good in interviews but often require the deepest operational intuition to succeed.",
+    "Choose co-founders who can execute through uncertainty and learn from early mistakes rather than launching with the perfect plan.",
+    "Mentorship is most valuable when it is personal and based on someone taking a unique interest in you, not just domain expertise."
+  ],
+  "industries": [
+    "Venture Capital",
+    "AI/IoT",
+    "Enterprise Software"
+  ],
+  "community_organizations": [
+    "Brown University Club of Silicon Valley"
+  ],
+  "notable_quotes": [
+    "I'm so confident they can drop me in Gobi Desert and within three months, I'll be selling something to the locals.",
+    "What I really came to realize is selling is very noble. It's like being a doctor... sales is all about listening and analyzing and picking up nuance.",
+    "It's all about making the connection. Because at the end of the day, it's your network which is the real asset you have."
+  ]
 }

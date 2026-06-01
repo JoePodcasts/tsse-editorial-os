@@ -3,10 +3,28 @@
   "title": "LP-GP",
   "guest_name": "Lo Toney",
   "episode_url": "https://podcast.sure.ventures/episodes/lp-gp",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
+  "guest_rank": 4,
+  "primary_theme": "Diversity-focused LP/GP investing and venture fund construction",
+  "secondary_themes": [
+    "Diverse GP access",
+    "Capital allocation discipline",
+    "Network effects in fund investing"
+  ],
+  "founder_lessons": [
+    "Invest in diverse GPs to unlock new founder networks and broaden access to capital.",
+    "The hardest part of venture is saying no, because there are so many great opportunities, and discipline matters.",
+    "A product manager mindset is valuable in venture because it helps structure the fundraise process and investor communication.",
+    "Building a portfolio around diverse operators can produce differentiated returns and better representation."
+  ],
+  "industries": [
+    "Venture Capital",
+    "Diversity Investing",
+    "Fund of Funds"
+  ],
   "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 17 to populate themes, lessons, industries, and organizations."
+  "notable_quotes": [
+    "We invest both as an LP and as a GP, and that combination lets us back diverse managers while also participating in their early deals.",
+    "We see a lot of great entrepreneurs. We see a lot of great GPs as well. The hardest part of the job is saying no.",
+    "Black GPs have a lot of the same relations, and there's also a different aspect to the network. That typically includes more black entrepreneurs, more Latinx entrepreneurs."
+  ]
 }

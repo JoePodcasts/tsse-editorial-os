@@ -3,10 +3,31 @@
   "title": "Startups in Underdog Cities",
   "guest_name": "Pat Matthews",
   "episode_url": "https://podcast.sure.ventures/episodes/startups-in-underdog-cities",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
-  "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 11 to populate themes, lessons, industries, and organizations."
+  "guest_rank": 4,
+  "primary_theme": "Investing in founders and companies outside the traditional startup hubs",
+  "secondary_themes": [
+    "Regional B2B SaaS ecosystems",
+    "Founder credibility through shared experience",
+    "Community-based deal flow"
+  ],
+  "founder_lessons": [
+    "There are great founders and companies outside Silicon Valley; invest where there is less competition and more opportunity.",
+    "Founders prefer capital from people who have walked in their shoes and understand the path they are on.",
+    "Being visible and responsive builds trust, especially when founders can easily reach you and your network.",
+    "A strong local community and referral network can be a differentiator for early-stage deal sourcing."
+  ],
+  "industries": [
+    "Venture Capital",
+    "B2B SaaS",
+    "Regional Technology Ecosystems"
+  ],
+  "community_organizations": [
+    "Apex Center for Entrepreneurship at Virginia Tech",
+    "Venture for America"
+  ],
+  "notable_quotes": [
+    "I have spent my career building companies in what I like to call underdog cities across the country.",
+    "Most founders, especially at the very early stages of a company, would prefer to raise capital from somebody that has walked in their shoes versus somebody that has not.",
+    "I make myself visible. So there should be a way for you to find someone in my network."
+  ]
 }

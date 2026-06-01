@@ -3,10 +3,28 @@
   "title": "Future Market",
   "guest_name": "Ian Rountree",
   "episode_url": "https://podcast.sure.ventures/episodes/future-market",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
+  "guest_rank": 4,
+  "primary_theme": "Investing in frontier technologies by projecting future market value",
+  "secondary_themes": [
+    "Deep tech and future TAM",
+    "Founder learning from first-time mistakes",
+    "Network effects in technology-driven business models"
+  ],
+  "founder_lessons": [
+    "Evaluate market opportunity based on where the market can be, not just where it is today.",
+    "First-time founders will make mistakes; the most important signal is whether they learn and iterate.",
+    "Defensible technology is only valuable if the team can build the future opportunity and create network economics around it.",
+    "Ownership is a proxy; the real focus should be on building something that can generate outsized returns." 
+  ],
+  "industries": [
+    "Venture Capital",
+    "Deep Tech",
+    "Frontier Technology"
+  ],
   "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 9 to populate themes, lessons, industries, and organizations."
+  "notable_quotes": [
+    "The TAM today might be zero, as it is for let's say quantum computing, but you have to project that forward.",
+    "It's the future revenue opportunity times defensibility, which is driven by the technology.",
+    "Ownership doesn't really matter. It's just a proxy. It's something we can control."
+  ]
 }

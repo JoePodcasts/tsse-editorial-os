@@ -3,10 +3,31 @@
   "title": "Networks and Biases",
   "guest_name": "Kamal Hassan",
   "episode_url": "https://podcast.sure.ventures/episodes/networks-and-biases",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
-  "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 10 to populate themes, lessons, industries, and organizations."
+  "guest_rank": 4,
+  "primary_theme": "Bias-aware investing through network-driven deal sourcing",
+  "secondary_themes": [
+    "Bias reduction in venture capital",
+    "Network-based sourcing and reputation",
+    "Performance evidence over snap judgment"
+  ],
+  "founder_lessons": [
+    "Use trusted networks to source founders, because those networks carry reputational risk that disciplines behavior.",
+    "Bias is pervasive in investing; the best defense is a process that evaluates performance and relationship over time.",
+    "Build relationships slowly: start small, prove value, and then increase commitment once trust is earned.",
+    "Treat the entrepreneur-investor relationship as a long-term partnership, not a one-off transaction."
+  ],
+  "industries": [
+    "Venture Capital",
+    "Accelerators",
+    "Startup Networks"
+  ],
+  "community_organizations": [
+    "Founder Institute Accelerator Program",
+    "INSEAD Business School Alumni"
+  ],
+  "notable_quotes": [
+    "There's sort of two steps to working with us. We only source companies through two strong networks: the Founder Institute Accelerator Program and the INSEAD Business School Alumni.",
+    "There's a whole series of biases, which we are all sort of prone to, and as an investor, we've designed a process to get rid of those.",
+    "Sometimes it's just looking at the numbers. You see four or five months of that, and then you go, 'Something's working.'"
+  ]
 }

@@ -3,10 +3,30 @@
   "title": "Alchemist",
   "guest_name": "Ravi Belani",
   "episode_url": "https://podcast.sure.ventures/episodes/alchemist",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
-  "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 12 to populate themes, lessons, industries, and organizations."
+  "guest_rank": 4,
+  "primary_theme": "Accelerator-led founder development for enterprise startups",
+  "secondary_themes": [
+    "Structured mentorship and community",
+    "Technical founder signaling",
+    "Enterprise market validation"
+  ],
+  "founder_lessons": [
+    "A strong accelerator is as much about community and mentorship as it is about funding.",
+    "Technical founders benefit when they can signal quality through customer development and cohort outcomes.",
+    "Founders should expect to drive their own momentum while using the accelerator network to unlock customers and investors.",
+    "Good accelerators reduce loneliness and provide a structured path through the early stage journey."
+  ],
+  "industries": [
+    "Venture Capital",
+    "Enterprise Software",
+    "Accelerators"
+  ],
+  "community_organizations": [
+    "Alchemist Accelerator"
+  ],
+  "notable_quotes": [
+    "We're asking questions to, first of all, tease out why they're starting the company and why they think now is the right time for this to become a phenomenon.",
+    "Most of our founders... love Alchemist for is the community. ... being a part of a cohort is psychologically, incredibly comforting.",
+    "We have this whole system called the vault, which has over 20,000 people in it. That's the online network that our founders use to book office hours with mentors."
+  ]
 }

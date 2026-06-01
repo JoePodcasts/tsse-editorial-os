@@ -3,10 +3,28 @@
   "title": "Enterprise VC",
   "guest_name": "Shruti Gandhi",
   "episode_url": "https://podcast.sure.ventures/episodes/enterprise-vc",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
+  "guest_rank": 4,
+  "primary_theme": "Early-stage enterprise investing with founder conviction",
+  "secondary_themes": [
+    "First-check discipline",
+    "Enterprise product evaluation",
+    "Customer network validation"
+  ],
+  "founder_lessons": [
+    "Early enterprise investing often means backing founders before their idea is complete, as long as they have domain insight and conviction.",
+    "The best enterprise founders can build a compelling story about the problem they are solving, even in a category few people understand.",
+    "Use your network of customers to validate whether a founder is adding real value and can be a reliable partner over time.",
+    "Supporting founders through company formation and the first rounds can create an unfair long-term advantage."
+  ],
+  "industries": [
+    "Venture Capital",
+    "Enterprise Software",
+    "Corporate Venture"
+  ],
   "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 14 to populate themes, lessons, industries, and organizations."
+  "notable_quotes": [
+    "If it's a first time founder working on a category that not everyone knows about, I think what I find really valuable is founders being able to build on their story a little bit.",
+    "The earliest is as early as founders thinking about starting something. And we've often led the rounds before any other investors participated.",
+    "We also then involve other customers that are in our network to see if we can understand if we can help them down the road."
+  ]
 }
