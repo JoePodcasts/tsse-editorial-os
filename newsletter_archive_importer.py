@@ -115,6 +115,21 @@ def parse_issue_block(block: str) -> dict:
         if fallback_guest:
             record["featured_guest"] = clean_value(fallback_guest.group(1))
 
+    return normalize_record(record)
+
+
+def normalize_record(record: dict) -> dict:
+    def normalize_guest(name: str) -> str:
+        if not name:
+            return name
+        value = name.strip()
+        value = re.sub(r"\s+", " ", value)
+        value = re.sub(r"\s+from\s+partner$", "", value, flags=re.IGNORECASE).strip()
+        value = re.sub(r"\s+from\s+[A-Z][A-Za-z0-9&\.\'’\- ]+$", "", value, flags=re.IGNORECASE).strip()
+        value = re.sub(r"\s+of\s+[A-Z][A-Za-z0-9&\.\'’\- ]+$", "", value, flags=re.IGNORECASE).strip()
+        return value
+
+    record["featured_guest"] = normalize_guest(record.get("featured_guest", ""))
     return record
 
 
