@@ -1,0 +1,1409 @@
+Newsletter #75: Ian Sandler, Guy Kawasaki, FirstShift: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+What if the future of leadership looks less like command-and-control and more like empathy, curiosity, and human connection?
+In Episode 188 of The Sure Shot Entrepreneur, Ian Sandler shares lessons from a career spent building organizations at scale while also helping lead Riley’s Way Foundation, a nonprofit focused on developing kind leaders. His perspective is simple but powerful: long-term success comes from understanding people, building trust, and creating environments where others can thrive. Ian’s philosophy connects with Guy Kawasaki’s belief that remarkable leaders are evangelists, not controllers.
+Upcoming Events:
+June 4, Mountain View: Host at the founder event at Funda 
+June 11, Palo Alto:  Idea to IPO: What's Hot, What's Not! 
+July 30, Webinar: Founders Network: Pitch Practice
+
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: Kind Leaders Build Better Futures
+Quote
+In Episode 188, my guest is Ian Sandler, COO of Insight Partners and co-founder of Riley’s Way Foundation.
+Ian describes himself as a “builder of businesses,” but this conversation goes far beyond scaling organizations. He reflects on his unconventional career path, lessons from working across Morgan Stanley, The Carlyle Group, Citadel, and Insight Partners, and how personal tragedy shaped his mission to support young leaders.
+One of Ian’s strongest messages is that leadership starts with self-awareness and relationships. He encourages young people to dream big, build authentic networks, and invest in understanding themselves over chasing titles.
+He also emphasizes that the best organizations are built around people. Great leaders create environments where individuals can grow, contribute, and feel connected to a larger mission.
+The conversation becomes deeply personal when Ian shares the story behind Riley’s Way Foundation, which was created in honor of his daughter Riley. The organization focuses on empowering young people who lead with kindness, empathy, and community impact.
+Listen to the full episode →
+Connected Insights: Leadership Is More Human Than Corporate
+Quote
+In Episode 100, Guy Kawasaki shares a leadership philosophy that closely aligns with Ian Sandler’s perspective.
+Guy argues that great leaders are evangelists, not controllers. Instead of relying on hierarchy or rigid management structures, they inspire people through authenticity, curiosity, and belief in a mission.
+He also challenges traditional executive behavior. Human connection, openness, and long-term reputation matter more than corporate polish or appearing like the smartest person in the room.
+One of the clearest takeaways from the episode is that unconventional career paths often produce the most meaningful outcomes. Guy encourages leaders to stay curious, remain open to change, and spend more time listening to remarkable people.
+Listen to the episode →
+Startup Corner: FirstShift
+Logo 
+FirstShift is focused on helping supply chain teams make faster and better operational decisions.
+The company recently launched the Supply Chain Canvas platform that brings together fragmented operational data into a single environment designed to help teams monitor disruptions, evaluate tradeoffs, and coordinate responses across the supply chain.
+Rather than replacing existing systems, FirstShift focuses on improving visibility and decision-making across logistics and supply chain operations.
+FirstShift’s approach reflects a broader shift happening across enterprise software: helping organizations make sense of increasingly complex operational environments in real time.
+Learn more about FirstShift’s Supply Chain Canvas  →
+Community Involvement: Riley’s Way Foundation
+Logo
+Riley’s Way Foundation was created to empower young people to become kind leaders who strengthen their communities through empathy, leadership, and service.
+Ian shares how the organization grew out of a deeply personal experience and evolved into a mission-driven effort focused on helping young people create meaningful impact.
+Through fellowships, leadership programs, and community initiatives, Riley’s Way Foundation supports the next generation of compassionate leaders.
+Learn more
+
+Newsletter #74: BMI Capital, Bain, Juno: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+Remember when everyone thought InsurTech would revolutionize the insurance industry overnight? Well, Gilad Shai just dropped some brutal truth bombs that every founder needs to hear. After running InsurTech LA for nearly a decade and watching the sector's boom-bust cycle up close, he's seen it all: the IPOs that lost 90% of their value, the startups stuck in permanent purgatory, and why insurance companies still won't buy your software.
+But here's the kicker: he still thinks it's worth building in this space. You just need to know what actually works (spoiler: it's not what the VCs told you in 2021).
+
+Upcoming Events:
+Apr 29, Redwood City: Startup Grind 
+May 7, Fontainebleau: Building a Successful Startup in the Age of AI 
+
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: InsurTech is still worth building; you just need to know what actually works
+Quote
+In Episode 187, my guest is Gilad Shai from BMI Capital. Gilad is all about insurtech and he doesn't sugarcoat it. In 2021 when insurtech companies attempted IPO’ing, they had rough go of it in the public markets. Wall Street analysts took one look and said, "Your combined ratio shows you're losing $5 for every dollar you make." The stock prices crashed 90%. "They were valued as software companies," Gilad explains, "but insurance has its own physics." The founders who survived understood something crucial: insurance companies grow through M&A, not product innovation. Legacy will buy other insurance companies all day long, but a software startup? "It's outside their DNA."
+His advice is refreshingly practical. First, understand the challenges of selling to carriers. Second, if you're below $5 million in revenue as a pure software play, you're stuck. No one will buy you. Third, stop trying to boil the ocean. One startup sold for a nice exit doing nothing but processing risk appetite PDFs – a feature Gilad considered trivial.
+"Interview agents, brokers, adjusters," he insists. "They're the cogs that make the beast move."
+Listen to the full episode →
+Connected Insights: Competition Is Irrelevant When You're Building Infrastructure
+Quote
+In episode 81, Matt Harris from Bain Capital Ventures offers a different perspective that perfectly complements Gilad's reality check. After 30 years investing in fintech and InsurTech, Matt has a simple philosophy: "I overwhelmingly prefer backing B2B companies with little to no credit risk."
+Why? Look at the consumer-focused InsurTech companies. "All the ones that have gone public are trading for less than cash," Matt observes. But the infrastructure plays? Different story entirely.
+Matt's sweet spot is what he calls "embedded fintech" – software companies that monetize through financial services. These aren't insurance companies pretending to be tech companies. They're tech companies that understand how to leverage insurance as a revenue stream.
+The key insight: stop competing on traditional insurance metrics. "The consumer-focused incumbents aren't terrible," Matt admits. Instead, build the picks and shovels that everyone needs. That's where the real opportunity lies – not in disrupting State Farm, but in building the infrastructure layer that even State Farm will eventually need.
+Listen to the episode →
+Startup Corner: Juno
+Logo 
+Juno was recently named one of Fast Company’s Most Innovative Companies of 2026, a valuable recognition among companies that combine cutting-edge technology with deep human understanding.
+Juno tackled a problem no one wanted to touch: what happens when your kid gets seriously ill and you have to leave work?
+They're not trying to disrupt traditional insurance. They created an entirely new category. Parents can receive up to $500,000 per child if severe illness strikes, paid monthly over 10 years. Use it for anything: lost wages, specialized care, home modifications.
+In one year, they've hit 50,000 covered members across nearly 100 employers. The premium? Just 0.1% of what companies spend on benefits.
+Learn more →
+Community Involvement: Gift of Life
+Logo
+Gilad supports Gift of Life, which facilitates bone marrow transplants for cancer patients. It's deeply meaningful work of matching donors with patients who desperately need transplants. Finding a bone marrow match is really hard. Even siblings have only a 25% chance of matching. For the broader population, it's one in a thousand. Yet Gift of Life has cracked the code through sheer scale and smart operations. They're one of only two accredited registries in the U.S. and recently opened the world's first registry-integrated collection center.
+Learn more
+Newsletter #73: NGP Capital, MFV Partners, PAXAFE: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+My career journey is rooted in the exhilarating world of deep-tech—think semiconductors, algorithms, and those fundamental breakthroughs that literally built Silicon Valley! For years, deep-tech was venture capital, defining the industry and my path alongside it.
+
+While the startup scene has since exploded into everything from consumer apps to finance, deep-tech is back in the spotlight, driving the next wave of disruptive ideas.
+
+Want the inside scoop? I'm excited to feature Debjit Mukerji, a brilliant technologist and VC, on the latest podcast episode. Tune in to hear his deep dive on cutting-edge AI implementation and the next big investment areas at NGP Capital!
+
+Upcoming Events:
+
+April 16 in Los Altos: Engineering in the age of AI by Funda 
+May 7 in  in Fontainebleau, France: Lecture on “Startups in the age of AI” to MBA students at INSEAD 
+
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: Deep tech’s moment has arrived
+Quote
+In Episode 186, my guest is Debjit Mukerji from NGP Capital. Debjit shares why now is the defining moment for Deep Tech—and what separates the founders who break through.
+Debjit explains that deep tech is no longer just about breakthrough ideas in labs. A powerful convergence is happening: AI advancements, hardware acceleration, and real-world demand—especially driven by labor shortages and industrial transformation—are pulling these technologies into mainstream adoption faster than ever before. He also reveals how he evaluates founders. It’s not pedigree that matters most, but intensity, curiosity, and resilience. The best founders don’t just build great technology; they show why this is the exact moment their company must exist, and why they are uniquely built to do it.
+Listen to the full episode →
+Connected Insights: Conviction in the absence of traditional metrics
+Quote
+We had an interesting conversation with Karthee Madasamy in episode #107, and a key theme unique to deeptech emerged: the importance of conviction in the absence of traditional metrics. In deep tech, progress is rarely measured by revenue or customer growth early on, but by technical milestones that signal feasibility and future impact. This requires investors and founders to think differently about what “traction” really means. Karthee emphasizes that the strongest founders don’t rely on projections; instead, they clearly articulate the problem, explain why it matters, and demonstrate why their solution is uniquely positioned for where the market is heading. This aligns with a broader pattern across top operators and investors: early-stage success is less about proving the present and more about convincingly mapping the future. Ultimately, whether in deep tech or other domains, building belief, grounded in insight, is what unlocks early support.
+Listen to the episode →
+Startup Corner: PAXAFE
+Logo 
+“It Was Never the App,” is the core argument in Ilya Preston’s recent blog post. And the argument is simple but powerful: most startups, and even entire industries, misdiagnose the real problem. In cold chain logistics, companies poured billions into visibility tools (apps, dashboards, and sensors) believing more data would solve product loss. But the issue wasn’t lack of visibility; it was the absence of decision-making systems and orchestration. Data without context, workflows, and actionability only creates noise, not outcomes. Ilya highlights that real value comes from connecting planning, execution, and feedback loops into a continuous system that enables faster, smarter decisions—not just better monitoring. The takeaway for founders is clear: don’t build surface-level solutions to poorly defined problems. Instead, go deeper, understand the full system, identify where decisions break down, and design products that drive action, not just insight. 
+Ilya Preston is the founder and CEO of PAXAFE, a logistics orchestration and AI‑powered decision intelligence platform for cold chain and high‑value supply chains. Its software goes beyond basic visibility by contextualizing real‑time IoT and shipment data, quantifying risk, and offering actionable recommendations that help companies reduce product loss, optimize operations, and make smarter decisions proactively—especially for temperature‑sensitive goods like pharmaceuticals and perishables.
+Learn more →
+Community Involvement: MedShare
+Logo
+Beyond venture capital, Debjit Mukerji is deeply committed to giving back through his support of MedShare, a nonprofit tackling a critical yet often overlooked issue: medical waste. In the U.S., vast quantities of usable, sterile medical supplies are discarded due to strict regulations. MedShare steps in to recover these items—ranging from basic supplies like gauze and bandages to mobility equipment—and redistributes them to underserved communities both domestically and across more than 100 countries.
+Learn more
+Newsletter #72: 1517 Fund, Core Innovation Capital, Ava: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+"Go to school, work hard, follow the rules." That was the path to success for many immigrant and middle-class families. But sometimes, an idea is so big, so timely, that you just have to drop everything and chase it, even college. This idea challenges the core values I grew up with and still hold as a faculty teaching at INSEAD, but I get it: sometimes you have to break the rules.
+
+That's where 1517 Fund comes in. It is a VC firm that exclusively backs entrepreneurs as early as high school. Michael and Danielle are continuing the model they pioneered at the Thiel Foundation. Want to hear more? Check out my latest podcast episode with them!
+
+Upcoming Events:
+
+AI & Capital Summit at UC Berkeley, Haas School of Business on Mar 30
+Afore Capital’s spring portfolio showcase in San Francisco on Mar 31 
+Engineering in the age of AI by Funda in Los Altos on April 16 
+Linda Mar Ventures Community Dinner with Santa Clara University students on April 17  
+
+
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: Some Ideas Can’t Wait. Accelerate Now.
+Quote
+In Episode 185, our guests are Danielle Strachman and Michael Gibson from 1517 Fund. Their opening story of founding 1517 perfectly captures their contrarian spirit. Michael literally showed up at a UCLA hackathon wearing a fake 1517 t-shirt, pretending their fund existed. He got on stage right after the Microsoft recruiter who was offering Azure internships and basically said: "Forget internships. Follow your dreams. We're giving out money." The audience went wild. And that's how 1517 Fund was born.
+They both had run the Thiel Fellowship for five years, reviewing thousands of applications and working directly with 100 fellows including Dylan Field (Figma), Chris Olah (Anthropic), and Vitalik Buterin (Ethereum). They learned just as much from the people they rejected as the ones they accepted. As Danielle puts it, "We weren't just building pattern recognition of what looks good, but also what doesn't work."
+Their investment philosophy is beautifully simple yet radical. They look for what they call "dog on a leash energy" – founders who aren't asking for more food or water, they just need someone to cut the leash.
+
+
+Listen to the full episode →
+Connected Insights: Start with Your Childhood, Not Your Resume
+Quote
+In episode #50, I spoke with Arjan Schutte from Core Innovation Capital, who highlighted a simple but profound truth: successful entrepreneurship depends on who you are, what you believe, and how deeply you understand your mission. Rather than starting with a list of accomplishments or a polished resume, the most resilient founders build from the earliest influences that shaped them. This ethos parallels the acceleration theme; great outcomes rarely come from surface-level signals or follow-the-herd moves. Instead, founders and early investors alike benefit from looking where others are not looking: start with deep personal insight, let that inform hiring and capital decisions, and measure progress by long-term impact, not short-term optics. That mindset aligns with how intentional acceleration works in real startup journeys. 
+Listen to the episode →
+Startup Corner: Ava
+Logo 
+Reza Rahman, President & Co-Founder of Ava, knows the credit game is rigged. As he told Adam Torres on Mission Matters, first-generation immigrants like himself face an impossible paradox – denied apartments for lacking credit scores while trapped in high-interest debt that keeps them from building one.
+That frustration birthed Ava. "We remembered what it felt like," Reza shares. "The system punishes people like us while making banks richer." So they built something different: a $10/month app that becomes your personal CFO, helping users become credit-visible through three simple tools.
+The genius? They report rent and utilities retroactively up to two years, instantly creating credit history. Members see 74% success rate within seven days. One user jumped from 516 to 744 in four months.
+Learn more →
+Community Involvement: Foresight Institute
+Logo
+Danielle Strachman’s passion for deep science and future technologies is evident through her support of the Foresight Institute. Founded in 1986, Foresight’s mission is to anticipate and responsibly shape transformative technologies — from advanced nanotechnology to AI and beyond — by fostering interdisciplinary research, ethical dialogue, and collaboration among scientists, engineers, and visionaries.
+Danielle has long been engaged with Foresight’s community, attending events and fellowship programs that bring together thinkers who push boundaries and explore the long-term implications of emerging technologies. For her, supporting an organization that encourages radical optimism grounded in deep technical insight aligns with the same contrarian curiosity that drives her venture philosophy: embracing big ideas early, stewarding them thoughtfully, and empowering individuals to explore what others consider impossible.
+Learn more
+
+
+Newsletter #71: Coyote, PruVen, HoneyComb: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+
+Sure Ventures primarily invests in the pre-seed and seed stages. We recently attended a conference for emerging manager VCs where Peter Walker, Head of Insights at Carta, shared a comprehensive analysis of industry trends. His presentation, which draws on approximately 500,000 transactions recorded since 2018, offers valuable insights into the current challenges and opportunities in venture capital. You can view the presentation here.
+
+Upcoming Event:
+
+I will be speaking to student entrepreneurs at Santa Clara University on Friday, April 17th. If you're in the area and available, we invite you to join us.
+
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: Improve Healthcare Access for Overlooked Populations
+Quote
+In Episode 184, I sat down with Jessica Karr from Coyote Ventures to discuss what it truly takes to expand healthcare access in America. Jessica unpacks the structural barriers that keep care fragmented, expensive, and inequitable, and why innovation alone doesn’t fix systemic gaps. We explore how technology, policy, and distribution must work together to reach underserved communities, and why building in healthcare demands patience, regulatory fluency, and deep empathy for patients navigating complex systems.
+Jessica also reflects on the responsibility founders and investors carry when operating in essential sectors. Improving access is not just about efficiency or margins; it’s about trust, dignity, and long-term outcomes. Meaningful healthcare innovation requires courage to serve populations others often overlook, and the discipline to build solutions that truly scale.
+Listen to the full episode →
+Connected Insights: Look where others are not looking
+Quote
+My guest in episode #55 was Ramneek Gupta, the founder of PruVen Capital. Ramneek urged founders to “look where others are not looking.” Like Jessica, Ramneek emphasizes serving underrepresented and overlooked communities—not as charity, but as opportunity. Durable companies are often built in markets incumbents ignore.
+In both conversations, the common thread is conviction: the willingness to engage with complexity, regulation, and long sales cycles in order to serve populations that truly need better solutions.
+Listen to the episode →
+Startup Corner: HoneyComb
+Logo 
+HoneyComb was recently named one of the newcomers on the Forbes 2026 Fintech 50, a list spotlighting the most innovative fintech startups and the founders shaping the future of financial services.
+HoneyComb is redefining how financial protection products are distributed and embedded, bringing modernization to an industry long overdue for change. The company now insures more than 30,000 buildings and closed 2025 with $275 million in annualized gross written premiums.
+Recognition at this level signals disciplined execution and strong market traction, which is the kind of focused, category-defining momentum that underpins enduring fintech platforms.
+Learn more →
+Community Involvement: Reproductive Freedom for All
+Logo
+Beyond her professional work, Jessica Karr supports Reproductive Freedom for All, an organization dedicated to advancing reproductive health, rights, and justice. Its mission centers on ensuring individuals have the autonomy and access necessary to make informed healthcare decisions.
+For Jessica, improving healthcare access extends beyond startups; it’s about protecting the broader systems that empower people to control their own health journeys.
+Learn more about Reproductive Freedom for All
+
+
+
+Newsletter #70: LinkedIn, 8VC, Lumber: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+AI has totally blown up in the last couple of years! But honestly, there's been some super cool, groundbreaking stuff happening behind the scenes for the past two decades that didn't get the spotlight it deserved. So, I convinced my friend Bhaskar Ghosh to step in and chat with an engineering leader who's been a key player in building the next-gen AI platforms at LinkedIn. Get ready to tune into a podcast episode with a fun twist. It's a deep-dive conversation between two absolute tech geeks, the brains behind the solutions you use every single day. If you’d like to learn how artificial intelligence evolved since its early days, you won't want to miss this!
+I'll be at the Sierra Ventures Emerging Manager and Seed VC Summit on Mar 11 in San Francisco! Find me at the event if you plan to attend. 
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: AI Will Not Save You. Reinvention Will.
+Quote
+This week, Bhaskar “BG” Ghosh guest-hosted our podcast with his old colleague Kapil Surlaker. The two highly respected leaders helped scale LinkedIn from 50 million to over 550 million users, which today has 1.3 billion+ members.
+Kapil's most striking insight? "AI can write all the code you want, but you still own the pager."
+Think about that. We're all excited about Claude Code and Cursor making building seem trivial. But you're still the one getting woken up at 3 AM when something breaks. You still own the maintenance, the debugging and the evolution of that code, whether you wrote it or AI did.
+They also reflect on LinkedIn's existential crisis in 2010. Running entirely on Oracle, the platform was literally creaking under growth. They had to commit the "cardinal sin" of software engineering – building their own distributed database from scratch. They built Espresso and it worked. Would Kapil do it again today? Absolutely not. "Use PostgreSQL or cloud solutions," he says. Back then they built to survive. Today, you only build what's absolutely core to your differentiation. Reinvention or extinction are our only choices in the AI era.
+Listen to the full episode →
+Connected Insights: The Geometry Framework
+Quote
+My guest in episode #173 was Bhaskar “BG” Ghosh. He shared his brilliantly practical "geometry framework" for evaluating enterprise startups:
+Persona Geometry: Who uses your product versus who signs the check?
+Product Geometry: Where exactly do you fit in the existing enterprise stack?
+Budget Geometry: What are companies already spending in your area?
+Applying this to Gen AI, BG sees huge opportunities in knowledge graphs and semantic layers because "AI agents don't go to data directly – they go through semantic layers." The orchestration layer is another goldmine, especially with innovations like MCP emerging for agent interoperability.
+Another one of BG's insights is about "intentional networking." He splits it into two types: the strategic connections you need for business, and what he calls networking that "puts gas in your tank" – your personal board of directors, your Saturday soccer group, et cetera.
+Listen to the episode →
+Startup Corner: Lumber
+Logo 
+LumberFi has grown from zero to 70+ employees with 5× annual growth in two years. Shreesha Ramdas has designed the company so he can't become the bottleneck.
+"The team should be running the company, not me. I work on what will matter a year from now."
+He codified this into the EOE system: Energy, Ownership, Experimentation. The ownership piece is bold. "There's no adult supervision. You take the ball and run." When executives tried escalating conflict resolution to him, he refused. Not from indifference, but because teams that outsource conflict resolution never develop real trust.
+On AI, Shreesha draws a hard line: "If you think AI can be a referee or a coach — no." AI scales work but doesn't replace human judgment.
+Learn more →
+Community Involvement: Society for Arts and Culture of South Asia (SACSA)
+Logo
+BG is involved with the Society for Arts and Culture of South Asia (SACSA), which supports women's and children's health education in India while promoting sacred music that transcends boundaries.
+It beautifully captures BG's philosophy: "The spirit of service is the constant." Whether building LinkedIn's infrastructure, investing at 8VC, or bringing communities together through music, it's all about service.
+Learn more about SACSA
+
+
+Newsletter #69: Practical VC, Upfront, Juno: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Startup investments are taking longer to pay off. Founders, early investors, and employees want liquidity sooner. That's why secondary markets are booming! I truly believe this is a crucial structure for our ecosystem to stay healthy. I recently chatted with Aman Varjee from Practical VC, a Silicon Valley veteran, who offers some fantastic insights on this trend. We also dove into the evolution of the startup world since the 1990s, all the way to the big question today: are we in a bubble? Aman says absolutely not! Tune in to the new podcast episode to hear our full conversation.
+Last week, Oren Zeev and I had a fun fireside chat at an event organized by the Consulate Generals of India and Israel. We chatted about his awesome investments, current trends in artificial intelligence, and his super helpful advice to founders.
+I'll be in sunny Los Angeles on Feb 24 and 25! If you're heading to the Upfront Summit, I'd absolutely love to connect. Let's grab a coffee!
+
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: Are we in a Bubble of Bubble Talk?
+Quote
+Aman Verjee, General Partner at Practical Venture Capital was my guest in Episode 182. Aman explains why today’s venture ecosystem looks fundamentally different from the one many investors were trained in. Companies are staying private longer. Capital cycles are extended. Liquidity is delayed.
+In that environment, secondaries are no longer niche. They are structural. They help align incentives, provide liquidity to early stakeholders, and reduce pressure on companies forced to wait years longer for traditional exits.
+Aman’s broader point: we’re not just in a market cycle we’re in a structural evolution. Venture timelines have stretched, and the mechanics of liquidity have had to evolve alongside them.
+That evolution changes more than portfolios. It changes how companies must be built. 
+Listen to the episode →
+Connected Insights: Endurance Is the New Alpha
+Quote
+If liquidity takes longer and companies stay private longer, then founder behavior must adjust.
+In Episode 83, my guest was Mark Suster from Upfront Ventures. Mark emphasized three traits that now feel even more essential:
+Relationship-building before fundraising
+Hiring deliberately, not reactively
+Capital discipline from day one.
+When exits may take a decade, investor relationships must be built on trust and not just transactions, hiring velocity must match sustainable growth, and burn rate must assume capital won’t always be cheap.
+As venture evolves structurally, founders who build for endurance — not optics — will define the next generation of winners.
+Listen to the episode →
+Startup Corner: Juno
+Logo 
+Juno, the child disability insurance innovator, continues its strong momentum. In its first year since launch, nearly 100 leading employers have adopted Juno’s solutions to support working families and expand inclusive benefits. This rapid adoption highlights a growing recognition of disability insurance as essential workplace coverage, especially in an era where traditional benefits often fall short. As employers seek benefits that reinforce retention, equity, and long-term wellbeing, Juno’s early traction signals broad demand for innovative, human-centered insurance products.
+Learn more →
+Community Involvement: AYSO (American Youth Soccer Organization)
+Logo
+Outside of venture capital, Aman Verjee is passionate about the American Youth Soccer Organization (AYSO), a nonprofit dedicated to youth development through soccer. AYSO’s mission centers on inclusivity, teamwork, and personal growth by providing structured, supportive soccer experiences for children of all backgrounds. Aman’s support reflects a belief that play and community engagement build resilience and character long before entrepreneurial journeys ever begin, making AYSO a meaningful example of impact beyond the investment world.
+Learn more
+
+Newsletter #68: Crystal Venture Partners, Better Tomorrow Ventures, Insurate: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Eight years ago, Sure Ventures pioneered the space, becoming the world's first seed-stage institutional VC firm focused on insurtech. Since then, the sector has exploded: startups have achieved unicorn status, investor interest has broadened significantly, and some companies have even gone public. Today, the insurtech VC landscape is not just thriving, it has matured, proving its resilience by weathering a downturn. The growth has been far more rapid and extensive than even my initial optimism predicted.
+
+This expansion has naturally drawn in many respectable new insurtech VCs. Our latest guest on the podcast, Jonathan Crystal of Crystal Venture Partners based in New York, epitomizes this trend. He is an accomplished insurance executive who transitioned to venture capital. This move by seasoned industry veterans is a clear sign of the sector’s maturity. Yet, I maintain that we are still in the very early days; insurtech is set to produce a wave of profound innovation over the next two decades. You'll hear that same conviction and optimism echoed in my conversation with Jonathan.
+
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: The Pain of Building
+Quote
+My guest in Episode 181 is Jonathan Crystal, Managing Partner at Crystal Venture Partners. He dives into what it really takes to back transformative companies in AI-enabled insurance and risk tech. Drawing on two decades of experience building and exiting his family’s insurance brokerage, Jonathan explains why entrepreneurship is “years of terror,” and why a venture investor’s job is mostly saying “no” — sometimes to 99 out of 100 founders — before finding the few with the conviction to build something enduring.
+Jonathan shares how Crystal Venture Partners writes early $1–3M first checks, often as the first institutional capital, to founders with domain expertise and audacious visions. He emphasizes founder-market fit, the courage to commit early, and the importance of being the right source of capital, not just funding.
+He also walks through what he looks for in those rare first meetings: whether a founder is prepared for the long, emotional journey ahead, whether they truly grasp the problem they’re solving, and whether their insight can unlock future value. 
+Listen to the episode →
+Connected Insights: What Makes Founders Stand Out
+Quote
+In Episode 20, my guest was Sheel Mohnot from Better Tomorrow Ventures. Sheel digs into what “gut feel” really means for a VC investing in early-stage fintech and insurtech startups. Rather than randomness, gut feel emerges from a blend of three core elements founders need to master: clarity of vision, mastery of their problem space, and the ability to communicate both clearly and flexibly.
+For founders building in AI or insurtech, this means:
+Vision articulation: Investors can sense when a founder truly grasps the why behind the solution — beyond just the what (product) or how (technology).
+Clarity under pressure: When challenged, strong founders respond with thoughtful context, not defensiveness — a key signal that they can adapt without losing strategic coherence.
+Subject-matter fluency: Sheel notes that founders who teach investors something new about the problem or market instill confidence. This depth often separates surface-level ideas from category-defining companies.
+Ultimately, gut feel isn’t mystical — it’s built on evidence of deep thinking, communication skill, and authentic command of the space. For startups in AI or insurtech — where complexity meets rapid evolution — these traits often predict long-term investor conviction. 
+Listen to the episode →
+Startup Corner: Insurate
+Logo 
+Insurate, a data-driven managing general agent (MGA) specializing in workers’ compensation insurance, is accelerating its U.S. expansion into California, Pennsylvania, and New Jersey as part of a broader drive toward nationwide coverage.
+California remains one of the most expensive and complex workers’ comp markets in the country, with projected rate increases and rising claims costs creating heightened demand for innovative, data-informed solutions. New Jersey also ranks among the highest-cost states, placing a premium on risk-adaptive products that help employers manage coverage costs and safety outcomes. Pennsylvania’s evolving insurance landscape adds further opportunity for technology-enabled underwriting approaches.
+Insurate leverages predictive data science, AI-enhanced safety scoring, and traditional underwriting expertise to tailor coverage for high-hazard businesses that have historically struggled to secure affordable workers’ comp solutions.
+Learn more →
+Community Involvement: 21/64
+Logo
+Beyond his work in venture capital, Jonathan Crystal supports 21/64, a nonprofit focused on strengthening multigenerational engagement in philanthropy and charitable leadership. 21/64 helps families and their advisors reflect on values, collaborate across generations, and build intentional giving strategies that amplify long-term impact in communities. By guiding inclusive philanthropic decision-making and inspiring purposeful service, 21/64 plays a unique role in shaping how individuals and families give back to society and address systemic challenges.
+Learn more
+
+Newsletter #67: QED, Sierra Ventures, Hi Marley: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+I hope your new year is off to a great start. Over the holidays, I had my first interview in Tamil, recorded in Chennai with a good friend. We, of course, spent time discussing artificial intelligence among other topics. You can find a summary of the interview here and a link to the full conversation on YouTube. 
+
+The AI bubble conversation has reached fever pitch. Every investor I speak with asks the same question: Are we witnessing innovation or irrational exuberance? On our first podcast episode in 2026, Amias Gerety from QED shares advice to founders: ignore the bubble, chase alpha. Your business is defined by the value you create for customers, not by macro trends. This connects powerfully to Tim Guleri’s philosophy about building "companies without stretch marks" sustainable businesses with unit economics baked in from day one, not as a future optimization.
+Later this month, I will speak at the InsurtechSlopes conference in Sun Valley, Idaho. Register and join me at the conference on Jan 28, 2026. Link here: https://www.linkedin.com/posts/gopirangan_insurtech-slopes-2026-activity-7414795219621203969-xEou
+– Gopi Rangan, Host of The Sure Shot Entrepreneur podcast
+ 
+New Podcast: Ignore the Bubble, Chase Alpha
+Quote
+My guest in Episode 180 is Amias Gerety, Partner at QED Investors. A former Treasury official who spent eight years navigating the financial crisis and implementing Dodd-Frank, Amias brings a mechanical thinker's approach to venture investing. He asks founders the questions that cut through pitch deck polish: Who's paying what to whom and how? What's the essential value exchange?
+His analysis of the AI landscape is particularly sobering. While bullish on AI transforming white-collar work, he points to unsustainable economics: companies locked in a prisoner's dilemma of escalating training costs, with each generation requiring 10x investment for 2x improvement. The scaling laws that drive innovation may also prevent profitability.
+Yet his advice to founders remains simple: "Build something that someone wants to pay for. Charge them more than it costs you to build it." Your business is defined by alpha (your unique value), not beta (market conditions). The macro is irrelevant if customers desperately need what you're building.
+Listen to the episode →
+Connected Insights: Build Companies Without Stretch Marks
+Quote
+In Episode 174, Tim Guleri of Sierra Ventures delivers a masterclass on sustainable company building. Tim's vivid metaphor of building "companies with no stretch marks" captures what kills most startups—permanent damage from overextension.
+Tim emphasizes that "ideas and optimizations that you do early in a company's lifecycle are super hard to do when you're at scale." The financial DNA you build into your company from day one determines whether you become a cash-generating machine or a capital-burning furnace.
+Tim's advice to founders is brutally practical: "The public market doesn't care about what you're building." What matters are growth rates, gross margins, cost structure, and ultimately EBITDA. He urges founders to understand early that successful companies aren't defined by their technology but by their ability to become "cash spitting engines." This echoes Amias's warning that AI companies locked in an escalating prisoner's dilemma—spending ever more on training costs—may never achieve sustainable economics. 
+Unit economics aren't a future optimization—they're a day-one architecture decision. Whether you're building in AI, SaaS, or any other sector, the choices you make about pricing, cost structure, and capital efficiency in your first year will determine whether you're building a sustainable business or a house of cards that collapses under its own weight.
+Listen to the episode →
+Startup Corner: Hi Marley
+
+Logo 
+Hi Marley, the intelligent conversational platform for P&C insurance, continues its impressive growth trajectory with two major milestones marking its evolution from startup to industry leader.
+The company ranked #244 on the 2025 Deloitte Technology Fast 500™, achieving 325% revenue growth—its second consecutive year on this prestigious list. This recognition places Hi Marley among North America's fastest-growing technology companies, validating its insurance-focused mission of simplifying communication between carriers and policyholders.
+Additionally, Hi Marley earned recognition as one of Built In's Best Midsize Places to Work in Boston for 2026, marking its fifth consecutive year on the Best Places to Work list. This transition from the startup category to midsize reflects the company's successful scaling while maintaining its strong culture and core values.
+CEO Mike Greene attributes the success to Hi Marley's focus on solving real insurance industry problems: reducing call volume by 35%, accelerating claims resolution by an average of two days, and improving customer satisfaction scores. With 60+ insurance carriers now using the platform, Hi Marley demonstrates that sustainable growth comes from obsessive focus on customer outcomes—not just technology innovation.
+Learn more →
+Community Involvement: Easterseals
+Logo
+During our conversation, Amias shared his commitment to Easterseals, where he served on the board for several years. Though no longer on the board, his involvement with the organization reflects his dedication to supporting those who need it most in our communities.
+Easterseals focuses on serving children with disabilities, veterans with mental health challenges, and seniors requiring specialized care. The organization addresses what Amias calls "invisible disabilities"—the challenges that aren't always apparent but profoundly impact individuals and families. From providing elder daycare for seniors who can't care for themselves to supporting veterans dealing with mental health issues, Easterseals fills critical gaps in our social safety net.
+This commitment to serving vulnerable populations aligns with the broader theme of building sustainable, mission-driven organizations—whether in venture capital or social services, success comes from understanding and addressing real human needs with patience, consistency, and genuine care.
+Learn more
+Newsletter #66: Verdis, Slipstream, FirstShift: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+At Sure Ventures, my strategy is to build a focused portfolio of 15 to 20 startups per fund. The philosophy behind this concentration is the commitment to founders that every investment is important. This approach requires that VCs like me have the necessary intent, bandwidth, and skill to actively support founders in their journey toward building a successful business.
+
+A fund with 75 companies is considered highly diversified, a style that is seen as controversial because it departs from the traditional approach to VC investing. While I personally favor a concentrated portfolio, I respect and frequently co-invest with my peers who opt for diversified strategies.
+
+In my latest episode, I debated Steve Kim, an active limited partner at a family office, regarding his strong belief in highly diversified investments. Although I wasn’t converted, I certainly gained a better understanding of the risk-reward dynamics in the current market.
+ 
+New Podcast: Start Early. Stay Consistent.
+Quote
+My guest in episode 179 is Steve Kim, partner at Verdis Investment Management. Steve shares a deeply analytical view of how LPs evaluate and support emerging managers. After a career in telecom and networking during the early internet era, Steve moved to investing and helped create a family office that later evolved into a data-driven LP platform. Steve believes emerging managers are essential to the venture capital industry because they write the earliest checks — where valuations are lowest and compounding potential is highest. While Verdis is data-driven, Steve emphasizes that interpreting data is the real edge, not simply collecting it. He also challenges traditional VC norms: early-stage venture is a highly skewed asset class, and diversified portfolios offer better long-term outcomes than concentrated ones. Verdis backs new managers consistently and only steps away when strategy drifts. 
+Steve’s message to emerging managers: start early, stay consistent, and stick to your strategy. 
+Listen to the episode →
+Connected Insights: VCs who are deeply connected to the founders they serve will win
+Quote
+Alex Edelson, founder of Slipstream Investors was my guest in episode 113. Alex emphasizes that emerging managers succeed when they are deeply connected to the founders they serve and when their strategy emerges from lived experience rather than theory.
+Key insights from the interview:
+Your edge comes from where you’ve spent your career. Managers who invest in ecosystems they already understand outperform. 
+Founder access matters more than fancy frameworks. LPs want to see that founders pick you, not the other way around. 
+Authenticity compounds. Put yourself at the center of the community you want to back; the rest follows.
+Like Steve Kim, Alex paints a consistent picture: LPs are drawn to emerging managers who are trusted by founders, grounded in a clear edge, and committed for the long haul.
+Listen to the episode →
+Startup Corner: FirstShift
+
+Logo 
+FirstShift, an intelligent demand-planning platform built for modern retail supply chains, recently announced a partnership with Alloy.ai, enabling customers to bring real-time Point-of-Sale (POS) data directly into FirstShift’s AI-driven planning workflows. This integration allows brands to unify retail sales data with demand forecasting, improve replenishment accuracy, and anticipate shifts in consumer behavior with far greater precision.
+It’s a powerful example of how AI is reshaping supply chain operations and how startups like FirstShift are leading the charge.
+Learn more →
+
+Community Involvement:  International Baccalaureate (IB)
+Logo
+Podcast guest Steve Kim highlighted the International Baccalaureate (IB) as a nonprofit he’s deeply passionate about.
+The IB is a global education foundation with a mission to “develop inquiring, knowledgeable and caring young people who help create a better and more peaceful world.” It serves nearly 1.95 million students across 6,000+ schools in 160+ countries, offering rigorous, globally minded programs for learners aged 3–19.
+Steve supports IB because its mission aligns with values he champions: curiosity, critical thinking, global citizenship and compassion and service. For Steve, IB represents the kind of long-term, mission-driven work that strengthens communities.
+Learn more
+
+
+Newsletter #65: Spero, Marathon Management Partners, Coterie: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+The venture capital landscape is constantly changing. New talent joins the ecosystem at junior levels, developing their skills over time. Experienced leaders transition from successful careers into senior VC roles or launch their own firms. For me, launching Sure Ventures meant stepping away from lucrative, prestigious roles mid-career. It has been incredibly rewarding and, truly, the best job in the world.
+
+In this week's content, I'm highlighting two different perspectives on the industry. The new podcast episode features a conversation with Stephen Wemple, a young venture capital investor about his journey. Additionally, in the connected insights section, I revisit a past episode with Gokul Rajaram, a phenomenal leader, someone I admire, who recently founded the new venture capital firm, Marathon Ventures.
+New Podcast: Show Commitment to the Mission
+Quote
+My guest in episode 178, Stephen Wemple, Principal at Spero Ventures. Stephen shares how an unexpected path—from a Fulbright year in Vietnam to early work in emerging markets—shaped his belief in entrepreneurship as a powerful force for impact. At Spero, he focuses on mission-driven founders and explains why everything in early-stage venture ultimately comes down to founder quality and authentic commitment to the problem.
+Stephen describes how Spero evaluates early signals of product-market fit, why purpose-led teams often outperform, and how junior investors inside a VC firm can be invaluable partners during a fundraise. He also offers candid advice on first meetings: paint a clear picture of the future you’re building, show why the problem is inevitable, and let your conviction shine through.
+Listen to the episode →
+Connected Insights: The Power of Early Believers
+Quote
+Gokul Rajaram was one of the earliest guests on The Sure Shot Entrepreneur podcast, and few embody the notion of an “early believer” the way he does. In episode #2, Gokul breaks down what it means to support founders at the very beginning long before the metrics are impressive, long before market validation, and long before certainty exists.
+Gokul emphasizes a theme that strongly echoes through my conversations with other guests on the podcast, including Stephen Wemple: great companies start with great partners—people who help founders clarify their thinking, pressure-test assumptions, and build discipline early.
+Listen to the episode →
+Startup Corner: Coterie Insurance
+
+Logo 
+Coterie Insurance continues its momentum as one of the most innovative players in small business insurance. The company recently announced a strategic investment from Allianz X, strengthening its mission to make commercial coverage instant, accurate, and accessible for the 33 million small businesses across the U.S.
+Coterie’s platform simplifies one of the most outdated parts of the insurance value chain: quoting and binding small business policies. By connecting trusted data sources and automating underwriting, Coterie allows agents, digital platforms, and partners to bind policies in minutes, not days.
+Allianz X’s investment signals strong confidence in Coterie’s data-driven approach and scalable model. As small businesses seek modern, flexible coverage, Coterie is positioning itself as the infrastructure powering the next generation of commercial insurance.
+Learn more →
+
+Community Involvement: AchieveKids
+Logo
+During my conversation with Stephen Wemple, I had the chance to reflect on my own involvement with AchieveKids, a nonprofit organization close to my heart and where I’ve served on the board for more than a decade. AchieveKids serves students with complex emotional and developmental needs, providing individualized education, mental health services, and life-skills training for children and young adults aged 5–22.
+The organization partners with school districts to ensure that no student is left behind simply because traditional systems aren’t equipped to support them. AchieveKids’ mission is rooted in dignity, inclusion, and empowerment. These values resonate strongly with the spirit of entrepreneurship and long-term impact we discuss on the podcast.
+Supporting AchieveKids is a reminder that innovation takes many forms, and some of the most meaningful happen outside the venture ecosystem, in classrooms and communities where the need is greatest.
+Learn more
+
+Newsletter #64: Recursive, Mayfield, Ava: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+This September, I had the pleasure of interviewing Oren Zeev at the Counterpart Ventures annual conference for corporate VCs. We discussed his notably independent thinking and penchant for making bold, contrarian bets. Just last week, one of the companies where he was the very first investor, Navan, went public at a spectacular $6.2 billion valuation. You can see my Linkedin post highlighting both Oren’s and the startup's incredible success.
+
+My latest podcast episode features another VC with roots in Israel: Itamar Novak. His recent Linkedin post offers a spicy and contrarian take on Y Combinator’s, arguing why the accelerator might not be the ideal path for all founders. Tune into the engaging conversation for this zinger and many more insightful points.
+New Podcast: Artificial Intelligence is Becoming Service-First
+Quote
+My guest in Episode 177 is Itamar Novick, founder of Recursive Ventures. A successful founder turned investor, Itamar believes the next wave of AI will be defined by service-first, data-defended applications rather than headline algorithms. He draws from 25 years in startups (including executive roles at Gigya and Life360) to explain how founders can position themselves for meaningful value creation: by owning first-party data, tightly aligning with customer outcomes, and treating AI as a service rather than a product. 
+Listen to the episode →
+Connected Insights: Why AI Needs to Solve Real Workflows
+Quote
+In Episode 139, Vijay Reddy of Mayfield Fund was my guest. Vijay offers a deeply grounded perspective on AI investing—one that complements Itamar Novick’s “service-first” thesis. Vijay argues that too many AI startups begin with the technology and then go hunting for a use case. Instead, founders should start with a broken workflow they understand intimately and build AI that rescues time, improves precision, and frees humans to focus on higher-value work.
+As a former engineer and product leader, Vijay stresses that great AI companies don’t sell algorithms—they sell outcomes. The best founders obsess over integration, adoption, and measurable results, not demo-day wow factor. He notes that enterprise buyers don’t want another dashboard—they want fewer clicks, clearer data, and a workflow that just works.
+Both Vijay and Itamar echo the same principle: the next generation of AI success stories will come from empathetic builders who treat AI as a service to people, not an abstract technology. AI that listens, learns, and serves will outlast AI that simply dazzles.
+Listen to the episode →
+Startup Corner: Ava
+Logo
+Fintech startup Ava just raised $15.5 million to deliver a fresh approach to credit-building in the U.S. debt-laden economy. According to a recent press release, Ava is targeting millions of Americans stuck in cyclical and opaque credit systems by providing transparent, tech-enabled credit tools that report to all three major credit bureaus and focus on everyday financial behaviours rather than just credit history. In a sector crowded with legacy models, AVA’s strategy is about speed, fairness and accessibility, not just more of the same.
+Learn more →
+Community Involvement: Anti‑Defamation League (ADL)
+Logo
+Itamar Novick supports the Anti-Defamation League (ADL) as part of his broader commitment to giving back. The ADL, founded in 1913, is a U.S.-based civil-rights organization dedicated to combating antisemitism, bigotry and hate in all forms. Its work includes education, advocacy, and online safety efforts—ensuring that innovation is matched by inclusion and justice. For Itamar, supporting ADL is not an afterthought—it’s aligned with the ethos of service and ethical purpose that he applies to both venture capital and tech.
+Learn more
+Newsletter #63: Boost VC, Trinity Ventures, Joshu: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+A career in venture capital might seem like a given for someone from a family with three generations of VCs. However, unlike many other fields, the venture capital landscape is remarkably level. Attracting top-tier founders and making early, successful bets on unproven ideas doesn't rely on legacy. Anyone with enough grit and business savvy has a real shot at building a successful VC firm, a truth that holds as much now as it did in the beginning.
+
+William Draper, a Silicon Valley VC pioneer and a protégé of George Doriot, often called the father of venture capital, certainly established a distinguished legacy. His grandson, Adam Draper, is my latest podcast guest. Adam is now charting his own distinct course in the world of venture capital, following in his grandfather's footsteps.
+New Podcast: Be the Quirky Underdog Building the Next New Thing
+Quote
+My guest in The Sure Shot entrepreneur podcast episode 176 is Adam Draper, a fourth-generation Silicon Valley venture investor who leads Boost VC and focuses on pre-seed, frontier tech, crypto, and deep-tech. He reflects on his family’s legacy in shaping venture capital and explains how his firm seeks “endeavors of consequence” where the boldest path can become the safest. Adam also explains how he evaluates “weird founder type” entrepreneurs. These are founders with high agency, obsession, and curiosity. Adam explains why he makes bets few others are willing to make. He argues that true advantage comes from being contrarian, nimble, and curious in a world chasing consensus.
+Listen to the episode →
+Connected Insights: Successful Founders Are Naive Fast Learners
+Quote
+In Episode #88, Schwark Satyavolu, General Partner at Trinity Ventures was my guest. Schwark distills what he looks for in early-stage founders into two powerful traits: naivety and rapid learning. He argues that naivety means believing you can change the world even if you don’t yet know how. Fast learning means picking up everything that’s knowable about your focus area and doing it fast enough to out-learn competition.
+He’s clear:
+“If you’re naive but not a fast learner, that will be a disaster. If you’re a fast learner but not naive, you’re not ambitious enough.”
+For founders chasing early-stage success, the message is simple yet profound: don’t interrogate whether you can win. Investigate whether you can learn fast enough to change the game. Your edge comes from being the newcomer who learns smarter, adapts quicker, and outpaces the rest.
+Listen to the episode →
+Startup Corner: Joshu
+Logo
+Digital insurance is evolving fast. In a recent partnership announcement, Joshu joined forces with Herald to enable insurers and MGAs to launch and distribute digital insurance products faster than ever.
+The integration allows Joshu’s no-code underwriting and distribution platform to connect to Herald’s multi-carrier API network, cutting time-to-market significantly and giving smaller carriers access to broader digital channels. In a crowded marketplace, speed, flexibility and execution become the edge, not just the idea.
+Learn more →
+Community Involvement: The Ocean Cleanup
+Logo
+Adam Draper is proud of his support for The Ocean Cleanup, a non-profit engineering organisation aiming to rid the world’s oceans of plastic waste through tech-driven solutions. Founded in 2013, The Ocean Cleanup has developed systems to both intercept litter in rivers (which account for ~80% of plastic entering oceans) and extract legacy plastic from ocean gyres. Their goal is to remove 90% of floating ocean plastic by 2040.
+Learn more
+
+Newsletter #62: Venture Forward, Endeavor, PAXAFE: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+VC-backed businesses have created jobs and driven innovation across the world for decades. However, getting into the industry as an investor remains elusive. My own journey over the past couple of decades is an example of a non-traditional path. As the variety of entrepreneurs increases, and opportunities for startup innovation expands, new types of VCs are entering the market. 
+
+My guest in the next podcast episode is Maryam Haque who leads an organization to support venture capital investors entering the industry to create VC firms. 
+
+For decades, VC-backed businesses have been the engines of job creation and innovation worldwide. Yet, breaking into the industry as an investor has remained a challenging feat. My own two-decade journey serves as an example of the power of a non-traditional path. As the entrepreneurial landscape diversifies and startup opportunities explode, a new breed of VCs is emerging, ready to shape the future.
+
+In our new podcast episode, I'll speak with Maryam Haque, a trailblazer who leads an organization dedicated to empowering new venture capital investors to build their own firms and make their mark on the industry.
+
+New Podcast: Make the Positive Power of Venture Capital Reach All Communities
+Quote
+My guest in episode 175 is Maryam Haque, Founding Executive Director of Venture Forward, an organization on a mission to make the venture capital ecosystem more diverse, equitable, and inclusive.
+Maryam brings a thoughtful, data-driven lens to how VC can be a positive force for progress, going beyond funding startups to building communities and enabling opportunity. Drawing on her experience at the National Venture Capital Association (NVCA) and her work leading Venture Forward, she shares how education, research, and advocacy are helping redefine who gets to participate in venture.
+Maryam also discusses the role of mentorship, representation, and storytelling in shaping the next generation of fund managers and founders. Her insights remind us that capital alone doesn’t change the world; people with purpose do.
+Listen to the episode →
+Connected Insights: Global Impact from Home
+Quote
+In episode 161, Allen Taylor, Managing Partner at Endeavor Catalyst, was my guest. Allen shares how global thinking can start right where you are. Having backed entrepreneurs in over 40 markets, he emphasizes that innovation is borderless, and thriving ecosystems depend on local champions who can connect their communities to the world.
+Allen talks about the importance of fostering trust-based networks that transcend geography and capital flow, and how mission-driven investors can amplify impact by supporting companies that build where they live but think globally from day one.
+Like Maryam Haque in episode 175, Allen believes the future of venture lies in connection and inclusion; in creating bridges between capital, talent, and communities for long-term, global good.
+Listen to the episode →
+Startup Corner: PAXAFE
+Logo
+Foodbev’s Startup of the Month spotlight shines on PAXAFE, a company redefining supply chain visibility through AI-powered predictive intelligence.
+Recognized by FoodBev for its groundbreaking work in logistics and risk management, PAXAFE is transforming how perishable goods are monitored and protected in transit. Its B2B SaaS platform, CONTXT, contextualizes active and passive visibility data to quantify risk, predict delays, and prevent product loss.
+By turning fragmented data into actionable insight, PAXAFE helps shippers and service providers operate smarter, reduce waste, and improve sustainability. As global logistics face increasing complexity, the company’s approach to operationalizing visibility is not just timely, it’s essential.
+Learn more →
+Community Involvement: PBS
+Logo
+Beyond her leadership at Venture Forward, Maryam Haque is a strong advocate for expanding access to education and opportunity—values she sees embodied in PBS (Public Broadcasting Service).  As she shared in her conversation with Gopi Rangan, PBS stands out as a nonprofit model for impact at scale—bringing learning, culture, and storytelling into millions of homes. Through programs like PBS Kids and acclaimed documentaries, the organization helps people of all ages stay curious and connected.  For Maryam, PBS represents the same ideals that drive her work in venture capital: equity, knowledge, and community empowerment. It’s a reminder that innovation and education go hand in hand—and that real change often starts with the power to learn and share.
+Learn more
+
+Newsletter #61: Sierra, Conscience VC, Ava: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+Building a successful venture capital firm is incredibly challenging, with only a rare few achieving generational transition to last for decades. Even fewer of these firms remain disciplined enough to focus exclusively on early-stage investments, resisting the allure of larger funds. Sierra Ventures distinguishes itself as a leader in this market due to its unwavering commitment to early-stage VC.
+
+In my latest podcast episode, I sit down with Tim Guleri, one of Sierra Ventures' three Managing Directors. We delve into his unique investment style, exploring specific startup investment examples and the signals he looks for during initial meetings.
+
+
+New Podcast: Raise the right amount of funding
+Quote
+My guest in episode 174 is Tim Guleri, Managing Director at Sierra Ventures. After more than 25 years in venture capital (and a $3B founder exit before that), Tim still wakes up energized by one thing: meeting glass-half-full founders who want to change the world.
+In this episode, Tim shares timeless lessons from his journey:
+Authentic customer insight beats polished decks. He backed legal-tech startup Eudia not because of slick slides, but because the CEO ran 100+ customer interviews to truly understand pain points. 
+Capital is a commodity, but trust is rare. The real differentiator in venture is the partner who shows up when things get hard. 
+AI has 100x’ed B2B opportunities, but capital efficiency, smart regulation, and fundraising discipline are what make companies enduring, not oversized checks.
+Tim’s conviction is clear: venture is a long game, and enduring companies are built on insight, discipline, and trusted relationships.
+Listen to the episode →
+Connected Insights: Build 12 months of barrier to entry
+Quote
+In episode 96, my guest was Ariana Thacker, founding partner at Conscience VC. Ariana shares her litmus test for investing: technical defensibility and a 12-month barrier to entry. She looks for founders who are resourceful, problem-obsessed, and building moats that competitors can’t easily cross, rather than those chasing short-term validation.
+Her advice reinforces a timeless lesson: the strongest companies are built with discipline and defensibility, not oversized checks or inflated hype.
+Listen to the episode →
+Startup Corner: Ava
+Logo
+Fintech startup AVA is reimagining how people build credit. With its Ava Credit Builder Card, the company now reports activity to major credit bureaus within 24 hours; a dramatic improvement over traditional monthly cycles.
+Its promise is simple: no hidden fees, no interest, just fast, fair reporting with transparent membership pricing. Beyond the product, AVA is investing in education, publishing guides like “What a 700 Credit Score Really Means” to help users sustain financial health once milestones are achieved.
+With speed, fairness, and clarity, AVA is making the path to stronger credit more accessible than ever.
+Learn more →
+Community Involvement: American India Foundation
+Logo
+Beyond venture capital, Tim Guleri channels his energy into philanthropy with the American India Foundation (AIF). The nonprofit supports over 350 NGOs across India, tackling systemic issues in education, livelihood, and public health.
+As Tim notes, his work with AIF is a way to “give back” to the community and country that shaped his early life. With more than $350 million raised, AIF has become a lifeline for underserved populations, empowering individuals with resources and opportunities to thrive.
+For Tim, impact isn’t limited to financial returns. It’s also about strengthening communities and building a foundation for broader social progress.
+Learn more
+
+Newsletter #60: 8VC, Lobby Capital, MileAuto: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+
+Successful founders understand that their interactions are part of a long-term game. They recognize that some individuals they encounter will offer immediate value, such as making investments, offering advice, becoming customers, or joining up as employees. However, many others may not be immediately useful but will become immensely useful in the future as partners, employees, investors, customers, or even fellow founders.
+
+These successful founders skillfully leverage immediate assistance while actively cultivating long-term relationships. This crucial skill is often referred to as strategic networking or relationship building.
+
+Bhaskar Ghosh, Partner at 8VC, refers to this as "intentional networking" in my latest podcast episode.  He advises founders to approach each conversation with investors as a potential partnership, rather than just a pitch.
+
+New Podcast: Learn the art of intentional networking
+Quote
+My guest in episode 173 is Bhaskar Ghosh, Partner at 8VC. At the heart of our conversation is his unique “geometry framework” for assessing go-to-market strategy for enterprise startups, which balances persona, product, and budget.
+Bhaskar also emphasizes the role of intentional networking in building successful careers and companies. He urges founders to approach relationships as partnerships, not pitches, focusing on service and long-term alignment instead of short-term transactions. He also talks about why managing uncertainty is the core skill in zero-to-one journey, and shares insights on the opportunities in generative AI and data infrastructure.
+Listen to the episode →
+Connected Insights: Venture capital is ultimately a relationship business
+Quote
+In episode 159, my guest was David Hornik, founding partner at Lobby Capital. David has built a career investing in game-changing companies by focusing on trust, empathy, and authenticity—often supporting founders long before formal investments are made. He believes that venture capital is ultimately a relationship business, not a transaction business. David shares his take on what makes a startup truly investable and why understanding a problem deeply is more valuable than chasing market trends.
+Bhaskar’s and David's perspectives reinforce a timeless principle: in startups and venture capital investing, genuine relationships aren’t just helpful—they’re the foundation of lasting success.
+Listen to the episode →
+Startup Corner: Mile Auto
+Logo
+In an oversaturated auto insurance market, Mile Auto stands out with a pay-per-mile model that emphasizes fairness, precision, and privacy. Instead of relying on invasive telematics, Mile Auto uses a simple but powerful system—customers snap a quick dashboard photo to log mileage.
+CEO Fred Blumer explains that the future of insurance lies not in competing solely on price, but on precision and trust. Drivers logging fewer miles can save 30–40%, while insurers gain a smarter, more cost-efficient way to manage risk.
+This innovation brings control back to consumers, making insurance transparent, fair, and tailored to real usage.
+Learn more →
+Community Involvement: Society for Arts and Culture of South Asia (SACSA)
+Logo
+Beyond venture capital, Bhaskar is passionate about community and arts. Through his involvement with the Society for Arts and Culture of South Asia (SACSA), he supports programs that promote South Asian heritage and foster cross-cultural dialogue.
+SACSA co-sponsors Ragas Live, a 24-hour Indian classical and sacred music festival hosted at New York’s Pioneer Works. The event unites musicians from India, Pakistan, the Middle East, and beyond, celebrating the power of music to transcend borders and bring people together.
+Bhaskar’s commitment to SACSA reflects his belief that connection isn’t just professional—it’s cultural, artistic, and deeply human.
+Learn more
+Newsletter #59: Foundation Capital, Ulu, Honeycomb: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+
+Typos on a slide deck are not a concern for me, and I prefer engaging with entrepreneurs in the early stages of their pitch deck development. However, the conventional pitch deck remains a significant tool for many venture capitalists. It serves effectively as pre-meeting reading or post-meeting review material. The critical aspect is the seamless alignment of your narrative, actual presentation, and the deck itself, ensuring clarity and comprehension. The deck should amplify your message, not obscure it. When founders articulate their vision and value proposition cogently to investors, their "reality distortion field" begins to crack.
+
+Listen to the new podcast episode with Zach Noorani at Foundation Capital. He articulates the role of a slide deck in the fundraising process. 
+
+New Podcast: Don’t Ditch the Pitch Deck
+Zach’s headshot
+My guest in episode 172 is Zach Noorani, Partner at Foundation Capital. Zach digs into what he considers the venture deal-maker’s real assessment: differentiation. The standout companies are those whose founders showcase authentic insights, relentless learning velocity, and a clear perspective on how they’re fundamentally unique.
+Zach also makes a compelling case for keeping—not discarding—the classic pitch deck. He argues that even in today’s world of polished, conversational pitches, decks are invaluable tools to structure complex narratives and reduce cognitive load during founder-investor discussions.
+Drawing on over a decade in early-stage investing within fintech and enterprise, Zach brings a nuanced view that combines human connection, strategic communication, and deep conviction.
+Listen to the episode →
+Connected Insights: Decks, Data, and Decision Clarity
+Quote
+In episode 21, my guest was Clint Korver, cofounder at Ulu Ventures. Clint shares his structured, data-informed take on reducing bias: mark every pitch with a “Vulcan mind-meld market mapping session.” Clint believes that thoughtful frameworks can help VCs distinguish between noise and meaningful opportunity. He also emphasizes that entrepreneurs and VCs alike should write down decision criteria upfront to avoid letting bias decide outcomes.
+Both Zach (episode 172) and Clint (episode 21) spotlight how disciplined storytelling, whether through pitch decks or analytic frameworks, combined with clear, bias-aware decision making, strengthens founder-edge and investor conviction.
+Listen to the episode →
+Startup Corner: Honeycomb
+Logo
+Honeycomb is pushing the boundaries of insurtech with Honeycomb Specialty, its non-admitted insurance program, now expanded across all 18 states where the company operates. More importantly, per-policy insured limits have ramped up from $10 million to $25 million.
+In an industry wrestling with capacity and underwriting challenges, Honeycomb's AI-powered underwriting and computer vision platform allows it to underwrite properties previously deemed too risky. The unified platform enables customers to manage both admitted and specialty coverage in a single workflow.
+With this expansion, Honeycomb continues transforming the market by making insurance faster, fairer, and more data-driven.
+Learn more →
+
+Newsletter #58: USVP, Upfront, Insurate: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Today’s startups can reach customers anywhere in the world. But with AI and rapid tech adoption leveling the playing field, “technology advantage” has become an illusion. The real battleground is execution.
+Execution means ruthless focus on your niche, your target market, and nailing product–market fit. Yet the biggest threats to that focus aren’t always obvious. In this episode, my guest Jacques reveals how flattering inbound interest can quietly derail your market entry strategy.
+In a previous conversation with Mark Suster, we explored another hidden edge: deep, intentional relationship-building with investors. Founders who take the time to explain their value proposition and market dynamics earn more than funding. They build the trust they’ll need when the pressure’s on.
+I am also excited to share a new program I plan to launch for founders in the INSEAD community: Doriot’s Disruptors. Here is the link to apply to the program. Please share with founders in the INSEAD community. Interested entrepreneurs are welcome to join one of the information webinars on Aug 12 at 5 pm PT or Aug 14, 9 am PT.
+
+
+
+New Podcast: Your Biggest Danger Is an Inbound
+Quote
+My guest in episode 171 is Jacques Benkoski, General Partner at U.S. Venture Partners.  Jacques, a seasoned VC with a background as a CEO and operator, challenges startup myths and highlights how focus, not speed, leads to lasting category leadership.
+Drawing on decades of experience, Jacques unpacks the noise of today’s venture ecosystem and shares a structured framework for market entry that rejects randomness. He illustrates this with an example: a cybersecurity startup that won by zeroing in on medical devices (a high-value, focused niche) rather than casting a wide net.
+Jacques also opens up about the psychological toll of entrepreneurship, reminding founders that what they need most isn’t just capital but a thought partner; someone who helps them reflect, regroup, and keep perspective.
+Listen to the episode →
+Connected Insights: Build genuine relationships with venture capital investors
+Quote
+In episode 83, my guest was Mark Suster, General Partner at Upfront Ventures. Mark brings a valuable lesson: founders must prioritize building genuine relationships before fundraising. Suster believes that cultivating trust and understanding the venture from both sides results in better alignment and partnerships, not just checks.
+Like Jacques in episode 171, Mark highlights how startups can thrive by slowing down to build clarity and connection rather than rushing toward capital or unfiltered pushback. Financial success follows strategic patience and relational depth; not the other way around.
+Listen to the episode →
+Startup Corner: Insurate
+Logo
+Insurate is revolutionizing workers' comp insurance by using AI and data to reward safety. In a space often burdened by outdated actuarial models, Insurate’s Propensity Safety Score™ provides a forward-looking measure of risk, helping safe businesses get the premiums they deserve.
+A new partnership with Markel Insurance brings this tech-driven underwriting approach to even more employers, reducing costs and improving outcomes for frontline industries like construction, manufacturing, and transportation.
+With a simple premise—“the safer you are, the less you pay”—Insurate is bringing fairness and insight to commercial insurance.
+Learn more →
+Community Involvement: Technion
+Logo
+Beyond venture capital, Jacques Benkoski serves on the board of his alma mater, Technion (Israel’s top technical university). He also actively supports nonprofits focused on fostering connection in conflict zones. Jacques advocates for cross-border dialogue and engagement especially between individuals with long histories of political tension.
+In a striking example, he once brought a Syrian CEO to a conference in Israel. It was a gesture that changed perspectives and built new bridges.
+In his own words, “People need to know each other… and forgetting the conflict, see what could be done.”
+Learn more
+
+Newsletter #57: Tau Ventures, Insight Partners, Joshin: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+At Sure Ventures, our core mission is to empower individuals with peace of mind, and we believe true peace of mind begins with good health. Unfortunately, the current healthcare landscape is riddled with inefficiencies and challenges. It's time for innovative solutions to disrupt the status quo. The U.S. healthcare industry is a colossal force, reaching approximately $4.9 trillion in 2023 and accounting for a staggering 17.6% of our nation's GDP. It's one of the largest sectors in the U.S. economy, and its growth is projected to outpace overall GDP in the coming decade. The sheer scale of this opportunity is immense. While our primary focus remains on insurance and banking, we are keenly exploring groundbreaking opportunities within healthcare.
+
+Amit Garg offers a transformative vision for healthcare, advocating for a fundamental shift from treating sickness after the fact to actively building better health from the ground up. While Amit and I talk about the need for revolutionary changes in health in the new podcast episode, Scott Barclay and I talk about improving existing systems in healthcare using advanced technology. Take a listen.  
+
+
+
+New Podcast: From Sick Care to Healthcare
+Quote
+My guest in episode 170 is Amit Garg, Managing Partner at Tau Ventures. Amit explains why today’s healthcare system is more of a “sick care” system and how startups can change that. He draws on over 25 years of experience in healthcare and AI to argue that fixing the system starts with improving access, equity, and prevention.
+Amit breaks down how VCs can support entrepreneurs in creating lasting change; by backing mission-driven founders who understand that real health outcomes come from personalized, tech-enabled care. He also discusses investing with both heart and analytical rigor, offering practical advice on what makes a healthcare startup truly venture-backable.
+
+Listen to the episode →
+Connected Insights: Where Empathy Meets AI in Healthcare
+Quote
+In episode 123, my guest was Scott Barclay of Insight Partners. Scott emphasizes one key insight: don’t get distracted by the hype around AI but focus on real patient outcomes.
+A former pharmacist and now investor, Scott argues that the biggest breakthroughs in health tech won’t come from better algorithms alone. They’ll come from founders who understand clinical workflows, respect care teams, and center the patient experience. Like Amit Garg in episode 170, Scott emphasizes that empathy must drive how we use AI in healthcare. 
+Both guests offer a grounded and visionary look at how technology, applied with care, can fix what’s broken in healthcare and move us from reactive “sick care” to proactive, scalable health systems.
+Listen to the episode →
+Startup Corner: Joshin
+Logo
+Joshin, a startup providing disability and neurodivergent support services, just announced a major partnership with CuraLinc Healthcare, an industry leader in behavioral health solutions. The collaboration will bring personalized coaching, care navigation, and inclusive support to CuraLinc’s client organizations—benefiting employees, caregivers, and HR teams alike.
+This is a big moment for inclusive workplace wellness. By integrating Joshin’s strengths-based platform into employer benefits programs, CuraLinc is making mental health and neurodiversity support more accessible, more holistic, and more human.
+Learn more →
+Community Involvement: Hospital for Hope
+Logo
+Beyond his work in venture capital, Amit Garg dedicates time and resources to Hospital for Hope, a nonprofit he co-founded that brings healthcare to underserved villages in rural India.
+The organization built and operates a primary healthcare center in Jharkhand—serving thousands of patients who otherwise lacked access to basic medical care. With a sustainable model and community-led approach, Hospital for Hope is a powerful example of how entrepreneurial thinking can make global health impact.
+Learn more about Hospital for Hope
+
+Newsletter #56: Practical Venture Capital, Upekkha, Lumber: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Ever wondered what happens when an early-stage VC spills the beans? Well, wonder no more! I recently sat down with the insightful Patrick Mork on his new podcast show, "Mork Unfiltered." We dove deep into my experiences with over 100 founders, covering everything from my own missteps in venture capital to actionable tips for founders to get the most out of working with VCs like me. Get ready for some honest reflections, hard-earned lessons, and a few personal stories that might just surprise you. Tune in to our candid conversation here!
+
+And speaking of influential voices, on The Sure Short Entrepreneur podcast, I had the pleasure of chatting with none other than Silicon Valley legend Dave McClure! He's a true pioneer in the VC secondaries market, a segment that's become a cornerstone of our vibrant ecosystem. You won't want to miss his insights!
+
+New Podcast: Secondaries are Essential for the Venture Capital Market
+Quote
+My guest in episode 169 is Dave McClure, founder of Practical Venture Capital and co-founder of 500 Startups. With decades of experience from the PayPal mafia to launching one of the most influential accelerators, Dave shares a fresh perspective on why secondary transactions have become a critical component of today’s venture ecosystem.
+He explains how extended liquidity timelines, delayed IPOs, and investor fatigue are increasing the relevance of secondaries. Dave breaks down different types of deals (GP-led, direct company-level) and what he looks for in investments: companies with $50–100 million in revenue and a clear path to exit in 3 to 5 years. He also warns against overhyped valuations and emphasizes the importance of disciplined deal-making.
+🎧 Listen to Dave’s perspective on how secondaries are reshaping venture capital.
+Listen to the episode →
+Connected Insights: Take Advice from the Right People at the Right Time
+Rajan headshot
+In episode 150, my guest was Rajan Maruthavanan of Upekkha. Rajan offers a complementary perspective on alternative exit strategies. With over 120 pre-seed SaaS investments under his belt, Rajan shares how he supports founders through M&A by emphasizing stakeholder alignment, strategic timing, and peer-informed decision-making, rather than reactive moves.
+While Dave McClure, in episode 169, underscores the growing role of secondary share sales, continuation funds, and creative deal structures in a world of extended liquidity timelines, Rajan brings the founder’s lens, emphasizing operational nuance and timing.
+Together, these episodes present a candid, multi-layered look at how venture capital players can navigate and shape modern liquidity paths.
+Listen to the episode →
+Startup Corner: Lumber
+Logo
+Lumber, an AI-powered workforce management platform for the construction industry, is addressing one of the industry’s biggest problems—labor inefficiency, which costs the U.S. economy $30–40 billion a year.
+In its recent acquisition of BuilderFax, Lumber introduced digital credentialing to simplify how contractors validate labor skills. Workers can now manage their credentials via a free wallet, and project leads can verify them instantly. Combined with Lumber’s AI-driven payroll, time-tracking, and gamification tools, this solution brings transparency and productivity to every job site.
+Lumber isn’t just optimizing workflows. It’s making the construction workforce smarter, faster, and more empowered.
+Learn more →
+Community Involvement: New Story Homes
+Logo
+Outside of venture capital, Dave McClure champions New Story Homes, a nonprofit dedicated to solving the global housing crisis. The organization builds 3D-printed communities in Latin America using modern technology and radical transparency.
+Dave admires how New Story approaches housing the same way startups tackle software problems by building scalable, data-informed, and human-centered solutions. With 100% of donations going directly to construction (thanks to operational support from dedicated “Builder” donors), New Story has already helped more than 14,000 people find safe, permanent homes.
+Their work is a powerful example of how innovation and empathy can meet real-world needs.
+Learn more about New Story Homes
+
+
+Newsletter #55: FTW Ventures, Future Ventures, Juno: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Small funds are crucial in shaping the future of venture capital. As a fellow micro VC fund manager, I appreciate highlighting the work of my peers. Brian at FTW, for instance, clearly defines his firm's role and its collaborative approach to supporting founders. I strongly resonate with his ethos in building a new venture capital firm, and his insights on innovation within the food system provide ample food for thought. 
+
+New Podcast: A Better Food Future Starts with Founders Who Get It
+Quote
+My guest in episode 168 is Brian Frank, founding partner at FTW Ventures, a venture fund investing in bold founders transforming food and health. Brian believes the global food system is broken and that entrepreneurs who deeply understand food, science, and supply chains hold the key to fixing it.
+In this episode, Brian shares what he looks for in founders: not just great ideas, but true obsession with the problem. He dives into why foodtech startups need to be system thinkers balancing sustainability, nutritional impact, and scalability. We talk about emerging frontiers like food-as-medicine, AI in agriculture, and climate-aligned ingredients.
+Brian’s message is clear: to build a better food future, we need founders who are obsessed with the long game.
+Listen to the episode →
+Connected Insights: Food, Health, and Deep Care; Investing for a More Resilient Future
+Quote
+In episode 92, my guest was Maryanna Saenko, co-founder of Future Ventures. Maryanna shares her belief that investing should be grounded in deep care for the planet, for people, and for long-term wellbeing. Like Brian Frank, Maryanna sees food and health as fundamentally intertwined, and she urges investors to back companies that don’t just follow trends but solve real, systemic problems.
+Maryanna discusses how nutrition and metabolomics can influence everything from immune health to cancer care. Her firm has backed startups rethinking agriculture, the microbiome, and even bee health. What ties these investments together isn’t just potential for scale, but impact. Like Brian, she prioritizes founders who are mission-driven and deeply curious.
+What kind of world are we building through the companies we build and/or support?
+Listen to the episode →
+Startup Corner: Juno
+Logo
+Juno is pioneering a new category in insurance: child disability insurance, created specifically for working families. Their mission is simple but revolutionary: provide families with the financial stability and support they need when raising a child with a disability. In a deeply moving LinkedIn post, Juno’s Chief of Staff, Ashley Spiess, shares how her experience raising a son with a disability inspired her to help build what she wished had existed. Her story is a reminder that the best innovation often comes from lived experience.
+Most recently, Juno partnered with global professional services firm Davies to offer its coverage to Davies' U.S. employees, marking the first time a solution like this has been made widely accessible within a corporate benefits package. It’s a major milestone that underscores how forward-thinking employers are embracing inclusive, family-centered benefits.
+Learn more about Juno →
+Community Involvement: World Central Kitchen
+Logo
+Outside the venture capital world, Brian Frank is a passionate backer of World Central Kitchen, a nonprofit founded by Chef José Andrés that delivers meals to communities impacted by natural disasters, conflict, and emergencies. The organization combines rapid, on-the-ground responsiveness with a mission to nourish.
+World Central Kitchen’s work is often referenced as a model for social entrepreneurship: fast, efficient, and deeply caring. Just as Brian’s VC firm applies first principles to rebuild our food system, World Central Kitchen applies heart and action to rebuild communities when they need it most. In Brian’s view, investing in impact, whether through capital or compassion, is central to making a more resilient global food ecosystem.
+Learn more
+
+Newsletter #54: SAIF, Mayfield, FirstShift: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Human centric technology is going to win. It is difficult to see the underlying landscape which has so many shiny new things crop up every single day. One way to look at it is via the lens of previous booms so that we can see the patterns through the dust clouds. Many companies rose during the dot com boom. Most of them died. The notable exceptions are companies like Amazon, Google, eBay etc. Amazon cultivated user trust assiduously, year after year. Their obsession with customer experience was second to none. That helped the customers change behaviors and opt for ecommerce. eBay built out mechanisms of trust to establish its marketplace. Buyers and sellers were advantaged by the underlying technology without none of the complexity. Google made it simple to consume the rapidly growing internet of information. Users were thrilled to have all the complexity of concept matching be hidden behind a simple text box. In a way we have come full circle, back to the text prompt. 
+
+AI companies that do all of this: establish trust, behave responsibly, abstract out complexity, build out responsible technology will stand the test of time. That is what investors are looking for. In my podcast this week Geoff Ralston highlights this. A few weeks ago, my conversation with Vijay Reddy hit on similar themes.
+
+—----------
+
+Human-Centric Technology Will Win. In a world flooded with shiny new innovations each day, it’s easy to lose sight of what truly matters. One helpful way to cut through the noise is to revisit past innovation booms and look for patterns that stood the test of time.
+
+During the dot-com era, countless companies emerged—and most vanished. But a few exceptional ones endured: Amazon, Google, eBay. What set them apart? A deep commitment to user-centric design and trust.
+
+Amazon relentlessly earned customer trust and redefined consumer behavior around e-commerce. eBay built elegant mechanisms that fostered trust in peer-to-peer transactions, making technology feel invisible. Google turned the overwhelming sprawl of the internet into a single, simple text box—powerful, yet effortless to use.
+
+Today, as we navigate the rapid rise of AI, we’ve come full circle—to another text prompt. And again, it’s the human-centered companies that are poised to lead. The winners will be those that earn trust, behave responsibly, abstract away complexity, and build with intention. That’s what thoughtful investors are looking for.
+
+This week on my podcast, Geoff Ralston shared sharp insights on this very idea. A few weeks ago, Vijay Reddy echoed similar themes in our conversation. 
+
+New Podcast: Stop What Could Go Wrong and Build a Safer AI Future
+Quote
+My guest in episode 167 is Geoff Ralston, founder of the Safe Artificial Intelligence Fund (SAIF) and former President of Y Combinator. Geoff shares why he believes we’re entering a new era where AI systems act less like tools and more like autonomous cognitive agents. He outlines the most pressing risks in AI—ranging from biosafety and misinformation to interpretability—and explains why early-stage investments in safety, security, and governance are essential for building a better future. Geoff also offers practical advice for founders building in the AI space, emphasizing the importance of aligning product-market fit with long-term safety and social responsibility.
+Listen to the episode →
+Connected Insights: Engage With Customers Sooner Than Later When You Build AI Solutions
+Quote, Guest headshot
+In episode 139, I spoke with Vijay Reddy, partner at Mayfield, who emphasized a foundational principle: start with real-world problems before letting AI serve as a solution. Vijay described Mayfield’s people-first ethos—investing in founders who combine domain expertise with cutting-edge AI skills—and urged entrepreneurs to begin with customer obsession, not a tech-first mindset. His focus on cognitive plumbing and Cognition-as-a-Service, where AI acts as a co‑worker rather than just a tool, underscores that thoughtful design, aligned with user and societal needs, yields stronger, more responsible AI ventures.
+Listen to the episode →
+Startup Corner: FirstShift
+Logo
+Firstshift, a pioneer in AI-powered supply chain planning, recently launched Pluto, a generative AI copilot designed to transform how planners make decisions. Available in both natural language mode and a query-builder interface, Pluto allows users to ask complex questions in plain English—or build detailed queries with guided prompts—to instantly generate actionable insights with charts and diagnostics. As Firstshift CEO Hari Menon notes, Pluto empowers teams to respond to demand shifts, disruptions, and inventory challenges “with greater speed and precision,” without needing additional staff or technical expertise. With AI assisting supply chain teams—from demand sensing to integrated business planning—Pluto is setting a new standard in operational agility and resilience.
+Learn more about FirstShift →
+Community Involvement: AI Venture Lab
+Logo
+Geoff Ralston also serves as a mentor and advisor at AI Venture Lab, INSEAD’s flagship program designed to help early-stage founders worldwide—from ideation to demo-ready ventures—by combining new frameworks, peer study groups, and masterclasses led by global mentors and AI experts. The Lab’s mission is twofold: empower entrepreneurs to build, test, and scale AI-powered businesses, and generate research-backed insights on how AI is transforming venture creation for policymakers, managers, and investors. 
+Learn more
+
+
+
+Newsletter #53: at.inc/, Haystack, BalkanID: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+I’ve been teaching entrepreneurship at INSEAD for 10 years. Around 1,000 students have gone through my courses, and one of them - Building Businesses in Silicon Valley - has become a top elective.
+My mission is simple: I want to show students that entrepreneurship isn’t just a dream, it’s a real, rewarding career path. There’s nothing better than working with bright, ambitious minds and helping them take their first steps toward building something meaningful.
+Lately, I’ve seen more students get excited about transforming big, essential industries like insurance, healthcare, and supply chain. That kind of energy is contagious, and it gives me hope for what’s coming next.
+In this clip, Professor Claudia Zeisberger highlights a comment I made about why students at top schools should seriously consider entrepreneurship. Take a look. It might just spark something for you too.
+New Podcast: Don’t Just Pitch; Connect with Investors Through Vision
+Quote, Guest headshot
+My guest in episode 166 is Nadav Eylath, founder of at.inc/—a venture capital firm that invests at the very inception of startups. Nadav shares his philosophy on early-stage investing, emphasizing trust, long-term thinking, and technical rigor. He poses thought-provoking questions like, “What kind of company will this be in 30 years?” to encourage deeper reflection and alignment between founders and investors. Nadav also delves into how venture capital needs to evolve, advocating for a flexible, founder-first approach.
+Listen to the episode →
+Connected Insights: Imagine a Future Without Fundraising
+Quote
+Semil Shah, General Partner at Haystack Ventures, was my guest in episode #105. Semil proposes a thought-provoking exercise for founders: envisioning a future where raising additional capital isn't an option. This mental model isn't about discouraging fundraising but about fostering a mindset of resilience and strategic clarity.
+Semil suggests that by contemplating a no-fundraising scenario, founders can:
+Prioritize Sustainable Growth: Focusing on a business model that doesn’t depend entirely on outside capital encourages operational efficiency and long-term viability. 
+Enhance Decision-Making: Without the safety net of anticipated capital, founders may make more focused, value-driven decisions. 
+Strengthen Investor Relations: A sustainability-first mindset signals to investors that a founder is building a durable, scalable company. 
+This is more than a mental exercise—it’s a lens for better company building. Semil brings sharp, honest insight to every founder conversation, asking tough questions with clarity and care.
+🎧 Hear how Semil engages with founders and why his approach resonates with those building real, enduring businesses.
+Listen to the episode →
+Startup Corner: BalkanID
+Logo
+At RSAC 2025, BalkanID announced its support for the Model Context Protocol (MCP), marking a significant advancement in identity security and access governance for the AI era.
+By integrating MCP, BalkanID enables intelligent agents to detect risks and coordinate responses across enterprises. This unified control surface allows for seamless identity actions and third-party integrations, paving the way for autonomous security workflows.
+Learn more →
+Community Involvement: Tel Aviv University
+Logo
+Beyond his role as founder and managing partner at at.inc/, Nadav Eylath maintains a strong connection to Tel Aviv University, his alma mater. His involvement underscores a dedication to fostering education and innovation within the academic community.
+Nadav's engagement with the university reflects his belief in the importance of nurturing future generations of entrepreneurs and technologists. By supporting educational initiatives, he contributes to the development of a vibrant ecosystem where academic insights and entrepreneurial endeavors intersect.
+This commitment to education complements Nadav's investment philosophy at at.inc, where he emphasizes long-term vision and trust in early-stage ventures. His dual focus on academia and venture capital illustrates a holistic approach to building and sustaining innovation.
+Learn more
+
+
+Newsletter #52: Kicker Ventures, Village Global, Joshu: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+I had a great time chatting with Prof. Claudia Zeisberger from INSEAD on her podcast recently. She asked some really thoughtful questions that got me reflecting on the state of venture capital today, the rise of AI, and why I’m still incredibly optimistic about the startup world. If you're curious, you can check out the episode here: Inside the Mind of a Top Tech Investor from San Francisco.
+On The Sure Shot Entrepreneur this week, I’m joined by my good friend and fellow INSEAD alum, Tomoko Ishikura. She shares how she invests with purpose and why simply believing in founders can be a powerful force for good. It's a conversation full of heart and insight.
+Podcast Entries: Don’t Suffer to Succeed, A Peaceful Mind Will Take You Further
+Quote, Guest headshot
+My guest in episode 165 is Tomoko Ishikura, Managing Partner at Kicker Ventures. Tomoko shares her journey from a small town in Japan to becoming a venture capitalist in Silicon Valley. Originally trained as a pharmacist and molecular biologist, she found her calling in venture capital through a passion for impact and interdependence.
+At Kicker Ventures, she leads investments in science-backed technologies redefining the future of healthcare. Tomoko shares how their diligence process centers on one key question: how will this solution change the future in a meaningful way? She highlights Kicker’s four pillars of impact—fostering happiness, empowering individuals, amplifying health professionals, and creating connection. She explains how empathy and belief in founders fuel her approach to venture capital investing.
+Listen to the full episode →
+Connected Insights: Intentional, values-driven investing can produce better outcomes
+Quote
+Anne Dwane was my guest in episode #133. Anne is a Partner at Village Global, and her philosophy of being “wholeheartedly committed and thoroughly convinced” when backing founders aligns with Tomoko’s. While Tomoko focuses on science-backed innovations in healthcare, and Anne supports founders of transformative startups across sectors, both emphasize the human side of investing. Anne advocates for building strong founder communities early and not just capitalizing startups but nurturing them through empathy, trust, and meaningful connections. She views VCs as connectors, collaborators, and long-term supporters—more coach than critic. Intentional, values-driven investing can produce better outcomes for both entrepreneurs and society at large.
+Learn more
+.
+Startup Corner: Joshu
+Logo
+Joshu has been named to the 2024 InsurTech100 list by FinTech Global, recognizing its role in digitally transforming the insurance industry. The list highlights the top 100 companies globally leveraging technology to improve insurance operations. Joshu's platform enables insurers to quickly build and launch digital insurance products with minimal IT reliance, enhancing speed-to-market and operational efficiency. CEO Roy Mill emphasized the significance of this recognition in an industry challenged by legacy systems and complex regulations. Selected from over 2,100 nominations, Joshu stood out for its innovation and impact. Recent milestones include partnerships with Workforce Insurance Underwriters and the launch of The Century Club, honoring clients who deployed Joshu’s platform in under 100 days.
+Learn more about Joshu →
+Community Involvement: Kadampa Meditation Center SF
+Logo
+In the podcast episode "Don't Suffer to Succeed, A Peaceful Mind Will Take You Further," Tomoko Ishikura, Managing Partner at Kicker Ventures, expresses her support for the non-profit organization Kadampa Meditation Center San Francisco. She is passionate about this center because it aligns with her belief in the importance of mindfulness and inner peace, especially in the high-pressure world of venture capital and entrepreneurship. Tomoko emphasizes that a peaceful mind can lead to better decision-making and sustainable success, reflecting her commitment to empathy and holistic well-being in both her personal life and professional endeavors.
+Learn more about KADAMPA Meditation Center SF
+
+
+Newsletter #51: Artificial Intelligence, Pruven Capital FUNDA: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+We've published 164 episodes of The Sure Shot Entrepreneur Podcast, featuring conversations with some of the most thoughtful venture capital fund managers. I almost always ask them about their investment thesis and how they build conviction. Every now and then, the roles reverse and I find myself on the other side of the mic.
+In a recent episode of the Product Market Fit podcast with Pablo Srugo, I had the chance to share my own perspective on a question I often ask others: What do I look for in startups at Sure Ventures?
+Now, let’s get into this week’s episode of The Sure Shot Entrepreneur with Mahesh!
+Podcast Entries: Ship Fast, Sell Faster, Validate Deeply
+Quote, Guest headshot
+My guest in episode 164 is Mahesh Ram, a seasoned entrepreneur, early AI pioneer, and former Head of AI at Zoom. In this episode, Mahesh shares lessons from building Solvvy, an AI-native company acquired by Zoom, and how he helped launch Zoom AI Companion globally in record time.
+He reflects on lessons about customer obsession, the importance of rapid iteration, and why perfection can be the enemy of progress. Mahesh emphasizes that shipping speed and early customer validation are the strongest signals of long-term success—especially in today's startup climate where demos are easy, but real traction is rare. His advice for founders is practical and urgent: ship fast, validate fast, and embed yourself deeply in your user’s workflow.
+Listen to the full episode →
+Connected Insights: Look where others are not looking
+Quote
+Ramneek Gupta was my guest in episode 55. He is the founder of Pruven Capital. Ramneek believes that true startup success starts with solving high-value problems and aligning with customer needs. While Mahesh emphasized execution velocity—shipping fast and validating with users early—Ramneek underscores the importance of deeply understanding market opportunities and founder fit before writing a check.
+Ramneek built Pruven Capital to offer both strategic and financial value, showing that institutional backing (from Prudential) can empower startups without slowing them down. He offers a founder-first lens on venture building from a corporate VC’s perspective and emphasizes one idea: the best startups aren’t just solving problems—they’re solving the right ones at the right time.
+Startup Corner: Honeycomb
+Logo
+Insurtech startup Honeycomb recently celebrated a major milestone—$45 billion in insured assets, just four years after launching in 2021. To mark the occasion, the company was featured on the iconic Nasdaq Tower in Times Square, symbolizing its rapid growth and rising influence in the commercial real estate insurance space.
+Honeycomb uses advanced AI and data-driven underwriting to bring speed, transparency, and affordability to multi-family property insurance. Its tech-forward approach enables streamlined risk assessments and quicker policy issuance, redefining how landlords and property managers protect their investments.
+The company’s success signals growing demand for vertical-specific innovation in legacy industries. In a field often slow to evolve, Honeycomb’s rapid traction proves that modern insurance solutions—built with software at their core—can scale with both speed and resilience.
+Explore Honeycomb’s journey →
+Community Involvement: FUNDA
+Logo
+In episode 164, Mahesh Ram shares his deep involvement with FUNDA—a fast-growing, grassroots community designed to support Indian-origin startup founders. FUNDA, short for "Founders Unite to Network, Deal, and Aspire", is built on a simple but powerful principle: pay it forward. The network now includes over 1,250 founders, creating a vibrant space for mentorship, knowledge sharing, and meaningful connections.
+FUNDA is intentionally community-driven. It’s a place where early-stage entrepreneurs get honest feedback from peers who’ve walked the same path. Mahesh, one of the community’s early contributors, believes this kind of support is essential for navigating the highs and lows of startup life.
+Learn more about FUNDA
+
+Newsletter #50: Techstars, Commerce VC, TaskHuman: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+ Series A was originally the first round of funding, which is how it got its name. Today, it is often the fourth or fifth round, following pre-seed, seed, and sometimes even seed extension rounds. It typically represents the bottom of the J curve, just before a startup experiences rapid growth. This makes it a crucial point at the later end of early-stage venture investing.
+
+As the startup ecosystem matured, earlier stages like pre-seed and seed developed to better support founders from the outset. At Sure Ventures, we invest mainly at the pre-seed and seed stages. Accelerators have become a vital part of this evolution, often providing the first structured support to entrepreneurs before institutional capital comes in.
+
+Over the years, I have mentored at more than 20 accelerators, including Techstars, helping guide founders through these early and formative stages. In the new podcast episode, I interview Andrew Cleland, CIO at Techstars. He shares insights from 20 years of supporting 4600 startups. 
+ 
+Podcast Entries: Supporting startups beyond capital
+Quote, Headshot
+My guest in Episode #163 is Andrew Cleland, Chief Investment Officer at Techstars. Andrew delves into the intricacies of early-stage startup investments, emphasizing the significance of a strong technical differentiator. He provides insights into Techstars' selection process, the common pitfalls founders encounter, and the transformative themes shaping the future of venture capital.
+Since 2006, Techstars has invested in over 4,600 startups, helping launch 21 unicorns and guiding 338 successful exits. Through its mentorship-driven programs and a network of 3,700+ mentors, Techstars empowers early-stage founders to build impactful, sustainable companies, making it one of the most influential startup accelerators globally.
+Learn more
+Connected Insights: Build for impact and avoid ‘me-too’ startup ideas
+Quote, Headshot
+In episode #75, my guest was Dan Rosen, Founder of Commerce Ventures. Dan talks about the evolution of fintech over the last two decades. Dan shares real-life examples of innovative fintech entrepreneurs building solutions that touch customers and businesses in a meaningful way, and his thoughts on whether or not now is still a good time to start a company in the fintech space.
+Commerce Ventures actively supports early-stage startups by helping founders gain traction and clarity. The firm runs the Fintech Meetup’s Startup Pitch, a fast-track opportunity for fintech founders to meet peers, investors and strategic partners. Such initiatives amplify promising startups’ visibility and shape their early momentum.
+Listen to the episode
+Startup Corner: TaskHuman
+Logo
+TaskHuman, a personalized coaching platform backed by Sure Ventures, spotlighted their most-loved webinars of 2024—ranging from leadership growth to holistic well-being. These sessions reflect TaskHuman’s mission to provide scalable, one-on-one coaching for employees across industries. Their success demonstrates how digital-first coaching can help individuals thrive personally and professionally, while enabling organizations to build resilient, engaged teams.
+Learn more
+Community Involvement: Magic Bus
+Logo
+[Episode #163] Andrew Cleland shared his enthusiasm for Magic Bus, a nonprofit using activity-based learning to equip children and young people with essential life skills. With a focus on education continuity and employability, Magic Bus guides participants from childhood to livelihood—helping break the cycle of poverty. The organization operates across urban and rural India, reaching over a million young people with support from volunteers, mentors, and strategic partners.
+Learn more
+Newsletter #49: AchieveKids, Y Combinator, Koop: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+ This week, we take a break from interviews with VCs to highlight a non-profit organization close to my heart. As part of Podcasthon’s weeklong initiative, we dedicated this episode to Achieve Kids, a non-public school serving children with special needs.
+
+My connection to special needs education began during graduate school when I was a tutor to understand students with learning disabilities. While the job helped pay for my living expenses, it also gave me a profound window into the United States, which has become home. Since 2010, I have served on the board of Achieve Kids. While I have contributed to the organization, I have gained even more in return by learning about self-advocacy, independence, and the resilience of these incredible students.
+At the end of the day, the wealth and returns generated through venture capital should also serve a greater purpose by supporting organizations that uplift our communities. If we don’t, who will?
+This week, I sit down with Stephen Crook, Executive Director at Achieve Kids, to discuss his journey and ambitious plans for the school. Don’t miss this special episode.
+  
+Podcast Entries: Special Education and the Transformative Impact of AchieveKids
+Quote
+Stephen Crook, Executive Director of AchieveKids, is my guest in Episode #162. AchieveKids is a nonprofit special education school serving students with complex learning and behavioral needs.
+Stephen shares his journey from teaching to leading an organization that provides individualized education, mental health services, and vocational training to students aged 5-22. He discusses how AchieveKids partners with school districts to create learning environments that empower students to transition back to public schools or independent living.
+We explore the challenges and rewards of special education, the role of nonprofit schools, and why investing in education for students with special needs has long-term community impact.
+Listen to our new podcast episode
+Connected Insights: Investing in Education
+Quote
+In episode #33, Geoff Ralston, former president of Y Combinator, shared his deep commitment to education, having founded Imagine K12, the first EdTech accelerator, and backed transformative startups like ClassDojo and Remind. He emphasized that investing in education is an obligation, not just an opportunity, as schools struggle to keep pace with the needs of 21st-century learners.
+Geoff advocates for long-term educational reform—whether through technology-driven solutions or hands-on, specialized support—to create greater opportunities for students across all backgrounds.
+Listen to the episode
+Startup Corner: Koop
+Logo
+On February 24, 2025, Koop Technologies introduced Housekeeper, an AI agent designed to automate compliance, security, and insurance tasks for tech companies. Housekeeper streamlines data collection, configures settings to align with best practices, and supports major compliance frameworks like SOC 2, ISO 27001, and HIPAA.
+The AI agent reduces manual compliance effort by 95%, shortens security audits from weeks to hours, and cuts compliance-related costs by up to 60%. Housekeeper also automates processes for various insurance types, including General Liability and Cyber Liability, ensuring seamless risk management.
+Matt Wyman, Co-Founder & CEO of Okareo, praised Housekeeper’s ability to reinvent compliance. Sergey Litvinenko, CEO of Koop, emphasized how automation enables companies to achieve and maintain trust effortlessly.
+Learn more about Koop
+
+
+Newsletter #48: Endeavor, Slipstream, PAXAFE: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+ Silicon Valley remains the world's innovation hub, driven by an unmatched spirit of entrepreneurship. However, over the past few decades, vibrant startup ecosystems have emerged across the U.S. and around the globe, nurturing entrepreneurship and producing remarkable companies. While Silicon Valley still leads by a wide margin, I’m always on the lookout for visionary founders across the U.S. In this episode, listen to Allen Taylor as he shares his mission to build thriving communities in emerging innovation hubs worldwide. 
+ 
+Podcast Entries: Allen Taylor on Scaling Global Entrepreneurship with Endeavor Catalyst
+Quote
+My guest in Episode #161 is Allen Taylor, Managing Partner at Endeavor Catalyst. Allen shares his journey from studying in Argentina to nearly 20 years at Endeavor, where he’s helped scale entrepreneurial ecosystems across 45+ countries.
+Allen discusses Endeavor’s unique mission—identifying and supporting the most promising entrepreneurs in emerging markets and helping them build globally successful businesses. He also explains how Endeavor Catalyst, their venture capital fund, supports these founders with capital once they hit critical scaling stages.
+We dive into the philosophy of betting on remarkable individuals in overlooked regions and why investing outside Silicon Valley is not just impactful but can deliver top-tier returns. Allen’s insights provide a refreshing, global perspective on venture capital and the power of nurturing entrepreneurship where it’s needed most.
+Listen to our new podcast episode
+Connected Insights: Supporting Emerging Talent, Whether Founders or Fund Managers
+Quote
+In episode #113, my guest was Alex Edelson, founder of Slipstream Investors. Alex shared his strategy for identifying and backing emerging venture fund managers—individuals with unique expertise, networks, and insights who can generate outsized returns despite limited track records. Alex emphasized the importance of finding managers with personal strengths and deep domain knowledge that give them an edge in sourcing, selecting, and supporting founders.
+This philosophy closely parallels Allen Taylor’s approach at Endeavor Catalyst, where he focuses on backing extraordinary founders in under-served regions around the world. Both Alex and Allen believe that talent is everywhere, but opportunity is not. By building networks to surface exceptional individuals—whether they are founders in emerging markets or first-time fund managers—both investors help unlock outsized value where others might not think to look.
+Listen to the episode
+Startup Corner: PAXAFE
+Logo
+The pharmaceutical supply chain is complex and highly regulated, where visibility gaps can lead to costly product losses and compliance risks. PAXAFE’s recent blog highlights how AI is reshaping pharmaceutical logistics by predicting risks, ensuring compliance, and turning real-time data into proactive decisions.
+PAXAFE is the OS for visibility control towers. Its B2B SaaS platform—CONTXT—is an AI-enabled, device-agnostic risk-management solution that reduces product loss, improves operational efficiency, and optimizes decision-making for perishable shippers and service providers.
+Unlike traditional visibility providers that leave companies “data rich but insights poor,” PAXAFE applies machine intelligence to contextualize data, quantify risk, and predict OTIF (on-time, in-full) disruptions—turning visibility into real-time action.
+Learn more about PAXAFE
+Community Involvement: Kauffman Fellows
+Logo
+Allen Taylor is deeply committed to Kauffman Fellows, a nonprofit organization dedicated to educating and connecting the next generation of venture capitalists and emerging fund managers around the world. As a Kauffman Fellow himself, Allen credits the program for shaping his approach to venture investing and helping him build global networks that now benefit both founders and investors in emerging markets.
+Through a rigorous two-year program, Kauffman Fellows provides mentorship, education, and peer-to-peer learning to help venture investors excel—not just in Silicon Valley, but across the globe. By fostering knowledge-sharing and building community, Kauffman Fellows is helping shape the future of venture capital in both established and emerging ecosystems.
+Learn more
+Newsletter #47: Bridge Venture Fund, Upfront, Lumber: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+ Founders are strong believers in the ideas they bring to life. The early investors are strong believers too. Paradoxically, the very same people have to remain skeptical and test the underlying viability throughout the lifetime of the startup. It requires a strong focus on value proposition and customer pain points to look beyond market activity to identify the true signal of startup success. This allows founders and their investors to actively navigate (/pivot) to safer ground than running headlong into the rocks behind frothy waves.
+Connor Ryan, my podcast guest this week, said, “There’s infinite product-market fit for giving away a dollar in exchange for 99 cents.” He does not look at the sizzle of traction and pipelines. He looks deeper beyond the standard metrics into actual unit economics to get convinced and make investment decisions.
+Mark Suster, my guest in episode #83, had similar sentiments. He looks at the track record of the company for tangible evidence of product market fit.
+
+
+Podcast Entries: Show Real Traction, Not Just Projections
+Quote
+My guest in Episode #160 is Connor Ryan, Partner at Bridge Venture Fund. Connor shares his journey from investment banking and private equity to venture capital, where he focuses on investing in overlooked sectors underserved by innovation.
+Connor emphasizes the importance of identifying companies that demonstrate sustainable unit economics rather than relying on forecasts alone. He discusses Bridge Venture Fund’s approach to backing startups that bring meaningful efficiencies to industries like legal tech, construction, and frontline workforce management.
+We also explore why he values understanding a product’s real-world user impact and how he evaluates founders based on their ability to articulate customer pain points and demonstrate tangible results.
+Listen to our new podcast episode
+Connected Insights: Evaluating Founders: From Trendlines to Tangible Proof
+Headshot
+In episode #83, my guest was Mark Suster from partner at Upfront Ventures. Mark emphasized that venture investing is about tracking a founder’s progress over time—connecting the dots to form a trajectory of performance. In the episode, he highlights how he looks for tangible evidence of product-market fit rather than projected success, stressing that execution, founder reliability, and real-world proof matter more than high-level pitches. His investment decisions are based on demonstrated progress and measurable traction.
+
+Listen to the episode
+Startup Corner: Lumber
+Logo
+Lumber, an AI-powered construction workforce management platform, has joined the Fulfilled by Acumatica program, ensuring seamless integration with Acumatica’s cloud ERP platform. This collaboration streamlines payroll, compliance, and HR processes, enabling construction businesses to improve efficiency and track real-time labor costs.
+Lumber’s innovative approach helps companies navigate prevailing wage compliance, union agreements, and workforce management challenges while delivering AI-driven insights for smarter decision-making.
+"Joining the Acumatica Marketplace is a milestone for Lumber," said Shreesha Ramdas, Founder and CEO of Lumber. "This partnership ensures our users maximize their Acumatica ERP investment while enhancing workforce management capabilities."
+Learn more
+Community Involvement: World Wildlife Fund
+Logo
+Connor Ryan is passionate about the World Wildlife Fund (WWF) and its mission to protect wildlife and restore biodiversity. He believes conservation plays a vital role in mitigating climate change, as biodiversity loss has accelerated dramatically, with global wildlife populations declining by 70% since 1970.
+WWF works globally to protect endangered species, restore habitats, and advocate for policies that promote ecological balance. By preserving natural ecosystems, WWF helps combat environmental degradation and ensures long-term sustainability.
+Learn more about World Wildlife Fund
+
+Newsletter #46: Lobby Capital, Engineering Capital, Joshin: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+ Last week, I had the privilege of leading a group of international executives on a tour of Silicon Valley. It’s always inspiring to see leaders in awe of cutting-edge technology and the transformative ideas shaping our future. This tour was part of INSEAD’s celebration of the 5th anniversary of its San Francisco campus—a milestone for a truly global institution.
+While the main conference was insightful, the real magic often happens in the hallways, where side-bar conversations spark unexpected connections. David Hornik, a seasoned VC, understands this well. In 2007, he created Lobby, a conference designed entirely around meaningful, off-the-record discussions—no mainstage panels, just organic dialogue. Now, he’s taken that concept even further by launching Lobby Capital, a venture firm built on the same philosophy.
+I recently sat down with David for a fascinating conversation on The Sure Shot Entrepreneur podcast. Tune in to hear his insights on the power of informal networks in venture capital.
+
+Podcast Entries: Build Relationships with Investors to Create Game‑Changing Companies
+Quote
+My guest in Episode #159 is David Hornik, founding partner at Lobby Capital. With over two decades in venture capital, David shares how he transitioned from law to investing and what he looks for in great founders.
+David emphasizes that venture capital is fundamentally about relationships, not just transactions. He discusses the evolving nature of Series A funding, how Lobby Capital approaches investments, and why he prioritizes founders with deep expertise in the problems they’re solving.
+We also explore his views on the changing landscape of venture capital, the need for secondary liquidity, and how he fosters meaningful connections through the Lobby conference.
+Listen to our new podcast episode
+Connected Insights: Investing in Technical Risk: Why the Hardest Problems Lead to the Biggest Outcomes
+Headshot
+In episode #26, my guest was Ashmeet Sidana, founder of Engineering Capital. Ashmeet has a unique investment philosophy: he backs startups taking on deep technical risk. He believes in supporting entrepreneurs who push boundaries to solve complex problems.
+Ashmeet describes his investment approach as seeking the “maybe, maybe not” answers in technology—where success is uncertain but game-changing. This resonates with many VC’s perspectives on investing in founders who have done the homework and understand their market deeply.
+Listen to Episode #26
+Startup Corner: Joshin
+Logo
+Joshin, a leader in neurodivergent and disability support services, recently announced a collaboration with Aon, a global professional services firm, to enhance workplace neurodiversity initiatives.
+This partnership provides employers with strategic insights, advanced analytics, and tailored resources to support employees, caregivers, and managers. Joshin's holistic approach consolidates fragmented services, empowering individuals while delivering measurable impact for organizations.
+With its growing presence across industries, Joshin is pioneering new ways to promote inclusion and improve employee wellbeing and productivity.
+Learn more about Joshin
+Community Involvement: ICA SF
+Logo
+David Hornik is deeply passionate about the Institute of Contemporary Art San Francisco (ICA SF), a dynamic, non-collecting art museum that provides a space for artists to experiment and take creative risks.
+ICA SF is committed to exploring critical social, political, and cultural questions, ensuring contemporary art remains accessible and meaningful for all. True to its startup mindset, the museum remains “under construction,” constantly evolving to embrace new artistic perspectives.
+Admission is always free, making it an inclusive space for all to experience groundbreaking art.
+Learn more about ICA SF
+
+
+
+Newsletter #45: Mistral, K9 Ventures, TrustLayer : The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Your attention is valuable, and we never take it for granted, even when you've chosen to open this email. In this edition, venture investor Pablo Srugo shares his insider playbook for founders looking to capture (and keep) investor attention. 
+While I have your attention, don't miss an eye-opening analysis on AI adoption trends from researchers Peter Zemsky and Ricky Wong, who've mined Github data to uncover which companies, regions, and industries are leading the AI revolution. 
+
+Podcast Entries: Look for Early Believers, Not Just Capital Providers
+Pablo's headshot
+Quote
+My guest in Episode #158 was Pablo Srugo, partner at Mistral Venture Partners and host of The Product Market Fit Show, shares his journey from co-founding startups like Gymtrack to becoming a venture capitalist focused on seed-stage investments.
+Pablo reflects on the lessons he learned as both a founder and an investor, including raising $6 million for a wearable tech company and facing the challenges of a failed acquisition. He emphasizes the importance of founder passion, solving top-priority customer problems, and understanding the "why" behind ventures. With only 10% of first meetings turning into investments, Pablo offers an honest look at what makes founders stand out and succeed.
+Listen to our new podcast episode
+Connected Insights: How Venture Capital Drives Real-World Change from Sandhill Road
+Quote image
+In episode #111, my guest was Manu Kumar, founder and partner at K9 Ventures, who invests at the "frighteningly early" pre-seed and seed stages. Manu explained how his solo GP model enables him to build deep, high-conviction relationships with founders during the inception of their ideas. Like Pablo Srugo, he emphasizes the importance of founder conviction and solving meaningful, impactful problems.
+Manu highlighted the transformative potential of venture capital when paired with founder passion and a clear vision. His investments in Twilio and Lyft exemplify the power of high-conviction bets. Reflecting on Twilio, he shared: "I ended up sitting next to a Twilio co-founder at a dinner. He described how they were putting telephony in the cloud. Having worked with expensive hardware for the same problem, I knew instantly that this was brilliant."
+His story with Lyft (originally Zimride) underscores the value of persistence. Although he couldn’t align on terms with the founders in 2009, Manu stayed in touch for over a year. Impressed by their determination, he joined their seed round when the opportunity arose.
+Listen
+Startup Corner: TrustLayer
+Logo
+TrustLayer and Nationwide have joined forces to simplify and secure insurance verification for commercial customers. This innovative partnership enables real-time validation of insurance policies, eliminating outdated, paper-based processes.
+Rob Chenoweth, VP of National Technical Underwriting at Nationwide, explains, "This relationship with TrustLayer is designed to simplify the insurance verification process for our customers and distribution partners."
+TrustLayer’s AI-powered platform ensures businesses can securely automate verification for insurance, licenses, and compliance documents—addressing a significant pain point for enterprises across industries.
+Learn more about how this partnership is transforming the insurance landscape: Explore TrustLayer’s solution
+
+Community Involvement: Achieve Kids
+Logo
+For more than a decade, I have volunteered as a board member at Achieve Kids. For over 60 years, AchieveKids has created opportunities for students between the ages of 5 and 22 in special education through exceptional schools and collaborative educational services. They enable students with special needs to achieve the maximum possible self-reliance and quality of life, and look to the future with confidence. 
+Learn more about AchieveKids.org
+
+Newsletter #44: Taram Capital, Invariantes Fund, PAXAFE : The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+Ever wonder why successful VC firms seem to get quieter over time? It's a fascinating paradox in venture capital that turns conventional business wisdom on its head.
+While most businesses work to increase their customer base and market presence over time, venture capital follows a reverse trajectory. New VC firms typically start with a highly visible public presence, actively seeking deal flow from all directions. But as their reputation grows stronger, many choose to step back from the spotlight. Why? Because quality trumps quantity – focusing on fewer, higher-potential deals often proves more valuable than processing a flood of startup pitches.
+This week, I'm excited to share my conversation with Felipe Camposano from Taram Capital, who dives deep into this counterintuitive pattern. His insights offer a unique window into not just Taram's evolution, but also the remarkable transformation of Latin America's startup ecosystem. What began as a nascent market a decade ago has blossomed into a vibrant community of innovative entrepreneurs.
+Join us as we explore this surprising shift in VC strategy and what it tells us about the maturing startup landscape.  
+Podcast Entries: LATAM entrepreneurs use venture capital networks to expand globally
+Felipe's headshot
+Quote
+My guest in Episode #157 is Felipe Camposano, Managing Partner at Taram Capital. Felipe shares his journey as one of Chile’s pioneering venture capitalists and reflects on the power of entrepreneurship to drive change in technology, communities, and economies.
+Felipe emphasizes the importance of founders who are deeply connected to the problem they aim to solve, leveraging their expertise and passion to build innovative solutions. He also highlights the role of venture capital in empowering entrepreneurs and the value of localized business models in creating strategic growth opportunities.
+We discuss Felipe’s approach to investing and his commitment to fostering Latin America’s thriving startup ecosystem.
+Listen to our new podcast episode
+Connected Insights: Let’s demystify the venture capital asset class, and LATAM is ‘hungry for progress’
+Quote image
+Pontaza photo
+My guest in episode #115 was Fernando Pontaza, co-founder and managing general partner at Invariantes Fund. We dive into the transformative potential of venture capital in Latin America, where a shift in mindset could unlock unprecedented opportunities for innovation and economic progress.
+Like Felipe Camposano, Fernando sees great opportunities for startups and VCs in growing Latin America. "Imagine the impact if more capital was deployed in Latin America—a region hungry for progress. Venture-backed companies could transform entire economies," he says.
+Fernando shares his journey from systems engineering to becoming a pioneer in Guatemala’s venture capital ecosystem. He highlights the importance of playing “long-term games with long-term people” and building strong relationships with fund managers.
+We also discuss the need to demystify VC for family offices and investors, emphasizing its role as a positive-sum game driving impactful change.
+Listen
+Startup Corner: PAXAFE 
+Logo
+
+PAXAFE's Ilya Preston and Brian Shultz recently joined a Supply Chain Now webinar, "The Cold Chain Dilemma: Why Visibility Falls Short and What Really Works," to discuss the critical need to move beyond traditional tracking solutions by transforming supply chain data into actionable insights. This directly aligns with PAXAFE's mission to "unleash the value of supply chain visibility by contextualizing insights that unlock intelligent decision-making," reinforcing their commitment to smarter, data-driven solutions in cold chain logistics.
+
+Learn more
+Community Involvement: ChileFlorida.org
+Logo
+In our chat on The Sure Shot Entrepreneur, Felipe shared his deep passion for his non-profit work with ChileFlorida.org. This organization connects Chilean entrepreneurs and professionals in Florida, providing a supportive network for businesses aiming to expand into Latin America and the U.S. He highlighted Miami's unique position as a hub for Latin American business, with many residents actively engaged in cross-border ventures. Felipe expressed his enthusiasm for growing the network, which already includes over 50 members, with the goal of reaching 100 to further support startups through mentorship and resources.
+Learn more about ChileFlorida.org
+
+Newsletter #43: Necessary Ventures, Homebrew, Firstshift AI : The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+Nursing and venture capital couldn’t seem more different, right? But Ninni Handal, a nurse from Norway and an intern at Sure Ventures, shares a unique perspective after exploring Silicon Valley and the world of VC. In the essay she published on Linkedin, she draws surprising parallels between caring for patients in hospitals and engaging with founders. The two worlds might be more alike than we think.
+
+This week on the podcast, our guest Neil Devani takes a similar approach. With a rich career spanning healthcare, public policy, and law, he brings a diverse set of experiences to his new venture capital firm.
+Check it out—you might see connections you hadn’t considered before!
+
+Podcast Entries: Build What the World Needs, Not Gratuitously
+Neil's headshot
+Quote image
+In episode #156, I chat with Neil Devani, founder of Necessary Ventures. Neil shares his journey from healthcare and healthcare policy to venture capital, focusing on mission-driven startups tackling societal challenges. He discusses his investment strategy, offering insights into evaluating startups for transformative potential, talent retention, capital efficiency, and impactful storytelling. Neil highlights the importance of customer empathy and avoiding gratuitous technology. He also advocates for quality over speed during venture deals, emphasizing the importance of long-term founder-VC alignment. With a thoughtful approach to impact and innovation, Neil provides actionable advice for navigating the VC landscape.
+Listen
+Connected Insights: Focus on one user, one use case, and one solution
+Quote image
+Satya’s headshot
+My guest in episode #54 was Satya Patel, co-founder and partner at Homebrew. Satya shares valuable insights on how mission-driven founders can secure venture funding and build lasting companies. He highlights key founder traits such as having a strong point of view, being hypothesis-driven, and staying adaptable as new data emerges. He also stresses the importance of addressing acute market pain and clearly articulating a long-term vision.
+Satya discusses Homebrew’s distinctive “seed phase” approach, focusing on product development, market distribution, and team building as essential investment criteria. He shares success stories like Chime and Plaid, emphasizing the importance of resilience and cultivating an intentional company culture from the very beginning.
+Listen
+Startup Corner: Firstshift AI 
+Logo
+
+Firstshift AI recently featured #3 on the Hatcher+ Top 100 list, an AI-driven ranking that highlights the world’s most promising and innovative startups. The list is based on data analysis from over half a million startups across diverse sectors and regions.
+Discover how Firstshift AI is shaping the future of intelligent supply chain management.
+Community Involvement: Upsolve
+Logo
+Filing for bankruptcy in the U.S. is a daunting process involving complex paperwork, court appearances, and potential legal risks. Many individuals burdened by crushing debt, especially from medical expenses, can’t afford legal representation or navigate the multi-step process alone. As a result, they often miss the opportunity to reset their financial lives.
+Upsolve, a nonprofit often described as “TurboTax for bankruptcy,” addresses this issue by simplifying the bankruptcy filing process. Its free, easy-to-use platform has helped clear over $600 million in debt and supported hundreds of thousands of people. Neil Devani, a passionate advocate for equitable legal access, actively supports Upsolve’s mission to make financial relief accessible to those who need it most.
+Read more
+
+
+Newsletter #42: Beat Ventures, Propel(x), Joshu: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+Legacy industries are undergoing a massive transformation, and it’s exciting to see technology making its mark everywhere. At Sure Ventures, we’re deeply focused on financial services, insurance, and banking; industries that form the backbone of the global economy. But the ripple effect of innovation doesn’t stop there. From manufacturing and healthcare to transportation, food, and agriculture, startups are reshaping how these industries work.
+In this week’s podcast, I had the pleasure of chatting with Dave Anderson from Beat Ventures. He’s passionate about investing in startups tackling overlooked legacy industries that are ripe for disruption. Dave shared some fascinating insights about how he spots opportunities, especially in startups that break down barriers to adopt advanced technologies like AI.
+I hope you enjoy the conversation and find it as inspiring as I did!
+
+ 
+Podcast Entries: Build AI Solutions for Overlooked Legacy Industries
+Dave headshot
+In episode #155, I chat with Dave Anderson, Founding General Partner at Beat Ventures, about his approach to investing in tech startups targeting overlooked legacy industries. Dave shares how AI is revolutionizing sectors like meat processing and finance through predictive and generative AI applications. He highlights the importance of leveraging Silicon Valley networks for funding and talent while maintaining close customer relationships for execution. Drawing from his unconventional journey, Dave calls for greater diversity in venture capital to unlock new opportunities.
+Listen
+Connected Insights: Be efficient. Don't be macho
+Quote
+My guest in episode #110 was Swati Chaturvedi, co-founder and CEO of Propel(x). Swati emphasizes the transformative potential of emerging technologies in solving deep-rooted challenges across legacy industries. She highlights that tools enhancing efficiency are crucial for entrepreneurs, as wasting time on outdated methods can hinder progress. Propel(x), her investment marketplace, connects deep-tech startups with accredited investors, focusing on sectors like life sciences, green technologies, and industrial tech. These startups, often based on breakthrough science, address long-standing problems such as antibiotic resistance, osteoporosis treatment, and immersive display technology without headsets. Swati underscores the need for visionary leadership in these fields and the importance of leveraging science to create impactful solutions.
+Listen
+Startup Corner: Joshu
+Logo
+A recent Research and Markets report predicts a 150% growth in Insurance Distribution Technology over the next five years. Joshu, founded by CEO Roy Mill and CTO Shimi Bornstein, is at the forefront of this transformation. On The UNCAGED Show podcast, Roy shared how Joshu simplifies the creation, distribution, and sale of complex insurance products through an intuitive, self-service platform. By addressing the challenges of digitizing insurance for ecommerce, Joshu enables insurers to streamline operations and increase efficiency. As the industry evolves, Joshu is paving the way for modern insurers to do more with less.
+
+Learn more
+
+Community Involvement: San Francisco Board of Education
+Logo
+The San Francisco Board of Education oversees the K-12 public schools in the San Francisco Unified School District, setting educational goals, approving curricula, managing an independent budget, and appointing the district superintendent. Composed of seven Commissioners elected at large to four-year terms, the Board determines policy while adhering to local, state, and federal laws. It also confirms personnel appointments and oversees major district operations, including union contracts, equipment purchases, and construction projects. Our podcast guest Dave Anderson is passionate about supporting the Board’s mission to enhance education and provide robust opportunities for students in San Francisco.
+Read more
+
+
+Newsletter #41: Vela Partners, Greylock, MileAuto: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+The art of venture capital is the ability to buy into under appreciated potential, a moment before other astute investors do. Each investor has a strategy of meeting founders early in their journey, evaluating unproven ideas and people, and convincing founders to join them in the journey. Among the universe of possible opportunities, it is difficult to search for the next amazing business idea and identify founders who are making rapid progress. Most VCs develop a stellar reputation in order to attract many founders to reach out to them inbound and choose to pursue a few they deem worthy. Very few investors proactively identify and go after startups they identify as high potential. The process of learning and developing conviction on a nascent venture often starts at the first meeting. Investors with an informed mindset climb the learning curve faster than investors starting cold.  
+My guest Yigit at Vela Partners talks about his proactive search for the next best startup. He explains how his informed mindset helps him make faster decisions. 
+
+Gopi
+
+ 
+Podcast Entries: Do Great Work; VCs Will Find You.
+Quote
+In episode #154 of The Sure Shot Entrepreneur podcast, my guest was Yiğit Ihlamur, co-founder and general partner at Vela Partners. Yiğit shares how Vela is transforming venture capital with a tech-driven edge, leveraging AI to identify top startups and make quick, informed decisions. He emphasizes the importance of understanding founders' motivations and stories, noting that conviction stems from clarity in their "why." Yiğit also calls for faster decision-making in the VC ecosystem, advocating for efficiency without sacrificing thoughtfulness. His insights reveal how AI and human connection can reshape venture capital for the better.
+Listen
+Connected Insights: Grow Responsibly With Patient Investors
+David Thacker photo
+My guest in episode #110 was David Thacker, General Partner at Greylock. In the episode, David offers a wealth of insights from his journey as a product leader at Google and LinkedIn to his current role as a venture investor in consumer and B2B2C tech startups. He sheds light on the evolving dynamics of venture capital and their implications for founders navigating fundraising in today’s market.
+David shares why founders with lived experience in the problems they’re solving often create the best companies and how patient capital still finds its place amidst rapid industry shifts. Just as Yiğit Ihlamur from episode #154 emphasizes using technology to enhance decision-making in venture capital, David highlights the importance of evolving investment strategies to stay effective in this shifting landscape.
+Listen
+Startup Corner: MileAuto ranked among Inc. 5000 fastest growing companies
+Logo
+
+MileAuto, a B2B2C pay-per-mile insurance provider, has been ranked among the Inc. 5000 fastest-growing companies for three consecutive years (2022–2024). Tailored for low-mileage drivers like college students, urban commuters, and remote workers, MileAuto helps those driving under 10,000 miles annually save 30–40% on insurance. With a pay-as-you-drive model, it’s perfect for retirees, weekend explorers, and anyone looking for smarter, cost-effective coverage.
+
+Read more
+Community Involvement: American College Institute (ACI) in Turkey
+Logo
+Yiğit Ihlamur shared his commitment to giving back to his alma mater, the American College Institute (ACI) in Turkey, and its alumni community. Driven by his belief in the transformative power of education, Yiğit supports initiatives that provide scholarships to students at ACI, helping to create opportunities for the next generation to thrive. This reflects his dedication to fostering access to quality education and empowering young minds.
+
+Newsletter #40: Next Legacy Partners, Slipstream Investors, Coterie Insurance: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+Limited Partners (LPs) are investors in Venture Capital Funds. They tend to have different day jobs as well. Sometimes they are athletes, celebrities, and philanthropists. They could be investors and capital allocators in their own right. Next Legacy is a fund of funds venture investor that aims to provide returns to its aforementioned athletes and celebrity investors.
+My podcast guest this week, Jessie Guo, talks about how her firm has been able to do that from its roots and through its merger with another investment firm. Her firm is a fund of funds that has supported emerging manager VCs for the past few decades by being an early investor. She has been the beneficiary of someone taking a chance on her. She got into this job when someone read and responded to her cold reach out email. 
+
+Podcast Entries: Use Your Superpowers, Don’t Dilute Your Efforts
+Jessie Guo photo
+Quote
+In episode #153, I speak with Jessie Guo, an investment partner at Next Legacy Partners. Jessie discusses Next Legacy’s mission to support mission-driven, early-stage tech startups by backing both emerging and established venture fund managers. She emphasizes the importance of diversity, discipline, and differentiation in building a strong portfolio, providing actionable takeaways on how emerging managers can stand out.
+Jessie dives into how Next Legacy creates opportunities for new managers to enter the expanding venture ecosystem and the firm’s commitment to forming lasting partnerships. She also highlights key areas for improvement in the industry, including increasing inclusivity and transparency, which can benefit both fund managers and founders looking to make a social impact alongside financial returns.
+Connected Insights: Build Strategies Around Who You Are
+Alex-quote
+My guest in episode #113 was Alex Edelson, founder and general partner at Slipstream Investors, who shared invaluable insights into his approach to investing in emerging venture capital managers. Alex’s thoughtful and highly personalized investment philosophy centers on identifying VCs with unique skill sets, experience, and networks that give them a competitive edge.
+A strong advocate for small funds, Alex has seen firsthand that lean portfolios with concentrated ownership can deliver high returns. He seeks fund managers who, beyond track records, demonstrate deep domain expertise, operational experience, and strong relationships with founders. Rather than focusing solely on numbers, he values qualitative factors like strategic insight, sourcing capability, and founder feedback to assess a manager’s potential.
+Beyond providing capital, Alex actively supports fund managers, offering advice on fundraising, team-building, and portfolio strategy. He positions himself as a long-term partner, engaging with VCs early—often before they’re fundraising—to build lasting trust. His commitment extends to promoting diversity in venture capital, serving on the selection committee of Bridge Funding Global, where he champions underrepresented fund managers.
+Startup Corner: Coterie - a vision driven by AI and human creativity
+Logo
+Coterie stands out as one of the most rapidly expanding companies in its sector, offering small business owners swift and straightforward access to essential insurance coverage. With half of small businesses lacking adequate insurance, Coterie’s impressive growth underscores a substantial market opportunity. In a recent episode of The Founder CEO, David McFarland, CEO of Coterie Insurance, discussed his vision for revolutionizing small business insurance through AI. McFarland believes AI will transform the industry by simplifying coverage processes, allowing for a focus on higher-value work. He envisions a future where underwriters and actuaries collaborate with AI, enhancing efficiency and driving innovation, much like the advent of the combine in farming.
+
+Community Involvement: Venture Forward, Alzheimer’s Foundation of America
+Logo
+
+Jessie Guo’s work reflects her dedication to creating financial and social impact, aligning with her support for nonprofits like Venture Forward and the Alzheimer’s Foundation of America. Venture Forward, founded by the National Venture Capital Association (NVCA), promotes diversity and inclusion in venture capital, empowering underrepresented investors. The Alzheimer’s Foundation provides support and education for those affected by Alzheimer’s and funds research for improved treatments and a cure.
+
+Newsletter #39: VC Nest, Accolade Partners, PAXAFE: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Newbies thrive. It is an admirable quality unique to the venture capital industry. The industry naturally encourages incumbents to welcome strangers. Newbies can thrive and succeed as much as established players with entrenched relationships. A fresh voice, a new community leader, an innovative perspective - has the opportunity to write the script. Their past backgrounds and experiences can be a strength although often people leave behind a wealth of accolades, knowledge and network. Eventually, newbies succeed and become a part of the ecosystem. Or dare I say, they are needed for the ecosystem to continue to thrive. 
+My newest guest on the podcast is a newbie who is quickly becoming an important leader in the community - Lochan Alagh. Listen to her journey from the public sector to startups and how arranged marriage led her to new beginnings in Silicon Valley. Aram Verdiyan at Accolade in episode 128 also refers to his pursuit for new VCs with a high-conviction innovative approach. 
+Podcast Entries: Empowering Emerging Fund Managers to Transform the Venture Capital Landscape
+Episode cover
+Quote
+In episode #152, I speak with Lochan Alagh, co-founder of VC Nest, about her inspiring journey from Panipat, India, to Silicon Valley. Lochan began her career in India, working on river conservation projects for the Ministry of Environment and Forests. After relocating to the U.S. in 2015 as an H4 visa holder, she faced challenges adapting but soon worked with Sustainable Silicon Valley during California’s worst drought. She then started an environmental consulting business, focusing on sustainability reports for the EPA. Due to regulatory changes, she pivoted to cybersecurity, where she achieved a successful exit.
+Lochan discusses the founding of VC Nest with Badru Valani. She explains how they created it to support emerging fund managers through collaboration, networking, and education. VC Nest hosts focused events, organizes VC-startup mixers, and offers thought leadership platforms. Lochan emphasizes the need to prioritize founders and create societal impact beyond financial returns. She envisions VC Nest as a global platform for the next generation of investors and innovators.
+Connected Insights: Invest Patiently with High Conviction Over the Long Term
+Aram photo
+Quote
+My guest in episode #128 was Aram Verdiyan. Aram is a partner at Accolade Partners, and he is a very strong supporter of emerging managers. Accolade, as a fund of funds, invests in various venture capital firms, aiming to back those with a proven potential for high returns.
+We discussed the difference between achieving average performance and top-tier returns. Aram highlighted the importance of investing with conviction rather than focusing solely on diversification. While diversification can reduce risk, it often limits the potential for exceptional returns. Aram believes that, just like individual venture capital managers select startups with high-growth potential, a fund-of-funds manager must identify VC firms capable of delivering outstanding outcomes independently. Investing in startups is inherently risky and requires a long-term perspective. Similarly, Aram pointed out that investing in VCs requires deep conviction and a vision for shaping the future. This conviction allows him to stay above the hype cycles and focus on real, long-term trends.
+Aram is particularly bullish on blockchain technology, seeing it as a space with significant long-term potential. He has even established a dedicated blockchain fund, aiming to identify the nexus of value in the field. However, he remains cautious about established VC firms’ ability to pinpoint winners in the crypto space, suggesting that a specialized approach is necessary for success. Accolade has also started a few other products along the way, like a fund of funds focused on women-led funds and diverse managers.
+Startup Corner: PAXAFE Named a FreightTech 100 company
+PAXAFE logo
+PAXAFE has been named one of the top 100 innovative companies in freight technology for 2024 by FreightWaves. This recognition highlights PAXAFE's dedication to advancing cold chain solutions and decision intelligence. The FreightTech 100 list is curated by a panel of industry experts and journalists, showcasing the most forward-thinking companies in the sector. PAXAFE was selected from over 250 companies and nearly 900 nominations. For more details about this achievement, click here.
+Community Involvement: IITBAA and OVBI
+OVBI logo
+Lochan Alagh is actively involved in two nonprofits. She serves on the board of the IIT Bay Area Alumni Association (IITBAA), which connects over 15,000 alumni who work in top companies. She also supports Overseas Volunteer for a Better India (OVBI), an organization that helps struggling farmers in India. OVBI aims to improve agriculture, create jobs, and support communities during disasters. It has become the largest platform for the Indian diaspora to contribute to their home country by fostering dialogue, implementing sustainable solutions, and encouraging collaboration.
+
+Emails ids to add: 
+Lochan Alagh - lochan.alagh@gmail.com 
+Aram Verdiyan - aram@accoladepartners.com 
+
+
+Newsletter #38: Lumber, Hippocratic AI, Decent: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+There is a porous membrane between the roles of enterprise technology leader, startup operator, investor, and capital allocator (VC or PE) within Silicon Valley. While some focus on one role (say “founder”) as the mainstay, some people move with ease between these roles. Their success in each of them exercises different skill sets and hones different intuitions. A person that has met with great results in many roles is a rare gem with multiple different facets. This is not a path for everyone. But for some, it is a brilliant career.
+
+My guest this week exemplifies excellence in various roles. He notes that grit and passion are the key determinants for success. One of the previous episodes, I had Munjal Shah as my guest. His point was that purpose driven entrepreneurs have an easier go of it at maintaining their grit and passion for longer periods of time. Their dedication to a goal greater than themselves and greater than immediate shareholder value endows them with greater tenacity.
+
+
+Podcast Entries: Grit and Passion are Important; Ideas are a Dime a Dozen
+Episode cover
+Shreesha photo
+Quote
+In the recently published episode #151 of The Sure Shot Entrepreneur Podcast, I had the pleasure of hosting Shreesha Ramdas, a serial entrepreneur and angel investor who also happens to be a dear friend. Shreesha is the CEO and founder of Lumber, a workforce management platform tailored for the construction industry. He shares his inspiring journey from India to Silicon Valley, where he discovered his passion for entrepreneurship. He describes Silicon Valley as a "Disneyland for techies," a place that motivated him to shift from contributing to startups to founding successful ventures like LeadFormix and StrikeDeck, both of which were acquired.
+Shreesha is also the co-founder of Funda, a community designed to support founders by connecting them with valuable resources and mentors. He reflects on the evolution of the startup ecosystem, noting that increased resources and community support have made entrepreneurship more accessible than ever. As an angel investor, he seeks out founders with grit and passion, claiming he can usually gauge this within 15-30 minutes of meeting them. He underscores the significance of long-term commitment over quick exits, citing his investment in Workato as a prime example. Shreesha’s insights highlight the essential roles of resilience, community, and mentorship in building successful companies.
+Connected Insights: Leverage Disruptive Trends to Drive Impact
+Munjal photo
+Quote
+My guest in episode #118 was Munjal Shah, co-founder and CEO of Hippocratic AI. Munjal discussed his entrepreneurial journey and gave insights into the key traits that drive long-term startup success. As a serial entrepreneur, Munjal has previously built and sold companies to Google and Vendio, which was later acquired by Alibaba. He shares valuable insights on creating sustainable startups, particularly in the healthcare and AI sectors.
+Munjal emphasizes the importance of adaptability and continuous learning, as well as recognizing and seizing mega disruptive trends. He discusses the significance of assembling the right team and expertise, the role of timing and patience in innovation, and prioritizing impact over profit. For Munjal, building a purpose-driven company that goes beyond mere profit is essential for long-term success. He believes that founders focused on solving real problems, rather than just generating revenue, are more likely to create enduring companies.
+Startup Corner: Decent Honored at the Rosie Awards 2024
+Logo
+Decent has been honored with a 2024 Rosie Award, celebrating its remarkable contributions and innovative leadership in the healthcare sector. The Rosie Awards highlight high-value, low-cost health plans offered by employers and unions throughout the United States. In announcing the achievement, Decent CEO Nick Soman remarked, “This is the highest recognition in America for employer health plans, awarded to just 0.4% of eligible plans.”
+Community Involvement: FUNDA
+Logo
+
+Shreesha Ramdas shared the story of FUNDA, an organization dedicated to building a supportive ecosystem for founders. FUNDA brings together founders, investors, startup advisors, and corporate executives to create a thriving community where entrepreneurs can receive guidance on key challenges like product-market fit, go-to-market strategies, scaling, and investment. By fostering collaboration and providing expert insights, FUNDA helps founders navigate the difficult startup journey and celebrate their successes. Visit funda.club to learn more about this impactful mission and how you can get involved.
+
+Newsletter #37: Upekkha, SV Latam, Hi Marley: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+
+Entrepreneurship and the founder spirit are not solely the province of Silicon Valley. While such efforts have had the greatest success in this area, there are other fertile patches where the innovative spirit finds great hold. For example, Chennai, India has become a growing powerhouse of SaaS platforms (like Zoho, FreshWorks etc) that started out small and are now dominant in their sectors.
+
+There are various contributing factors: a large talent pool, easing or easy setup, transparent financial systems, investor friendly regulations etc. There are similar patterns in other cities in India and Latin America as well.
+
+My guest this week, Rajan Maruthavanan shares lessons that Silicon Valley can learn or reinforce from other regions. For example, Rajan says his firm Upekkha focusses on founder success at the forefront before other LP oriented metrics. This is a theme I see in solo GP, founder-first VC firms in the Valley. 
+
+
+
+Podcast Entries: Learn How to Take Advice from the Right People at the Right Time
+Episode cover
+Quote
+
+In episode #150, I speak with Rajan Maruthavanan, Cofounder and Managing Partner at Upekkha. Rajan shares key insights on building B2B startups in India for global markets, particularly the US. He highlights the strengths of Indian founders in niche vertical markets but notes challenges in adopting global infrastructure and tools. Rajan emphasizes the importance of annual contract value (ACV) in shaping startup strategy and the need for founders to learn how to take advice wisely, avoiding common pitfalls. He also discusses how Upekkha is changing the VC landscape by focusing on improving founder success rates over traditional investment metrics.
+Connected Insights: From regional success to global impact
+Consuelo photo
+
+My guest in Episode #19 was Consuelo Valverde, founder and managing partner at SV Latam Capital. Consuelo emphasizes a key role for venture capitalists in helping founders navigate different geographies to build solutions for global markets. Her firm actively connects startups from Latin America to opportunities in international markets, while also helping startups from regions like India expand into Latin America. For example, they assisted HealthCube, an India-based startup creating portable diagnostic systems, to enter the Latin American market. This approach highlights the importance of understanding both local and global market dynamics, creating bridges between regions that might otherwise remain isolated from each other.
+Founders from these geographies can leverage their unique cultural and regional perspectives to thrive in the competitive global landscape. By tapping into their strengths—like deep knowledge of their local markets and innovative solutions that may emerge from resource-constrained environments—entrepreneurs can adapt their strategies to resonate with global audiences. Working with investors like SV Latam, who provide not only capital but also access to global networks and market entry expertise, can be pivotal in helping startups transition from regional success to global impact.
+Startup Corner: Hi Marley is CNBC’s World’s Top InsurTech 2024 
+Logo
+
+Hi Marley is a pioneer in creating an intelligent conversational platform for the property and casualty insurance industry. CNBC, in partnership with Statista Inc., compiled the World’s Top Insurtech Companies 2024 list based on a comprehensive analysis of key metrics for over 1,000 companies, including total funding, user base, and overall impact on the insurance industry.
+
+
+Community Involvement: Sitare Foundation
+Sitare Foundation Logo
+Education has the ability to empower individuals from any background to achieve greatness and make a lasting impact. In my latest episode, Rajan shares his belief in the transformative power of education and his passion for the Sitare Foundation, an India-based nonprofit founded by Amit Singhal. The Foundation is dedicated to providing high-quality education to underprivileged but talented children, unlocking their potential to uplift not only themselves but also their communities. By 2050, the foundation aims to transform 50,000 lives through education, believing that access to education is the key to creating a more equitable and prosperous world. Learn more about Sitare Foundation and how you can get involved.
+
+Newsletter #36: Transform VC, Ubiquity Ventures, Lumber: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Entrepreneurs are inherently brave people. Their energies are best spent attacking the biggest problems assailing our society. For example, the solutions that could create a huge positive societal impact needs to be addressed relentlessly with deep technological expertise and a lot of different approaches. My guests this week, Raed Masri and Rama Chakaki, are eager to hear and fund these ideas with their firm, Transform VC.
+
+It is important for a founder to be able to capture their value proposition in a concise and memorable way. The elevator pitch is a key element of positioning because it is the hook that draws the potential investors, customers, policy makers, and of course, future employees in. That small, well practiced pitch is many times the difference between out-sized success and mediocrity (and even failure). My previous guest in episode 53, Sunil Nagaraj, advises founders to leave behind a 10 second sound bite with the investors they meet.
+
+Profound change is difficult to capture in a few words. However, if you are able to describe the momentous, earth shattering impact in accessible, easy-to-understand, and memorable language, you have added tremendous value to your company. 
+
+
+
+
+Podcast Entries: Impact a Billion and Make a Billion
+Episode cover
+Transform VC Raed x Rama
+
+In episode #149, I speak with Raed Masri and Rama Chakaki, general partners at Transform VC. Raed and Rama are on a mission to empower tech founders to harness deep tech for climate and social impact, aiming to positively impact a billion lives while generating a billion dollars in returns. They delve into their distinctive approach to venture capital, which centers on investing in underrepresented founders and fostering a new generation of mindful entrepreneurs.
+Throughout our conversation, Raed and Rama share insights from their diverse experiences—from serial entrepreneurship to top-performing venture capitalists—and challenging traditional norms in the venture capital industry. They discuss their strategy of building investment conviction through ongoing engagement with founders, the unique hurdles faced by impact-driven startups, and their commitment to measuring meaningful impact. They also offer practical advice on how the venture capital industry can better support diverse entrepreneurs and create lasting change.
+Connected Insights: Say what your company does in 30 seconds
+Sunil’s photo
+Quote
+
+Sunil Nagaraj was my guest in episode #53. He is the founder and managing partner at Ubiquity Ventures. As a solo venture capitalist, Sunil focuses on specific technologies and builds conviction quickly, often deciding on an investment within 10 days. He notes the changes in the VC landscape over the last decade, and offers valuable advice to founders. Sunil emphasizes the importance of clear communication and storytelling in a pitch. Founders should explain what their product does in simple terms within the first 30 seconds of their presentation and position their product through the customer's perspective to provide a more compelling narrative. He stresses that storytelling should not get in the way of basic understanding; clarity is crucial.
+Sunil also advises founders to consider what else they can gain from a meeting with a VC besides capital, such as insights into the competitive landscape or feedback on their pitch's positioning. He highlights the importance of distilling a pitch into a concise 10-second sound bite that can be easily communicated to others within a VC firm. He encourages entrepreneurs to send a follow-up email after a meeting, providing clear, memorable sound bites to help the VC build consensus within their team.
+
+Startup Corner: Transforming Construction Workforce Management With AI
+Logo
+
+Lumber offers a purpose-built workforce management solution, powered by the largest regulatory dataset and a proprietary LLM. It’s on a mission to empower the often-overlooked back office of construction firms and enhance the daily lives of field workers through digital transformation. Lumber offers real-time payroll and time tracking, ensuring compliance with complex labor laws and regulations.
+
+
+Community Involvement: VIP Fund
+VIP Fund Logo
+Rama Chakaki shares her passion for empowering displaced youth through VIP.fund (Very Important Projects Fund), a US-based 501(c)(3) non-profit organization she founded. Driven by a belief in the potential of young people to create meaningful change, VIP.fund focuses on innovative education and employment programs that help youth build better futures.
+VIP.fund combines online eLearning, mentorship, and partnerships with organizations offering internship and employment opportunities to create pathways for youth success. The organization invests in cutting-edge technology to scale its impact, build connections, and leapfrog outdated models. Powered by volunteers, VIP.fund helps young people navigate their unique journeys and realize their potential.
+
+Newsletter #35: Cameron Ventures, Insight Partners, Joshin: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Venture Capital investors get to allocate capital towards the most pressing problems of society, the most interesting opportunities for creating value, and work with the most passionate people that are working on these issues diligently and intelligently. While investors are naturally empathetic to the founders and startups, a lot of their “love” would appear to be in the form of saying “no” to capital requests. My guest this week, Aaron Webster, and I discuss that a quick “no” with thoughtful feedback is more potent than a long drawn out “maybe” that goes nowhere. 
+
+Some people call this situation “tough love”. It is a necessary honing and weeding required to ensure that the best ideas, implementation approaches, and the apt teams survive in the market. This natural selection is required to ensure that the best and brightest are focussed on the right things they are capable of taking on and at the right times in the market. 
+
+We, in the venture investment community, believe that technology and platforms will bring in better outcomes in an ultra-complicated domain like Healthcare. My guest in episode 123, Scott Barclay, expressed that sentiment really well. There will be a thousand angles and approaches tried for every startup idea that gets funded. 
+Podcast Entries: Build Businesses to Make Everyone’s Lives Better
+Aaron’s headshot
+Quote
+
+In episode #148, I speak with Aaron Webster, Managing Director at Cameron Ventures, who focuses on seed to Series A investments in InsurTech and FinTech. Aaron shares his journey from Oklahoma, where he built his career in InsurTech before transitioning to venture capital. He discusses the importance of bringing value to founders through early customer connections and thought partnerships. Aaron emphasizes investing in companies that solve significant industry problems, particularly those leveraging data and AI. He also highlights the challenges of saying no to many promising ideas due to the firm’s strategic focus. With a passion for driving economic progress, Aaron stresses the critical role of empathy and strategic fit in venture investing, citing examples like Certificial, a company creating a digital standard for insurance certificates.
+Connected Insights: Software Will Solve Broken Systems in Healthcare
+Quote
+
+Scott Barclay was my guest in episode #123. Scott explores the transformative role of software and AI in revolutionizing healthcare. He emphasizes that the healthcare industry, often plagued by inefficiencies, can greatly benefit from innovative technological solutions. By leveraging software and AI, startups have the potential to address deeply ingrained challenges, such as enhancing clinical decision-making, optimizing administrative workflows, and improving patient outcomes through personalized care.
+Scott discusses the unique opportunity for startups to innovate within the healthcare sector, especially by building on existing AI infrastructures laid by giants like Microsoft and Google. This allows startups to focus on creating specialized solutions tailored to specific problems rather than starting from scratch, enabling faster iteration and a more immediate impact. He also highlights the importance of understanding the healthcare industry's specific needs and applying AI in ways that create significant value.
+Moreover, Scott underscores that while regulation is crucial for ensuring the safety and effectiveness of AI in healthcare, it should also encourage responsible innovation. He believes that the period between 2023 and 2025 is a pivotal time for launching AI-driven companies in healthcare, with the potential to create future Fortune 500 companies by 2030.
+Startup Corner: Personalized Neurodiversity Support to Employees
+Logo
+Joshin teams up with Dropbox to deliver personalized neurodiversity support to Dropbox employees.
+Since teaming up with Joshin in 2023, Dropbox employees have given a perfect 5.0 coach rating. Through this collaboration, Dropbox offers enhanced neurodiverse support alongside internal initiatives, including custom webinars on peer guidance and neurodivergence.
+Community Involvement
+Aaron Webster is deeply involved with two non-profit organizations: United Way Oklahoma and Payne Education Center. United Way focuses on enhancing the health, safety, education, and economic well-being of individuals and families in central Oklahoma by linking community resources with effective health and human services. Payne Education Center, established in 1984, is dedicated to improving reading success for children with dyslexia and other reading difficulties. As a 501(c)(3) nonprofit, Payne offers evidence-based, multisensory training to teachers, reading therapists, and tutors, while also providing valuable resources and information on dyslexia and specific learning disabilities to educators, parents, and the broader community.
+Newsletter #34: Akkadian Ventures, Core Innovation Capital, Ava: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Silicon Valley has the fertile soil to nourish the trees of innovation and savor its sweet fruit of success. The magnificent seven and mighty unicorns were small and vulnerable once. They needed to have early believers. They needed structure and form to help them come into being. They also needed space and protection for them to experiment. 
+
+There are many ways to nurture and protect young saplings. You could cover their base and nutrient soil in burlap. That protects the roots and fends off pests. However it leaves the top exposed. You could have cloth or paper material covering the growing leaves. That protects plants from airborne insects, frost, and deters some nibblers. However, that constricts where the leaves and branches can go. You could have a metal tree guard that provides structural support (if needed), ruminant deterrence, and some level of root protection as well. The sapling has a lot of freedom to grow. It could even go beyond the tree guard structure. Even if that fails, the rest of the tree and roots are protected. They can live to fight another day. This is the sort of support structure first round investors and believers provide nascent startups. 
+
+One of my earlier podcast episodes, Arjan Schutte advised founders to find investors that are strongly aligned with their mission and world view. My conversation this week with Ben Black reflects this construct and how investors are rewarded for their early belief. 
+
+
+
+Podcast Entries: Believe in People Early, Earn Lifelong Trust
+Ben Black’s photo
+My guest in Episode #147 is Ben Black, co-founder and managing director at Akkadian Ventures. We explore Silicon Valley's dynamic and meritocratic spirit, where ambition and talent outweigh background or connections, fostering rapid innovation and career advancement.
+Ben emphasizes the importance of believing in startup founders during the early stages. Drawing from his extensive venture capital experience at Maveron, Rosewood Capital, and Akkadian, he highlights the critical role of trust in founders' vision and capabilities, supporting ideas with the potential for significant change.
+We also delve into the evolving secondaries market, which provides liquidity to shareholders in long-private companies. This market allows firms to delay IPOs, avoid public market pressures, and extend private growth opportunities.
+Additionally, Ben discusses the founding of Raise, a platform connecting emerging VCs with LPs. Since its inception, Raise has grown significantly, with over 900 funds applying annually. The platform emphasizes concise and compelling pitches, facilitating numerous successful LP-GP connections and fostering long-term relationships and investments.
+Connected Insights: Unlocking Entrepreneurial Potential
+Quote
+
+Arjan Schutte was my guest in episode #50. He’s the Managing Partner at Core Innovation Capital. His journey and perspectives provide a profound look into the elements that make a successful entrepreneur and the importance of mission-driven startups. Arjan highlighted the pivotal role of early believers in startup success. He emphasizes the importance of identifying founders with exceptional traits early on. He looks for indicators of grit and perseverance, drawing on examples like Doug Ricket, Co-Founder of PayJoy, whose relentless drive transformed a small company into a major player in the payments industry.
+He advises entrepreneurs to tackle big problems and find the right partners who align with their vision and provide unwavering support. Schutte’s commitment extends beyond venture capital to community development, exemplified by his involvement with the Compton Community Development Corporation and its basic income initiative, the Compton Pledge. Arjan’s insights underscore the transformative power of early belief and alignment with purpose in achieving entrepreneurial success and driving meaningful community impact.
+Startup Corner
+
+Ava 
+https://www.meetava.com/blog/the-seismic-shift-how-fintech-is-reshaping-traditional-banking-in-the-us
+Fintech startups are revolutionizing banking services in the US. The future belongs to those that can blend traditional banks' reliability and experience with fintech's innovation and customer focus. Ava is empowering people with the tools they need to save money and build credit with simplicity. 
+Community Involvement
+Mind the Gap, Inc is dedicated to empowering private political donors with strategic insights to enhance our democracy. They offer evidence-based guidance on the most effective electoral strategies, tactics, and programs for each election cycle. By leveraging comprehensive research and quantifiable data from past elections, Mind the Gap evaluates and ranks impactful programs, directing donors to the initiatives most likely to sway key races in favor of Democratic victories. Ben Black, a passionate advocate for this mission, highlights his support for the organization in Episode #147.
+
+Newsletter #33: Monta Vista Capital, Unshackled Ventures, Insurate: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+It takes a community to raise a child, proverbially. This saying arises from the wisdom from various cultures. This sentiment resonates deeply with a lot of people. To extend it in my field of work, I hold that it takes a patient community to raise a startup. As a new idea sprouts, gains a foothold, makes mistakes, learns and adapts, grows stronger, faces newer challenges and opportunities every day, the community surrounding it needs to be nurturing, protective, and guiding for the startup to be successful. Enabling startups requires tough love too. This ensures that mistakes and missteps are rare and not repeated.
+
+Investors play a pivotal role in the “upbringing” of startups. They bring the supportive ecosystem to fledgling startups. This was the key observation and activity of my guest Manan Mehta (in episode 16). 
+
+My current episode features Venktesh Shukla. He counsels founders to be confident in their expertise to attract the attention of the right type of investors for them. He is a pillar of the TiE ecosystem (The IndUS Entrepreneurs).  
+Podcast Entries: Patiently Teach Investors What You Know to Win Them Over
+Venk photo
+Episode cover
+
+My guest in Episode #146 is Venktesh Shukla, Founder and General Partner at Monta Vista Capital. Venktesh shares his journey into entrepreneurship and venture capital investing. He outlines Monta Vista’s investment strategy, emphasizing deep due diligence, expert validation, and leveraging networks. Key insights for founders include the importance of presenting unique aspects to appeal to VCs, validating market problems with concrete insights, and the value of high conviction, concentrated investments. Venktesh also highlights the impact of TiE (The IndUS Entrepreneurs) in fostering entrepreneurship, particularly within the Indian and South Asian communities, and the significance of supportive ecosystems for innovation and growth.
+Connected Insights: Immigrant entrepreneurs must overcome unique hurdles
+Quote 1
+
+Manan Mehta was my guest in episode #16. He is the founding partner at Unshackled Ventures. Manan double-clicked on the unique hurdles immigrant founders must overcome to succeed and talked about how his firm provides crucial support, from zero-cost immigration legal services to a robust community network that connects rising stars with seasoned entrepreneurs. He shared insights on the firm’s investment strategy, highlighting the importance of transparency, customer discovery, and the willingness to pay as critical factors for early-stage success. Manan emphasized that Unshackled Ventures operates on a team-based decision-making process, ensuring all members are aligned to maximize founder support. He noted the firm’s dedication to helping founders gain more customers and capital, reflecting their commitment to customer service.
+Startup Corner
+
+https://insurate.com/
+
+Workers compensation insurance for high-hazard businesses 
+
+Insurate is a data science underwriting company building the infrastructure of fair, transparent, and predictable insurance, benefiting the entire value chain. Insurate offers work-compensation insurance by leveraging data science and analytics to more accurately assess risk. Agents use the platform to write and retain business insurance with a focus on hard-to-place codes for safe companies. 
+
+Community Involvement
+Venktesh Shukla is not only a renowned venture capitalist but also deeply committed to philanthropic efforts. He has been passionately involved with the Foundation for Excellence (FFE) for over two decades, serving as the Founding President since inception till 2012 and now a member of the Board in FFE USA and a trustee of the FFE India Trust. FFE aims to provide college scholarships to financially constrained yet promising students in Engineering, Medical, BPharm, and law programs—some of the most expensive higher education fields in India. The foundation’s support network includes alumni, individual donors, corporations, and foundations worldwide. Learn more about Foundation for Excellence and how you can support its cause.
+
+
+Newsletter #32: Hitachi Ventures, Propel(X), BalkanID: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Founders and Venture Capitalists tread the road less taken by the general population. Startups are a “strike out on your own”, high-risk/high-reward environment. While the opportunity space is complicated enough to understand and navigate, we make it hard on ourselves by having arbitrary biases, irrational fears, and having an innate need to avoid asking for help. 
+
+My guest this episode is Gayathri, a partner at Hitachi Ventures. She is the embodiment of working against biases and breaking through in the male dominated world of Venture Capital. Swati Chaturvedi (my guest in episode 35) echoes that sentiment and is focused on creating the deep tech marketplace for investments. This dispels irrational fears and quantifies risk better. What better way of quantifying risk and automating mitigations than to have a copilot for your security organization. My startup corner highlight “Balkan ID” does precisely that. 
+
+Podcast Entries: Prioritize Innovation Using Artificial Intelligence
+Graphic 1
+Graphic 2
+My guest in Episode #145 is Gayathri Radhakrishnan, a partner at Hitachi Ventures. Reflecting on her upbringing in India, she credits her competitive spirit and family support for shaping her path in male-dominated fields. Her focus at Hitachi Ventures lies in impactful AI investments, leveraging the corporation's strengths to nurture startups. Gayathri values founder passion, understanding of problems, and willingness to learn from feedback. Her advice to founders includes being prepared, taking risks, and using networks to build lasting partnerships. The discussion also covers the impact of venture capital on future generations, the benefits of corporate venture funding when done right, opportunities in AI for improving industries, and practical advice for entrepreneurs on validating ideas, accepting feedback, and networking with investors for continued support.
+Connected Insights: Dismiss outdated notions and use the tools best suited for your needs
+Quote 1
+Quote 2
+Swati Chaturvedi was my guest in Episode 35. She is the co-founder and CEO of Propel(X), Swati’s background in investment banking and corporate finance eventually led her to start Propel(X), filling a gap she perceived in funding for complex, science-driven startups. Propel(X) serves as an investment marketplace connecting accredited investors with deep tech startups. The company operates both as a marketplace and a venture fund, with Propel(X) showcasing startups and the Newton Fund investing directly. Swati stressed that while their approach may differ from traditional VC firms, their willingness to invest early and their meticulous due diligence process ensure they support startups with promising technologies. 
+In navigating the startup landscape, Chaturvedi advocates for efficiency in fundraising, dismissing outdated notions against using investment bankers or platforms like Propel(X). She argued that startups should utilize tools that enable them to optimize time and resources.
+Overall, Chaturvedi's insights underscored the critical role of innovation, strategic partnerships, and efficient fundraising in the success of tech startups.
+
+
+Startup Corner
+Balkan ID
+https://www.balkan.id/post/balkanid-copilot-supercharge-identity-security-and-lifecycle-management
+
+BalkanID recently announced their Copilot that supercharges the Identity Security and Governance lifecycle management. It converts concerns expressed in human language into multisystem queries that return back results that cybersecurity professionals can understand and act upon. It can codify the query that can be deployed and also take immediate actions to mitigate risks
+
+BalkanID Copilot is available via two configurations: The first is a turnkey solution built on BalkanID’s own Identity Governance and Administration (IGA) platform. The second is as a headless system that can be integrated with existing identity security, governance, or lifecycle management tools. This flexibility ensures that all organizations, regardless of their maturity level, can benefit from Copilot’s advanced capabilities.
+
+
+Community Involvement
+SV2 is a community of over 200 individuals and families dedicated to making a significant social impact together. By pooling money, skills, and ideas, this non-profit amplifies their collective efforts beyond what any single person or family could achieve alone. Their collaborative model enhances the ability to support innovative social ventures, fostering connections among like-minded individuals. Through strategic grants and impact investments, SV2 empowers organizations to strengthen their capacity and achieve their social impact goals. Moreover, members grow into more effective givers, continually expanding their philanthropic reach within Silicon Valley and beyond. Gayathri Radhakrishnan expressed her enthusiasm about SV2 in the latest episode of The Sure Shot Entrepreneur Podcast.
+
+
+
+
+Newsletter #31: Deciens, K9 Ventures, Lumber: The Sure Shot Entrepreneur Newsletter
+Email Intro Text
+
+Happy Fourth of July! The great “American experiment” is a year older. There are two great ingredients in the American way: independence and freedom. Individual freedom enables the pioneers to choose where they go. Freedom lets the pioneer wander away from the security of the traditional community and seek newer pastures. Both of these are critical to the success of the American experiment.
+
+Startups thrive when they have the independence to strike their own path and the freedom to execute in their own way. My guest in the podcast episode is Dan Kimerling. He says that boldness is a key characteristic that he looks for in founders. They are the ones that are able to wield the freedom and independence that venture funding offers in the best way possible.
+
+
+Podcast Entries: Courageous Entrepreneurs Are Heroes, Not Consensus Seekers
+<Joe to fill in>
+https://podcast.sure.ventures/episodes/tsse144-courageous-entrepreneurs-dan-kimerling
+
+My guest in this episode is Dan Kimerling, founder and managing partner at Deciens. Deciens has a strategy of leading financing deals with a concentrated portfolio, allowing for deep partnerships with entrepreneurs. Dan credits Deciens achievement of better than the average venture capital returns to its bold, non-orthodox strategy. He emphasizes the importance of alignment with entrepreneurs and LPs, advocating for a venture capital model that values courage, commitment, and long-term relationships over diversification and transactional interactions. No wonder that Deciens has led 23 out of the 24 investments it has made. On the other end, Deciens is very concentrated and committed to its LPs too. Dan is very accessible to his LPs and practices a “streets kind of venture capital” in Albuquerque, New Mexico.  
+
+Connected Insights: Do you need a business card at conferences?
+
+
+Manu Kumar
+HiHello 
+https://www.hihello.com/blog/make-your-business-card-conference-ready-with-hihello
+
+Manu Kumar, Founder and Chief Firestarter of K9 Ventures, was my guest on episode 111 of the podcast. He talked about how he balances being an investor and a founder. He shares unique insights from his experience founding Carta, HiHello and his other startups, and lessons from his high-conviction type of investing. In the episode, he had recently started HiHello. It is a new software platform for personal and brand identity. HiHello takes on an entirely digital approach to the business card. He has some advice on how to use the platform at professional conferences. It aligns up neatly with his advice to founders : “Don’t Lose Contact with Investors, Stay in Touch”
+
+Startup Corner: Lumber makes The Business Case for Supporting Women in Construction
+
+https://www.lumberfi.com/shebuildsnation
+
+This spotlight report delves into critical issues surrounding women in the construction industry, shedding light on topics ranging from pay disparity to leadership opportunities. Gain valuable insights from the firsthand experiences of 100 women in construction, as revealed through our comprehensive survey.
+
+Community Involvement
+<Joe to fill in>
+
+Albuquerque Community Foundation
+
+
+Albuquerque is a beautiful place with a lot of natural beauty and enchantment. However it is not a great location for financial resources. Dan felt that community foundations are incredible resources around the country. He is a strong advocate of community foundations who help support local nonprofit organizations and communities around the country. The Albuquerque Community Foundation is the community he supports. 
