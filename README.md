@@ -77,3 +77,33 @@ Create an editorial intelligence platform that serves as the institutional memor
 * Historical insight discovery
 * Startup portfolio storytelling
 * Future content initiatives
+
+## Newsletter History Script
+
+A simple newsletter history reader is included in `newsletter_history.py`.
+
+To run it:
+
+```bash
+python3 newsletter_history.py
+```
+
+It reads `data/newsletter_history.csv` and prints:
+
+* total newsletter issues imported
+* unique Connected Insights guests
+* unique Startup Corner companies
+* the most recently featured Connected Insights guest
+* the most recently featured Startup Corner company
+
+## Newsletter Archive Importer
+
+A first-version importer is available in `newsletter_archive_importer.py`.
+
+To run it after placing the archive sample at `data/newsletter_archive_sample.txt`:
+
+```bash
+python3 newsletter_archive_importer.py
+```
+
+The importer will parse the archive and update `data/newsletter_history.csv` with any reliably extracted historical issues.
