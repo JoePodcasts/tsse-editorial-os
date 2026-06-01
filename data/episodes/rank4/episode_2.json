@@ -1,12 +1,30 @@
 {
   "episode_number": 2,
-  "title": "100 Angel Investments",
+  "title": "Lessons from >100 angel investments",
   "guest_name": "Gokul Rajaram",
   "episode_url": "https://podcast.sure.ventures/episodes/100-angel-investments",
-  "primary_theme": "",
-  "secondary_themes": [],
-  "founder_lessons": [],
-  "industries": [],
+  "guest_rank": 4,
+  "primary_theme": "Founder selection for angel investing",
+  "secondary_themes": [
+    "Founder-market fit",
+    "Relentless resourcefulness",
+    "Community-minded investing"
+  ],
+  "founder_lessons": [
+    "Invest in founders who are relentlessly resourceful and will move heaven and earth to solve problems.",
+    "Prioritize founders with unique, non-obvious market insights rather than ideas that are obvious from outside observation.",
+    "Treat angel investing as a way to give back to and learn from the entrepreneurial community, not primarily as a financial transaction.",
+    "A founder's ability to act on a problem and attract support is a stronger signal than the exact form of the business at first glance."
+  ],
+  "industries": [
+    "Venture Capital",
+    "AdTech",
+    "Enterprise Software"
+  ],
   "community_organizations": [],
-  "source_notes": "Transcript source required from TSSE episode page for Episode 2 to populate themes, lessons, industries, and organizations."
+  "notable_quotes": [
+    "This person, Max, is going to do whatever it takes. He just cannot eat, sleep, or breathe unless he's just thinking about the problem all the time.",
+    "The second thing I look for is founder market fit. By this, I mean, the founder has a unique non-obvious insight about the market.",
+    "If you're too focused on financial returns, entrepreneurs get turned off by that. So I do it for three reasons. Financial is the last one."
+  ]
 }
