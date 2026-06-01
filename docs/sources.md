@@ -345,13 +345,14 @@ Used by:
 
 Location:
 
-To be defined during implementation.
+Repository-managed dataset.
 
-Potential formats:
+Initial implementation should use a CSV file stored within TSSE Editorial OS.
 
-* CSV
-* Google Sheet
-* Database table
+Future implementations may migrate to:
+- Google Sheets
+- Database tables
+- Other structured storage systems
 
 Minimum Fields:
 
