@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# VS Code / Codespaces
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data exports
+data/raw/
+data/temp/
+
+# Windows
+Thumbs.db
