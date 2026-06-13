@@ -1,0 +1,35 @@
+{
+  "episode_number": 93,
+  "title": "FinTech for a Better Tomorrow",
+  "guest_name": "Jake Gibson",
+  "episode_url": "https://podcast.sure.ventures/episodes/tsse93-fintech-better-tomorrow",
+  "primary_theme": "Everything is FinTech and the shift toward contextual financial products",
+  "secondary_themes": [
+    "Embedded FinTech",
+    "Programmable financial infrastructure",
+    "Regulatory complexity",
+    "Sector-specialist support"
+  ],
+  "founder_lessons": [
+    "Treat FinTech zero-to-one work as heavier than ordinary SaaS because regulatory mistakes can create serious trouble.",
+    "Build financial products in the user context where the problem actually appears.",
+    "Use sector specialists to shorten bank, payment, insurance, or compliance partnership cycles.",
+    "Do not assume FinTech has peaked; the underlying financial infrastructure transition remains early."
+  ],
+  "industries": [
+    "FinTech",
+    "Venture Capital",
+    "Banking-as-a-Service",
+    "Payments",
+    "Insurance"
+  ],
+  "community_organizations": [
+    "GiveWell"
+  ],
+  "notable_quotes": [
+    "Ever since our first fund, back in 2019, the cover of our pitch decks has always said \"Everything is FinTech\" because we have this view that finance is becoming technology and technology is permeating everything.",
+    "it's not rocket science. It's just that it's a lot of work.",
+    "Personally, I've always been a big supporter of GiveWell, which is based here in San Francisco."
+  ],
+  "guest_rank": 4
+}

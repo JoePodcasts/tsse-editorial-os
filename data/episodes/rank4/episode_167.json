@@ -1,0 +1,36 @@
+{
+  "episode_number": 167,
+  "title": "Safer AI Future",
+  "guest_name": "Geoff Ralston",
+  "episode_url": "https://podcast.sure.ventures/episodes/tsse167-safer-ai-future-geoff-ralston",
+  "primary_theme": "AI safety investing to protect humanity from powerful autonomous technologies",
+  "secondary_themes": [
+    "Artificial general intelligence",
+    "Biosafety products",
+    "Human-centered work",
+    "AI safety nonprofits and labs"
+  ],
+  "founder_lessons": [
+    "Build products that counter concrete AI failure modes, not just products that exploit AI capabilities.",
+    "Recognize AI as more than an efficiency tool because it can increasingly act independently.",
+    "Look for safety models that can scale through companies while complementing nonprofit research.",
+    "Prepare founders and leaders for a future in which AI changes every aspect of life."
+  ],
+  "industries": [
+    "Artificial Intelligence",
+    "AI Safety",
+    "Venture Capital",
+    "Biosafety",
+    "Education Technology"
+  ],
+  "community_organizations": [
+    "INSEAD Artificial Intelligence Venture Lab",
+    "Golden Gate Institute"
+  ],
+  "notable_quotes": [
+    "I am more interested in products and services that counter some of the things that can go wrong.",
+    "It's increasingly independent.",
+    "my goal is to do whatever I can with these community organizations, these nonprofit organizations and the for-profit organizations to help ensure this beneficial future."
+  ],
+  "guest_rank": 4
+}

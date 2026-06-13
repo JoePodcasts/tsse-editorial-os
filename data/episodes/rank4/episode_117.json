@@ -1,0 +1,37 @@
+{
+  "episode_number": 117,
+  "title": "Future of Insurance",
+  "guest_name": "David Gritz",
+  "episode_url": "https://podcast.sure.ventures/episodes/tsse117-future-of-insurance-bryan-falchuk-david-gritz",
+  "primary_theme": "InsurTech can restore insurance to its customer promise",
+  "secondary_themes": [
+    "Insurance technology debt",
+    "Customer experience transformation",
+    "Carrier-startup collaboration",
+    "Female founders in FinTech and insurance"
+  ],
+  "founder_lessons": [
+    "Start from a clean-sheet customer experience rather than automating the incumbent workflow as-is.",
+    "Understand that large insurance companies may spend heavily on IT without moving the ball effectively.",
+    "Build support structures that connect startups with carriers and mentors in the insurance ecosystem.",
+    "Increase representation in FinTech and InsurTech so the builders better match the market they serve."
+  ],
+  "industries": [
+    "InsurTech",
+    "FinTech",
+    "Insurance",
+    "Venture Capital",
+    "Enterprise Software"
+  ],
+  "community_organizations": [
+    "InsurTech New York",
+    "InsureTech SF",
+    "Female Founders in FinTech Foundation"
+  ],
+  "notable_quotes": [
+    "insurtech is necessary for the insurance industry to realize its promise.",
+    "the promise of insurance is to bring people back to the position that they were in prior to a calamity happening",
+    "the purpose of it is really to help support female founders that want to come into finance and insurance and get the resources and support that they need."
+  ],
+  "guest_rank": 4
+}

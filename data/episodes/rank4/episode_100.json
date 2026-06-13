@@ -1,0 +1,35 @@
+{
+  "episode_number": 100,
+  "title": "Listen to Remarkable People",
+  "guest_name": "Guy Kawasaki",
+  "episode_url": "https://podcast.sure.ventures/episodes/tsse100-listen-to-remarkable-people-guy-kawasaki",
+  "primary_theme": "Evangelism, craft, and making people remarkable",
+  "secondary_themes": [
+    "Career decisions by conviction",
+    "Product evangelism",
+    "Podcast production quality",
+    "Democratizing tech access"
+  ],
+  "founder_lessons": [
+    "Fall in love with products and missions deeply enough to evangelize them authentically.",
+    "Do not confuse raw authenticity with quality; craft and editing can help the audience and guest.",
+    "Anticipate what customers want rather than only asking them what they need.",
+    "Make content, products, and storytelling good enough for selective audiences, not just mass attention."
+  ],
+  "industries": [
+    "Technology",
+    "Venture Capital",
+    "Podcasting",
+    "Design Software",
+    "Media"
+  ],
+  "community_organizations": [
+    "Digital Nest"
+  ],
+  "notable_quotes": [
+    "Basically, I fall in love with stuff and I go with it.",
+    "Obviously I spend 15 hours editing, but I try to make the podcast as clean and entertaining and position my guest as remarkably as possible.",
+    "what I love about Digital Nest is that they're giving the kids of farm workers a digital future."
+  ],
+  "guest_rank": 4
+}

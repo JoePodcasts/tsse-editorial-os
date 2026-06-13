@@ -1,0 +1,35 @@
+{
+  "episode_number": 129,
+  "title": "VC Generates Alpha",
+  "guest_name": "Miles Dieffenbach",
+  "episode_url": "https://podcast.sure.ventures/episodes/tsse129-vc-generates-alpha-miles-dieffenbach",
+  "primary_theme": "Generating venture alpha through manager selection, alignment, and university innovation",
+  "secondary_themes": [
+    "Endowment venture allocation",
+    "CMU innovation advantage",
+    "GP commitment alignment",
+    "Access and inclusion through education"
+  ],
+  "founder_lessons": [
+    "Use venture capital to access the innovation economy, especially when your institution has a structural technology network advantage.",
+    "Judge managers by fund size, portfolio construction, and risk-adjusted return potential, not just market beta.",
+    "Align incentives through meaningful GP commitment relative to the manager's actual liquid net worth.",
+    "Remember that returns to an endowment can become research, aid, and broader social impact."
+  ],
+  "industries": [
+    "Venture Capital",
+    "Endowments",
+    "Artificial Intelligence",
+    "Robotics",
+    "Computer Science"
+  ],
+  "community_organizations": [
+    "Carnegie Mellon University"
+  ],
+  "notable_quotes": [
+    "Venture capital, we think, is the best way to play the innovation economy.",
+    "CMU had the first ever undergraduate program for artificial intelligence.",
+    "inclusion and access is everything for us and CMU."
+  ],
+  "guest_rank": 4
+}
