@@ -51,7 +51,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Konfyd
 - Notes:
 
 ### Recommendation 1: Konfyd
@@ -97,9 +97,9 @@ Plain-English rationale: Recommended because the episode shares industry context
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 2: Balance Cash
@@ -144,9 +144,9 @@ Plain-English rationale: Recommended because the episode connects to Balance Cas
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 3: Weav
@@ -191,9 +191,9 @@ Plain-English rationale: Recommended because the episode connects to Weav's them
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No:Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 4: Rigor.ai
@@ -236,9 +236,9 @@ Plain-English rationale: Recommended because the episode shares industry context
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No 
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 5: TrustLayer
@@ -281,9 +281,9 @@ Plain-English rationale: Recommended because the episode connects to TrustLayer'
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ## Test 2: Episode 117 - David Gritz
@@ -300,7 +300,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Weav
 - Notes:
 
 ### Recommendation 1: Weav
@@ -345,9 +345,9 @@ Plain-English rationale: Recommended because the episode shares industry context
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 2: Coterie
@@ -392,10 +392,10 @@ Plain-English rationale: Recommended because the episode shares industry context
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
-- Notes:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
+- Notes: 
 
 ### Recommendation 3: Balance Cash
 
@@ -437,9 +437,9 @@ Plain-English rationale: Recommended because the episode shares industry context
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: No
 - Notes:
 
 ### Recommendation 4: Konfyd
@@ -482,10 +482,10 @@ Plain-English rationale: Recommended because the episode shares industry context
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
-- Notes:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
+- Notes: 
 
 ### Recommendation 5: TrustLayer
 
@@ -527,9 +527,9 @@ Plain-English rationale: Recommended because the episode shares industry context
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ## Test 3: Episode 34 - Vivek Krishnamurthy
@@ -546,7 +546,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Hi Marley
 - Notes:
 
 ### Recommendation 1: Weav
@@ -605,9 +605,9 @@ Plain-English rationale: Recommended because the episode connects to Weav's them
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 2: Hi Marley
@@ -671,9 +671,9 @@ Plain-English rationale: Recommended because the episode connects to Hi Marley's
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 3: Balance Cash
@@ -724,9 +724,9 @@ Plain-English rationale: Recommended because the episode connects to Balance Cas
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 4: TrustLayer
@@ -777,9 +777,9 @@ Plain-English rationale: Recommended because the episode connects to TrustLayer'
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 5: Coterie
@@ -824,9 +824,9 @@ Plain-English rationale: Recommended because the episode shares industry context
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ## Test 4: Episode 167 - Geoff Ralston
@@ -843,7 +843,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Weav
 - Notes:
 
 ### Recommendation 1: Weav
@@ -923,9 +923,9 @@ Plain-English rationale: Recommended because the episode connects to Weav's them
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 2: Balance Cash
@@ -988,9 +988,9 @@ Plain-English rationale: Recommended because the episode connects to Balance Cas
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 3: TrustLayer
@@ -1053,9 +1053,9 @@ Plain-English rationale: Recommended because the episode connects to TrustLayer'
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 4: Hi Marley
@@ -1140,9 +1140,9 @@ Plain-English rationale: Recommended because the episode connects to Hi Marley's
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 5: Lumber
@@ -1207,9 +1207,9 @@ Plain-English rationale: Recommended because the episode connects to Lumber's th
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ## Test 5: Episode 12 - Ravi Belani
@@ -1226,7 +1226,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Balance Cash
 - Notes:
 
 ### Recommendation 1: Balance Cash
@@ -1267,9 +1267,9 @@ Plain-English rationale: Balance Cash is a lower-overlap candidate from the appr
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 2: Konfyd
@@ -1310,9 +1310,9 @@ Plain-English rationale: Konfyd is a lower-overlap candidate from the approved S
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 3: Rigor.ai
@@ -1353,9 +1353,9 @@ Plain-English rationale: Rigor.ai is a lower-overlap candidate from the approved
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 4: Weav
@@ -1396,9 +1396,9 @@ Plain-English rationale: Weav is a lower-overlap candidate from the approved Sta
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
 ### Recommendation 5: TrustLayer
@@ -1439,8 +1439,8 @@ Plain-English rationale: TrustLayer is a lower-overlap candidate from the approv
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
+- Would use in newsletter? Yes/No: Yes
 - Notes:
 
