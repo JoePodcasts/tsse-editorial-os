@@ -4,22 +4,35 @@
   "guest_name": "Galym Imanbayev",
   "episode_url": "https://podcast.sure.ventures/episodes/show-your-assumptions",
   "guest_rank": 4,
-  "primary_theme": "Transparency and Assumption Validation",
+  "primary_theme": "Health Investing with Empathy, Assumption Testing, and Patient Capital",
   "secondary_themes": [
-    "Decision Making",
-    "Clarity",
-    "Communication"
+    "Health versus healthcare",
+    "Social determinants of health",
+    "Investor bias and heuristics",
+    "Founder diligence as diagnosis"
   ],
   "founder_lessons": [
-    "Make your assumptions explicit and test them rigorously.",
-    "Transparency with investors and teams builds trust.",
-    "Clarity of thought precedes successful execution."
+    "Meet investors with empathy, but make your key assumptions and metrics explicit.",
+    "Use investor meetings to ask technical and competitive questions, even when funding is unlikely.",
+    "Choose investors whose temperament matches the stepwise value-creation curve of health businesses.",
+    "Do not import fast-fail software heuristics blindly into sectors where patient lives are at stake."
   ],
   "industries": [
     "Venture Capital",
-    "Strategy",
-    "Operations"
+    "Healthcare",
+    "Digital Health",
+    "Biotech",
+    "Life Sciences",
+    "Mental Health",
+    "Global Health"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "GAIA Global Health",
+    "Global AIDS Interfaith Alliance"
+  ],
+  "notable_quotes": [
+    "The first thing at Stanford medicine that they teach you is to meet the patient where they are at.",
+    "Distill what are the three main metrics that the founder's presented and what are the assumptions he's making",
+    "the software does not eat the world when it's patients' life is on the line"
+  ]
 }

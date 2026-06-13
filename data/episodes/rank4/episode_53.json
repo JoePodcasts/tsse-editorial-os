@@ -4,22 +4,34 @@
   "guest_name": "Sunil Nagaraj",
   "episode_url": "https://podcast.sure.ventures/episodes/ubiquity",
   "guest_rank": 4,
-  "primary_theme": "Building for Ubiquity and Market Penetration",
+  "primary_theme": "Software Beyond the Screen and Clear Seed-Stage Storytelling",
   "secondary_themes": [
-    "Distribution",
-    "Market Coverage",
-    "Growth Strategy"
+    "Real-world software",
+    "Technical fluency",
+    "Product-market fit signals",
+    "Pitch clarity"
   ],
   "founder_lessons": [
-    "Design for ubiquitous adoption from the beginning.",
-    "Focus on removing friction in customer acquisition and onboarding.",
-    "Market saturation requires founders to think about sustainable advantage."
+    "Say what the product does in simple words within the first 30 seconds.",
+    "Anchor a technical pitch in whether it works, whether anyone wants it, whether many people want it, and whether customers can be found.",
+    "Show the first high-integrity signal that a customer outside your network wants the product.",
+    "Send investors crisp follow-up sound bites so they can accurately socialize the opportunity."
   ],
   "industries": [
-    "SaaS",
-    "Enterprise Software",
-    "Distribution"
+    "Venture Capital",
+    "Software",
+    "Hardware",
+    "Deep Tech",
+    "Agriculture Technology",
+    "Industrial Technology",
+    "Astronomy Education"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "Astronomical Society of the Pacific"
+  ],
+  "notable_quotes": [
+    "software can now leap off of the computer screen and land in the real physical world",
+    "Does anyone want it? Are there a lot of those people? And can this entrepreneur find those people?",
+    "say what you do in the first 30 seconds."
+  ]
 }

@@ -4,22 +4,35 @@
   "guest_name": "Hans Morris",
   "episode_url": "https://podcast.sure.ventures/episodes/persuasive-fintech",
   "guest_rank": 4,
-  "primary_theme": "Persuasion as a Core Founder Skill",
+  "primary_theme": "Persuasion and Precision in Complex FinTech Markets",
   "secondary_themes": [
-    "FinTech",
-    "Sales Strategy",
-    "Influence"
+    "Financial services infrastructure",
+    "Consumer emotional connection",
+    "Data governance",
+    "Founder-investor fit"
   ],
   "founder_lessons": [
-    "The ability to persuade investors, customers, and teams is fundamental.",
-    "In fintech, regulatory clarity and trust-building are paramount.",
-    "Effective communication bridges technical complexity and market needs."
+    "Describe the financial services problem with precision and explain why your attack is credible.",
+    "Persuasion matters because founders must raise capital, recruit talent, and convince institutions to trust critical software.",
+    "Respect the capital and operating requirements of regulated financial business models.",
+    "Take time to understand investor personality and fit before entering a six-to-ten-year relationship."
   ],
   "industries": [
     "FinTech",
+    "Financial Services",
     "Payments",
-    "Consumer Finance"
+    "Banking Infrastructure",
+    "InsurTech",
+    "Crypto",
+    "Data Governance",
+    "Arts and Culture"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "MASS MoCA"
+  ],
+  "notable_quotes": [
+    "your persuasiveness is important because it helps you. Not just raise money and track the other people to come work with you.",
+    "They have to have a clear understanding of the problem that they're attacking and why their approach can solve it",
+    "Take your time. Make sure you really understand the personality of your party."
+  ]
 }

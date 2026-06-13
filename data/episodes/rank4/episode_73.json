@@ -4,24 +4,34 @@
   "guest_name": "Charles Hudson",
   "episode_url": "https://podcast.sure.ventures/episodes/tsse73-pre-revenue-startups-charles-precursor",
   "guest_rank": 4,
-  "primary_theme": "Identifying Quality Founders Before Traction",
+  "primary_theme": "Pre-Seed Capital as Product-Market Fit Finding, Not Company Building",
   "secondary_themes": [
-    "Early Stage",
-    "Founder-market fit",
-    "Risk Assessment"
+    "Founder clarity",
+    "Pre-revenue investing",
+    "Bridge financing",
+    "Selection skill in venture"
   ],
   "founder_lessons": [
-    "Founder quality and vision matter more than early metrics.",
-    "Pre-revenue is the time to build authentic customer relationships.",
-    "Focus on founder-market fit indicators beyond financial metrics."
+    "Explain what the product does, why it matters, and for whom before asking investors to engage deeply.",
+    "Raise an amount appropriate to the proof points needed for product-market fit.",
+    "Treat bridge funding as a bridge to specific evidence, not as a way to avoid clarity.",
+    "Use investor updates and early relationships to let insiders understand what is not yet public about the company."
   ],
   "industries": [
     "Venture Capital",
-    "Early-stage Investing",
-    "Founder Development"
+    "Pre-Seed Investing",
+    "Software",
+    "Hardware",
+    "FinTech",
+    "Real Estate Technology",
+    "Food Security"
   ],
   "community_organizations": [
-    "Precursor Ventures Network"
+    "San Francisco-Marin Food Bank"
   ],
-  "notable_quotes": []
+  "notable_quotes": [
+    "the million-dollar pre-seed round is not for company building as much as it is for product-market fit finding.",
+    "get really, really clear on what your product does and why it matters. And to whom it matters.",
+    "There's something to be said about giving people the ability to demonstrate selection skill earlier in their lives."
+  ]
 }

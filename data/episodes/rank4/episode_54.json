@@ -4,24 +4,33 @@
   "guest_name": "Satya Patel",
   "episode_url": "https://podcast.sure.ventures/episodes/homebrew",
   "guest_rank": 4,
-  "primary_theme": "Community-Driven Venture Capital",
+  "primary_theme": "Mission-Driven Seed-Phase Company Building",
   "secondary_themes": [
-    "Community",
-    "Alternative Investing",
-    "Founder Networks"
+    "Founder motivation",
+    "Product-market fit",
+    "Hands-on seed investing",
+    "Diverse check writers"
   ],
   "founder_lessons": [
-    "Building community around your cap table creates lasting value.",
-    "Accessible investing opportunities strengthen the entrepreneurial ecosystem.",
-    "Founder relationships transcend financial transactions."
+    "Start with one user, one use case, and one solution while learning toward product-market fit.",
+    "Articulate both the long-term vision and the path of execution.",
+    "Choose hands-on investors only if you want that level of relationship and accountability.",
+    "Build trust and transparency around milestones so follow-on decisions are not surprises."
   ],
   "industries": [
     "Venture Capital",
-    "Community",
-    "Investing"
+    "FinTech",
+    "Agriculture Technology",
+    "Neobanking",
+    "APIs",
+    "Education"
   ],
   "community_organizations": [
-    "Homebrew Fund Community"
+    "KIPP"
   ],
-  "notable_quotes": []
+  "notable_quotes": [
+    "We're really trying to identify the mission-driven founders, tackling markets, where the pain is large, acute and valuable",
+    "we really want founders who are voracious learners.",
+    "That seed phase is all about establishing product market fit."
+  ]
 }

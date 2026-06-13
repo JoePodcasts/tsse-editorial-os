@@ -4,24 +4,34 @@
   "guest_name": "Ullas Naik",
   "episode_url": "https://podcast.sure.ventures/episodes/x-factor",
   "guest_rank": 4,
-  "primary_theme": "Founder Selection and the Intangible X-Factor",
+  "primary_theme": "Founder X-Factor at the Intersection of Market Conviction and Execution",
   "secondary_themes": [
-    "Pattern Recognition",
-    "Founder-Market Fit",
-    "Early-stage Investing"
+    "Solo GP decision-making",
+    "Applied data science and APIs",
+    "Pre-seed and seed investing",
+    "Creative liquidity paths"
   ],
   "founder_lessons": [
-    "Look for founders with deep market insights and non-obvious perspectives.",
-    "The ability to attract and inspire a talented team is a critical success factor.",
-    "Founders must demonstrate relentless resourcefulness and problem-solving drive."
+    "Build conviction around where a market will be five to seven years out, not only where it is today.",
+    "Pair a strong market point of view with intellectual and physical horsepower.",
+    "First-time founders do not need excessive polish if they show hunger, tenacity, or deep product vision.",
+    "Complementary hacker-and-hustler teams can turn early technical and business ambiguity into company-building momentum."
   ],
   "industries": [
     "Venture Capital",
-    "SaaS",
-    "Enterprise"
+    "Data Science",
+    "Artificial Intelligence",
+    "APIs",
+    "Software Automation",
+    "AdTech",
+    "Mobile",
+    "HealthTech",
+    "Digital Assets"
   ],
   "community_organizations": [],
   "notable_quotes": [
-    "X factor is about founders who can see around corners."
+    "the X-factor invariably is at the cross section of deep conviction around market trends and an enormous amount of intellectual and physical horsepower.",
+    "The amazing thing to me was that it was not straightforward to everybody else because sort of the shine was coming off the whole ad tech market at that point in time.",
+    "If you don't have the sort of the, the courage of your convictions, that model is really hard to implement."
   ]
 }

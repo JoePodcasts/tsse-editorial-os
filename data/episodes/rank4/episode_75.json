@@ -4,22 +4,33 @@
   "guest_name": "Dan Rosen",
   "episode_url": "https://podcast.sure.ventures/episodes/tsse75-fintech-startup-ideas-dan-rosen-commercevc",
   "guest_rank": 4,
-  "primary_theme": "FinTech Opportunity Identification",
+  "primary_theme": "FinTech Opportunity Selection Through Founder Journey and Strategic Fit",
   "secondary_themes": [
-    "Consumer FinTech",
-    "Business Models",
-    "Regulatory Environment"
+    "FinTech infrastructure",
+    "Domain expertise versus outsider learning",
+    "Embedded financial services",
+    "Diversity in venture"
   ],
   "founder_lessons": [
-    "Consumer FinTech requires deep understanding of behavior and incentives.",
-    "Regulatory environment shapes FinTech business model viability.",
-    "Focus on solving real customer pain points, not tech trends."
+    "Show the personal journey and motivation behind the company, not only the product facts.",
+    "In regulated markets, balance risk-taking with respect for operational and compliance complexity.",
+    "If you are an outsider, go deep enough to understand the industry better than insiders who are merely adjacent.",
+    "Seek investors whose focus and ability to help match the company, not just investors willing to wire money."
   ],
   "industries": [
     "FinTech",
+    "Financial Services Infrastructure",
+    "Payments",
+    "Banking",
+    "Insurance",
+    "Pawn Lending",
     "Consumer Finance",
-    "Payments"
+    "Diversity and Inclusion"
   ],
   "community_organizations": [],
-  "notable_quotes": []
+  "notable_quotes": [
+    "Being an entrepreneur is fundamentally an irrational thing, right?",
+    "the passion that he had for the opportunity he was pursuing led him to go very deep, very quickly.",
+    "We don't even know what the full potential of FinTech is,"
+  ]
 }

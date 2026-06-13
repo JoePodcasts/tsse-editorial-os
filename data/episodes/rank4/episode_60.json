@@ -4,22 +4,33 @@
   "guest_name": "Mark Fernandes",
   "episode_url": "https://podcast.sure.ventures/episodes/prioritize-cash-team-and-momentum-in-that-order",
   "guest_rank": 4,
-  "primary_theme": "Founder Priorities and Operational Excellence",
+  "primary_theme": "Cash, Team, and Momentum as the Operating Order for Founders",
   "secondary_themes": [
-    "Cash Flow Management",
-    "Team Building",
-    "Operational Discipline"
+    "Enterprise customer networks",
+    "Founder recruiting",
+    "Customer discovery",
+    "Generational VC firm transition"
   ],
   "founder_lessons": [
-    "Cash is king\u2014prioritize cash flow and runway above all else.",
-    "Your team multiplier is more important than any single hire.",
-    "Momentum compounds over time; maintain strategic focus."
+    "Prioritize cash first, because funding enables team building and team building creates momentum.",
+    "Spend meaningful CEO time recruiting direct reports and other A-level talent.",
+    "Prepare to explain how you arrived at the problem and what customer discovery you performed.",
+    "Use domain experts and customer references to validate whether the problem is real."
   ],
   "industries": [
     "Venture Capital",
-    "Operations",
-    "Founder Advisory"
+    "Enterprise Software",
+    "Healthcare Technology",
+    "Clinical Trials",
+    "Customer Networks",
+    "Education"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "India Literacy Project"
+  ],
+  "notable_quotes": [
+    "three things, cash, team, and momentum in that order.",
+    "the CEO has to spend his or her time recruiting.",
+    "education is number one, two, and three."
+  ]
 }

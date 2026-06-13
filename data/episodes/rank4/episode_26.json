@@ -4,22 +4,33 @@
   "guest_name": "Ashmeet Sidana",
   "episode_url": "https://podcast.sure.ventures/episodes/chief-engineer",
   "guest_rank": 4,
-  "primary_theme": "Product Excellence and Technical Founder Leadership",
+  "primary_theme": "Earliest-Stage Technical Risk and Venture as a Service Business",
   "secondary_themes": [
-    "Technical Leadership",
-    "Product Development",
-    "Founder Mindset"
+    "Technical risk",
+    "Product-market fit formation",
+    "Founder communication",
+    "Early liquidity and public markets"
   ],
   "founder_lessons": [
-    "Ensure technical excellence is embedded in your product culture from day one.",
-    "Strong technical founders who understand engineering details have a competitive advantage.",
-    "Build for the right customer problem, not for technology's sake."
+    "Talk to the right earliest-stage investors before the idea is fully locked, especially when technical risk is central.",
+    "Communicate what is truly special without giving away the crown jewels.",
+    "Use a teaser deck to give investors enough context to assess fit before a meeting.",
+    "Remember that even excellent technology and strong entrepreneurs can fail when the strategic landscape is unwinnable."
   ],
   "industries": [
-    "Software",
-    "Developer Tools",
-    "Engineering"
+    "Venture Capital",
+    "Technical Infrastructure",
+    "Enterprise Software",
+    "Virtual Desktop Infrastructure",
+    "Public Markets",
+    "Education"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "School in 12 GB, district Sri Ganganagar"
+  ],
+  "notable_quotes": [
+    "it is never too early for me. It is often too late.",
+    "I'm in the service business. I am here to help an entrepreneur achieve their vision, build a great company",
+    "think very carefully about how you are going to communicate what you are doing without giving away the crown jewels."
+  ]
 }

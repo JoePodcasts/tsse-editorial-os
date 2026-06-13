@@ -4,22 +4,33 @@
   "guest_name": "Vivek Krishnamurthy",
   "episode_url": "https://podcast.sure.ventures/episodes/commerce",
   "guest_rank": 4,
-  "primary_theme": "E-commerce and Modern Commerce Infrastructure",
+  "primary_theme": "Personal Finance Autopilot and Founder Market Fluency",
   "secondary_themes": [
-    "Scaling",
-    "Market Expansion",
-    "Consumer Behavior"
+    "FinTech infrastructure",
+    "Insurance data portability",
+    "Zoom-era fundraising",
+    "Financial education"
   ],
   "founder_lessons": [
-    "Understand your unit economics before scaling aggressively.",
-    "Customer acquisition costs and retention determine long-term viability.",
-    "Commerce founders must adapt to rapidly changing consumer expectations."
+    "Know your market deeply enough to explain it simply to someone less familiar.",
+    "Bring a practical six-to-twelve-month operating view, not just a high-level vision.",
+    "Reach out to investors before a fundraise so the relationship is less transactional.",
+    "Show humility about the difficulty of the task ahead; arrogance is obvious and unappealing."
   ],
   "industries": [
-    "E-commerce",
-    "Commerce Tech",
-    "Consumer"
+    "FinTech",
+    "InsurTech",
+    "Personal Finance",
+    "Banking",
+    "Insurance",
+    "Venture Capital"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "Moneythink"
+  ],
+  "notable_quotes": [
+    "Americans deserve to have their financial services optimized when the technologies exist to do that.",
+    "It's more important to be able to articulate that in a simple way,",
+    "The humility that you can display around that can go a really long way."
+  ]
 }

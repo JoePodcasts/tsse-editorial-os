@@ -4,22 +4,34 @@
   "guest_name": "Patrick Eggen",
   "episode_url": "https://podcast.sure.ventures/episodes/tsse70-cvcs-not-devil-patrick-counterpart",
   "guest_rank": 4,
-  "primary_theme": "Corporate Venture Capital Strategy and Reality",
+  "primary_theme": "Corporate Venture Capital as Strategic Edge When Alignment Is Real",
   "secondary_themes": [
-    "CVC",
-    "Strategic Partnerships",
-    "Scaling"
+    "Balanced syndicates",
+    "CVC community building",
+    "Founder narrative coaching",
+    "Speed and discipline in venture"
   ],
   "founder_lessons": [
-    "Corporate investors bring value beyond capital\u2014distribution and validation.",
-    "Navigate corporate structures strategically to maximize founder benefit.",
-    "CVC alignment with founding vision matters more than investor type."
+    "Assess investor-company fit, including fund size, ownership goals, and stage alignment.",
+    "Come prepared with a crisp narrative, clear risks, and mitigation points the investor can repeat internally.",
+    "Treat corporate investors as potential distribution and domain-expertise partners, but test alignment and follow-on behavior.",
+    "Coach your deal champion to tell the story when you are not in the partnership meeting."
   ],
   "industries": [
     "Venture Capital",
-    "Corporate Strategy",
-    "Business Development"
+    "Corporate Venture Capital",
+    "SaaS",
+    "Marketplaces",
+    "Mobility",
+    "Business Development",
+    "Pediatric Cardiac Research"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "UCSF pediatric heart group"
+  ],
+  "notable_quotes": [
+    "Capital is a commodity. So you need a real edge.",
+    "CVCs can pack a punch way above their weight class relative to traditional VC",
+    "the ability to coach an investor on how to tell the story is a cool skill."
+  ]
 }

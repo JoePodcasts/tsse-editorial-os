@@ -4,22 +4,35 @@
   "guest_name": "Nuno Gon\u00e7alves Pedro",
   "episode_url": "https://podcast.sure.ventures/episodes/tsse79-sell-authentically-nuno-goncalves-chamaeleonvc",
   "guest_rank": 4,
-  "primary_theme": "Authentic Communication and Relationship Building",
+  "primary_theme": "Authentic Investor Communication as Dialogue, Not Slide Performance",
   "secondary_themes": [
-    "Sales Strategy",
-    "Communication",
-    "Founder Authenticity"
+    "Tech-augmented venture capital",
+    "Product and technical diligence",
+    "Founder sales cadence",
+    "International networks and education"
   ],
   "founder_lessons": [
-    "Authentic communication builds lasting investor and customer relationships.",
-    "Selling your vision requires genuine conviction and transparency.",
-    "Cultural fit and values alignment matter in partnership decisions."
+    "Research the investor and adapt the first meeting to their focus, thesis, and pace.",
+    "Treat the first investor call as a sales conversation that can later evolve into a partnership discussion.",
+    "Use your strengths for credibility, but keep the conversation at the level the listener needs.",
+    "Communicate authentically and empathetically; the objective is to talk to someone, not merely talk through slides."
   ],
   "industries": [
     "Venture Capital",
-    "Founder Relations",
-    "Sales"
+    "Artificial Intelligence",
+    "Marketplaces",
+    "SaaS",
+    "Gaming",
+    "Product Management",
+    "Education"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "West to West",
+    "Partnership for Children and Youth"
+  ],
+  "notable_quotes": [
+    "the whole objective of whatever meeting is happening is that you're talking to someone. It's a dialogue.",
+    "The best entrepreneurs are exceptional at managing pace, cadence at each call and every meeting,",
+    "don't be 'all form no substance'."
+  ]
 }

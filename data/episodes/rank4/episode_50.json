@@ -4,22 +4,34 @@
   "guest_name": "Arjan Schutte",
   "episode_url": "https://podcast.sure.ventures/episodes/childhood-not-resume",
   "guest_rank": 4,
-  "primary_theme": "Founder Formation and Personal Foundation",
+  "primary_theme": "Missionary FinTech Founders and Personal Origin Stories",
   "secondary_themes": [
-    "Personal Development",
-    "Character Building",
-    "Founder Identity"
+    "Financial health",
+    "Impact measurement",
+    "Founder backstory",
+    "Basic income and economic mobility"
   ],
   "founder_lessons": [
-    "Your formative experiences shape your entrepreneurial approach more than credentials.",
-    "Resilience built through early challenges creates better founders.",
-    "Authentic self-awareness about your background informs better decisions."
+    "Solve a big problem tied closely enough to your life that failure does not feel optional.",
+    "Tell the story before the resume; formative experiences often reveal founder motivation and grit.",
+    "Measure impact outcomes, not just good intentions.",
+    "Choose capital partners who will stay with you through thick and thin."
   ],
   "industries": [
     "Venture Capital",
-    "Coaching",
-    "Entrepreneurship"
+    "FinTech",
+    "Financial Health",
+    "Impact Investing",
+    "Payments",
+    "Basic Income"
   ],
-  "community_organizations": [],
-  "notable_quotes": []
+  "community_organizations": [
+    "Compton Community Development Corporation",
+    "Compton Pledge"
+  ],
+  "notable_quotes": [
+    "we think we can make better than market returns by investing in stuff that are arguably philanthropic",
+    "we always ask people to start at their date of birth, not at their resume",
+    "Solve a big problem. Life's too short."
+  ]
 }

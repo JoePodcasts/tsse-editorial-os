@@ -81,7 +81,8 @@ const PHASE2_EPISODES = [
   },
 ];
 
-const SPEAKER_PATTERN = /^[A-Z][A-Za-z .'\u00c0-\u017f-]+:/;
+const SPEAKER_PATTERN = /^(?:\[\d{2}:\d{2}:\d{2}\]\s*)?[A-Z][A-Za-z .'\u00c0-\u017f-]+:/;
+const METADATA_PATTERN = /^[A-Z]+ \d{1,2}(?:ST|ND|RD|TH), \d{4} \| /;
 
 function parseArgs(argv) {
   const args = {
@@ -141,16 +142,22 @@ async function loadPlaywright(modulePath) {
 }
 
 function selectTranscriptParagraphs(paragraphs) {
-  const firstTranscriptIndex = paragraphs.findIndex((paragraph) =>
+  const metadataIndex = paragraphs.findIndex((paragraph) => METADATA_PATTERN.test(paragraph));
+  const firstSpeakerIndex = paragraphs.findIndex((paragraph) =>
     SPEAKER_PATTERN.test(paragraph)
   );
   const footerIndex = paragraphs.findIndex((paragraph) =>
     paragraph.startsWith('Podcast powered by Simplecast')
   );
 
-  if (firstTranscriptIndex === -1) {
+  if (firstSpeakerIndex === -1) {
     throw new Error('Could not locate the first speaker-labeled transcript paragraph.');
   }
+
+  const firstTranscriptIndex =
+    metadataIndex !== -1 && metadataIndex < firstSpeakerIndex
+      ? metadataIndex + 1
+      : firstSpeakerIndex;
 
   return paragraphs.slice(
     firstTranscriptIndex,
@@ -160,7 +167,9 @@ function selectTranscriptParagraphs(paragraphs) {
 
 function validateTranscript(text) {
   const byteLength = Buffer.byteLength(text, 'utf8');
-  const speakerMatches = [...text.matchAll(/^([A-Z][A-Za-z .'\u00c0-\u017f-]+):/gm)];
+  const speakerMatches = [
+    ...text.matchAll(/^(?:\[\d{2}:\d{2}:\d{2}\]\s*)?([A-Z][A-Za-z .'\u00c0-\u017f-]+):/gm),
+  ];
   const speakers = [...new Set(speakerMatches.map((match) => match[1]))];
   const hasHtmlShell =
     text.includes('<!DOCTYPE html>') ||

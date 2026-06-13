@@ -4,24 +4,33 @@
   "guest_name": "Heather Hartnett",
   "episode_url": "https://podcast.sure.ventures/episodes/tsse74-business-with-gratitude-heather-humanvc",
   "guest_rank": 4,
-  "primary_theme": "Values-Driven Leadership and Human VC",
+  "primary_theme": "Backing Futurist Founders Before the Market Sees Their Value",
   "secondary_themes": [
-    "Founder Wellbeing",
-    "Values Alignment",
-    "Sustainable Growth"
+    "Gratitude as operating value",
+    "Venture studio support",
+    "Founder rapid iteration",
+    "Specialized healthcare and consumer change"
   ],
   "founder_lessons": [
-    "Gratitude and appreciation drive sustainable founder-investor relationships.",
-    "Venture should prioritize founder wellbeing, not just returns.",
-    "Values alignment with investors creates better long-term outcomes."
+    "Develop awareness of where consumers and markets are heading, then build before the market catches up.",
+    "Use rapid iteration to gain conviction in the idea and how the market is responding.",
+    "Raise only enough capital to reach the next milestone and avoid valuations the company cannot grow into.",
+    "Choose early investors whose values and level of attention match the company you are building."
   ],
   "industries": [
     "Venture Capital",
-    "Impact Investing",
-    "Founder Support"
+    "Consumer Health",
+    "Food and Agriculture",
+    "Women's Health",
+    "Culturally Relevant Healthcare",
+    "Mental Health"
   ],
   "community_organizations": [
-    "HumanVC Network"
+    "David Lynch Foundation"
   ],
-  "notable_quotes": []
+  "notable_quotes": [
+    "founders are generally living in a world that's 10 years ahead of their time.",
+    "it's hard to be unhappy if you are grateful for what you have.",
+    "Founders have to really think about being measured in the beginning and not take on too much capital at too high of a valuation before they understand if they have a product that's working."
+  ]
 }
