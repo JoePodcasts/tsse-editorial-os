@@ -53,7 +53,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Dan Kimerling - Episode 144
 - Notes:
 
 ### Recommendation 1: Dan Kimerling - Episode 144
@@ -99,10 +99,10 @@ Plain-English rationale: Dan Kimerling is relevant because Episode 144 shares th
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 2: Zach Noorani - Episode 172
 
@@ -149,10 +149,10 @@ Plain-English rationale: Zach Noorani is relevant because Episode 172 shares the
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 3: Shruti Gandhi - Episode 14
 
@@ -198,10 +198,10 @@ Plain-English rationale: Shruti Gandhi is relevant because Episode 14 shares the
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 4: Matt Harris - Episode 81
 
@@ -243,10 +243,10 @@ Plain-English rationale: Matt Harris is relevant because Episode 81 shares the t
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 5: Manu Kumar - Episode 111
 
@@ -288,10 +288,10 @@ Plain-English rationale: Manu Kumar is relevant because Episode 111 shares the t
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: No
 
 ## Test 2: Episode 73 - Charles Hudson
 
@@ -308,7 +308,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Satya Patel - Episode 54
 - Notes:
 
 ### Recommendation 1: Satya Patel - Episode 54
@@ -353,10 +353,10 @@ Plain-English rationale: Satya Patel is relevant because Episode 54 shares the t
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 2: Sunil Nagaraj - Episode 53
 
@@ -398,10 +398,10 @@ Plain-English rationale: Sunil Nagaraj is relevant because Episode 53 shares the
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 3: David Thacker - Episode 110
 
@@ -441,10 +441,10 @@ Plain-English rationale: David Thacker is relevant because Episode 110 shares th
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 4: Manu Kumar - Episode 111
 
@@ -486,10 +486,10 @@ Plain-English rationale: Manu Kumar is relevant because Episode 111 shares the t
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 5: Pablo Srugo - Episode 158
 
@@ -532,10 +532,10 @@ Plain-English rationale: Pablo Srugo is relevant because Episode 158 shares the 
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ## Test 3: Episode 75 - Dan Rosen
 
@@ -552,7 +552,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Vivek Krishnamurthy - Episode 34
 - Notes:
 
 ### Recommendation 1: Vivek Krishnamurthy - Episode 34
@@ -593,10 +593,10 @@ Plain-English rationale: Vivek Krishnamurthy is relevant because Episode 34 shar
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 2: Ryan Falvey - Episode 106
 
@@ -637,10 +637,10 @@ Plain-English rationale: Ryan Falvey is relevant because Episode 106 shares the 
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 3: Hans Morris - Episode 51
 
@@ -684,10 +684,10 @@ Plain-English rationale: Hans Morris is relevant because Episode 51 shares the t
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 4: Jake Gibson - Episode 93
 
@@ -725,10 +725,10 @@ Plain-English rationale: Jake Gibson is a lower-theme-overlap candidate from Epi
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 5: Dan Kimerling - Episode 144
 
@@ -771,10 +771,10 @@ Plain-English rationale: Dan Kimerling is relevant because Episode 144 shares th
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ## Test 4: Episode 179 - Steve Kim
 
@@ -791,7 +791,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Aakar Vachhani - Episode 135
 - Notes:
 
 ### Recommendation 1: Aakar Vachhani - Episode 135
@@ -849,10 +849,10 @@ Plain-English rationale: Aakar Vachhani is relevant because Episode 135 shares t
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
-- Notes:
-- Would use in newsletter? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
+- Notes: 
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 2: Eric Sippel - Episode 136
 
@@ -900,10 +900,10 @@ Plain-English rationale: Eric Sippel is relevant because Episode 136 shares the 
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 3: Maryam Haque - Episode 175
 
@@ -954,10 +954,10 @@ Plain-English rationale: Maryam Haque is relevant because Episode 175 shares the
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 4: Jessie Guo - Episode 153
 
@@ -1008,10 +1008,10 @@ Plain-English rationale: Jessie Guo is relevant because Episode 153 shares the t
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 5: Aram Verdiyan - Episode 128
 
@@ -1058,10 +1058,10 @@ Plain-English rationale: Aram Verdiyan is relevant because Episode 128 shares th
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ## Test 5: Episode 167 - Geoff Ralston
 
@@ -1078,7 +1078,7 @@ Current episode context:
 
 Joe/Gopi episode review:
 
-- Best recommendation among top 5:
+- Best recommendation among top 5: Ian Rountree - Episode 9
 - Notes:
 
 ### Recommendation 1: Miles Dieffenbach - Episode 129
@@ -1118,10 +1118,10 @@ Plain-English rationale: Miles Dieffenbach is a lower-theme-overlap candidate fr
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 2: Ian Rountree - Episode 9
 
@@ -1159,10 +1159,10 @@ Plain-English rationale: Ian Rountree is relevant because Episode 9 shares the t
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: Yes
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 3: Ullas Naik - Episode 25
 
@@ -1199,10 +1199,10 @@ Plain-English rationale: Ullas Naik is a lower-theme-overlap candidate from Epis
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: No
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: Yes
 
 ### Recommendation 4: Ramneek Gupta - Episode 55
 
@@ -1239,10 +1239,10 @@ Plain-English rationale: Ramneek Gupta is a lower-theme-overlap candidate from E
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: no
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: No
 
 ### Recommendation 5: Nuno Gonçalves Pedro - Episode 79
 
@@ -1279,8 +1279,8 @@ Plain-English rationale: Nuno Gonçalves Pedro is a lower-theme-overlap candidat
 
 Joe/Gopi candidate review:
 
-- Strong candidate? Yes/No:
-- Plausible candidate? Yes/No:
+- Strong candidate? Yes/No: No 
+- Plausible candidate? Yes/No: Yes
 - Notes:
-- Would use in newsletter? Yes/No:
+- Would use in newsletter? Yes/No: No
 
