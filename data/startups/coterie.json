@@ -1,0 +1,140 @@
+{
+  "company_name": "Coterie",
+  "canonical_slug": "coterie",
+  "aliases": [
+    "Coterie - a vision driven by AI and human creativity",
+    "Coterie Insurance"
+  ],
+  "website": "https://coterieinsurance.com/",
+  "category": "InsurTech",
+  "industries": [
+    "InsurTech",
+    "Small Business Insurance",
+    "Commercial Insurance",
+    "Digital Underwriting",
+    "Insurance Distribution",
+    "API Insurance Infrastructure"
+  ],
+  "themes": [
+    "Digital small-business insurance",
+    "Instant bindable quotes",
+    "Agent and broker workflow efficiency",
+    "Real-time underwriting",
+    "Commercial insurance simplification",
+    "Embedded partner distribution"
+  ],
+  "founder_names": [],
+  "founder_background": "",
+  "sure_relationship": {
+    "relationship_type": "",
+    "relationship_notes": "",
+    "evidence": [],
+    "review_status": "unreviewed"
+  },
+  "guest_relationships": [],
+  "notable_milestones": [
+    {
+      "date": "",
+      "issue_number": 40,
+      "title": "Coterie - a vision driven by AI and human creativity",
+      "summary": "Startup Corner newsletter-history item; requires manual review before being treated as current company news.",
+      "source_url": "data/newsletter_history.csv",
+      "source_type": "newsletter_history",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "date": "",
+      "title": "Coterie launched in 2018 to transform small business insurance with data and technology",
+      "summary": "Official About page states Coterie launched in 2018 with the belief that small business insurance could be transformed by using data and technology for agents, brokers, and policyholders.",
+      "source_url": "https://coterieinsurance.com/about/",
+      "source_type": "official_company_website",
+      "review_status": "official_site_supported"
+    }
+  ],
+  "last_news_date": "",
+  "previous_newsletter_appearances": [
+    {
+      "issue_number": 65,
+      "raw_value": "Coterie Insurance",
+      "normalized_company": "Coterie",
+      "featured_episode": "",
+      "featured_guest": "",
+      "connected_insight_guest": "The Power of Early Believers",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 40,
+      "raw_value": "Coterie - a vision driven by AI and human creativity",
+      "normalized_company": "Coterie",
+      "featured_episode": "",
+      "featured_guest": "",
+      "connected_insight_guest": "Build Strategies Around Who You Are",
+      "publication_date": "",
+      "central_theme": ""
+    }
+  ],
+  "source_urls": [
+    {
+      "label": "Repository source registry",
+      "url": "docs/sources.md",
+      "source_type": "repository_documentation",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "company_name",
+        "website",
+        "category"
+      ]
+    },
+    {
+      "label": "Official website from docs/sources.md",
+      "url": "https://coterieinsurance.com/",
+      "source_type": "company_website",
+      "review_status": "from_repository_source_registry_and_used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes"
+      ]
+    },
+    {
+      "label": "Official About page",
+      "url": "https://coterieinsurance.com/about/",
+      "source_type": "official_company_website",
+      "review_status": "used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes",
+        "notable_milestones"
+      ]
+    },
+    {
+      "label": "Newsletter history dataset",
+      "url": "data/newsletter_history.csv",
+      "source_type": "repository_dataset",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "aliases",
+        "previous_newsletter_appearances",
+        "notable_milestones"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Website and category are sourced from docs/sources.md.",
+    "Previous newsletter appearances are normalized from data/newsletter_history.csv when the company or a clear alias appears in startup_corner_company.",
+    "Normalized 2 previous Startup Corner appearance(s) from newsletter history.",
+    "v2 industries sourced from https://coterieinsurance.com/, https://coterieinsurance.com/about/.",
+    "v2 themes sourced from https://coterieinsurance.com/, https://coterieinsurance.com/about/.",
+    "v2 notable_milestones sourced from https://coterieinsurance.com/about/.",
+    "v2 founder fields were left blank because no founder names were found in the reviewed official website content.",
+    "v2 sure_relationship and guest_relationships were left blank because no direct relationship evidence was found in approved sources.",
+    "v2 founder fields remain blank pending official founder evidence or manual review.",
+    "v2 sure_relationship and guest_relationships remain blank pending verified relationship evidence."
+  ],
+  "evidence_status": {
+    "company_profile_reviewed": true,
+    "sure_relationship_reviewed": false,
+    "newsletter_history_reviewed": true,
+    "last_manual_review_date": "2026-06-13"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "company_name": "Hi Marley",
+  "canonical_slug": "hi_marley",
+  "aliases": [
+    "Hi Marley is CNBC\u2019s World\u2019s Top InsurTech 2024"
+  ],
+  "website": "https://www.himarley.com/",
+  "category": "Insurance Communication Platform",
+  "industries": [
+    "InsurTech",
+    "P&C Insurance",
+    "Insurance Claims",
+    "Insurance Communications",
+    "Conversational AI",
+    "Customer Experience"
+  ],
+  "themes": [
+    "Insurance communication fabric",
+    "Claims and service communication",
+    "AI coaching and data insights",
+    "Conversational FNOL",
+    "Carrier-policyholder collaboration",
+    "Simple and empathetic insurance experiences"
+  ],
+  "founder_names": [
+    "Mike Greene",
+    "Mitesh Suchak",
+    "John Miller"
+  ],
+  "founder_background": "Official story page says Mike Greene, Mitesh Suchak, and John Miller founded Hi Marley after earlier P&C claims software work at Futurity Group and Aon, with a goal of making insurance communication simple and lovable.",
+  "sure_relationship": {
+    "relationship_type": "",
+    "relationship_notes": "",
+    "evidence": [],
+    "review_status": "unreviewed"
+  },
+  "guest_relationships": [],
+  "notable_milestones": [
+    {
+      "date": "",
+      "issue_number": 37,
+      "title": "Hi Marley is CNBC\u2019s World\u2019s Top InsurTech 2024",
+      "summary": "Startup Corner newsletter-history item; requires manual review before being treated as current company news.",
+      "source_url": "data/newsletter_history.csv",
+      "source_type": "newsletter_history",
+      "review_status": "needs_manual_review"
+    },
+    {
+      "date": "2017-04-20",
+      "title": "Hi Marley officially launched in 2017",
+      "summary": "Official story page says Hi Marley officially launched on April 20, 2017 after the founders developed the idea around text messaging for insurance communication.",
+      "source_url": "https://www.himarley.com/our-story/",
+      "source_type": "official_company_website",
+      "review_status": "official_site_supported"
+    },
+    {
+      "date": "",
+      "title": "Hi Marley trusted by 130+ carriers including four of the top ten",
+      "summary": "Official homepage states Hi Marley is trusted by 130+ carriers, including four of the top ten.",
+      "source_url": "https://www.himarley.com/",
+      "source_type": "official_company_website",
+      "review_status": "official_site_supported"
+    }
+  ],
+  "last_news_date": "",
+  "previous_newsletter_appearances": [
+    {
+      "issue_number": 67,
+      "raw_value": "Hi Marley",
+      "normalized_company": "Hi Marley",
+      "featured_episode": "",
+      "featured_guest": "",
+      "connected_insight_guest": "Build Companies Without Stretch Marks",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 37,
+      "raw_value": "Hi Marley is CNBC\u2019s World\u2019s Top InsurTech 2024",
+      "normalized_company": "Hi Marley",
+      "featured_episode": "",
+      "featured_guest": "",
+      "connected_insight_guest": "From regional success to global impact",
+      "publication_date": "",
+      "central_theme": ""
+    }
+  ],
+  "source_urls": [
+    {
+      "label": "Repository source registry",
+      "url": "docs/sources.md",
+      "source_type": "repository_documentation",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "company_name",
+        "website",
+        "category"
+      ]
+    },
+    {
+      "label": "Official website from docs/sources.md",
+      "url": "https://www.himarley.com/",
+      "source_type": "company_website",
+      "review_status": "from_repository_source_registry_and_used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes"
+      ]
+    },
+    {
+      "label": "Official Our Story page",
+      "url": "https://www.himarley.com/our-story/",
+      "source_type": "official_company_website",
+      "review_status": "used_for_v2_enrichment",
+      "fields_supported": [
+        "founder_names",
+        "founder_background",
+        "notable_milestones"
+      ]
+    },
+    {
+      "label": "Official Team page",
+      "url": "https://www.himarley.com/our-team/",
+      "source_type": "official_company_website",
+      "review_status": "used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes"
+      ]
+    },
+    {
+      "label": "Newsletter history dataset",
+      "url": "data/newsletter_history.csv",
+      "source_type": "repository_dataset",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "aliases",
+        "previous_newsletter_appearances",
+        "notable_milestones"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Website and category are sourced from docs/sources.md.",
+    "Previous newsletter appearances are normalized from data/newsletter_history.csv when the company or a clear alias appears in startup_corner_company.",
+    "Normalized 2 previous Startup Corner appearance(s) from newsletter history.",
+    "v2 industries sourced from https://www.himarley.com/, https://www.himarley.com/our-team/.",
+    "v2 themes sourced from https://www.himarley.com/, https://www.himarley.com/our-team/.",
+    "v2 founder_names sourced from https://www.himarley.com/our-story/.",
+    "v2 founder_background sourced from https://www.himarley.com/our-story/.",
+    "v2 notable_milestones sourced from https://www.himarley.com/, https://www.himarley.com/our-story/.",
+    "v2 sure_relationship and guest_relationships were left blank because no direct relationship evidence was found in approved sources.",
+    "v2 sure_relationship and guest_relationships remain blank pending verified relationship evidence."
+  ],
+  "evidence_status": {
+    "company_profile_reviewed": true,
+    "sure_relationship_reviewed": false,
+    "newsletter_history_reviewed": true,
+    "last_manual_review_date": "2026-06-13"
+  }
+}

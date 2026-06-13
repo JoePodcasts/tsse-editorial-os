@@ -1,0 +1,154 @@
+{
+  "company_name": "Lumber",
+  "canonical_slug": "lumber",
+  "aliases": [
+    "Lumber makes The Business Case for Supporting Women in Construction"
+  ],
+  "website": "https://www.lumberfi.com/",
+  "category": "Construction Finance",
+  "industries": [
+    "Construction Technology",
+    "Construction Workforce Management",
+    "Construction Payroll",
+    "HR Management",
+    "Field Productivity",
+    "Compliance Automation",
+    "Artificial Intelligence"
+  ],
+  "themes": [
+    "AI-powered construction workforce management",
+    "Payroll and prevailing wage compliance",
+    "Field productivity visibility",
+    "Construction HR and onboarding",
+    "Back-office and jobsite workflow automation"
+  ],
+  "founder_names": [
+    "Shreesha Ramdas",
+    "Manish Kumar"
+  ],
+  "founder_background": "Official About page lists Shreesha Ramdas as Co-Founder & CEO and Manish Kumar as Co-Founder & CTO; the broader team is described as construction and technology operators building workforce-management software for contractors.",
+  "sure_relationship": {
+    "relationship_type": "",
+    "relationship_notes": "",
+    "evidence": [],
+    "review_status": "unreviewed"
+  },
+  "guest_relationships": [],
+  "notable_milestones": [
+    {
+      "date": "",
+      "issue_number": 31,
+      "title": "Lumber makes The Business Case for Supporting Women in Construction",
+      "summary": "Startup Corner newsletter-history item; requires manual review before being treated as current company news.",
+      "source_url": "data/newsletter_history.csv",
+      "source_type": "newsletter_history",
+      "review_status": "needs_manual_review"
+    }
+  ],
+  "last_news_date": "",
+  "previous_newsletter_appearances": [
+    {
+      "issue_number": 70,
+      "raw_value": "Lumber",
+      "normalized_company": "Lumber",
+      "featured_episode": "",
+      "featured_guest": "hosted our podcast with his old colleague Kapil Surlaker. The two highly respected leaders helped scale LinkedIn from 50 million to over 550 million users, which today has 1.3 billion+ members",
+      "connected_insight_guest": "The Geometry Framework",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 56,
+      "raw_value": "Lumber",
+      "normalized_company": "Lumber",
+      "featured_episode": "150",
+      "featured_guest": "Rajan Maruthavanan",
+      "connected_insight_guest": "Take Advice from the Right People at the Right Time",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 47,
+      "raw_value": "Lumber",
+      "normalized_company": "Lumber",
+      "featured_episode": "83",
+      "featured_guest": "Mark Suster",
+      "connected_insight_guest": "Evaluating Founders: From Trendlines to Tangible Proof",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 31,
+      "raw_value": "Lumber makes The Business Case for Supporting Women in Construction",
+      "normalized_company": "Lumber",
+      "featured_episode": "",
+      "featured_guest": "",
+      "connected_insight_guest": "Do you need a business card at conferences?",
+      "publication_date": "",
+      "central_theme": ""
+    }
+  ],
+  "source_urls": [
+    {
+      "label": "Repository source registry",
+      "url": "docs/sources.md",
+      "source_type": "repository_documentation",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "company_name",
+        "website",
+        "category"
+      ]
+    },
+    {
+      "label": "Official website from docs/sources.md",
+      "url": "https://www.lumberfi.com/",
+      "source_type": "company_website",
+      "review_status": "from_repository_source_registry_and_used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes"
+      ]
+    },
+    {
+      "label": "Official About page",
+      "url": "https://www.lumberfi.com/about",
+      "source_type": "official_company_website",
+      "review_status": "used_for_v2_enrichment",
+      "fields_supported": [
+        "founder_names",
+        "founder_background",
+        "industries",
+        "themes"
+      ]
+    },
+    {
+      "label": "Newsletter history dataset",
+      "url": "data/newsletter_history.csv",
+      "source_type": "repository_dataset",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "aliases",
+        "previous_newsletter_appearances",
+        "notable_milestones"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Website and category are sourced from docs/sources.md.",
+    "Previous newsletter appearances are normalized from data/newsletter_history.csv when the company or a clear alias appears in startup_corner_company.",
+    "Normalized 4 previous Startup Corner appearance(s) from newsletter history.",
+    "v2 industries sourced from https://www.lumberfi.com/, https://www.lumberfi.com/about.",
+    "v2 themes sourced from https://www.lumberfi.com/, https://www.lumberfi.com/about.",
+    "v2 founder_names sourced from https://www.lumberfi.com/about.",
+    "v2 founder_background sourced from https://www.lumberfi.com/about.",
+    "v2 sure_relationship and guest_relationships were left blank because no direct relationship evidence was found in approved sources.",
+    "v2 sure_relationship and guest_relationships remain blank pending verified relationship evidence."
+  ],
+  "evidence_status": {
+    "company_profile_reviewed": true,
+    "sure_relationship_reviewed": false,
+    "newsletter_history_reviewed": true,
+    "last_manual_review_date": "2026-06-13"
+  }
+}

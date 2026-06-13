@@ -1,0 +1,73 @@
+{
+  "company_name": "Rigor.ai",
+  "canonical_slug": "rigor_ai",
+  "aliases": [],
+  "website": "https://rigor.ai/",
+  "category": "Artificial Intelligence",
+  "industries": [
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "Cyber Defense",
+    "Financial Services Security",
+    "Critical Infrastructure Security"
+  ],
+  "themes": [
+    "Mathematically rigorous cyber defense management",
+    "Known attack detection",
+    "CISO risk management",
+    "Cyber findings for banks and critical infrastructure"
+  ],
+  "founder_names": [],
+  "founder_background": "",
+  "sure_relationship": {
+    "relationship_type": "",
+    "relationship_notes": "",
+    "evidence": [],
+    "review_status": "unreviewed"
+  },
+  "guest_relationships": [],
+  "notable_milestones": [],
+  "last_news_date": "",
+  "previous_newsletter_appearances": [],
+  "source_urls": [
+    {
+      "label": "Repository source registry",
+      "url": "docs/sources.md",
+      "source_type": "repository_documentation",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "company_name",
+        "website",
+        "category"
+      ]
+    },
+    {
+      "label": "Official website from docs/sources.md",
+      "url": "https://rigor.ai/",
+      "source_type": "company_website",
+      "review_status": "from_repository_source_registry_and_used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Website and category are sourced from docs/sources.md.",
+    "Previous newsletter appearances are normalized from data/newsletter_history.csv when the company or a clear alias appears in startup_corner_company.",
+    "No prior Startup Corner appearance was clearly matched in newsletter history.",
+    "v2 industries sourced from https://rigor.ai/.",
+    "v2 themes sourced from https://rigor.ai/.",
+    "v2 founder fields were left blank because no founder names were found in the reviewed official website content.",
+    "v2 sure_relationship and guest_relationships were left blank because no direct relationship evidence was found in approved sources.",
+    "v2 founder fields remain blank pending official founder evidence or manual review.",
+    "v2 notable_milestones remain empty because no milestone was captured from reviewed official or repository sources.",
+    "v2 sure_relationship and guest_relationships remain blank pending verified relationship evidence."
+  ],
+  "evidence_status": {
+    "company_profile_reviewed": true,
+    "sure_relationship_reviewed": false,
+    "newsletter_history_reviewed": true,
+    "last_manual_review_date": "2026-06-13"
+  }
+}

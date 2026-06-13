@@ -1,0 +1,89 @@
+{
+  "company_name": "Weav",
+  "canonical_slug": "weav",
+  "aliases": [],
+  "website": "https://weav.ai/",
+  "category": "Artificial Intelligence",
+  "industries": [
+    "Artificial Intelligence",
+    "InsurTech",
+    "Commercial P&C Insurance",
+    "Underwriting Automation",
+    "Premium Audit",
+    "Claims Decisioning"
+  ],
+  "themes": [
+    "AI-native insurance decisioning",
+    "Underwriting recommendations",
+    "Premium audit automation",
+    "Claims decision support",
+    "Knowledge graphs and next-best-action workflows",
+    "Human-in-the-loop insurance AI"
+  ],
+  "founder_names": [
+    "Peeyush Rai"
+  ],
+  "founder_background": "Official About page lists Peeyush Rai as Founder & Chief Executive Officer of Weav.ai; the page describes the company mission as helping insurance companies make accurate, consistent, and faster decisions.",
+  "sure_relationship": {
+    "relationship_type": "",
+    "relationship_notes": "",
+    "evidence": [],
+    "review_status": "unreviewed"
+  },
+  "guest_relationships": [],
+  "notable_milestones": [],
+  "last_news_date": "",
+  "previous_newsletter_appearances": [],
+  "source_urls": [
+    {
+      "label": "Repository source registry",
+      "url": "docs/sources.md",
+      "source_type": "repository_documentation",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "company_name",
+        "website",
+        "category"
+      ]
+    },
+    {
+      "label": "Official website from docs/sources.md",
+      "url": "https://weav.ai/",
+      "source_type": "company_website",
+      "review_status": "from_repository_source_registry_and_used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes"
+      ]
+    },
+    {
+      "label": "Official About page",
+      "url": "https://weav.ai/about-us",
+      "source_type": "official_company_website",
+      "review_status": "used_for_v2_enrichment",
+      "fields_supported": [
+        "founder_names",
+        "founder_background",
+        "themes"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Website and category are sourced from docs/sources.md.",
+    "Previous newsletter appearances are normalized from data/newsletter_history.csv when the company or a clear alias appears in startup_corner_company.",
+    "No prior Startup Corner appearance was clearly matched in newsletter history.",
+    "v2 industries sourced from https://weav.ai/.",
+    "v2 themes sourced from https://weav.ai/, https://weav.ai/about-us.",
+    "v2 founder_names sourced from https://weav.ai/about-us.",
+    "v2 founder_background sourced from https://weav.ai/about-us.",
+    "v2 sure_relationship and guest_relationships were left blank because no direct relationship evidence was found in approved sources.",
+    "v2 notable_milestones remain empty because no milestone was captured from reviewed official or repository sources.",
+    "v2 sure_relationship and guest_relationships remain blank pending verified relationship evidence."
+  ],
+  "evidence_status": {
+    "company_profile_reviewed": true,
+    "sure_relationship_reviewed": false,
+    "newsletter_history_reviewed": true,
+    "last_manual_review_date": "2026-06-13"
+  }
+}

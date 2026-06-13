@@ -1,0 +1,161 @@
+{
+  "company_name": "PAXAFE",
+  "canonical_slug": "paxafe",
+  "aliases": [
+    "PAXAFE Named a FreightTech 100 company"
+  ],
+  "website": "https://www.paxafe.com/",
+  "category": "Supply Chain Intelligence",
+  "industries": [
+    "Supply Chain Intelligence",
+    "Logistics Technology",
+    "Cold Chain Logistics",
+    "Pharmaceuticals and Life Sciences",
+    "Food and Beverage",
+    "Logistics Service Providers",
+    "Artificial Intelligence",
+    "Internet of Things"
+  ],
+  "themes": [
+    "Logistics orchestration and decision intelligence",
+    "Cold-chain risk management",
+    "IoT-enabled visibility data",
+    "Lane validation and lane risk assessment",
+    "Prescriptive recommendations for temperature-controlled logistics",
+    "Workflow automation for high-value cargo"
+  ],
+  "founder_names": [],
+  "founder_background": "",
+  "sure_relationship": {
+    "relationship_type": "",
+    "relationship_notes": "",
+    "evidence": [],
+    "review_status": "unreviewed"
+  },
+  "guest_relationships": [],
+  "notable_milestones": [
+    {
+      "date": "",
+      "issue_number": 39,
+      "title": "PAXAFE Named a FreightTech 100 company",
+      "summary": "Startup Corner newsletter-history item; requires manual review before being treated as current company news.",
+      "source_url": "data/newsletter_history.csv",
+      "source_type": "newsletter_history",
+      "review_status": "needs_manual_review"
+    }
+  ],
+  "last_news_date": "",
+  "previous_newsletter_appearances": [
+    {
+      "issue_number": 73,
+      "raw_value": "PAXAFE",
+      "normalized_company": "PAXAFE",
+      "featured_episode": "186",
+      "featured_guest": "Debjit Mukerji",
+      "connected_insight_guest": "Conviction in the absence of traditional metrics",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 62,
+      "raw_value": "PAXAFE",
+      "normalized_company": "PAXAFE",
+      "featured_episode": "",
+      "featured_guest": "",
+      "connected_insight_guest": "Global Impact from Home",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 48,
+      "raw_value": "PAXAFE",
+      "normalized_company": "PAXAFE",
+      "featured_episode": "113",
+      "featured_guest": "Alex Edelson",
+      "connected_insight_guest": "Supporting Emerging Talent, Whether Founders or Fund Managers",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 44,
+      "raw_value": "PAXAFE",
+      "normalized_company": "PAXAFE",
+      "featured_episode": "",
+      "featured_guest": "",
+      "connected_insight_guest": "Let\u2019s demystify the venture capital asset class, and LATAM is \u2018hungry for progress\u2019",
+      "publication_date": "",
+      "central_theme": ""
+    },
+    {
+      "issue_number": 39,
+      "raw_value": "PAXAFE Named a FreightTech 100 company",
+      "normalized_company": "PAXAFE",
+      "featured_episode": "",
+      "featured_guest": "",
+      "connected_insight_guest": "Invest Patiently with High Conviction Over the Long Term",
+      "publication_date": "",
+      "central_theme": ""
+    }
+  ],
+  "source_urls": [
+    {
+      "label": "Repository source registry",
+      "url": "docs/sources.md",
+      "source_type": "repository_documentation",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "company_name",
+        "website",
+        "category"
+      ]
+    },
+    {
+      "label": "Official website from docs/sources.md",
+      "url": "https://www.paxafe.com/",
+      "source_type": "company_website",
+      "review_status": "from_repository_source_registry_and_used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes"
+      ]
+    },
+    {
+      "label": "Official About page",
+      "url": "https://www.paxafe.com/about-us",
+      "source_type": "official_company_website",
+      "review_status": "used_for_v2_enrichment",
+      "fields_supported": [
+        "industries",
+        "themes"
+      ]
+    },
+    {
+      "label": "Newsletter history dataset",
+      "url": "data/newsletter_history.csv",
+      "source_type": "repository_dataset",
+      "review_status": "used_for_v1_and_v2_enrichment",
+      "fields_supported": [
+        "aliases",
+        "previous_newsletter_appearances",
+        "notable_milestones"
+      ]
+    }
+  ],
+  "confidence_notes": [
+    "Website and category are sourced from docs/sources.md.",
+    "Previous newsletter appearances are normalized from data/newsletter_history.csv when the company or a clear alias appears in startup_corner_company.",
+    "Normalized 5 previous Startup Corner appearance(s) from newsletter history.",
+    "v2 industries sourced from https://www.paxafe.com/, https://www.paxafe.com/about-us.",
+    "v2 themes sourced from https://www.paxafe.com/, https://www.paxafe.com/about-us.",
+    "v2 founder fields were left blank because no founder names were found in the reviewed official website content.",
+    "v2 sure_relationship and guest_relationships were left blank because no direct relationship evidence was found in approved sources.",
+    "v2 founder fields remain blank pending official founder evidence or manual review.",
+    "v2 sure_relationship and guest_relationships remain blank pending verified relationship evidence."
+  ],
+  "evidence_status": {
+    "company_profile_reviewed": true,
+    "sure_relationship_reviewed": false,
+    "newsletter_history_reviewed": true,
+    "last_manual_review_date": "2026-06-13"
+  }
+}
