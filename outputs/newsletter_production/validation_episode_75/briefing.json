@@ -1,0 +1,292 @@
+{
+  "pipeline_version": "newsletter_production_pipeline_v1",
+  "input": {
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse75-fintech-startup-ideas-dan-rosen-commercevc/transcript"
+  },
+  "transcript_retrieval": {
+    "source": "cached_rendered_transcript",
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse75-fintech-startup-ideas-dan-rosen-commercevc/transcript",
+    "output_path": "/Users/jwanyua/tsse-editorial-os/data/transcripts/tsse75-fintech-startup-ideas-dan-rosen-commercevc_transcript.txt",
+    "validation": {
+      "byte_length": 27073,
+      "character_length": 27073,
+      "paragraph_count": 56,
+      "speakers": [
+        "Dan Rosen",
+        "Gopi Rangan"
+      ],
+      "has_html_shell": false,
+      "valid": true
+    }
+  },
+  "episode_summary": {
+    "episode_number": 75,
+    "guest": "Dan Rosen",
+    "title": "FinTech Startup Ideas and Consumer Strategy",
+    "episode_url": "https://podcast.sure.ventures/episodes/tsse75-fintech-startup-ideas-dan-rosen-commercevc",
+    "primary_theme": "FinTech Opportunity Selection Through Founder Journey and Strategic Fit",
+    "secondary_themes": [
+      "FinTech infrastructure",
+      "Domain expertise versus outsider learning",
+      "Embedded financial services",
+      "Diversity in venture"
+    ],
+    "industries": [
+      "FinTech",
+      "Financial Services Infrastructure",
+      "Payments",
+      "Banking",
+      "Insurance",
+      "Pawn Lending",
+      "Consumer Finance",
+      "Diversity and Inclusion"
+    ],
+    "extraction_method": "existing_transcript_derived_rank4_record",
+    "extraction_confidence": "high"
+  },
+  "founder_lessons": [
+    "Show the personal journey and motivation behind the company, not only the product facts.",
+    "In regulated markets, balance risk-taking with respect for operational and compliance complexity.",
+    "If you are an outsider, go deep enough to understand the industry better than insiders who are merely adjacent.",
+    "Seek investors whose focus and ability to help match the company, not just investors willing to wire money."
+  ],
+  "notable_quotes": [
+    "Being an entrepreneur is fundamentally an irrational thing, right?",
+    "the passion that he had for the opportunity he was pursuing led him to go very deep, very quickly.",
+    "We don't even know what the full potential of FinTech is,"
+  ],
+  "connected_insights_recommendations": [
+    {
+      "rank": 1,
+      "guest_name": "Vivek Krishnamurthy",
+      "episode_number": 34,
+      "score": 43,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 14,
+        "founder_lessons": 0,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "FinTech infrastructure",
+          "candidate": "FinTech infrastructure",
+          "score": 14
+        }
+      ],
+      "matched_founder_lessons": [],
+      "matched_industries": [
+        "Banking",
+        "FinTech",
+        "Insurance"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Vivek Krishnamurthy is relevant because Episode 34 shares the theme of FinTech infrastructure. Industry overlap: Banking, FinTech, Insurance. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "guest_name": "Ryan Falvey",
+      "episode_number": 106,
+      "score": 38,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 2,
+        "founder_lessons": 0,
+        "industries": 28,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "Embedded financial services",
+          "candidate": "Financial services inefficiency",
+          "score": 2
+        }
+      ],
+      "matched_founder_lessons": [],
+      "matched_industries": [
+        "Banking",
+        "FinTech",
+        "Insurance",
+        "Payments"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Ryan Falvey is relevant because Episode 106 shares the theme of Financial services inefficiency. Industry overlap: Banking, FinTech, Insurance, Payments. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "guest_name": "Hans Morris",
+      "episode_number": 51,
+      "score": 31,
+      "score_breakdown": {
+        "primary_theme": 5,
+        "secondary_themes": 2,
+        "founder_lessons": 2,
+        "industries": 14,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "FinTech Opportunity Selection Through Founder Journey and Strategic Fit",
+          "candidate": "Founder-investor fit",
+          "score": 5
+        },
+        {
+          "current": "Embedded financial services",
+          "candidate": "Financial services infrastructure",
+          "score": 2
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "In regulated markets, balance risk-taking with respect for operational and compliance complexity.",
+          "candidate": "Respect the capital and operating requirements of regulated financial business models.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "FinTech",
+        "Payments"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Hans Morris is relevant because Episode 51 shares the theme of Founder-investor fit. The founder lessons also connect, especially around Respect the capital and operating requirements of regulated financial business models. Industry overlap: FinTech, Payments. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    }
+  ],
+  "startup_corner_recommendations": [
+    {
+      "rank": 1,
+      "startup_name": "Konfyd",
+      "score": 14,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 0,
+        "industry_overlap": 9,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 9,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [],
+      "matched_industries": [
+        {
+          "episode": "FinTech",
+          "startup": "Financial Technology",
+          "score": 2
+        },
+        {
+          "episode": "Payments",
+          "startup": "Payments",
+          "score": 7
+        }
+      ],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode shares industry context with Konfyd, especially Financial Technology. Industry alignment includes Financial Technology, Payments. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "startup_name": "Balance Cash",
+      "score": 9,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 2,
+        "founder_lessons": 0,
+        "industry_overlap": 2,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 4,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [
+        {
+          "episode": "Domain expertise versus outsider learning",
+          "startup": "AI treasury copilot",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        {
+          "episode": "FinTech",
+          "startup": "Financial Technology",
+          "score": 2
+        }
+      ],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode connects to Balance Cash's theme of AI treasury copilot. Industry alignment includes Financial Technology. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "startup_name": "Weav",
+      "score": 9,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 2,
+        "founder_lessons": 0,
+        "industry_overlap": 0,
+        "founder_background_alignment": 2,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 2,
+        "startup_intelligence_total": 2,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [
+        {
+          "episode": "Domain expertise versus outsider learning",
+          "startup": "AI-native insurance decisioning",
+          "score": 2
+        }
+      ],
+      "matched_industries": [],
+      "matched_founder_background": [
+        {
+          "episode": "Domain expertise versus outsider learning",
+          "startup": "Official About page lists Peeyush Rai as Founder & Chief Executive Officer of Weav.ai; the page describes the company mission as helping insurance companies make accurate, consistent, and faster decisions.",
+          "score": 2
+        }
+      ],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode connects to Weav's theme of AI-native insurance decisioning. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    }
+  ],
+  "community_organizations": [],
+  "recommendation_metadata": {
+    "connected_insights_source": "connected_insights_recommender_v3.py",
+    "startup_corner_source": "startup_recommender_v1.py",
+    "newsletter_history_source": "data/newsletter_history.csv",
+    "note": "Scores and rationale are copied from the recommender systems without modifying their logic."
+  }
+}

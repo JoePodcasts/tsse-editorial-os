@@ -1,0 +1,338 @@
+{
+  "pipeline_version": "newsletter_production_pipeline_v1",
+  "input": {
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse179-start-early-stay-consistent-steve-kim/transcript"
+  },
+  "transcript_retrieval": {
+    "source": "cached_rendered_transcript",
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse179-start-early-stay-consistent-steve-kim/transcript",
+    "output_path": "/Users/jwanyua/tsse-editorial-os/data/transcripts/tsse179-start-early-stay-consistent-steve-kim_transcript.txt",
+    "validation": {
+      "byte_length": 38149,
+      "character_length": 38149,
+      "paragraph_count": 118,
+      "speakers": [
+        "Gopi Rangan",
+        "Steve Kim"
+      ],
+      "has_html_shell": false,
+      "valid": true
+    }
+  },
+  "episode_summary": {
+    "episode_number": 179,
+    "guest": "Steve Kim",
+    "title": "Data-Driven Emerging Manager Investing",
+    "episode_url": "https://podcast.sure.ventures/episodes/tsse179-start-early-stay-consistent-steve-kim",
+    "primary_theme": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+    "secondary_themes": [
+      "Diversified early-stage venture portfolios",
+      "Fund one and emerging manager access",
+      "Behavioral bias and investor humility",
+      "Institutional venture allocation stability"
+    ],
+    "industries": [
+      "Venture Capital",
+      "Fund of Funds",
+      "Emerging Managers",
+      "Family Office",
+      "Asset Allocation",
+      "Education"
+    ],
+    "extraction_method": "existing_transcript_derived_rank4_record",
+    "extraction_confidence": "high"
+  },
+  "founder_lessons": [
+    "Work with investors who are built to stay consistently engaged across market cycles, not just when venture is hot.",
+    "Diversified early-stage funds can support founders by improving the odds that the firm itself becomes enduring.",
+    "Reference-check investors for responsiveness and useful help rather than relying on ownership percentage or narrative.",
+    "Investor help should be humble, available, and founder-pulled rather than micromanaging or overconfident."
+  ],
+  "notable_quotes": [
+    "the way we define data driven is on the decision making side.",
+    "Emerging managers are really critical for us, and the reason for that is that we are very focused on first check investing.",
+    "I think the biggest one for me is the International Baccalaureate, so I was on the board of the IB."
+  ],
+  "connected_insights_recommendations": [
+    {
+      "rank": 1,
+      "guest_name": "Aakar Vachhani",
+      "episode_number": 135,
+      "score": 54,
+      "score_breakdown": {
+        "primary_theme": 17,
+        "secondary_themes": 2,
+        "founder_lessons": 6,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+          "candidate": "Emerging manager success through conviction, community, and team cohesion",
+          "score": 8
+        },
+        {
+          "current": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+          "candidate": "Emerging manager outperformance",
+          "score": 5
+        },
+        {
+          "current": "Fund one and emerging manager access",
+          "candidate": "Emerging manager success through conviction, community, and team cohesion",
+          "score": 4
+        },
+        {
+          "current": "Fund one and emerging manager access",
+          "candidate": "Emerging manager outperformance",
+          "score": 2
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "Diversified early-stage funds can support founders by improving the odds that the firm itself becomes enduring.",
+          "candidate": "Lean into community, mentors, trusted advisors, and peer support systems while building a firm.",
+          "score": 2
+        },
+        {
+          "current": "Reference-check investors for responsiveness and useful help rather than relying on ownership percentage or narrative.",
+          "candidate": "Avoid teams that feel like a collection of people rather than a cohesive unit.",
+          "score": 2
+        },
+        {
+          "current": "Investor help should be humble, available, and founder-pulled rather than micromanaging or overconfident.",
+          "candidate": "Avoid teams that feel like a collection of people rather than a cohesive unit.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "Emerging Managers",
+        "Fund of Funds",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Aakar Vachhani is relevant because Episode 135 shares the theme of Emerging manager success through conviction, community, and team cohesion. The founder lessons also connect, especially around Lean into community, mentors, trusted advisors, and peer support systems while building a firm. Industry overlap: Emerging Managers, Fund of Funds, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "guest_name": "Eric Sippel",
+      "episode_number": 136,
+      "score": 45,
+      "score_breakdown": {
+        "primary_theme": 12,
+        "secondary_themes": 0,
+        "founder_lessons": 4,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+          "candidate": "LP preference for concentrated, thoughtful emerging manager portfolios",
+          "score": 8
+        },
+        {
+          "current": "Fund one and emerging manager access",
+          "candidate": "LP preference for concentrated, thoughtful emerging manager portfolios",
+          "score": 4
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "Work with investors who are built to stay consistently engaged across market cycles, not just when venture is hot.",
+          "candidate": "Concentrated portfolios can serve LPs who already diversify across many firms and funds.",
+          "score": 2
+        },
+        {
+          "current": "Diversified early-stage funds can support founders by improving the odds that the firm itself becomes enduring.",
+          "candidate": "Concentrated portfolios can serve LPs who already diversify across many firms and funds.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "Emerging Managers",
+        "Family Office",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Eric Sippel is relevant because Episode 136 shares the theme of LP preference for concentrated, thoughtful emerging manager portfolios. The founder lessons also connect, especially around Concentrated portfolios can serve LPs who already diversify across many firms and funds. Industry overlap: Emerging Managers, Family Office, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "guest_name": "Maryam Haque",
+      "episode_number": 175,
+      "score": 44,
+      "score_breakdown": {
+        "primary_theme": 5,
+        "secondary_themes": 2,
+        "founder_lessons": 8,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+          "candidate": "Emerging manager support",
+          "score": 5
+        },
+        {
+          "current": "Fund one and emerging manager access",
+          "candidate": "Emerging manager support",
+          "score": 2
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "Work with investors who are built to stay consistently engaged across market cycles, not just when venture is hot.",
+          "candidate": "Question pattern matching when it narrows who gets capital, talent, and opportunity.",
+          "score": 2
+        },
+        {
+          "current": "Reference-check investors for responsiveness and useful help rather than relying on ownership percentage or narrative.",
+          "candidate": "Build durable ecosystem support for newer managers rather than relying on one-time momentum.",
+          "score": 4
+        },
+        {
+          "current": "Investor help should be humble, available, and founder-pulled rather than micromanaging or overconfident.",
+          "candidate": "Build durable ecosystem support for newer managers rather than relying on one-time momentum.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "Education",
+        "Emerging Managers",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Maryam Haque is relevant because Episode 175 shares the theme of Emerging manager support. The founder lessons also connect, especially around Question pattern matching when it narrows who gets capital, talent, and opportunity. Industry overlap: Education, Emerging Managers, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    }
+  ],
+  "startup_corner_recommendations": [
+    {
+      "rank": 1,
+      "startup_name": "Weav",
+      "score": 11,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 2,
+        "industry_overlap": 0,
+        "founder_background_alignment": 4,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 2,
+        "startup_intelligence_total": 4,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [
+        {
+          "episode": "Investor help should be humble, available, and founder-pulled rather than micromanaging or overconfident.",
+          "startup": "AI-native insurance decisioning",
+          "score": 2
+        }
+      ],
+      "matched_industries": [],
+      "matched_founder_background": [
+        {
+          "episode": "Investor help should be humble, available, and founder-pulled rather than micromanaging or overconfident.",
+          "startup": "Official About page lists Peeyush Rai as Founder & Chief Executive Officer of Weav.ai; the page describes the company mission as helping insurance companies make accurate, consistent, and faster decisions.",
+          "score": 4
+        }
+      ],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode connects to Weav's theme of AI-native insurance decisioning. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "startup_name": "Balance Cash",
+      "score": 7,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 2,
+        "industry_overlap": 0,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 2,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [
+        {
+          "episode": "Investor help should be humble, available, and founder-pulled rather than micromanaging or overconfident.",
+          "startup": "AI treasury copilot",
+          "score": 2
+        }
+      ],
+      "matched_industries": [],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode connects to Balance Cash's theme of AI treasury copilot. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "startup_name": "TrustLayer",
+      "score": 6,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 2,
+        "industry_overlap": 0,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 4,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 2,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 4
+      },
+      "matched_themes": [
+        {
+          "episode": "Investor help should be humble, available, and founder-pulled rather than micromanaging or overconfident.",
+          "startup": "AI-powered third-party risk management",
+          "score": 2
+        }
+      ],
+      "matched_industries": [],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "Last featured 30 issue(s) ago; eligible for resurfacing.",
+      "frequency_status": "1 normalized historical appearance.",
+      "rationale": "Recommended because the episode connects to TrustLayer's theme of AI-powered third-party risk management. Last featured 30 issue(s) ago; eligible for resurfacing.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    }
+  ],
+  "community_organizations": [
+    "International Baccalaureate"
+  ],
+  "recommendation_metadata": {
+    "connected_insights_source": "connected_insights_recommender_v3.py",
+    "startup_corner_source": "startup_recommender_v1.py",
+    "newsletter_history_source": "data/newsletter_history.csv",
+    "note": "Scores and rationale are copied from the recommender systems without modifying their logic."
+  }
+}
