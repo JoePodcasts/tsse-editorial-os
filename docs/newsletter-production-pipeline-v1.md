@@ -24,6 +24,7 @@ Optional:
 python3 newsletter_production_pipeline_v1.py <transcript_url> --output-dir outputs/newsletter_production/my_issue
 python3 newsletter_production_pipeline_v1.py <transcript_url> --force-retrieve
 python3 newsletter_production_pipeline_v1.py <transcript_url> --episode-number 188 --guest-name "Guest Name"
+python3 newsletter_production_pipeline_v1.py --latest
 ```
 
 The transcript URL should follow the existing TSSE podcast pattern:
@@ -33,6 +34,8 @@ https://podcast.sure.ventures/episodes/<episode-slug>/transcript
 ```
 
 If the URL is an episode URL rather than a transcript URL, the pipeline normalizes it by appending `/transcript`.
+
+When `--latest` is used, the pipeline calls `episode_discovery.py`, identifies the newest episode missing newsletter coverage, and uses that episode's transcript URL automatically.
 
 ## Outputs
 
@@ -187,6 +190,7 @@ Local data dependencies:
 
 Code dependencies:
 
+- `episode_discovery.py`, when using `--latest`
 - `phase3_transcript_retrieval.mjs`
 - `connected_insights_recommender_v3.py`
 - `startup_recommender_v1.py`
@@ -223,4 +227,3 @@ Generated files:
 - `outputs/newsletter_production/validation_episode_179/briefing.json`
 - `outputs/newsletter_production/validation_episode_179/briefing.md`
 - `outputs/newsletter_production/validation_episode_179/newsletter_draft.md`
-

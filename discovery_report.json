@@ -1,0 +1,54 @@
+{
+  "source": {
+    "site_url": "https://podcast.sure.ventures",
+    "episode_source": "official Simplecast API used by the TSSE podcast website",
+    "newsletter_history": "/Users/jwanyua/tsse-editorial-os/data/newsletter_history.csv"
+  },
+  "newest_episode": {
+    "episode_number": 190,
+    "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+    "guest_name": "David Zhou",
+    "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+    "published_at": "2026-06-09T04:00:00-07:00",
+    "slug": "tsse-190-develop-point-of-view-david-zhou",
+    "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+  },
+  "newsletter_coverage_status": {
+    "latest_episode_already_represented": 188,
+    "newest_episode_already_represented": false,
+    "episodes_missing_newsletter_coverage_count": 2,
+    "episodes_missing_newsletter_coverage": [
+      {
+        "episode_number": 190,
+        "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+        "guest_name": "David Zhou",
+        "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+        "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+        "published_at": "2026-06-09T04:00:00-07:00",
+        "slug": "tsse-190-develop-point-of-view-david-zhou",
+        "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+      },
+      {
+        "episode_number": 189,
+        "episode_title": "Winning Founders Build with Authenticity, Adaptability, and Resilience",
+        "guest_name": "Christina Quinn",
+        "episode_url": "https://podcast.sure.ventures/episodes/tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn",
+        "transcript_url": "https://podcast.sure.ventures/episodes/tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn/transcript",
+        "published_at": "2026-05-26T04:00:00-07:00",
+        "slug": "tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn",
+        "simplecast_id": "00a24c04-5983-4c5e-9f8d-b862fc602213"
+      }
+    ]
+  },
+  "recommended_next_episode_for_newsletter_generation": {
+    "episode_number": 190,
+    "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+    "guest_name": "David Zhou",
+    "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+    "published_at": "2026-06-09T04:00:00-07:00",
+    "slug": "tsse-190-develop-point-of-view-david-zhou",
+    "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+  }
+}

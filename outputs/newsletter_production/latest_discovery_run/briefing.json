@@ -1,0 +1,384 @@
+{
+  "pipeline_version": "newsletter_production_pipeline_v1",
+  "input": {
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript"
+  },
+  "transcript_retrieval": {
+    "source": "playwright_rendered_transcript",
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+    "output_path": "/Users/jwanyua/tsse-editorial-os/data/transcripts/tsse-190-develop-point-of-view-david-zhou_transcript.txt",
+    "validation": {
+      "byte_length": 58731,
+      "character_length": 58729,
+      "paragraph_count": 177,
+      "speakers": [
+        "David Zhou",
+        "Gopi Rangan"
+      ],
+      "has_html_shell": false,
+      "valid": true
+    },
+    "attempts": 1
+  },
+  "episode_summary": {
+    "episode_number": null,
+    "guest": "I'm your host",
+    "title": "Tsse 190 Develop Point Of View David Zhou",
+    "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+    "primary_theme": "Emerging manager investing",
+    "secondary_themes": [
+      "Fundraising strategy",
+      "Customer discovery",
+      "AI infrastructure",
+      "Community and access"
+    ],
+    "industries": [
+      "Venture Capital",
+      "Artificial Intelligence",
+      "FinTech",
+      "Education",
+      "InsurTech"
+    ],
+    "extraction_method": "local_heuristic_transcript_extraction",
+    "extraction_confidence": "draft_requires_editorial_review"
+  },
+  "founder_lessons": [
+    "You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas.",
+    "Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision.",
+    "David is also the co-founder of the SideLetter.",
+    "And when you're a founder, you're the hero of your own [00:05:00] story, but in many ways you're also championing your customers is to be heroes of their stories."
+  ],
+  "notable_quotes": [
+    "And along the way, I ended up joining the team, and we ended up starting this thing called Localize, and that was that.",
+    "And there are very few jobs in the real world that allows you to continue to imagine, and not only that, support where imagination can take us.",
+    "Venture is an industry that allows you to imagine the possibilities and make it happen."
+  ],
+  "connected_insights_recommendations": [
+    {
+      "rank": 1,
+      "guest_name": "Steve Kim",
+      "episode_number": 179,
+      "score": 47,
+      "score_breakdown": {
+        "primary_theme": 21,
+        "secondary_themes": 0,
+        "founder_lessons": 4,
+        "industries": 14,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "Emerging manager investing",
+          "candidate": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+          "score": 16
+        },
+        {
+          "current": "Emerging manager investing",
+          "candidate": "Fund one and emerging manager access",
+          "score": 5
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision.",
+          "candidate": "Work with investors who are built to stay consistently engaged across market cycles, not just when venture is hot.",
+          "score": 2
+        },
+        {
+          "current": "Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision.",
+          "candidate": "Reference-check investors for responsiveness and useful help rather than relying on ownership percentage or narrative.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "Education",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Steve Kim is relevant because Episode 179 shares the theme of Data-driven emerging manager investing as a consistent asset allocation discipline. The founder lessons also connect, especially around Work with investors who are built to stay consistently engaged across market cycles, not just when venture is hot. Industry overlap: Education, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "guest_name": "Mark Fernandes",
+      "episode_number": 60,
+      "score": 36,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 14,
+        "founder_lessons": 0,
+        "industries": 14,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "Customer discovery",
+          "candidate": "Customer discovery",
+          "score": 14
+        }
+      ],
+      "matched_founder_lessons": [],
+      "matched_industries": [
+        "Education",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Mark Fernandes is relevant because Episode 60 shares the theme of Customer discovery. Industry overlap: Education, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "guest_name": "Dan Kimerling",
+      "episode_number": 144,
+      "score": 31,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 2,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [],
+      "matched_founder_lessons": [
+        {
+          "current": "Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision.",
+          "candidate": "Build a company so strong that other investors want in without coercion.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "FinTech",
+        "InsurTech",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Dan Kimerling is a lower-theme-overlap candidate from Episode 144. The founder lessons also connect, especially around Build a company so strong that other investors want in without coercion. Industry overlap: FinTech, InsurTech, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    }
+  ],
+  "startup_corner_recommendations": [
+    {
+      "rank": 1,
+      "startup_name": "Weav",
+      "score": 31,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 6,
+        "founder_lessons": 0,
+        "industry_overlap": 14,
+        "founder_background_alignment": 6,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 20,
+        "startup_intelligence_total": 6,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [
+        {
+          "episode": "Fundraising strategy",
+          "startup": "AI-native insurance decisioning",
+          "score": 2
+        },
+        {
+          "episode": "AI infrastructure",
+          "startup": "AI-native insurance decisioning",
+          "score": 4
+        }
+      ],
+      "matched_industries": [
+        {
+          "episode": "Artificial Intelligence",
+          "startup": "Artificial Intelligence",
+          "score": 7
+        },
+        {
+          "episode": "InsurTech",
+          "startup": "InsurTech",
+          "score": 7
+        }
+      ],
+      "matched_founder_background": [
+        {
+          "episode": "Fundraising strategy",
+          "startup": "Official About page lists Peeyush Rai as Founder & Chief Executive Officer of Weav.ai; the page describes the company mission as helping insurance companies make accurate, consistent, and faster decisions.",
+          "score": 2
+        },
+        {
+          "episode": "AI infrastructure",
+          "startup": "Official About page lists Peeyush Rai as Founder & Chief Executive Officer of Weav.ai; the page describes the company mission as helping insurance companies make accurate, consistent, and faster decisions.",
+          "score": 4
+        }
+      ],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode connects to Weav's theme of AI-native insurance decisioning. Industry alignment includes Artificial Intelligence, InsurTech. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "startup_name": "Balance Cash",
+      "score": 20,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 6,
+        "founder_lessons": 0,
+        "industry_overlap": 9,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 15,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [
+        {
+          "episode": "Fundraising strategy",
+          "startup": "AI treasury copilot",
+          "score": 2
+        },
+        {
+          "episode": "AI infrastructure",
+          "startup": "AI treasury copilot",
+          "score": 4
+        }
+      ],
+      "matched_industries": [
+        {
+          "episode": "Artificial Intelligence",
+          "startup": "Artificial Intelligence",
+          "score": 7
+        },
+        {
+          "episode": "FinTech",
+          "startup": "Financial Technology",
+          "score": 2
+        }
+      ],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode connects to Balance Cash's theme of AI treasury copilot. Industry alignment includes Artificial Intelligence, Financial Technology. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "startup_name": "TrustLayer",
+      "score": 19,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 6,
+        "founder_lessons": 0,
+        "industry_overlap": 9,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 4,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 15,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 4
+      },
+      "matched_themes": [
+        {
+          "episode": "Fundraising strategy",
+          "startup": "AI-powered third-party risk management",
+          "score": 2
+        },
+        {
+          "episode": "AI infrastructure",
+          "startup": "AI-powered third-party risk management",
+          "score": 4
+        }
+      ],
+      "matched_industries": [
+        {
+          "episode": "Artificial Intelligence",
+          "startup": "Artificial Intelligence",
+          "score": 7
+        },
+        {
+          "episode": "InsurTech",
+          "startup": "Insurance Technology",
+          "score": 2
+        }
+      ],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "Last featured 30 issue(s) ago; eligible for resurfacing.",
+      "frequency_status": "1 normalized historical appearance.",
+      "rationale": "Recommended because the episode connects to TrustLayer's theme of AI-powered third-party risk management. Industry alignment includes Artificial Intelligence, Insurance Technology. Last featured 30 issue(s) ago; eligible for resurfacing.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    }
+  ],
+  "community_organizations": [],
+  "recommendation_metadata": {
+    "connected_insights_source": "connected_insights_recommender_v3.py",
+    "startup_corner_source": "startup_recommender_v1.py",
+    "newsletter_history_source": "data/newsletter_history.csv",
+    "note": "Scores and rationale are copied from the recommender systems without modifying their logic."
+  },
+  "automatic_episode_discovery": {
+    "newest_episode": {
+      "episode_number": 190,
+      "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+      "guest_name": "David Zhou",
+      "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+      "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+      "published_at": "2026-06-09T04:00:00-07:00",
+      "slug": "tsse-190-develop-point-of-view-david-zhou",
+      "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+    },
+    "newsletter_coverage_status": {
+      "latest_episode_already_represented": 188,
+      "newest_episode_already_represented": false,
+      "episodes_missing_newsletter_coverage_count": 2,
+      "episodes_missing_newsletter_coverage": [
+        {
+          "episode_number": 190,
+          "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+          "guest_name": "David Zhou",
+          "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+          "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+          "published_at": "2026-06-09T04:00:00-07:00",
+          "slug": "tsse-190-develop-point-of-view-david-zhou",
+          "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+        },
+        {
+          "episode_number": 189,
+          "episode_title": "Winning Founders Build with Authenticity, Adaptability, and Resilience",
+          "guest_name": "Christina Quinn",
+          "episode_url": "https://podcast.sure.ventures/episodes/tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn",
+          "transcript_url": "https://podcast.sure.ventures/episodes/tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn/transcript",
+          "published_at": "2026-05-26T04:00:00-07:00",
+          "slug": "tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn",
+          "simplecast_id": "00a24c04-5983-4c5e-9f8d-b862fc602213"
+        }
+      ]
+    },
+    "recommended_next_episode_for_newsletter_generation": {
+      "episode_number": 190,
+      "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+      "guest_name": "David Zhou",
+      "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+      "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+      "published_at": "2026-06-09T04:00:00-07:00",
+      "slug": "tsse-190-develop-point-of-view-david-zhou",
+      "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+    }
+  }
+}

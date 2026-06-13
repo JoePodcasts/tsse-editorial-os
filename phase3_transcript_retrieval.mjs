@@ -90,7 +90,8 @@ async function loadPlaywright(modulePath) {
 
   for (const candidate of candidates) {
     try {
-      return await import(candidate);
+      const imported = await import(candidate);
+      return imported.chromium ? imported : imported.default;
     } catch (error) {
       errors.push(`${candidate}: ${error.message}`);
     }

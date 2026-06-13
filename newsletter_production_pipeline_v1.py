@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import argparse
 import json
+import os
 import re
 import subprocess
 from collections import Counter
@@ -18,6 +19,20 @@ from startup_recommender_v1 import load_startup_records, recommend_startups_v1
 ROOT = Path(__file__).resolve().parent
 TRANSCRIPT_DIR = ROOT / "data" / "transcripts"
 OUTPUT_ROOT = ROOT / "outputs" / "newsletter_production"
+BUNDLED_PLAYWRIGHT_MODULE = (
+    Path.home()
+    / ".cache"
+    / "codex-runtimes"
+    / "codex-primary-runtime"
+    / "dependencies"
+    / "node"
+    / "node_modules"
+    / ".pnpm"
+    / "playwright@1.60.0"
+    / "node_modules"
+    / "playwright"
+    / "index.js"
+)
 
 SHELL_MARKERS = [
     "<!DOCTYPE html>",
@@ -77,7 +92,7 @@ def derive_episode_url(url: str) -> str:
 
 
 def episode_number_from_url(url: str) -> Optional[int]:
-    match = re.search(r"(?:tsse|episode[-_]?)(\d+)", url, re.IGNORECASE)
+    match = re.search(r"(?:tsse[-_]?|episode[-_]?)(\d+)", url, re.IGNORECASE)
     if match:
         return int(match.group(1))
     return None
@@ -132,12 +147,17 @@ def retrieve_transcript(
     if guest_name:
         command.extend(["--guest-name", guest_name])
 
+    env = os.environ.copy()
+    if not env.get("PLAYWRIGHT_MODULE_PATH") and BUNDLED_PLAYWRIGHT_MODULE.exists():
+        env["PLAYWRIGHT_MODULE_PATH"] = str(BUNDLED_PLAYWRIGHT_MODULE)
+
     completed = subprocess.run(
         command,
         cwd=ROOT,
         check=False,
         capture_output=True,
         text=True,
+        env=env,
     )
     if completed.returncode != 0:
         raise RuntimeError(
@@ -220,7 +240,7 @@ def infer_guest_name(text: str, fallback: str = "") -> str:
 
 
 def title_from_slug(slug: str) -> str:
-    words = [word for word in re.sub(r"^tsse\d+-", "", slug).split("-") if word]
+    words = [word for word in re.sub(r"^tsse[-_]?\d+[-_]?", "", slug).split("-") if word]
     return " ".join(word.capitalize() for word in words)
 
 
@@ -604,6 +624,25 @@ def write_outputs(briefing: Dict[str, Any], output_dir: Path) -> Dict[str, str]:
 
 
 def run_pipeline(args: argparse.Namespace) -> Dict[str, Any]:
+    discovery_report = None
+    if args.latest:
+        from episode_discovery import discover_latest_unpublished_episode
+
+        discovery_report = discover_latest_unpublished_episode()
+        recommended = discovery_report.get("recommended_next_episode_for_newsletter_generation")
+        if not recommended:
+            newest = discovery_report.get("newest_episode", {})
+            raise RuntimeError(
+                "No unpublished TSSE episode was discovered. "
+                f"Newest episode {newest.get('episode_number')} is already represented in newsletter history."
+            )
+        args.transcript_url = recommended["transcript_url"]
+        args.episode_number = recommended.get("episode_number")
+        args.guest_name = args.guest_name or recommended.get("guest_name", "")
+
+    if not args.transcript_url:
+        raise RuntimeError("Provide a transcript URL or pass --latest.")
+
     transcript_url = derive_transcript_url(args.transcript_url)
     episode_number = args.episode_number or episode_number_from_url(transcript_url)
     retrieval = retrieve_transcript(
@@ -622,6 +661,12 @@ def run_pipeline(args: argparse.Namespace) -> Dict[str, Any]:
     episode_records = load_episode_records()
     existing_record = find_existing_episode_record(transcript_url, episode_records)
     episode = generate_episode_intelligence(transcript_url, transcript_text, existing_record)
+    if discovery_report and not existing_record:
+        recommended = discovery_report.get("recommended_next_episode_for_newsletter_generation") or {}
+        episode["episode_number"] = recommended.get("episode_number") or episode.get("episode_number")
+        episode["title"] = recommended.get("episode_title") or episode.get("title", "")
+        episode["guest_name"] = recommended.get("guest_name") or episode.get("guest_name", "")
+        episode["episode_url"] = recommended.get("episode_url") or episode.get("episode_url", "")
 
     history_records = load_newsletter_history()
     startup_records = load_startup_records()
@@ -639,13 +684,26 @@ def run_pipeline(args: argparse.Namespace) -> Dict[str, Any]:
     )
 
     briefing = generate_briefing(transcript_url, retrieval, episode, connected, startups)
+    if discovery_report:
+        briefing["automatic_episode_discovery"] = {
+            "newest_episode": discovery_report.get("newest_episode"),
+            "newsletter_coverage_status": discovery_report.get("newsletter_coverage_status"),
+            "recommended_next_episode_for_newsletter_generation": discovery_report.get(
+                "recommended_next_episode_for_newsletter_generation"
+            ),
+        }
     paths = write_outputs(briefing, output_dir_for_url(transcript_url, args.output_dir))
+    if discovery_report:
+        discovery_path = Path(paths["briefing_json"]).parent / "discovery_report.json"
+        discovery_path.write_text(json.dumps(discovery_report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        paths["discovery_report"] = str(discovery_path)
     return {"outputs": paths, "briefing": briefing}
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Generate TSSE newsletter production artifacts from a transcript URL.")
-    parser.add_argument("transcript_url", help="Episode transcript URL.")
+    parser.add_argument("transcript_url", nargs="?", help="Episode transcript URL.")
+    parser.add_argument("--latest", action="store_true", help="Discover the newest episode missing newsletter coverage and generate materials for it.")
     parser.add_argument("--episode-number", type=int, help="Episode number, required for fresh retrieval if it cannot be parsed from URL.")
     parser.add_argument("--guest-name", default="", help="Optional guest name for retrieval metadata.")
     parser.add_argument("--output-dir", help="Directory for briefing.json, briefing.md, and newsletter_draft.md.")
