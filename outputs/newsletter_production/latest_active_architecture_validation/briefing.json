@@ -1,0 +1,366 @@
+{
+  "pipeline_version": "newsletter_production_pipeline_v1",
+  "input": {
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript"
+  },
+  "transcript_retrieval": {
+    "source": "cached_rendered_transcript",
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+    "output_path": "/Users/jwanyua/tsse-editorial-os/data/transcripts/tsse-190-develop-point-of-view-david-zhou_transcript.txt",
+    "validation": {
+      "byte_length": 58731,
+      "character_length": 58729,
+      "paragraph_count": 177,
+      "speakers": [
+        "David Zhou",
+        "Gopi Rangan"
+      ],
+      "has_html_shell": false,
+      "valid": true
+    }
+  },
+  "episode_summary": {
+    "episode_number": 190,
+    "guest": "David Zhou",
+    "title": "Develop a Point of View and Let Your Advantage Compound",
+    "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+    "primary_theme": "LP education and disciplined emerging manager evaluation",
+    "secondary_themes": [
+      "Venture performance metrics and portfolio health",
+      "Founder and GP storytelling for investor fit",
+      "Emerging manager differentiation and fund construction",
+      "Consistent decision frameworks for venture investing"
+    ],
+    "industries": [
+      "Venture Capital",
+      "Limited Partners",
+      "Family Office",
+      "Education",
+      "Emerging Managers",
+      "Artificial Intelligence"
+    ],
+    "extraction_method": "active_episode_intelligence_record",
+    "extraction_confidence": "draft_requires_editorial_review"
+  },
+  "founder_lessons": [
+    "Use the first LP meeting to learn fit before pitching.",
+    "Build entry, exit, and executional discipline if you want to be a fund manager, not only a good investor.",
+    "Keep your investing framework and inputs consistent so you can learn from one decision to the next.",
+    "Talk to enough managers in an asset class before investing so you understand what quality looks like."
+  ],
+  "notable_quotes": [
+    "Superclusters I started a couple years back because I thought it was important to empower everyone with the frameworks that institutional and sophisticated LPs have.",
+    "Similarly true for your career, similarly true for venture, similarly true for being an LP or a GP.",
+    "I knew the venture game, had been a VC in a prior lifetime, but I didn't know how an LP would underwrite a fund."
+  ],
+  "connected_insights_recommendations": [
+    {
+      "rank": 1,
+      "guest_name": "Steve Kim",
+      "episode_number": 179,
+      "score": 62,
+      "score_breakdown": {
+        "primary_theme": 21,
+        "secondary_themes": 5,
+        "founder_lessons": 0,
+        "industries": 28,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "LP education and disciplined emerging manager evaluation",
+          "candidate": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+          "score": 8
+        },
+        {
+          "current": "LP education and disciplined emerging manager evaluation",
+          "candidate": "Fund one and emerging manager access",
+          "score": 5
+        },
+        {
+          "current": "Emerging manager differentiation and fund construction",
+          "candidate": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+          "score": 4
+        },
+        {
+          "current": "Consistent decision frameworks for venture investing",
+          "candidate": "Data-driven emerging manager investing as a consistent asset allocation discipline",
+          "score": 4
+        },
+        {
+          "current": "Emerging manager differentiation and fund construction",
+          "candidate": "Fund one and emerging manager access",
+          "score": 5
+        }
+      ],
+      "matched_founder_lessons": [],
+      "matched_industries": [
+        "Education",
+        "Emerging Managers",
+        "Family Office",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Steve Kim is relevant because Episode 179 shares the theme of Data-driven emerging manager investing as a consistent asset allocation discipline. Industry overlap: Education, Emerging Managers, Family Office, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "guest_name": "Eric Sippel",
+      "episode_number": 136,
+      "score": 51,
+      "score_breakdown": {
+        "primary_theme": 20,
+        "secondary_themes": 0,
+        "founder_lessons": 2,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "LP education and disciplined emerging manager evaluation",
+          "candidate": "LP preference for concentrated, thoughtful emerging manager portfolios",
+          "score": 16
+        },
+        {
+          "current": "Emerging manager differentiation and fund construction",
+          "candidate": "LP preference for concentrated, thoughtful emerging manager portfolios",
+          "score": 4
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "Talk to enough managers in an asset class before investing so you understand what quality looks like.",
+          "candidate": "Spend enough time getting to know founders before committing capital.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "Emerging Managers",
+        "Family Office",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Eric Sippel is relevant because Episode 136 shares the theme of LP preference for concentrated, thoughtful emerging manager portfolios. The founder lessons also connect, especially around Spend enough time getting to know founders before committing capital. Industry overlap: Emerging Managers, Family Office, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "guest_name": "Alex Edelson",
+      "episode_number": 113,
+      "score": 48,
+      "score_breakdown": {
+        "primary_theme": 13,
+        "secondary_themes": 0,
+        "founder_lessons": 6,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "LP education and disciplined emerging manager evaluation",
+          "candidate": "LP diligence on emerging managers through strategy-person fit",
+          "score": 8
+        },
+        {
+          "current": "LP education and disciplined emerging manager evaluation",
+          "candidate": "Qualitative VC manager evaluation",
+          "score": 5
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "Use the first LP meeting to learn fit before pitching.",
+          "candidate": "Take time in Fund 1 to see deals and learn before deploying too quickly.",
+          "score": 2
+        },
+        {
+          "current": "Build entry, exit, and executional discipline if you want to be a fund manager, not only a good investor.",
+          "candidate": "Build a fund strategy around what is genuinely special about the manager, not around generic market fashion.",
+          "score": 4
+        }
+      ],
+      "matched_industries": [
+        "Emerging Managers",
+        "Limited Partners",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Alex Edelson is relevant because Episode 113 shares the theme of LP diligence on emerging managers through strategy-person fit. The founder lessons also connect, especially around Take time in Fund 1 to see deals and learn before deploying too quickly. Industry overlap: Emerging Managers, Limited Partners, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    }
+  ],
+  "startup_corner_recommendations": [
+    {
+      "rank": 1,
+      "startup_name": "Balance Cash",
+      "score": 12,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 0,
+        "industry_overlap": 7,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 7,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [],
+      "matched_industries": [
+        {
+          "episode": "Artificial Intelligence",
+          "startup": "Artificial Intelligence",
+          "score": 7
+        }
+      ],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode shares industry context with Balance Cash, especially Artificial Intelligence. Industry alignment includes Artificial Intelligence. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "startup_name": "Rigor.ai",
+      "score": 12,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 0,
+        "industry_overlap": 7,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 7,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [],
+      "matched_industries": [
+        {
+          "episode": "Artificial Intelligence",
+          "startup": "Artificial Intelligence",
+          "score": 7
+        }
+      ],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode shares industry context with Rigor.ai, especially Artificial Intelligence. Industry alignment includes Artificial Intelligence. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "startup_name": "Weav",
+      "score": 12,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 0,
+        "industry_overlap": 7,
+        "founder_background_alignment": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 7,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [],
+      "matched_industries": [
+        {
+          "episode": "Artificial Intelligence",
+          "startup": "Artificial Intelligence",
+          "score": 7
+        }
+      ],
+      "matched_founder_background": [],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode shares industry context with Weav, especially Artificial Intelligence. Industry alignment includes Artificial Intelligence. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    }
+  ],
+  "community_organizations": [
+    "Friends of Children with Special Needs"
+  ],
+  "recommendation_metadata": {
+    "connected_insights_source": "connected_insights_recommender_v3.py",
+    "startup_corner_source": "startup_recommender_v1.py",
+    "newsletter_history_source": "data/newsletter_history.csv",
+    "note": "Scores and rationale are copied from the recommender systems without modifying their logic."
+  },
+  "episode_intelligence_record": {
+    "source": "data/episodes/active",
+    "path": "/Users/jwanyua/tsse-editorial-os/data/episodes/active/episode_190.json",
+    "status": "active"
+  },
+  "automatic_episode_discovery": {
+    "newest_episode": {
+      "episode_number": 190,
+      "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+      "guest_name": "David Zhou",
+      "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+      "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+      "published_at": "2026-06-09T04:00:00-07:00",
+      "slug": "tsse-190-develop-point-of-view-david-zhou",
+      "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+    },
+    "newsletter_coverage_status": {
+      "latest_episode_already_represented": 188,
+      "newest_episode_already_represented": false,
+      "episodes_missing_newsletter_coverage_count": 2,
+      "episodes_missing_newsletter_coverage": [
+        {
+          "episode_number": 190,
+          "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+          "guest_name": "David Zhou",
+          "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+          "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+          "published_at": "2026-06-09T04:00:00-07:00",
+          "slug": "tsse-190-develop-point-of-view-david-zhou",
+          "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+        },
+        {
+          "episode_number": 189,
+          "episode_title": "Winning Founders Build with Authenticity, Adaptability, and Resilience",
+          "guest_name": "Christina Quinn",
+          "episode_url": "https://podcast.sure.ventures/episodes/tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn",
+          "transcript_url": "https://podcast.sure.ventures/episodes/tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn/transcript",
+          "published_at": "2026-05-26T04:00:00-07:00",
+          "slug": "tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn",
+          "simplecast_id": "00a24c04-5983-4c5e-9f8d-b862fc602213"
+        }
+      ]
+    },
+    "recommended_next_episode_for_newsletter_generation": {
+      "episode_number": 190,
+      "episode_title": "Develop a Point of View and Let Your Advantage Compound",
+      "guest_name": "David Zhou",
+      "episode_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+      "transcript_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou/transcript",
+      "published_at": "2026-06-09T04:00:00-07:00",
+      "slug": "tsse-190-develop-point-of-view-david-zhou",
+      "simplecast_id": "4a5020ba-4b99-447d-a4b3-4f7ba206012b"
+    }
+  }
+}

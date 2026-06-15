@@ -6,7 +6,7 @@
 
 It connects the completed Editorial OS subsystems into one workflow:
 
-Transcript URL -> Transcript Retrieval -> Episode Intelligence Extraction -> Connected Insights Recommendation -> Startup Recommendation -> Newsletter Briefing -> Newsletter Draft
+Transcript URL -> Transcript Retrieval -> Episode Intelligence Generation -> Connected Insights Recommendation -> Startup Recommendation -> Newsletter Briefing -> Newsletter Draft
 
 The pipeline is designed for editorial preparation. It creates grounded briefing artifacts and a draft scaffold that Joe can edit before publication.
 
@@ -77,7 +77,7 @@ Transcript validation checks:
 - no SPA shell markers
 - no legacy 3.2 KB HTML shell content
 
-### Step 2: Episode Intelligence Extraction
+### Step 2: Episode Intelligence Generation
 
 The pipeline generates an episode intelligence object with:
 
@@ -90,12 +90,20 @@ The pipeline generates an episode intelligence object with:
 - notable quotes
 - community organizations
 
-For transcript URLs that match existing Rank 4 records, the pipeline uses the existing transcript-derived intelligence record from `data/episodes/rank4/`. This preserves the strongest available evidence and avoids modifying the canonical record.
+For transcript URLs that match existing active records, the pipeline uses the record from `data/episodes/active/` as the current episode intelligence source.
 
-For new URLs that do not match an existing Rank 4 record, the pipeline uses conservative local heuristic extraction from the retrieved transcript. This draft extraction is marked:
+For older curated episodes that do not yet have active records, the pipeline can still read the existing transcript-derived Rank 4 record from `data/episodes/rank4/` as a compatibility fallback. Rank 4 is not the primary storage location for episode intelligence; it remains the curated Connected Insights candidate subset.
+
+For new URLs that do not already have an active or curated record, the pipeline calls `episode_intelligence_generator.py` and saves an active record under:
 
 ```text
-extraction_method: local_heuristic_transcript_extraction
+data/episodes/active/
+```
+
+The active record is then used as the current episode context for briefing and recommendations. Rank 4 remains a curated subset used as the Connected Insights recommendation candidate pool. This draft extraction is marked:
+
+```text
+extraction_method: active_episode_intelligence_v1
 extraction_confidence: draft_requires_editorial_review
 ```
 
@@ -184,6 +192,7 @@ The draft uses recommender-generated rationale where useful, but it should be ed
 Local data dependencies:
 
 - `data/episodes/rank4/`
+- `data/episodes/active/`
 - `data/startups/`
 - `data/newsletter_history.csv`
 - `data/transcripts/`
@@ -191,6 +200,7 @@ Local data dependencies:
 Code dependencies:
 
 - `episode_discovery.py`, when using `--latest`
+- `episode_intelligence_generator.py`, for new active episode records
 - `phase3_transcript_retrieval.mjs`
 - `connected_insights_recommender_v3.py`
 - `startup_recommender_v1.py`

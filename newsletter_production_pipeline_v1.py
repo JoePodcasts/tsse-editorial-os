@@ -14,11 +14,17 @@ from connected_insights_recommender_v3 import (
     load_newsletter_history,
     recommend_connected_insights_v3,
 )
+from episode_intelligence_generator import (
+    ACTIVE_DIR,
+    generate_episode_intelligence_record,
+    save_active_record,
+)
 from startup_recommender_v1 import load_startup_records, recommend_startups_v1
 
 ROOT = Path(__file__).resolve().parent
 TRANSCRIPT_DIR = ROOT / "data" / "transcripts"
 OUTPUT_ROOT = ROOT / "outputs" / "newsletter_production"
+RANK4_DIR = ROOT / "data" / "episodes" / "rank4"
 BUNDLED_PLAYWRIGHT_MODULE = (
     Path.home()
     / ".cache"
@@ -197,6 +203,15 @@ def list_values(record: Dict[str, Any], key: str) -> List[str]:
     if isinstance(value, list):
         return [item for item in value if isinstance(item, str) and item.strip()]
     return []
+
+
+def load_active_episode_records(path: Path = ACTIVE_DIR) -> List[Dict[str, Any]]:
+    records = []
+    if not path.exists():
+        return records
+    for json_file in sorted(path.glob("episode_*.json"), key=lambda p: int(p.stem.split("_")[1])):
+        records.append(json.loads(json_file.read_text(encoding="utf-8")))
+    return records
 
 
 def find_existing_episode_record(transcript_url: str, records: Iterable[Dict[str, Any]]) -> Optional[Dict[str, Any]]:
@@ -658,8 +673,12 @@ def run_pipeline(args: argparse.Namespace) -> Dict[str, Any]:
         raise RuntimeError(f"Transcript validation failed: {validation}")
     retrieval["validation"] = validation
 
-    episode_records = load_episode_records()
-    existing_record = find_existing_episode_record(transcript_url, episode_records)
+    rank4_records = load_episode_records(RANK4_DIR)
+    active_records = load_active_episode_records()
+    existing_record = (
+        find_existing_episode_record(transcript_url, active_records)
+        or find_existing_episode_record(transcript_url, rank4_records)
+    )
     episode = generate_episode_intelligence(transcript_url, transcript_text, existing_record)
     if discovery_report and not existing_record:
         recommended = discovery_report.get("recommended_next_episode_for_newsletter_generation") or {}
@@ -668,11 +687,34 @@ def run_pipeline(args: argparse.Namespace) -> Dict[str, Any]:
         episode["guest_name"] = recommended.get("guest_name") or episode.get("guest_name", "")
         episode["episode_url"] = recommended.get("episode_url") or episode.get("episode_url", "")
 
+    active_record_output = None
+    if not existing_record:
+        generated_title = episode.get("title") or title_from_slug(slug_from_url(transcript_url))
+        generated_guest = args.guest_name or episode.get("guest_name", "")
+        if not episode_number:
+            raise RuntimeError("Episode number is required to generate a new episode intelligence record.")
+        generated_record = generate_episode_intelligence_record(
+            transcript_url=transcript_url,
+            episode_number=episode_number,
+            guest_name=generated_guest,
+            title=generated_title,
+            transcript_path=transcript_path,
+        )
+        active_record_output = save_active_record(generated_record, ACTIVE_DIR)
+        episode = {
+            **generated_record,
+            "extraction_method": "active_episode_intelligence_v1",
+            "extraction_confidence": "draft_requires_editorial_review",
+        }
+    elif find_existing_episode_record(transcript_url, active_records):
+        episode["extraction_method"] = "active_episode_intelligence_record"
+        episode["extraction_confidence"] = "draft_requires_editorial_review"
+
     history_records = load_newsletter_history()
     startup_records = load_startup_records()
     connected = recommend_connected_insights_v3(
         episode,
-        episode_records=episode_records,
+        episode_records=rank4_records,
         history_records=history_records,
         top_n=3,
     )
@@ -684,6 +726,18 @@ def run_pipeline(args: argparse.Namespace) -> Dict[str, Any]:
     )
 
     briefing = generate_briefing(transcript_url, retrieval, episode, connected, startups)
+    if active_record_output:
+        briefing["episode_intelligence_record"] = {
+            "source": "episode_intelligence_generator.py",
+            "path": str(active_record_output),
+            "status": "active",
+        }
+    elif find_existing_episode_record(transcript_url, active_records):
+        briefing["episode_intelligence_record"] = {
+            "source": "data/episodes/active",
+            "path": str(ACTIVE_DIR / f"episode_{episode_number}.json"),
+            "status": "active",
+        }
     if discovery_report:
         briefing["automatic_episode_discovery"] = {
             "newest_episode": discovery_report.get("newest_episode"),
