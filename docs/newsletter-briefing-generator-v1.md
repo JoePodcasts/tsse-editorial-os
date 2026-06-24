@@ -91,7 +91,7 @@ This creates an editorial package for David Gritz's InsurTech episode, including
 
 - The generator only works for episodes with records in `data/episodes/rank4/`.
 - It inherits Connected Insights v3 limitations, including noisy historical Connected Insights labels.
-- It inherits Startup Recommender v1 limitations, including sparse startup milestones and unverified Sure relationship fields.
+- It inherits Startup Recommender v1 limitations, including sparse startup milestones and mostly unverified Sure relationship fields. Verified shared-investment relationships are prioritized when present in startup records.
 - It does not generate final newsletter prose.
 - It does not verify quote exactness at runtime.
 - It does not retrieve new transcripts, websites, or current news.

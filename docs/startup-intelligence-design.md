@@ -138,22 +138,22 @@ The first automation pass should normalize existing `startup_corner_company` val
 
 Observed watchlist appearance counts from `data/newsletter_history.csv`:
 
-| Company | Normalized count | Most recent issue | Issues since latest issue 75 |
+| Company | Normalized count | Most recent issue | Issues since latest issue 77 |
 |---|---:|---:|---:|
-| Lumber | 3 | 70 | 5 |
-| TrustLayer | 1 | 45 | 30 |
-| PAXAFE | 4 | 73 | 2 |
-| Coterie | Needs alias review | Needs alias review | Needs alias review |
-| Hi Marley | 1 | 67 | 8 |
-| Ava | 3 | 72 | 3 |
-| Insurate | 2 | 68 | 7 |
-| Juno | 3 | 74 | 1 |
-| FirstShift | 3 | 75 | 0 |
+| Lumber | 4 | 70 | 7 |
+| TrustLayer | 1 | 45 | 32 |
+| PAXAFE | 5 | 73 | 4 |
+| Coterie | 2 | 65 | 12 |
+| Hi Marley | 2 | 67 | 10 |
+| Ava | 3 | 72 | 5 |
+| Insurate | 2 | 68 | 9 |
+| Juno | 3 | 74 | 3 |
+| FirstShift | 4 | 75 | 2 |
 | Balance Cash | 0 | None found | None found |
 | Rigor.ai | 0 | None found | None found |
 | Honeycomb | 3 | 71 | 4 |
 | Konfyd | 0 | None found | None found |
-| Weav | 0 | None found | None found |
+| Weav | 1 | 77 | 0 |
 
 Known alias cleanup examples:
 
@@ -234,7 +234,7 @@ Proposed total: 100 base points before penalties.
 | Signal | Weight | Purpose |
 |---|---:|---|
 | Episode relevance | 45 | Match startup themes and industries to the current episode's primary theme, secondary themes, founder lessons, and industries. |
-| Co-investment or Sure relationship | 20 | Reward verified relationship strength when it improves editorial relevance. |
+| Co-investment or Sure relationship | Priority rule | Verified shared investment between Gopi Rangan and the current guest should make that startup the first Startup Corner choice. |
 | Recent company activity | 20 | Reward recent, meaningful, source-backed company milestones. |
 | Newsletter recency and frequency | 15 | Prefer fresh companies and penalize recent or repeated appearances. |
 

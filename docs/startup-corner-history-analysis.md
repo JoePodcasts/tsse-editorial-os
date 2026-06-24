@@ -4,7 +4,7 @@
 
 This report audits historical Startup Corner usage as the foundation for Startup Recommendation Engine v1. It uses normalized Startup Intelligence v2 records in `data/startups/` and cross-checks them against raw `data/newsletter_history.csv`.
 
-Latest parsed newsletter issue: 75.
+Latest parsed newsletter issue: 77.
 
 ## 1. Startup Appearance Frequency
 
@@ -20,10 +20,10 @@ Latest parsed newsletter issue: 75.
 | Hi Marley | 2 | 67, 37 | 67 | 8 |
 | Insurate | 2 | 68, 58 | 68 | 7 |
 | TrustLayer | 1 | 45 | 45 | 30 |
+| Weav | 1 | 77 | 77 | 0 |
 | Balance Cash | 0 | None | Never | N/A |
 | Konfyd | 0 | None | Never | N/A |
 | Rigor.ai | 0 | None | Never | N/A |
-| Weav | 0 | None | Never | N/A |
 
 ## 2. Startup Coverage Distribution
 
@@ -40,14 +40,13 @@ Startups never featured in normalized watchlist history:
 - Balance Cash
 - Konfyd
 - Rigor.ai
-- Weav
 
 Coverage observations:
 
-- Normalized approved-watchlist appearances total 29 across 45 parsed newsletter rows.
+- Normalized approved-watchlist appearances total 30 across 46 parsed newsletter rows.
 - PAXAFE is the highest-frequency approved startup with 5 normalized appearances.
 - FirstShift and Lumber are the next most frequent, with 4 appearances each.
-- Four approved startups have no normalized historical Startup Corner appearance: Balance Cash, Konfyd, Rigor.ai, and Weav.
+- Three approved startups have no normalized historical Startup Corner appearance: Balance Cash, Konfyd, and Rigor.ai.
 - Startup Corner usage is concentrated in a small group of logistics, construction, and insurance-adjacent startups.
 
 ## 3. Theme Mapping
@@ -163,25 +162,24 @@ Coverage observations:
 
 - Industries: Artificial Intelligence, InsurTech, Commercial P&C Insurance, Underwriting Automation, Premium Audit, Claims Decisioning
 - Themes: AI-native insurance decisioning, Underwriting recommendations, Premium audit automation, Claims decision support, Knowledge graphs and next-best-action workflows, Human-in-the-loop insurance AI
-- Newsletter contexts where featured: None found in normalized watchlist history.
+- Newsletter contexts where featured:
+  - Issue 77: Raw Startup Corner value: Weav.
 
 ## 4. Recency Analysis
 
-Recently featured startups, defined as last featured within issues 71-75:
+Recently featured startups, defined as last featured within issues 73-77:
 
-- FirstShift: issue 75, 0 issue(s) ago.
-- Juno: issue 74, 1 issue(s) ago.
-- PAXAFE: issue 73, 2 issue(s) ago.
-- Ava: issue 72, 3 issue(s) ago.
-- Honeycomb: issue 71, 4 issue(s) ago.
+- Weav: issue 77, 0 issue(s) ago.
+- FirstShift: issue 75, 2 issue(s) ago.
+- Juno: issue 74, 3 issue(s) ago.
+- PAXAFE: issue 73, 4 issue(s) ago.
 
 Startups not featured for long periods, defined as 13+ issues since last appearance or never featured:
 
-- Weav: never featured in normalized approved-watchlist history.
 - Rigor.ai: never featured in normalized approved-watchlist history.
 - Konfyd: never featured in normalized approved-watchlist history.
 - Balance Cash: never featured in normalized approved-watchlist history.
-- TrustLayer: last featured in issue 45, 30 issue(s) ago.
+- TrustLayer: last featured in issue 45, 32 issue(s) ago.
 
 Recency implications for v1 scoring:
 
@@ -237,7 +235,8 @@ Recommended historical features for Startup Recommendation Engine v1:
 
 Recommended v1 scoring guardrails:
 
-- Penalize companies featured in issues 71-75 unless there is strong current activity.
-- Give freshness credit to Balance Cash, Konfyd, Rigor.ai, Weav, and TrustLayer once theme relevance is sufficient.
+- Penalize companies featured in the last 0-4 issues unless there is strong current activity.
+- Give freshness credit to Balance Cash, Konfyd, Rigor.ai, and TrustLayer once theme relevance is sufficient.
+- Prioritize verified shared investments between Gopi Rangan and the current guest as the first-choice Startup Corner signal.
 - Avoid treating historical frequency alone as a positive signal; frequent usage may indicate overexposure.
 - Do not use ambiguous raw history rows as normalized appearances without manual review.

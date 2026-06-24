@@ -33,7 +33,16 @@
   "guest_relationships": [],
   "notable_milestones": [],
   "last_news_date": "",
-  "previous_newsletter_appearances": [],
+  "previous_newsletter_appearances": [
+    {
+      "issue_number": 77,
+      "raw_value": "Weav",
+      "normalized_company": "Weav",
+      "source_url": "data/newsletter_history.csv",
+      "source_type": "newsletter_history",
+      "review_status": "manual_user_confirmed"
+    }
+  ],
   "source_urls": [
     {
       "label": "Repository source registry",
@@ -71,7 +80,7 @@
   "confidence_notes": [
     "Website and category are sourced from docs/sources.md.",
     "Previous newsletter appearances are normalized from data/newsletter_history.csv when the company or a clear alias appears in startup_corner_company.",
-    "No prior Startup Corner appearance was clearly matched in newsletter history.",
+    "Normalized 1 previous Startup Corner appearance from newsletter history.",
     "v2 industries sourced from https://weav.ai/.",
     "v2 themes sourced from https://weav.ai/, https://weav.ai/about-us.",
     "v2 founder_names sourced from https://weav.ai/about-us.",

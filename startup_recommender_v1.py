@@ -283,15 +283,37 @@ def founder_background_score(current: Dict[str, Any], startup: Dict[str, Any]) -
     return score, matches
 
 
+def shared_investment_score(current: Dict[str, Any], startup: Dict[str, Any]) -> Tuple[int, List[Dict[str, Any]]]:
+    guest_name = normalize_text(current.get("guest_name", ""))
+    if not guest_name:
+        return 0, []
+    matches = []
+    for relationship in startup.get("guest_relationships", []):
+        if not isinstance(relationship, dict):
+            continue
+        relationship_type = normalize_text(relationship.get("relationship_type", ""))
+        related_guest = normalize_text(relationship.get("guest_name", ""))
+        if "shared" in relationship_type and "investment" in relationship_type and related_guest == guest_name:
+            matches.append(relationship)
+    if matches:
+        return 100, matches
+    return 0, []
+
+
 def plain_english_rationale(
     startup: Dict[str, Any],
     matched_themes: List[Dict[str, Any]],
     matched_industries: List[Dict[str, Any]],
+    shared_investments: List[Dict[str, Any]],
     recency_note: str,
     milestone_note: str,
 ) -> str:
     parts = []
-    if matched_themes:
+    if shared_investments:
+        parts.append(
+            f"Recommended first because Gopi Rangan and the guest have a shared investment in {startup['company_name']}."
+        )
+    elif matched_themes:
         parts.append(
             f"Recommended because the episode connects to {startup['company_name']}'s theme of {matched_themes[0]['startup']}."
         )
@@ -352,6 +374,7 @@ def score_startup(
         startup_industries,
     )
     founder_score, founder_matches = founder_background_score(current, startup)
+    shared_investment_points, shared_investment_matches = shared_investment_score(current, startup)
     milestone_points, milestone_matches, milestone_note = milestone_score(startup)
     stats = appearance_stats(startup)
     recency_points, recency_note = recency_score(stats, latest_issue)
@@ -359,7 +382,7 @@ def score_startup(
 
     matched_themes = primary_matches + secondary_matches + lesson_theme_matches
     episode_relevance = primary_score + secondary_score + lesson_theme_score + industry_score
-    startup_intelligence = founder_score + milestone_points
+    startup_intelligence = founder_score + milestone_points + shared_investment_points
     editorial_constraints = recency_points + frequency_points
     score = episode_relevance + startup_intelligence + editorial_constraints
 
@@ -369,6 +392,7 @@ def score_startup(
         "matched_themes": matched_themes,
         "matched_industries": industry_matches,
         "matched_founder_background": founder_matches,
+        "matched_shared_investments": shared_investment_matches,
         "notable_milestones": milestone_matches,
         "recency_status": recency_note,
         "frequency_status": frequency_note,
@@ -378,6 +402,7 @@ def score_startup(
             "founder_lessons": lesson_theme_score,
             "industry_overlap": industry_score,
             "founder_background_alignment": founder_score,
+            "shared_investment_priority": shared_investment_points,
             "notable_milestones": milestone_points,
             "appearance_recency": recency_points,
             "appearance_frequency": frequency_points,
@@ -389,6 +414,7 @@ def score_startup(
             startup,
             matched_themes,
             industry_matches,
+            shared_investment_matches,
             recency_note,
             milestone_note,
         ),
@@ -436,6 +462,7 @@ def recommend_startups_v1(
     ]
     recommendations.sort(
         key=lambda item: (
+            item["score_breakdown"]["shared_investment_priority"],
             item["score"],
             item["score_breakdown"]["episode_relevance_total"],
             item["score_breakdown"]["industry_overlap"],

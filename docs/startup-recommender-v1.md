@@ -47,6 +47,7 @@ Every recommendation includes:
 - `matched_themes`
 - `matched_industries`
 - `matched_founder_background`
+- `matched_shared_investments`
 - `notable_milestones`
 - `recency_status`
 - `frequency_status`
@@ -81,6 +82,7 @@ Startup intelligence adds supporting points when records contain evidence-backed
 | Signal | Maximum | Notes |
 |---|---:|---|
 | Founder background alignment | 8 | Uses official-source founder background only where available. |
+| Shared investment priority | 100 | If Gopi Rangan and the current guest have a verified shared investment in a startup, that startup is prioritized as the first Startup Corner choice. |
 | Notable milestones | 8 | Gives more credit to official-site-supported milestones than newsletter-history items needing review. |
 
 ### Editorial Constraints
@@ -111,6 +113,7 @@ Startup Corner should strengthen the issue narrative, not simply feature the fre
 For that reason:
 
 - Episode relevance carries the most available points.
+- Verified shared-investment relationships override ordinary relevance scoring because they are an established editorial rule for Startup Corner selection.
 - Startup intelligence helps break ties and add editorial substance.
 - Recency and frequency can strongly penalize recently featured companies.
 - Freshness helps never-featured companies, but it is intentionally modest so low-relevance startups do not win only because they are unused.
@@ -145,7 +148,7 @@ The scorer surfaces AI-adjacent companies, but this case also shows a v1 limitat
 
 - The scorer is lexical and does not use embeddings or semantic APIs.
 - Generic `AI`, `FinTech`, and `InsurTech` tags can produce broad matches.
-- Sure relationship and guest relationship scoring is not active because those fields remain unverified in Startup Intelligence v2.
+- Shared-investment scoring only activates when a startup record has a verified `guest_relationships` entry for the current guest.
 - Newsletter history has missing `publication_date`, `central_theme`, and many `featured_episode` values.
 - Some Startup Corner history rows are headline-style values rather than canonical company names.
 - Notable milestones are sparse across the startup records.
@@ -154,6 +157,6 @@ The scorer surfaces AI-adjacent companies, but this case also shows a v1 limitat
 
 - Add controlled startup theme clusters.
 - Normalize `data/newsletter_history.csv` with canonical startup names and issue dates.
-- Add relationship scoring after Sure relationship fields are manually verified.
+- Continue enriching Sure relationship and guest relationship fields so the shared-investment priority can be applied consistently.
 - Add editorial feedback capture for accepted and rejected Startup Corner recommendations.
 - Add local-only semantic similarity if lexical scoring proves too brittle.

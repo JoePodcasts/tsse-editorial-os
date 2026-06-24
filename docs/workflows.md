@@ -58,9 +58,9 @@ Review approved startup watchlist.
 
 Preferred Selection Criteria:
 
-1. Startup aligns with episode theme.
-2. Startup operates in the same industry.
-3. Startup has co-investment connections with the guest.
+1. Startup has a verified shared investment connection with both Gopi Rangan and the guest.
+2. Startup aligns with episode theme.
+3. Startup operates in the same industry.
 4. Startup has meaningful recent news.
 
 If no strong thematic connection exists:

@@ -30,7 +30,7 @@ TSSE Editorial OS is now usable as an editorial planning workflow. The briefing 
 
 The strongest subsystem is episode intelligence: summaries, founder lessons, industries, quotes, and community organizations are consistently available and concise. Connected Insights is also strong when the episode falls into a well-populated Rank 4 theme cluster such as FinTech, founder development, or emerging managers.
 
-The least mature subsystem is Startup Corner recommendation quality. Startup recommendations work best when there is an obvious industry bridge, such as insurance or FinTech. They become generic for investor-operations, AI safety, and founder-development episodes because the startup intelligence layer has limited theme depth, sparse milestones, and no verified Sure or guest relationships yet.
+The least mature subsystem is Startup Corner recommendation quality. Startup recommendations work best when there is an obvious industry bridge, such as insurance or FinTech, or when a verified shared-investment relationship exists between Gopi Rangan and the guest. They become generic for investor-operations, AI safety, and founder-development episodes because the startup intelligence layer still has limited theme depth, sparse milestones, and few verified relationship fields.
 
 ## Briefing Results
 
@@ -289,7 +289,7 @@ Joe/Gopi review:
 ## Recurring Issues
 
 - Generic vocabulary creates broad matches: AI, FinTech, InsurTech, Venture Capital, and Enterprise Software need controlled theme clusters or dampening rules.
-- Startup Corner lacks verified Sure relationship and guest relationship data, so the engine cannot yet use one of the most editorially important signals.
+- Startup Corner now supports verified shared-investment priority, but most Sure relationship and guest relationship fields remain unenriched.
 - Newsletter history normalization remains a blocker for historical validation and recency confidence.
 - Older Phase 1 quote exactness gaps still matter if quote text is promoted into newsletter drafts.
 - Some episodes are naturally poor fits for Startup Corner, especially LP/fund-construction episodes, and the workflow should be able to mark no strong startup recommendation.
@@ -303,7 +303,7 @@ Joe/Gopi review:
    - Include whether the quote has been verified against a rendered transcript artifact and whether the episode has known Phase 1 quote exactness risk.
 
 3. Improve Startup Corner scoring.
-   - Add manually verified Sure relationships, guest relationships, startup theme clusters, and a no-strong-candidate threshold.
+   - Continue adding manually verified Sure relationships, guest relationships, startup theme clusters, and a no-strong-candidate threshold.
 
 4. Normalize newsletter history.
    - Add canonical Connected Insights guest names, canonical Startup Corner company names, issue dates, and central themes.

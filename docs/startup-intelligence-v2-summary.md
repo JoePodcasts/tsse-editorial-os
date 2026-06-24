@@ -11,7 +11,7 @@ Sources used:
 - official company websites listed in `docs/sources.md`
 - official company About, Team, Story, or homepage pages when available
 
-No third-party news sites were used as primary sources. No Sure relationship, guest relationship, or founder detail was inferred when direct official evidence was unavailable.
+No third-party news sites were used as primary sources. No Sure relationship, guest relationship, or founder detail was inferred when direct official evidence was unavailable. After Episode 191 production, transcript-supported Coterie relationship metadata was added because the episode directly states that Gopi Rangan and Justin Smith-Lorenzetti are co-investors in Coterie.
 
 ## Fields Enriched
 
@@ -61,7 +61,7 @@ These records now have the strongest v2 coverage for future recommendation scori
 Fields still requiring manual review or additional approved sources:
 
 - `sure_relationship`: left blank for all startups because v2 found no direct official or repository-supported relationship detail beyond watchlist inclusion.
-- `guest_relationships`: left blank for all startups because no direct guest relationships were documented in approved sources.
+- `guest_relationships`: populated only for Coterie where the Episode 191 transcript directly supports a shared-investment relationship with Justin Smith-Lorenzetti; otherwise left blank.
 - `founder_names` and `founder_background`: still blank for TrustLayer, PAXAFE, Coterie, Ava, Insurate, FirstShift, Balance Cash, Rigor.ai, Honeycomb, and Konfyd.
 - `last_news_date`: populated only for Honeycomb because other reviewed official pages did not provide a clear dated news item suitable for the field.
 - `notable_milestones`: sparse for several companies because v2 avoided treating generic product positioning as a milestone.
@@ -72,7 +72,7 @@ High-priority manual review:
 
 - TrustLayer: founder and Sure relationship details.
 - PAXAFE: founder details and whether the newsletter-history FreightTech 100 item should remain as a milestone.
-- Coterie: founder details and confirmation of the 2018 launch milestone.
+- Coterie: founder details; the 2018 launch milestone and Justin Smith-Lorenzetti shared-investment relationship are now supported by approved sources.
 - Ava: official company category in `docs/sources.md` says AI Meeting Intelligence, while the official website currently positions Ava as a credit-building app.
 - FirstShift: official homepage metadata supports AI supply-chain planning, but the rendered page exposed limited body text.
 - Balance Cash: founder details and any relationship context.
@@ -98,7 +98,7 @@ Validation performed:
 - Every record with newsletter appearances has a `source_urls` entry for `data/newsletter_history.csv`.
 - Every record has official-source attribution for v2 `industries` and `themes`.
 - Founder fields are populated only when official pages identify founders.
-- Sure and guest relationship fields remain blank because no direct approved-source evidence was available.
+- Sure and guest relationship fields remain sparse; Coterie now has transcript-supported relationship evidence from Episode 191.
 
 ## Readiness for Startup Recommendation Engine v1
 
@@ -109,7 +109,7 @@ The v2 layer is sufficient to support a first recommendation engine that scores:
 - newsletter recency and frequency
 - recent activity where available
 
-The engine should not yet score Sure relationship or guest relationship signals unless those fields are manually enriched with approved evidence.
+The engine scores verified shared-investment relationships as a first-choice Startup Corner priority. Other Sure relationship or guest relationship signals should remain inactive unless manually enriched with approved evidence.
 
 ## Recommended Next Steps
 
@@ -125,5 +125,5 @@ The engine should not yet score Sure relationship or guest relationship signals 
 4. Add official milestone review.
    - Confirm which newsletter-history milestone rows should remain in `notable_milestones`.
 
-5. Build Startup Recommendation Engine v1.
-   - Start with industry/theme/newsletter-recency scoring and leave relationship scoring at zero until relationship fields are verified.
+5. Continue improving Startup Recommendation Engine v1.
+   - Keep shared-investment scoring active only for verified relationship fields, and continue industry/theme/newsletter-recency scoring for all other cases.

@@ -391,6 +391,11 @@ def connected_metadata(recommendation: Dict[str, Any], rank: int) -> Dict[str, A
 
 
 def startup_metadata(recommendation: Dict[str, Any], rank: int) -> Dict[str, Any]:
+    selection_note = (
+        "Selected first by Startup Recommender v1 because the current guest and Gopi Rangan share an investment in this company."
+        if recommendation.get("matched_shared_investments")
+        else "Selected by Startup Recommender v1 ranking for this episode context."
+    )
     return {
         "rank": rank,
         "startup_name": recommendation.get("startup_name"),
@@ -399,11 +404,12 @@ def startup_metadata(recommendation: Dict[str, Any], rank: int) -> Dict[str, Any
         "matched_themes": recommendation.get("matched_themes", []),
         "matched_industries": recommendation.get("matched_industries", []),
         "matched_founder_background": recommendation.get("matched_founder_background", []),
+        "matched_shared_investments": recommendation.get("matched_shared_investments", []),
         "notable_milestones": recommendation.get("notable_milestones", []),
         "recency_status": recommendation.get("recency_status", ""),
         "frequency_status": recommendation.get("frequency_status", ""),
         "rationale": recommendation.get("plain_english_rationale", ""),
-        "selection_note": "Selected by Startup Recommender v1 ranking for this episode context.",
+        "selection_note": selection_note,
     }
 
 
@@ -598,7 +604,8 @@ def render_newsletter_draft(briefing: Dict[str, Any]) -> str:
                 startup.get("rationale", ""),
                 "",
                 "Why this connects:",
-                f"{startup.get('startup_name')} was selected because the Startup Recommender found overlap with the episode's themes, industries, or founder lessons while accounting for newsletter recency and frequency.",
+                startup.get("selection_note")
+                or f"{startup.get('startup_name')} was selected because the Startup Recommender found overlap with the episode's themes, industries, or founder lessons while accounting for newsletter recency and frequency.",
                 "",
             ]
         )

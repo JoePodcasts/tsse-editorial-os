@@ -205,7 +205,7 @@ Known limitations remain in this dataset, including missing publication dates, m
 
 `data/startups/` contains 14 startup intelligence records for the approved watchlist.
 
-The records are sufficient for Startup Recommendation Engine v1, but several fields still require deeper manual research, especially Sure relationship details, guest relationships, and current company milestones.
+The records are sufficient for Startup Recommendation Engine v1, but several fields still require deeper manual research, especially Sure relationship details, guest relationships, and current company milestones. Verified shared-investment relationships can now be used when explicitly supported by approved evidence.
 
 ## Recommendation Systems Implemented
 
@@ -325,12 +325,12 @@ This makes the system easy to inspect, but it can miss conceptually related matc
 
 ### Startup Intelligence Depth
 
-Startup intelligence is ready for v1 recommendation scoring, but it is not yet complete enough for high-confidence relationship-driven recommendations.
+Startup intelligence is ready for v1 recommendation scoring, and verified shared-investment relationships can now drive first-choice recommendations. It is still not complete enough for broad high-confidence relationship-driven recommendations.
 
 The biggest remaining gaps are:
 
-- Verified Sure relationship details.
-- Verified guest relationships.
+- Verified Sure relationship details beyond currently supported shared-investment cases.
+- Verified guest relationships beyond currently supported shared-investment cases.
 - Current company milestones.
 - Founder background depth.
 - Better source coverage for recent activity.
@@ -368,7 +368,7 @@ Human editorial review remains required for:
 ### Startup Intelligence Expansion
 
 - Enrich startup records with approved official sources.
-- Verify Sure relationship and guest relationship fields.
+- Verify Sure relationship and guest relationship fields, prioritizing shared investments between Gopi Rangan and podcast guests.
 - Add current company activity with dated milestones.
 - Expand confidence scoring by field.
 - Separate company category, buyer, industry, and editorial theme into cleaner fields.

@@ -101,7 +101,7 @@ Secondary metrics:
 
 - Historical Startup Corner usage is not a clean benchmark because older rows include aliases, headline-style values, and non-watchlist companies.
 - The current startup records have uneven milestone and founder coverage.
-- Sure relationship and guest relationship fields remain unverified, so v1 cannot score those signals.
+- Shared-investment relationship scoring is active only when a startup record has verified relationship evidence; most Sure relationship and guest relationship fields remain unverified.
 - Generic industry labels can make broad matches look stronger than the editorial connection really is.
 
 ## Feedback Loop

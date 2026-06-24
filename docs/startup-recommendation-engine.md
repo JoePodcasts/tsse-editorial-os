@@ -78,6 +78,8 @@ The recommendation engine uses:
 
 ## Step 1: Thematic Alignment
 
+Before ordinary scoring, apply the established shared-investment rule: if Gopi Rangan and the current guest have a verified shared investment in an approved startup, that company should be the first Startup Corner choice.
+
 The preferred startup should reinforce the central newsletter theme.
 
 Example:
@@ -96,7 +98,7 @@ FirstShift:
   Supply Chain Decision Intelligence
 ```
 
-Thematic alignment is the highest priority criterion.
+Thematic alignment is the highest ordinary scoring criterion when no verified Gopi-plus-guest shared investment is present.
 
 ---
 
@@ -123,7 +125,7 @@ Additional recommendation strength may come from:
 * Shared market focus
 * Shared customer profile
 
-These signals should supplement thematic alignment.
+Verified shared investments between Gopi Rangan and the current guest override ordinary thematic scoring. Other relationship signals should supplement thematic alignment.
 
 ---
 

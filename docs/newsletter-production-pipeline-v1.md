@@ -143,12 +143,15 @@ It selects the top three recommendations and stores:
 - matched themes
 - matched industries
 - matched founder background
+- matched shared investments
 - notable milestones
 - recency status
 - frequency status
 - rationale
 
 The pipeline does not modify Startup Recommender scoring logic or startup records.
+
+Startup Corner selection follows the established editorial rule that a verified shared investment between Gopi Rangan and the current guest should be prioritized as the first Startup Corner choice.
 
 ### Step 5: Briefing Artifacts
 

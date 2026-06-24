@@ -26,12 +26,32 @@
   "founder_names": [],
   "founder_background": "",
   "sure_relationship": {
-    "relationship_type": "",
-    "relationship_notes": "",
-    "evidence": [],
-    "review_status": "unreviewed"
+    "relationship_type": "portfolio_investment",
+    "relationship_notes": "Gopi Rangan states in Episode 191 that he was already an investor in Coterie before Intact led the Series A.",
+    "evidence": [
+      {
+        "source": "data/transcripts/tsse-191-desire-to-build-justin-smith-lorenzetti_transcript.txt",
+        "summary": "Gopi says he was already an investor in Coterie and remembers Intact leading the Series A.",
+        "review_status": "transcript_supported"
+      }
+    ],
+    "review_status": "transcript_supported"
   },
-  "guest_relationships": [],
+  "guest_relationships": [
+    {
+      "guest_name": "Justin Smith-Lorenzetti",
+      "relationship_type": "shared_investment_with_gopi",
+      "relationship_notes": "Justin says Coterie is a business that he and Gopi are co-invested in.",
+      "evidence": [
+        {
+          "source": "data/transcripts/tsse-191-desire-to-build-justin-smith-lorenzetti_transcript.txt",
+          "summary": "Justin states: Coterie is a business that you and I are co-invested in.",
+          "review_status": "transcript_supported"
+        }
+      ],
+      "review_status": "transcript_supported"
+    }
+  ],
   "notable_milestones": [
     {
       "date": "",
@@ -127,13 +147,13 @@
     "v2 themes sourced from https://coterieinsurance.com/, https://coterieinsurance.com/about/.",
     "v2 notable_milestones sourced from https://coterieinsurance.com/about/.",
     "v2 founder fields were left blank because no founder names were found in the reviewed official website content.",
-    "v2 sure_relationship and guest_relationships were left blank because no direct relationship evidence was found in approved sources.",
+    "Episode 191 transcript supports a shared Gopi Rangan and Justin Smith-Lorenzetti investment relationship.",
     "v2 founder fields remain blank pending official founder evidence or manual review.",
-    "v2 sure_relationship and guest_relationships remain blank pending verified relationship evidence."
+    "Shared-investment relationship should take priority in Startup Corner selection when Justin Smith-Lorenzetti is the current guest."
   ],
   "evidence_status": {
     "company_profile_reviewed": true,
-    "sure_relationship_reviewed": false,
+    "sure_relationship_reviewed": true,
     "newsletter_history_reviewed": true,
     "last_manual_review_date": "2026-06-13"
   }

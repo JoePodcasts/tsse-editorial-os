@@ -1,0 +1,331 @@
+{
+  "pipeline_version": "newsletter_production_pipeline_v1",
+  "input": {
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse-191-desire-to-build-justin-smith-lorenzetti/transcript"
+  },
+  "transcript_retrieval": {
+    "source": "cached_rendered_transcript",
+    "transcript_url": "https://podcast.sure.ventures/episodes/tsse-191-desire-to-build-justin-smith-lorenzetti/transcript",
+    "output_path": "/Users/jwanyua/tsse-editorial-os/data/transcripts/tsse-191-desire-to-build-justin-smith-lorenzetti_transcript.txt",
+    "validation": {
+      "byte_length": 44088,
+      "character_length": 44088,
+      "paragraph_count": 145,
+      "speakers": [
+        "Gopi Rangan",
+        "Justin Smith-Lorenzetti"
+      ],
+      "has_html_shell": false,
+      "valid": true
+    }
+  },
+  "episode_summary": {
+    "episode_number": 191,
+    "guest": "Justin Smith-Lorenzetti",
+    "title": "Desire To Build Justin Smith Lorenzetti",
+    "episode_url": "https://podcast.sure.ventures/episodes/tsse-191-desire-to-build-justin-smith-lorenzetti",
+    "primary_theme": "Insurance and risk infrastructure",
+    "secondary_themes": [
+      "LP education and disciplined emerging manager evaluation",
+      "Founder and GP storytelling for investor fit",
+      "Customer discovery and market learning",
+      "FinTech infrastructure"
+    ],
+    "industries": [
+      "Venture Capital",
+      "InsurTech",
+      "Enterprise Software",
+      "FinTech",
+      "Limited Partners",
+      "Artificial Intelligence"
+    ],
+    "extraction_method": "active_episode_intelligence_record",
+    "extraction_confidence": "draft_requires_editorial_review"
+  },
+  "founder_lessons": [
+    "When we meet funds, and they're like: \"What do we have to do to, you know, get you on as an LP?\" Like, I don't know, man, just hang on the hoop for a long time and be a great person.",
+    "We don't have to hit you with a seed or the series A.",
+    "So we have to figure out in the next decade of intact private capital where we wanna flex our muscles, so we're not just a one-trick pony.",
+    "So yes, focus is very important, but I would say that the discipline element for VCs is really what's important in these times."
+  ],
+  "notable_quotes": [
+    "So yes, focus is very important, but I would say that the discipline element for VCs is really what's important in these times.",
+    "I was afforded the opportunity quickly thereafter to sort of formalize the practice or help formalize the practice.",
+    "And after a year of being at Intact, I was sort of employee number one, what we used to call Intact Ventures, our first inaugural fund being $250 million, focused on investing in disruptive trends in and around insurance."
+  ],
+  "connected_insights_recommendations": [
+    {
+      "rank": 1,
+      "guest_name": "Vivek Krishnamurthy",
+      "episode_number": 34,
+      "score": 45,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 14,
+        "founder_lessons": 2,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "FinTech infrastructure",
+          "candidate": "FinTech infrastructure",
+          "score": 14
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "So we have to figure out in the next decade of intact private capital where we wanna flex our muscles, so we're not just a one-trick pony.",
+          "candidate": "Reach out to investors before a fundraise so the relationship is less transactional.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "FinTech",
+        "InsurTech",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Vivek Krishnamurthy is relevant because Episode 34 shares the theme of FinTech infrastructure. The founder lessons also connect, especially around Reach out to investors before a fundraise so the relationship is less transactional. Industry overlap: FinTech, InsurTech, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 2,
+      "guest_name": "Semil Shah",
+      "episode_number": 105,
+      "score": 39,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 2,
+        "founder_lessons": 8,
+        "industries": 21,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [
+        {
+          "current": "Founder and GP storytelling for investor fit",
+          "candidate": "Investor-founder conversation quality",
+          "score": 2
+        }
+      ],
+      "matched_founder_lessons": [
+        {
+          "current": "When we meet funds, and they're like: \"What do we have to do to, you know, get you on as an LP?\" Like, I don't know, man, just hang on the hoop for a long time and be a great person.",
+          "candidate": "Ask what you would do if you could never raise capital again, regardless of how much money you just raised.",
+          "score": 4
+        },
+        {
+          "current": "So we have to figure out in the next decade of intact private capital where we wanna flex our muscles, so we're not just a one-trick pony.",
+          "candidate": "Ask what you would do if you could never raise capital again, regardless of how much money you just raised.",
+          "score": 2
+        },
+        {
+          "current": "So yes, focus is very important, but I would say that the discipline element for VCs is really what's important in these times.",
+          "candidate": "Ask what you would do if you could never raise capital again, regardless of how much money you just raised.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "Enterprise Software",
+        "FinTech",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Semil Shah is relevant because Episode 105 shares the theme of Investor-founder conversation quality. The founder lessons also connect, especially around Ask what you would do if you could never raise capital again, regardless of how much money you just raised. Industry overlap: Enterprise Software, FinTech, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "guest_name": "Zach Noorani",
+      "episode_number": 172,
+      "score": 38,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 2,
+        "industries": 28,
+        "community_organizations": 0,
+        "recency": 8,
+        "frequency": 0
+      },
+      "matched_themes": [],
+      "matched_founder_lessons": [
+        {
+          "current": "When we meet funds, and they're like: \"What do we have to do to, you know, get you on as an LP?\" Like, I don't know, man, just hang on the hoop for a long time and be a great person.",
+          "candidate": "Show what you will do differently in the market and why your insight is unique.",
+          "score": 2
+        }
+      ],
+      "matched_industries": [
+        "Artificial Intelligence",
+        "Enterprise Software",
+        "FinTech",
+        "Venture Capital"
+      ],
+      "matched_community_organizations": [],
+      "recency_note": "No normalized Connected Insights appearance found; treated as fresh.",
+      "frequency_note": "No normalized historical usage.",
+      "rationale": "Zach Noorani is a lower-theme-overlap candidate from Episode 172. The founder lessons also connect, especially around Show what you will do differently in the market and why your insight is unique. Industry overlap: Artificial Intelligence, Enterprise Software, FinTech, Venture Capital. No normalized Connected Insights appearance found; treated as fresh.",
+      "selection_note": "Selected by Connected Insights v3 ranking for this episode context."
+    }
+  ],
+  "startup_corner_recommendations": [
+    {
+      "rank": 1,
+      "startup_name": "Coterie",
+      "score": 108,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 0,
+        "industry_overlap": 7,
+        "founder_background_alignment": 0,
+        "shared_investment_priority": 100,
+        "notable_milestones": 8,
+        "appearance_recency": -3,
+        "appearance_frequency": -4,
+        "episode_relevance_total": 7,
+        "startup_intelligence_total": 108,
+        "editorial_constraints_total": -7
+      },
+      "matched_themes": [],
+      "matched_industries": [
+        {
+          "episode": "InsurTech",
+          "startup": "InsurTech",
+          "score": 7
+        }
+      ],
+      "matched_founder_background": [],
+      "matched_shared_investments": [
+        {
+          "guest_name": "Justin Smith-Lorenzetti",
+          "relationship_type": "shared_investment_with_gopi",
+          "relationship_notes": "Justin says Coterie is a business that he and Gopi are co-invested in.",
+          "evidence": [
+            {
+              "source": "data/transcripts/tsse-191-desire-to-build-justin-smith-lorenzetti_transcript.txt",
+              "summary": "Justin states: Coterie is a business that you and I are co-invested in.",
+              "review_status": "transcript_supported"
+            }
+          ],
+          "review_status": "transcript_supported"
+        }
+      ],
+      "notable_milestones": [
+        {
+          "date": "",
+          "title": "Coterie launched in 2018 to transform small business insurance with data and technology",
+          "summary": "Official About page states Coterie launched in 2018 with the belief that small business insurance could be transformed by using data and technology for agents, brokers, and policyholders.",
+          "source_url": "https://coterieinsurance.com/about/",
+          "source_type": "official_company_website",
+          "review_status": "official_site_supported"
+        }
+      ],
+      "recency_status": "Featured 12 issue(s) ago; light recency penalty.",
+      "frequency_status": "2 normalized historical appearances; mild frequency penalty.",
+      "rationale": "Recommended first because Gopi Rangan and the guest have a shared investment in Coterie. Industry alignment includes InsurTech. 1 official-site-supported milestone(s) available. Featured 12 issue(s) ago; light recency penalty.",
+      "selection_note": "Selected first by Startup Recommender v1 because the current guest and Gopi Rangan share an investment in this company."
+    },
+    {
+      "rank": 2,
+      "startup_name": "Balance Cash",
+      "score": 14,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 0,
+        "industry_overlap": 9,
+        "founder_background_alignment": 0,
+        "shared_investment_priority": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 5,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 9,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 5
+      },
+      "matched_themes": [],
+      "matched_industries": [
+        {
+          "episode": "FinTech",
+          "startup": "Financial Technology",
+          "score": 2
+        },
+        {
+          "episode": "Artificial Intelligence",
+          "startup": "Artificial Intelligence",
+          "score": 7
+        }
+      ],
+      "matched_founder_background": [],
+      "matched_shared_investments": [],
+      "notable_milestones": [],
+      "recency_status": "No normalized Startup Corner appearance found; treated as fresh.",
+      "frequency_status": "No normalized historical Startup Corner usage.",
+      "rationale": "Recommended because the episode shares industry context with Balance Cash, especially Financial Technology. Industry alignment includes Financial Technology, Artificial Intelligence. No normalized Startup Corner appearance found; treated as fresh.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    },
+    {
+      "rank": 3,
+      "startup_name": "TrustLayer",
+      "score": 13,
+      "score_breakdown": {
+        "primary_theme": 0,
+        "secondary_themes": 0,
+        "founder_lessons": 0,
+        "industry_overlap": 9,
+        "founder_background_alignment": 0,
+        "shared_investment_priority": 0,
+        "notable_milestones": 0,
+        "appearance_recency": 4,
+        "appearance_frequency": 0,
+        "episode_relevance_total": 9,
+        "startup_intelligence_total": 0,
+        "editorial_constraints_total": 4
+      },
+      "matched_themes": [],
+      "matched_industries": [
+        {
+          "episode": "InsurTech",
+          "startup": "Insurance Technology",
+          "score": 2
+        },
+        {
+          "episode": "Artificial Intelligence",
+          "startup": "Artificial Intelligence",
+          "score": 7
+        }
+      ],
+      "matched_founder_background": [],
+      "matched_shared_investments": [],
+      "notable_milestones": [],
+      "recency_status": "Last featured 32 issue(s) ago; eligible for resurfacing.",
+      "frequency_status": "1 normalized historical appearance.",
+      "rationale": "Recommended because the episode shares industry context with TrustLayer, especially Insurance Technology. Industry alignment includes Insurance Technology, Artificial Intelligence. Last featured 32 issue(s) ago; eligible for resurfacing.",
+      "selection_note": "Selected by Startup Recommender v1 ranking for this episode context."
+    }
+  ],
+  "community_organizations": [
+    "Lorenzetti Foundation"
+  ],
+  "recommendation_metadata": {
+    "connected_insights_source": "connected_insights_recommender_v3.py",
+    "startup_corner_source": "startup_recommender_v1.py",
+    "newsletter_history_source": "data/newsletter_history.csv",
+    "note": "Scores and rationale are copied from the recommender systems without modifying their logic."
+  },
+  "episode_intelligence_record": {
+    "source": "data/episodes/active",
+    "path": "/Users/jwanyua/tsse-editorial-os/data/episodes/active/episode_191.json",
+    "status": "active"
+  }
+}
