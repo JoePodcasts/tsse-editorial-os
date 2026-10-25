@@ -31,3 +31,10 @@ data/temp/
 
 # Windows
 Thumbs.db
+# Quote-card builds and locally licensed fonts/large source assets
+outputs/quote_cards/
+data/publishing/local/
+publishing/local-fonts/
+# Isolated local portrait processing runtime, models and review builds
+.venv-portraits/
+outputs/portraits/

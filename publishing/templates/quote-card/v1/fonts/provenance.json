@@ -1,0 +1,12 @@
+{
+  "family": "Source Sans Pro",
+  "release": "2.045R-ro/1.095R-it",
+  "source": "https://github.com/adobe-fonts/source-sans/releases/download/2.045R-ro/1.095R-it/source-sans-pro-2.045R-ro-1.095R-it.zip",
+  "license": "LICENSE.txt",
+  "files": {
+    "SourceSansPro-Black.otf": "678e572b042ea6d7e2062c2794282562c4969e63ada6384821d3418159c2f8b1",
+    "SourceSansPro-Bold.otf": "294f0a2c1caa4c543ca67f5a88cc0474a471a247214b1fdde0257a018f596a84",
+    "SourceSansPro-Regular.otf": "774614c463f3c9bd6a3707e59eeb7c85c0753267ba2fd5105f8751c54b74b102",
+    "SourceSansPro-Semibold.otf": "2b6b71c6ca0e98feb46d919a2a9b2db2baaf5a391f1087beff452bb25c0b882e"
+  }
+}
