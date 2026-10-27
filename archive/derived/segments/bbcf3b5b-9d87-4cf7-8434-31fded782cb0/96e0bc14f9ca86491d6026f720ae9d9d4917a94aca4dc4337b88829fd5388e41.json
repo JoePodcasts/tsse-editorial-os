@@ -1,0 +1,1197 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 2,
+      "excerpt": " ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1,
+      "timestamps": []
+    },
+    {
+      "end": 25,
+      "excerpt": "TSSE Swati Chaturvedi",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4,
+      "timestamps": []
+    },
+    {
+      "end": 391,
+      "excerpt": "Swati Chaturvedi: [00:00:00] I think every entrepreneur faces rejection all the time. If this is something that they can leverage tools to increase their efficiency, they must do so. And for me, the, the entrepreneur that says I will do it myself, just because, you know, I'm going to show the world. Well more power to you. Just don't waste so much time doing it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 27,
+      "timestamps": [
+        {
+          "offset": 45,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 644,
+      "excerpt": "And the entrepreneur, I would not invest in them. And you know why for me, the entrepreneur that says, look, this is taking me unnecessary time. I'm going to use the tools that are efficient. That helped me be more efficient. I think that's very wise.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 393,
+      "timestamps": []
+    },
+    {
+      "end": 707,
+      "excerpt": "Gopi Rangan: You are listening to the shore shot entrepreneur",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 646,
+      "timestamps": []
+    },
+    {
+      "end": 1026,
+      "excerpt": "podcast for founders, with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the short shot [00:01:00] entrepreneur today's guest is Swati Chaturvedi. She is the co-founder and CEO of propel X propel.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 709,
+      "timestamps": [
+        {
+          "offset": 918,
+          "raw": "[00:01:00]",
+          "seconds": 60
+        }
+      ]
+    },
+    {
+      "end": 1202,
+      "excerpt": "Lex is an investment marketplace that gives investors the power to discover and fund visionary science and technology startups. Swati. Welcome to the sure shot  entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1028,
+      "timestamps": []
+    },
+    {
+      "end": 1266,
+      "excerpt": "Swati Chaturvedi: Thank you, Gopi. It's a pleasure to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 1204,
+      "timestamps": []
+    },
+    {
+      "end": 1420,
+      "excerpt": "Gopi Rangan: In this episode, Swati and I talk about her journey into venture capital, how she started propel X and what she looks for in entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1268,
+      "timestamps": []
+    },
+    {
+      "end": 1729,
+      "excerpt": "When she makes investments, she is a rare person whose business touches the world of venture capital. Entrepreneurship and investment banking. She gives perspectives based on all three of those experiences and give specific examples of situations that help entrepreneurs prepare before they go to investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1422,
+      "timestamps": []
+    },
+    {
+      "end": 2018,
+      "excerpt": "She also talks about common misunderstandings and the controversies that are around [00:02:00] the venture capital and investment banking sectors. She gives solutions to entrepreneurs to make their life efficient. Swati. Tell us about yourself, starting with, what is your company about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1731,
+      "timestamps": [
+        {
+          "offset": 1815,
+          "raw": "[00:02:00]",
+          "seconds": 120
+        }
+      ]
+    },
+    {
+      "end": 2132,
+      "excerpt": "Swati Chaturvedi: Oh my gosh. That's a very open-ended question, but let me try to answer that as best as I can.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 2020,
+      "timestamps": []
+    },
+    {
+      "end": 2572,
+      "excerpt": "So today I am the CEO of propel ex CEO and co-founder of propel lax. As you said, propel lax is an investment marketplace where we connect accredited investors with deep technology, startups of various kinds, and the sectors that we focus on include life sciences. Manufacturing energy and green technologies, aerospace and transportation, of course, computing and associated hardware and software areas, industrial technologies, ag tech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2134,
+      "timestamps": []
+    },
+    {
+      "end": 2948,
+      "excerpt": "Those are our main sectors of focus. So pro battleax has two main businesses. One, of course is this investment marketplace, which is [00:03:00] available online, accessible by entrepreneurs, online by investors online, worldwide, anywhere. We also have a venture capital business. So we have a very small fund that invests in companies that appear on the propel X platform.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2574,
+      "timestamps": [
+        {
+          "offset": 2708,
+          "raw": "[00:03:00]",
+          "seconds": 180
+        }
+      ]
+    },
+    {
+      "end": 3058,
+      "excerpt": "And that is called Newton fund. So I'm a partner there as well. So that is a summary of what I do currently.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2950,
+      "timestamps": []
+    },
+    {
+      "end": 3144,
+      "excerpt": "Gopi Rangan: Why did you start propel? PropelNext what was the thought process then?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3060,
+      "timestamps": []
+    },
+    {
+      "end": 3397,
+      "excerpt": "Swati Chaturvedi: Let me share a little bit about my background. I think that will provide the context to why I did what I did. Right. So I grew up in India and I was always interested in science and technology and the impact that it has on the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 3146,
+      "timestamps": []
+    },
+    {
+      "end": 3783,
+      "excerpt": "I came to the U S for my graduate studies. I went to Berkeley. MIT became a management consultant, a little bit of a sellout, ended up doing quite a bit in corporate finance or got my MBA. So that's. Pretty standard parts that people follow. But after my MBA, I started in [00:04:00] investing early on. I took an internship at Siemens venture capital invested in growth equity there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3399,
+      "timestamps": [
+        {
+          "offset": 3672,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 4130,
+      "excerpt": "And then I joined a private equity firm here in San Francisco at the private equity firm. We were doing very late stage kind of carve outs and my heart wasn't in it. I think Silicon Valley, San Francisco, they have this. Startup entrepreneurial vibe. And I wanted to be an angel investor. I wanted to participate in this whole startup ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3785,
+      "timestamps": []
+    },
+    {
+      "end": 4550,
+      "excerpt": "So thinking that I wanted to be an angel, I started visiting various angel groups to see if I could join one of them. And this was way back. 2012, 2013. And at that time, the buzzwords were so low, more so social, local, mobile. That's simply not my thing. I just did not find it compelling. I really wanted to participate in companies that are leveraging science and technology to change the world, to have an impact.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4132,
+      "timestamps": []
+    },
+    {
+      "end": 4919,
+      "excerpt": "And so I started along with leashing, my [00:05:00] co-founder of the MIT angels group. Initially, we started it in Northern California. Now we have chapters all over the country and that really was eye-opening. One of the things that we did differently from other angel groups is we did open it up to all accredited investors and we didn't have a minimum investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4552,
+      "timestamps": [
+        {
+          "offset": 4593,
+          "raw": "[00:05:00]",
+          "seconds": 300
+        }
+      ]
+    },
+    {
+      "end": 5331,
+      "excerpt": "We didn't have fees. It was really a university-based angel group. It was a lot of fun. We started sourcing deals and. We learned a few things. So because given our passions in life, we focused that group on what we defined at that time, deep technology startups. So we said deep tech companies are those that are founded on meaningful engineering or breakthrough science and are having an impact on the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4921,
+      "timestamps": []
+    },
+    {
+      "end": 5735,
+      "excerpt": "Now today, the deck, by the way is a global thing, which is great. And everyone defines it differently, more power to them. We still continue to define them B tech, startups as companies that are founded on breakthrough science or engineering. And we focused our group on [00:06:00] this. This was way back that I think we had our first discussions in 2013, we had our first MIP angels meeting in 2014.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5333,
+      "timestamps": [
+        {
+          "offset": 5605,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 6056,
+      "excerpt": "So it was really at the start of this whole deep tech phase in the world. What we discovered is two things. One, there were lots and lots of investors who are interested in these kinds of companies. These kinds of companies tend to be a little bit complex, right? They're based on deep science, deep research and so on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5737,
+      "timestamps": []
+    },
+    {
+      "end": 6361,
+      "excerpt": "But we had such a big base of MIT alumni that was interested. The first meeting we had, I will not forget it. We were hosted by a local law firm. We had a hundred plus people show up and then more and then some, and then some, we had to organize overflow rooms with the streaming video into those rooms.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6058,
+      "timestamps": []
+    },
+    {
+      "end": 6728,
+      "excerpt": "So there was interest. But at the same time, it was shocking to me that some of these companies found it hard to raise financing. I mean, one of the companies we invested in at that, and one of the earliest companies was SQZ [00:07:00] biotech that has just gone public. So these companies deliver great returns. It's just that they are what I call sleeper company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6363,
+      "timestamps": [
+        {
+          "offset": 6588,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 7149,
+      "excerpt": "So they are sleeper hit, which is to say, it's not an accurate, they will become until they become it. You know, it's not Apple and there'll be a hit until they are a hit. So on the one hand there's investors that are interested, but on the other hand, these startups find it hard to raise financing. We felt there was a much bigger opportunity for us to have an impact on deep tech startups on the deep tech ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6730,
+      "timestamps": []
+    },
+    {
+      "end": 7425,
+      "excerpt": "So we started probate, ALEKS. The intention was to connect deep tech startups, to investors that could finance them around the world. So I'll stop there. I mean, that's a long story of what was the original propel Lex, but that was how it was launched out of the MIT angels.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7151,
+      "timestamps": []
+    },
+    {
+      "end": 7521,
+      "excerpt": "Gopi Rangan: So you mentioned that propel X is a marketplace and you also have a venture fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7427,
+      "timestamps": []
+    },
+    {
+      "end": 7595,
+      "excerpt": "And how is this structure different from a typical venture capital firm?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7523,
+      "timestamps": []
+    },
+    {
+      "end": 7866,
+      "excerpt": "Swati Chaturvedi: Oh, it's quite [00:08:00] different. So first and foremost, propel acts as a marketplace is backed by investors. So we have angels and VCs who've invested in our own operations, right? In my mind, they pay for our time and the activities we do should.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 7597,
+      "timestamps": [
+        {
+          "offset": 7630,
+          "raw": "[00:08:00]",
+          "seconds": 480
+        }
+      ]
+    },
+    {
+      "end": 8252,
+      "excerpt": "Accrue benefit to them, right? So now a usual venture capital form is structured. You know, you'll have their SLCs or LinkedIn connected and there'll be a management company and so on. So there's a fund which will be an LPN. So when we raise this fund, so this one came about because there were friends and family who said, guys, you, you guys have access to such excellent data flow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7868,
+      "timestamps": []
+    },
+    {
+      "end": 8615,
+      "excerpt": "Take some money invest in these companies. So we had the opportunity to invest in these companies. That's why we raised a fund to be very clear. We did not have a prolonged process. We raised it from friends and family. Obviously the fund itself is structured as a limited partnership, but the management company structure is different from other venture funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8254,
+      "timestamps": []
+    },
+    {
+      "end": 8969,
+      "excerpt": "So it is [00:09:00] managed by propel Lex advisors, which is a wholly owned subsidiary of propel X, Inc. So unlike. The pass-through structures that you have for other venture capital firms. Ours is not a pass through. It does have to pay taxes at the C Corp level, which has prepared next level. So in terms of structure, that's how this is different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8617,
+      "timestamps": [
+        {
+          "offset": 8626,
+          "raw": "[00:09:00]",
+          "seconds": 540
+        }
+      ]
+    },
+    {
+      "end": 9365,
+      "excerpt": "We do invest in companies that appear on propel. Lex. There is not a limitation we have internally agreed. If we find really good opportunities, we'll invest in them outside, but what has happened in reality, practically speaking is we have this deal flow. Coming in all the time and with excellent goal investors and we feel that practically speaking, we've not invested outside of PropelNext.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8971,
+      "timestamps": []
+    },
+    {
+      "end": 9814,
+      "excerpt": "Gopi Rangan: Well, this is a fascinating story. As a student of science, I can relate to the need for more science-based technology-based startups and the impact that they will have would be enormous. It's great to see that you've already [00:10:00] seen. And the effect of that over the years. And I see that the structure, the legal structure and the operations of how propel ALEKS and your venture fund runs is different from a typical VC firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9367,
+      "timestamps": [
+        {
+          "offset": 9606,
+          "raw": "[00:10:00]",
+          "seconds": 600
+        }
+      ]
+    },
+    {
+      "end": 10154,
+      "excerpt": "But you are in the same business of meeting entrepreneurs at an early stage, investing in them, believing in their views and believing in their vision before other people do. And like you said, there are sleeper stages when you invest before they become blockbuster in the future, let's start with. What kind of startups do you invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9816,
+      "timestamps": []
+    },
+    {
+      "end": 10248,
+      "excerpt": "Roughly? How many of them do you invest? How often and what stages do you want to meet them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10156,
+      "timestamps": []
+    },
+    {
+      "end": 10596,
+      "excerpt": "Swati Chaturvedi: Yeah, so let's be clear on the two businesses, right? To prepare, like, think of it as an investment bank. And Newton fund is a venture capital firm. So propel vaccine has been around for a lot longer than Newton farm prepare lexing has showcased maybe 250 plus startups, 85 plus deals have been completed through that platform.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 10250,
+      "timestamps": []
+    },
+    {
+      "end": 11020,
+      "excerpt": "And the average ticket [00:11:00] size per deal is around 400 K right now. So we really do invest in the earlier stages. When propel X started, our investors were investing in seed stages. Now series is series B's and so on. Also are their series. A, I would say is our sweet spot right now. But as investment bank school, as marketplaces go, when you have more liquidity, the balance starts to shift towards larger deals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10598,
+      "timestamps": [
+        {
+          "offset": 10621,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 11327,
+      "excerpt": "It just does because you have more people willing to invest more liquidity. Well, with Newton fund funded is different Newton fund our mandate. Again, it was to invest in seed stage companies in deep technology startups in these sectors, which I mentioned. So we do invest early on. We write small checks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11022,
+      "timestamps": []
+    },
+    {
+      "end": 11682,
+      "excerpt": "So our contribution to a deal will be 50 K a hundred K at the time it used to be a hundred K and then 50 K. So we have now invested in about 25 deals. And our portfolio is performing quite well, which we're [00:12:00] very, very happy about. I can answer specific questions in, on other things around these deals, but hopefully that gives a good flavor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11329,
+      "timestamps": [
+        {
+          "offset": 11536,
+          "raw": "[00:12:00]",
+          "seconds": 720
+        }
+      ]
+    },
+    {
+      "end": 11896,
+      "excerpt": "Gopi Rangan: Yeah. You could give a couple of examples and describe like, what do you look for in entrepreneurs when you meet them? What is the process and what are the kind of things that really get you excited?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11684,
+      "timestamps": []
+    },
+    {
+      "end": 12028,
+      "excerpt": "Swati Chaturvedi: Shockingly, we don't meet most of our entrepreneurs. So believe it or not, we were probably one of the earliest.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 11898,
+      "timestamps": []
+    },
+    {
+      "end": 12338,
+      "excerpt": "I know now after COVID it's commonplace people don't meet the entrepreneurs before they invest. Yeah. But before COVID, it was not commonplace, but. For us, it has been that way, right? From the beginning, we don't meet around notes. We will meet them on zoom if that we have them present to our entire team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12030,
+      "timestamps": []
+    },
+    {
+      "end": 12732,
+      "excerpt": "So again, I do want to bring out this distinction for propel lacks. It is things are very curated, right? And then off the companies that appear on propel, lacks, again, we curate some of them and we invest in them. And it does not to [00:13:00] say that. We pick the best, not at all. It's just that venture capital firms have a very different way of looking at things than Angela investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12340,
+      "timestamps": [
+        {
+          "offset": 12575,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 12793,
+      "excerpt": "Right? Simply it, it just is a very different risk profile.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12734,
+      "timestamps": []
+    },
+    {
+      "end": 12828,
+      "excerpt": "Gopi Rangan: How is it different?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12795,
+      "timestamps": []
+    },
+    {
+      "end": 13072,
+      "excerpt": "Swati Chaturvedi: Let me give you an example. Okay. So there was an opportunity to invest in a series B company that gives us a, maybe two X return in one year, very close to exit series B for an angel investor. That's an amazing opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 12830,
+      "timestamps": []
+    },
+    {
+      "end": 13425,
+      "excerpt": "You're going to double your money in a year more or less, right? I mean, there's nothing guaranteed, of course, but for the farm, it wasn't good enough, right? Because we have to, we have to return the entire fund for the angel investor. They're looking at these opportunities one at a time and they will get a return from this one opportunity for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13074,
+      "timestamps": []
+    },
+    {
+      "end": 13815,
+      "excerpt": "We don't get a return until the entire portfolio is returned, besides which. We also felt that the time horizon was not right. [00:14:00] We wanted to be able to invest in it for longer. Simply put, I think venture capital firms look at things very differently from an angel investor. So things that are a fit for Newton fund are off sometimes may not be a fit for Andrews and vice versa.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13427,
+      "timestamps": [
+        {
+          "offset": 13554,
+          "raw": "[00:14:00]",
+          "seconds": 840
+        }
+      ]
+    },
+    {
+      "end": 14238,
+      "excerpt": "In fact, the vice versa is most often true things that are a fit for angels are most often not a fit for the fund itself. Right, because we want to look for that greater return. And I think angels are, if they're getting a hundred percent return in a year, it's very good. Very good. And the reason for us is look, we are going to invest a hundred K it's not as though we are investing $2 million and we're doubling that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13817,
+      "timestamps": []
+    },
+    {
+      "end": 14637,
+      "excerpt": "No, we will still have the portfolio strategy at the fund level. We'll invest a hundred gain. We get 200 keratan well, it's not returning the fund and it's not moving the needle towards returning the fund. So to speak, right? So it's very different. Therefore, the things that Newton fund invest in are different from what people invest in on the platform, [00:15:00] but there's a lot of overlap.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14240,
+      "timestamps": [
+        {
+          "offset": 14597,
+          "raw": "[00:15:00]",
+          "seconds": 900
+        }
+      ]
+    },
+    {
+      "end": 14937,
+      "excerpt": "It's almost always true that things that Newton fund invested in also raised financing on propel X, but the other way is not true things that raise financing on propel X may not always get financing from Newton fund. So I am going to talk or share some examples of what Newton fund has invested in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14639,
+      "timestamps": []
+    },
+    {
+      "end": 15315,
+      "excerpt": "Right. Which is a subset of what kind of companies have raised financing on propel X. So I'm going to talk about some of our recent investments, which are doing well. I'm very happy about those. So just to give you some recent investment, we just invested in a company called avails avails medical. And what they're doing is they're helping determine in a much more rapid way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14939,
+      "timestamps": []
+    },
+    {
+      "end": 15638,
+      "excerpt": "Which patients are correct or which antibiotics let's just put it like that. Right? Very simply put antibiotic resistance is a big problem right now. And they're helping determine which patients should get what antibiotics and they're doing it very [00:16:00] quickly. Usually that process is a three to four day process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15317,
+      "timestamps": [
+        {
+          "offset": 15566,
+          "raw": "[00:16:00]",
+          "seconds": 960
+        }
+      ]
+    },
+    {
+      "end": 15971,
+      "excerpt": "In which time if the patient gets up, it's a serious problem. Substance is the number one killer. Today in the U S so that was out of that technology was out to Stanford. The round was led by Omron ventures. Oberon is one of the world's largest medical device companies. So Japanese companies listed on the Japanese stock exchange.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15640,
+      "timestamps": []
+    },
+    {
+      "end": 16305,
+      "excerpt": "It was a series B and we put in a small amount, but of course, along with propel lax, we make a large sum. So that was a recent investment. Vivid vision is something we've invested in which uses video games to help. Cure eye problems in children, strabismus and such rare. Leon is another thing that we've invested in Brillion is a.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15973,
+      "timestamps": []
+    },
+    {
+      "end": 16635,
+      "excerpt": "Is a next generation ultra reality display technology. So imagine if you could have virtual reality 3d immersive with no headset. Right? So that is what brilliant is bringing again, MIT team, they have the co-investors include . [00:17:00] Fund. So E 14, just so you know, there's a building in MIT, the MIT media lab, actually.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16307,
+      "timestamps": [
+        {
+          "offset": 16536,
+          "raw": "[00:17:00]",
+          "seconds": 1020
+        }
+      ]
+    },
+    {
+      "end": 16981,
+      "excerpt": "So if 14 funders kind of a take on the media lab, so it's all MIT related. Franklin Templeton investments has also invested in Berlin. So those are two examples. Mezzanine tech is another one. It's a drug company. That's created a way to reverse osteoporosis. We hope right now that's not the market they're going after, but the term vision is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16637,
+      "timestamps": []
+    },
+    {
+      "end": 17299,
+      "excerpt": "For that to reverse bone loss, right? So they're going after some orphan diseases right now. And then long-term osteoporosis is a very big market. This is a Canadian firm and the co-founder Bobby Young. He's the guy who was leading the chemistry behind Advair Vioxx. Like these blockbuster drugs. So killer Duchenne.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16983,
+      "timestamps": []
+    },
+    {
+      "end": 17421,
+      "excerpt": "So Duchenne is a, is an orphan disease cure. Duchenne is a foundations of curation foundation has also invested in this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17301,
+      "timestamps": []
+    },
+    {
+      "end": 17540,
+      "excerpt": "Gopi Rangan: So what do you look for? What questions do you [00:18:00] ask the entrepreneurs and what's your process?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17423,
+      "timestamps": [
+        {
+          "offset": 17483,
+          "raw": "[00:18:00]",
+          "seconds": 1080
+        }
+      ]
+    },
+    {
+      "end": 17717,
+      "excerpt": "Swati Chaturvedi: Sure. So for us, it's very important that the technology is sound because we are investing in deep technology companies, which are fairly early stage, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 17542,
+      "timestamps": []
+    },
+    {
+      "end": 18038,
+      "excerpt": "So there's two things we really look for. The technology has to be sound, which means what. There has to be some fundamental research behind it. There must be some published papers. You must have, you know, scientists who are leading your technology or who are your CTO's and so on. So that is kind of important for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17719,
+      "timestamps": []
+    },
+    {
+      "end": 18377,
+      "excerpt": "We have in-depth conversations with them on the technology itself. We also tap experts to weigh in on the technology and. For experts. We have three ways to, to tap expertise. One is of course in-house expertise. I mean, we have, we know a little bit about the various technologies, so that's good as a starter kind of a screening point.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18040,
+      "timestamps": []
+    },
+    {
+      "end": 18749,
+      "excerpt": "The second is we have our own expert network, so there's 1200 plus experts in our network. People can sign up on propel, Lex, it's the expert network for propel X. We often tap that. And [00:19:00] then the third is we have an industry council across industrial sectors. So we have deep relationships with industry typically their corporate venture or innovation groups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18379,
+      "timestamps": [
+        {
+          "offset": 18566,
+          "raw": "[00:19:00]",
+          "seconds": 1140
+        }
+      ]
+    },
+    {
+      "end": 19124,
+      "excerpt": "And we tap those as well, quite a lot. And in fact, there've been instances when we actually tapped the corporate venture group and lo and behold, they gave a term sheet to one of our companies. So that was an interesting experience. But yes, it's important to get people who are close to the science and close to the technology to understand it translated and persuade us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18751,
+      "timestamps": []
+    },
+    {
+      "end": 19456,
+      "excerpt": "So that's one part of it that your technology is sound, but the other part of it is telling me about your customer traction, right? I mean, most companies have $0 in revenue, you know, and if you're a life sciences company you're far from revenue, but nobody stops you from having conversations. And that is very important for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19126,
+      "timestamps": []
+    },
+    {
+      "end": 19800,
+      "excerpt": "Tell us what conversations you've had with industry. What has been the feedback from the industry? So, whether you're talking to industry leaders, whether it's large [00:20:00] corporates or startups or other, you know, various research groups, we need to understand what is the traction that you've had for us. This is this defines traction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19458,
+      "timestamps": [
+        {
+          "offset": 19624,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 20183,
+      "excerpt": "It's not the number of users. Obviously these companies are early. It's not the revenues you have, but it's really our industry conversations. Are you known in the industry for what you're doing? Have we reached out to people? Have you sought feedback? Have you changed gears based on the feedback, we will reach out to those people because we do have industry connections as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19802,
+      "timestamps": []
+    },
+    {
+      "end": 20521,
+      "excerpt": "So it's very important to us to understand. What your industry connections are because we often start from, I mean, when I'm talking about this, the reason for that is we have to think of what's the exit. So we start from exit point, right? In our industry council. We are like, whoever likely acquirers for this or this, this and this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20185,
+      "timestamps": []
+    },
+    {
+      "end": 20841,
+      "excerpt": "Alright. Let's, let's reach out to these three people and get their feedback right on this. So it's important that you should also have been reaching out to various people. People should know [00:21:00] about, you should understand your technology and so on. So those are the two, I would say, important things for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20523,
+      "timestamps": [
+        {
+          "offset": 20715,
+          "raw": "[00:21:00]",
+          "seconds": 1260
+        }
+      ]
+    },
+    {
+      "end": 21169,
+      "excerpt": "Gopi Rangan: This looks like you have a very methodical approach and you have a process and you look at both the technology side of things and also the customer attraction. So that forms the full business for any typical deep tech company, your journey as an entrepreneur with proper lacks, I'm sure it had many ups and downs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20843,
+      "timestamps": []
+    },
+    {
+      "end": 21233,
+      "excerpt": "Swati Chaturvedi: And we've talked about many of those stories",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 21171,
+      "timestamps": []
+    },
+    {
+      "end": 21295,
+      "excerpt": "Gopi Rangan: as that informed you to become a better person.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21235,
+      "timestamps": []
+    },
+    {
+      "end": 21319,
+      "excerpt": "Swati Chaturvedi: Yes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 21297,
+      "timestamps": []
+    },
+    {
+      "end": 21396,
+      "excerpt": "Gopi Rangan: How does that experience help you relate to the entrepreneurs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21321,
+      "timestamps": []
+    },
+    {
+      "end": 21600,
+      "excerpt": "Swati Chaturvedi: Yeah, well, first and foremost, I know that all of these, you know, what the entrepreneur says are stories. 90% of it will not play out as a thing as well, because it just is that way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 21398,
+      "timestamps": []
+    },
+    {
+      "end": 21976,
+      "excerpt": "If they've demonstrated the willingness to stay. So many of the companies that come to us have been around for awhile and the venture capital world things have a shelf [00:22:00] life, but for us, We overlook shelf life. I don't care if you've been around for 14 years, 20 years. So long as what you're doing is relevant today and struggle is a Mark of grit and that's okay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21602,
+      "timestamps": [
+        {
+          "offset": 21770,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 22338,
+      "excerpt": "So I think in that sense, at least we are a little bit different. I just hear things that go on in the venture capital world, you know, how someone raised a hundred million dollars and so on and so forth and typically very young founders. So our founders are all ages. Starting from very young to post retirement, second gigs, many of them, many, many of them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21978,
+      "timestamps": []
+    },
+    {
+      "end": 22650,
+      "excerpt": "So it really spans all age groups. And I love that. I really love that because I get to learn from them. Each of them and some of our founders are so experienced and every time I talk to them, I just think it's such a privilege to sit in front of you. It is my honor, you know, because they've already done it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22340,
+      "timestamps": []
+    },
+    {
+      "end": 22991,
+      "excerpt": "They know it all. [00:23:00] And we have the, the privilege to sit in front of them and learn from them. So I think those are a few things that our entrepreneurial. Experiences have taught us. The other thing that one entrepreneurial, one thing that I have learned is visas never asked for the right things. There's always things going on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22652,
+      "timestamps": [
+        {
+          "offset": 22670,
+          "raw": "[00:23:00]",
+          "seconds": 1380
+        }
+      ]
+    },
+    {
+      "end": 23361,
+      "excerpt": "You cannot possibly count for all the things that are going on under the hood, which these startup news. I mean, they ask for some data, but there's a lot of Felix. I mean, what you're going to get is the successful data. It's a lot of failed experiments. Right. So ask for the failed experiments, then you'll see how much work they have actually done to come to this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22993,
+      "timestamps": []
+    },
+    {
+      "end": 23713,
+      "excerpt": "People don't check the balance sheet, believe it or not. And I know what's on my balance sheet. I think venture capital firms tend to look at the PNL. I mean, also because we are humble or prepare like side of things, marketplace, a broker dealer has an [00:24:00] obligation to conduct diligence and we find things on the balance sheet, which would.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23363,
+      "timestamps": [
+        {
+          "offset": 23617,
+          "raw": "[00:24:00]",
+          "seconds": 1440
+        }
+      ]
+    },
+    {
+      "end": 23991,
+      "excerpt": "Otherwise have been overlooked by the ordinary. We see, so I feel our way of doing things is very different because we've been, we are entrepreneurs ourselves. I think I just have great respect for what it takes the sleepless nights and hard work and blood and sweat and yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23715,
+      "timestamps": []
+    },
+    {
+      "end": 24045,
+      "excerpt": "Gopi Rangan: That's the journey of the entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23993,
+      "timestamps": []
+    },
+    {
+      "end": 24207,
+      "excerpt": "The highs are high highs and lows are low lows. And having lived through it yourself, you can relate to entrepreneurs better than an average banker or a venture",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24047,
+      "timestamps": []
+    },
+    {
+      "end": 24226,
+      "excerpt": "capital investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24209,
+      "timestamps": []
+    },
+    {
+      "end": 24407,
+      "excerpt": "Swati Chaturvedi: Yes, but believe me, it's one thing to have high highs and low lows, but it's really strange if they happened within an hour of each other, and that does happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 24228,
+      "timestamps": []
+    },
+    {
+      "end": 24769,
+      "excerpt": "Gopi Rangan: Fundraising is considered a responsibility of this CEO and the startups are not expected to engage bankers when they raise money for startup for their company. And the [00:25:00] is expect that they would directly invest in the company and often are actually all the time. The investment term sheet given says that there is no banker fees paid to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24409,
+      "timestamps": [
+        {
+          "offset": 24590,
+          "raw": "[00:25:00]",
+          "seconds": 1500
+        }
+      ]
+    },
+    {
+      "end": 24932,
+      "excerpt": "Get the transaction done. So in that world, you, you stand out very differently. What is your philosophy on this and how are you able to navigate the status quo?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24771,
+      "timestamps": []
+    },
+    {
+      "end": 25119,
+      "excerpt": "Swati Chaturvedi:  I never heard a worse argument, honestly. Why do we say don't hire a banker? So I'll tell you, Silicon Valley is full of finders. Every startup works with the finder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 24934,
+      "timestamps": []
+    },
+    {
+      "end": 25495,
+      "excerpt": "It's informal. I give it 2% off. Whatever. I'll figure out a way to do it called consultant. I'm going to give you some amount of equity just helped me fundraise. That's what is a finder finder is an illegal activity, right? So if it is a percentage of the funding raised and often, oftentimes it is. And the reason why startups work with help is because they need the help.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25121,
+      "timestamps": []
+    },
+    {
+      "end": 25834,
+      "excerpt": "I never heard the worst argument [00:26:00] do not use the efficiency that is out there for you, because I want to see you be macho somehow. Here's what I say. Why don't you just resort to direct mailers? Why use digital marketing? Why use active campaigns? Why use market or why you Salesforce? You should just go and sell door to door.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25497,
+      "timestamps": [
+        {
+          "offset": 25530,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 26139,
+      "excerpt": "People don't do that. Why do they use Salesforce is for efficiency. Wherever there is a tool for efficiency. Entrepreneurs are encouraged to use it. Bankers are a tool for efficiency. You pay for that tool and you use it and I'll tell you why it is so important. I have learned this over and over again.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25836,
+      "timestamps": []
+    },
+    {
+      "end": 26461,
+      "excerpt": "That time is money in a startup every day that I don't raise financing. I'm paying to carry my entire team, but not getting anything done by them. You know why? Because I can't hire the right people. To work with my team, but in the meanwhile I'm carrying this team. So it is very important to close around very quickly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26141,
+      "timestamps": []
+    },
+    {
+      "end": 26800,
+      "excerpt": "[00:27:00] And anything that you can do to gain that efficiency. You should, you must. And that is what platforms like propel X offer or an investment banker. You know, I have new found respect for investment bankers where maybe I was of the same opinion as you were until I realized, Hey, what the hell? I'm an investment banker myself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26463,
+      "timestamps": [
+        {
+          "offset": 26463,
+          "raw": "[00:27:00]",
+          "seconds": 1620
+        }
+      ]
+    },
+    {
+      "end": 27114,
+      "excerpt": "And I have respect for that now, because. I feel they are a tool for efficiency. If you go to a platform, you are able to raise financing in a few weeks with very few hassles and no strings attached. Why shouldn't you do that? Why wouldn't you do that? So this is a stale argument, very old fashioned it's posse.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26802,
+      "timestamps": []
+    },
+    {
+      "end": 27462,
+      "excerpt": "I think we are in the new world. The people who are saying that are a little bit old-fashioned right now, you know, they're, those days are gone. When you should be doing this all yourself to show me that you have the salesmen skill. No, I don't think so. Why have a CFO then? Just do it yourself. Why have anyone else, you know, why have a team?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27116,
+      "timestamps": []
+    },
+    {
+      "end": 27625,
+      "excerpt": "The purpose of that is to enhance your [00:28:00] efficient, to put your time to the highest and best use. So, sorry, this is a subject I'm passionate about now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27464,
+      "timestamps": [
+        {
+          "offset": 27503,
+          "raw": "[00:28:00]",
+          "seconds": 1680
+        }
+      ]
+    },
+    {
+      "end": 27851,
+      "excerpt": "Gopi Rangan: I'm glad we got into this. This is fun. So in the transaction world, there is a role that is well-respected at the later stages and later stage companies raise money, 50 million, a hundred million dollar rounds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27627,
+      "timestamps": []
+    },
+    {
+      "end": 28093,
+      "excerpt": "It's. Perfectly okay. To engage broker dealer to support the transaction. But at earlier stages, what you're saying is that it happens, but behind the scenes, why don't we bring it up front and help the entrepreneurs? Because time is money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27853,
+      "timestamps": []
+    },
+    {
+      "end": 28192,
+      "excerpt": "Swati Chaturvedi: Yes. Precisely that it happens all the time. We must understand why it happens.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 28095,
+      "timestamps": []
+    },
+    {
+      "end": 28427,
+      "excerpt": "It happens because there is a need, the entrepreneur needs that help. Why? Because time is money. And we must provide a way for them to legitimately and properly do this activity, to use the tools that are existing at their disposal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28194,
+      "timestamps": []
+    },
+    {
+      "end": 28565,
+      "excerpt": "Gopi Rangan: If anything, [00:29:00] earlier stage entrepreneurs need more help because they don't have a lot of experience fundraising.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28429,
+      "timestamps": [
+        {
+          "offset": 28455,
+          "raw": "[00:29:00]",
+          "seconds": 1740
+        }
+      ]
+    },
+    {
+      "end": 28956,
+      "excerpt": "Swati Chaturvedi: Yes. And they don't have a long list. So, you know, I recently put something out on, on LinkedIn that's fundraising is like sales, right. It's very much like sales in that. You need to have a list and you keep going after that list, if you get rejected. Well, that's a stamp that off my experience, right? But that focus does not exist in the mind of a newbie fundraiser.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 28567,
+      "timestamps": []
+    },
+    {
+      "end": 29365,
+      "excerpt": "It takes some experience to get there. That rejection visit me. It gives me a drink. It takes some time to get there and already see the thing is that there are different skills that people develop for different users, different purposes. And I think every entrepreneur faces rejection all the time. If this is something that they can leverage tools to increase their efficiency, they must, they must do so.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28958,
+      "timestamps": []
+    },
+    {
+      "end": 29715,
+      "excerpt": "And for me, the, the entrepreneur that says I will do [00:30:00] it myself, just because, because I'm, you know, I'm going to show the world all more power to you. Just don't waste so much time doing it. And the entrepreneur, I would not invest in them. And you know why for me, the entrepreneur that says, look, this is taking me necessarily time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29367,
+      "timestamps": [
+        {
+          "offset": 29421,
+          "raw": "[00:30:00]",
+          "seconds": 1800
+        }
+      ]
+    },
+    {
+      "end": 29938,
+      "excerpt": "I'm going to use the tools that are efficient. That helped me be more efficient. I think that's very wise. It's not about showing who you are. It's really about getting the job done. That's what entrepreneurship is about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29717,
+      "timestamps": []
+    },
+    {
+      "end": 30050,
+      "excerpt": "Gopi Rangan: You make a very strong case. Are there other pet peeves you have about the venture capital world?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29940,
+      "timestamps": []
+    },
+    {
+      "end": 30118,
+      "excerpt": "Swati Chaturvedi: Like, are there some things that you don't like,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 30052,
+      "timestamps": []
+    },
+    {
+      "end": 30384,
+      "excerpt": "you know, here's the thing. If there was a triangle I'm on all sides of it, I'm an entrepreneur and West bank. I'm a venture capitalist. So I've seen the highs and the lows of all three. I don't have pet peeves. I think everyone has their place. It's an ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30120,
+      "timestamps": []
+    },
+    {
+      "end": 30472,
+      "excerpt": "And the three working together make for a better future. [00:31:00] That's what I see.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30386,
+      "timestamps": [
+        {
+          "offset": 30443,
+          "raw": "[00:31:00]",
+          "seconds": 1860
+        }
+      ]
+    },
+    {
+      "end": 30719,
+      "excerpt": "Gopi Rangan: It's rare to see all three things, an entrepreneur, banker, and investor altogether in one organization. It's a great event. Indeed. I want to switch to the last part of our conversation and ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30474,
+      "timestamps": []
+    },
+    {
+      "end": 30783,
+      "excerpt": "Is there an organization that you're passionate about and why?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30721,
+      "timestamps": []
+    },
+    {
+      "end": 31050,
+      "excerpt": "Swati Chaturvedi: Yeah, I'm passionate about a lot of things in life, as I think should be evident by now. But the problem is that I have simply no time to dedicate, but if you ask me what I'm passionate about, I'm passionate about climate change. It matters to me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 30785,
+      "timestamps": []
+    },
+    {
+      "end": 31392,
+      "excerpt": "I'm passionate about freedom in countries around the world. It matters to me. I'm passionate about female entrepreneurs. It matters to me because I have gone through it. I have gone through rejection and it is extremely subtle and there's nothing that you can place your finger on, but it happens. So I'm passionate about women empowerment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31052,
+      "timestamps": []
+    },
+    {
+      "end": 32089,
+      "excerpt": "Those are some things I'm passionate about, but if you asked me, how am I involved [00:32:00] whole soul in any any organization volunteering my time and so on. I'm not right now. And the reason for that is I don't like to do things half baked. If I take it on, I will make it the greatest. And. Whatever best I can do. I know that between being a mom, being away for her, I don't, I simply don't have the time. I have two children. So it becomes really hard a long time back, as I mentioned to you and I was on the board of my sons. School. He was very little then, you know, I had only one child harden started down this spot, but as we've grown older, you know, the children have grown older.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31394,
+      "timestamps": [
+        {
+          "offset": 31477,
+          "raw": "[00:32:00]",
+          "seconds": 1920
+        }
+      ]
+    },
+    {
+      "end": 32197,
+      "excerpt": "I think life has become a lot more consuming, but I will get back to it because these things matter to me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32091,
+      "timestamps": []
+    },
+    {
+      "end": 32342,
+      "excerpt": "Gopi Rangan: This is fantastic. Thank you very much for spending the time with me and sharing your thoughts and insights. Very unique and deep.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32199,
+      "timestamps": []
+    },
+    {
+      "end": 32469,
+      "excerpt": "Swati Chaturvedi: Thank you so much Gopi for having me. It's a great pleasure. Always a pleasure chatting with you.[00:33:00]",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Swati Chaturvedi",
+      "start": 32344,
+      "timestamps": [
+        {
+          "offset": 32459,
+          "raw": "[00:33:00]",
+          "seconds": 1980
+        }
+      ]
+    },
+    {
+      "end": 32813,
+      "excerpt": "Gopi Rangan: Thank you for listening to the Sure shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32471,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "96e0bc14f9ca86491d6026f720ae9d9d4917a94aca4dc4337b88829fd5388e41",
+  "text_sha256": "950e1a33229c29255085b907be29586f3cb9d680fed16801327354954e5d70d0"
+}

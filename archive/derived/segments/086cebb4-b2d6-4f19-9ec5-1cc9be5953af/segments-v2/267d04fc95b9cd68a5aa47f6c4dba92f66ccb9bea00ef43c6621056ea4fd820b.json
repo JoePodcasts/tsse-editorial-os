@@ -1,0 +1,489 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 306,
+      "excerpt": "Chris Kim: Have you ever sold enterprise software before? Who are the advisors? How are you going to build out your team? It's through that communication, and oftentimes the way in which they answer that question, the way that they engage with you, I think, that starts revealing more about how they think.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 554,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 308,
+      "timestamps": []
+    },
+    {
+      "end": 1072,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host Gopi Rangan. My guest today is Chris Kim. He's the co-founder and managing partner at Union Labs. Union Labs is a new venture capital firm. He focuses on deep tech venture capital investments in seed-stage startups. He also has an incubator program to support founders at very early stages. We're going to talk to him about his investment areas, internet of things, artificial intelligence, autonomous driving, and autonomous vehicles in various topics like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 556,
+      "timestamps": []
+    },
+    {
+      "end": 1327,
+      "excerpt": "He's also a successful founder. He switched from one side of the table as a founder to the other side of the table, as an investor. We'll talk to him about how his experience helps him today as an investor. Chris, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1074,
+      "timestamps": []
+    },
+    {
+      "end": 1386,
+      "excerpt": "Chris Kim: Thank you, Gopi. It's great to be here today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 1329,
+      "timestamps": []
+    },
+    {
+      "end": 1486,
+      "excerpt": "Gopi Rangan: Tell us about yourself starting with where you grew up. You grew up in Pennsylvania. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1388,
+      "timestamps": []
+    },
+    {
+      "end": 1880,
+      "excerpt": "Chris Kim: Yes, I did. I grew up in Pennsylvania as a child of two physicists, and I was supposed to become a physicist as well, but mainly because I didn't know about any other opportunities having grown up there. I went to Williams College, studied physics, again, thinking I was gonna be on that track, but ended up deciding to take a little bit of time out and go into consulting instead.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 1488,
+      "timestamps": []
+    },
+    {
+      "end": 2280,
+      "excerpt": "I worked in a Monitor Group in Boston, had some experiences in London, Istanbul as well, which gave me a very broad exposure to a wide set of people and experiences mainly in late-stage companies. I had a good fortune of doing this right in the late nineties, which the advent of dot com craze and ended up moving to California to join a venture fund that was started by one of the former partners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1882,
+      "timestamps": []
+    },
+    {
+      "end": 2583,
+      "excerpt": "It was one of the numerous venture fund incubators that begun during that time. It was obviously very exciting. I had a lot of opportunity to meet with entrepreneurs and also experienced the incredible responsibility of deploying LP's and other people's money into exciting, but very early companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2282,
+      "timestamps": []
+    },
+    {
+      "end": 3546,
+      "excerpt": "That was a fantastic learning experience, both rise up as well as the subsequent crash, and that's when I quickly realized there's a lot I didn't know. Just because you come from a consulting background, have a good education, it doesn't really make you a really great VC. This is where I thought could gain some additional operating experience. I went from there into a few other opportunities at Bank of America, eBay, AAA, covering areas in cybersecurity, eCommerce, insurtech, and subsequently started a company in the mobile payment space with some friends from PayPal, where I learned a lot about myself in terms of what makes the company succeed. As you shared as well, I was also the co-founder and CTO for another company called August Home. It was a successful access control company for the smart home. We manufactured a smart lock and video doorbell platform and built the products in development org., Stood up manufacturing in China, Taiwan, Japan",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2585,
+      "timestamps": []
+    },
+    {
+      "end": 4633,
+      "excerpt": "I got a crash course in building consumer electronics until we successfully exited to ASSA ABLOY, one of the largest boat companies in the world, and discovered that of course finding product-market fit with a hardware company is exceptionally challenging. I had the good fortune of working with Nate Williams, who was our CRO at the time. He subsequently joined Perkins as EIR with and the hard tech group over there. Together, we were able to take a look at a number of different companies that were coming in for series A and we saw that there was a certain pattern where they possibly raised too much capital, hadn't really discovered product-market-fit yet. And this is a special challenge with hard tech deep tech companies because you have less opportunity to really iterate and discover that fit. This is where Nate and I believed that we had an opportunity to work with these companies at a much earlier stage at the pre-seed and seed stage and help them through by leveraging our experience at prior startups as well. So when Kliner Perkins, Andy Wheeler GV, were part of... ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3548,
+      "timestamps": []
+    },
+    {
+      "end": 5001,
+      "excerpt": "Gopi Rangan: Very interesting background indeed. Starting at home with physicists around and you've come full circle back to deep tech. The world needs builders. The world needs entrepreneurs. The world needs creators. I'm curious why you chose to switch to the investment side after spending many years as entrepreneur in successful companies all along your career.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4635,
+      "timestamps": []
+    },
+    {
+      "end": 5322,
+      "excerpt": "Chris Kim: That's a great question, and it's something that, especially at the end of selling August, I was like, I have all this experience, what's the best way to move this forward? In conversations with Nate, one of the things that I really recognized is the importance of leverage and giving back to your community.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 5003,
+      "timestamps": []
+    },
+    {
+      "end": 6116,
+      "excerpt": "I've had the option to do another startup, but at the same time, when I look at the opportunity presented by venture, it's really the opportunity to give back. When I look at all the different entrepreneurs that are out there, and many of them find us because of our experience and background in having successfully exited August, I really find joy in the opportunity to say, \"Hey, these are all the different things that we attempted in building August. You don't wanna do most of these things. You should try this thing. Here's the experiences that we had.\" I found that part of venture to be incredibly rewarding, to be able to give back and share some of these ideas. There's much more opportunity for me to do so as part of a firm, as opposed to being an operator at a specific startup. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5324,
+      "timestamps": []
+    },
+    {
+      "end": 6198,
+      "excerpt": "Gopi Rangan: Very interesting. How is Union Labs different from other VC firms? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6118,
+      "timestamps": []
+    },
+    {
+      "end": 6474,
+      "excerpt": "Chris Kim: One of the biggest things is that Nate and I are both former operators, as well as the fact that we like to get involved as early as possible. By that, I mean, as you shared earlier, we do have the capability and capacity to incubate some companies from scratch. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 6200,
+      "timestamps": []
+    },
+    {
+      "end": 6791,
+      "excerpt": "Gopi Rangan: Many VC firms do that. They work with entrepreneurs at early stages at the time of founding onward. I'm curious how you chose the areas for your investments, your philosophy for investments, and how do you plan to separate Union Labs from the rest of the pack of like hundreds or thousands of VC firms?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6476,
+      "timestamps": []
+    },
+    {
+      "end": 7403,
+      "excerpt": "Chris Kim: I think that the focus on deep tech and the fact that we have hard concrete experience in these areas, in building these companies, it's a relatively smaller area for us to be focused on. Smaller in terms of other firms who are looking at that particular space as well, given our operator background. I think also the relationships and the experience that we have both on the manufacturing and product development side, as well as Nate's extensive experience on the go-to-market side and his extensive network that he has built over the years. That, I think, is more differentiated from most others.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 6793,
+      "timestamps": []
+    },
+    {
+      "end": 7918,
+      "excerpt": "Gopi Rangan: That's incredibly valuable for founders. Most deep tech investors have never really built businesses or they may have touched some parts of product development and that's about it. It's very rare to find an investor who's really touched every aspect of building a business and beyond. You've been in the world of insurance and payments and other areas as well. That's a very rare combination and it's incredibly valuable for founders to be able to spend time with you and learn from your experience. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7405,
+      "timestamps": []
+    },
+    {
+      "end": 8520,
+      "excerpt": "Chris Kim: Yeah. I think one element of that there's the hard benefits of like, \"oh, these are the concrete things that we can do for you.\" But I think another aspect is just purely the empathy. Nate and I have definitely, definitely struggled in building our previous companies and then together working at August. There's a lot that doesn't necessarily get revealed in the success stories that you hear about. There are definitely a lot of hard days in the trenches, a lot of sleep deprivation and constant attempts to sell hitting against stone walls. Nate and I have those experiences in spades. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 7920,
+      "timestamps": []
+    },
+    {
+      "end": 8866,
+      "excerpt": "Gopi Rangan: This is very valuable time that you provide to entrepreneurs, and you're very selective about choosing the right kind of entrepreneurs to work with. How do you choose these entrepreneurs? What goes on, especially in the first meeting, second meeting between you and Nate? How do you select entrepreneurs that you want to work with?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8522,
+      "timestamps": []
+    },
+    {
+      "end": 9472,
+      "excerpt": "Chris Kim: One of the big things for us is the character of the entrepreneur really ultimately matters at the end of the day, because we're gonna be building a very long relationship with them through good times and bad times. Character can mean a lot of different things. Do they have the grit and the 'stick-with-it-ness' to manage through those times in the trenches. Also do they have some measure of self-awareness? I hate to use this term \"coachability\" but it's more just around willingness to have a debate in the conversation matched by some level of conviction in what they're building as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 8868,
+      "timestamps": []
+    },
+    {
+      "end": 9773,
+      "excerpt": "I think these things, especially at the early stage, when the idea will almost certainly pivot over time and it's gonna be a partnership as we build the company together, that's really gonna characterize the relationship over time and it's something that we definitely look out for in our founders. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9474,
+      "timestamps": []
+    },
+    {
+      "end": 9903,
+      "excerpt": "Gopi Rangan: Can you give an example of how you were able to pick up on some of these topics in a conversation with the founder?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9775,
+      "timestamps": []
+    },
+    {
+      "end": 10585,
+      "excerpt": "Chris Kim: So, you're always looking for a variety of signals, whether through past experiences or other people that they've worked with. These are very straightforward approaches as well as you know, how they particularly look at the market as well. Given that we focus on deep tech, there aren't a lot of companies that can say, \"oh, we're just gonna build an idea, get a ton of users on it, and then figure out the profits afterwards.\" and maybe we'll raise based on momentum alone. That approach doesn't really work in deep tech. You have to be looking for people who understand that they have to build a real business here. That immediately segments out some of the founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 9905,
+      "timestamps": []
+    },
+    {
+      "end": 11179,
+      "excerpt": "In one example, one of our CEOs had gone through the experience of getting serious high-level backing from a variety of very large name investors in a prior company. He ran the company as CEO, and then eventually realized that they were not the right person to be leading that company at that stage, stepped aside and went back and came up with a new idea and started the new company. He managed transition very gracefully as well. As he shared that anecdote, it was very revealing because it's not often that you find people who are willing to admit a certain level of limitation or failure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10587,
+      "timestamps": []
+    },
+    {
+      "end": 11533,
+      "excerpt": "I think in entrepreneurship and founders of venture-backed companies, you need to have a certain level of confidence. Sometimes, bravado, masquerade as confidence, but I think that ultimately real confidence and real strength stems from an ability to recognize one's own limitations, where they need help and what they're good at and what they're not. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11181,
+      "timestamps": []
+    },
+    {
+      "end": 11656,
+      "excerpt": "That was an example of somebody that I felt, \"oh, okay, this is something that's quite revealing about their character.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11535,
+      "timestamps": []
+    },
+    {
+      "end": 11726,
+      "excerpt": "Gopi Rangan: Can you share the name of the founder and the company? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11658,
+      "timestamps": []
+    },
+    {
+      "end": 11865,
+      "excerpt": "Chris Kim: Sure. The name of the founder was Nathan Kundtz and he runs a company called Rendered AI. This is in the synthetic data space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 11728,
+      "timestamps": []
+    },
+    {
+      "end": 12274,
+      "excerpt": "Gopi Rangan: It's great to see a company grow, but it's even more fulfilling to see founders grow through their experiences. I can see why you're excited about this story. Yes. What do you ask founders in the first meeting to learn about their style, their management skills, areas they have strength in, areas they need to get support from you... how do you ask these questions to learn about the founder? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11867,
+      "timestamps": []
+    },
+    {
+      "end": 12903,
+      "excerpt": "Chris Kim: Yeah, my typical approach with the entrepreneurs is I let them pitch me on their company. I want to see what they emphasize. Do they emphasize a product, a vision that they have? Do they emphasize, \"Hey, here's how we're into the market. Here's how we're going to recruit the team and things like that. Then I'll start poking on areas that they didn't really mention on and want to understand how they plan to build that out. As an example, a company might come in and say, \"we have the best technology, and this is 10X better than anything that's out in the marketplace. If we build this, everyone else will come.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 12276,
+      "timestamps": []
+    },
+    {
+      "end": 13966,
+      "excerpt": "I'll just push and probe on their go-to-market. How do they plan to sell? Why do they think they can sell into this? Who do they have on their team? That opens up a number of different questions. First of all, you can tell by the openness to that sort of the question and the response whether they feel defensive about this, or whether they're open to engaging on the question. Secondly, the level of sophistication in the response, and then as we delve into it, how do you plan to sell? \"Oh, we plan to partner with one or two major enterprises and that's how we're going to get into that.\" Have you ever sold enterprise software before? How do you know? Who are the advisors? How are you gonna build out your team? It's through that conversation and oftentimes the way in which they answer that question and the way that they engage with you, I think that starts revealing more about how they think. Then ultimately I think the biggest one is how their approach to talent, you know, how do they plan to build out their team and what's their strategy on that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12905,
+      "timestamps": []
+    },
+    {
+      "end": 14156,
+      "excerpt": "Gopi Rangan: So you start with the pitch and then you go into more details about the business. Talent is definitely important. It's one of the hardest things to manage for a small company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13968,
+      "timestamps": []
+    },
+    {
+      "end": 14698,
+      "excerpt": "Chris Kim: Yes, absolutely. I think the talent part is so immensely important because sometimes there's the idea, \"oh, if I can just make it through this next funding round or just sell to this next customer, you know, everything will fall into place.\" At the end of the day, it's people who end up doing the work. What kind of team are you putting together? Are you finding the right people? Are you choosing to just throw money at people or do you have a larger vision that entices people to come and join you on this particular journey? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 14158,
+      "timestamps": []
+    },
+    {
+      "end": 14832,
+      "excerpt": "Gopi Rangan: Roughly, how many companies do you invest in in a year and how many startups do you meet that turn into an investment? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14700,
+      "timestamps": []
+    },
+    {
+      "end": 15472,
+      "excerpt": "Chris Kim: We have about 13 portfolio companies right now. We've made investments, approximately at the rate of anywhere four to six per year to build this portfolio. We see generally probably about 200 to 300 companies per quarter, that we would consider to be on spec. There's more that come in through a variety of channels but they may be completely wrong geography, or outta scope in some other fashion, too late stage or otherwise. But we do see a fair amount of companies through networks and just raw inbound as well. It usually takes us a few hundred companies to find one of these opportunities that we really get on board with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 14834,
+      "timestamps": []
+    },
+    {
+      "end": 15885,
+      "excerpt": "Gopi Rangan: Building a startup is hard. Building a startup in deep tech is even harder. What's your advice to founders? How can they prepare themselves to be successful in that process? You meet so many companies, but you invest in very few, only four to six per year. How can they make the first meeting effective so that they can take value out of that meeting and also they can make your process efficient? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15474,
+      "timestamps": []
+    },
+    {
+      "end": 17056,
+      "excerpt": "Chris Kim: One of the biggest things is just having a vision and a real understanding of what it is that you're trying build here. Sometimes we'll have an entrepreneur come and say \"we've got this fantastic chemistry process to turn used polyester into new polyester fibers. This is gonna be great for the climate. It's gonna be great for the plastics industry. And we have this tabletop lab experiment that works fantastic. Super cool technology. Really deep tech. Really interesting. They've got PhDs all over the place and incredible credibility there. But what I would also like to see from a lot of these teams is not only like the opportunity and the initial kernel of the idea, but also a thought of where is this going to ultimately go? What is your really big vision? Do you wanna transform the entire textiles industry? Do you have some thoughts on what that path or that journey might look like? What is your ask from your investors or your other partners or your advisors or from your team in order to get there? Because we see a lot of really awesome technology. We see a lot of people who are chasing after a particular trend that they've seen in climate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 15887,
+      "timestamps": []
+    },
+    {
+      "end": 17775,
+      "excerpt": "They're like, \"we just need to start a company here. I'll just find some scientists over here.\" Or, \"I am a scientist. I have this fantastic technology. I'm gonna go chase after it.\" What we're really looking for is if are either of these people, or if you have expertise on one side, are you thinking beyond what your area of expertise is? Do you have like a larger picture or vision of what youre building? And are you looking for partners to come and join you? Cause again, we're starting at day zero or pre-seed or seed stage. You don't have to have all the answers, but I wanna see, and I really appreciate it when people are open about the vision that they're trying to build and the areas where they need help.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17058,
+      "timestamps": []
+    },
+    {
+      "end": 18326,
+      "excerpt": "Gopi Rangan: It's cool to talk about recent trends in technology and something interesting, but you want to hear the grander vision, the long-term view on how to build a company. What are things that founders have anticipated already and how they envision realizing all the dreams that they had about building a company, how are they going to achieve it? You want to hear all of that and that's helps you make the decision whether to invest in them. Who did this well? Is there a recent investment you can use as an example to show how they did it? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17777,
+      "timestamps": []
+    },
+    {
+      "end": 20189,
+      "excerpt": "Chris Kim: There's one company that I would probably highlight who had a lot of expertise here, and this would be Urban Machine. This is a team led by Eric law, who was the former head of innovation at Swinerton Construction. We had a chance to meet him at sort of a round table discussion. We were immediately impressed by his depth of understanding and expertise. At all the different startups who are coming to focus on the construction tech, everyone talks about how old the construction industry is and how much it could really benefit from robotics or computer vision or any sort of efficiency gains to reduce the cost of construction. During his time, he saw all sorts of different startups come in with interesting ideas. What he quickly recognized is that most of them did not really understand how a construction site works. They didn't understand the costs and the logistics behind materials, and they didn't understand the labor markets either. Where he came up with this idea for Urban Machine is it's really a system - a robot - that able to recycle used lumber from a construction and repurpose it on the same construction site for new build construction. As it turns out a lot of older buildings, you know, have actually higher quality lumber that's used in them than what is available today because it's coming from old growth forests. He had this idea where when you're tearing down an old house, you can actually extract the lumber from it, remove all the nails and debris and screws, trim it, clean it. And if you need to finger join it together and produce new lumber out of it. That in and of itself is a really cool idea and a really cool robot. But what he also shared is a very deep understanding of where lumber comes from. He recognized that there's only a certain number of forests that are located in disparate parts of the country.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 18328,
+      "timestamps": []
+    },
+    {
+      "end": 20535,
+      "excerpt": "There's a lot of transportation costs and logistics challenges of getting to them to the mills and then from the mills to the lumber yards and then ultimately to the job site. There's a lot of challenge in transporting logistics. Deconstructing or tearing apart a construction, an existing house, you actually have to pay to dispose the lumber.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20191,
+      "timestamps": []
+    },
+    {
+      "end": 21053,
+      "excerpt": "He pointed out to us that it's gonna be much more economically efficient to instead of throwing away debris from a construction site and then buying new lumber and having it shipped to your construction site, why not just recycle everything on site? To us, he really demonstrated an understanding of the business, the materials, the logistics, the labor costs, the time efficiency, and then also painted a picture for us of how this become a really big business and something that we almost immediately signed on to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20537,
+      "timestamps": []
+    },
+    {
+      "end": 21238,
+      "excerpt": "Gopi Rangan: I see that the founder has induced a lot of passion in you about wood waste and lumber. You are now geeking out on this topic. That's a sign of a brilliant entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21055,
+      "timestamps": []
+    },
+    {
+      "end": 21525,
+      "excerpt": "Chris Kim: Yes. I was speaking with some of my partners about this. We felt that after every single meeting, we came away saying, \" Every single time I learned something new about wood that I had no idea was an important factor in construction.\" It was a huge amount of fun, actually. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 21240,
+      "timestamps": []
+    },
+    {
+      "end": 21900,
+      "excerpt": "Gopi Rangan: Yeah. Good founders have that influence on everybody around them. They are total nerds on their topics. You're starting a new VC firm. That's hopefully going to change the way the landscape of VC is today. It's gonna change the status. If you were allowed to change one thing in the industry, what would you do? What do you like to see different in the future?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21527,
+      "timestamps": []
+    },
+    {
+      "end": 22289,
+      "excerpt": "Chris Kim: I think one of the things that I would like to change, or I'm naturally seeing change is, historically over the last 10 years, venture has seen a huge run up and there haven't been as many down periods during this decade plus time. As a result, with all the new money that's flooded into this space as well, there have been some very, very high speed deals that have occurred.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 21902,
+      "timestamps": []
+    },
+    {
+      "end": 23849,
+      "excerpt": "You'll have entrepreneurs who come in and say, \"Hey, I already have term sheets from so and so and so, and so I need you to make a decision relatively quickly\" and really only had like maybe one or two meetings or a 30 minute call and were being pressured for a decision immediately. In some cases there are firms who are able to and willing to do that immediately. That's in some ways, I guess, great for the entrepreneur, because they're able to collect capital and immediately move forward on building the business. However, building a really great startup, I do think is a team effort. It is important for the entrepreneurs to be able to identify really good partners that they wanna work with time and have around the table to advise and push back. That takes some relationship building. It's not something that can happen immediately. Yes, we all can be swayed by an initial meeting by an especially charismatic founder. Particularly given that we invest so early, this could be several years of a relationship over time and we all wanna be partners. We all want to struggle together because there are gonna be struggles. There are gonna be difficult times where everyone's called to the table and ask pitch in and being forced to make a decision about a company. Timeframes that do not allow the construction of any sort of meaningful understanding on either side is something that's definitely challenging, and I don't think serves either the investor nor the entrepreneur very well. So, that's something that I would like to see continue to evolve. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22291,
+      "timestamps": []
+    },
+    {
+      "end": 24409,
+      "excerpt": "Gopi Rangan: I think your dreams might come true soon. High speed deals are not good. It's quite deceptive. It might feel great at the time for entrepreneurs, but when entrepreneurs are not able to bring the right kind of investors, good investors to surround them and they compromise on quality of investors for speed, it's generally bad for the ecosystem. I can see that the market has already changed in the past four or five months and that'll bring some corrections and hopefully more good quality opportunities. Good founders get funded in the future. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23851,
+      "timestamps": []
+    },
+    {
+      "end": 25881,
+      "excerpt": "Chris Kim: Yes. I want to share something that I had observed during the dot com and particularly during the dot com crash. We were one of the few firms at that time who were still actively making investments, post March, 2000 and the NASDAQ crash. Over the course of that year, we saw a number of entrepreneurs as well as other venture investors approach us during that time. Some of them had a legitimate business. They were looking for a round extension or something to help keep the business operating. But there were also a non-zero number of conversations where you really saw people's true character emerge, where they were 100% looking out for themselves saying, \"oh, I'll haircut all the other investors or my team or employees, or what have you, you know. Just please come in. I'll give you as much as you want.\" This is very challenging. In an environment like that, you want to know that you have people on your side throughout your team, throughout your partnerships. You want to know that, when you're heading into a very challenging economic environment, you have people who are, and have demonstrated, that they're willing to be with you during both the good times and the bad times. That's something where you wanna be very selective about that sort of partnership. As you are alluding to, we may be entering into a time where the character of your partners, the character of the relationship is going to become increasingly important for, uh startups. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 24411,
+      "timestamps": []
+    },
+    {
+      "end": 26297,
+      "excerpt": "Gopi Rangan: That is indeed very important. Over the past 10 plus years, as you mentioned, the venture capital industry has exploded and there are hundreds and thousands of new VC firms. Very few investors have the experience of living through downturns in the past. You are one of them. I'm looking forward to founders learning from your experience. This will be an exciting time in the next few years coming up. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25883,
+      "timestamps": []
+    },
+    {
+      "end": 26460,
+      "excerpt": "I want to ask you one last question, before we conclude, about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26299,
+      "timestamps": []
+    },
+    {
+      "end": 27303,
+      "excerpt": "Chris Kim: Yes. So there's an organization called the Korean American Community Foundation. As I mentioned early in our pre-call, I've just recently had a family, two very young children born during the pandemic. But as I shared, I grew up in Pennsylvania. My own parents have yet to meet either of their grandchildren and they're age-conscious of seniors and aging, and who's gonna take care of them. As a Korean, I've noticed in my own parents as well, they tend to be very independent. They try to be self-sufficient, don't want to bother anyone, my parents included. Yet, there's definitely a need, as I see, in these Twilight years for them to have physical, mental, and social support. That's how I became involved with the Korean American Community Foundation, where one of their focus areas is on the Asian Korean population as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 26462,
+      "timestamps": []
+    },
+    {
+      "end": 27597,
+      "excerpt": "That's something that's been more recent for me during this pandemic time, especially having kids and being disconnected from my parents and recognizing there's lesser and lesser opportunity for them to spend time together and also wondering how I'm I going to care for my own family as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27305,
+      "timestamps": []
+    },
+    {
+      "end": 28151,
+      "excerpt": "Gopi Rangan: Chris, thank you very much. That's an indeed a much needed community activity, especially in these recent times when hate crimes against Asians have become more prevalent. I'm glad that you shared this. Thank you very much for spending time with me. Thank you for sharing real-life examples from your experience. You gave examples of specific founders and startups you've worked with and advice to founders on how to build a deep tech company, how to be successful, especially when they come to meet you in their first and second meetings.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27599,
+      "timestamps": []
+    },
+    {
+      "end": 28218,
+      "excerpt": "I look forward to sharing your nuggets or wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28153,
+      "timestamps": []
+    },
+    {
+      "end": 28312,
+      "excerpt": "Chris Kim: Thank you, Gopi. I appreciate the opportunity and pleasure to be with you today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Kim",
+      "start": 28220,
+      "timestamps": []
+    },
+    {
+      "end": 28489,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28314,
+      "timestamps": []
+    },
+    {
+      "end": 28656,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28491,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "267d04fc95b9cd68a5aa47f6c4dba92f66ccb9bea00ef43c6621056ea4fd820b",
+  "text_sha256": "8623492131e72aaf55f31e0b1672958d3970344a041ca9fb7de20f92ab5ec8f8"
+}

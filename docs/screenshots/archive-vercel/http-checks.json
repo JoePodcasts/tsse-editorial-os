@@ -1,0 +1,235 @@
+{
+  "base": "http://127.0.0.1:8766",
+  "checks_passed": 82,
+  "checks": [
+    "HTTP 200: /",
+    "HTTP 200: /api/archive",
+    "API type and no-store: /api/archive",
+    "No server paths in API: /api/archive",
+    "Coverage matches accepted build",
+    "HTTP 200: /api/sync-status",
+    "API type and no-store: /api/sync-status",
+    "No server paths in API: /api/sync-status",
+    "Matching real sync evidence",
+    "Success timestamp not older than build baseline",
+    "HTTP 200: /api/search?q=customer+discovery",
+    "API type and no-store: /api/search?q=customer+discovery",
+    "No server paths in API: /api/search?q=customer+discovery",
+    "Nonempty lexical results: customer discovery",
+    "HTTP 200: /api/search?q=proof+of+value",
+    "API type and no-store: /api/search?q=proof+of+value",
+    "No server paths in API: /api/search?q=proof+of+value",
+    "Nonempty lexical results: proof of value",
+    "HTTP 200: /api/search?q=Gokul+Rajaram",
+    "API type and no-store: /api/search?q=Gokul+Rajaram",
+    "No server paths in API: /api/search?q=Gokul+Rajaram",
+    "Nonempty lexical results: Gokul Rajaram",
+    "HTTP 200: /api/search?q=Commerce+Ventures",
+    "API type and no-store: /api/search?q=Commerce+Ventures",
+    "No server paths in API: /api/search?q=Commerce+Ventures",
+    "Nonempty lexical results: Commerce Ventures",
+    "HTTP 200: /api/search?q=relentlessly+resourceful",
+    "API type and no-store: /api/search?q=relentlessly+resourceful",
+    "No server paths in API: /api/search?q=relentlessly+resourceful",
+    "Nonempty lexical results: relentlessly resourceful",
+    "HTTP 200: /api/search?q=choosing+a+partner+in+life",
+    "API type and no-store: /api/search?q=choosing+a+partner+in+life",
+    "No server paths in API: /api/search?q=choosing+a+partner+in+life",
+    "Nonempty lexical results: choosing a partner in life",
+    "HTTP 200: /api/search?q=customer+discovery",
+    "API type and no-store: /api/search?q=customer+discovery",
+    "No server paths in API: /api/search?q=customer+discovery",
+    "HTTP 200: /api/search?q=customer+discovery",
+    "API type and no-store: /api/search?q=customer+discovery",
+    "No server paths in API: /api/search?q=customer+discovery",
+    "HTTP 200: /api/search?q=customer+discovery",
+    "API type and no-store: /api/search?q=customer+discovery",
+    "No server paths in API: /api/search?q=customer+discovery",
+    "Transcript result exists",
+    "HTTP 200: /episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/transcript?passage=e77818efc70ae25829b59c46d1850730e43de42f8bd5da42be8ee4cbff8f4a27",
+    "HTTP 200: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=transcript&passage=e77818efc70ae25829b59c46d1850730e43de42f8bd5da42be8ee4cbff8f4a27",
+    "API type and no-store: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=transcript&passage=e77818efc70ae25829b59c46d1850730e43de42f8bd5da42be8ee4cbff8f4a27",
+    "No server paths in API: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=transcript&passage=e77818efc70ae25829b59c46d1850730e43de42f8bd5da42be8ee4cbff8f4a27",
+    "Exact passage selection",
+    "HTTP 200: /episodes/0adb8f6a-0593-45b7-9c59-d32206c375db",
+    "HTTP 200: /episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/transcript",
+    "HTTP 200: /episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/show-notes",
+    "HTTP 200: /episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/file",
+    "HTTP 200: /archive-files",
+    "HTTP 200: /archive-files/episodes",
+    "HTTP 200: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=show_notes",
+    "API type and no-store: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=show_notes",
+    "No server paths in API: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=show_notes",
+    "HTTP 200: /api/files",
+    "API type and no-store: /api/files",
+    "No server paths in API: /api/files",
+    "File counts match",
+    "HTTP 200: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/file",
+    "API type and no-store: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/file",
+    "No server paths in API: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/file",
+    "Public file API references static bytes",
+    "HTTP 200: /downloads/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db.md",
+    "Markdown integrity",
+    "Markdown headers",
+    "HTTP 200: /downloads/catalogue.csv",
+    "Exact static bytes: /downloads/catalogue.csv",
+    "Download headers: /downloads/catalogue.csv",
+    "HTTP 200: /downloads/markdown-library.zip",
+    "Exact static bytes: /downloads/markdown-library.zip",
+    "Download headers: /downloads/markdown-library.zip",
+    "ZIP complete and readable",
+    "HTTP 404: /api/episodes/999999",
+    "HTTP 400: /api/search?limit=99999",
+    "HTTP 404: /api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=transcript&passage=0000000000000000000000000000000000000000000000000000000000000000",
+    "HTTP 404: /archive/manifest.json",
+    "HTTP 404: /data/episodes/active/episode_196.json",
+    "HTTP 404: /downloads/episodes/missing.md"
+  ],
+  "timings_ms": {
+    "/": {
+      "first": 13.97,
+      "median": 13.97,
+      "samples": 1
+    },
+    "/api/archive": {
+      "first": 15.15,
+      "median": 15.15,
+      "samples": 1
+    },
+    "/api/sync-status": {
+      "first": 0.6,
+      "median": 0.6,
+      "samples": 1
+    },
+    "/api/search?q=customer+discovery": {
+      "first": 15.93,
+      "median": 4.51,
+      "samples": 4
+    },
+    "/api/search?q=proof+of+value": {
+      "first": 7.46,
+      "median": 7.46,
+      "samples": 1
+    },
+    "/api/search?q=Gokul+Rajaram": {
+      "first": 8.55,
+      "median": 8.55,
+      "samples": 1
+    },
+    "/api/search?q=Commerce+Ventures": {
+      "first": 8.82,
+      "median": 8.82,
+      "samples": 1
+    },
+    "/api/search?q=relentlessly+resourceful": {
+      "first": 4.16,
+      "median": 4.16,
+      "samples": 1
+    },
+    "/api/search?q=choosing+a+partner+in+life": {
+      "first": 6.14,
+      "median": 6.14,
+      "samples": 1
+    },
+    "/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/transcript?passage=e77818efc70ae25829b59c46d1850730e43de42f8bd5da42be8ee4cbff8f4a27": {
+      "first": 0.65,
+      "median": 0.65,
+      "samples": 1
+    },
+    "/api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=transcript&passage=e77818efc70ae25829b59c46d1850730e43de42f8bd5da42be8ee4cbff8f4a27": {
+      "first": 108.74,
+      "median": 108.74,
+      "samples": 1
+    },
+    "/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db": {
+      "first": 0.71,
+      "median": 0.71,
+      "samples": 1
+    },
+    "/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/transcript": {
+      "first": 0.48,
+      "median": 0.48,
+      "samples": 1
+    },
+    "/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/show-notes": {
+      "first": 0.44,
+      "median": 0.44,
+      "samples": 1
+    },
+    "/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/file": {
+      "first": 0.46,
+      "median": 0.46,
+      "samples": 1
+    },
+    "/archive-files": {
+      "first": 0.43,
+      "median": 0.43,
+      "samples": 1
+    },
+    "/archive-files/episodes": {
+      "first": 0.34,
+      "median": 0.34,
+      "samples": 1
+    },
+    "/api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=show_notes": {
+      "first": 10.8,
+      "median": 10.8,
+      "samples": 1
+    },
+    "/api/files": {
+      "first": 0.55,
+      "median": 0.55,
+      "samples": 1
+    },
+    "/api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/file": {
+      "first": 0.46,
+      "median": 0.46,
+      "samples": 1
+    },
+    "/downloads/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db.md": {
+      "first": 0.77,
+      "median": 0.77,
+      "samples": 1
+    },
+    "/downloads/catalogue.csv": {
+      "first": 0.8,
+      "median": 0.8,
+      "samples": 1
+    },
+    "/downloads/markdown-library.zip": {
+      "first": 2.59,
+      "median": 2.59,
+      "samples": 1
+    },
+    "/api/episodes/999999": {
+      "first": 0.63,
+      "median": 0.63,
+      "samples": 1
+    },
+    "/api/search?limit=99999": {
+      "first": 0.37,
+      "median": 0.37,
+      "samples": 1
+    },
+    "/api/episodes/0adb8f6a-0593-45b7-9c59-d32206c375db/content?source=transcript&passage=0000000000000000000000000000000000000000000000000000000000000000": {
+      "first": 1.5,
+      "median": 1.5,
+      "samples": 1
+    },
+    "/archive/manifest.json": {
+      "first": 0.44,
+      "median": 0.44,
+      "samples": 1
+    },
+    "/data/episodes/active/episode_196.json": {
+      "first": 0.42,
+      "median": 0.42,
+      "samples": 1
+    },
+    "/downloads/episodes/missing.md": {
+      "first": 0.34,
+      "median": 0.34,
+      "samples": 1
+    }
+  }
+}

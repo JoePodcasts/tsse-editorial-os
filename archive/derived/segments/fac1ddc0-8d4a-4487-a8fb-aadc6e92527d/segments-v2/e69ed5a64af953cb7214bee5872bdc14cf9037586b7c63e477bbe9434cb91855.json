@@ -1,0 +1,1085 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 372,
+      "excerpt": "Piece of advice I would give to entrepreneurs: try to stay away from any preferred elements or any of the other complications. It can be tempting, I think, in this environment , in order to get a bigger check for your next round of funding, to look at structuring your investors. But boy, I'm so glad that everybody in our boardroom was rowing the boat the same direction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 786,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur – a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Phil Edmundson. Phil is the founder and CEO of many insurance-focused businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 374,
+      "timestamps": []
+    },
+    {
+      "end": 1147,
+      "excerpt": "Most recently, he was the founder and CEO of Corvus. Corvus was recently acquired by Travelers. And prior to that, he spent many decades at Arthur Gallagher. Earlier in his career, he launched and sold a business, William Gallagher Associates, to Arthur Gallagher. We're going to talk to him about his journey as an entrepreneur and also as an angel investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 788,
+      "timestamps": []
+    },
+    {
+      "end": 1568,
+      "excerpt": "What kind of topics excite him? What is his perspective as an entrepreneur about the venture capital industry? What is his advice to founders starting businesses in these areas? Let's talk to Phil, and I'm really excited to have this conversation. It's very rare to find a very seasoned, experienced insurance executive or any corporate executive also with a strong streak of brilliant entrepreneurship in their career.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1149,
+      "timestamps": []
+    },
+    {
+      "end": 1615,
+      "excerpt": "Phil, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1570,
+      "timestamps": []
+    },
+    {
+      "end": 1749,
+      "excerpt": "Phil Edmundson: Thank you, Gopi. It's a pleasure to be with you, and I'm really thrilled that you asked me to visit with you today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 1617,
+      "timestamps": []
+    },
+    {
+      "end": 1901,
+      "excerpt": "Gopi Rangan: Let's start with you, where you grew up. You grew up around Boston and then your entire career has been in that area all through, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1751,
+      "timestamps": []
+    },
+    {
+      "end": 1932,
+      "excerpt": "Phil Edmundson: That's right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 1903,
+      "timestamps": []
+    },
+    {
+      "end": 2165,
+      "excerpt": "Yes, I grew up in kind of a lower middle class suburbs and went to public schools and, uh, and I've never been able to move out of the Boston area, but it's a good place for tech and, uh, and a pretty good place for insurance too. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1934,
+      "timestamps": []
+    },
+    {
+      "end": 2339,
+      "excerpt": "Gopi Rangan: Insurance industry in that area near Connecticut and all those areas, and Boston's also a hub for education with lots of educational institutions in that area.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2167,
+      "timestamps": []
+    },
+    {
+      "end": 2472,
+      "excerpt": "I'm curious to understand how your career channeled into the world of insurance. Did you want it or was it an accidental entrance? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2341,
+      "timestamps": []
+    },
+    {
+      "end": 2677,
+      "excerpt": "Phil Edmundson: It was mostly an accident. I usually hear two stories from folks who have a career in insurance. One is the, that it's an accident and the other is that their parents were involved in it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 2474,
+      "timestamps": []
+    },
+    {
+      "end": 3169,
+      "excerpt": "And for a lot of people, it's a career that provides a lot of balance and, and customer engagement in a way that's really quite rewarding. For me it started with a summer job. I literally started as a file clerk back when there was such things as paper files and I matched the mail up with files and I put it on people's desks and I did that for a summer. And the next summer they put me into a computer room, which back then was inside a chilly air conditioned, special area. This is the, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2679,
+      "timestamps": []
+    },
+    {
+      "end": 3176,
+      "excerpt": "what ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3171,
+      "timestamps": []
+    },
+    {
+      "end": 3206,
+      "excerpt": "Gopi Rangan: year was this? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3178,
+      "timestamps": []
+    },
+    {
+      "end": 3422,
+      "excerpt": "Phil Edmundson: Yeah, that was 78, I think. And then I had a couple more summer jobs and, uh, met some more people in the business and started out with one of the big brokers, which is today called Willis in 1980. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 3208,
+      "timestamps": []
+    },
+    {
+      "end": 3656,
+      "excerpt": "Gopi Rangan: I remember when I was in college, the computer room was the only air conditioned room, so it was actually a perk to specialize in computers and spend time coding because you could spend time in an air conditioned room. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3424,
+      "timestamps": []
+    },
+    {
+      "end": 3689,
+      "excerpt": "Phil Edmundson: I agree, yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 3658,
+      "timestamps": []
+    },
+    {
+      "end": 3766,
+      "excerpt": "Gopi Rangan: How has the industry evolved over the past two, three decades?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3691,
+      "timestamps": []
+    },
+    {
+      "end": 4151,
+      "excerpt": "Phil Edmundson: Yeah, well, of course it's evolved like the country and the world has it's become more diverse. It's become more open and more affirming. It's like a lot of businesses. It was a very white male dominated business. I remember my first job, most of the workers were women with the exception of the general manager who sat in a big office in the corner with glass walls.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 3768,
+      "timestamps": []
+    },
+    {
+      "end": 4458,
+      "excerpt": "So he could see everything out there and he was addressed as Mr. And today, I think we have the benefit of the thinking and contributions of all types of people. And that's been one of the most positive changes to see over time. But of course, from the point of view of technology, it's changed immensely.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4153,
+      "timestamps": []
+    },
+    {
+      "end": 4723,
+      "excerpt": "And yet at the same time, it has a reputation for being a laggard in some ways. And in some ways, I think that criticism is true. But in other ways, there are certainly explanations for it. And then there are lots of opportunities for entrepreneurs in insurance. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4460,
+      "timestamps": []
+    },
+    {
+      "end": 4875,
+      "excerpt": "Gopi Rangan: Over the years, when you were at Arthur Gallagher, did you have the spirit of entrepreneurship that you always wanted to start something?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4725,
+      "timestamps": []
+    },
+    {
+      "end": 4915,
+      "excerpt": "How did the genesis of Corvus happen? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4877,
+      "timestamps": []
+    },
+    {
+      "end": 5256,
+      "excerpt": "Phil Edmundson: Yeah, so I have had the opportunity to spend most of my time as an entrepreneur. So I left Willis in 1983 with my sales manager. I had a background in neuroscience and I was focusing my Career at Willis by trying to work with the nascent biotechnology industry. And my sales manager had an entrepreneurial bone in his body.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 4917,
+      "timestamps": []
+    },
+    {
+      "end": 5591,
+      "excerpt": "That was William Gallagher. And so he and I left and started the brokerage business. We did sell that actually twice, which is, uh, only in insurance, uh, does this sort of thing happen? Um, because it, which tells you how important people are, I think more than anything, but we sold it once to AON in the nineties, he then retired.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5258,
+      "timestamps": []
+    },
+    {
+      "end": 5999,
+      "excerpt": "And then I bought the business. So I worked for Willis for three years and Arthur and AON for two years, and then, uh, then I bought the business back and ran it. And then I opened a business in Europe and opened a wholesale business and sold all those in the mid 20 teens along the way. So I did spend about 18 months at Arthur Gallagher, but for the most part, I've been, uh, in the entrepreneur's seat. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5593,
+      "timestamps": []
+    },
+    {
+      "end": 6270,
+      "excerpt": "Gopi Rangan: So early in your career, you jumped into the world of entrepreneurship. You started a business, you sold the business and sold the business again. Uh, and over the subsequent about 30 years, you stayed there and you continue to build and grow the business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6001,
+      "timestamps": []
+    },
+    {
+      "end": 6328,
+      "excerpt": "And eventually you came back to entrepreneurship again. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6272,
+      "timestamps": []
+    },
+    {
+      "end": 6607,
+      "excerpt": "Phil Edmundson: Yeah. I think if you're on the brokerage side, which I was until I started Corvus, you have the flexibility to lean into different interests. So if you're someone who likes a major league soccer, maybe you would try to have build a client base of soccer clubs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 6330,
+      "timestamps": []
+    },
+    {
+      "end": 6941,
+      "excerpt": "In my case, I was very interested and continue to be very interested in neuroscience and biotechnology. So I built a book of clients who were biotech companies because they knew that I had a genuine heartfelt interest in the nature of their business. And that perhaps I knew a little more about it than the average insurance person.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6609,
+      "timestamps": []
+    },
+    {
+      "end": 7237,
+      "excerpt": "So on the brokerage side, you have that flexibility. On the underwriting side, a little less so. There, you're probably looking at driving divisions based on insurance product line or the size of customer. But being a broker is really fun. And it allows you to kind of work as hard as you want.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6943,
+      "timestamps": []
+    },
+    {
+      "end": 7567,
+      "excerpt": "And I enjoyed that, but I found over time that I also enjoyed building the company and giving over my client relationships to more and more people. So when we sold it the first time we had 50 or 60 employees. When we sold it the second time, there are maybe 250 plus the group in Europe, which we had sold a year or two earlier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7239,
+      "timestamps": []
+    },
+    {
+      "end": 7667,
+      "excerpt": "And so it's been fun to be both on the brokerage side and now at Corvus on the underwriting side. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7569,
+      "timestamps": []
+    },
+    {
+      "end": 7777,
+      "excerpt": "Gopi Rangan: Corvus was focused on cyber insurance. How did you decide that that's a problem worth solving? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7669,
+      "timestamps": []
+    },
+    {
+      "end": 8290,
+      "excerpt": "Phil Edmundson: Well, it took a couple of steps and I think this is pretty classic, uh, entrepreneur story. So after I sold the William Gallagher Associates to Arthur J. Gallagher, I started to get incoming calls including from a couple of friends who are on the faculty at Harvard Business School and from some local venture capitalists. And they were asking me questions about insurance investments they were considering. And I was very surprised because this intersection of insurance and tech was new to me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 7779,
+      "timestamps": []
+    },
+    {
+      "end": 8712,
+      "excerpt": "This was 2015 and into 2016. And I remember going to the first ITC conference in Las Vegas, I think in 2016 or 17, and there were 400 people. If you can, I can remember, yes, I was there. You were there too. Right? You remember? It was, uh, and so it was still just forming and it, it made me start thinking about my next chapter, and particularly when some of the venture capitalists started asking me what I was doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8292,
+      "timestamps": []
+    },
+    {
+      "end": 9017,
+      "excerpt": "So as I started to get to know some of the themes, it seemed to me that there was a, an overarching theme of new uses of data. In my nomenclature, if you will, I saw something that ran through these uses of data, which was that they could be used to better predict and prevent bad things from happening.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8714,
+      "timestamps": []
+    },
+    {
+      "end": 9749,
+      "excerpt": "I prefer to think of it from that point of view, rather than I'm going to make an underwriting profit with the next guy or something else like that. And so at the beginning, Corvus was looking at seven or eight different categories of data. We were looking at, of course, automobile telematics, we were looking at worker safety devices, we looked at satellite imaging - ideas that lots of other people have developed since then. We launched two different areas. One was data that came from sensors that were used to measure temperature of high value goods that were shipped. And then we leaned into the idea that we could collect data (proprietary data in this case), which was even better around the it security of organizations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9019,
+      "timestamps": []
+    },
+    {
+      "end": 10074,
+      "excerpt": "And so cyber was just one of seven or eight ideas that my cofounder and I, uh, developed over the first seven or eight months and we kind of narrowed it down. I think on reflection, one of the interesting lessons I had perhaps for. Other entrepreneurs that might listen to this is that, uh, I think the investors like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9751,
+      "timestamps": []
+    },
+    {
+      "end": 10394,
+      "excerpt": "I think they liked the fact that I was looking at a big market, right? A lot of conversation about (TAM) total addressable market. I didn't know what TAM was in 2015, but I understood it pretty quickly. And so as we did at the beginning of Corvus, our sites set on big, big chunks of the commercial insurance industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10076,
+      "timestamps": []
+    },
+    {
+      "end": 10793,
+      "excerpt": "The TAM was substantially larger. But over time it became much more compelling to focus on cyber. So, one lesson for entrepreneurs is: think big, dream big, you know, talk, talk big. Uh, there's nothing wrong with that. Don't be too narrow. At least that's the way it worked for me. And, uh, but yet, uh, as time developed and we had lots of conversation within CorVus with my wonderful investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10396,
+      "timestamps": []
+    },
+    {
+      "end": 11160,
+      "excerpt": "And this is one of the things, you know, that investors can be so good at about how do we narrow that funnel? When do we narrow? Why do we narrow? Cause then there was a lot of give and take, a lot of back and forth about whether or not, and to narrow that funnel, but we just decided that the data in cyber was so much more valuable, a, because it was proprietary.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10795,
+      "timestamps": []
+    },
+    {
+      "end": 11493,
+      "excerpt": "We weren't partnering with third party satellite imaging companies or sensor companies or telematics device makers. All of that we could attain with our own software now, because that took a big investment to work, but it was exciting for that reason, and also because it was a growth area of the economy and a growth area of risk.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11162,
+      "timestamps": []
+    },
+    {
+      "end": 11907,
+      "excerpt": "So cyber risk, obviously, the economy, if you think of it from that point of view, the amount of commerce that is done digitally. In 2016 or 17, when we started this was a lot more than 20, 2007 or 1997, right? So it sounds so obvious today, but if you just think of the fact that the market growth was in part because of the change in the economy as it digitized, and then on top of that, the insurance product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11495,
+      "timestamps": []
+    },
+    {
+      "end": 12101,
+      "excerpt": "Which responded to those changes was growing immensely as more and more organizations bought cyber insurance and as criminal activity moved from the physical world to the online world, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11909,
+      "timestamps": []
+    },
+    {
+      "end": 12278,
+      "excerpt": "Gopi Rangan: You don't need to go to the banks to steal anymore. There are many other easier digital ways to steal. So crime increased and lots of other risks increase online.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12103,
+      "timestamps": []
+    },
+    {
+      "end": 12837,
+      "excerpt": "Phil Edmundson: And it's not just in the U. S., of course, we read about these cases and we think it's so, it's just kind of our, our country, but even countries that we think of as being very controlled in their digital worlds, like China, China has a huge problem with cyber criminality and you, some of you may have read about different operations in other Southeast Asian countries that are targeting Chinese consumers with many of the same hacks that we suffer from here in Western countries. So it's a global problem, and it's not going away quickly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 12280,
+      "timestamps": []
+    },
+    {
+      "end": 13093,
+      "excerpt": "Gopi Rangan: How did you decide to choose the first set of people to join you in that journey? Starting with your cofounder, Mike Lloyd, your first chief underwriting officer and others on your team, what was going on in your mind? What did you look for?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12839,
+      "timestamps": []
+    },
+    {
+      "end": 13392,
+      "excerpt": "Phil Edmundson: That's a great question, Gopi. So my cofounder came to me as part of these early conversations through a mutual friend, a Harvard Business School professor. Mike had graduated from HBS a year and a half earlier, and tried to build his own insurtech business, which did not do well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 13095,
+      "timestamps": []
+    },
+    {
+      "end": 14081,
+      "excerpt": "So we were connected by a fellow named Jeff Buskang, who is both a vet and investor. He runs his own venture capital fund and he teaches a class at Harvard business school every spring on entrepreneurship. And it was a real gift because Mike had so many strengths in areas that were weaknesses for me. I didn't know how to build software, for example. You know, he had to lecture me for quite a long time for me to even grasp the general concepts of how we were going to do that. And he understood the venture capital industry in a different way than I did. He understood it because he had done some work for a pretty sizable venture capital fund while he was at Harvard Business School.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13394,
+      "timestamps": []
+    },
+    {
+      "end": 14600,
+      "excerpt": "But I understood it from more of a macro point of view. And he understood it more from a micro point of view. So I kind of got Mike to join me on the rebound. He had started a company, it had failed. And he felt that that failure was in part because he didn't have a cofounder who knew insurance and who had experience and credibility and the other things that decades of work in a field may give to one, the next big hire for us was, uh, Yes, our chief underwriting officer person, Mike Carvasi, actually came to us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14083,
+      "timestamps": []
+    },
+    {
+      "end": 14972,
+      "excerpt": "He called us up because he was also in Boston and he said he was really interested to learn about the technology and about our plans and, uh, So we got very fortunate there on the software side. It was a bit of a process to get our tech leadership team in place. I would say there, our first venture capital partner, Matt Harris from Bain Capital was incredibly helpful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14602,
+      "timestamps": []
+    },
+    {
+      "end": 15232,
+      "excerpt": "We certainly did all the front work in interviewing people, but, um, that was a great authority in judging the talent that we needed there. So started to build the team, if you will. So at that early, in that early year or two, we only had the one investor. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14974,
+      "timestamps": []
+    },
+    {
+      "end": 15654,
+      "excerpt": "I think I had spent my whole career working with tech companies. So I knew more about the, I like to say it myself. I was the fastest turtle. So if, you know, if insurance has a bunch of turtles, when it comes to technology. I was a really fast turtle because I spent a lot of time working, not just with the biotech industry, but also with software companies and internet companies as they developed, uh, along the way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15234,
+      "timestamps": []
+    },
+    {
+      "end": 16189,
+      "excerpt": "So I understood some of these things and I think that was very helpful. But the other bit, which is more into the advice area for young entrepreneurs is not everybody is a good candidate to lead a tech company or a startup company. There's a lot of risk. There's a lot of uncertainty. I think it really requires individuals to be a judge of themselves, and they can look to others, mentors, or partners, or professors, or friends, to try to understand whether their personality is one, uh, such that their failures can roll off them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15656,
+      "timestamps": []
+    },
+    {
+      "end": 16637,
+      "excerpt": "Their shoulders and not bring them down because there's a lot of failures. There's all, you know, if I look back at Korma's and I said, look at all the things we tried to do and we didn't do, you know, somebody else might say failure, failure, failure. And I said, whatever. I didn't even always look at it as lessons, which I guess is probably, there's probably a lot of books written about how we're supposed to learn lessons from our failures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16191,
+      "timestamps": []
+    },
+    {
+      "end": 17002,
+      "excerpt": "And I'm sure I did. But. I think much more, it was just an ability to accept that as a normal course, having built my earlier businesses and having been in sales. So really what I did for the first 10 years of my career was selling. I would call people up who didn't know me and say, I know you have an insurance broker now, but you should have me and I'm better.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16639,
+      "timestamps": []
+    },
+    {
+      "end": 17057,
+      "excerpt": "And here's why, you know, there's a lot of rejection.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17004,
+      "timestamps": []
+    },
+    {
+      "end": 17212,
+      "excerpt": "So I ask if you talk to 100 insurance brokers, you'll find that 95 of them have no interest in that. It's psychologically painful, but it wasn't for me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17059,
+      "timestamps": []
+    },
+    {
+      "end": 17441,
+      "excerpt": "Gopi Rangan: You say it beautifully. Accepting failure is not about recklessly trying something and being unprepared and failing. It's about accepting rejection. And it's okay to try and some things not go the way you expected.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17214,
+      "timestamps": []
+    },
+    {
+      "end": 17776,
+      "excerpt": "Just quickly move on to the next thing and keep trying different things and be bold about presenting yourself with a lot of confidence in the world. That is a different attitude that it's not easy for people to cultivate. Sometimes it's there or it's not there. There's a spark and that you can fan the spark and let that flame glow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17443,
+      "timestamps": []
+    },
+    {
+      "end": 17840,
+      "excerpt": "That's the spirit of entrepreneurship that you're talking to. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17778,
+      "timestamps": []
+    },
+    {
+      "end": 18286,
+      "excerpt": "Phil Edmundson: It is for sure, Gopi, but again, and not to discourage too many of you listeners because I'm talking now from the perspective, and I think you are too, of the CEO. So you can be an entrepreneur, but you don't have to be the CEO. You can be an early stage founder, co founder, early member of the team and still get the joys and the experience of entrepreneurship because that's [00:19:00] you still feel that burning inside you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 17842,
+      "timestamps": [
+        {
+          "offset": 18236,
+          "raw": "[00:19:00]",
+          "seconds": 1140
+        }
+      ]
+    },
+    {
+      "end": 18575,
+      "excerpt": "Even if you are someone who is a little more normal in there. Uh, response to rejection, and that's okay. Corvus took a core team to have any success in its first couple of years. Every business does, and every one of those early joiners of Corvus were entrepreneurial, without a doubt. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18288,
+      "timestamps": []
+    },
+    {
+      "end": 18634,
+      "excerpt": "Gopi Rangan: What were some of your highlights at Corvus?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18577,
+      "timestamps": []
+    },
+    {
+      "end": 18727,
+      "excerpt": "What notable achievements and any challenges particularly you faced while building Corvus? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18636,
+      "timestamps": []
+    },
+    {
+      "end": 18968,
+      "excerpt": "Phil Edmundson: So, I learned some things along the way that I hadn't planned. I think that was really fun. So, for example, you know, we spent a lot of money building software, both to collect data, to use that data with machine learning.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 18729,
+      "timestamps": []
+    },
+    {
+      "end": 19303,
+      "excerpt": "And, of course, all of that was around serving the policyholder. And serving the broker. So that was my mentality. I've been a broker my whole life. I've worked with policy holders. I'm going to build a company that's great for brokers and policy holders. And that's what I said at every pitch, I think for the first couple of years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18970,
+      "timestamps": []
+    },
+    {
+      "end": 19681,
+      "excerpt": "What I learned maybe two years or three years into it, as the team started to get bigger, we were 50 people. We were a hundred people is that in fact, that very same software could also be a great attraction to your team to the talented people. So particularly in an area like insurance, when you're trying to scale the business, you need to attract a lot of insurance people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19305,
+      "timestamps": []
+    },
+    {
+      "end": 20584,
+      "excerpt": "Yes. Maybe your early joiners are very entrepreneurial, but after that, you have people in different places on the spectrum. And I learned in a really big aha moment to me that the software that we had built for the brokers and the policyholders was also a huge attraction to talented insurance underwriters, because if they worked at one of the top 10 global insurers, they had a digital life that had them roaming from one system to the next, cutting and pasting, hoping that the Excel spreadsheets would go from this version to that from guidewire software to duck Creek software to something patched together by the, the IT team. And most of them, when I asked them what was their life like from the point that the broker asked them to quote an account until they found coverage and pay a claim, they would have from seven to 10 different software systems that they had to be on from time to time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19683,
+      "timestamps": []
+    },
+    {
+      "end": 20892,
+      "excerpt": "And at Corvus, we built a digital platform that was a singular digital platform. Everything was there. And this was a big decision we made. Not every company would do it, but we made a decision over time that no, we weren't going to go with Salesforce for a CRM and no, we weren't going to hire Duck Creek.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20586,
+      "timestamps": []
+    },
+    {
+      "end": 21301,
+      "excerpt": "And we, we did work with some outside vendors for a while, but we eventually fired them all. Not because they were bad, but because we saw such advantages to building the software ourselves. And I think Travelers in acquiring Corvus saw that as part of the value that we had built software that could execute every major category of the commercial insurance world and do it all in one database. Pretty cool.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20894,
+      "timestamps": []
+    },
+    {
+      "end": 21507,
+      "excerpt": "Gopi Rangan: You started with the idea of: I'm looking at risk in cyber and I have a better way to underwrite and then very quickly you discovered something even bigger, if not bigger, equally important. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21303,
+      "timestamps": []
+    },
+    {
+      "end": 21689,
+      "excerpt": "Phil Edmundson: I don't know if it's bigger, but yeah, I think it was, it was something that I didn't expect at all. And again, particularly in the last five years, it's very hard.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 21509,
+      "timestamps": []
+    },
+    {
+      "end": 22103,
+      "excerpt": "To hire really good cyber insurance underwriters. I know it was one of the things that Travelers valued in Corvus was the breadth of the team that we had built and that, uh, that we had attracted and retained, and that, as I say, it was kind of a, an extra blessing of the technology. Which after once we discovered that, you know, once we were two, two and a half years into it and said, then we leaned into it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21691,
+      "timestamps": []
+    },
+    {
+      "end": 22204,
+      "excerpt": "Then we had software teams who were just dedicated to the internal customer of the undergraduates. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22105,
+      "timestamps": []
+    },
+    {
+      "end": 22311,
+      "excerpt": "Gopi Rangan: And this kind of advanced software technology is not easy to find in the insurance industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22206,
+      "timestamps": []
+    },
+    {
+      "end": 22579,
+      "excerpt": "Very, very exciting. I'm sure that when you were building Corvus literally from scratch, you faced a few challenges. What were one or two challenges that were notable and something that really caught your eye and your bandwidth. It took a lot of your time to solve. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22313,
+      "timestamps": []
+    },
+    {
+      "end": 22664,
+      "excerpt": "Phil Edmundson: One of the interesting challenges was expanding outside of the U S.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 22581,
+      "timestamps": []
+    },
+    {
+      "end": 22986,
+      "excerpt": "So it was a really interesting conversation internally. When do we go outside? Why should we go? What's the benefit of it? I was quite convinced from early on that the, the data that we would get and the know how that we would obtain by working in broader and broader circles wasn't in another vector for success for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22666,
+      "timestamps": []
+    },
+    {
+      "end": 23300,
+      "excerpt": "And I guess I can't prove that to you, whether or not that was the case. But we did expand into, uh, Lloyd's by acquiring a business there. And then we built from scratch, uh, operation in Germany and Austria and had every intention of continuing to grow that. And I believe Travelers will continue to grow that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22988,
+      "timestamps": []
+    },
+    {
+      "end": 23689,
+      "excerpt": "But one of the interesting things was that the advocate, you know, if you've ever sold a business to a big company, so if that's a possible exit, for any entrepreneur out there, these companies who could be your acquirer tend to be global. And it turned out that the key contact that we had with travelers who became our advocate within the travelers organization were resided in London.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23302,
+      "timestamps": []
+    },
+    {
+      "end": 24052,
+      "excerpt": "And he knew us in great part, or he was introduced to us after we had made that acquisition. So you're building these concentric circles of relationships and unexpectedly, one of the benefits of making an acquisition in London was tapping into relationships that included some pretty smart people at Travelers in their innovation unit that were based in London.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23691,
+      "timestamps": []
+    },
+    {
+      "end": 24240,
+      "excerpt": "So expanding globally was important. As I say, the tech and data I think will prove itself out. But here there was again another benefit that I couldn't have predicted at the beginning. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24054,
+      "timestamps": []
+    },
+    {
+      "end": 24373,
+      "excerpt": "Gopi Rangan: It's a particularly difficult challenge because as a small company, you have limited resources and your team is small.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24242,
+      "timestamps": []
+    },
+    {
+      "end": 24623,
+      "excerpt": "Expanding globally too soon could literally be fatal for the company. I've seen that story happen in other startups. Yet you have to take that challenge and you have to expand globally because that's how you make yourself relevant in the industry. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24375,
+      "timestamps": []
+    },
+    {
+      "end": 24776,
+      "excerpt": "Phil Edmundson: Well, it depends what you're doing, of course. But in cyber insurance, we know that cyber criminals, of course, are operating globally.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 24625,
+      "timestamps": []
+    },
+    {
+      "end": 25238,
+      "excerpt": "We know that the victims are global. Um, we know that technology allows this to continue to expand. So we thought in our case, it was very compelling. I think if you were investing just to pick something similar in, automobile or trucking telematics, I don't know that you have to go global. I don't know that you learn more by going to France than you would learn from just expanding to another state in the U S. But for us, the nature of cyber risk did that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24778,
+      "timestamps": []
+    },
+    {
+      "end": 25567,
+      "excerpt": "And I had built businesses in the past that included operations in London, in Europe. And so I had some headstart on all that. And of course, once again, I don't want to sound like a broken recording here, but our investors were very helpful as well in their, both their advice and their support as we expanded outside the U S.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25240,
+      "timestamps": []
+    },
+    {
+      "end": 25731,
+      "excerpt": "Gopi Rangan: What is your advice to founders so that they could be successful when they're starting new businesses and how they choose the first set of investors?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25569,
+      "timestamps": []
+    },
+    {
+      "end": 26112,
+      "excerpt": "Phil Edmundson: Well, first, you should have passion for what you're doing. And not everybody can have passion for insurance and not everybody can have passion for athletic footwear or for building materials or, you know, there's so many products in the, in the world, right? So it's really important that you have reason for the passion and that you're able to communicate that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 25733,
+      "timestamps": []
+    },
+    {
+      "end": 26546,
+      "excerpt": "And so in my case, I had spent a long time in commercial insurance. I was not so much frustrated as aware of the fact that there were, Many, many opportunities here. I was exposed day in, day out to technology companies, building great software for various usages. And then I looked to my own business and I said, wait, why can't my brokers transact business in a more tech friendly manner. They deserve these kinds of products too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26114,
+      "timestamps": []
+    },
+    {
+      "end": 26883,
+      "excerpt": "And I think at the beginning that resonated so much with me that it gave me credibility. So you've got to believe in yourself. You have to believe in why your company is important. And I know that in my case, I felt that I was obsessed by that idea, that brokers and policyholders deserved better tech, that they really should have it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26548,
+      "timestamps": []
+    },
+    {
+      "end": 27871,
+      "excerpt": "Now, that doesn't mean that you have to come from the insurance business. I have met plenty of people in InsurTech who did not work in the insurance business at all, but for other reasons, they found an opportunity compelling. But they still, I think, are going to be most effective if they're able to communicate why their mission is important. For us, mission, I can look at my laptop and I still, you know, it says safer world on my, you know, on my little sticker point right here, because that's what we were obsessed with at Corvus - making the world a safer place. So to be able to have big ideas and boil them down to a catch phrase or hashtag is not unimportant. You know, you're asking people to work hard, to go on a journey with you. You better be able to communicate it at every level. So having that passion. And, uh, as I say, that doesn't mean you have to come from the industry that you're looking to change, but it does mean you have to be able to communicate a story.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26885,
+      "timestamps": []
+    },
+    {
+      "end": 28101,
+      "excerpt": "Gopi Rangan: Who were some of your early investors who got that passion when you told the story of like the big vision and also the, the details of how you're planning to execute? Matt Harris, you mentioned was one of them. And ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27873,
+      "timestamps": []
+    },
+    {
+      "end": 28116,
+      "excerpt": "how did that ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28103,
+      "timestamps": []
+    },
+    {
+      "end": 28153,
+      "excerpt": "conversation go in the early days? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28118,
+      "timestamps": []
+    },
+    {
+      "end": 28437,
+      "excerpt": "Phil Edmundson: Yeah, so I knew someone else at Bain Capital and they referred me over to Matt who was not in Boston, he was in New York City. But they're the FinTech partner and Matt, if you ever get a chance to meet him, you'll find to be just very kind of low key and in control.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 28155,
+      "timestamps": []
+    },
+    {
+      "end": 28844,
+      "excerpt": "And, I found a lot of different personality types among venture capitalists. They're almost all super smart and there's no question Matt was super smart. And there's others who I met, you know, just trying to think of like, who didn't invest in Corvus for one reason or the Hans Morris at NYCA. You know, somebody who's been in this FinTech space for a long, long time was incredibly helpful in some ways.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28439,
+      "timestamps": []
+    },
+    {
+      "end": 29160,
+      "excerpt": "I remember the meeting like it was yesterday. I went in and described to him what we're trying to do. And he, and he kind of spit it back to me in, in terms of, it took me a thousand words to say what we're going to do. And he kind of [00:30:00] spit it back to me in like 12 and I was like, yeah, yeah, that's it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28846,
+      "timestamps": [
+        {
+          "offset": 29081,
+          "raw": "[00:30:00]",
+          "seconds": 1800
+        }
+      ]
+    },
+    {
+      "end": 29493,
+      "excerpt": "But, uh, early investors, we worked with a team at .406 Ventures in Boston who have done a lot of insurance. They also do a lot of healthcare work and they've been very, very successful. And I think you'd say midsize. Fun, not a big fun, uh, like Bain. We, worked with an exceptional group at Telstra Ventures out in San Francisco.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29162,
+      "timestamps": []
+    },
+    {
+      "end": 29815,
+      "excerpt": "So one of the things we looked at about the time we got to B Round was, can we engage some thinking from people in the Valley? And so, like the team at Telstra, they're very global. they were founded as part of an Australian telecoms company and then Obvious Ventures, which is another midsized fund out in the Bay Area.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29495,
+      "timestamps": []
+    },
+    {
+      "end": 30566,
+      "excerpt": "And our partner there was really strong. Particularly strong at marketing. He came out of Patagonia. He was my go to when we were trying to scale up marketing. So I can't take credit for having built this piece by piece, but what developed over time was that we had a team of investors who could help with different things and who were good at different things and who I and the rest of the team consulted with, and I always kept a very open conversation. I think some entrepreneurs want to control everything. \"Oh, don't talk to my team.\" As far as I was concerned, any member of my team wants to talk to one of our investors, if the investor is willing to do it, that's great. I think another lesson is, uh, we had two great outside board members.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29817,
+      "timestamps": []
+    },
+    {
+      "end": 30849,
+      "excerpt": "One, Ellen Ruben, who was a serial entrepreneur who at the time she joined our board hadI just sold her latest business to Amazon and she's off starting still another business. And so she was a very kind, she helped me with working with the venture capital industry and, and exits.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30568,
+      "timestamps": []
+    },
+    {
+      "end": 31176,
+      "excerpt": "And on the other hand, Kevin Kelly, who was. Uh, the former CEO of Lexington Insurance Company and our insurance company, someone who you might say is kind of, you know, from the AIG team that was built by Hank over the course of the eighties and nineties, and just someone who got it in his gut all the key insurance issues.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30851,
+      "timestamps": []
+    },
+    {
+      "end": 31514,
+      "excerpt": "And again, had a way that he could communicate it in the board meeting. So if you're really lucky and you get to that B round level, you get to perhaps add some outside investors to the team. And you should start working on that early. Uh, it's my advice is that finding people who might add something for you, can be really meaningful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31178,
+      "timestamps": []
+    },
+    {
+      "end": 31903,
+      "excerpt": "And as we ended up in our discussions with Travelers in the sale, you know, we're in a down environment for investing in InsurTech says, Oh, a lot of tough choices to make strategically. It was a perfect fit. And, um, and I found that having, uh, Ellen and Kevin on board helped me to sort through some of the interests of the investors who come along at different rounds of investment. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31516,
+      "timestamps": []
+    },
+    {
+      "end": 32430,
+      "excerpt": "We kept our cap table very simple. I guess that's another piece of advice I would give to entrepreneurs. Try to stay away from any preferred elements or any of the other complications. Uh, it can be tempting, I think, in this environment to, in order to get a bigger check for your next round of funding, to look at structuring your investors. But boy, I am so glad that everybody in our boardroom was rowing the boat the same direction. And, uh, we still had tough decisions to make, but everybody was really good about it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31905,
+      "timestamps": []
+    },
+    {
+      "end": 32655,
+      "excerpt": "Gopi Rangan: You thoughtfully selected the right investment partners to go with you on the journey. Well, congratulations on the successful exit of the company. Do you feel like Corvus could have been an even bigger story? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32432,
+      "timestamps": []
+    },
+    {
+      "end": 32935,
+      "excerpt": "Phil Edmundson: Yes and no. I think it was, uh, you know, fortunately, um, I was in the last year and a half supported by Madhu Tadikonda, who took over as CEO. And Madhu's background certainly allowed us to get to a next level that I probably would have been unable to achieve.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 32657,
+      "timestamps": []
+    },
+    {
+      "end": 33271,
+      "excerpt": "It's a challenge in cyber insurance because the industry has a perception of catastrophic risk that is based not on fact, but on fear. And so, the ability to build a balance sheet and become a single line insurance company that then went public is very challenging. I know that a couple of our competitors are still hoping to do that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32937,
+      "timestamps": []
+    },
+    {
+      "end": 33608,
+      "excerpt": "I wish them all the best. It's not an easy thing to do, given the way the industry looks at this absence of catastrophic risk within cyber and yet still attaches a huge cost to the theoretical catastrophe that we all have to admit does exist. So that little structural problem is a bit of a challenge in for cyber innovators right now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33273,
+      "timestamps": []
+    },
+    {
+      "end": 33693,
+      "excerpt": "Gopi Rangan: I'm curious to hear your perspectives on what is exciting for you now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33610,
+      "timestamps": []
+    },
+    {
+      "end": 33777,
+      "excerpt": "What kind of problems get your attention? Where is innovation going in InsurTech? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33695,
+      "timestamps": []
+    },
+    {
+      "end": 33994,
+      "excerpt": "Phil Edmundson: Yeah, I don't think I'm smart enough to tell you where innovation is going. I can tell you what I'm interested in, what I'm leaning into right now. One is, of course, not surprisingly, generative AI.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 33779,
+      "timestamps": []
+    },
+    {
+      "end": 34682,
+      "excerpt": "What I know of the business, which is more of the brokerage side than the underwriting side, There are elements of the day to day life of, uh, brokers that could be vastly improved by, some type of generative AI co pilot type of technology. There is a lot of work that's done manually. There's so much low hanging fruit in the way that transactions are processed, both for efficiency, but even more so to prevent what we call, you know, errors and omissions brokers are certainly plagued by and very legitimately concerned about. So I think generative AI offers solutions, both to improve the experience of people working at the brokerage firms and underwriters too, don't get me wrong.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33996,
+      "timestamps": []
+    },
+    {
+      "end": 34896,
+      "excerpt": "I think that there's lots of applications there, but knowing the life of a broker, as well as any part of the business, I think there's a huge, big, huge opportunity there, um, to improve quality and efficiency. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34684,
+      "timestamps": []
+    },
+    {
+      "end": 35435,
+      "excerpt": "The other thing I'm leaning into also has a tech story, but it's probably a simpler tech, which is one of the places that experiences the most pain right now in the property and casualty world is high net worth insurance. And we've all read the headlines about how California homeowners policies are being non renewed because they're exposed to flood and earthquake and wildfires and mudslides, and then Florida homeowners are being canceled or tripled in price because of the threats from climate change to increased hurricane activity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34898,
+      "timestamps": []
+    },
+    {
+      "end": 36157,
+      "excerpt": "All of these things bring attention to an area that for most of my career has been just boring. You know, it's been like, okay, Chubb and maybe AIG and at one time fireman's fund, and now maybe there's a couple of the competitors occupied this opportunity and high net worth insurance. But the brokers are actually in this environment, making a lot more money premiums are going up. But the customer, the policy holder is being poorly served right now. I've spent a lot of time talking to people who are in this niche and that nobody has a digital platform that they can work on, right? We, we do our banking. How much do you spend for banking every year? You know, you and I don't really think of it in that way, right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35437,
+      "timestamps": []
+    },
+    {
+      "end": 36480,
+      "excerpt": "But there's an implicit cost of our banking services. Maybe it's a thousand dollars. Maybe it's 2,000. How much do you spend on your insurance? You know, 10,000, maybe, maybe 10 times that if you're living in one of these high risk marketplaces. And in your, you know, your banking, you have a wonderful digital platform.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36159,
+      "timestamps": []
+    },
+    {
+      "end": 37087,
+      "excerpt": "You can send checks out, you can check your status here. You can see your history for that. Nobody offers that to an insurance customer. And so I think there's an opportunity to build software for high net worth individuals. Um, and right now there's anxiety. If you talk to these folks to this not insignificant market, everybody's pissed off, everybody's angry because their premiums have gone up, their policy has been canceled and in a business that's incredibly sticky, as we all know that insurance and other financial services can be, this is a pivot point when there's a time to make some changes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36482,
+      "timestamps": []
+    },
+    {
+      "end": 37233,
+      "excerpt": "So I'm leaning into that area as well. Where I think a modest amount of technology can bring about a much greater experience for policyholders. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37089,
+      "timestamps": []
+    },
+    {
+      "end": 37458,
+      "excerpt": "Gopi Rangan: Well, this is a very, very interesting topic indeed. I live in this world. I think about how can we bring advanced technology to modernize infrastructure in the world of insurance and banking and other sectors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37235,
+      "timestamps": []
+    },
+    {
+      "end": 37768,
+      "excerpt": "I look at solutions to build a better safety net, how to serve policyholders even better. This is great to see that you're focusing on those topics as well. We could spend a whole hour just on this, but we're coming towards the end of our conversation, and I want to ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37460,
+      "timestamps": []
+    },
+    {
+      "end": 37842,
+      "excerpt": "Is there a non profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37770,
+      "timestamps": []
+    },
+    {
+      "end": 38316,
+      "excerpt": "Phil Edmundson: Ah, there are several. The one I will tell you about is the Cornell Laboratory of Ornithology and the Cornell Laboratory of Ornithology is the biggest bunch of bird nerds in the world. So there's 250 scientists and they develop software to help all of us engage with the avian community and birds are for many of us just a source of joy just to see a great blue heron sweep across the sky pterodactyl like is you know an act of beauty that is hard to beat.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Phil Edmundson",
+      "start": 37844,
+      "timestamps": []
+    },
+    {
+      "end": 38677,
+      "excerpt": "And, uh, and yet it's also a sign of the health of nature in the worlds we live in is how well are the birds doing. And so the scientists have created among other things, uh, phone apps, one called eBird, where you can record all your bird sightings, uh, another called Merlin, which can help you to ID, birds and help people learn more about the avian world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38318,
+      "timestamps": []
+    },
+    {
+      "end": 38979,
+      "excerpt": "So it's science, which I love. And it's also very consumer facing and it's all around the bigger issues of climate change and the natural world, which is so important to all of us, whether it's to recharge our souls or to get nerdy about it and count the number of bird species you've seen this year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38679,
+      "timestamps": []
+    },
+    {
+      "end": 39146,
+      "excerpt": "I need a little bit of both. I don't know about you. So I served, I've served on the board there for a long time and I encourage anybody to get involved with birds. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38981,
+      "timestamps": []
+    },
+    {
+      "end": 39358,
+      "excerpt": "Gopi Rangan: Phil, thank you very much for spending time with me. It's a treat to hear from the horse's mouth directly the story of how to build a startup, how to make it successful, and how decisions are made.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 39148,
+      "timestamps": []
+    },
+    {
+      "end": 39740,
+      "excerpt": "Thank you for sharing candid examples from your own personal experiences over 30 plus years in the industry. I look forward to sharing your nuggets of wisdom with the world. Thank you, Gopi. It's been a real pleasure. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39360,
+      "timestamps": []
+    },
+    {
+      "end": 39907,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39742,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "e69ed5a64af953cb7214bee5872bdc14cf9037586b7c63e477bbe9434cb91855",
+  "text_sha256": "79dbf35843ecf869de25e3a06be6ac41d144c7ebca790ecfd930b1e19b3aa6f0"
+}

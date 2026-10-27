@@ -1,0 +1,721 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 171,
+      "excerpt": "What is the actual value proposition of this company, right? It says it does data aggregation. It says it does financial intelligence, but what is it actually doing today?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 557,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Tanvi Narain. She's an investor at Counterpart Ventures based in Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 173,
+      "timestamps": []
+    },
+    {
+      "end": 790,
+      "excerpt": "We're gonna talk to her about her journey, getting into venture capital, what kind of startups she invests in, what gets her excited, and what is her view of where the market is today. Tanvi, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 559,
+      "timestamps": []
+    },
+    {
+      "end": 845,
+      "excerpt": "Tanvi Narain: Thank you so much for having me, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 792,
+      "timestamps": []
+    },
+    {
+      "end": 1160,
+      "excerpt": "Gopi Rangan: Tell us about yourself, starting with your international background. You grew up in multiple different places, went to college in a few different places. Then eventually you arrived in the Bay Area. But before you arrived in the Bay Area, what are the different places that you touched in the world? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 847,
+      "timestamps": []
+    },
+    {
+      "end": 1302,
+      "excerpt": "Tanvi Narain: Sure. So yeah, I had somewhat of a non-traditional background where I lived in multiple countries prior to starting my career.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 1162,
+      "timestamps": []
+    },
+    {
+      "end": 1631,
+      "excerpt": "I was born in Chennai, India, and lived the early part of my years in Mumbai. And then I ultimately spent my time in the U.S., Switzerland, and Canada for my adolescent years. And it was interesting because when I moved to St. Louis, Missouri, the Midwest, I guess of the US it was definitely a culture shock coming from India.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1304,
+      "timestamps": []
+    },
+    {
+      "end": 1932,
+      "excerpt": "And I had to really adapt and sort of get comfortable with my new surroundings. And so I always say it's quite funny, but I didn't realize that how my upbringing living in so many different countries, getting exposed to such a diverse group of people and environments set me up in a way for venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1633,
+      "timestamps": []
+    },
+    {
+      "end": 2206,
+      "excerpt": "I guess you can draw a thread there where as an investor you're always meeting new people, you're jumping from one topic to the next constantly. And so in sort of an informal way, I was sort of given those building blocks early on in my childhood and in my teenage years. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1934,
+      "timestamps": []
+    },
+    {
+      "end": 2443,
+      "excerpt": "Gopi Rangan: And eventually you went to Northwestern University, Kellogg Business School, and that was your stepping stone into venture capital. How did your MBA degree in the program help you prepare for this role in venture capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2208,
+      "timestamps": []
+    },
+    {
+      "end": 2765,
+      "excerpt": "Tanvi Narain: Sure, and I can talk a little bit about how my career sort of shaped my journey into Kellogg and ultimately Counterpart Ventures. After I graduated undergrad, I got the opportunity to start my career at Discover Financial, and it was a great sort of way to get a foundational understanding of the industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 2445,
+      "timestamps": []
+    },
+    {
+      "end": 3084,
+      "excerpt": "I was exposed to both the sort of card side of the business and the payment side of the business quite early on, and during that time I really got to learn the larger ecosystem - sort of enjoyed it. And when I moved to Visa right after Discover, that's when I got exposed to meeting founders in the FinTech ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2767,
+      "timestamps": []
+    },
+    {
+      "end": 3470,
+      "excerpt": "Quite frankly, I didn't have experience in that space, but when I worked at Visa, I was talking to some of these now, say unicorn and decacorn companies, where they were looking for partnerships. With Visa and at the time I was so interested in understanding what problem they were looking to solve. You know, who were their customers, where were they trying to disrupt the ecosystem?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3086,
+      "timestamps": []
+    },
+    {
+      "end": 3748,
+      "excerpt": "And so I went into business school sort of with an understanding of wanting to work at a growth-stage FinTech and hone in on my hard skills or my fundamentals, and then go use those skills at a growth-stage FinTech either in product, business development or partnership roles.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3472,
+      "timestamps": []
+    },
+    {
+      "end": 4046,
+      "excerpt": "At the time of my business school, I got the opportunity to intern with Counterpart Ventures, and I was given the role of going deep into B2B FinTech and understanding what investment opportunities there were for the fund. And I was also researching an industry that I was truly passionate about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3750,
+      "timestamps": []
+    },
+    {
+      "end": 4582,
+      "excerpt": "So I got to meet founders who now looking back, it was great to see sort of their journey. And when I joined Plaid right after business school, I realized that actually I wanted to sit on the investor side, and that's where I wanted to spend more time and help companies build their businesses from ground up, helping them solve problems from the beginning, going deep into various different industries and seeing okay, where could there be an opportunity to disintermediate a space or solve a key problem that's not being done today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4048,
+      "timestamps": []
+    },
+    {
+      "end": 4652,
+      "excerpt": "And so I was lucky enough to Join the team and jump into that role. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4584,
+      "timestamps": []
+    },
+    {
+      "end": 4914,
+      "excerpt": "Gopi Rangan: So having seen the evolution of FinTech now, you were at Discover in 2014, 15, 16, 17, 18, around that time. Yeah. And that was when FinTech was really booming, like Stripe and Square were taking off, payment systems were becoming more ubiquitous.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4654,
+      "timestamps": []
+    },
+    {
+      "end": 5288,
+      "excerpt": "There were peer-to-peer lending companies taking off around the same time the infrastructure for financial services that was taking off as well. And you got really curious about all of that. And when you came to the investor side of the table, you saw that you could dive deep into a lot of these topics, and that got you really excited and you stayed on the venture side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4916,
+      "timestamps": []
+    },
+    {
+      "end": 5742,
+      "excerpt": "Tanvi Narain: Yeah, it was interesting to wear two different hats, right? As an operator, you're looking at the landscape as a whole of a company and seeing the building blocks that they're using to sell their product, get customers, solving a key problem in the industry. On the investor side, you're taking those fundamental understanding, but you're looking at it through different use cases and you're using what we like to say pattern recognition.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 5290,
+      "timestamps": []
+    },
+    {
+      "end": 6475,
+      "excerpt": "And it's interesting because now, I think I have a different lens. When I think about evaluating companies, be it in the space of FinTech or other industries, I think the industry knowledge that I gained at Discover and Visa really helps me put together a better understanding of, okay, you know, what is the product going to do ultimately at the end of the day, is it going to work? Are they actually going to see longevity? But then on the investor side, I think I'm wearing a hat of, okay, where does this business model go (you know, year five, year 10)? How do they think of building a larger business, ultimately? And so I think that that's sort of the difference I've noticed in my approach now sitting on the investor side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5744,
+      "timestamps": []
+    },
+    {
+      "end": 6726,
+      "excerpt": "Gopi Rangan: So your outlook has changed. I'm curious to see. What you like about venture capital the most? You've been on the other side of the table for almost two years now. What is exciting for you? Why is venture capital so interesting to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6477,
+      "timestamps": []
+    },
+    {
+      "end": 7095,
+      "excerpt": "Tanvi Narain: Because I think you can help build change from the ground up. As I mentioned, I think when I was sitting on the operator side, be it at Visa, Plaid or Discover, I was working in a specific unit of the business, solving a key problem, but really not getting a full visibility into larger sort of how do I influence different areas of the larger business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 6728,
+      "timestamps": []
+    },
+    {
+      "end": 7468,
+      "excerpt": "When you're working with a founder, especially Counterpart investing early on, you're helping them set the foundation for them to grow. And so you're sitting with them and talking to them about product development. You're working on what should their value proposition be? How should they be thinking about the sales funnel and the types of customers they're going after.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7097,
+      "timestamps": []
+    },
+    {
+      "end": 7815,
+      "excerpt": "So what I love about Venture is, especially in my role, is you're really getting in early. And you're working with the founders so closely in every element of their business and seeing that sort of come to light has been great. And again, I'm a year and a half in, so I still have a long way to go and see some of those efforts come to fruition.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7470,
+      "timestamps": []
+    },
+    {
+      "end": 8153,
+      "excerpt": "Gopi Rangan: It's great to see that many of your expectations coming into venture capital are proving true and you're discovering new, exciting things. Working with founders at the foundation level where these companies will have huge impact five to eight years from now in shaping that future is incredibly satisfying, very fulfilling.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7817,
+      "timestamps": []
+    },
+    {
+      "end": 8228,
+      "excerpt": "Is FinTech your main area of focus or do you also focus on other topics? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8155,
+      "timestamps": []
+    },
+    {
+      "end": 8674,
+      "excerpt": "Tanvi Narain: I look at all topics. We are a generalist fund and we sort of are industry agnostic. But where I like to spend say more of my time is in FinTech. This year itself, we've looked at a manufacturing company, we've looked at a FinTech company. We've done investments in HR tech as well. And so I would say I'm a generalist investor as a whole, but you know, where my interest really lies, my passion projects, I guess lie in FinTech. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 8230,
+      "timestamps": []
+    },
+    {
+      "end": 8807,
+      "excerpt": "Gopi Rangan: I wanna ask you more about your investments, but let's talk about how was the process of getting into venture capital?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8676,
+      "timestamps": []
+    },
+    {
+      "end": 9100,
+      "excerpt": "Getting a job at a venture venture capital firm is very difficult. A lot of people try really hard. You started with an internship. What's your advice to people perhaps at business schools like Kellogg and other places? What's the best way to prepare themselves to get a a role at a VC firm?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8809,
+      "timestamps": []
+    },
+    {
+      "end": 9532,
+      "excerpt": "Tanvi Narain: Yeah, that's a good question. I think you've probably heard this before. Venture a lot of times is about building your network and connecting with people, and I like to say, \"show value to your network.\" what I mean by that is, when I was an intern at Counterpart, even after my internship at Counterpart, what I essentially did was I wanted to be as valuable as possible to the team and no sort of strings attached.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 9102,
+      "timestamps": []
+    },
+    {
+      "end": 10340,
+      "excerpt": "I think because I was truly passionate about the space and wanted to learn more, I came in saying, \"Hey, give me any project you have. Give any sort of any way that I can learn or be of use. Let me know.\" I'm not sure if that is the right way to do it, but that was sort of my approach in saying that this is sort of giving me the foundational and learning that I need so that when I'm actually going through a traditional process of hiring within venture, I am already getting those resources early on. And so what I did was just be curious and always sort of, you know, helpful, uh, in any way I could. And then of course, meeting people and building those relationships and building your network. I think sometimes within venture, as I've seen recently, it comes with sort of, it's a double edged sword.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9534,
+      "timestamps": []
+    },
+    {
+      "end": 10688,
+      "excerpt": "It's if you're good at networking, it helps you sort of build that career. But at the same time, a lot of folks that I'm seeing entering venture has a very cookie cutter experience of investment banking or consulting. And so my goal as well has been, okay, how do you diversify that pool? How do you give people the right sort of building blocks?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10342,
+      "timestamps": []
+    },
+    {
+      "end": 10995,
+      "excerpt": "That may not have that traditional background coming in and still giving them access to this industry. And so for me, I think the approach had been okay, I know FinTech, I can sort of be slightly more aware of the space than say the team. How do I leverage that and how do I provide value in a unique way?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10690,
+      "timestamps": []
+    },
+    {
+      "end": 11223,
+      "excerpt": "And at the same time, how do I do that but not in the intention of, okay, you're gonna hire me. It's I'm helping you, I'm learning in the process, and that'll help me down the line as I think about this as a career seriously. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10997,
+      "timestamps": []
+    },
+    {
+      "end": 11357,
+      "excerpt": "Gopi Rangan: So you led with your strengths based on your experience in the industry, and you brought an enormous appetite to learn.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11225,
+      "timestamps": []
+    },
+    {
+      "end": 11511,
+      "excerpt": "You are super curious about many topics, not just the topics that you were previously exposed to. Yeah. And you're a voracious networker, so you go out ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11359,
+      "timestamps": []
+    },
+    {
+      "end": 11566,
+      "excerpt": "Tanvi Narain: I do like talking to people, yes. So.. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 11513,
+      "timestamps": []
+    },
+    {
+      "end": 11753,
+      "excerpt": "Gopi Rangan: Can we pick a couple of examples from your recent investments at Counterpart? What got you excited about those companies and how was the first meeting with those companies?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11568,
+      "timestamps": []
+    },
+    {
+      "end": 12163,
+      "excerpt": "Tanvi Narain: So this is actually my first deal at the fund. And I've been at the fund for about a year and about three months now, and it's been great and also challenging quite frankly because you're meeting a lot of founders. You're getting excited about a lot of companies, but you still have to have a very high bar and sort of critical in a good way on whether or not the company is a fit for the fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 11755,
+      "timestamps": []
+    },
+    {
+      "end": 12428,
+      "excerpt": "And so I'm happy to say this was the first deal this year for me at the fund, and it's in the space of FP&A. The real sort of reason I got excited and about this company is because the founder had lived this problem working at Zynga prior to starting the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12165,
+      "timestamps": []
+    },
+    {
+      "end": 13038,
+      "excerpt": "And I had done quite a bit of research on the space of how do you help companies optimize their back office operations on the accounts payable and accounts receivable side, and how do you create that, other than just having it be this sort of go-to ERP system that every enterprise company has to sort of use because that's just the norm. So while at Zynga, he realized that making financial investments, there was no direct way to understand the ROI of such investments. So for instance, the CFO of an organization says, \"Hey, we invested 5 million in a marketing campaign to increase customer acquisition.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12430,
+      "timestamps": []
+    },
+    {
+      "end": 13360,
+      "excerpt": "What was the ROI there? There is no immediate real-time way to understand that information. And at a higher level, in real time it's very hard for businesses to understand the financial health of the business. He had a moment of realization and he said, \"well, ERP systems are just a, a record keeper for financial data.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13040,
+      "timestamps": []
+    },
+    {
+      "end": 14013,
+      "excerpt": "They're more of kind of a month end journal entry rather than being sort of this intelligence platforms that serves businesses. And so there's a massive gap between translating operational data to its financial intelligence. And so he ultimately then decided to create, just to kind of go into building this business where he would essentially sit in the middle of your payment processing platforms and your E R P or business intelligence tools, because a lot of times companies that sort of grow very quickly in transaction volume, they have to stitch together multiple platforms with Excel CSV files that then ultimately ends up in the E R P system.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13362,
+      "timestamps": []
+    },
+    {
+      "end": 14428,
+      "excerpt": "And so he kind of sought out to say, how do we build a tool that will be the interface for businesses to manage, streamline, and sort of create more of a rules-based engine for their financial data? And he started on the, he basically digitized the three financial documents, starting on the, you know, revenue recognition side and then moving on at a broader scale on the accounts payable vendor management side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14015,
+      "timestamps": []
+    },
+    {
+      "end": 14733,
+      "excerpt": "And so that's very exciting to me. The reason I got excited about this business is because, One, it's sort of solving a problem that exists today, and no real company is doing it at a mid-market to enterprise level. Right? Two, there is line of sight into how business can scale into adjacent verticals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14430,
+      "timestamps": []
+    },
+    {
+      "end": 15087,
+      "excerpt": "When I say adjacent verticals, I mean what are the other challenges that these businesses face within the space of FP&A that this business can solve for? And then three, I think the bigger vision is how do you chip away slowly at E R P solutions that have sort of been incumbents in the space and don't really serve their businesses holistically today?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14735,
+      "timestamps": []
+    },
+    {
+      "end": 15589,
+      "excerpt": "And that's something that I've been looking at for quite some time, is we're looking at that in the manufacturing space. We're looking at that in the, you know, financial services space. And in logistics and supply chain, it's, it's really looking at the solution and saying, okay, how do you create products or platforms that chip away a components of the say incumbent platform that has been sitting and sort of in some ways bane of existent for a lot of different businesses, mid-market and large.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15089,
+      "timestamps": []
+    },
+    {
+      "end": 15943,
+      "excerpt": "Gopi Rangan: So you started with first principles. How is this going to change the way systems work today? Yeah. And you, you found a solution that, uh, not only applies to the problem that is targeted today, but it scales to other verticals as well, and you're looking for something that actually solves a problem. It's not just a, a theoretical idea.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15591,
+      "timestamps": []
+    },
+    {
+      "end": 16024,
+      "excerpt": "At what point did you feel like, yes, I really want to invest in this company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15945,
+      "timestamps": []
+    },
+    {
+      "end": 16344,
+      "excerpt": "Tanvi Narain: I think when we looked at the product and we sort of dug under the hood. This is maybe where I was able to have a little bit more of an understanding of the ecosystem using my prior knowledge of Plaid and Visa. I sort of was able to understand, okay, what is the actual value proposition of this company?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 16026,
+      "timestamps": []
+    },
+    {
+      "end": 16748,
+      "excerpt": "Right? It says it does data aggregation, it says it does, uh, financial intelligence, but what is it actually doing today? Right? And when we looked at the product and we could see that. It is basically building a rules-based engine at the beginning, and it's, it's serving customers that are processing volumes upwards of, you know, a hundred million of transaction, a hundred million of transactions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16346,
+      "timestamps": []
+    },
+    {
+      "end": 17152,
+      "excerpt": "You're saying, okay, this is something that can scale. Because that's when I can understand that they have not only identified the problem, but they're utilizing it in companies that actually sort of can grow with them, uh, that they can grow with. And so that's where, that's when I got convinced is because right now, and it's a very hard thing to do, you have to build a foundational infrastructure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16750,
+      "timestamps": []
+    },
+    {
+      "end": 17443,
+      "excerpt": "To be able to create this rules-based engine, process these transactions, apply the right rules based on the company's way of accounting. These are not things that can just easily be, you know, plug and play. And we do acknowledge some of those risk factors associated with such a company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17154,
+      "timestamps": []
+    },
+    {
+      "end": 17621,
+      "excerpt": "But you have to be cognizant of the risk factors and say, \" what are the mitigating components that they can address to get above this? And then where can this ultimately go?\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17445,
+      "timestamps": []
+    },
+    {
+      "end": 17983,
+      "excerpt": "Gopi Rangan: Congratulations on your first investment. Thank you. It takes time to identify the right kind of opportunity for you to get behind. I'm glad to see that you found one. My first meeting with the founder was with a startup and I started in venture capital. Eventually the company went IPO. So wonderful. I wish you many successes in your investors. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17623,
+      "timestamps": []
+    },
+    {
+      "end": 18010,
+      "excerpt": "Tanvi Narain: Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 17985,
+      "timestamps": []
+    },
+    {
+      "end": 18196,
+      "excerpt": "Gopi Rangan: Let's talk about what you see in the venture world as someone who's been in the venture industry for only a year or two you will see of the world with a fresh set of eyes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18012,
+      "timestamps": []
+    },
+    {
+      "end": 18244,
+      "excerpt": "What is broken today? What needs to be fixed? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18198,
+      "timestamps": []
+    },
+    {
+      "end": 18883,
+      "excerpt": "Tanvi Narain: That's a good question. I think for me, when I talk to founders, I always look at, \"are you building a point solution? Are you building a product or are you building a platform?\" And I think that's something that I've learned while being in venture. Talking to former founders of our portfolio companies and understanding. Okay. How do they approach building a business, right? When they evaluate a problem, how do, where do they think about, okay, where should we be spending the time? What is the actual space that interests them? What is this problem that they're looking to solve? Like, who is it going to serve, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 18246,
+      "timestamps": []
+    },
+    {
+      "end": 19222,
+      "excerpt": "And how can they essentially build like a bigger business out of that? And so I think that, when I meet founders, and maybe something that needs to not change, but I think founders can really think about is, is this just a, a feature in a product stack that can quickly be replicated by my competitors or has a very low barrier of entry?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18885,
+      "timestamps": []
+    },
+    {
+      "end": 20474,
+      "excerpt": "Or is this a product that requires fundamental architecture that either serves its customers really well, because a lot of times it doesn't mean the product is like world class, that that's why it's winning. It's actually because it's serving the customer need or that it's approaching solving the problem in a unique way or the product itself is just very sophisticated because of it's a founder understanding, having experienced it or having understood sort of the components of how to optimize the solution. They, they're just doing it way better than, you know, their competitors. And so when I talk to founders and I meet them, I always try to understand, okay, \"is this something that you're gonna be able to build as a long-term product that has, can be core to the business and demonstrates clear ROI or savings for the customer. And then ultimately, which I think is much harder to achieve, is building a larger platform. Are you able to essentially stitch different products together and then integrate yourself in multiple ways within their customer's workflow, which, which then makes it very difficult for them to remove you? So that's kind of the lens I've started taking as I meet founders and talk to them about what they're building.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19224,
+      "timestamps": []
+    },
+    {
+      "end": 20672,
+      "excerpt": "Gopi Rangan: Is it a product or a platform? Is it a platform or a company? And is it a company that's gonna last for a long time or is it a flash in the pan that, uh, addressing a short-term need?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20476,
+      "timestamps": []
+    },
+    {
+      "end": 20979,
+      "excerpt": "These are all questions that, uh, we can learn from people who have walked this path in the past. Exactly. Counterpart is a different kind of venture capital firm. Counterpart very closely works with many corporate venture capital groups, and you recently organized a Women in Venture Capital event. Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20674,
+      "timestamps": []
+    },
+    {
+      "end": 21031,
+      "excerpt": "What is that event about and why is it important? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20981,
+      "timestamps": []
+    },
+    {
+      "end": 21303,
+      "excerpt": "Tanvi Narain: As you know, counterpart essentially has a now 400 corporate venture network called Counter Club. It comes because the founders of Counterpart are sort of practitioners of corporate venture, and myself and my colleague Mikey also come from corporate roots.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 21033,
+      "timestamps": []
+    },
+    {
+      "end": 21647,
+      "excerpt": "And so we have this experience in understanding what it takes to either potentially sell into an enterprise customer. How do you think about partnering with them? And we've ultimately created a platform for us, corporate venture funds, to build networks with each other and have access to sort of content and events that are relevant to them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21305,
+      "timestamps": []
+    },
+    {
+      "end": 21923,
+      "excerpt": "One thing we noticed was while we built this very diverse sort of network of corporate venture funds, there hadn't really been a platform or group for women in corporate venture. Now, there are so many women corporate leaders that have done phenomenal things over the years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21649,
+      "timestamps": []
+    },
+    {
+      "end": 22318,
+      "excerpt": "And actually when I spoke to some of them, I said, Hey, have you ever been to a Women in Corporate Venture event? And they said, no, I actually haven't been to one that's sort of so structured and specific to what we have sort of experienced. And so when we were looking at, okay, how do we double down on our network and how do we give them, continue to give them relevant content and events?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21925,
+      "timestamps": []
+    },
+    {
+      "end": 22698,
+      "excerpt": "We said that Women in Corporate Venture Summit, it was kind of a no-brainer, and the event, the purpose of the event was to bring, senior leaders and junior investors together in an intimate setting. We had about 50 women come to the event. And talk about topics relevant to them. I think one, it proved as an opportunity for networking for senior leaders with junior investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22320,
+      "timestamps": []
+    },
+    {
+      "end": 22963,
+      "excerpt": "Everyone is spread out across the United States and globally. How to put people face to face with each other and build relationships. And in terms of mentorship and also learnings. I mean, I think senior CVC investors also learn quite a bit from junior investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22700,
+      "timestamps": []
+    },
+    {
+      "end": 23288,
+      "excerpt": "Two, talk about the experiences they've had. We had speakers. The head of Gradient Ventures came and spoke about her journey in creating Gradient Ventures as first an AI-focused fund and now sort of expanded. We also had institutional investors come. We had Helen who created Phenomenal Ventures, the former C M O of Plaid.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22965,
+      "timestamps": []
+    },
+    {
+      "end": 23674,
+      "excerpt": "Talk about what was the journey in raising capital in a sort of changing environment of 2021 and 22, especially focused on catering to a specific segment of customers within their portfolio. And then we had discussions about how do you build professional development in in venture. I think sometimes it's very nebulous when it comes to career development and career growth in venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23290,
+      "timestamps": []
+    },
+    {
+      "end": 24015,
+      "excerpt": "And so having conversations, especially for women who a lot of times don't really have access to the mentorship, directly talking about, okay, what are some of the things you need to know when it comes to professional development? How should you be pitching yourself? How should you be thinking about, as I just mentioned, your deal sheet?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23676,
+      "timestamps": []
+    },
+    {
+      "end": 24298,
+      "excerpt": "I think, you know, a lot of times that drives, you know, the work you've done as an investor. And so it was incredible. It was one of, it was one of the first corporate venture summits for women and uh, we hope to have it be bigger and have a lot more learnings from it next year. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24017,
+      "timestamps": []
+    },
+    {
+      "end": 24360,
+      "excerpt": "I've attended quite a few of counters events over the years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24300,
+      "timestamps": []
+    },
+    {
+      "end": 24872,
+      "excerpt": "Gopi Rangan: It's exciting to see that you're throwing light on a topic that's very important. There are very few women who are in investor roles at venture capital firms. I looked at the statistics a few years ago. There are actually percentage of women in corporate venture capital is more than percentage of women in institutional venture capital. And that trend is very positive. It's good to see that. I'm glad that you highlighted that with, uh, an active event that is mainly focused on that community. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24362,
+      "timestamps": []
+    },
+    {
+      "end": 25034,
+      "excerpt": "Tanvi Narain: I just wanted to add, it is interesting because in corporate venture you see a lot of non-traditional candidates entering corporate venture roles.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 24874,
+      "timestamps": []
+    },
+    {
+      "end": 25324,
+      "excerpt": "I would like to call out Amy Burr, the head of JetBlue Ventures. She came from business development and now she's the head of the fund. I think the reason there's probably more women in corporate venture is because there is more of a pipeline within that industry and, um, more exposure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25036,
+      "timestamps": []
+    },
+    {
+      "end": 25389,
+      "excerpt": "Gopi Rangan: Okay. We're coming to the end of our conversation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25326,
+      "timestamps": []
+    },
+    {
+      "end": 25507,
+      "excerpt": "Let's talk about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25391,
+      "timestamps": []
+    },
+    {
+      "end": 25922,
+      "excerpt": "Tanvi Narain: Sure. I'd like to talk about the organization that you know holistically as a team. We've worked with, it's called Transition Play. When we think about bringing non-traditional candidates into venture and giving them access to opportunities in the space, we've actually started working with a found foundation called Transition Play, started by Alana Beard, who is the former two-time WNBA champion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 25509,
+      "timestamps": []
+    },
+    {
+      "end": 26297,
+      "excerpt": "And she created the organization to place former professional female athletes in internship positions within big corporates. The idea is that corporations can take advantage of talent that former professional athletes bring to the workplace, and these are athletes that have operated at the height of their careers and bring a mentality to the workplace that is incredible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25924,
+      "timestamps": []
+    },
+    {
+      "end": 26951,
+      "excerpt": "So we met Alana quite a some time ago when she's working at S P B and now she's started this organization and we've actually taken on a full-time intern for the summer who currently is playing professional basketball in Scotland, Abbie Wolf, and she's got her master's from Northwestern University. And these are candidates that have a great pedigree. They come with sort of such great resilience and they just need the tools and access and experience to enter the corporate world. And so we're very excited to be partnering with, with Alana and Transition Play and hope to continue spreading the word about this wonderful organization to our network. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26299,
+      "timestamps": []
+    },
+    {
+      "end": 27319,
+      "excerpt": "Gopi Rangan: Tanvi, thank you so much for spending time with me. Of course. Thank you for of course, sharing, of course, uh, your personal experience as you transition from the FinTech world into being a generalist investor. Congratulations again on your first investment closing. Your stories have a lot of nuggets of wisdom I will share with the rest of the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26953,
+      "timestamps": []
+    },
+    {
+      "end": 27342,
+      "excerpt": "Thank you very much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27321,
+      "timestamps": []
+    },
+    {
+      "end": 27416,
+      "excerpt": "Tanvi Narain: Thank you so much, Gopi. It was a wonderful conversation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tanvi Narain",
+      "start": 27344,
+      "timestamps": []
+    },
+    {
+      "end": 27707,
+      "excerpt": "Gopi Rangan: Thank you for listening to the Sure Shot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27418,
+      "timestamps": []
+    },
+    {
+      "end": 27760,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27709,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "0a8a11c81b50c7b2084bedc403c76cf86db675c5e4823ef22add8b0c910c9df2",
+  "text_sha256": "8510afc6178ad10d672d9ab92affbf56b99833af6743e4761d100ae27edb89d3"
+}

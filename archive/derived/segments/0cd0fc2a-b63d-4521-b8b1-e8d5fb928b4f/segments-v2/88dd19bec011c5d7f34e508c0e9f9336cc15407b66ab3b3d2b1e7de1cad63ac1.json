@@ -1,0 +1,903 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 255,
+      "excerpt": "I'm so confident they can drop me in Gobi Desert and within three months, I'll be selling something to the locals. I don't know what it is, but I'm pretty sure I'll figure it out and figure out a way to serve an unmet need. That's entrepreneurial mindset.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 515,
+      "excerpt": "[00:00:17] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 257,
+      "timestamps": [
+        {
+          "offset": 257,
+          "raw": "[00:00:17]",
+          "seconds": 17
+        }
+      ]
+    },
+    {
+      "end": 772,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. The guest for today's episode is Naeem Zafar. He is a successful serial entrepreneur, a professor, an author, an advisor, and a mentor to many students, investors, and other entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 517,
+      "timestamps": []
+    },
+    {
+      "end": 1125,
+      "excerpt": "In this episode, Naeem shares his philosophy in business packed with many practical nuggets of wisdom. You will learn how to find a co-founder, what to look for when you form a board of advisors team, why sales is noble but hiring for VP of sales is tough, and many other topics related to his experience in building multiple companies over the years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 774,
+      "timestamps": []
+    },
+    {
+      "end": 1158,
+      "excerpt": "Naeem, tell us about yourself. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1127,
+      "timestamps": []
+    },
+    {
+      "end": 1540,
+      "excerpt": "[00:01:24] Naeem Zafar: Thank you, Gopi. Good to be here. So I was born in Pakistan and I decided to come to the United States to get a degree in electrical engineering. So after Brown University, after graduating, went to Minneapolis to work for Honeywell Research and five years later and a master's degree from University of Minnesota later, I decided to start our own company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 1160,
+      "timestamps": [
+        {
+          "offset": 1160,
+          "raw": "[00:01:24]",
+          "seconds": 84
+        }
+      ]
+    },
+    {
+      "end": 1837,
+      "excerpt": "Four of us started a company. And there was a lesson in what not to do. So although we were got to 44 people and raised $4.5m in funding, the product we came up with had very limited appeal. So we learned a bunch of lessons, what not to do. After selling that company, we came to Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1542,
+      "timestamps": []
+    },
+    {
+      "end": 2196,
+      "excerpt": "So I've been here since then and have worked at different companies. Quickturn Design Systems when public. That was in the design automation space and many other companies in EDA. One company was making a silicon fingerprint sensor, which eventually found its way to Apple and in the iPhone, the fingerprint sensor, which was our technology, we invented it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1839,
+      "timestamps": []
+    },
+    {
+      "end": 2524,
+      "excerpt": "And then also, last company was in mobile security space, we sold that to Oracle. And then I started this TeleSense where we're applying artificial intelligence and IOT to preserve world grain from going bad and reducing spoilage in the supply chain. So in the meantime, I wrote six books and started teaching at universities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2198,
+      "timestamps": []
+    },
+    {
+      "end": 2550,
+      "excerpt": "It's been a lot of fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2526,
+      "timestamps": []
+    },
+    {
+      "end": 2855,
+      "excerpt": "[00:02:48] Gopi Rangan: You've had a colorful journey as an entrepreneur. It's fascinating. I've heard snippets of some of these stories in the past, but I want to start with someone that must have had an impact on you. What impact did they have on you? How did it change the trajectory of your career? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2552,
+      "timestamps": [
+        {
+          "offset": 2552,
+          "raw": "[00:02:48]",
+          "seconds": 168
+        }
+      ]
+    },
+    {
+      "end": 2954,
+      "excerpt": "[00:03:06] Naeem Zafar: The answer is there were several people over the years who have impacted.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 2857,
+      "timestamps": [
+        {
+          "offset": 2857,
+          "raw": "[00:03:06]",
+          "seconds": 186
+        }
+      ]
+    },
+    {
+      "end": 3766,
+      "excerpt": "And although I don't know if anybody I call formally a mentor, but there were several mentors along the way. And my definition of mentor is somebody who takes a unique interest in you as a person, not because they're subject matter expert or the domain expert but because they're interested in you. So I was lucky enough in the early parts of my life to have an uncle who was very well read and always brought me books, you know, some books, like the 100 greatest people in the world, in the history, which I read multiple times or biography of Thomas Edison. So those kind of shaped your early thought process that what do you want to do? What do you want to be? What do you want to look like? But even when I worked in my first job, I remember some senior people who were director level people or head of HR.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2956,
+      "timestamps": []
+    },
+    {
+      "end": 4212,
+      "excerpt": "I was complaining to them about that I'm being held back. I'm not getting promoted fast enough or something like that. And he said to me, and I still remember that it was Mel Giacchisis was his name. He says: if you want to get the next job, next title in your career, start acting like it. Observe what these people to start acting like so when time comes to promote somebody, they look at you said, \"this guy's already been acting that role.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3768,
+      "timestamps": []
+    },
+    {
+      "end": 4646,
+      "excerpt": "So if you want to be a manager, act like a manager, see what they do, how do they speak, how do they measure, how do they compute. And that was extremely good advice. And I still use it and still tell people about it. And there were countless such people along in the journey who contributed to me and said one or two things which have stuck with me. But it also taught me a lesson that, you know, maybe I need to do the same thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4214,
+      "timestamps": []
+    },
+    {
+      "end": 4979,
+      "excerpt": "I need to make these emotional deposits in other people's life without any expectation of reward, journey or money. And once you have made enough deposit. You are able to make a withdrawal, an emotional withdrawal. So when it's time to ask for a favor, you have enough deposit in that bank. And that has also served me pretty well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4648,
+      "timestamps": []
+    },
+    {
+      "end": 5259,
+      "excerpt": "[00:04:57] Gopi Rangan: The concept of emotional deposit is quite interesting. It's a lot easier to ask for favors when we have that deposit with the person. And I know that you've done that. And you've also received a lot of deposits from people who seek to get help from you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4981,
+      "timestamps": [
+        {
+          "offset": 4981,
+          "raw": "[00:04:57]",
+          "seconds": 297
+        }
+      ]
+    },
+    {
+      "end": 5952,
+      "excerpt": "[00:05:13] Naeem Zafar: Exactly. So it's all about making the connection. Because at the end of the day, it's your network which is the real asset you have. It's how many people are willing to come and work with you? And they won't do that if you weren't good to them. Even in today's company, I'm very proud my CTO is a guy who was my CTO two companies ago. He did something else, came back and joined me. My VP of engineering, we went to school together at Brown. My VP of manufacturing, he was the VP of manufacturing when I was VP of marketing 30 years ago. The list is even longer. So all these people who have interacted with me, came back to join me. To me, that's a matter of pride. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 5261,
+      "timestamps": [
+        {
+          "offset": 5261,
+          "raw": "[00:05:13]",
+          "seconds": 313
+        }
+      ]
+    },
+    {
+      "end": 6022,
+      "excerpt": "[00:05:52] Gopi Rangan: What's the secret? Why do people follow you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5954,
+      "timestamps": [
+        {
+          "offset": 5954,
+          "raw": "[00:05:52]",
+          "seconds": 352
+        }
+      ]
+    },
+    {
+      "end": 6083,
+      "excerpt": "Was the CTO waiting for a phone call from you to join you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6024,
+      "timestamps": []
+    },
+    {
+      "end": 6343,
+      "excerpt": "[00:05:59] Naeem Zafar: He was not because he was doing another startup. Actually, when we sold the company to Oracle, he was locked into Oracle for two years, so he couldn't do anything. And then he started another company with one of our other co founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 6085,
+      "timestamps": [
+        {
+          "offset": 6085,
+          "raw": "[00:05:59]",
+          "seconds": 359
+        }
+      ]
+    },
+    {
+      "end": 6785,
+      "excerpt": "But I was patient. I said, look, time will come when it will be the right thing to do. And he started the company, sold that company, and then decided that, \"you know, let's do it together. Let's do something bigger this time.\" So, because you have the trust relationship built over time, and that's what really matters that if you have the trust relationship and you know how that person is going to react, does this person have integrity?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6345,
+      "timestamps": []
+    },
+    {
+      "end": 7162,
+      "excerpt": "Does this person have good work ethic? Because A players can work with anybody. A players will always make a living. Money is not their first priority. They want to work on a problem which is relevant and interesting to them. They want to work with people who are good for them to be with, either from learning point of view, ethics point of view and a journey point of view.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6787,
+      "timestamps": []
+    },
+    {
+      "end": 7270,
+      "excerpt": "Who do you want to travel with? So those are the more important criteria when you're attracting A players.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7164,
+      "timestamps": []
+    },
+    {
+      "end": 7574,
+      "excerpt": "[00:07:01] Gopi Rangan: I've heard you mention this in the past, the liberating power of entrepreneurship, that if you were thrown into Gobi Desert, you don't know how, but you will find a way to build a business. And in six months, you'll be selling something to the locals and you'll be on your feet.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7272,
+      "timestamps": [
+        {
+          "offset": 7272,
+          "raw": "[00:07:01]",
+          "seconds": 421
+        }
+      ]
+    },
+    {
+      "end": 7829,
+      "excerpt": "Is that what you're referring to when you talk about type A or players, they are not people who are after compensation, but they're actually looking for long term impact, and they want to surround themselves with people who will help them achieve that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7576,
+      "timestamps": []
+    },
+    {
+      "end": 7955,
+      "excerpt": "[00:07:31] Naeem Zafar: I think there are two different points. One point is which you alluded to- what is entrepreneurship?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 7831,
+      "timestamps": [
+        {
+          "offset": 7831,
+          "raw": "[00:07:31]",
+          "seconds": 451
+        }
+      ]
+    },
+    {
+      "end": 8278,
+      "excerpt": "Entrepreneurship is a certain mindset where you see opportunities when others see walls and problems. So entrepreneurial mindset goes a long way. So my point I was making in the class, I have said that, that I'm so confident they can drop me in Gobi Desert and within three months I'll be selling something to the locals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7957,
+      "timestamps": []
+    },
+    {
+      "end": 8575,
+      "excerpt": "I don't know what it is, but I'm pretty sure I'll figure it out and figure out a way to serve an unmet need. That's entrepreneurial mindset. I think the second point is different. A players are attracted to other A players. B players attract C players. But A players, they can always make money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8280,
+      "timestamps": []
+    },
+    {
+      "end": 8886,
+      "excerpt": "They will have a good living because they're smart and they're capable. They have work ethic. It's their choice who to work with. First of all, working on the problem, which is relevant to them and speaks to it. And number two the quality of the team, the caliber of the people, and is it fun to be with them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8577,
+      "timestamps": []
+    },
+    {
+      "end": 9201,
+      "excerpt": "So why did Ali come and join me? Because the problem we're solving is a big worldwide huge problem. 22 percent of the grain is wasted and spoiled. If he can save that using intelligent software and high-end sensors, that has an impact worldwide. So the problem was relevant. It's a IOT problem. It's a AI problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8888,
+      "timestamps": []
+    },
+    {
+      "end": 9553,
+      "excerpt": "And then he knew the people, had the trust with the people. He knew that I'll do him good and won't screw him. So that was the reason I think other A players came and decided to join me. Like I said, seven of my students work for me, which have graduated, could have worked anywhere. We are pretty conservative on how we pay people but they're here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9203,
+      "timestamps": []
+    },
+    {
+      "end": 9845,
+      "excerpt": "[00:09:04] Gopi Rangan: That's a strong endorsement of your leadership. If your network grows at the end of a project, then you call it a success. Let me ask you this question: when multiple A players are ready to work for you and join your team, how do you pick the best ones to join you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9555,
+      "timestamps": [
+        {
+          "offset": 9555,
+          "raw": "[00:09:04]",
+          "seconds": 544
+        }
+      ]
+    },
+    {
+      "end": 9913,
+      "excerpt": "[00:09:21] Naeem Zafar: I think you'll have to align a few things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 9847,
+      "timestamps": [
+        {
+          "offset": 9847,
+          "raw": "[00:09:21]",
+          "seconds": 561
+        }
+      ]
+    },
+    {
+      "end": 10299,
+      "excerpt": "The one of the question I ask people is what's driving you? Because where people are in their life, family situation, personal growth, professional growth, people go through stages. So you have to catch people at the right stage with the right motivation. So sometime I've said to people, \"look, love you, great guy. This culture, this company, this problem is not a good fit for you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9915,
+      "timestamps": []
+    },
+    {
+      "end": 10612,
+      "excerpt": "You'll be better off doing something different.\" And by doing that, I have been able to preserve my relationship with them, because later on, when the time was right, when I said this makes sense, then they would have credibility. So you have to have the right people on the bus based on where the bus is going.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10301,
+      "timestamps": []
+    },
+    {
+      "end": 10863,
+      "excerpt": "So I know several people who are great fintech people. They have background in fintech, love fintech. My company, what I'm doing fintech does not have a big play. So although love them, but this is the wrong timing, wrong company, wrong motivation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10614,
+      "timestamps": []
+    },
+    {
+      "end": 11009,
+      "excerpt": "[00:10:18] Gopi Rangan: I see you're looking for strong motivation, good culture fit, and the passion to solve the problem that you're tackling.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10865,
+      "timestamps": [
+        {
+          "offset": 10865,
+          "raw": "[00:10:18]",
+          "seconds": 618
+        }
+      ]
+    },
+    {
+      "end": 11171,
+      "excerpt": "How has your lens of evaluating people changed over the years? Has it evolved over the years as you look for the kind of characteristics you observe in people? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11011,
+      "timestamps": []
+    },
+    {
+      "end": 11624,
+      "excerpt": "[00:10:38] Naeem Zafar: Well, absolutely. In the beginning, we did not even know a lot of these things. This all came through the school of hard knocks. So hope after making every mistake you learn what not to do. So a lot of these things came over time because hardest thing you'll find out doing a startup is the people - people interaction, people management. That will take a lot more time than you think, and it's harder to do than people think. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 11173,
+      "timestamps": [
+        {
+          "offset": 11173,
+          "raw": "[00:10:38]",
+          "seconds": 638
+        }
+      ]
+    },
+    {
+      "end": 11693,
+      "excerpt": "[00:11:02] Gopi Rangan: What is the most difficult thing about it? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11626,
+      "timestamps": [
+        {
+          "offset": 11626,
+          "raw": "[00:11:02]",
+          "seconds": 662
+        }
+      ]
+    },
+    {
+      "end": 11859,
+      "excerpt": "[00:11:04] Naeem Zafar: Well, there may be a couple or three. One of them is the people skills. How do you select right people for the right task at the right time?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 11695,
+      "timestamps": [
+        {
+          "offset": 11695,
+          "raw": "[00:11:04]",
+          "seconds": 664
+        }
+      ]
+    },
+    {
+      "end": 12212,
+      "excerpt": "It is very hard. And the hardest one of them all is salespeople. Because they all look good, they all sell you, and you're easy to be fooled by salespeople, I've found. Because I've made more mistakes hiring the wrong type of salespeople than any other type of people. So, having a feel for your ability to select the right talent is the hardest part.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11861,
+      "timestamps": []
+    },
+    {
+      "end": 12597,
+      "excerpt": "The second thing which I've learned over the years is that it's extremely important to learn the selling skills. You're always selling something, your product, your ideas to an investor, a job offer to a candidate. You're always selling. So how do you sell? And it was not obvious to me. I mean, to me, sell was like fancy talking and convincing people to buy things they don't need.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12214,
+      "timestamps": []
+    },
+    {
+      "end": 12942,
+      "excerpt": "What I really came to realize is selling is very noble. It's like being a doctor, like a physician. And you're diagnosing by listening to the patient and patient's body and diagnosing a possible prescription. So sales is all about listening and analyzing and picking up nuance and subtleties so you can fulfill an unmet need a person may have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12599,
+      "timestamps": []
+    },
+    {
+      "end": 13138,
+      "excerpt": "Whether a person is an investor, a job candidate, a customer, your spouse. So selling skills are much more important and they're not really taught in college. I wish they were, but they're not. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12944,
+      "timestamps": []
+    },
+    {
+      "end": 13175,
+      "excerpt": "So you have to learn it over time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13140,
+      "timestamps": []
+    },
+    {
+      "end": 13405,
+      "excerpt": "[00:12:30] Gopi Rangan: This is fascinating. So selling is a combination of keen listening, deep empathy for the person in front of you, and analytical skills to suggest a solution that improves the way they go about their life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13177,
+      "timestamps": [
+        {
+          "offset": 13177,
+          "raw": "[00:12:30]",
+          "seconds": 750
+        }
+      ]
+    },
+    {
+      "end": 13504,
+      "excerpt": "How did you learn this? Can you reflect on an event or someone that helped you learn this skill? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13407,
+      "timestamps": []
+    },
+    {
+      "end": 13925,
+      "excerpt": "[00:12:51] Naeem Zafar: I don't know I can point to any one person or any one event, but the realization comes to you slowly. So I believe in connecting the dots. To me, the whole life is about connecting enough dots. So as you observe more and more what works in sales, what doesn't work in sales, which people are successful, which people are not, you begin to have enough dots to connect and a clear picture emerges.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 13506,
+      "timestamps": [
+        {
+          "offset": 13506,
+          "raw": "[00:12:51]",
+          "seconds": 771
+        }
+      ]
+    },
+    {
+      "end": 14248,
+      "excerpt": "And I was surprised because when I travel, you know, I was a marketing manager in early part of my career after being an engineer. So some of these very successful salespeople used to take me to customer and I noticed they did almost very little talking. I almost used to think, you know, what are these getting paid for?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13927,
+      "timestamps": []
+    },
+    {
+      "end": 14544,
+      "excerpt": "He just sits there in the back of the room. He's making me do all the talking. But what I realized was, what he's doing is he's observing. When I mentioned about the price is probably $10, 000, he saw a VP of one department wink at the CFO. That's data. He's observing that. Who looked at whom?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14250,
+      "timestamps": []
+    },
+    {
+      "end": 14953,
+      "excerpt": "What was their reaction? When were they comfortable? All that is data. And he's now able to go back and connect the data, and he knows what to do next. So it was so subtle. I didn't realize, and this was enterprise sales at QuickTurn, we'll have like a war room for a company. When we have drawn pictures, like you see this mafia board the FBI would have, like who's the different people, how they interact.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14546,
+      "timestamps": []
+    },
+    {
+      "end": 15262,
+      "excerpt": "We'll have a war room for a company executives. We knew who's looking for a promotion, who is talking to whom, who is jealous of whom. All the data is mapped, planned, And then we go so innocently like we know nothing for the sales meeting. We know a lot more than people think we know as great salespeople.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14955,
+      "timestamps": []
+    },
+    {
+      "end": 15343,
+      "excerpt": "I was fascinated. This is what real enterprise sales look like. I had no idea. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15264,
+      "timestamps": []
+    },
+    {
+      "end": 15578,
+      "excerpt": "[00:14:36] Gopi Rangan: You mentioned something that I made a note of, that in all the types of hiring that you've done, engineering, operations, marketing, and many other things, hiring for sales is the most difficult. Why is that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15345,
+      "timestamps": [
+        {
+          "offset": 15345,
+          "raw": "[00:14:36]",
+          "seconds": 876
+        }
+      ]
+    },
+    {
+      "end": 15655,
+      "excerpt": "[00:14:50] Naeem Zafar: Because, you know, salespeople are good in selling.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 15580,
+      "timestamps": [
+        {
+          "offset": 15580,
+          "raw": "[00:14:50]",
+          "seconds": 890
+        }
+      ]
+    },
+    {
+      "end": 16141,
+      "excerpt": "They sell themselves. And it is hard to measure their skills. For an engineer, you can give them a test and you can see how they react to it and how well they did on the test. marketing, you can tell them to make a presentation to you and you listen to how they pitch. But sales is so much more nuanced and you, till you observe people or even then you're wrong half the time because they're so good at pretending to something or presenting themselves in a way that you fool yourself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15657,
+      "timestamps": []
+    },
+    {
+      "end": 16450,
+      "excerpt": "There was a reason New York Philharmonic start having audition behind a closed curtain because people get influenced by how people look, how they appear. You, we, it pre shapes our opinion and tell people. know exactly how to take advantage of it. So I just need to keep teaching myself that, what do I ask?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16143,
+      "timestamps": []
+    },
+    {
+      "end": 16545,
+      "excerpt": "How do I determine the compatibility of a person? And I'm still learning. I'm not there yet. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16452,
+      "timestamps": []
+    },
+    {
+      "end": 16723,
+      "excerpt": "[00:15:46] Gopi Rangan: The average salesperson wows you very easily. So as a CEO, when you're looking to hire sales, you have to kind of develop your own intuition around it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16547,
+      "timestamps": [
+        {
+          "offset": 16547,
+          "raw": "[00:15:46]",
+          "seconds": 946
+        }
+      ]
+    },
+    {
+      "end": 16888,
+      "excerpt": "[00:15:56] Naeem Zafar: That's hard. So at the end of the day, you know, sometimes you talk to their references and, but even then, you know, that that's not easy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 16725,
+      "timestamps": [
+        {
+          "offset": 16725,
+          "raw": "[00:15:56]",
+          "seconds": 956
+        }
+      ]
+    },
+    {
+      "end": 17236,
+      "excerpt": "I think that's good. CEOs learn over the time, over, over the years, how to come up with a method of selecting good talent. Good talent does not. I mean, one of my favorite book is for example, by a guy named Larry Bossidy. He was the CEO of Honeywell allied signal. I think he wrote a book with the Ram Charan Harvard professor called execution.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16890,
+      "timestamps": []
+    },
+    {
+      "end": 17538,
+      "excerpt": "And I think that's a great book to read. And in that book, and after Jack Welch's book, they talk about the most important person in an organization after the CEO, it was the head of HR because that talent acquisition and talent development becomes a core competence of some of these large companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17238,
+      "timestamps": []
+    },
+    {
+      "end": 17780,
+      "excerpt": "And we saw how many CEOs came out of Jack Welch's factory of executives. So this is all about that skill development and picking up skills and then applying that to execution. The book really goes into that topic in a fair amount of detail.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17540,
+      "timestamps": []
+    },
+    {
+      "end": 17885,
+      "excerpt": "[00:16:54] Gopi Rangan: When you start a new business, you bring on board early believers and advisors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17782,
+      "timestamps": [
+        {
+          "offset": 17782,
+          "raw": "[00:16:54]",
+          "seconds": 1014
+        }
+      ]
+    },
+    {
+      "end": 17984,
+      "excerpt": "And you have done this many times. How do you choose the right kind of people to bring on board? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17887,
+      "timestamps": []
+    },
+    {
+      "end": 18043,
+      "excerpt": "[00:17:05] Naeem Zafar: So there are two types of people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 17986,
+      "timestamps": [
+        {
+          "offset": 17986,
+          "raw": "[00:17:05]",
+          "seconds": 1025
+        }
+      ]
+    },
+    {
+      "end": 18275,
+      "excerpt": "One is your core group. And second is your set of like board of advisors. So core group obviously will need that who is the complementary skill person. So if I'm doing it, okay, I know how to raise money, how to execute a company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18045,
+      "timestamps": []
+    },
+    {
+      "end": 18611,
+      "excerpt": "But I do need somebody with deep technical knowledge, a CTO, VP of engineering, chief scientist type. So that will compliment my lack of those depth when that person can bring that up. Then one of the early person you want to bring in is a product manager or somebody with that knowledge, because somebody who can listen to customers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18277,
+      "timestamps": []
+    },
+    {
+      "end": 19010,
+      "excerpt": "Listen to computation, understand our core competence and articulate what to build with people we love. And that's the job of a product manager. So in the very early days, these are the three types of people have to come together. A business person with execution and fundraising ability, a deep technical person for technology startups, and a product manager who can articulate what market needs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18613,
+      "timestamps": []
+    },
+    {
+      "end": 19328,
+      "excerpt": "That's your core group. So they come in different flavor and changes based on the company, but that's high level. Now we can go to Board of Advisors. I find that people come in five flavors, and ideally you want one from each flavor, but at least three, two or three from them. So somebody who's a technology expert.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19012,
+      "timestamps": []
+    },
+    {
+      "end": 19691,
+      "excerpt": "So you're all about cloud. You need somebody who really understand cloud and can guide you or authentication or whatever, security. Second person is your domain expert. My domain is agriculture, like you post harvest grain. So somebody who understands that ecosystem, knows the people, that's the kind of person who can bring that perspective, the domain angle.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19330,
+      "timestamps": []
+    },
+    {
+      "end": 20009,
+      "excerpt": "The third kind of person you need is who understands your channel. Are you selling online? You're selling through dealers who understand the dealers. They can bring perspective. The fourth person is a personal coach. This person knows nothing about my domain or my technology, but they like me and they can guide me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19693,
+      "timestamps": []
+    },
+    {
+      "end": 20346,
+      "excerpt": "They can tell me the truth when others may not be willing to speak up. And the fifth person is a celebrity. There's somebody who's known in that field. When that person is part of your board, people will be taken seriously. If you were an investor, and I came to you with my startup, and I said, well, let me tell you about my startup.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20011,
+      "timestamps": []
+    },
+    {
+      "end": 20667,
+      "excerpt": "By the way, I have, uh, Mark Zuckerberg and Elon Musk on my advisory board. What will you say? Stop right there. Tell me no more. If those people are willing to be on your advisory board, I want to be in. So this of course, extreme example, but whoever the right celebrities in that industry will immediately turn head.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20348,
+      "timestamps": []
+    },
+    {
+      "end": 20843,
+      "excerpt": "So I remember these five buckets and try to fill these five buckets. And then this is how I'm assembling my early team because that becomes the magnet for all other talents. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20669,
+      "timestamps": []
+    },
+    {
+      "end": 20973,
+      "excerpt": "When you join a startup as an advisor, what role do you prefer to play? I prefer to play the personal coach. Not the celebrity? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20845,
+      "timestamps": []
+    },
+    {
+      "end": 21001,
+      "excerpt": "No, no, not the celebrity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20975,
+      "timestamps": []
+    },
+    {
+      "end": 21396,
+      "excerpt": "Celebrity is somebody, you know, when you say the name people say, so not a celebrity. Celebrity is hard. And celebrity don't do any work either. Celebrities basically allow you to put their name and picture on the website and they're too busy. So now I'm usually personal coach is my favorite role, but I've played other roles in by technology or domain as well, depending on what domain was.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21003,
+      "timestamps": []
+    },
+    {
+      "end": 21721,
+      "excerpt": "[00:20:09] Gopi Rangan: I know your startups activities, the building, the business that you're building, your mentorship activities and the teaching assignments that you pick up keep you quite busy. But in addition to all of these, uh, are you involved in any community activity? Do you want to highlight something to us? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21398,
+      "timestamps": [
+        {
+          "offset": 21398,
+          "raw": "[00:20:09]",
+          "seconds": 1209
+        }
+      ]
+    },
+    {
+      "end": 21768,
+      "excerpt": "[00:20:26] Naeem Zafar: Well, uh, yeah, sure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 21723,
+      "timestamps": [
+        {
+          "offset": 21723,
+          "raw": "[00:20:26]",
+          "seconds": 1226
+        }
+      ]
+    },
+    {
+      "end": 22193,
+      "excerpt": "Uh, I know Thai is a good one. Thai is the Indus entrepreneur. It was founded in Silicon Valley 25 years ago by some successful entrepreneurs who have exited and made some money. Thank you. And now it is in 14 countries and have like 65 chapters and it's a non profit. The whole purpose is to foster entrepreneurship through giving advice as well as mentorship, as well as support to other entrepreneurs and, and grow that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21770,
+      "timestamps": []
+    },
+    {
+      "end": 22520,
+      "excerpt": "And I've been very active member for the last 25 years. I'm a charter member actually. Open Silicon Valley is similarly an organization of Pakistani entrepreneurs. Similar goals, except they go beyond entrepreneurship, even corporate development. I was a president of Open for two years and then I was chairman for six years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22195,
+      "timestamps": []
+    },
+    {
+      "end": 22849,
+      "excerpt": "So this is just two, but there I'm involved with several others. I'm the president of Brown University Club of Silicon Valley, founding president and chairman now. So there are many, many organizations with youth groups. And that really makes good way to network, good way to have fun, and good way to add value to the society.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22522,
+      "timestamps": []
+    },
+    {
+      "end": 23231,
+      "excerpt": "[00:21:32] Gopi Rangan: I've seen you get personally excited to support students in many situations, and as a mentor, I've watched that in person, one on one directly with you. I'm very thankful to you today for sharing all your perspectives on business and your life, starting from the days in Pakistan, on how you build many businesses, and the most important skill as a leader.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22851,
+      "timestamps": [
+        {
+          "offset": 22851,
+          "raw": "[00:21:32]",
+          "seconds": 1292
+        }
+      ]
+    },
+    {
+      "end": 23594,
+      "excerpt": "is that you need to learn how to hire a talent and groom. And that is something that's critical. The part that really stood out for me is your comment on emotional deposit. How you do favors to people, contribute to the overall ecosystem before you begin to ask for help and generate returns. So thank you so much for sharing your personal stories and insights.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23233,
+      "timestamps": []
+    },
+    {
+      "end": 23649,
+      "excerpt": "And this has been a fascinating conversation for me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23596,
+      "timestamps": []
+    },
+    {
+      "end": 23699,
+      "excerpt": "[00:22:24] Naeem Zafar: Gopi. Pleasure to be on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Naeem Zafar",
+      "start": 23651,
+      "timestamps": [
+        {
+          "offset": 23651,
+          "raw": "[00:22:24]",
+          "seconds": 1344
+        }
+      ]
+    },
+    {
+      "end": 24053,
+      "excerpt": "[00:22:28] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23701,
+      "timestamps": [
+        {
+          "offset": 23701,
+          "raw": "[00:22:28]",
+          "seconds": 1348
+        }
+      ]
+    }
+  ],
+  "source_sha256": "88dd19bec011c5d7f34e508c0e9f9336cc15407b66ab3b3d2b1e7de1cad63ac1",
+  "text_sha256": "47dbdb8e2b39945723dafe6f4596a97dde0b0714191756259d10f1892bc09d02"
+}

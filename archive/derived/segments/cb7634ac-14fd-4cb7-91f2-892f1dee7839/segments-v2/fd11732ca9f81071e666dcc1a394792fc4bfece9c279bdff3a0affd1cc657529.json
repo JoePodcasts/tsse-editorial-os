@@ -1,0 +1,1041 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 298,
+      "excerpt": "I'm telling all founders to go through an intellectual exercise. Whether you raise $200,000, $2 million, $20 million, what would you do if you could never raise capital again? This is a thought exercise where I feel like that's probably good hygiene to go through that kind of intellectual inquiry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 892,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. Today's episode is with Semil Shah. He's a general partner at Haystack Ventures. We're gonna talk to him about how he invests in founders, what he looks for, especially at early stages, what kind of founders he likes to invest in, and he's had a tremendous track record investing in some amazing companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 300,
+      "timestamps": []
+    },
+    {
+      "end": 988,
+      "excerpt": "We'll get to see some examples of that as well. Semil, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 894,
+      "timestamps": []
+    },
+    {
+      "end": 1029,
+      "excerpt": "Semil Shah: Hey, thanks for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 990,
+      "timestamps": []
+    },
+    {
+      "end": 1182,
+      "excerpt": "Gopi Rangan: You grew up in the New York, Connecticut area, and now you have converted your loyalty to the West coast. How did that transition happen? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1031,
+      "timestamps": []
+    },
+    {
+      "end": 1699,
+      "excerpt": "Semil Shah: I moved from NYC right before September 11th, so I was living in New York City for about maybe a little under three years and graduated from college so that I would go to law school. I decided against that; wanted to always move to California. That seemed like a good time, and I moved out here. But the world really changed. I didn't really have a career or anything that I was pursuing. Great intent here, and I was just living in San Francisco from like 2001 to 2006, honestly, kinda floating around.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 1184,
+      "timestamps": []
+    },
+    {
+      "end": 2089,
+      "excerpt": "I was a cook for a while. I thought I would go into cooking. I got into really interested in economic development, so I worked at a nonprofit. Then I thought I would go to graduate school and get further in economic development and go to Asia. At the end I'm compressing a lot of history, but just tired of going to Asia, honestly, and working there and wanted to move back to California.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1701,
+      "timestamps": []
+    },
+    {
+      "end": 2122,
+      "excerpt": "So moved back to the Bay Area. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2091,
+      "timestamps": []
+    },
+    {
+      "end": 2518,
+      "excerpt": "Gopi Rangan: The world was your oyster. You considered so many different choices. In the end, you decided to build this career in venture capital investments. That's pretty much kind of what you have done. There's nothing else, like maybe you dabbled in cooking, share the chef carrier a little bit, and economic development, but investing in startups is where you've spent most of your career.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2124,
+      "timestamps": []
+    },
+    {
+      "end": 2540,
+      "excerpt": "Why is it exciting? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2520,
+      "timestamps": []
+    },
+    {
+      "end": 2970,
+      "excerpt": "Semil Shah: Yeah, I mean, I haven't really had a career, so to speak, except doing this. You're right. So it's been about a little under 10 years and it wasn't super intentional. I was just trying to invest in startups and see. I didn't have a grand plan. Why do I like it? I feel like it's a rule that sort of suits my personality of like being curious, wanting to meet creative people, wanting to identify new creative people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 2542,
+      "timestamps": []
+    },
+    {
+      "end": 3588,
+      "excerpt": "I like the game aspect of that, and I like the stage of doing it early where it's more about the person and their history and where they could go versus trying to assess like a spreadsheet or a graph of information. Mm-hmm. , I can do that, but it's just not as interesting. And I feel like it's a great opportunity and you know, we've been able to succeed at this is like meeting people super early when they don't have much, and then seeing them become like a public company is pretty wild. It's not something I could do myself. So I feel like just being close to it is sort of a gift if you have the opportunity. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2972,
+      "timestamps": []
+    },
+    {
+      "end": 3788,
+      "excerpt": "Gopi Rangan: And you've been through journeys with companies all the way going to public, like OpenDoor and DoorDash and many others that have become huge like Instacart and Figma, Carta and others.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3590,
+      "timestamps": []
+    },
+    {
+      "end": 3942,
+      "excerpt": "But let's dial back to that point in time when you actually meet these founders for the first time. What happens in that meeting? What do you ask them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3790,
+      "timestamps": []
+    },
+    {
+      "end": 4184,
+      "excerpt": "Semil Shah: Well, it's so many things. What I try to say at a high level is like, I need about three hours of conversation with someone to be able to build a picture of who I think they are and what I think they're doing with their product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 3944,
+      "timestamps": []
+    },
+    {
+      "end": 4505,
+      "excerpt": "And you know, I get it wrong quite a bit, but in that three hours of conversation, it can mix through personal, historical, technical to business models. So it can really meander across different topics. But if I have three hours of someone, I have a pretty good sense of whether I find an interesting person to invest.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4186,
+      "timestamps": []
+    },
+    {
+      "end": 4717,
+      "excerpt": "Gopi Rangan: How does it usually start? Is it with a 30-minute call to kind of debrief and catch up what the business is about and then the next meeting is an in-person meeting, or do you do a 3-hour onslaught?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4507,
+      "timestamps": []
+    },
+    {
+      "end": 5148,
+      "excerpt": "Semil Shah: No, it's three hours of conversation. It can be phone, in person, zoom, and there has to be some time between the conversation so I can digest it. I like the person to also ask me questions or ask questions, so to speak. So, I need it to be a two-way street. Cause I think it also shows how they're thinking or what they care about. It doesn't need to be super deep, but I feel like that's a good healthy checkpoint. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 4719,
+      "timestamps": []
+    },
+    {
+      "end": 5300,
+      "excerpt": "Gopi Rangan: Can we take an example of one of these investments? What happened in that first meeting? What did you ask them and how did they respond? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5150,
+      "timestamps": []
+    },
+    {
+      "end": 5861,
+      "excerpt": "Semil Shah: Usually in the first meeting now where entrepreneur has something going, I'll ask quick questions to test thinking around something and how they respond. Their product could be about their market. It could be like, \"Oh, I've seen five companies do this and it seems like this is the problem. How do you think about that? How do you get around it?\" And if it's a really interesting conversation in the first half hour, I'll usually say like, \"Hey, let's book an hour and I'm gonna think of a few questions and send them to you and you do the same.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 5302,
+      "timestamps": []
+    },
+    {
+      "end": 6275,
+      "excerpt": "I find that that creates a nice joint pathway of exploring a second conversation better. And then, we try to be super transparent with the founders and say, \"after this we would do one more meeting and referencing. Once we do the referencing, we'll get you an answer in 20 hours.\" We try to tell them as soon as possible whether we're interested or we're thinking about it more or we're probably not interested. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5863,
+      "timestamps": []
+    },
+    {
+      "end": 6371,
+      "excerpt": "Gopi Rangan: Can you take the example of one of your companies... how early did you meet them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6277,
+      "timestamps": []
+    },
+    {
+      "end": 6675,
+      "excerpt": "Semil Shah: There's certain cases where we'll invest in someone because we know they can build and ship software at scale and they've already proven they can do that and they have insights. But generally, most of the people we invest in have already broken on the code for the product they wanna build.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 6373,
+      "timestamps": []
+    },
+    {
+      "end": 7503,
+      "excerpt": "I'll give you an example of one of our most important companies, and maybe people don't realize, is that this company called Ironclad. Ironclad is based in San Francisco. We've been an investor in every round of the company seed through Series D, Series E, maybe. The founder has an exceptional personal story; learned how to code because he saw a problem while he was working at this law firm. He went through a Combinator and brings a precision and intellect of a great legal mind with the tenacity and commercial instincts of a technology entrepreneur. And so in the three hours of conversation it was super exciting. Even though I told him I thought the category was sort of annoying, , it wasn't that exciting. He was so exciting that I got interested in it and it's turned out to be great company and great partnership. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6677,
+      "timestamps": []
+    },
+    {
+      "end": 7591,
+      "excerpt": "Gopi Rangan: Legal is kind of the sleepy part of the world where tech is not adopted. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7505,
+      "timestamps": []
+    },
+    {
+      "end": 7839,
+      "excerpt": "Semil Shah: What's funny is he said that like a lot of the employees in legal departments at big companies need to collaborate more on documents and so during the pandemic you could see how that went from being a nice to have to, a need to have. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 7593,
+      "timestamps": []
+    },
+    {
+      "end": 7941,
+      "excerpt": "Gopi Rangan: That digital transformation was accelerated during the pandemic and they had to change.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7841,
+      "timestamps": []
+    },
+    {
+      "end": 8034,
+      "excerpt": "Semil Shah: Yeah, they were growing before, but I think it just really kicked in the gear. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 7943,
+      "timestamps": []
+    },
+    {
+      "end": 8218,
+      "excerpt": "Gopi Rangan: At the time when you made the investment, that wouldn't have been apparent to you, the pandemic didn't happen, and you heard the story from Jason. What did you ask him? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8036,
+      "timestamps": []
+    },
+    {
+      "end": 8440,
+      "excerpt": "Semil Shah: I asked him like, why you saw this problem, why he left the law firm (cause he was working at like a very well known law firm), why he thought this was a bigger problem to solve, why he was excited about it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 8220,
+      "timestamps": []
+    },
+    {
+      "end": 8485,
+      "excerpt": "Gopi Rangan: So that 'why' matters to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8442,
+      "timestamps": []
+    },
+    {
+      "end": 8791,
+      "excerpt": "Semil Shah: Yeah. Where did the idea come from and or germinate from is important. Like where was it hatched? Why are you doing this versus other things as important. We ask lots of questions in the three hours. So when you ask me like, what do you ask them? It's like we could spend three hours asking. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 8487,
+      "timestamps": []
+    },
+    {
+      "end": 9075,
+      "excerpt": "Gopi Rangan: We're getting into a lot of specific details. This is awesome. You're giving real examples of conversations that happened. What advice would you give founders, especially founders that don't have an existing network with VCs, they're kind of new to this whole VC world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8793,
+      "timestamps": []
+    },
+    {
+      "end": 9156,
+      "excerpt": "What's the best way to prepare and make that first meeting with you effective? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9077,
+      "timestamps": []
+    },
+    {
+      "end": 9488,
+      "excerpt": "Semil Shah: Yeah, I think right now there's really no excuse for any founder to not be prepared to go interface with an investor. So to me, I take the approach of like, \"Hey, if you don't know how to do it and you haven't used the internet to acclimate yourself and learn how to go do it, then you're probably not cut out for it.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 9158,
+      "timestamps": []
+    },
+    {
+      "end": 9897,
+      "excerpt": "Right? So that would be number one. Number two would be sort of orthogonal to this, which is instead of trying to encourage people to like believe in you or notice you, why not do something where they reach out to you? There are so many investors now who just wanna deploy capital and are looking for products and things that are working and looking for new investments they can make with a low entry price.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9490,
+      "timestamps": []
+    },
+    {
+      "end": 9981,
+      "excerpt": "So, why not do something and evangelize it on the internet so people come to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9899,
+      "timestamps": []
+    },
+    {
+      "end": 10309,
+      "excerpt": "So 1). There's enough information online just in Y Combinator and first round review and YouTube that she should be able to orient yourself on how to go. I think everyone is connected now to everyone, so someone should be able to introduce you or in lieu of that, just hop on a plane and go to New York or go to San Francisco.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9983,
+      "timestamps": []
+    },
+    {
+      "end": 10729,
+      "excerpt": "And again, I realize that that part requires some money and travel expense and everything like that, but I also feel like it's not that much. And now with video and everything, and I think also like a lot of people who are looking for investment like should flip the script and say, \"How do I make people come to me?\" I think by making people come to me, it is like you have something out there that people are using. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10311,
+      "timestamps": []
+    },
+    {
+      "end": 10981,
+      "excerpt": "The last 10 years we kind all got drunk on just investing in people who don't have anything yet, or those people looking for investment. But really venture capital should be for put into things, in most cases, working already out in the wild already.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10731,
+      "timestamps": []
+    },
+    {
+      "end": 11469,
+      "excerpt": "The first thing is, The world is at a point where it's easy to research anything that you want using the internet. Use that power to research VCs first. And the second is, well, there's one approach where you can try to get a warm introduction and connect with the VC. That's one way to do it. But the alternate is try to build something, show a lot of signals where the investors will get attracted to you, and that might be a better way to approach a VC or get the VC to approach you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10983,
+      "timestamps": []
+    },
+    {
+      "end": 11864,
+      "excerpt": "And the best way is to have your product or service be used by the portfolio company of another VC. The best VCs are trained to know that they can be fooled by founders, but if their portfolio companies are customers of a product or service, they're less likely to be fooled. This is a famous Paul Graham quote where he tells founders that you can fool investors, but you can't fool customers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11471,
+      "timestamps": []
+    },
+    {
+      "end": 11996,
+      "excerpt": "And so if you have a product or service that's being used by a portfolio company of another VC, that should be a slam dunk intro. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11866,
+      "timestamps": []
+    },
+    {
+      "end": 12194,
+      "excerpt": "Gopi Rangan: The first meeting when you meet a founder who you don't know, the product that you're not familiar with, your radar goes up and you're trying to see if this is really worth it or not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11998,
+      "timestamps": []
+    },
+    {
+      "end": 12417,
+      "excerpt": "And when a founder comes through an introduction through one of your portfolio companies, then you can bring that guard down and be more open to talking about what the business is going to do. You don't need to be cagey. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12196,
+      "timestamps": []
+    },
+    {
+      "end": 12632,
+      "excerpt": "Semil Shah: Yeah, it's more just like relevance. But I think also how are we as investors gonna help if you don't have something that people are using already? Even if it's just one person, how are we gonna help? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 12419,
+      "timestamps": []
+    },
+    {
+      "end": 12734,
+      "excerpt": "If you can get any one of the following, it's great. If you can get someone to really recommend you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12634,
+      "timestamps": []
+    },
+    {
+      "end": 13148,
+      "excerpt": "It's not like an intro, it's like, Hey, I worked with this person, you know, or I've seen them progress since high school. Or you know, just something where you get like an unusual introduction really helps, I think having something to talk about or that something people are using. Having it be really unique or like hard to copy or explain is great because people are always curious, like VCs are very curious.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12736,
+      "timestamps": []
+    },
+    {
+      "end": 13526,
+      "excerpt": "So I think doing any of these things is great or just literally coming here and showing up and like, you know, you can get an Airbnb somewhere around here for cheap and you just hustle your way in to like get to meet people. I'm always amazed at how people who can do that don't do that. And I don't mean to say that everyone can do that. I realize some people can't do that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13150,
+      "timestamps": []
+    },
+    {
+      "end": 13694,
+      "excerpt": "Gopi Rangan: But you kind of did that, Like you packed your bags, moved to the west coast, pitched a tent in Silicon Valley, built your career over the past 10 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13528,
+      "timestamps": []
+    },
+    {
+      "end": 13851,
+      "excerpt": "I go back and forth on this because I think I'll make both cases, but one case is like, Oh, that's a survivorship bias thing, and it shouldn't be that way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13696,
+      "timestamps": []
+    },
+    {
+      "end": 14097,
+      "excerpt": "Semil Shah: And a lot of people make that argument. I reject that argument, honestly. I think of it more as like it's possible and if you're not willing to take some risk to make happen what you wanna have happen, you shouldn't be in the game. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 13853,
+      "timestamps": []
+    },
+    {
+      "end": 14244,
+      "excerpt": "Gopi Rangan: It's kind of expected that you need that skill to be successful, so you might as well exhibit that skill early on for others to see.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14099,
+      "timestamps": []
+    },
+    {
+      "end": 14553,
+      "excerpt": "This is super interesting. We've talked about how to approach and how to get that first meeting. What's the best way for founders to make that first meeting effective? Do they talk about product? Do they talk about their personal journey? Do they talk about how big the market is? What gets your attention? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14246,
+      "timestamps": []
+    },
+    {
+      "end": 14923,
+      "excerpt": "Semil Shah: There's no specific thing. I think it's just like good conversation. When we raise funds now and limited partners ask us questions, sometimes when people are in the room with me, they're like, Whoa, how did you answer three hours of questions with like no reference to anything or no preparation? And it's like, Well, this is what I do every day for years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 14555,
+      "timestamps": []
+    },
+    {
+      "end": 15302,
+      "excerpt": "I don't have to prepare for it. And. I'm not saying that entrepreneurs should do the same thing, but there should be a level of like, I've already thought through so much of this stuff that it's apparent in a first conversation. So I would just say like one is like they should have thought through certain basic things that they're not caught off guard in an investor meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14925,
+      "timestamps": []
+    },
+    {
+      "end": 15962,
+      "excerpt": "Or if it's one of their first investor meetings and they don't know, I think it's totally okay to say, \"Hey Gopi, I wanna meet you. I built this product. I wanna just tell you up front, I don't know a lot about venture and a lot about how venture capital works. And so could you spend five minutes, Like could we set an agenda for this call so I can walk you through and give you the information you need.\" That would be better than just talking about TAM and talking about this and that and flailing all over the place. Cause it's showing you respecting the time and you wanna get something out of it and you want the other person to get something outta it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15304,
+      "timestamps": []
+    },
+    {
+      "end": 16227,
+      "excerpt": "So I think that's a good tactic to just say, \"Hey, what if we talk about like, where did the idea come from? How are people using it today? Where do we wanna take it? And then turn it into a conversation.\" You know, I think there are multiple ways of doing this. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15964,
+      "timestamps": []
+    },
+    {
+      "end": 16303,
+      "excerpt": "Gopi Rangan: The conversation matters to you. Articulation matters to you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16229,
+      "timestamps": []
+    },
+    {
+      "end": 16661,
+      "excerpt": "Semil Shah: Yes. Because remember these are proxies for other things. The VC is looking at you and saying, \"Okay, how are they going to present information to a customer? How are they going to recruit a candidate, How are they going to negotiate a contract? How are attention of someone in the elevator for 30 seconds?\" You're doing that all in the pitch. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 16305,
+      "timestamps": []
+    },
+    {
+      "end": 16864,
+      "excerpt": "Gopi Rangan: If they need to go out and rehearse every time, that's not an effective way to build a business. So they need to have kind of embodied what they are building and be able to talk about it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16663,
+      "timestamps": []
+    },
+    {
+      "end": 16970,
+      "excerpt": "Semil Shah: Yeah, I think of it as like if they're true to who they are, then it should be pretty easy. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 16866,
+      "timestamps": []
+    },
+    {
+      "end": 17055,
+      "excerpt": "Gopi Rangan: So you don't care about pretty slight decks or six page Notion pages. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16972,
+      "timestamps": []
+    },
+    {
+      "end": 17197,
+      "excerpt": "Semil Shah: I mean, those help because they show the fact that someone has thought through something and how they structure the information.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 17057,
+      "timestamps": []
+    },
+    {
+      "end": 17495,
+      "excerpt": "We care about how does someone present and structure information. But I don't really care what format that is. But I think there's some formats where you could just tell the entrepreneur and be like, I don't really think you put your best foot forward with this, you know? But that's up to them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17199,
+      "timestamps": []
+    },
+    {
+      "end": 17659,
+      "excerpt": "Gopi Rangan: You mentioned a little earlier that one way for you to find good startups is for you to reach out to them directly, not wait for them to come to you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17497,
+      "timestamps": []
+    },
+    {
+      "end": 17720,
+      "excerpt": "Can you give an example of a situation where you did that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17661,
+      "timestamps": []
+    },
+    {
+      "end": 18023,
+      "excerpt": "Semil Shah: Yeah, I mean it's sort of ebbed and flowed over the years, but probably the one you know that I think about the most is like I had to fight to get into Carta and I really banged on Henry's door a lot and eventually he relented and said, \"Hey, I know you really want to invest, Let's meet.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 17722,
+      "timestamps": []
+    },
+    {
+      "end": 18352,
+      "excerpt": "And he said confidentially, \"we're doing this series A round\" and we were able to invest. Again, I probably should be doing more of that. Honestly, I think the network has been so generous to me that like I filter from what the network brings me and so I go back and forth as like what's the optimal thing to do? I don't know. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18025,
+      "timestamps": []
+    },
+    {
+      "end": 18625,
+      "excerpt": "Gopi Rangan: Well, most VC deal flow is inbound. There are some VCs that actively do outbound outreach, but let's talk about Henry Ward and Carta. It's a great example of a story that was kind of non-obvious. What got you interested? What got your attention about Carta? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18354,
+      "timestamps": []
+    },
+    {
+      "end": 19227,
+      "excerpt": "Semil Shah: That's what's funny because what I thought was interesting about what Carta could be never really happened. It's kind of bizarre but essentially I thought that one of the problems around stock certificates and like the management of them, I had thought Carta would be interesting. And then I thought this type of ledger, like the investment ledger cap table where you can't fire your equity investors should be on a blockchain-like technology, because actually if you think about stock certificates, someone still needs to hold your physical stock certificate. It's kind of weird, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 18627,
+      "timestamps": []
+    },
+    {
+      "end": 19293,
+      "excerpt": "Gopi Rangan: That's how the world was. Lawyers used to do that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19229,
+      "timestamps": []
+    },
+    {
+      "end": 19496,
+      "excerpt": "Yeah. So I thought, oh, blockchain this. It should be like in here and like that's the direction Carta could go. I think they might do over Figma-type revenue without having done the blockchain piece..",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19295,
+      "timestamps": []
+    },
+    {
+      "end": 19853,
+      "excerpt": "I became a huge champion for Carta. It was called eShares at that time, just as a customer, I ended up educating and converting lawyers to adopt eShares. I never met her or never invested in Carta, but that's the kind of product that they were building. It solved such a huge pain point for people that customers became evangelists for the product itself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19498,
+      "timestamps": []
+    },
+    {
+      "end": 19879,
+      "excerpt": "Semil Shah: Absolutely. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 19855,
+      "timestamps": []
+    },
+    {
+      "end": 19948,
+      "excerpt": "Gopi Rangan: How many companies do you invest in a year on average?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19881,
+      "timestamps": []
+    },
+    {
+      "end": 20092,
+      "excerpt": "Semil Shah: It's like 10 to 20 with like 10 to 15 being core where we say we want to own 10 to 15% to start, and then a few discovery checks. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 19950,
+      "timestamps": []
+    },
+    {
+      "end": 20211,
+      "excerpt": "Gopi Rangan: It's about three or four companies per quarter. What stage do you invest? What's the sweet spot for you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20094,
+      "timestamps": []
+    },
+    {
+      "end": 20548,
+      "excerpt": "Semil Shah: What we say is like for what the market would consider as like a big branded series A, so anything before. We recently just did a seed extension where the team was experiencing growth and we had access to it and we did it. And you know, I think the series A will be pretty big, but our job is to invest before the series A.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 20213,
+      "timestamps": []
+    },
+    {
+      "end": 20875,
+      "excerpt": "Gopi Rangan: Pre-seed stage, seed stage, pre-series A stage, anywhere in those areas. We're in a weird market right now. We should talk about what's happening and how founders can prepare. Things are changing. It's not the same as it was a year ago. The market's volatile. A lot of things have slowed down in venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20550,
+      "timestamps": []
+    },
+    {
+      "end": 21060,
+      "excerpt": "It's harder to fundraise now, definitely at later stages, but how do you see the market at your stage, where you invest? What's your advice to founders raising seed round of funding? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20877,
+      "timestamps": []
+    },
+    {
+      "end": 21203,
+      "excerpt": "Semil Shah: My advice is that every round of funding now will require the demonstration of enterprise value inflection in like multiple ways.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 21062,
+      "timestamps": []
+    },
+    {
+      "end": 21452,
+      "excerpt": "I think before people were willing to give you the benefit of the doubt that you'll do X, Y, or Z, and now they want to see X, Y, and Z happen. And so to me, the nature of the checkpoint has permanently shifted, which is I think healthy, frankly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21205,
+      "timestamps": []
+    },
+    {
+      "end": 21699,
+      "excerpt": "Gopi Rangan: Yeah. In a hype world, it's easy to get people excited about a story. But now practical traction matters. Goals matter. The leap of faith to believe that something the market might arrive or customers might buy is not easy to sell. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21454,
+      "timestamps": []
+    },
+    {
+      "end": 21886,
+      "excerpt": "Semil Shah: Yeah, I mean, everyone got a little drunk on speculation and everyone committed these kind of sins. Now there'll be like a real checkpoint when you raise additional capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 21701,
+      "timestamps": []
+    },
+    {
+      "end": 22202,
+      "excerpt": "So like if I'm a founder, I'm really thinking through, \"Okay, I've raised 2 million to start. This is great. How do I keep that money as dry powder in order to nail these two or three value inflection points for the enterprise so that I can go to Gopi or I can go to Semil and say, Hey, we accomplish X, Y, and Z.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21888,
+      "timestamps": []
+    },
+    {
+      "end": 22496,
+      "excerpt": "By the way, you have to set the right milestones too. Assuming you set the right milestones, then its like, \"Okay, how do I go make it happen?\" Before, I think people were willing to speculate on those things, but now I think they even wanna see it done and even wait a little bit afterwards.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22204,
+      "timestamps": []
+    },
+    {
+      "end": 22609,
+      "excerpt": "Gopi Rangan: Hard times indeed for founders. It's much harder to raise money now than it was a few months ago. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22498,
+      "timestamps": []
+    },
+    {
+      "end": 22944,
+      "excerpt": "Semil Shah: I will say also that like the hard times is more of like the change in sentiment. Like there's still a ton of capital out there and it's still a great time to raise and that's what people don't realize. So I think it's just gonna be harder for people who don't have the goods, and that's probably how it should have been.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 22611,
+      "timestamps": []
+    },
+    {
+      "end": 23340,
+      "excerpt": "Gopi Rangan: A lot of VC funds have raised funds over the past couple of years, and there's a lot of dry powder waiting on the sidelines. But when you invest at seed stage, do you advise founders to plan in such a way that after Series A, they aim for cash flow break even, or do you tell founders that after c a you continue to grow, don't worry about profitability anytime in the near future?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22946,
+      "timestamps": []
+    },
+    {
+      "end": 23358,
+      "excerpt": "Has it changed? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23342,
+      "timestamps": []
+    },
+    {
+      "end": 23738,
+      "excerpt": "Semil Shah: I think it's a little bit of like both where you want your founders to be commercially minded so you won't always have a commercial lens to like how you're gonna turn the creation into an engine. That being said, I think organic usage and growth and engagement of a product early matters more than the total value extraction in terms of money you can take out early.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 23360,
+      "timestamps": []
+    },
+    {
+      "end": 24133,
+      "excerpt": "So it's this balance between demonstrating that you as a team and product leaders have the commercial gene to go turn on the spigot when you need to, but actually it's more about getting the engine going. And so that's how we advise people, right? Like I don't think the nature of these software businesses will change where like the revenue ramp and the compounding revenue will happen later.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23740,
+      "timestamps": []
+    },
+    {
+      "end": 24499,
+      "excerpt": "That being said, I'm also telling our founders to go through an intellectual exercise. Whether you raise hundred million, 20 million, what would you do if you could never capital again? This is a thought exercise where I feel like that's probably good hygiene to go through that of intellectual inquiry. What would you do if you couldn't raise capital ever again? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24135,
+      "timestamps": []
+    },
+    {
+      "end": 24545,
+      "excerpt": "Gopi Rangan: That's a good thought exercise.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24501,
+      "timestamps": []
+    },
+    {
+      "end": 24646,
+      "excerpt": "The commercial engine they build today is going to create enterprise value tomorrow, in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24547,
+      "timestamps": []
+    },
+    {
+      "end": 24856,
+      "excerpt": "Semil Shah: I would also say that if you're a founder and you don't wanna go through that exercise just for the intellectual pursuit of just seeing, what would that be like? Probably not cut out for the role.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 24648,
+      "timestamps": []
+    },
+    {
+      "end": 25029,
+      "excerpt": "Gopi Rangan: It might be a real situation. What if fundraising becomes really difficult in 2023 and 2024? You may not be able to raise the kind of money that they expect. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24858,
+      "timestamps": []
+    },
+    {
+      "end": 25289,
+      "excerpt": "Semil Shah: Yeah, and I'm not even making a comment about the fundraising environment. I'm just saying if Gopi, you have a company, what if you just spent an entire weekend thinking through, what would you do with your company if you could never raise again?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 25031,
+      "timestamps": []
+    },
+    {
+      "end": 25422,
+      "excerpt": "Gopi Rangan: The scenario planning mindset is important, which will be helpful in various other situations in the company as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25291,
+      "timestamps": []
+    },
+    {
+      "end": 25445,
+      "excerpt": "Semil Shah: Exactly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 25424,
+      "timestamps": []
+    },
+    {
+      "end": 25629,
+      "excerpt": "Gopi Rangan: You're a solo GP in the fund, and so am I. What are the advantages for a founder when they work with someone like you versus a partnership with like two or three people?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25447,
+      "timestamps": []
+    },
+    {
+      "end": 25915,
+      "excerpt": "Semil Shah: We have a team, but just briefly on this, I would say that it's a pretty small team and. This is all we do is early stage investing, so we're pretty focused on it and we have a pretty good graduation rate to like top tier firms over the last decade and IPOs and big exits.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 25631,
+      "timestamps": []
+    },
+    {
+      "end": 26262,
+      "excerpt": "So I feel like once we make an investment in somebody, they're gonna get put on radar for other people and that creates like more likelihood that they'll be able to convert. Because really, like very few entrepreneurs can take $500K or $2 million and turn it into a big company. You really need to get like a big $20 million check at some point.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25917,
+      "timestamps": []
+    },
+    {
+      "end": 26441,
+      "excerpt": "I feel like we're in business cause people don't wanna give $20 million checks away, so they have to go through a checkpoint. And so that checkpoint creates opportunity for us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26264,
+      "timestamps": []
+    },
+    {
+      "end": 26738,
+      "excerpt": "Gopi Rangan: You invest before the checkpoint and you act as a strong signal. Sequoia is invested in six of your startups and many other large firms have followed on after you. That is something that founders can benefit when they work with you. You can be a strong signal for future investors. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26443,
+      "timestamps": []
+    },
+    {
+      "end": 27076,
+      "excerpt": "Semil Shah: Yeah, I mean, the signal only matters so much. I think it's also like the guidance, right? Where we're being super direct with people. We've seen like the patterns of what gets funded and what's successful, and so we can share that with an entrepreneur in real time and we can help in situations where things don't work out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 26740,
+      "timestamps": []
+    },
+    {
+      "end": 27341,
+      "excerpt": "Again, I don't think what we do is like that unique or special. I think if anything is special about it, it's just small, constrained, consistent, and I think people find comfort in that more than saying it's like the best thing ever. It's just more comfortable. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27078,
+      "timestamps": []
+    },
+    {
+      "end": 27517,
+      "excerpt": "Gopi Rangan: And you exclusively play in this space, so you know what it takes to build a successful company at seed stage, and you share that knowledge and wisdom with them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27343,
+      "timestamps": []
+    },
+    {
+      "end": 27620,
+      "excerpt": "Semil Shah: Yeah, I think the value inflection points that we see and observe are pretty consistent. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 27519,
+      "timestamps": []
+    },
+    {
+      "end": 27775,
+      "excerpt": "Gopi Rangan: We're coming towards the end of our conversation. I have a couple of questions for you. Let's talk about cooking. What do you like to cook? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27622,
+      "timestamps": []
+    },
+    {
+      "end": 28114,
+      "excerpt": "Semil Shah: I love cooking. For me, it's a mood based thing. And so I will start thinking about something and then I'll watch a couple YouTube videos during the week just to relax and try to see how someone does X and then I'll do it on my own. So I've made lamb in different ways, but I'd never done the shank in as part of like a stew.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 27777,
+      "timestamps": []
+    },
+    {
+      "end": 28541,
+      "excerpt": "And so I'd spent hours building the base of the stew and then using the lamb shank. And honestly, the taste of it was like unbelievable. I've never made a stew like this before. And so actually put it on Twitter and I was like, Okay, this blew my mind. What should I do next? And so people said, \"Oh, you gotta try goat, and then you gotta try oxtail for stew because it's super rich both in the marrow and the actual flavor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28116,
+      "timestamps": []
+    },
+    {
+      "end": 28704,
+      "excerpt": "So I've been watching like two or three videos of how people make like a more Jamaican jerk style goat stew. And so that's one of my November projects to go on. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28543,
+      "timestamps": []
+    },
+    {
+      "end": 28783,
+      "excerpt": "Gopi Rangan: All right. I see that YouTube chefs are your original teachers. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28706,
+      "timestamps": []
+    },
+    {
+      "end": 28913,
+      "excerpt": "Semil Shah: Yeah, I got rid of all my cookbooks pretty much with like the exception of two or three, and I just use YouTube now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 28785,
+      "timestamps": []
+    },
+    {
+      "end": 29068,
+      "excerpt": "Gopi Rangan: I wanna ask you one last question about your community involvement. Is there a non-profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28915,
+      "timestamps": []
+    },
+    {
+      "end": 29355,
+      "excerpt": "Semil Shah: I'm not as great on that front as I could be. What we do do around our household is when the kids wanna do, like selling their toys or donating their toys, or they'll have a lemonade or cookie stand, we basically donate that to the Humane Society here for pets and animals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 29070,
+      "timestamps": []
+    },
+    {
+      "end": 29588,
+      "excerpt": "So I'd say in our family, that's probably a big one where we've donated to World Wildlife Foundation. Say the Tiger Foundation is probably more around this idea of like money going to the preservation and education of animal life. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29357,
+      "timestamps": []
+    },
+    {
+      "end": 29693,
+      "excerpt": "I see that you bring the habit of giving and you bring your kids into that flow early on in their life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29590,
+      "timestamps": []
+    },
+    {
+      "end": 29701,
+      "excerpt": "Yeah, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29695,
+      "timestamps": []
+    },
+    {
+      "end": 29878,
+      "excerpt": "I think we could be doing a better job of it. All the kids in the Bay Area are spoiled for the most part, right? So, it's incumbent upon us to break that as much as possible. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29703,
+      "timestamps": []
+    },
+    {
+      "end": 30055,
+      "excerpt": "Gopi Rangan: One of my recent investments is in a pet insurance company called Fursure. Taking care of pets in need really brings a lot of peace to pet parents and pet owners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29880,
+      "timestamps": []
+    },
+    {
+      "end": 30101,
+      "excerpt": "Thank you so much for spending time with me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30057,
+      "timestamps": []
+    },
+    {
+      "end": 30233,
+      "excerpt": "Semil Shah: Thank you. And yeah, thank you for the opportunity and I hope it's new actionable information for founders out there. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 30103,
+      "timestamps": []
+    },
+    {
+      "end": 30502,
+      "excerpt": "Gopi Rangan: You've shared a lot of insights that you haven't shared in other platforms. I've listened to a lot of your interviews and videos and read many of your blogs. This is very valuable. Thanks for sharing practical examples from you based on your experience. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30235,
+      "timestamps": []
+    },
+    {
+      "end": 30563,
+      "excerpt": "Semil Shah: Sure thing, man. Thank you for the opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Semil Shah",
+      "start": 30504,
+      "timestamps": []
+    },
+    {
+      "end": 30855,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30565,
+      "timestamps": []
+    },
+    {
+      "end": 30908,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30857,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "fd11732ca9f81071e666dcc1a394792fc4bfece9c279bdff3a0affd1cc657529",
+  "text_sha256": "7aaba262ba4fce9448bde4b9e74c50ff35436417fa00914daf1f9f868357c4dc"
+}

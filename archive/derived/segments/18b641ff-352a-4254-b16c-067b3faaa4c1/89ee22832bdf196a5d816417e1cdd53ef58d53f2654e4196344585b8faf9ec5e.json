@@ -1,0 +1,923 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 469,
+      "excerpt": "Truth be told, there's not a lot to do from a diligence perspective. Really the main thing that drives timing is honestly how quickly we can get people on the phone to speak with us. Especially during times of COVID when we can't meet the founder in person, we're relying on a lot of personal background checks. So timing is really determined by when can we speak to these reference checks, but really we can move quite quickly in a matter of weeks for the early stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 898,
+      "excerpt": "[00:00:30] Gopi Rangan: You are listening to The Sure Shot Entrepreneur -a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. In this episode, Stephanie Khoo is our guest. She is a venture capital investor at NYCA, a venture capital firm based in New York.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 471,
+      "timestamps": [
+        {
+          "offset": 471,
+          "raw": "[00:00:30]",
+          "seconds": 30
+        }
+      ]
+    },
+    {
+      "end": 1281,
+      "excerpt": "She was previously vice president at Goldman Sachs in the investment banking division. NYCA is a firm I like collaborating with and I've had a chance to collaborate with Stephanie and her colleagues many times over the past months. In this episode, Steph and I talk about her journey starting from Sydney through investment banking and how she entered the venture capital industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 900,
+      "timestamps": []
+    },
+    {
+      "end": 1608,
+      "excerpt": "She gives specific examples of her investment themes in FinTech and InsurTech with startups that she invested in at very early stages. She talks about what she looks for in these companies and the process of due diligence and how things have changed during the COVID environment. Steph, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1283,
+      "timestamps": []
+    },
+    {
+      "end": 1675,
+      "excerpt": "[00:01:56] Stephanie Khoo: Gopi, thanks so much for inviting me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 1610,
+      "timestamps": [
+        {
+          "offset": 1610,
+          "raw": "[00:01:56]",
+          "seconds": 116
+        }
+      ]
+    },
+    {
+      "end": 1760,
+      "excerpt": "[00:01:58] Gopi Rangan: Tell us about yourself, starting with where you come from. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1677,
+      "timestamps": [
+        {
+          "offset": 1677,
+          "raw": "[00:01:58]",
+          "seconds": 118
+        }
+      ]
+    },
+    {
+      "end": 2010,
+      "excerpt": "[00:02:02] Stephanie Khoo: I was born in Sydney, although I would say I left when I was one, so really I spent most of my formative years in Asia, which is really interesting because Asia has a really strong affiliation with technology, always has.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 1762,
+      "timestamps": [
+        {
+          "offset": 1762,
+          "raw": "[00:02:02]",
+          "seconds": 122
+        }
+      ]
+    },
+    {
+      "end": 2321,
+      "excerpt": "After that, I did go back to Sydney for high school and university and did a double degree in law and commerce. And realized that I was much stronger on the finance side, which is why I then commenced a career in investment banking at Goldman Sachs and found my way across to New York, which was a lot of fun.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2012,
+      "timestamps": []
+    },
+    {
+      "end": 2487,
+      "excerpt": "And through different kind of events that happened in my life, then found my way across into venture, which is where I am today and a career, which I really enjoy. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2323,
+      "timestamps": []
+    },
+    {
+      "end": 2679,
+      "excerpt": "[00:02:46] Gopi Rangan: NYCA has invested in many admirable companies like Acorns, Affirm, Blend, Digit, Embroker, Trellis, and many others. I'm curious to see how you got attracted to NYCA.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2489,
+      "timestamps": [
+        {
+          "offset": 2489,
+          "raw": "[00:02:46]",
+          "seconds": 166
+        }
+      ]
+    },
+    {
+      "end": 2806,
+      "excerpt": "How did you get into venture capital? We start with that. Is there an event or someone that had an influence in your career? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2681,
+      "timestamps": []
+    },
+    {
+      "end": 3244,
+      "excerpt": "[00:03:05] Stephanie Khoo: Yeah, there was actually. So when I was at Goldman, I was covering financial institutions, specifically fintech from the investment banking side. And as you can imagine, most of the companies that we deal with are billions of dollars in terms of size and/or evaluation. There was one opportunity that I got to work on a much smaller company and smaller by Goldman's standards was a series E private placement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 2808,
+      "timestamps": [
+        {
+          "offset": 2808,
+          "raw": "[00:03:05]",
+          "seconds": 185
+        }
+      ]
+    },
+    {
+      "end": 3834,
+      "excerpt": "And it was a company in the auto insurance space, I just really loved every aspect of it: learning about the company, deciding how to tell their story. And having spent so much time looking at traditional auto insurance and sort of thinking there is and has to be a better, more efficient way to every aspect of auto insurance, whether or not it's from distribution through to the claims process, the customer experience. All of that really piqued my interest. I realized that I wanted to spend more time in early stage, which is when I started looking into the venture capital industry. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3246,
+      "timestamps": []
+    },
+    {
+      "end": 3951,
+      "excerpt": "[00:04:14] Gopi Rangan: Is there anything specific about the venture capital industry that you really, really like?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3836,
+      "timestamps": [
+        {
+          "offset": 3836,
+          "raw": "[00:04:14]",
+          "seconds": 254
+        }
+      ]
+    },
+    {
+      "end": 4380,
+      "excerpt": "[00:04:18] Stephanie Khoo: Yeah, I really like how personal it is. I find that it is very much about building connections. I find that in VC, because it's not a sort of winner takes all approach, there are often multiple investors in same company. I find that it's a much more collaborative environment. You and I often trade deals, we'll trade notes that can be said of working with just about every investor across the board.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 3953,
+      "timestamps": [
+        {
+          "offset": 3953,
+          "raw": "[00:04:18]",
+          "seconds": 258
+        }
+      ]
+    },
+    {
+      "end": 4530,
+      "excerpt": "I think that's something unusual coming from a more, I would say, traditional finance background, something that I really love about working in VC. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4382,
+      "timestamps": []
+    },
+    {
+      "end": 4931,
+      "excerpt": "[00:04:57] Gopi Rangan: Yeah, that is true. Like I spent many years in corporate before I started my own firm. Working with entrepreneurs and collaborating with other venture capital investors is a lot more personal and more fulfilling and the relationships are much stronger and open compared to the work that typically people get exposed to in large corporations or other firms (it's more siloed).",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4532,
+      "timestamps": [
+        {
+          "offset": 4532,
+          "raw": "[00:04:57]",
+          "seconds": 297
+        }
+      ]
+    },
+    {
+      "end": 5175,
+      "excerpt": "And I really like the opportunity to work with different types of people and talk about their passions. Is there an example of a company that you recently invested? How did you get to know the company? What was interesting about the company? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4933,
+      "timestamps": []
+    },
+    {
+      "end": 5267,
+      "excerpt": "[00:05:35] Stephanie Khoo: One of the recent investments that we have made is in Westhill.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 5177,
+      "timestamps": [
+        {
+          "offset": 5177,
+          "raw": "[00:05:35]",
+          "seconds": 335
+        }
+      ]
+    },
+    {
+      "end": 5574,
+      "excerpt": "Effectively, what they do is they're in the property insurance claim space. They help the carrier, the contractors who are completing any repair work, as well as the policyholder to manage the entire process of having a claim all the way through to getting your home repair complete at the end of the day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5269,
+      "timestamps": []
+    },
+    {
+      "end": 5975,
+      "excerpt": "I think what we like about Westhill is if you think about insurance as a whole, claims is a very important part of that experience. It's what makes or breaks the customer relationship with you. So you really need to be able to showcase and kind of give your customer the best experience possible in order to make sure that you are still able to renew their policy at the end of the contracted term. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5576,
+      "timestamps": []
+    },
+    {
+      "end": 6270,
+      "excerpt": "With Westhill, we thought that they offered carriers an opportunity to give their policy holders a white glove experience. What I mean by this is historically, if you have a home insurance claim, let's say there's a hailstorm and there's now damage to your roof and you need to get that fixed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5977,
+      "timestamps": []
+    },
+    {
+      "end": 6663,
+      "excerpt": "Usually an insurance company will assess the damage and say, here's a $5000 check. Go fix it yourself. Then the policy holder then has to run around and try and figure out: well, which contractor should I reach out to? How do I know that this is a good rate and I'm not getting ripped off? What kind of materials are the right materials to be using? It's just a lot of administrative hustle.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6272,
+      "timestamps": []
+    },
+    {
+      "end": 7338,
+      "excerpt": "What Westhill does is they allow the policy holder to work in conjunction with the carrier to select a contractor. So that this contractor comes from a preferred network that has been bettered before so that you're getting the right price. In any case, the carrier will pay the contractor directly. So at no point does the policy holder actually have to manage sort of the payments or the transaction. At the end of the day, as a policyholder, you have a perfectly repaired roof and your carrier was there walking you through every step of the process. We think that's really going to be kind of the value added services that insurance carriers need to offer going forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6665,
+      "timestamps": []
+    },
+    {
+      "end": 7408,
+      "excerpt": "[00:07:54] Gopi Rangan: What stage do you typically meet companies? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7340,
+      "timestamps": [
+        {
+          "offset": 7340,
+          "raw": "[00:07:54]",
+          "seconds": 474
+        }
+      ]
+    },
+    {
+      "end": 7997,
+      "excerpt": "[00:07:58] Stephanie Khoo: That's a really good question because I would say we meet companies all across the board. So oftentimes at the incredibly early stage, it's a single founder with an idea. No team, no product, and it could be pre seed, it could be seed. That's probably the earliest point at which we meet founders, although I will caveat and say we've had many founders that we've known over time who were employees at some of our portfolio companies, for example. So in those cases, we've known the founders for even longer than when they've decided to step out on their own. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 7410,
+      "timestamps": [
+        {
+          "offset": 7410,
+          "raw": "[00:07:58]",
+          "seconds": 478
+        }
+      ]
+    },
+    {
+      "end": 8138,
+      "excerpt": "[00:08:34] Gopi Rangan: How do you evaluate those opportunities, especially at the earliest stages? Like what kind of questions do you ask?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7999,
+      "timestamps": [
+        {
+          "offset": 7999,
+          "raw": "[00:08:34]",
+          "seconds": 514
+        }
+      ]
+    },
+    {
+      "end": 8162,
+      "excerpt": "What do you look for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8140,
+      "timestamps": []
+    },
+    {
+      "end": 8303,
+      "excerpt": "[00:08:40] Stephanie Khoo: Yeah, it's a great question because I would say sometimes it feels like a leap of faith, some more than others, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 8164,
+      "timestamps": [
+        {
+          "offset": 8164,
+          "raw": "[00:08:40]",
+          "seconds": 520
+        }
+      ]
+    },
+    {
+      "end": 8309,
+      "excerpt": "but ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8305,
+      "timestamps": []
+    },
+    {
+      "end": 8481,
+      "excerpt": "yeah, primarily it is all to do with the founder. We're sort of evaluating them to see, and it's not like the founder has to check every single one of these requirements.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8311,
+      "timestamps": []
+    },
+    {
+      "end": 8830,
+      "excerpt": "It is somewhat of a holistic view. But the space in which they're trying to disrupt, how well do they know it? Have they worked at a startup or an incumbent company in this space before? Or how strong are their technical skills? Do we think that they will be able to be a good leader? Do they have the qualities to build a strong team around them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8483,
+      "timestamps": []
+    },
+    {
+      "end": 9147,
+      "excerpt": "And are they cognizant of where they need help or where they need to bring certain other talents in? Are they good people to work with? Will people respect and admire them? Are they well connected in the industry and maybe might be able to bring on clients much quicker because they already have a personal network.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8832,
+      "timestamps": []
+    },
+    {
+      "end": 9370,
+      "excerpt": "There's a lot of questions that go into it. And at the end of the day, because there isn't yet a product that you can evaluate, I would say 90 percent of the evaluation kind of centers around the founder, him or herself. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9149,
+      "timestamps": []
+    },
+    {
+      "end": 9600,
+      "excerpt": "[00:10:01] Gopi Rangan: This is a very fun space when you especially meet entrepreneurs at the earliest stages, but it's also quite scary because there's really not a lot to evaluate, but that's what makes it really interesting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9372,
+      "timestamps": [
+        {
+          "offset": 9372,
+          "raw": "[00:10:01]",
+          "seconds": 601
+        }
+      ]
+    },
+    {
+      "end": 10315,
+      "excerpt": "You mentioned earlier that NYCA focuses on fintech and the definition of fintech is quite generous and I focus a lot on insurtech. And I call it hardly strictly insurtech. There are many adjacent areas I invest in. The claims process is absolutely broken. It's a pity that most customers don't trust their insurance brand. We're willing to trust Google and Facebook and others where we give private information to all these companies. But the trust that insurance company brands have with customers is very low. The NPS scores are terrible. So a lot needs to change and looks like that's one of your areas of focus. Are there some trends in InsurTech that you see that Has the potential to transform the industry?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9602,
+      "timestamps": []
+    },
+    {
+      "end": 10723,
+      "excerpt": "[00:10:58] Stephanie Khoo: Yeah, I would say one of the biggest trends that we're seeing right now is that shift towards prevention rather than cure. Sort of taking a leaf out of healthcare. But the idea that you don't want to wait till there's major issues in a car or a home before actually repairing the issue. That's the reason why you've seen a lot of these kind of early detection companies take off.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 10317,
+      "timestamps": [
+        {
+          "offset": 10317,
+          "raw": "[00:10:58]",
+          "seconds": 658
+        }
+      ]
+    },
+    {
+      "end": 11040,
+      "excerpt": "So whether or not it's ring all the virtual doorbells to make sure that at the earliest instance, whether or not there's been a break in, or any of the kind of more a sensor driven products that might detect: is there a leak in your house? Is there a fire in your house?... and trying to nip the problem in the bud.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10725,
+      "timestamps": []
+    },
+    {
+      "end": 11126,
+      "excerpt": "That's definitely one of, I think, the key areas towards which insurance is moving. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11042,
+      "timestamps": []
+    },
+    {
+      "end": 11422,
+      "excerpt": "[00:11:53] Gopi Rangan: Yeah, a lot of the focus on insurance is after the liability happens, but if we can focus on prevention, that makes the world a better place for sure. I invested in a company called Kangaroo and they offer porch protection plans and similar solutions like you mentioned.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11128,
+      "timestamps": [
+        {
+          "offset": 11128,
+          "raw": "[00:11:53]",
+          "seconds": 713
+        }
+      ]
+    },
+    {
+      "end": 11512,
+      "excerpt": "I'm hoping that many more solutions like that come through in the market in the future. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11424,
+      "timestamps": []
+    },
+    {
+      "end": 11623,
+      "excerpt": "[00:12:14] Stephanie Khoo: Yeah, I saw them at InsurTechConnect in 2019 actually, back when we could travel. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 11514,
+      "timestamps": [
+        {
+          "offset": 11514,
+          "raw": "[00:12:14]",
+          "seconds": 734
+        }
+      ]
+    },
+    {
+      "end": 11831,
+      "excerpt": "[00:12:21] Gopi Rangan: That's right. The world is a very different place now. Steph, is there another example of an insurtech startup that kind of highlights what's really happening in the insurtech world?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11625,
+      "timestamps": [
+        {
+          "offset": 11625,
+          "raw": "[00:12:21]",
+          "seconds": 741
+        }
+      ]
+    },
+    {
+      "end": 12205,
+      "excerpt": "[00:12:32] Stephanie Khoo: Yeah, the insurtech company that I would highlight would be Trellis. They effectively have sometimes been called the Plaid of insurance. But this idea that consumers can use their own data to be able to better search for insurance products, policies or coverage and also enable fintechs to be able to offer insurance products to their consumers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 11833,
+      "timestamps": [
+        {
+          "offset": 11833,
+          "raw": "[00:12:32]",
+          "seconds": 752
+        }
+      ]
+    },
+    {
+      "end": 12676,
+      "excerpt": "Another interesting trend in fintech is if you think of fintech 1.0 as the great unbundling. So I can offer you a better bank solution. I can offer you a better credit card. I can offer you a better loan. I feel like FinTech 2.0 is very much the rebundling of all these solutions, because now that all these FinTechs have actually garnered a significant number of consumers in some apps, They're now looking for ways to be able to monetize and cross sell more products.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12207,
+      "timestamps": []
+    },
+    {
+      "end": 12941,
+      "excerpt": "And I would say insurance is definitely top of mind. Home and auto are kind of the, the key personal lines, but no one actually wants to become an insurance company themselves, but they're happy to sort of offer ways of distributing product to their member base. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12678,
+      "timestamps": []
+    },
+    {
+      "end": 13047,
+      "excerpt": "[00:13:45] Gopi Rangan: At what stage did you meet the company and what did you like about the founders?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12943,
+      "timestamps": [
+        {
+          "offset": 12943,
+          "raw": "[00:13:45]",
+          "seconds": 825
+        }
+      ]
+    },
+    {
+      "end": 13510,
+      "excerpt": "[00:13:49] Stephanie Khoo: Trellis was a seed stage company for us. We met them and made the investment in 2019. And what we liked about the founder, Daniel Dimitri, is he is just Incredibly focused on what he's building. He came from States Title and had, you know, startup experience from his time spent there. He was very clear in outlining what the issues were in the insurance industry and why it was so difficult to actually be able to sell more policies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 13049,
+      "timestamps": [
+        {
+          "offset": 13049,
+          "raw": "[00:13:49]",
+          "seconds": 829
+        }
+      ]
+    },
+    {
+      "end": 13757,
+      "excerpt": "He was very focused and has proven himself to be incredibly dogmatic about how he approaches the product build, how he gets more clients on board. We really love his hustle and his drive because he really is switched on 110 percent of the time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13512,
+      "timestamps": []
+    },
+    {
+      "end": 13926,
+      "excerpt": "[00:14:42] Gopi Rangan: Oh, this is great. We definitely need a better safety net and having access to products like insurance will definitely give more peace of mind.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13759,
+      "timestamps": [
+        {
+          "offset": 13759,
+          "raw": "[00:14:42]",
+          "seconds": 882
+        }
+      ]
+    },
+    {
+      "end": 14134,
+      "excerpt": "That's the mission with which I invest. It's great to see an example in your portfolio as well. How many companies do you typically invest in an average year and how long does it take from start to finish? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13928,
+      "timestamps": []
+    },
+    {
+      "end": 14268,
+      "excerpt": "[00:15:02] Stephanie Khoo: Yeah, so I would say in a typical year, we're probably making anywhere from call it 12 to 15 investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 14136,
+      "timestamps": [
+        {
+          "offset": 14136,
+          "raw": "[00:15:02]",
+          "seconds": 902
+        }
+      ]
+    },
+    {
+      "end": 15426,
+      "excerpt": "At this point, we have about 75 and counting portfolio companies. In terms of the process, I would say it differs based on stage. We primarily do early stage investing. And by that I mean we do a lot of series seed and series A. That said the fund is actually stage agnostic. We have been known to take part in a series D for example. For the later stage companies, as you can imagine, it takes a little bit longer because there's a lot more diligence to get through, because it's a much higher valuation at that point and relative to the size of our fund, it's, it's a bigger check. I think we need to be a lot more cautious about where we place that dollars. Whereas if it's an early-stage investment and we were talking about the pre-seed or seed companies, truth be told, there's not a lot to do from a diligence perspective, really the main thing that drives timing is honestly, how quickly we can get people on the phone to speak with us. We're relying on a lot of personal background checks. So timing is really determined by when can we speak to these reference checks. But really we can move quite quickly in a matter of weeks for the early stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14270,
+      "timestamps": []
+    },
+    {
+      "end": 15549,
+      "excerpt": "[00:16:28] Gopi Rangan: How has your process changed because of COVID? Now we're all working from home most of the time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15428,
+      "timestamps": [
+        {
+          "offset": 15428,
+          "raw": "[00:16:28]",
+          "seconds": 988
+        }
+      ]
+    },
+    {
+      "end": 15773,
+      "excerpt": "[00:16:35] Stephanie Khoo: Yeah, I would say at the beginning of COVID, it was sort of pens down, let's figure out what's going on in the world and let's figure out what's happening in our own portfolio and who needs help.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 15551,
+      "timestamps": [
+        {
+          "offset": 15551,
+          "raw": "[00:16:35]",
+          "seconds": 995
+        }
+      ]
+    },
+    {
+      "end": 16095,
+      "excerpt": "So sort of damage control scenario. Since then, I would say, we have gotten comfortable pretty quickly investing in companies where we obviously haven't been able to meet the founder in person. But that said, I think one thing is for certain we've been doing so many zoom calls right now, and I'm sure you have been too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15775,
+      "timestamps": []
+    },
+    {
+      "end": 16439,
+      "excerpt": "I think we're much more expert in being able to suss out or review a founder over zoom than we might have been before, just because all of us have been getting so many reps in spending time with people on zoom people who we know before people who are new, that you start to get a really good sense of character and personality even over zoom.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16097,
+      "timestamps": []
+    },
+    {
+      "end": 16709,
+      "excerpt": "And I think that's helpful. But I think the one main thing that has changed is we're probably, like I mentioned, doing a lot more of these founder background checks than we would have historically, just because we don't have the opportunity to meet them in person. Do ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16441,
+      "timestamps": []
+    },
+    {
+      "end": 16867,
+      "excerpt": "[00:17:46] Gopi Rangan: you spend more time on due diligence because you need to do all these reference calls compared to the time you used to spend before?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16711,
+      "timestamps": [
+        {
+          "offset": 16711,
+          "raw": "[00:17:46]",
+          "seconds": 1066
+        }
+      ]
+    },
+    {
+      "end": 17297,
+      "excerpt": "[00:17:55] Stephanie Khoo: You know, actually, I think things are moving faster than ever before because whereas, yeah whereas originally you would say, okay, well, the next time I'm going to be in SF, for example, is in two weeks time, let's schedule a meeting for two weeks time. In a world of zoom, where you don't even need time to get in between meetings, you could feasibly schedule a meeting for the same day or tomorrow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 16869,
+      "timestamps": [
+        {
+          "offset": 16869,
+          "raw": "[00:17:55]",
+          "seconds": 1075
+        }
+      ]
+    },
+    {
+      "end": 17541,
+      "excerpt": "So I think things are actually moving much more quicker than they did pre COVID. I think everyone's sort of getting zoom fatigue, but there's been a lot happening and a lot of deal flow over the course of 2020, especially in the latter half. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17299,
+      "timestamps": []
+    },
+    {
+      "end": 17739,
+      "excerpt": "[00:18:34] Gopi Rangan: Yeah, I see another trend here in productivity. We are all far more productive than we were before because we're just sitting in front of a computer and getting stuff done.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17543,
+      "timestamps": [
+        {
+          "offset": 17543,
+          "raw": "[00:18:34]",
+          "seconds": 1114
+        }
+      ]
+    },
+    {
+      "end": 18124,
+      "excerpt": "Every meeting, phone call has an agenda and we have questions in mind when we get straight to it. I reflected on my time before all of this and I found that there was a lot of wasted time in like networking, schmoozing, dinners, coffee meetings, lunches. Yeah. You cut that time out, uh, we're all smart people, like all the VCs that I work with, they're all incredibly smart people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17741,
+      "timestamps": []
+    },
+    {
+      "end": 18465,
+      "excerpt": "If they waste so much time doing these things that didn't really matter as much, and you take all that time and give it to them, and they are productive in front of a computer. It's become a lot easier for me to get a hold of people and have substantive discussions instead of dilly dallying on some networking event, chatty conversations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18126,
+      "timestamps": []
+    },
+    {
+      "end": 18637,
+      "excerpt": "But I really miss the serendipity though. That's the part that I miss. I wake up in the morning, sit in front of a computer till the end of the day. It's not really fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18467,
+      "timestamps": []
+    },
+    {
+      "end": 19011,
+      "excerpt": "[00:19:34] Stephanie Khoo: Right. I agree with that. And I think the networking still remains really important, but if we lose the serendipity of meeting people randomly, if you will, over drinks, but what we gain is I think quality of conversation, because typically the zoom networking that you do right now is probably in one on one or, you know, small group scenarios.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 18639,
+      "timestamps": [
+        {
+          "offset": 18639,
+          "raw": "[00:19:34]",
+          "seconds": 1174
+        }
+      ]
+    },
+    {
+      "end": 19329,
+      "excerpt": "I find the quality of those conversations is oftentimes much higher or there's a lot more kind of open conversation as opposed to when you're standing in a bar holding a drink and you sort of jostling around trying to maintain conversation and then someone else joins the conversation. So you win some you lose some.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19013,
+      "timestamps": []
+    },
+    {
+      "end": 19437,
+      "excerpt": "[00:20:19] Gopi Rangan: Is there something you don't like about venture capital? Do you have a pet peeve? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19331,
+      "timestamps": [
+        {
+          "offset": 19331,
+          "raw": "[00:20:19]",
+          "seconds": 1219
+        }
+      ]
+    },
+    {
+      "end": 20210,
+      "excerpt": "[00:20:24] Stephanie Khoo: I do have pet peeves in venture capital. I think one thing that really stood out to me, especially when I first joined NYKR and started hearing how people were discussing certain opportunities is I think in venture capital, there's a lot of bias in the system. And I know people talk a lot about diversity and so I hope things are starting to change, but it's not just diversity in terms of like gender or race or ethnicity. I think one thing I've noticed in venture is that there's strong bias towards education and school. Maybe this is because I'm Australian, and I think we don't feel as strongly about the university that we went to as people feel about the colleges that they went to here, and they're incredibly strong spirited about it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 19439,
+      "timestamps": [
+        {
+          "offset": 19439,
+          "raw": "[00:20:24]",
+          "seconds": 1224
+        }
+      ]
+    },
+    {
+      "end": 20581,
+      "excerpt": "But I do think that just because you didn't go to Stanford, for example, doesn't mean that you're not going to be a good entrepreneur, and that you might not necessarily have the right technical capabilities. So I think if that was one of my pet peeves is that we all need to be a little bit more open minded in terms of how we evaluate opportunities that come our way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20212,
+      "timestamps": []
+    },
+    {
+      "end": 21005,
+      "excerpt": "[00:21:36] Gopi Rangan: Yeah, good ideas can come from anywhere and dedicated entrepreneurs with good ideas don't need to have pedigree. I have actually seen two funds, two diametrically opposite funds. One fund that totally believes in pedigree. You need to have graduated from an Ivy school or worked at one of these large companies like Google, Facebook, PayPal, those kind of places that churn out great entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20583,
+      "timestamps": [
+        {
+          "offset": 20583,
+          "raw": "[00:21:36]",
+          "seconds": 1296
+        }
+      ]
+    },
+    {
+      "end": 21372,
+      "excerpt": "Another fund that has the exact opposite thesis that \"we'd never invest in pedigree. We invest in the heart and soul of the entrepreneur. If you have one of these big brands on your resume, we won't invest in you. We will only invest in people who really came through personal experience of learning something and passionate about building a product or a solution.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21007,
+      "timestamps": []
+    },
+    {
+      "end": 21671,
+      "excerpt": "It's interesting to see the two variations in the themes of these two funds. But I agree with you that sometimes we over index and because we don't have a lot of data and we're trying to make quick decisions, we let some of these biases influence our thoughts and that doesn't need to be that way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21374,
+      "timestamps": []
+    },
+    {
+      "end": 21720,
+      "excerpt": "[00:22:38] Stephanie Khoo: Yeah, that's right. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 21673,
+      "timestamps": [
+        {
+          "offset": 21673,
+          "raw": "[00:22:38]",
+          "seconds": 1358
+        }
+      ]
+    },
+    {
+      "end": 21916,
+      "excerpt": "[00:22:39] Gopi Rangan: I want to switch to the next segment and ask you about your community involvement. Is there a non profit organization that you want to talk about where you are involved? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21722,
+      "timestamps": [
+        {
+          "offset": 21722,
+          "raw": "[00:22:39]",
+          "seconds": 1359
+        }
+      ]
+    },
+    {
+      "end": 22076,
+      "excerpt": "[00:22:49] Stephanie Khoo: I do. The one thing I realized was it's one thing to donate to charitable causes, but I wanted to actually physically do something.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 21918,
+      "timestamps": [
+        {
+          "offset": 21918,
+          "raw": "[00:22:49]",
+          "seconds": 1369
+        }
+      ]
+    },
+    {
+      "end": 22461,
+      "excerpt": "So I noticed that the church next door ran a food bank. For anyone who's interested, it's in New York. It's called Xavier mission. The program that they run is called The Welcome Table. Effectively what you can do is you can sign up for one of two sessions. The first session is food prep. So you get there early in the morning and you basically make sandwiches, you pour drinks out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22078,
+      "timestamps": []
+    },
+    {
+      "end": 22835,
+      "excerpt": "If you're in the kitchen, you'll be helping to prepare a meal. So you might be cutting a lot of onions. You might be helping to cook a soup or something. And then the afternoon session is actually the meal service. When I first started there, I think I was really surprised to find out that in the course of one afternoon, they get about 2000 people through the food bank.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22463,
+      "timestamps": []
+    },
+    {
+      "end": 22888,
+      "excerpt": "So that's something that I'm really excited about. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22837,
+      "timestamps": []
+    },
+    {
+      "end": 23229,
+      "excerpt": "[00:23:52] Gopi Rangan: Oh, this is heartwarming. Thank you so much for sharing that story. You shared a lot today. I'm really excited to hear your journey all the way from Sydney and coming to New York and entering the venture capital world and now at NYCA making investments broadly in fintech, many in InsurTech, which I share with you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22890,
+      "timestamps": [
+        {
+          "offset": 22890,
+          "raw": "[00:23:52]",
+          "seconds": 1432
+        }
+      ]
+    },
+    {
+      "end": 23534,
+      "excerpt": "The examples that you gave about Westhill and Trellis highlight the kind of stories that you get to see every day. I really resonate with your comments about how this profession creates lots of opportunities for personal connections with entrepreneurs and other venture capital investors. This is great.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23231,
+      "timestamps": []
+    },
+    {
+      "end": 23662,
+      "excerpt": "I'm so happy that we were able to spend time today and hear your stories. I'm looking forward to sharing them with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23536,
+      "timestamps": []
+    },
+    {
+      "end": 23766,
+      "excerpt": "[00:24:34] Stephanie Khoo: Thank you so much for having me, Gopi. This was a really fun conversation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephanie Khoo",
+      "start": 23664,
+      "timestamps": [
+        {
+          "offset": 23664,
+          "raw": "[00:24:34]",
+          "seconds": 1474
+        }
+      ]
+    },
+    {
+      "end": 23954,
+      "excerpt": "[00:24:39] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23768,
+      "timestamps": [
+        {
+          "offset": 23768,
+          "raw": "[00:24:39]",
+          "seconds": 1479
+        }
+      ]
+    },
+    {
+      "end": 24121,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23956,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "89ee22832bdf196a5d816417e1cdd53ef58d53f2654e4196344585b8faf9ec5e",
+  "text_sha256": "3fecda0d5caa3e74f81bc48fdb6e1831bafa1d40280deedf3c7cfdf3192391ea"
+}

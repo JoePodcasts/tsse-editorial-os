@@ -1,0 +1,72 @@
+{
+  "before_status": {
+    "archive_fingerprint": "b9d92b946df226eea1438d2dbae3a493a2b1d76de68fa943b8eeb8439a887893",
+    "changes": {
+      "changed": 0,
+      "new": 0,
+      "not_seen": 0,
+      "unchanged": 195
+    },
+    "changes_detected": false,
+    "last_successful_sync_at": "2026-10-26T14:37:16.142638+00:00",
+    "published_episodes": 195,
+    "schema_version": 1,
+    "status": "success"
+  },
+  "run": {
+    "started_at": "2026-10-27T05:26:02.538687+00:00",
+    "schema_version": 1,
+    "status": "success",
+    "last_successful_sync_at": "2026-10-27T05:26:17.109254+00:00",
+    "published_episodes": 195,
+    "changes": {
+      "new": 0,
+      "changed": 0,
+      "unchanged": 195,
+      "not_seen": 0
+    },
+    "changes_detected": false,
+    "archive_fingerprint": "b9d92b946df226eea1438d2dbae3a493a2b1d76de68fa943b8eeb8439a887893",
+    "http_requests": 3,
+    "detail_requests": 0,
+    "pending_sources": [],
+    "validation": {
+      "archive": {
+        "valid": true,
+        "records": 195,
+        "source_fidelity": "passed",
+        "export_round_trip": "passed"
+      },
+      "portable_exports": "PASS",
+      "search_index": "PASS",
+      "frontend": "PASS",
+      "published_episodes": 195,
+      "coverage": {
+        "episodes": 195,
+        "transcript": 195,
+        "show_notes": 195,
+        "timestamped_transcripts": 116,
+        "markdown_files": 195
+      },
+      "zip": {
+        "bytes": 3918604,
+        "entries": 195,
+        "input_hash": "4654ec2198c22c803fed1c636590209d922440223eb4cf3796c39cb70e485f70",
+        "sha256": "adec24a037137e50cffcfbd0b8b828e0f81522c98b0e41040ae507be86e9ae83"
+      },
+      "index_reused": true
+    },
+    "content_changed": false
+  },
+  "changed_hash_or_mtime_paths": [
+    "reports/sync-run.json",
+    "sync-status.json"
+  ],
+  "content_unchanged": true,
+  "footprint": {
+    "selected_content_files": 2012,
+    "selected_content_bytes": 59600442,
+    "local_archive_bytes": 187307517,
+    "currently_tracked_archive_files": 0
+  }
+}

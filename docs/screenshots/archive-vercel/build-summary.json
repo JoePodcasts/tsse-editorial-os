@@ -1,0 +1,43 @@
+{
+  "archive_data_bytes": 73559911,
+  "archive_fingerprint": "b9d92b946df226eea1438d2dbae3a493a2b1d76de68fa943b8eeb8439a887893",
+  "build_seconds": 13.841,
+  "index_build_seconds": 4.708,
+  "last_successful_sync_at": "2026-10-27T05:26:17.109254+00:00",
+  "published_episodes": 195,
+  "queries": [
+    {
+      "identical": true,
+      "query": "customer discovery",
+      "results": 16
+    },
+    {
+      "identical": true,
+      "query": "proof of value",
+      "results": 10
+    },
+    {
+      "identical": true,
+      "query": "Gokul Rajaram",
+      "results": 16
+    },
+    {
+      "identical": true,
+      "query": "Commerce Ventures",
+      "results": 16
+    },
+    {
+      "identical": true,
+      "query": "relentlessly resourceful",
+      "results": 6
+    },
+    {
+      "identical": true,
+      "query": "choosing a partner in life",
+      "results": 4
+    }
+  ],
+  "runtime_bytes": 73661687,
+  "search_index_bytes": 58122240,
+  "static_bytes": 18790766
+}

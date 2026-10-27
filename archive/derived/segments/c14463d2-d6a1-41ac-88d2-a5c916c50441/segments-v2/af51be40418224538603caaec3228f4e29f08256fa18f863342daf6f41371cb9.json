@@ -1,0 +1,1101 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 256,
+      "excerpt": "We have said, \"look, impact can be in the outcome of your business. Impact can be in who you hire. Impact can be in who your customers are.\" It's a relatively easy thing for them [founders] to onboard. And once that first step is taken, the rest is easier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 642,
+      "excerpt": "[00:00:24] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guests today, we have two, Rayed Masri and Rama Chakaki.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 258,
+      "timestamps": [
+        {
+          "offset": 258,
+          "raw": "[00:00:24]",
+          "seconds": 24
+        }
+      ]
+    },
+    {
+      "end": 965,
+      "excerpt": "They are general partners at Transform VC. We're going to talk to them about what is Transform VC, what areas do they focus on, what's their vision? They have a bold vision to invest in the future where tech drives positive climate and social change. What does that mean? What kind of companies do they get excited about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 644,
+      "timestamps": []
+    },
+    {
+      "end": 1260,
+      "excerpt": "I know that they are very interested in deep tech companies that have strong network effects. What are the kind of startups that they look for for investments? And sometimes they say no, probably more often. And why do they say no? We're going to talk to them to learn more about Transform VC.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 967,
+      "timestamps": []
+    },
+    {
+      "end": 1316,
+      "excerpt": "Raed and Rama, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1262,
+      "timestamps": []
+    },
+    {
+      "end": 1391,
+      "excerpt": "[00:01:37] Raed Masri: Thank you. Wonderful to be with you here. Thanks. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 1318,
+      "timestamps": [
+        {
+          "offset": 1318,
+          "raw": "[00:01:37]",
+          "seconds": 97
+        }
+      ]
+    },
+    {
+      "end": 1637,
+      "excerpt": "[00:01:40] Gopi Rangan: Let's start with you. Raed, you grew up in Canada and Toronto and Rama, you are from Washington, D. C. How did the two of you come together and how did you end up starting Transform VC? And now you are on the West Coast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1393,
+      "timestamps": [
+        {
+          "offset": 1393,
+          "raw": "[00:01:40]",
+          "seconds": 100
+        }
+      ]
+    },
+    {
+      "end": 1756,
+      "excerpt": "Raed, you're in San Francisco and Rama, you're in Southern California. That's correct. Walk us through that journey. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1639,
+      "timestamps": []
+    },
+    {
+      "end": 2090,
+      "excerpt": "[00:02:02] Raed Masri: Sure. So I've been a serial founder from Canada and guilty like most Canadians. I saw that to you Americans. So that was my segway to move in America. And in America, I was on a mission to invest in entrepreneurs and help create 1000 impactful tech founders who would each impact a billion and make a billion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 1758,
+      "timestamps": [
+        {
+          "offset": 1758,
+          "raw": "[00:02:02]",
+          "seconds": 122
+        }
+      ]
+    },
+    {
+      "end": 2399,
+      "excerpt": "And on that journey, I met Rama and she first initially started out as an advisor and then became a limited partner herself and finally managed to persuade her to become a co general partner. So it's been a privilege and, she comes with a, an extraordinary background. I'd let Rama tell you about her story.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2092,
+      "timestamps": []
+    },
+    {
+      "end": 3129,
+      "excerpt": "[00:02:45] Rama Chakaki: Thanks Raed. So I, like Raed, was a founder myself. I'd been in the tech sector and had a great exit from the data center world. And then went on to run a FinTech company and a number of others. And then I launched into impact through setting up an impact incubator and ran that successfully for about 11 years, then joined another VC, identifying startups around the US to invest in and this passion for both tech and impact stayed with me. One of the companies that Raed had invested in was a company in AI that I wanted to learn more about and join. And sure enough joined then joined Raed, as you mentioned, as an advisor and once him and I aligned on the impact side, I became an LP and then a GP. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 2401,
+      "timestamps": [
+        {
+          "offset": 2401,
+          "raw": "[00:02:45]",
+          "seconds": 165
+        }
+      ]
+    },
+    {
+      "end": 3402,
+      "excerpt": "[00:03:34] Gopi Rangan: Both of you are serial entrepreneurs and successful serial entrepreneurs. And now you're on the other side of the table. What are some things that went through your mind when you switched from the founder role to the venture capital investor role?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3131,
+      "timestamps": [
+        {
+          "offset": 3131,
+          "raw": "[00:03:34]",
+          "seconds": 214
+        }
+      ]
+    },
+    {
+      "end": 4140,
+      "excerpt": "[00:03:49] Rama Chakaki: That's a great question. I think for one, for me, acquiring sufficient knowledge from the investment side and the analytics. I've looked at hundreds, if not maybe thousands of companies through the various business plan competitions that I've judged and the hackathons. So having that experience under my belt helped me feel that I can actually be on the founder's side when I'm helping evaluate founder opportunities, and that I could speak well to both the impact side and the technical side equally. And then last, develop a great network of sounding boards where if I don't really know enough about a particular medtech application, I know who to reach out to in the community to help me make that decision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 3404,
+      "timestamps": [
+        {
+          "offset": 3404,
+          "raw": "[00:03:49]",
+          "seconds": 229
+        }
+      ]
+    },
+    {
+      "end": 4262,
+      "excerpt": "[00:04:37] Gopi Rangan: Was it easy for you, Rayad? She makes it sound like it's really easy. It came naturally to her. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4142,
+      "timestamps": [
+        {
+          "offset": 4142,
+          "raw": "[00:04:37]",
+          "seconds": 277
+        }
+      ]
+    },
+    {
+      "end": 4624,
+      "excerpt": "[00:04:45] Raed Masri: No. It was quite difficult because as an entrepreneur, I'm always thinking about the how and I would spend a lot more of the time understanding the how and eating into the valuable time in the short time an entrepreneur would have to explain the vision and the, and the what, so for me, that was kind of a mind shift that I had to adopt.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 4264,
+      "timestamps": [
+        {
+          "offset": 4264,
+          "raw": "[00:04:45]",
+          "seconds": 285
+        }
+      ]
+    },
+    {
+      "end": 4957,
+      "excerpt": "But also, you know, remind myself that, uh, one will often hear very, very crazy ideas. So I had to program myself to consistently tell myself, don't be dismissive, don't be dismissive, don't be dismissive. The crazier the idea, just don't be dismissive and try to think of what can go right, not just, you know, what can go wrong.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4626,
+      "timestamps": []
+    },
+    {
+      "end": 5111,
+      "excerpt": "And there's been a few instances where I've managed to listen all the way to the end and I was quite impressed and ended up making an investment. So... ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4959,
+      "timestamps": []
+    },
+    {
+      "end": 5287,
+      "excerpt": "[00:05:36] Gopi Rangan: It's a very different role as a VC. When you begin to talk to founders of various different types with different ideas, it's a skill to be cultivated.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5113,
+      "timestamps": [
+        {
+          "offset": 5113,
+          "raw": "[00:05:36]",
+          "seconds": 336
+        }
+      ]
+    },
+    {
+      "end": 5396,
+      "excerpt": "Let's talk about Transform VC. What is Transform VC and how is Transform VC different from other VC firms? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5289,
+      "timestamps": []
+    },
+    {
+      "end": 5440,
+      "excerpt": "[00:05:51] Rama Chakaki: Go for it, Raed. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 5398,
+      "timestamps": [
+        {
+          "offset": 5398,
+          "raw": "[00:05:51]",
+          "seconds": 351
+        }
+      ]
+    },
+    {
+      "end": 5697,
+      "excerpt": "[00:05:53] Raed Masri: Sure. So, we are an early-stage VC. We invest predominantly in the pre-seed and seed, and do follow-ons at series A. Typical check sizes ranges from $250K to a million dollar first check, and a two million dollar series A follow on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 5442,
+      "timestamps": [
+        {
+          "offset": 5442,
+          "raw": "[00:05:53]",
+          "seconds": 353
+        }
+      ]
+    },
+    {
+      "end": 6176,
+      "excerpt": "What we strive to accomplish is generating both outlier impact and outlier financial returns; two things that predominantly have been perceived to be separate and at odds with each other. So we've been grateful that we have demonstrated time and again, ability to show both outlier impact and outlier returns, evidenced by us being in the top decile and five different benchmarks by Cambridge and others across our track record, which consists of angel investments we had done,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5699,
+      "timestamps": []
+    },
+    {
+      "end": 6501,
+      "excerpt": "the fund one, which is a collection of SPVs, and fund two, which is currently marked at nearly 4X. So, we're pretty happy with that. And we ask our entrepreneurs. And this is something that I think sets us really apart. We ask our entrepreneurs from day 1 to commit to a single impact measure that they can track over time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6178,
+      "timestamps": []
+    },
+    {
+      "end": 6724,
+      "excerpt": "Even if that measure is zero for a while or a long while, it doesn't matter so long as the entrepreneur is tracking it with intent to improve on it. So we don't want our founders to think about impact as an afterthought. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6503,
+      "timestamps": []
+    },
+    {
+      "end": 6845,
+      "excerpt": "[00:07:11] Gopi Rangan: I want to come back to more questions about, uh, the stage you invest and some sectors as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6726,
+      "timestamps": [
+        {
+          "offset": 6726,
+          "raw": "[00:07:11]",
+          "seconds": 431
+        }
+      ]
+    },
+    {
+      "end": 7185,
+      "excerpt": "Let's talk about impact first. Rama, you have extensive experience with impact as well. How do you measure impact? How do you know that the investments that you make are on the right track to create the right impact? And how do you make sure that it doesn't impose on the founders, even though you ask them to choose the metric they want?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6847,
+      "timestamps": []
+    },
+    {
+      "end": 7243,
+      "excerpt": "How do you make sure that you strike the right balance? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7187,
+      "timestamps": []
+    },
+    {
+      "end": 7948,
+      "excerpt": "So thank you for asking that question. First of all, it's been a long journey learning about impact and learning about barriers to impact, more importantly. Especially in the tech sector, where the tradition in the VC world has been focused that founder on a single bottom line and so there's a lot of resistance to looking at measuring anything other than financial return. And so sometimes the conversation is long, especially if we find a very successful founder on the tech side who might be very new to the whole composition on impact. So I think key is for us to first identify from our experience areas in which there could be impact in the technology if said founder has not looked at it before.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7245,
+      "timestamps": []
+    },
+    {
+      "end": 8248,
+      "excerpt": "Second is to begin with \"just give us one unit of measure.\" And we try and seed examples at the beginning of the conversation. Like, \"have you thought about this? Have you thought about that?\" And very often by the second or third conversation, they're open to at least exploring a unit of measure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7950,
+      "timestamps": []
+    },
+    {
+      "end": 8472,
+      "excerpt": "And then we ease them into, \"okay, let's report on this every couple of months.\" We help them with the reporting. We try and make it as easy as possible for them. And sure enough, with time, we find great success in that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8250,
+      "timestamps": []
+    },
+    {
+      "end": 8788,
+      "excerpt": "The other thing I would say is, because we have said, look, impact can be in the outcome of your business. Impact can be in who you hire. Impact can be in who your customers are. It's a relatively easy thing for them to onboard. And once that first step is taken, the rest is easier. I won't say easy, but easier. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8474,
+      "timestamps": []
+    },
+    {
+      "end": 8921,
+      "excerpt": "[00:09:19] Gopi Rangan: Impact is such a complicated thing to measure. And there's an aspect to it, which I constantly worry about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8790,
+      "timestamps": [
+        {
+          "offset": 8790,
+          "raw": "[00:09:19]",
+          "seconds": 559
+        }
+      ]
+    },
+    {
+      "end": 9325,
+      "excerpt": "The funds that actually say they are impact funds don't really create the impact. And I've seen so many funds that don't have the impact side of their story, but they actually do a lot of impact like through their investments. And here you are, you give the flexibility to the founder so that they measure what they want to measure and you help them ease them into the process of tracking it regularly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8923,
+      "timestamps": []
+    },
+    {
+      "end": 9429,
+      "excerpt": "Can you give an example of a startup where this is measured and you've been tracking it successfully? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9327,
+      "timestamps": []
+    },
+    {
+      "end": 10469,
+      "excerpt": "[00:09:55] Rama Chakaki: Sure. So all of our startups are measuring impact in this fund. I'll give you a few examples. So we typically say we're looking for founders that are either overlooked and underserved, number one; two, founders that are hiring overlooked and underserved communities; and three, that have a business outcome that affects overlooked or underserved communities. So I'll give you an example of the first. One of our founders comes from the foster care system. And while his business (he's developed male contraceptive) does not directly impact the foster care system, the fact that he is from the foster care system and today goes out and inspires young men and women in foster care, that's a unit of measure to say, \"can we move the needle on how we're impacting the foster care system in the early life of this startup? Now, once he's able to take his product to market, there's going to be a huge secondary impact on the women population because today, contraceptives have been largely the responsibility of women.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 9431,
+      "timestamps": [
+        {
+          "offset": 9431,
+          "raw": "[00:09:55]",
+          "seconds": 595
+        }
+      ]
+    },
+    {
+      "end": 10710,
+      "excerpt": "So if men are able to shoulder the burden in a way that's reversible and that's easy, then you immediately remove a huge burden off of women and make it that much more attainable to have contraceptives where they're needed most. And so... ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10471,
+      "timestamps": []
+    },
+    {
+      "end": 10768,
+      "excerpt": "[00:11:19] Gopi Rangan: What's the name of the company? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10712,
+      "timestamps": [
+        {
+          "offset": 10712,
+          "raw": "[00:11:19]",
+          "seconds": 679
+        }
+      ]
+    },
+    {
+      "end": 10814,
+      "excerpt": "[00:11:20] Rama Chakaki: It's called Plan A.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 10770,
+      "timestamps": [
+        {
+          "offset": 10770,
+          "raw": "[00:11:20]",
+          "seconds": 680
+        }
+      ]
+    },
+    {
+      "end": 10846,
+      "excerpt": "[00:11:22] Gopi Rangan: Okay. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10816,
+      "timestamps": [
+        {
+          "offset": 10816,
+          "raw": "[00:11:22]",
+          "seconds": 682
+        }
+      ]
+    },
+    {
+      "end": 11190,
+      "excerpt": "[00:11:23] Rama Chakaki: Yeah. And a very inspiring founder. And he continues to do great work in terms of inspiring other foster care young men and women, as well as hopefully be able to bring this product to market soon. Another example that came from a less likely space, which was a founder who's building a robotics quality assurance AI.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 10848,
+      "timestamps": [
+        {
+          "offset": 10848,
+          "raw": "[00:11:23]",
+          "seconds": 683
+        }
+      ]
+    },
+    {
+      "end": 11985,
+      "excerpt": "And, you know, you look at that at face value and you think what impact can robotics AI assurance have? But his use cases are founded on, for example, Amazon having reported 38, 000 injuries afflicted by robots in their warehouses in 2022, I think. And so when you bring the utility of this product to warehouses worldwide, you're talking about injury preventions among the lowest income working class. And so if you are preventing injuries, you're also increasing their livelihood. And that's a huge positive impact on the healthcare system, on the economics of those frontline workers. And that's, you know, once we were able to negotiate that and have him see it, then that became a very clear, impactful business, even though he hadn't thought of himself as creating an impactful business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11192,
+      "timestamps": []
+    },
+    {
+      "end": 12354,
+      "excerpt": "[00:12:51] Gopi Rangan: Wow, this is fascinating, indeed. There's a wide variety of metrics you can measure and each startup is different. That is amazing. I'm glad we started with the topic of impact. Now let's get back to more on the investments at Transform VC. You mentioned you invest in the earlier stages. Can you pick a few sectors that you like to invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11987,
+      "timestamps": [
+        {
+          "offset": 11987,
+          "raw": "[00:12:51]",
+          "seconds": 771
+        }
+      ]
+    },
+    {
+      "end": 12439,
+      "excerpt": "Can you give some descriptions on what kind of trends you're really excited about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12356,
+      "timestamps": []
+    },
+    {
+      "end": 13383,
+      "excerpt": "[00:13:16] Raed Masri: We like to invest in what is called smart infrastructure. So first of all, what is infrastructure? Something that is critical or essential in an economy. So smart infrastructure means that, but with software like margins. So we don't want to invest in roads and bridges. We want to invest in things like touch education, health care, infrastructure, easy infrastructure, future of work. These are areas that exhibit the network effects, which make them quite sticky. And that's, you know, infrastructure typically have that. So one of our investments is a company called Ample, which provides full electric energy to any EV in under five minutes. And, their commercial model is quite compelling as well. They, charge zero upfront, no capex; only a fee per mile that is 20 percent cheaper than gasoline. Another company is Xplain. So, aiXplain is a low code, no code development environment with an attached marketplace.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 12441,
+      "timestamps": [
+        {
+          "offset": 12441,
+          "raw": "[00:13:16]",
+          "seconds": 796
+        }
+      ]
+    },
+    {
+      "end": 13782,
+      "excerpt": "So if you think of AI as this black box filled with mathematical formulas that only the experts understand, well, seldom times do these experts have to make the strategic or ethical choices. These choices are typically made by domain experts or business people. So aiXplain allows domain experts to architect and deploy AI systems and solutions with zero AI expertise. But it's also a marketplace.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13385,
+      "timestamps": []
+    },
+    {
+      "end": 14096,
+      "excerpt": "So anything you build, others could buy or license if you allow them, or anything others build, you could buy or license if they allow you. So, as you'll see, the through line across our companies is the network effects, with its various types and shapes and forms, and we can spend some time talking about that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13784,
+      "timestamps": []
+    },
+    {
+      "end": 14368,
+      "excerpt": "They've got the deep tech with the software margins, and that 10x advantage, so whatever they're building, if it's not 10 times better than anything else, then customer will not leave what they have to go to founder. And that's kind of a key ingredient in our criteria. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14098,
+      "timestamps": []
+    },
+    {
+      "end": 14441,
+      "excerpt": "[00:15:03] Gopi Rangan: I see how you think about smart infrastructure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14370,
+      "timestamps": [
+        {
+          "offset": 14370,
+          "raw": "[00:15:03]",
+          "seconds": 903
+        }
+      ]
+    },
+    {
+      "end": 14700,
+      "excerpt": "Great examples. I'm learning a lot. Can we pick one of the examples and how the conversation evolved, especially in the first meeting, the second meeting. What questions did you ask them? And how did you get conviction that \"wow, this is going to be huge\"? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14443,
+      "timestamps": []
+    },
+    {
+      "end": 15107,
+      "excerpt": "[00:15:21] Raed Masri: We often say these initial conversations with the founder sometimes you know a right answer and wrong answer. But sometimes we don't even know what the right answer is. And what we probe for is founders way of thinking, founders way of articulating their thoughts. Are they precise? Are they clear? Are they over optimistic? Are they sufficiently optimistic? Are they self critical?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 14702,
+      "timestamps": [
+        {
+          "offset": 14702,
+          "raw": "[00:15:21]",
+          "seconds": 921
+        }
+      ]
+    },
+    {
+      "end": 15412,
+      "excerpt": "I can think of many of these examples. In the case of Ample, his claim is, \"Hey, I want to put a billion electric cars on the road.\" So such an audacious kind of objective. When you hear something like that, well, why? Why is that something that needs to be done? How are you going to do it differently?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15109,
+      "timestamps": []
+    },
+    {
+      "end": 15747,
+      "excerpt": "And then once you see the founder navigating the debate in a very self aware fashion, then you develop respect for that founder. And that's really a very important step in the process. And of course, if the market is big, then you become more interested. And as a fellow VC yourself, you know we like to invest in lines, not in dots.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15414,
+      "timestamps": []
+    },
+    {
+      "end": 16058,
+      "excerpt": "So initially that first meeting is a dot. Oftentimes we want to have a second dot that we can draw a line and we examine - have the founder done the things they say they're going to do - from that first meeting. So that creates credibility and trust. And hopefully the more dots we have, the longer the lines.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15749,
+      "timestamps": []
+    },
+    {
+      "end": 16391,
+      "excerpt": "In this particular company Ample, we invested, I think, at least six or seven months after the first meeting. But I met with him six or seven times. Every time I met with them, they did the things they said they were going to do, and they were progressing. And the areas where they were not progressing, they were not sugarcoating.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16060,
+      "timestamps": []
+    },
+    {
+      "end": 16462,
+      "excerpt": "They are saying it as is, and that's really quite important as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16393,
+      "timestamps": []
+    },
+    {
+      "end": 16614,
+      "excerpt": "[00:16:55] Gopi Rangan: How long does it take to form a line? In this case, the example you gave, it takes like six to seven months. Is that typical? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16464,
+      "timestamps": [
+        {
+          "offset": 16464,
+          "raw": "[00:16:55]",
+          "seconds": 1015
+        }
+      ]
+    },
+    {
+      "end": 16751,
+      "excerpt": "[00:17:03] Raed Masri: You know, we hope to have a prepared mind and be able to fast track that. So six or seven months is not typical.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 16616,
+      "timestamps": [
+        {
+          "offset": 16616,
+          "raw": "[00:17:03]",
+          "seconds": 1023
+        }
+      ]
+    },
+    {
+      "end": 17223,
+      "excerpt": "But in our process it's usually a few weeks, sometimes a month or two where we try to meet the founder as many times as possible. And if it's not a click right away, or if we're not fully prepared or primed, then it may require a follow on and, you know, wearing my entrepreneurial hat, a 'no' is only a postponed 'yes'. So we often encourage our founders to share with us their monthly updates or their quarterly updates so that we can reach out when something clicks. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16753,
+      "timestamps": []
+    },
+    {
+      "end": 17389,
+      "excerpt": "[00:17:38] Gopi Rangan: How does it work between the two of you? Do the founders need to convince each of you individually or the two of you take meetings together?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17225,
+      "timestamps": [
+        {
+          "offset": 17225,
+          "raw": "[00:17:38]",
+          "seconds": 1058
+        }
+      ]
+    },
+    {
+      "end": 17541,
+      "excerpt": "What happens when the two of you disagree and one of you is really excited and the other person is not? How can the founder manage that conversation? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17391,
+      "timestamps": []
+    },
+    {
+      "end": 17782,
+      "excerpt": "[00:17:54] Rama Chakaki: Yeah. So let me first start by introducing our fellowship team, which I think has been a phenomenal help to us. So we established this fellowship program where we've got mid career professionals that are coming in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 17543,
+      "timestamps": [
+        {
+          "offset": 17543,
+          "raw": "[00:17:54]",
+          "seconds": 1074
+        }
+      ]
+    },
+    {
+      "end": 18141,
+      "excerpt": "They either are intrigued and want to learn about how to become a VC, or they want to set up their startup eventually, and so they want to understand how startups are evaluated. And so we have, on average, around 15 fellows sitting on our deal call, and those 15 fellows help us assess the deals and they bring in their industry perspectives into the deals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17784,
+      "timestamps": []
+    },
+    {
+      "end": 18695,
+      "excerpt": "And so some of them are finance professionals. Others are medical doctors. Some of them are let's say AI engineers in various sectors. And so they, get to weigh in on their perspective of the opportunity and then I can always veto, but that brings a rainbow of color to different opportunities. Some of them are actually refugees that are just gotten out of the refugee situation and then others are out of Silicon Valley and that international element and the diversity of both class and knowledge just pretty much tells us everything we want to know.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18143,
+      "timestamps": []
+    },
+    {
+      "end": 19168,
+      "excerpt": "So they all get to weigh in and we have an average score and we ask them why yes and why no, and we get to air out our conversational differences and different perspectives. We've been able to move the needle on several opportunities that initially were an absolute no for Raed or for me. And then eventually with the perspectives we were hearing, we said, okay, we'll meet the founder for the first time, because we were convinced from the industry experts, the fellows.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18697,
+      "timestamps": []
+    },
+    {
+      "end": 19523,
+      "excerpt": "And then the same thing happens again, once we met the founder, if let's say it's a technology that is complicated, we send it to an advisor and those advisors are experts in their fields who will do a lot of due diligence with us on the technology. So yeah, I think these checks and balances help us converge in opinion where we're initially diverging.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19170,
+      "timestamps": []
+    },
+    {
+      "end": 19874,
+      "excerpt": "[00:20:12] Raed Masri: And we have a scoring system that everybody follows, but we also invite our team members and we're really quite flat in that even a junior person can be super passionate about something and pound the table in a in a friendly way, saying, \"Hey, we really need to spend more time on this or not spend more time on this for 123.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 19525,
+      "timestamps": [
+        {
+          "offset": 19525,
+          "raw": "[00:20:12]",
+          "seconds": 1212
+        }
+      ]
+    },
+    {
+      "end": 20144,
+      "excerpt": "So we've had to the 2 extremes. We've had instances where companies were scored poorly, but ended up moving forward because of someone being very passionate and vice versa. So basically, the question we ask all our team members to ask when a company is being presented",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19876,
+      "timestamps": []
+    },
+    {
+      "end": 20356,
+      "excerpt": "is: why is it scored this way? Why is it not higher? Why is it not lower? Don't just accept the score that's been assigned to this opportunity. And, oftentimes that really unveils a lot of opportunities for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20146,
+      "timestamps": []
+    },
+    {
+      "end": 20577,
+      "excerpt": "[00:21:01] Gopi Rangan: I see that you have a group of fellows and they are very diverse, so their domain expertise and functional expertise brings a lot of richness to the conversation to help you form that conviction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20358,
+      "timestamps": [
+        {
+          "offset": 20358,
+          "raw": "[00:21:01]",
+          "seconds": 1261
+        }
+      ]
+    },
+    {
+      "end": 20824,
+      "excerpt": "And through that process, the founder, even I would imagine that even when you don't invest, the conversations help the founders. How often do you invest? Like, what's the percentage of companies you meet in a year that you end up investing in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20579,
+      "timestamps": []
+    },
+    {
+      "end": 21324,
+      "excerpt": "[00:21:28] Raed Masri: I think similar to many of the firms in the valley, yourself included, we have hundreds, maybe thousands a year ended up taking meetings with maybe 10 percent of that and investing in one or 2%. So the bar is really quite high. That being said, we are actively investing right now. So anyone listening, invite you to be submitting a founder application or reaching out to us because we are actively investing and we want to make a few more investments before end of the year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 20826,
+      "timestamps": [
+        {
+          "offset": 20826,
+          "raw": "[00:21:28]",
+          "seconds": 1288
+        }
+      ]
+    },
+    {
+      "end": 21401,
+      "excerpt": "[00:21:57] Gopi Rangan: How many investments do you make per year roughly? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21326,
+      "timestamps": [
+        {
+          "offset": 21326,
+          "raw": "[00:21:57]",
+          "seconds": 1317
+        }
+      ]
+    },
+    {
+      "end": 21502,
+      "excerpt": "[00:22:00] Raed Masri: We'd like to have the cadence of about 10 investments a year. Give or take. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 21403,
+      "timestamps": [
+        {
+          "offset": 21403,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 21746,
+      "excerpt": "[00:22:06] Gopi Rangan: Great. I'm going to ask you a more philosophical question here because I know Raed, especially you, I have known you for many years now. And Rama, you're coming into the venture capital ecosystem from the founder side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21504,
+      "timestamps": [
+        {
+          "offset": 21504,
+          "raw": "[00:22:06]",
+          "seconds": 1326
+        }
+      ]
+    },
+    {
+      "end": 21913,
+      "excerpt": "As you started Transform VC, are there some things that you want to transform about the venture capital industry? What needs to change to make this industry better? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21748,
+      "timestamps": []
+    },
+    {
+      "end": 22096,
+      "excerpt": "[00:22:28] Rama Chakaki: Where do we start? And I think I have a lot more thoughts about that. But I definitely came in at this stage of my life with the intention to impact change.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 21915,
+      "timestamps": [
+        {
+          "offset": 21915,
+          "raw": "[00:22:28]",
+          "seconds": 1348
+        }
+      ]
+    },
+    {
+      "end": 22434,
+      "excerpt": "And I'm very excited about the change that we're already seeing from our perspective. So obviously as a woman, I would love to see more women in the field, more women LPs, more women VCs, and more women invested in. And I think that there's a lot that needs to be done in that space by the existing VCs and LPs, as well as by newcomers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22098,
+      "timestamps": []
+    },
+    {
+      "end": 23677,
+      "excerpt": "And the first is to be very mindful of our unconscious biases in terms of the way we speak, the way we evaluate opportunities and what we term success to be that kind of causes us to invest or not invest. So that's definitely a huge part. But then I would extrapolate from that as well for overlooked founders across the board. I think, now it's been three years we've been on a roadshow around the United States under the banner 'Impact a Billion and Make a Billion'. And with this impact a billion, we've gone to historical black community colleges and, and other organized communities to uncover founders that are typically overlooked. And what it takes to bring a very bright founder with a very tangible opportunity from the south into a Silicon Valley community where he can speak that same language and convince those same VCs is a long journey. And it's a journey filled with hurdles. And we would love to partner with the VC community as well as the nonprofits in the field to help us bridge that gap so that we are seeing more diverse founders solving real problems that exist across the United States. And of course, the same can be extrapolated for founders from other communities worldwide. I'll stop there and see if I had any.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22436,
+      "timestamps": []
+    },
+    {
+      "end": 24393,
+      "excerpt": "[00:24:34] Raed Masri: I'll say, I'll say a lot. I mean, it's for me, it was really important and I feel really quite privileged that Rama has joined me on the journey because she, as you can see, just the way she thinks and talks, she hasn't drank the Silicon Valley Kool Aid. And even the way we carry ourselves at our team meetings, the way we invite our entrepreneurs to be advocates for the founders and the opportunities that they're presenting. And if someone is not being a good advocate for the founder, we ask them to redo it. We want our team to be representing the founders as if they are the founders. And these are things, honestly, that I, you know, I certainly drank the Kool Aid of Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 23679,
+      "timestamps": [
+        {
+          "offset": 23679,
+          "raw": "[00:24:34]",
+          "seconds": 1474
+        }
+      ]
+    },
+    {
+      "end": 25134,
+      "excerpt": "I've lived the Silicon Valley life even when I was not in Silicon Valley. That's just not the way we think and talk. As an immigrant myself, it took me 11 years from my first startup until I made a dent in the world and I was kind of a somebody back in Canada. My objective is to help other founders not to have to wait 11 years like I did and hopefully bring wisdom, community, and expertise that would help them affect the maximum impact per unit time. And having been an entrepreneur myself and having had a couple of decent swings by Canadian standards pretty big but by Silicon Valley standards, minuscule. But having done that, I discovered that the maximum I could ever accomplish being an entrepreneur is make myself a billionaire.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24395,
+      "timestamps": []
+    },
+    {
+      "end": 25360,
+      "excerpt": "But as a venture capitalist in partnership with Rama, we have the legitimate aspiration to invest in a thousand other founders who each could impact a billion make a billion. No other job in the world affords us this dream. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25136,
+      "timestamps": []
+    },
+    {
+      "end": 25572,
+      "excerpt": "[00:26:08] Gopi Rangan: I admire your bold vision and you've touched on some very important themes like lack of diversity in the ecosystem on the LP side, venture capital investor side, and on the founder side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25362,
+      "timestamps": [
+        {
+          "offset": 25362,
+          "raw": "[00:26:08]",
+          "seconds": 1568
+        }
+      ]
+    },
+    {
+      "end": 25901,
+      "excerpt": "A lot can change to improve the ecosystem. It's great to see that you're taking a strong point of view and acting on it as well. Given all the topics we've talked about, impact and the stage, the sectors that you invest in, and the changes you would like to see in the venture capital ecosystem, what's your advice to founders?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25574,
+      "timestamps": []
+    },
+    {
+      "end": 26278,
+      "excerpt": "What can they do to be effective in the first few meetings with you so that they are prepared and they can be productive, they take something away from the first few meetings? Beyond the prepare your slide deck and those kind of things, like we have your story, like what are some tips that you would like to share with founders to make the first few meetings very effective?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25903,
+      "timestamps": []
+    },
+    {
+      "end": 26720,
+      "excerpt": "[00:26:59] Raed Masri: So I'll share two points here. One is kind of a more mechanical one. By going through our founder form, we're going to be asking you questions that oftentimes push the founder to think in directions they hadn't thought of before. So just going through that form. And offering wholesome responses is going to push the founders thinking and help us be better advocates for you as we discuss this opportunity internally.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 26280,
+      "timestamps": [
+        {
+          "offset": 26280,
+          "raw": "[00:26:59]",
+          "seconds": 1619
+        }
+      ]
+    },
+    {
+      "end": 27101,
+      "excerpt": "So that's kind of the mechanical piece of advice. The more kind of overarching piece of advice is just be extraordinarily obsessed with your prospective customers and solving a problem. And once you are, then whatever we throw at you, or whatever anyone throws at you, you're going to always be centered of how this solves someone's problem and why you are so obsessed with that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26722,
+      "timestamps": []
+    },
+    {
+      "end": 27237,
+      "excerpt": "[00:27:44] Gopi Rangan: Rama, can you share a tip on how to measure impact for, especially for founders who haven't thought about it? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27103,
+      "timestamps": [
+        {
+          "offset": 27103,
+          "raw": "[00:27:44]",
+          "seconds": 1664
+        }
+      ]
+    },
+    {
+      "end": 27510,
+      "excerpt": "[00:27:51] Rama Chakaki: Sure. I think, we, tried to create a very low bar and that we put our questions in a form on the website that describes it. And so if they just follow the questions that we have on on our website in the application form, they'll come across that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 27239,
+      "timestamps": [
+        {
+          "offset": 27239,
+          "raw": "[00:27:51]",
+          "seconds": 1671
+        }
+      ]
+    },
+    {
+      "end": 27816,
+      "excerpt": "But I think one thing that I always invite founders to do is if you get to a phone call with us, send us an email with questions to us, because I always say this is a two way interview. It's not a one way interview. It's not like we have to like you and then it doesn't matter whether you like us or not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27512,
+      "timestamps": []
+    },
+    {
+      "end": 28016,
+      "excerpt": "So and no question is a bad question. We are very happy to share of our knowledge. And sometimes it's like, well, does this really count as impact or not? And we can respond with the right details. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27818,
+      "timestamps": []
+    },
+    {
+      "end": 28245,
+      "excerpt": "[00:28:39] Gopi Rangan: Now, these partnerships with founders go a long way. They last years, sometimes decades. So, it's great to start with a two way conversation and ask questions both ways so you can learn about each other.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28018,
+      "timestamps": [
+        {
+          "offset": 28018,
+          "raw": "[00:28:39]",
+          "seconds": 1719
+        }
+      ]
+    },
+    {
+      "end": 28455,
+      "excerpt": "Thanks for highlighting that. We're coming towards the end of our conversation, and I want to ask you about your community involvement. Is there a non profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28247,
+      "timestamps": []
+    },
+    {
+      "end": 28606,
+      "excerpt": "[00:29:01] Rama Chakaki: Very much so. In 2014, I co founded the VIP Fund. And the VIP Fund supports higher education for youth impacted by conflict.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 28457,
+      "timestamps": [
+        {
+          "offset": 28457,
+          "raw": "[00:29:01]",
+          "seconds": 1741
+        }
+      ]
+    },
+    {
+      "end": 28946,
+      "excerpt": "We started out in the Middle East with the hopes of quickly expanding, but we found ourselves stuck in the Middle East because of all the conflicts. And typically, we support youth with helping them fundraise on a crowdfunding platform we built. We invite speakers to come and speak with them to raise their awareness about opportunities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28608,
+      "timestamps": []
+    },
+    {
+      "end": 29028,
+      "excerpt": "We also connect them with employers from our industries. So that's my favorite. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28948,
+      "timestamps": []
+    },
+    {
+      "end": 29130,
+      "excerpt": "[00:29:39] Gopi Rangan: Oh, this is a powerful organization. Indeed. It can create a lot of impact. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29030,
+      "timestamps": [
+        {
+          "offset": 29030,
+          "raw": "[00:29:39]",
+          "seconds": 1779
+        }
+      ]
+    },
+    {
+      "end": 29168,
+      "excerpt": "[00:29:44] Rama Chakaki: Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rama Chakaki",
+      "start": 29132,
+      "timestamps": [
+        {
+          "offset": 29132,
+          "raw": "[00:29:44]",
+          "seconds": 1784
+        }
+      ]
+    },
+    {
+      "end": 29408,
+      "excerpt": "[00:29:45] Gopi Rangan: Well, Rama and Rayed, thank you very much for spending time with me. Thanks for sharing candid advice to founders. Thanks for sharing your personal journeys on like how you got to VC and what you like to invest in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29170,
+      "timestamps": [
+        {
+          "offset": 29170,
+          "raw": "[00:29:45]",
+          "seconds": 1785
+        }
+      ]
+    },
+    {
+      "end": 29513,
+      "excerpt": "These nuggets of wisdom is super valuable for founders. I look forward to sharing them with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29410,
+      "timestamps": []
+    },
+    {
+      "end": 29601,
+      "excerpt": "Thank you for hosting us. It was delightful and appreciate your thoughtful questions. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29515,
+      "timestamps": []
+    },
+    {
+      "end": 29757,
+      "excerpt": "[00:30:08] Raed Masri: Absolutely. Thanks, Gopi, very much. And hopefully we get to see you again and spend time together in San Francisco and in the Bay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Raed Masri",
+      "start": 29603,
+      "timestamps": [
+        {
+          "offset": 29603,
+          "raw": "[00:30:08]",
+          "seconds": 1808
+        }
+      ]
+    },
+    {
+      "end": 30134,
+      "excerpt": "[00:30:16] Gopi Rangan: Thank you both of you. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29759,
+      "timestamps": [
+        {
+          "offset": 29759,
+          "raw": "[00:30:16]",
+          "seconds": 1816
+        }
+      ]
+    }
+  ],
+  "source_sha256": "af51be40418224538603caaec3228f4e29f08256fa18f863342daf6f41371cb9",
+  "text_sha256": "192a4c585323e7fbbaff380ef1409ae4b00dcb87256ad448153eb5906c24bcbf"
+}

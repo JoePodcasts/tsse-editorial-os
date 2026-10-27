@@ -1,0 +1,1209 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 263,
+      "excerpt": "I'm an LP with 45 different investment firms and probably 120 something VC funds generally, diversified across vantages and, of course, across those 45 firms. I have a lot of portfolio companies. I can diversify on my own. I want the GPs to choose the right ones.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 665,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the SureShot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Eric Sippel. Eric runs his family office, Sippel Farb Family Office.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 265,
+      "timestamps": []
+    },
+    {
+      "end": 1038,
+      "excerpt": "He's based in Silicon Valley in Berkeley. [00:01:00] And he invests in emerging managers, one of the most difficult asset classes to invest in. How does he find venture capital funds to invest in? What does he look for? What kind of traits excite him? And what are things that bother him and why does he say no? We're going to talk to him about his investment philosophy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 667,
+      "timestamps": [
+        {
+          "offset": 709,
+          "raw": "[00:01:00]",
+          "seconds": 60
+        }
+      ]
+    },
+    {
+      "end": 1085,
+      "excerpt": "Eric, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1040,
+      "timestamps": []
+    },
+    {
+      "end": 1133,
+      "excerpt": "Eric Sippel: Thank you so much for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 1087,
+      "timestamps": []
+    },
+    {
+      "end": 1296,
+      "excerpt": "Gopi Rangan: Let's start with you, Eric. Who are you? And how did you come to Silicon Valley? And where are you from originally? I believe you're from New York, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1135,
+      "timestamps": []
+    },
+    {
+      "end": 1305,
+      "excerpt": "right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1298,
+      "timestamps": []
+    },
+    {
+      "end": 1781,
+      "excerpt": "Yes, I grew up in New York. I came out here to go to law school, although I live in Berkeley, it's that other school across the bay at Stanford. And I started my law practice for the first four years at a major New York multinational firm, working with our firm's private equity fund clients. I've been in the alternative investments space my entire 38 year career. Then I moved out here in 1990 and co led a nationally recognized hedge fund to venture capital law practice.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1307,
+      "timestamps": []
+    },
+    {
+      "end": 2181,
+      "excerpt": "[00:02:00] And then in January of 2000, I left that practice and left the practice of law to join one of my clients that spun out from Roberts and Stevens. It was a hedge fund firm that grew to several billion dollars under management. I was the chief operating officer there for 10 years, also led our venture capital practice, which is probably bottom decile venture capital practice at the time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1783,
+      "timestamps": [
+        {
+          "offset": 1783,
+          "raw": "[00:02:00]",
+          "seconds": 120
+        }
+      ]
+    },
+    {
+      "end": 2540,
+      "excerpt": "So it gave me lots of lessons learned. Thankfully, we didn't really invest very much of our client's capital. And then after that, we closed down our firm in early 2010. And since then, I've been running my family office and investing in funds in throughout the entire alternative space and also coaching, mentoring, acting as a sounding board for managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2183,
+      "timestamps": []
+    },
+    {
+      "end": 2644,
+      "excerpt": "And I probably spend 85 percent of my time and 15 percent of my capital in the venture capital space. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2542,
+      "timestamps": []
+    },
+    {
+      "end": 2698,
+      "excerpt": "What got you into actively investing in this space? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2646,
+      "timestamps": []
+    },
+    {
+      "end": 2958,
+      "excerpt": "Eric Sippel: [00:03:00] Oh gosh. So I've been investing in venture funds for about 25, 26 years. So I guess there's a couple of things. And so let me back up and say that I think of emerging manager venture as a separate asset class from established venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 2700,
+      "timestamps": [
+        {
+          "offset": 2713,
+          "raw": "[00:03:00]",
+          "seconds": 180
+        }
+      ]
+    },
+    {
+      "end": 3290,
+      "excerpt": "And so my comments here are going to be all addressed toward the emerging manager venture capital class, not the established manager, manager class. So what got me interested? So number one venture generally, I think is like reading the newspaper in five to 10 to 15 years today and understanding sort of where the world is going.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2960,
+      "timestamps": []
+    },
+    {
+      "end": 3630,
+      "excerpt": "And really that sort of excites me. The ability to disrupt and create change in a really positive way. So that's number one. Number two, after we closed down our hedge fund and I quote retired, which means I just don't get paid anymore. I was sort of want to make sure that I could quote, stay in the game, stay intellectually stimulated.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3292,
+      "timestamps": []
+    },
+    {
+      "end": 3850,
+      "excerpt": "The skill that I really had was [00:04:00] working with emerging managers across asset classes. And so I really want to marry those two things together, which is why I spend 85 percent of my time in the venture class. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3632,
+      "timestamps": [
+        {
+          "offset": 3664,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 3999,
+      "excerpt": "Gopi Rangan: I like the way you said it, reading the newspaper that's going to be published 15 years from now, but you're already reading it today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3852,
+      "timestamps": []
+    },
+    {
+      "end": 4154,
+      "excerpt": "You've been investing in venture funds for 25 years, and especially in the past 10-15 years, a lot of changes have happened. How do you characterize it? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4001,
+      "timestamps": []
+    },
+    {
+      "end": 4469,
+      "excerpt": "Eric Sippel: Oh gosh! It's grown up. But not always necessarily for the better. There are, because barriers to entry are so low in the, particularly in the emerging manager venture class, there are thousands and thousands of emerging venture capital managers where 10 years ago, I don't know, were there 25 or 50?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 4156,
+      "timestamps": []
+    },
+    {
+      "end": 4810,
+      "excerpt": "Maybe a hundred. You could know you knew everybody. And now I still know. Tons, [00:05:00] but it's just too many. And so these thousands of managers, for the most part, because venture is really hard, they're really talented people and they're really smart. , but at this point, and now I'm sitting here in 2024, they're too much capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4471,
+      "timestamps": [
+        {
+          "offset": 4551,
+          "raw": "[00:05:00]",
+          "seconds": 300
+        }
+      ]
+    },
+    {
+      "end": 5510,
+      "excerpt": "Too many decision makers changing a similar number of opportunities. Now, obviously the number of opportunities have grown from 2014 to 2024. There are more backable companies, but it hasn't grown at the same rate that the number of venture capitalists has. So that's the biggest change as I've seen it, as a result of that, and this cycles like everything, the amount of time, and it's way better in the last 12 to 15 months than it was certainly in 2020, 2021, first quarter of 22, but it was still bad in 2018, 19. It's still bad in 2024. The amount of time that GPs [00:06:00] spend getting to know a founder before they commit. And this isn't true universally, of course, uh, is way too short.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4812,
+      "timestamps": [
+        {
+          "offset": 5382,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 5841,
+      "excerpt": "And particularly at the pre seed, seed stage, but of course, even at the A stage, this is a very long term marriage and both sides need to get really comfortable. And making quick decisions on either side leads to bad outcomes. And so this sort of proliferation of emerging venture capitalists has led to quicker decision making.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5512,
+      "timestamps": []
+    },
+    {
+      "end": 5887,
+      "excerpt": "And I just don't think that's for the good. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5843,
+      "timestamps": []
+    },
+    {
+      "end": 6239,
+      "excerpt": "Gopi Rangan: Speed is sometimes reckless. And when they make these decisions, especially decisions they cannot undo for years or perhaps decades, it needs to be thought through on both sides and both sides are accelerating at a fast pace. And both founders want speed and VCs have also adopted to a far greater speed without doing much due diligence.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5889,
+      "timestamps": []
+    },
+    {
+      "end": 6422,
+      "excerpt": "They just make these decisions and that kind of [00:07:00] results in a bad outcome for the entire ecosystem. That's your main pet peeve about the recent trends that have happened. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6241,
+      "timestamps": [
+        {
+          "offset": 6289,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 6647,
+      "excerpt": "Eric Sippel: Well, so my other pet peeve, so that is true. My other pet peeve is people who think that because they were good angel investors, there'll be good venture cap, there'll be good stewards of other people's money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 6424,
+      "timestamps": []
+    },
+    {
+      "end": 6972,
+      "excerpt": "There's, it's a very different thing. It doesn't mean you can't be both. But there's this sort of expectation or entitlement that a lot of people have. It's like, \"Oh, I was a really good founder. I was a really good angel investor. Of course I'm going to be a good general partner.\" And the answer is maybe, but maybe not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6649,
+      "timestamps": []
+    },
+    {
+      "end": 7318,
+      "excerpt": "Gopi Rangan: It's difficult for successful Angel investor to know whether it was they were successful because of skill or luck. And it may also be not true that they might like the job of a full time venture capital investor. Sometimes they just don't like it after two years and they give up or they realize that, no, they're not that skilled.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6974,
+      "timestamps": []
+    },
+    {
+      "end": 7576,
+      "excerpt": "They need [00:08:00] to do a lot more to learn and It is not a good outcome for either the founder or the VC when the barrier is so low to become a VC and switching from angel investing to becoming a GP that we begin to see a lot of bad GPs in the market. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7320,
+      "timestamps": [
+        {
+          "offset": 7330,
+          "raw": "[00:08:00]",
+          "seconds": 480
+        }
+      ]
+    },
+    {
+      "end": 7660,
+      "excerpt": "Eric Sippel: A hundred percent. Or I wouldn't call him bad. I'd call him mediocre.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 7578,
+      "timestamps": []
+    },
+    {
+      "end": 8019,
+      "excerpt": "But one thing you said that I think is really interesting is the difference between skill and luck. So every single successful investor in the world, in every asset class, has a good amount of luck going for them. But they also have a good amount of skill going for them and different asset classes, there's more skill and other asset classes are more luck.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7662,
+      "timestamps": []
+    },
+    {
+      "end": 8350,
+      "excerpt": "I would submit to you then the public equity asset class at the moment for the last 10 or 15 years. There's a lot more luck there than there is skill. Um, and there's a lot less dispersion. The asset classes where there's more dispersion, venture has the most dispersion from the mean. That's where the most skills are, is there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8021,
+      "timestamps": []
+    },
+    {
+      "end": 8399,
+      "excerpt": "But the skill [00:09:00] is derived over time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8352,
+      "timestamps": [
+        {
+          "offset": 8366,
+          "raw": "[00:09:00]",
+          "seconds": 540
+        }
+      ]
+    },
+    {
+      "end": 8711,
+      "excerpt": "Gopi Rangan: Why is that inherently bad? It just invites more people to the ecosystem. Some may be qualified, some may not be as qualified, but they're all doing something. They're contributing to the proliferation of entrepreneurship, encouraging people to start companies, and that in itself is a good thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8401,
+      "timestamps": []
+    },
+    {
+      "end": 8929,
+      "excerpt": "So they're willing to pay the tuition fees to a founder who's learning how to be an entrepreneur. You may not be a good entrepreneur, but overall the ecosystem is better when we have more entrepreneurs in the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8713,
+      "timestamps": []
+    },
+    {
+      "end": 9163,
+      "excerpt": "Eric Sippel: So it's not that it's bad or good, because by the way, you asked for what's changed and I said there were more, there were more GPs and then you use the word pet peeve, which then implies that it's bad, but that's okay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 8931,
+      "timestamps": []
+    },
+    {
+      "end": 9533,
+      "excerpt": "So there are both good parts and bad parts. The good parts of what you described, and I absolutely acknowledge that more entrepreneurship, more innovation, that's clearly better. But what it also does is it rushes everybody. It forces them to make [00:10:00] quicker decisions than they would. It reduces the number of good companies that are sort of available per GP.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9165,
+      "timestamps": [
+        {
+          "offset": 9413,
+          "raw": "[00:10:00]",
+          "seconds": 600
+        }
+      ]
+    },
+    {
+      "end": 9847,
+      "excerpt": "And it also leads to inflated valuations, which ultimately leads to capital leaving the sector when people sort of figure it out. You know, I'm not sure how much capital is left in the last year, year and a half, clearly a fair, you know, a fair bit is left and. Dislocations aren't necessarily good for anybody.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9535,
+      "timestamps": []
+    },
+    {
+      "end": 10206,
+      "excerpt": "Gopi Rangan: So from the perspective of a founder, if a bad founder with a bad idea could get funded at a high valuation, a good founder with a good idea would expect should be higher valuation and my deal should be, I should be able to raise more money and that kind of drives up the expectations. And therefore now VCs also behave same way they're forced.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9849,
+      "timestamps": []
+    },
+    {
+      "end": 10315,
+      "excerpt": "Good VCs are forced to behave and adjust to this new world. And that is not a good outcome [00:11:00] for. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10208,
+      "timestamps": [
+        {
+          "offset": 10299,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 10601,
+      "excerpt": "Eric Sippel: Well, so that's true. And the other thing that's true is if good VCs are forced to pay an unreasonably high valuation for a good company, and I'm an LP with that good VC, then my returns are muted or, and as a result, I'm less likely to want to invest in the asset class.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 10317,
+      "timestamps": []
+    },
+    {
+      "end": 10937,
+      "excerpt": "Gopi Rangan: So is that a fair conclusion we can come to that overall the venture asset class is not going to produce exceptional returns like it did in the past, although there might be more companies and perhaps even great innovation and great outcomes for the startup, but LPs are not going to make as high returns as they used to?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10603,
+      "timestamps": []
+    },
+    {
+      "end": 11644,
+      "excerpt": "Eric Sippel: No, I actually think that those things don't follow. There's going to be a lot of capital that underperforms. Capital that's been invested over the last five, six years, that is going to underperform based on that whole dynamic that we just talked about and laid out, but again, remember the dispersion [00:12:00] question. There's a massive dispersion across venture capital firms, particularly at the sub 150 million under management level, call that emerging manager VC, micro VC, whatever you want to call it. There are, and will continue to be a very large number of funds in that category, in the top quartile, top third, that will create much better returns than any other asset class.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 10939,
+      "timestamps": [
+        {
+          "offset": 11255,
+          "raw": "[00:12:00]",
+          "seconds": 720
+        }
+      ]
+    },
+    {
+      "end": 12042,
+      "excerpt": "Gopi Rangan: So it's hard to be a good VC. And it's also hard to find a good VC to invest in as an LP because of the dispersion. Correct. Very interesting. Thanks for engaging in this spirited debate. We're uncovering a lot of insights here. Of course. So now let's talk about how you determine what in your definition, what is a good VC and what do you look for when you make investments in VCs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11646,
+      "timestamps": []
+    },
+    {
+      "end": 12524,
+      "excerpt": "Eric Sippel: So I have a narrow, relatively narrow rubric, [00:13:00] and I acknowledge that there are a lot of very talented VCs that don't fall within my rubric that I pass on. And some of those VCs often go on to be very successful. So what I am trying to do is to increase the probability that the GPs where I invest in increase the probability that they will be successful and decrease the probability that they will be below the median in terms of returns for their vantage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 12044,
+      "timestamps": [
+        {
+          "offset": 12103,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 12648,
+      "excerpt": "So that's my goal. And I recognize that the framework that I'm about to describe is intentionally narrow because of that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12526,
+      "timestamps": []
+    },
+    {
+      "end": 12677,
+      "excerpt": "All right, I'm buckled up. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12650,
+      "timestamps": []
+    },
+    {
+      "end": 12862,
+      "excerpt": "I'm ready. Uh, yeah, it's maybe too much of an intro, given the You'll see after I describe it, it's not all that exciting. So, I'll start with, I prefer specialists over generalists.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12679,
+      "timestamps": []
+    },
+    {
+      "end": 13183,
+      "excerpt": "But specialists can be sector [00:14:00] specialists, they could be immigrant founders, they could be regional specialists like, you know, Nigerian fund that is invest across sectors, but I prefer specialists, although I will from time to time invest in what I call what I think of as generalists. So that's number one.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12864,
+      "timestamps": [
+        {
+          "offset": 12894,
+          "raw": "[00:14:00]",
+          "seconds": 840
+        }
+      ]
+    },
+    {
+      "end": 13569,
+      "excerpt": "Number two. I prefer a space where I believe that there is less capital than there are opportunities in a different way of saying less crowded rather than more crowded space. But things change over time. And so, for example, I invested in Blockchain Capital. That is, was the one of the first, if not the first venture capital firm in the crypto and blockchain space starting in 2012.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13185,
+      "timestamps": []
+    },
+    {
+      "end": 13933,
+      "excerpt": "Back when I first invested with them in 2016, it was still really an uncrowded field. Well, today it's very crowded and I continue to invest with them and they, they have done [00:15:00] extraordinarily well. But you know, that fund that I invested in 2016, 2017, it's gonna be a 10 x fund, at least in part because it was so, it was, it was not a crowded space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13571,
+      "timestamps": [
+        {
+          "offset": 13747,
+          "raw": "[00:15:00]",
+          "seconds": 900
+        }
+      ]
+    },
+    {
+      "end": 14340,
+      "excerpt": "And so I recognize that space has changed from time to time anyway, crowded space, uncrowded space, that's one. Two is. I am looking for a GP or a GP team where at least one person has at least five years of operating and industry experience related to the space in which they're investing. And at least someone on the team, it could be the same person, at least five years investing other people's money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13935,
+      "timestamps": []
+    },
+    {
+      "end": 14833,
+      "excerpt": "So not just an angel track record. In a manner that is similar to how they're going to invest my money. So if they were at a large firm doing growth stage capital, and now they're starting up their own seed stage capital, that's not the same way. So that's the second area, the 30 and really a different way of saying that as [00:16:00] I'm looking for a good GP fund or GP thesis fit. The third aspect that I'm looking for is what I call the three S's sourcing, selection, and stewardship. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14342,
+      "timestamps": [
+        {
+          "offset": 14668,
+          "raw": "[00:16:00]",
+          "seconds": 960
+        }
+      ]
+    },
+    {
+      "end": 14940,
+      "excerpt": "1. Sourcing: really sourcing and winning, um, where are you finding your deals, what's your network like?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14835,
+      "timestamps": []
+    },
+    {
+      "end": 15086,
+      "excerpt": "2. Selection: which is how do you do due diligence, how do you analyze companies, what gets in the portfolio, what doesn't get in the portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14942,
+      "timestamps": []
+    },
+    {
+      "end": 15159,
+      "excerpt": "3. Stewardship: how much you help the companies where you've invested. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15088,
+      "timestamps": []
+    },
+    {
+      "end": 15723,
+      "excerpt": "I am different than most LPs. I triple click on stewardship. I double click on selection and I single click on sourcing, whereas everyone else is the exact opposite. And I believe that stewardship or helping your companies really predicts how well you're going to be at sourcing, how well you're going to be at selecting. And so in different GPs help their companies in different ways. Some are particularly good at business development and marketing. [00:17:00] Some are very, very good at strategy. Some are great at getting visas for their immigrant founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15161,
+      "timestamps": [
+        {
+          "offset": 15613,
+          "raw": "[00:17:00]",
+          "seconds": 1020
+        }
+      ]
+    },
+    {
+      "end": 16247,
+      "excerpt": "Like it just depends, but that's critically important to me. So that's the three S's. That's the third prong. The fourth prong is portfolio construction. I am looking for concentrated portfolios. Smaller is better than bigger, but 15 to 25 is kind of the sweet spot. Typically 10 is great, but 15 to 25 companies, it can be more if they're more GPs so that one of the firms I'm an LP with Foothill Ventures, which is also great as a deep tech seed stage fund, they have 40 to 50 companies per fund, but they have four GPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15725,
+      "timestamps": []
+    },
+    {
+      "end": 16620,
+      "excerpt": "So they have 10 companies per GP per fund. That's okay. Another firm has 35 and has two GPs. So that's 17 or 18 per GP. Those are kind of within the sweet spot. So it's not just how many companies it's how many per GP and how much does each GP get involved with every company? The [00:18:00] reason why that's important is not just what drives returns, but it's capacity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16249,
+      "timestamps": [
+        {
+          "offset": 16530,
+          "raw": "[00:18:00]",
+          "seconds": 1080
+        }
+      ]
+    },
+    {
+      "end": 16938,
+      "excerpt": "So what people don't understand is particularly in the emerging manager VC class. So we're not talking about a firm like a16z, which has myriad investors all looking at things. You know, if you're an emerging manager VC of one, two, five people in your firm, you know, you just don't have time to look at everything.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16622,
+      "timestamps": []
+    },
+    {
+      "end": 17328,
+      "excerpt": "You don't have time to help 50 companies per year. You really need to narrow down. And I would like bets to be high conviction. If you make a bunch of low conviction bets that don't pay off, you've just wasted capital. So again, this is. A, an unpopular opinion in LP land to look for concentrated managers, as opposed to saying one portfolio company is going to drive the entire returns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16940,
+      "timestamps": []
+    },
+    {
+      "end": 17656,
+      "excerpt": "Therefore, I want to increase the probability of getting that portfolio company. I'm in an LP with 45 different investment firms and probably 120 some odd [00:19:00] VC funds, generally diversified across vantages and of course, of course, across those 45 firms. I have a lot of portfolio companies. I can diversify on my own.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17330,
+      "timestamps": [
+        {
+          "offset": 17485,
+          "raw": "[00:19:00]",
+          "seconds": 1140
+        }
+      ]
+    },
+    {
+      "end": 17970,
+      "excerpt": "I want the GPs to choose the right ones. What that goes with it though is high ownership and high ownership is related to reasonable valuations. So I don't like high valuations. So that's the fourth prong. What that leads to, when you think about the totality of it, are GPs that are typically more sober minded.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17658,
+      "timestamps": []
+    },
+    {
+      "end": 18439,
+      "excerpt": "A little bit more experienced means a little bit older. And so it's that portfolio skews to that. People have seen more cycles. That's the other five year thing, five years in five years is really around seeing multiple cycles. And there's no shortage of really talented people who fit that bill. But it is also, it's easy to narrow down [00:20:00] very quickly from the thousands of emerging managers to the smaller group of managers that at least fit that criteria.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17972,
+      "timestamps": [
+        {
+          "offset": 18310,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 18547,
+      "excerpt": "Of course, I don't invest in every single manager that fits that criteria, but that's the starting point. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18441,
+      "timestamps": []
+    },
+    {
+      "end": 18757,
+      "excerpt": "Gopi Rangan: This is beautifully articulated. Clear four things that you're looking for. You'd rather invest in a contrarian theme that's not overcrowded. That is better than going with the flow and momentum.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18549,
+      "timestamps": []
+    },
+    {
+      "end": 19109,
+      "excerpt": "Experienced GP could be a new fund manager, but an experienced investor is preferred. You like VCs who actually add value. They are stewards for their founders and that's more important than sourcing or winning or due diligence and selection. They're all important, but the most important is how do they help founders and do the founders really care?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18759,
+      "timestamps": []
+    },
+    {
+      "end": 19254,
+      "excerpt": "And portfolio construction, like how many startups concentrated is better than overly diversified because you can diversify on your, your end. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19111,
+      "timestamps": []
+    },
+    {
+      "end": 19443,
+      "excerpt": "Eric Sippel: So the, so the great thing is that I spent probably 10 minutes and you [00:21:00] spent a minute. So well done condensing it because that's a, that's a hundred percent right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 19256,
+      "timestamps": [
+        {
+          "offset": 19340,
+          "raw": "[00:21:00]",
+          "seconds": 1260
+        }
+      ]
+    },
+    {
+      "end": 19780,
+      "excerpt": "Gopi Rangan: I'm learning to be a good student. I have so many questions. In some ways, when I look at so many of the VCs, I've co invested it. So many VCs I admire, they all check the box. But you have, you may not have invested in all of them. Like you said, you don't invest in all of them, even when they qualify on all these four.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19445,
+      "timestamps": []
+    },
+    {
+      "end": 19961,
+      "excerpt": "Let's double click on one. And I'm very curious about this. How does value add stewardship manifest to you as this is good? Can you give an example of a fund that's done it well? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19782,
+      "timestamps": []
+    },
+    {
+      "end": 20204,
+      "excerpt": "Eric Sippel: Sure. Almost all of my 45 have done it well. So one of my favorite funds is a firm called Rhapsody Ventures. And they are now investing out of 80 million fund for, and they were way oversubscribed, but intentionally close at 80.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 19963,
+      "timestamps": []
+    },
+    {
+      "end": 20529,
+      "excerpt": "But when I first met them, you know, they were struggling to get to their, you know, to a 20 million fund. And there are [00:22:00] several things. One is that they have an independent partner program where they have about 25 multinational industrial firms that are part of their program that they speak to every few weeks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20206,
+      "timestamps": [
+        {
+          "offset": 20327,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 20882,
+      "excerpt": "And they, and they're really technology scouts for these 25 different companies. And they speak to them about. What they're seeing in the ecosystem and what might fit with them. And so they know what the pain points are coming into discussions with startups. And let me back up. They focus on deep tech, hard science, typically spun out of university.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20531,
+      "timestamps": []
+    },
+    {
+      "end": 21666,
+      "excerpt": "But when I say hard science, it's not hardware or software, but it might be like little hyper dampening things for lawnmowers and car seats. It might be organic mushroom extract that's added to organic yogurt and dairy. Things of that nature and of course, lots of other things. And so because of their relationships with industry [00:23:00] and all of the general partners are former founders, two of the three general partners are also formerly strategy consultants. And all of them, of course, were experienced investors at the time I first invested seven or eight years ago. They basically are outsourced when they invest, they are outsourced business development arm of the startups that they invest in at the pre seed level. So in many respects, it's like company co creation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20884,
+      "timestamps": [
+        {
+          "offset": 21215,
+          "raw": "[00:23:00]",
+          "seconds": 1380
+        }
+      ]
+    },
+    {
+      "end": 22039,
+      "excerpt": "And whether they are bringing the startups that they are considering and then after they've invested to their 25 partners or to the hundreds of other industrial partners they have around the world, uh, and people in their network, they, in addition to strategy, of course, they provide massive business development, customer intro, you know, So that's, that's an example.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21668,
+      "timestamps": []
+    },
+    {
+      "end": 22382,
+      "excerpt": "Gopi Rangan: It takes a lot of effort to do that. It's not something that you can just show up and start adding value. [00:24:00] They need to have an existing network in the industry. They need to be well respected and potential customers need to be able to take phone calls and meetings and take serious conversations, not just experiment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22041,
+      "timestamps": [
+        {
+          "offset": 22160,
+          "raw": "[00:24:00]",
+          "seconds": 1440
+        }
+      ]
+    },
+    {
+      "end": 22530,
+      "excerpt": "And eventually turn it into a commercial partnership. And that's not easy. Correct. Looks like Rhapsody has done that effectively for many funds. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22384,
+      "timestamps": []
+    },
+    {
+      "end": 22635,
+      "excerpt": "Eric Sippel: Very effectively. They're outstanding. And they invest in seven to 10 companies per fund. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 22532,
+      "timestamps": []
+    },
+    {
+      "end": 22688,
+      "excerpt": "Gopi Rangan: That's a very concentrated portfolio. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22637,
+      "timestamps": []
+    },
+    {
+      "end": 22809,
+      "excerpt": "Eric Sippel: Yeah. But on the other end, I'm going to take a different example Unshackled Ventures that you might know.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 22690,
+      "timestamps": []
+    },
+    {
+      "end": 23559,
+      "excerpt": "They invest pre seed only in immigrant founded companies, and they'll invest in 50 to 60 companies per fund, but they provide huge value. First, because they always help arrange for visas for the immigrant founders and they have a hundred percent hit ratio. It's phenomenal and unheard of. And they also provide, because we're talking about immigrant founders [00:25:00] who are not networked like us former Stanford student, graduate or otherwise, they provide networks and strategy and expertise and, and sort of like, just sort of what I will think of as entrepreneurship 101 for their immigrant founders that maybe other founders don't need, but these people do. And so you can do it in a non concentrated way, as well as in a concentrated way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22811,
+      "timestamps": [
+        {
+          "offset": 23171,
+          "raw": "[00:25:00]",
+          "seconds": 1500
+        }
+      ]
+    },
+    {
+      "end": 23701,
+      "excerpt": "Again, of course I prefer concentrated, but Unshackled Ventures has done an extraordinary job of value add in a very diversified portfolio. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23561,
+      "timestamps": []
+    },
+    {
+      "end": 24353,
+      "excerpt": "Gopi Rangan: Yeah, I admire what Manan and team have done at Unshackled Ventures. Now, there's the, the usual saying, statistics also show that pretty much every startup has at least one immigrant founder, but there are many, many more immigrants struggling to find their path into entrepreneurship. They aren't able to. Starting with friends and family round of funding, all their friends are [00:26:00] poor and all their families poor. So there's no way for them to raise hundreds of thousands of dollars of angel funding or friends and family rounds of funding. Visa comes up as a very common theme among aspiring entrepreneurs, among immigrants.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23703,
+      "timestamps": [
+        {
+          "offset": 24097,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 24428,
+      "excerpt": "It's great to see that Unshackled Ventures has really revolutionized the ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24355,
+      "timestamps": []
+    },
+    {
+      "end": 24441,
+      "excerpt": "community. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24430,
+      "timestamps": []
+    },
+    {
+      "end": 24731,
+      "excerpt": "Eric Sippel: And so the other question you asked, I think, is how do I figure out if they're any good at it? So what questions do you ask? It's related, but not exactly the same, but I, well, let's start with questions. I ask, I try to, uh, say, okay, how have you helped these companies?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 24443,
+      "timestamps": []
+    },
+    {
+      "end": 25170,
+      "excerpt": "What have you done and ask or specifics about, you know, with respect to various different companies and what they've done. But the real tell for me is I will get on the phone with founders. And I will ask them and I try to get on the phone with founders that the GP has not introduced to me through my network, as opposed to simply the ones that they introduced, because those are [00:27:00] more likely to be more favorable and biased.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24733,
+      "timestamps": [
+        {
+          "offset": 25115,
+          "raw": "[00:27:00]",
+          "seconds": 1620
+        }
+      ]
+    },
+    {
+      "end": 25462,
+      "excerpt": "I want to talk to a broader cross section and it's. I ask, how has the GP been helpful? I ask, how do they compare to other GPs on the cap table? What are other GPs on the cap table doing really effectively? So it's really talking to founders that you really get a lot of insight onto that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25172,
+      "timestamps": []
+    },
+    {
+      "end": 25611,
+      "excerpt": "Gopi Rangan: It sounds very investigative. Okay, so you do all of that, and it checks the box, and you begin to take a meeting, the first meeting. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25464,
+      "timestamps": []
+    },
+    {
+      "end": 25719,
+      "excerpt": "Eric Sippel: And by the way, I do that after the first meeting. The first meeting happens, but yes. Okay. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 25613,
+      "timestamps": []
+    },
+    {
+      "end": 25834,
+      "excerpt": "Gopi Rangan: I'm curious about the first meeting, and I want to get back to, you know, subsequent meetings later.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25721,
+      "timestamps": []
+    },
+    {
+      "end": 25994,
+      "excerpt": "In the first meeting, what is that thing that really ticks you off when you take a meeting with an emerging manager? It's not something that you like at all. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25836,
+      "timestamps": []
+    },
+    {
+      "end": 26168,
+      "excerpt": "Eric Sippel: I will often ask the question very neutrally. So how long is it typically from the [00:28:00] time that you first meet the founder until you make a commitment?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 25996,
+      "timestamps": [
+        {
+          "offset": 26092,
+          "raw": "[00:28:00]",
+          "seconds": 1680
+        }
+      ]
+    },
+    {
+      "end": 26372,
+      "excerpt": "And, uh, not again, and this is consistent with what we talked about before is, I am so proud of my quick decision making, I can do it, you know, I've done it as quick as a few days, but a week or two. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26170,
+      "timestamps": []
+    },
+    {
+      "end": 26581,
+      "excerpt": "Gopi Rangan: This is a tough one, because so many investors pride in speed and not wasting founders time, even if they do take the time, they don't say that loudly. Their public message is that they're fast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26374,
+      "timestamps": []
+    },
+    {
+      "end": 26696,
+      "excerpt": "Because they don't want to tell the founder that, oh, we take a long time and then no founder will come to them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26583,
+      "timestamps": []
+    },
+    {
+      "end": 26707,
+      "excerpt": "So it's, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26698,
+      "timestamps": []
+    },
+    {
+      "end": 26975,
+      "excerpt": "Eric Sippel: well, so, so yes and no. First of all, remember, I, I said there are thousands and thousands of emerging venture capital managers, and I only need to invest in a small handful of them so I can get rid of all of the ones who are caught in that situation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 26709,
+      "timestamps": []
+    },
+    {
+      "end": 27313,
+      "excerpt": "But several things. One is when you're in inefficient spaces. I use Rhapsody as an example. Rhapsody is talking [00:29:00] to PhD students and professors at Ohio State and Iowa State and University of Central Florida and places like that. Those are longer conversations. They're not a lot of venture capitalists talking to these people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26977,
+      "timestamps": [
+        {
+          "offset": 27089,
+          "raw": "[00:29:00]",
+          "seconds": 1740
+        }
+      ]
+    },
+    {
+      "end": 27648,
+      "excerpt": "And so they can get to know them or another firm where I'm invested where the median time from when they met the founder to when they write the first check is more than nine months, e 14, which is affiliated with the MIT media lab and embedded inside of MIT. And so they're getting to know founders in situations that are not around.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27315,
+      "timestamps": []
+    },
+    {
+      "end": 28328,
+      "excerpt": "Oh, I'm looking for money. Can I have it now? And so that's number one. Number two is even in situations where founders are looking for money and it's less crowded. Let's take Blockchain Capital as an example. I mentioned them. So in their case, it's more crowded now than it used to be by far. But yet if you know everyone in the ecosystem, you [00:30:00] know the people you're talking to, you're in the middle of it. And so again, you've known these people for a much longer time, or if not, you've known people who know them very well. So you can make quicker decisions. And then the third thing is the GPS tell the founders, well, you know, this is just the way we operate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27650,
+      "timestamps": [
+        {
+          "offset": 27996,
+          "raw": "[00:30:00]",
+          "seconds": 1800
+        }
+      ]
+    },
+    {
+      "end": 28560,
+      "excerpt": "This is for your best interest as well as ours, because you need to get to know me as well as I get to know you to see if there's a fit. And if it doesn't work for you, I'm willing to go on to the next one. I see plenty of deals. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28330,
+      "timestamps": []
+    },
+    {
+      "end": 28728,
+      "excerpt": "Gopi Rangan: I see that it really bothers you when VCs aren't good stewards of capital and they aren't thoughtful and they're just to get into deals if they speed up.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28562,
+      "timestamps": []
+    },
+    {
+      "end": 29034,
+      "excerpt": "I agree with you that some amount of responsibility is on the VC to do the right thing when they deploy capital. Sometimes time is required. So now let's say you get excited after the first meeting and you take a few meetings. Now you begin to do due diligence. What comes up as like a, this is positive.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28730,
+      "timestamps": []
+    },
+    {
+      "end": 29122,
+      "excerpt": "This is going in the right direction. I would like to invest [00:31:00] in this fund. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29036,
+      "timestamps": [
+        {
+          "offset": 29097,
+          "raw": "[00:31:00]",
+          "seconds": 1860
+        }
+      ]
+    },
+    {
+      "end": 29764,
+      "excerpt": "Eric Sippel: So a couple of things, and they're not all, they're there. I suppose they're related or not, but they're all related to my decision making. So, and I didn't say this in my framework, maybe I should have. When I look at the GPs I've invested with, they all fit the following. Either they are good people who I really like and really smart or really good people and smart. And the best are when they're really good people and really smart. And lately, that's where I've tried to over index too. So, you know, that's just developing a relationship and, you know, I'm acting as a coach or a mentor while we're having conversations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 29124,
+      "timestamps": []
+    },
+    {
+      "end": 30173,
+      "excerpt": "And I'm sort of seeing if people are coachable, if they're really nice, if they're really smart, I'm sort of figuring those things out. That's number one. Number two, I usually make 10 to 15 reference calls on a GP and whether it's from other limited partners, from other GPs, from founders, [00:32:00] and you can really hear in the voice of the people you're talking to, this person is really good versus.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29766,
+      "timestamps": [
+        {
+          "offset": 30058,
+          "raw": "[00:32:00]",
+          "seconds": 1920
+        }
+      ]
+    },
+    {
+      "end": 30488,
+      "excerpt": "Yeah, they're good. Yeah, they're good. That's great. But I don't need to, you know, again, I've got a very small number of slots. I don't need to invest, but you know, they're really good. Wow. They were so helpful. They are really smart. They have a really good nose, all of those things. Those are great sites.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30175,
+      "timestamps": []
+    },
+    {
+      "end": 30977,
+      "excerpt": "Gopi Rangan: Thank you for indulging me in these questions. It's very rare to find limited partners who are willing to share. You have been champion for many emerging managers, and the contributions you've made to the ecosystem are tremendous. I know that You stay under the radar and you're typically quiet and you don't really seek a lot of limelight, but it is the trends that we've seen in the industry have evolved and invited many more diverse emerging managers into the ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30490,
+      "timestamps": []
+    },
+    {
+      "end": 31079,
+      "excerpt": "Thanks to you and many others [00:33:00] like you, who have really been champions in the ecosystem. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30979,
+      "timestamps": [
+        {
+          "offset": 31009,
+          "raw": "[00:33:00]",
+          "seconds": 1980
+        }
+      ]
+    },
+    {
+      "end": 31390,
+      "excerpt": "Eric Sippel: And one thing I would add to my portfolio. Two thirds of the GPs in the venture space that I've invested with are underrepresented GPs. That's fantastic. And I do it, sure, I think it's a good thing to do, good in quotes, but really I do it because I think it's the way to drive outsized returns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 31081,
+      "timestamps": []
+    },
+    {
+      "end": 31761,
+      "excerpt": "Because again, remember, I'm looking for people who are investing where there's the opportunity exceeds the capital and underrepresented GPS. If they're really good, they absolutely the way to go. And it's just, I feel like I'm looking through a broader aperture when I'm looking at GPS, then a typical biased view of where people end up with white men much more often.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31392,
+      "timestamps": []
+    },
+    {
+      "end": 32049,
+      "excerpt": "Gopi Rangan: That's a very refreshing view. And I can see the capitalist in you really [00:34:00] shining through your decisions here. I want to ask you about your community involvement. That's my last question for you. Is there a nonprofit organization you are passionate about? Which ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31763,
+      "timestamps": [
+        {
+          "offset": 31850,
+          "raw": "[00:34:00]",
+          "seconds": 2040
+        }
+      ]
+    },
+    {
+      "end": 32056,
+      "excerpt": "one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32051,
+      "timestamps": []
+    },
+    {
+      "end": 32434,
+      "excerpt": "Eric Sippel: Absolutely. So I am the chair of San Francisco Bay Area Goodwill. And unfortunately, - and Goodwill's been around for more than a hundred years - goodwill doesn't do a good enough job of explaining our mission, which is that we provide jobs and training and opportunities and career pathways for people who need second chances and who have barriers to employment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Eric Sippel",
+      "start": 32058,
+      "timestamps": []
+    },
+    {
+      "end": 32937,
+      "excerpt": "So people who are formerly incarcerated out of prison, recovering addicts, immigrants where English is a second language, vets and the like. And so we employ a thousand people who fit that bill. And we also separately train and place another three or four [00:35:00] thousand people a year who fit that bill. And of the thousand employees that we have, a number of them have risen to mid and senior level management positions based on their skills and on the pathways and training that we've provided.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32436,
+      "timestamps": [
+        {
+          "offset": 32692,
+          "raw": "[00:35:00]",
+          "seconds": 2100
+        }
+      ]
+    },
+    {
+      "end": 33170,
+      "excerpt": "So people know us as the place where you donate clothes, and then other people go and buy those clothes or furniture or household goods. And really, that's all a vehicle for the workforce development activities that we're involved ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32939,
+      "timestamps": []
+    },
+    {
+      "end": 33262,
+      "excerpt": "with. Erik, thank you very much for sharing candid examples based on your own experiences.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33172,
+      "timestamps": []
+    },
+    {
+      "end": 33496,
+      "excerpt": "Thanks for sharing insights that are very rare to find in the LP world. I look forward to sharing your nuggets of wisdom and educate the industry and educate emerging managers how to be the best in their field. Thank you very much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33264,
+      "timestamps": []
+    },
+    {
+      "end": 33536,
+      "excerpt": "My pleasure. Thank you for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33498,
+      "timestamps": []
+    },
+    {
+      "end": 33616,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure [00:36:00] Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33538,
+      "timestamps": [
+        {
+          "offset": 33587,
+          "raw": "[00:36:00]",
+          "seconds": 2160
+        }
+      ]
+    },
+    {
+      "end": 33891,
+      "excerpt": "I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33618,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "ef9a157ad9a17164193a888c20a1d68ba7858727ad145d870df3b52400a147a7",
+  "text_sha256": "2aea046642db22a28fb437701c0554dd7dc623c251afac189fa0452921eeed8b"
+}

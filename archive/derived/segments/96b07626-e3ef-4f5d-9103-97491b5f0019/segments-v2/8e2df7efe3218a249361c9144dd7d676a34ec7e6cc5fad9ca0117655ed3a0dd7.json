@@ -1,0 +1,1403 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 475,
+      "excerpt": "There's infinite product market fit for giving away a dollar in exchange for 99 cents. And I think that's how we think about the world. There's a lot of different ways to manufacture revenue, whether that's through ad spend or an outsize sales force or heavy discounting or pilots. And so we're trying to cut through that noise and understand, has a business shown - shown not forecasted - signs of a sustainable unit economics early on as an indicator of product market fit?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 549,
+      "excerpt": "[00:00:36] Gopi Rangan: You are listening to The Sure Shot Entrepreneur,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 477,
+      "timestamps": [
+        {
+          "offset": 477,
+          "raw": "[00:00:36]",
+          "seconds": 36
+        }
+      ]
+    },
+    {
+      "end": 882,
+      "excerpt": "[00:00:42] a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Connor Ryan. Connor is a partner at Bridge Venture Fund. He's based in Chicago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 551,
+      "timestamps": [
+        {
+          "offset": 551,
+          "raw": "[00:00:42]",
+          "seconds": 42
+        }
+      ]
+    },
+    {
+      "end": 1237,
+      "excerpt": "[00:01:08] He invests in startups in various different sectors, and we're going to ask him about that. What are topics that he's interested in? What are the overlooked and underserved categories that he cares about? What kind of companies he likes to meet? What topics does he like to learn? And why does he say yes when he makes an investment decision?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 884,
+      "timestamps": [
+        {
+          "offset": 884,
+          "raw": "[00:01:08]",
+          "seconds": 68
+        }
+      ]
+    },
+    {
+      "end": 1375,
+      "excerpt": "[00:01:27] And sometimes he says no, and we're going to find out why he says no as well. Connor, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1239,
+      "timestamps": [
+        {
+          "offset": 1239,
+          "raw": "[00:01:27]",
+          "seconds": 87
+        }
+      ]
+    },
+    {
+      "end": 1460,
+      "excerpt": "[00:01:34] Connor Ryan: Hi Gopi, thank you for having me. Very much appreciate it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 1377,
+      "timestamps": [
+        {
+          "offset": 1377,
+          "raw": "[00:01:34]",
+          "seconds": 94
+        }
+      ]
+    },
+    {
+      "end": 1643,
+      "excerpt": "[00:01:37] Gopi Rangan: I'm really excited to have this conversation, but let's start the conversation with you. Where are you from? Are you from the Midwest, from the Chicago area?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1462,
+      "timestamps": [
+        {
+          "offset": 1462,
+          "raw": "[00:01:37]",
+          "seconds": 97
+        }
+      ]
+    },
+    {
+      "end": 1685,
+      "excerpt": "[00:01:46] Have you always lived there? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1645,
+      "timestamps": [
+        {
+          "offset": 1645,
+          "raw": "[00:01:46]",
+          "seconds": 106
+        }
+      ]
+    },
+    {
+      "end": 2002,
+      "excerpt": "[00:01:47] Connor Ryan: I'm a transplant. I'm from Dallas originally, although I did go to undergrad in the Midwest. I moved back south for five years and then came back again to go to business school, which is how I ended up here permanently. And obviously the Bridge team is based here where I've been since 2019.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 1687,
+      "timestamps": [
+        {
+          "offset": 1687,
+          "raw": "[00:01:47]",
+          "seconds": 107
+        }
+      ]
+    },
+    {
+      "end": 2107,
+      "excerpt": "[00:02:05] So, a very happy Chicago transplant, except for this time of the year when it's quite cold. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2004,
+      "timestamps": [
+        {
+          "offset": 2004,
+          "raw": "[00:02:05]",
+          "seconds": 125
+        }
+      ]
+    },
+    {
+      "end": 2350,
+      "excerpt": "[00:02:12] Gopi Rangan: Winters are cold indeed. You started your career in investment banking and private equity and then eventually you transitioned to venture capital. Yep. Share with us the journey of like, what was your thought process?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2109,
+      "timestamps": [
+        {
+          "offset": 2109,
+          "raw": "[00:02:12]",
+          "seconds": 132
+        }
+      ]
+    },
+    {
+      "end": 2406,
+      "excerpt": "[00:02:25] Why are you excited about venture capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2352,
+      "timestamps": [
+        {
+          "offset": 2352,
+          "raw": "[00:02:25]",
+          "seconds": 145
+        }
+      ]
+    },
+    {
+      "end": 2813,
+      "excerpt": "[00:02:27] Connor Ryan: Sure. The journey, I think, like many People in college, maybe they're unaware of venture capital. I certainly was, or even to the to the degree I was aware of it, really thought it was only for something people could do later in their career after they were a successful entrepreneur or operator. And certainly that is still true to some degree and those are valuable skill sets. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 2408,
+      "timestamps": [
+        {
+          "offset": 2408,
+          "raw": "[00:02:27]",
+          "seconds": 147
+        }
+      ]
+    },
+    {
+      "end": 3285,
+      "excerpt": "[00:02:51] Out of undergrad, I did the typical path of a finance major. I did investment banking for three years and private equity for a couple of years before going back to business school. And that's a big part of the story of our fund because my partner also comes from similar backgrounds. But in terms of how I got into venture, it was really during business school at Northwestern, where I stumbled into the Chicago entrepreneurship and venture capital ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2815,
+      "timestamps": [
+        {
+          "offset": 2815,
+          "raw": "[00:02:51]",
+          "seconds": 171
+        }
+      ]
+    },
+    {
+      "end": 3665,
+      "excerpt": "[00:03:17] I was lucky enough to take a couple of classes from adjunct professors who were full time venture capitalists in Chicago. And I think they opened my eyes to the fact that there were lots of different paths to get into venture capital and actually that some of the skill sets between later stage private equity and venture capital were more similar than I anticipated.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3287,
+      "timestamps": [
+        {
+          "offset": 3287,
+          "raw": "[00:03:17]",
+          "seconds": 197
+        }
+      ]
+    },
+    {
+      "end": 4089,
+      "excerpt": "[00:03:37] And so I tried my hand at it. I did a couple of internships working part time during business school. And it shifted from something that was kind of interesting on the face of it to something I wanted to make a career out of. And so I was lucky enough that one of the groups that I worked with during business school, Bridge Venture Fund, was in a bit of a transition in strategy, which we can talk about later.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3667,
+      "timestamps": [
+        {
+          "offset": 3667,
+          "raw": "[00:03:37]",
+          "seconds": 217
+        }
+      ]
+    },
+    {
+      "end": 4183,
+      "excerpt": "[00:04:00] And it was a great time to join them as a fund. And that was back in 2019, 2020. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4091,
+      "timestamps": [
+        {
+          "offset": 4091,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 4451,
+      "excerpt": "[00:04:06] Gopi Rangan: Looks like you went through a thoughtful process, experimentation, and you explored a few different things before you decided to get into your current role now. Why is venture capital interesting to you? What is the exciting part of your job?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4185,
+      "timestamps": [
+        {
+          "offset": 4185,
+          "raw": "[00:04:06]",
+          "seconds": 246
+        }
+      ]
+    },
+    {
+      "end": 5055,
+      "excerpt": "[00:04:20] Connor Ryan: So, I'll walk it back to my prior experiences, I think, because it retains some of the interesting things that I enjoyed about private equity, but also has some other things that I enjoy more. The aspects of investment banking and private equity that I always loved were for people that have a high degree of intellectual curiosity, you get to see a lot of different things every day, especially if you're working for a generalist firm or fund. You get to understand business models that you didn't think about before problems that are being solved that you didn't know existed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 4453,
+      "timestamps": [
+        {
+          "offset": 4453,
+          "raw": "[00:04:20]",
+          "seconds": 260
+        }
+      ]
+    },
+    {
+      "end": 5500,
+      "excerpt": "[00:04:53] And if you're a bit of a cultural tourist, it's an interesting job because you're constantly learning. The aspects of those jobs that I did not like is that they're highly process oriented, sometimes bureaucratic. Especially if you're in an entry level job, it can feel like you're going through a lot of reps for reps sake, which is great training but doesn't necessarily make you feel like you're growing as an investor sometimes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5057,
+      "timestamps": [
+        {
+          "offset": 5057,
+          "raw": "[00:04:53]",
+          "seconds": 293
+        }
+      ]
+    },
+    {
+      "end": 5930,
+      "excerpt": "[00:05:16] And so the transition into venture capital was awesome for me because I felt like I was still able to scratch that itch of intellectual curiosity, but you're not working with investment bankers all the time. You're talking directly to founders. You're not going through the kind of documentation process of a deal as much because deals go a lot quicker and it's a lot more focused on learning few things very quickly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5502,
+      "timestamps": [
+        {
+          "offset": 5502,
+          "raw": "[00:05:16]",
+          "seconds": 316
+        }
+      ]
+    },
+    {
+      "end": 6147,
+      "excerpt": "[00:05:43] But at the end of the day, I think it boils down to the people you talk to every day. Getting to talk to founders every day is a lot better, in my opinion, than getting to talk to the broker on the deal. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5932,
+      "timestamps": [
+        {
+          "offset": 5932,
+          "raw": "[00:05:43]",
+          "seconds": 343
+        }
+      ]
+    },
+    {
+      "end": 6375,
+      "excerpt": "[00:05:52] Gopi Rangan: The job of a VC is very different. Things are quite fast, but a lot of times you're kind of twiddling your thumb, researching, learning, but in the middle of a transaction, it just moves really quickly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6149,
+      "timestamps": [
+        {
+          "offset": 6149,
+          "raw": "[00:05:52]",
+          "seconds": 352
+        }
+      ]
+    },
+    {
+      "end": 6693,
+      "excerpt": "[00:06:03] There's not enough time to like sit down, develop a thesis, write 30 page memos and debate with like four or five people, do extensive research with experts when the deal is in flight. You've got to do all that work before and you arrive at the deal, it's a matter of days sometimes from beginning to end.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6377,
+      "timestamps": [
+        {
+          "offset": 6377,
+          "raw": "[00:06:03]",
+          "seconds": 363
+        }
+      ]
+    },
+    {
+      "end": 7031,
+      "excerpt": "[00:06:21] Connor Ryan: Yeah, by the way, I think, you know, all of that falls under one of the hats that a VC wears and the other ones are working with portfolio companies, fundraising yourself, sourcing, which is a whole different category. So and I think those are a lot of ways that the two asset classes are very different as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 6695,
+      "timestamps": [
+        {
+          "offset": 6695,
+          "raw": "[00:06:21]",
+          "seconds": 381
+        }
+      ]
+    },
+    {
+      "end": 7287,
+      "excerpt": "[00:06:39] I think private equity is very much a finance job and when people come to me who want to try to break into VC saying well, \"I don't have finance background\", my immediate response is kind of \"it's not a finance job so that's not a bad thing.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7033,
+      "timestamps": [
+        {
+          "offset": 7033,
+          "raw": "[00:06:39]",
+          "seconds": 399
+        }
+      ]
+    },
+    {
+      "end": 7388,
+      "excerpt": "[00:06:53] Gopi Rangan: That is true. Yeah. Tell us about Bridge Ventures. What is Bridge Ventures?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7289,
+      "timestamps": [
+        {
+          "offset": 7289,
+          "raw": "[00:06:53]",
+          "seconds": 413
+        }
+      ]
+    },
+    {
+      "end": 7557,
+      "excerpt": "[00:06:57] How is the firm different from other firms? I understand that you focus on overlooked and underserved categories driven by innovation. What does that mean? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7390,
+      "timestamps": [
+        {
+          "offset": 7390,
+          "raw": "[00:06:57]",
+          "seconds": 417
+        }
+      ]
+    },
+    {
+      "end": 7786,
+      "excerpt": "[00:07:06] Connor Ryan: Yeah. So we say we invest in overlook categories underserved by innovation, which is marketing speak for, we like end markets where we think there's a lag in tech adoption or development for some reason.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 7559,
+      "timestamps": [
+        {
+          "offset": 7559,
+          "raw": "[00:07:06]",
+          "seconds": 426
+        }
+      ]
+    },
+    {
+      "end": 8096,
+      "excerpt": "[00:07:18] And where relatively novel advances in software or marketplaces or any sort of innovation can really move the needle in changing the lives of the people who work at these businesses and these end markets. And this thesis really developed through my partner, Jason Thomas and my prior experiences. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7788,
+      "timestamps": [
+        {
+          "offset": 7788,
+          "raw": "[00:07:18]",
+          "seconds": 438
+        }
+      ]
+    },
+    {
+      "end": 8491,
+      "excerpt": "[00:07:37] When you're looking at LBO targets and private equity, you see a lot of businesses both in white collar and blue collar environments that have a high degree of human capital as their structure. And you come to understand the degree to which adoption of technology can change those businesses for the better, whether that's through efficiencies or cost savings or whatever it may be.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8098,
+      "timestamps": [
+        {
+          "offset": 8098,
+          "raw": "[00:07:37]",
+          "seconds": 457
+        }
+      ]
+    },
+    {
+      "end": 8841,
+      "excerpt": "[00:08:01] And so the thesis of investing in overlooked categories really comes back to that. We want to invest in software and marketplaces that are serving these businesses that can have the highest degree in our opinion of time savings or efficiencies or whatever it may be from the adoption of these softwares that don't yet exist in the space ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8493,
+      "timestamps": [
+        {
+          "offset": 8493,
+          "raw": "[00:08:01]",
+          "seconds": 481
+        }
+      ]
+    },
+    {
+      "end": 8941,
+      "excerpt": "[00:08:21] Gopi Rangan: Can you give some examples of sectors or trends that you're excited about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8843,
+      "timestamps": [
+        {
+          "offset": 8843,
+          "raw": "[00:08:21]",
+          "seconds": 501
+        }
+      ]
+    },
+    {
+      "end": 9366,
+      "excerpt": "[00:08:25] Connor Ryan: Yeah, absolutely I think one of the verticals that we've had the most success with in our existing fund is legal tech. Obviously, we've now seen the proliferation of AI within legal tech and it's maybe one of the the hotter spaces in venture capital investing right now, but I think even before Bridge was involved in venture capital investing, it was involved in legal tech investing in SPV models.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 8943,
+      "timestamps": [
+        {
+          "offset": 8943,
+          "raw": "[00:08:25]",
+          "seconds": 505
+        }
+      ]
+    },
+    {
+      "end": 10062,
+      "excerpt": "[00:08:48] And you saw a lot of white collar, human capital intensive law firms that were drafting things from scratch every time, or evaluating contracts very manually. And we knew that the adoption of technology would change those workflows quite a bit. So that's about 20 percent of our existing fund is legal tech, but others we've invested in include things like event management, retail and restaurant, software for frontline workers, gov tech, the list goes on, and we really try not to constrain ourselves by listing specific verticals that will make up the entirety of our fund, but rather look for themes that are shared across these verticals when we're making investment decisions. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9368,
+      "timestamps": [
+        {
+          "offset": 9368,
+          "raw": "[00:08:48]",
+          "seconds": 528
+        }
+      ]
+    },
+    {
+      "end": 10259,
+      "excerpt": "[00:09:33] Gopi Rangan: Legal tech is now quite well recognized, but it looks like Bridge was a pioneer in this space, looking at that sector well before other people started taking it seriously.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10064,
+      "timestamps": [
+        {
+          "offset": 10064,
+          "raw": "[00:09:33]",
+          "seconds": 573
+        }
+      ]
+    },
+    {
+      "end": 10664,
+      "excerpt": "[00:09:44] Connor Ryan: Yeah, I think if you asked the average VC 5, 10 years ago, a very valid response would have been, \"well, it's hard to sell the law firms and anything that's competing against the billable hour because of increased efficiencies is probably not going to be successful.\" That is true to some degree, though you have seen businesses that that have succeeded despite those challenges.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 10261,
+      "timestamps": [
+        {
+          "offset": 10261,
+          "raw": "[00:09:44]",
+          "seconds": 584
+        }
+      ]
+    },
+    {
+      "end": 11699,
+      "excerpt": "[00:10:09] I think the majority of our portfolio has focused either on administrative work and in doing so increasing potential for billable hours or maybe making more efficiencies out of the cheaper billable hours that exist within a law firm. To give you an example, we had an exit a couple of years ago in a company called Case Text, which you may remember when ChatGPT was relatively early in its cultural awareness there was a story about a lawyer who had drafted a brief during litigation who had used chat GPT that referenced case law that was not real. It had hallucinated case law. At its simplest Case Text is essentially chat GPT, but making sure you're, you're referencing real case law. Uh, it was acquired by Thompson Reuters who owns a competitor of Case Text because Case Text was an innovator in the space using AI to solve this problem for lawyers. And this is a repetitive task that lawyers do over and over again. And Case Text is just an example of how an efficiency has been applied to that repetitive process. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10666,
+      "timestamps": [
+        {
+          "offset": 10666,
+          "raw": "[00:10:09]",
+          "seconds": 609
+        }
+      ]
+    },
+    {
+      "end": 11739,
+      "excerpt": "[00:11:13] Gopi Rangan: Very exciting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11701,
+      "timestamps": [
+        {
+          "offset": 11701,
+          "raw": "[00:11:13]",
+          "seconds": 673
+        }
+      ]
+    },
+    {
+      "end": 11886,
+      "excerpt": "[00:11:14] It's great to see a real life example. Before we go into more examples and details, what stage do you invest? What's your sweet spot? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11741,
+      "timestamps": [
+        {
+          "offset": 11741,
+          "raw": "[00:11:14]",
+          "seconds": 674
+        }
+      ]
+    },
+    {
+      "end": 12103,
+      "excerpt": "[00:11:22] Connor Ryan: Yeah, absolutely. So we invest at the seed stage. For us, that means the first round after a company has started generating revenue. We're typically investing in rounds that are $3-5 million.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 11888,
+      "timestamps": [
+        {
+          "offset": 11888,
+          "raw": "[00:11:22]",
+          "seconds": 682
+        }
+      ]
+    },
+    {
+      "end": 12486,
+      "excerpt": "[00:11:33] So very much a middle of the country seed round. And we're a non-lead investor, very intentionally so. So we right now today are investing $250, 000 into those rounds. In the future we hope to increase our check size but with the same strategy in mind of investing in these, call it three to 5 million seed rounds by businesses who have just started generating revenue. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12105,
+      "timestamps": [
+        {
+          "offset": 12105,
+          "raw": "[00:11:33]",
+          "seconds": 693
+        }
+      ]
+    },
+    {
+      "end": 12569,
+      "excerpt": "[00:11:56] Gopi Rangan: How many companies do you invest in, in an average year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12488,
+      "timestamps": [
+        {
+          "offset": 12488,
+          "raw": "[00:11:56]",
+          "seconds": 716
+        }
+      ]
+    },
+    {
+      "end": 12772,
+      "excerpt": "[00:11:59] Connor Ryan: Well, we've invested in 50 companies so far across a proof of concept fund and our first institutional fund. So, you know, call it our target is five to six companies per year. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 12571,
+      "timestamps": [
+        {
+          "offset": 12571,
+          "raw": "[00:11:59]",
+          "seconds": 719
+        }
+      ]
+    },
+    {
+      "end": 12902,
+      "excerpt": "[00:12:11] Gopi Rangan: Okay. Let's take an example of one or two companies. And can you talk about what goes on in the meeting?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12774,
+      "timestamps": [
+        {
+          "offset": 12774,
+          "raw": "[00:12:11]",
+          "seconds": 731
+        }
+      ]
+    },
+    {
+      "end": 13065,
+      "excerpt": "[00:12:18] The first meeting when you meet them, second meeting. What questions do you ask founders? What conversation is exciting to you? What do you look for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12904,
+      "timestamps": [
+        {
+          "offset": 12904,
+          "raw": "[00:12:18]",
+          "seconds": 738
+        }
+      ]
+    },
+    {
+      "end": 13372,
+      "excerpt": "[00:12:28] Connor Ryan: I'll point to two things that maybe are unique to our thesis or my personal style when it comes to the first call. The first is that Bridge, I think, has a pretty distinct focus on validating unit economics at this stage that maybe doesn't exist as as frequently at the seed stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 13067,
+      "timestamps": [
+        {
+          "offset": 13067,
+          "raw": "[00:12:28]",
+          "seconds": 748
+        }
+      ]
+    },
+    {
+      "end": 13683,
+      "excerpt": "[00:12:47] And so a lot of times we're making sure that a founder can articulate their unit economics and back it up with supporting evidence rather than just, I guess, projecting unit economics, if that makes sense. And for us, there's often this discussion of the trade off between growth and profitability.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13374,
+      "timestamps": [
+        {
+          "offset": 13374,
+          "raw": "[00:12:47]",
+          "seconds": 767
+        }
+      ]
+    },
+    {
+      "end": 14041,
+      "excerpt": "[00:13:03] And for us, unit economics are not important because it's an indicator of profitability, but rather because we think it's just a higher bar for evaluating product market fit. And to borrow a phrase from Brian O'Malley, a forerunner, he said in a podcast that there's infinite product market fit for giving away a dollar in exchange for 99 cents.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13685,
+      "timestamps": [
+        {
+          "offset": 13685,
+          "raw": "[00:13:03]",
+          "seconds": 783
+        }
+      ]
+    },
+    {
+      "end": 14440,
+      "excerpt": "[00:13:26] And I think that's how we think about the world. There's a lot of different ways to manufacture revenue, whether that's through ad spend or an outside sales force or heavy discounting or pilots. And so we're trying to cut through that noise and understand has a business shown - shown, not forecasted - signs of sustainable unit economics early on as an indicator of product market fit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14043,
+      "timestamps": [
+        {
+          "offset": 14043,
+          "raw": "[00:13:26]",
+          "seconds": 806
+        }
+      ]
+    },
+    {
+      "end": 14837,
+      "excerpt": "[00:13:49] So that's one thing I'm thinking about a lot. So if a founder can't walk me through that in a pitch, that's usually problematic. It's important to at least be able to have that conversation. The second thing that I ask almost every first call is to tell me about the person that is actually using your tool and what they're experiencing in their lives before they adopt your solution.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14442,
+      "timestamps": [
+        {
+          "offset": 14442,
+          "raw": "[00:13:49]",
+          "seconds": 829
+        }
+      ]
+    },
+    {
+      "end": 15954,
+      "excerpt": "[00:14:13] And I think this comes from a lot of my background is in consumer investing. And the first venture fund that I worked with during business school was called Listen Ventures who invest in consumer brands. And i'll steal something that they talked about a lot Which is that every company is a consumer company at the end of the day because you're selling to a person solving a problem for a person. And so even if you're a B2B company, there's a user, there's a purchaser. You have to convince someone that you're solving a human problem And so I want to understand from companies i'm listening to pitch: Who is the person that when they adopt your software, you're making their lives easier or faster or reducing the number of hours they have to work. Because at the end of the day, the decision maker is probably going to make a decision based off of a real tangible problem that's being solved in their lives. And to give an example of that, we've invested in a company called Trajektory that's based in Chicago. They help, today, sports leagues and teams understand the value of sponsorship placements.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14839,
+      "timestamps": [
+        {
+          "offset": 14839,
+          "raw": "[00:14:13]",
+          "seconds": 853
+        }
+      ]
+    },
+    {
+      "end": 16528,
+      "excerpt": "[00:15:15] So to give an example in your neck of the woods the San Francisco 49ers who are sponsored by Levi's, the jeans company. They have logo placement throughout the stadium. They have logo placement at the bottom of emails and social campaigns and during the initial pitch the thing that stuck with me the most about Alex Kerr, the founder, his message was traditionally what happens is at the end of the year Levi's comes to the 49ers and they say \" we spent x million dollars on sponsorship across these channels What's our bang for the for the buck that we spent?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15956,
+      "timestamps": [
+        {
+          "offset": 15956,
+          "raw": "[00:15:15]",
+          "seconds": 915
+        }
+      ]
+    },
+    {
+      "end": 16889,
+      "excerpt": "[00:15:48] What's our return on that sponsorship dollars?\" And the answer traditionally has been generated by the 49ers going back through the year and saying \"well, we had this much attendance at the the games. We had five logo placements. So there was the potential that this many people saw your logo. And we sent out a hundred emails with your logo in it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16530,
+      "timestamps": [
+        {
+          "offset": 16530,
+          "raw": "[00:15:48]",
+          "seconds": 948
+        }
+      ]
+    },
+    {
+      "end": 17684,
+      "excerpt": "[00:16:10] And so you got this many eyeballs.\" And so two things are happening there. One, there's a person who dreads this process every year from probably lots of different sponsors, not just Levi's, who's having to do this repetitive manual task all the time. And two, they're not really giving a real answer to the question that Levi's is answering. They're not giving an apples to apples comparison of the value of the sponsor across channels. And so I think that hit home with us that Trajektory was solving both of those problems. It was helping that person not dreaded that task that they had to do every year because it was keeping up with this monitoring in real time, but also using statistical models was helping better understand the actual dollar value of these asset placements.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16891,
+      "timestamps": [
+        {
+          "offset": 16891,
+          "raw": "[00:16:10]",
+          "seconds": 970
+        }
+      ]
+    },
+    {
+      "end": 17831,
+      "excerpt": "[00:16:52] So that's an example of kind of that consumer insight that I think helps us get excited, even when we're talking about B2B companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17686,
+      "timestamps": [
+        {
+          "offset": 17686,
+          "raw": "[00:16:52]",
+          "seconds": 1012
+        }
+      ]
+    },
+    {
+      "end": 18082,
+      "excerpt": "[00:17:00] Gopi Rangan: So you look for the story on how product market fit actually works and show me the unit economics that aligns with that story. And the value the solution creates for the customer. The example that you gave is just phenomenal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17833,
+      "timestamps": [
+        {
+          "offset": 17833,
+          "raw": "[00:17:00]",
+          "seconds": 1020
+        }
+      ]
+    },
+    {
+      "end": 18400,
+      "excerpt": "[00:17:14] Like what Alex and Matt have built at Trajektory shows deep insights that makes the process transparent for the customer. Absolutely. Very exciting. How long does it take for you to make a decision whether to invest in a company from the first meeting to the point where you say, \"yes, I want to invest\"? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18084,
+      "timestamps": [
+        {
+          "offset": 18084,
+          "raw": "[00:17:14]",
+          "seconds": 1034
+        }
+      ]
+    },
+    {
+      "end": 18876,
+      "excerpt": "[00:17:32] Connor Ryan: I always struggle answering this question because one of the, I think, trade offs of being a non lead investor, and we think there are a lot of benefits, but one of the trade offs is that you have to abide by the timing of the process oftentimes. And so the amount of time we're getting introduced to a founder before they even have a term sheet and the amount of times we're fighting for the last allocation available in the round is probably equal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 18402,
+      "timestamps": [
+        {
+          "offset": 18402,
+          "raw": "[00:17:32]",
+          "seconds": 1052
+        }
+      ]
+    },
+    {
+      "end": 19329,
+      "excerpt": "[00:17:56] And we have to tailor our process quite a bit, depending on which end of the spectrum we're on. I think the fastest we've ever moved is two weeks. I never want to do that. I would love the opportunity to get to know a founder before they're even raising, but I think everyone probably says that. So. I would guess, on average, it's usually a month and a half, but again, it totally depends on, on the process and the demands of the process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18878,
+      "timestamps": [
+        {
+          "offset": 18878,
+          "raw": "[00:17:56]",
+          "seconds": 1076
+        }
+      ]
+    },
+    {
+      "end": 19635,
+      "excerpt": "[00:18:22] Gopi Rangan: What is your recommendation to founders? How can they prepare before they come to meet you? Beyond the slide deck and the regular stuff that everybody does, can you share one or two tips that will help the founder to make that meeting productive both for you and for the founder? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19331,
+      "timestamps": [
+        {
+          "offset": 19331,
+          "raw": "[00:18:22]",
+          "seconds": 1102
+        }
+      ]
+    },
+    {
+      "end": 20425,
+      "excerpt": "[00:18:40] Connor Ryan: Yeah. One, understand how venture capital works from a portfolio construction standpoint and a process standpoint. I think things like this podcast are a great tool to learn those things. But maybe even drilling in deeper, like understand the point of a first call and a huge job of a venture capital professional is triaging, right? Everyone boasts about their deal flow and how many thousands of deals they look at per year. If you've made it to a first call, what that probably means is looking at the pitch deck. Someone has decided that you're maybe a fit for the thesis of the fund that's talking to you. And they're trying to learn more and determine whether that's true. They don't have to learn everything about your company in that 30 or 45 minute pitch.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 19637,
+      "timestamps": [
+        {
+          "offset": 19637,
+          "raw": "[00:18:40]",
+          "seconds": 1120
+        }
+      ]
+    },
+    {
+      "end": 20801,
+      "excerpt": "[00:19:24] They just have to check the box on whether you're a potential fit before they dive in deeper on diligence. And so I think a lot of times founders, rightfully so, are very excited about their companies and want to share every detail. But I think a short conversational pitch that helps check the box and get the investor through the questions they need to address.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20427,
+      "timestamps": [
+        {
+          "offset": 20427,
+          "raw": "[00:19:24]",
+          "seconds": 1164
+        }
+      ]
+    },
+    {
+      "end": 21131,
+      "excerpt": "[00:19:47] Is much more constructive and by the way, you won't lose their attention. It's much more constructive than doing, you know, a march through a deck or trying to get across every detail because the audience won't retain it anyway, so you might as well make sure they get all their questions answered that they need to. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20803,
+      "timestamps": [
+        {
+          "offset": 20803,
+          "raw": "[00:19:47]",
+          "seconds": 1187
+        }
+      ]
+    },
+    {
+      "end": 21263,
+      "excerpt": "[00:20:05] Gopi Rangan: This is very relevant. I often tell founders that the amount of research they do on customers is enormous.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21133,
+      "timestamps": [
+        {
+          "offset": 21133,
+          "raw": "[00:20:05]",
+          "seconds": 1205
+        }
+      ]
+    },
+    {
+      "end": 21500,
+      "excerpt": "[00:20:13] They really understand the customers. The good founders understand the persona of the customers, their behaviors. They know what questions to ask the customer to see if it's a viable opportunity to sell the solution to them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21265,
+      "timestamps": [
+        {
+          "offset": 21265,
+          "raw": "[00:20:13]",
+          "seconds": 1213
+        }
+      ]
+    },
+    {
+      "end": 22111,
+      "excerpt": "[00:20:26] If you look at the work that the founders do on investors, it's not the same at all. It's far less. They show up to the meeting and then start talking about the company. They're very excited about their company, which is totally understandable, but most founders don't do the homework on the investor to find out who they are; what is their incentive; what kind of investor are they; what size fund do they run; what is their sweet spot for investments; and those kinds of things. It will go a long way for founders if they do a little bit of research. So then the first meeting is very effective. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21502,
+      "timestamps": [
+        {
+          "offset": 21502,
+          "raw": "[00:20:26]",
+          "seconds": 1226
+        }
+      ]
+    },
+    {
+      "end": 22247,
+      "excerpt": "[00:20:58] Connor Ryan: And I'll give a bonus tip on that to help do that work. And I'm learning this personally as we're fundraising.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 22113,
+      "timestamps": [
+        {
+          "offset": 22113,
+          "raw": "[00:20:58]",
+          "seconds": 1258
+        }
+      ]
+    },
+    {
+      "end": 22578,
+      "excerpt": "[00:21:04] A lot of our LP targets, I mean, they might not even have websites. And if they do, it's really just a landing page that doesn't tell you much about it. Maybe venture capital firms are doing a little more advertising, but I mean, I'll speak for ourselves. There's a lot that's not on our website that you can learn by.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22249,
+      "timestamps": [
+        {
+          "offset": 22249,
+          "raw": "[00:21:04]",
+          "seconds": 1264
+        }
+      ]
+    },
+    {
+      "end": 22990,
+      "excerpt": "[00:21:20] Listening to podcasts, honestly. And it's a great tool that I tell people who are trying to recruit for venture capital, go just do a quick search in Spotify for Bridge Venture Fund, or whatever you're interviewing for, or trying to raise from. You're going to find a lot more detail that people are talking about conversationally than is published on website or pitch book or whatever you're using.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22580,
+      "timestamps": [
+        {
+          "offset": 22580,
+          "raw": "[00:21:20]",
+          "seconds": 1280
+        }
+      ]
+    },
+    {
+      "end": 23095,
+      "excerpt": "[00:21:40] So do a quick scan. I think it's worth it sometimes. You can dig up some nuggets sometimes. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22992,
+      "timestamps": [
+        {
+          "offset": 22992,
+          "raw": "[00:21:40]",
+          "seconds": 1300
+        }
+      ]
+    },
+    {
+      "end": 23182,
+      "excerpt": "[00:21:46] Gopi Rangan: How many startups do you meet for every investment you make? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23097,
+      "timestamps": [
+        {
+          "offset": 23097,
+          "raw": "[00:21:46]",
+          "seconds": 1306
+        }
+      ]
+    },
+    {
+      "end": 23362,
+      "excerpt": "[00:21:51] Connor Ryan: We invest in less than 1 percent of the companies that we get inbound. We probably talk to, I always struggle with what the definition of like talk to is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 23184,
+      "timestamps": [
+        {
+          "offset": 23184,
+          "raw": "[00:21:51]",
+          "seconds": 1311
+        }
+      ]
+    },
+    {
+      "end": 23546,
+      "excerpt": "[00:22:02] I'll say we seriously evaluate something like 10 per month. So call it 120 a year we're seriously evaluating. And maybe like I said, we do five or six investments a year. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23364,
+      "timestamps": [
+        {
+          "offset": 23364,
+          "raw": "[00:22:02]",
+          "seconds": 1322
+        }
+      ]
+    },
+    {
+      "end": 23732,
+      "excerpt": "[00:22:15] Gopi Rangan: The first like thousand getting to the top hundred that you evaluate, I get that part. Like, no, a lot of them are instantly, it's not a fit for simple reasons.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23548,
+      "timestamps": [
+        {
+          "offset": 23548,
+          "raw": "[00:22:15]",
+          "seconds": 1335
+        }
+      ]
+    },
+    {
+      "end": 23945,
+      "excerpt": "[00:22:26] I'm curious to understand how do you go from the top hundred to the top five or 10 that actually end up on your portfolio. Why do you say no to some of those companies? What's the most common reason? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23734,
+      "timestamps": [
+        {
+          "offset": 23734,
+          "raw": "[00:22:26]",
+          "seconds": 1346
+        }
+      ]
+    },
+    {
+      "end": 24089,
+      "excerpt": "[00:22:38] Connor Ryan: I would guess the most common reason is honestly unit economics. I think we have a pretty high bar in evaluating that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 23947,
+      "timestamps": [
+        {
+          "offset": 23947,
+          "raw": "[00:22:38]",
+          "seconds": 1358
+        }
+      ]
+    },
+    {
+      "end": 24452,
+      "excerpt": "[00:22:46] And we probably look at it a little differently than others. I think that a lot of people talk about LTV to CAC as being the hallmark of unit economics, which. We agree with, but we also think about it a little differently. So when someone says LTV to CAC, they usually mean what I call perpetual LTV to CAC, which is forever the value of a customer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24091,
+      "timestamps": [
+        {
+          "offset": 24091,
+          "raw": "[00:22:46]",
+          "seconds": 1366
+        }
+      ]
+    },
+    {
+      "end": 24838,
+      "excerpt": "[00:23:07] And that's certainly important, but there's a lot of ways to manipulate that metric with assumptions. And so we're looking for things that are a little more indicative of historical traction. So we look at payback period quite a bit or three, six or 12 month LTV to CAC. That is the actual gross margin of a customer relative to your CAC in the first three, six, 12 months.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24454,
+      "timestamps": [
+        {
+          "offset": 24454,
+          "raw": "[00:23:07]",
+          "seconds": 1387
+        }
+      ]
+    },
+    {
+      "end": 25237,
+      "excerpt": "[00:23:31] So I think a lot of times businesses haven't thought about that as much as just kind of saying, \"if we retain a customer for five years, then we'll achieve, you know, three X LTV to CAC.\" And so a lot of times, I think, that's where our process breaks down most often is if there's a very promising LTV to CAC, but the payback period is two years, then that's probably not a fit for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24840,
+      "timestamps": [
+        {
+          "offset": 24840,
+          "raw": "[00:23:31]",
+          "seconds": 1411
+        }
+      ]
+    },
+    {
+      "end": 25432,
+      "excerpt": "[00:23:54] Gopi Rangan: And payback period, sometimes you have to dig a little deeper to see how that plays out. And it's not really apparent. And not all businesses are designed the same way. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25239,
+      "timestamps": [
+        {
+          "offset": 25239,
+          "raw": "[00:23:54]",
+          "seconds": 1434
+        }
+      ]
+    },
+    {
+      "end": 25470,
+      "excerpt": "[00:24:03] Connor Ryan: Absolutely. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 25434,
+      "timestamps": [
+        {
+          "offset": 25434,
+          "raw": "[00:24:03]",
+          "seconds": 1443
+        }
+      ]
+    },
+    {
+      "end": 25693,
+      "excerpt": "[00:24:03] Gopi Rangan: Yeah. You are relatively new to the venture capital ecosystem. You've spent a few years in this ecosystem. It's always fun to spend time with founders irrespective of the kind of business they run.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25472,
+      "timestamps": [
+        {
+          "offset": 25472,
+          "raw": "[00:24:03]",
+          "seconds": 1443
+        }
+      ]
+    },
+    {
+      "end": 25798,
+      "excerpt": "[00:24:16] If you were to think of one change to the VC industry to make it better, what would you do? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25695,
+      "timestamps": [
+        {
+          "offset": 25695,
+          "raw": "[00:24:16]",
+          "seconds": 1456
+        }
+      ]
+    },
+    {
+      "end": 26496,
+      "excerpt": "[00:24:23] Connor Ryan: Yeah, I think there's two things actually that I was thinking about before this conversation. One, I think everyone talks about their fund thesis. And I think that It would be healthy for the ecosystem to talk about those things actually as theses that none of us know that our thesis is accurate or the best way to invest in companies. That's why it's called a thesis. And we're all trying to figure out what the best way or best combination of attributes or metrics are to evaluate companies. But I think a degree of humility that we're all testing and learning and none of us are going to know if we're good investors for 10 or 15 years down the road would be healthy. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 25800,
+      "timestamps": [
+        {
+          "offset": 25800,
+          "raw": "[00:24:23]",
+          "seconds": 1463
+        }
+      ]
+    },
+    {
+      "end": 27099,
+      "excerpt": "[00:25:02] The second thing I would change, and I don't know if there's a mechanism to do this, but I would say maybe just an unfortunate reality of the asset classes that risk is asymmetric between venture capitalists and founders. And what I mean by that is baked into the model of a venture capital fund is the reality that two thirds of your companies will fail or be less than optimal outcomes. And it's the upper third that are driving the returns of the fund. And so mathematically a zero is just another day in the office for a VC, but for a founder, it's life changing, potentially traumatic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26498,
+      "timestamps": [
+        {
+          "offset": 26498,
+          "raw": "[00:25:02]",
+          "seconds": 1502
+        }
+      ]
+    },
+    {
+      "end": 27345,
+      "excerpt": "[00:25:37] And so it bothers me that there's that asymmetric risk that two thirds of our investments will not achieve the outcome that the founders set out to achieve. And the downside of that risk is borne entirely by the founders, not by us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27101,
+      "timestamps": [
+        {
+          "offset": 27101,
+          "raw": "[00:25:37]",
+          "seconds": 1537
+        }
+      ]
+    },
+    {
+      "end": 27826,
+      "excerpt": "[00:25:53] Gopi Rangan: The dynamics between the founder and the investor is a very different set. The incentives for the founder are very, very different. In some ways, this is probably one of the greatest difference between venture capital and private equity. Absolutely. If you look at the number of billionaires in private equity, there are many, many investors who are billionaires and not many as wealthy who are business owners like founders or CEOs, even management team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27347,
+      "timestamps": [
+        {
+          "offset": 27347,
+          "raw": "[00:25:53]",
+          "seconds": 1553
+        }
+      ]
+    },
+    {
+      "end": 28136,
+      "excerpt": "[00:26:21] But in the venture capital world, when founders win, it's a staggering win. And there are far fewer billionaires in venture capital. The investors are not the wealthiest. They don't get the highest outcome, which is the right thing to do. Yep. But when founders fail, that is a disastrous outcome.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27828,
+      "timestamps": [
+        {
+          "offset": 27828,
+          "raw": "[00:26:21]",
+          "seconds": 1581
+        }
+      ]
+    },
+    {
+      "end": 28422,
+      "excerpt": "[00:26:41] They've taken such a huge personal risk, family risk, and then the returns are not as comparable to even a regular job. And that deeply hurts the founders. It will be helpful to find a solution for that so we make entrepreneurship more interesting for the next generation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28138,
+      "timestamps": [
+        {
+          "offset": 28138,
+          "raw": "[00:26:41]",
+          "seconds": 1601
+        }
+      ]
+    },
+    {
+      "end": 28667,
+      "excerpt": "[00:26:58] Connor Ryan: At least what I've observed is it does seem like at least the venture capitalists I know are reasonably open to spending time and resources, even with their quote unquote losers to help find soft landings or aqua hires.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 28424,
+      "timestamps": [
+        {
+          "offset": 28424,
+          "raw": "[00:26:58]",
+          "seconds": 1618
+        }
+      ]
+    },
+    {
+      "end": 29038,
+      "excerpt": "[00:27:13] I don't know if that helps mitigate the, the experience of, of a quote unquote failure of a company, but, you know, it does seem that there's at least some either altruism or perhaps incentive from LP referrals of founders who haven't had the mega outcome that drives VCs to at least give some effort, even to their bottom two thirds of portfolio companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28669,
+      "timestamps": [
+        {
+          "offset": 28669,
+          "raw": "[00:27:13]",
+          "seconds": 1633
+        }
+      ]
+    },
+    {
+      "end": 29287,
+      "excerpt": "[00:27:37] Gopi Rangan: You've put your finger on something very important We're coming to the end of our conversation and I want to ask you about your community involvement. Is there a non profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29040,
+      "timestamps": [
+        {
+          "offset": 29040,
+          "raw": "[00:27:37]",
+          "seconds": 1657
+        }
+      ]
+    },
+    {
+      "end": 29540,
+      "excerpt": "[00:27:49] Connor Ryan: There is? It's completely unrelated to anything we've talked about so far but ever since I was a kid i've been fascinated by nature and wildlife. The majority of my charitable resources are dedicated to the World Wildlife Fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Connor Ryan",
+      "start": 29289,
+      "timestamps": [
+        {
+          "offset": 29289,
+          "raw": "[00:27:49]",
+          "seconds": 1669
+        }
+      ]
+    },
+    {
+      "end": 30091,
+      "excerpt": "[00:28:03] I think that probably like many people think climate change is a huge problem, maybe the number one problem facing us, and while many people talk about the decline of wildlife or wild places as being a byproduct of climate change, I believe it's actually kind of more interwoven and if anyone's watched a nature documentary and heard the iconic voice of David Attenborough, he's talked quite a bit about biodiversity being not just a byproduct, but actually something that if we can help rebuild is a mitigating factor for climate change.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29542,
+      "timestamps": [
+        {
+          "offset": 29542,
+          "raw": "[00:28:03]",
+          "seconds": 1683
+        }
+      ]
+    },
+    {
+      "end": 30447,
+      "excerpt": "[00:28:38] And so I think it's important to help organizations, give to organizations who are seeking to increase and protect wildlife, not just because we should be good stewards of our environment, or because you have an awe of nature or respect of nature, but because it actually can be a mitigating force in the overarching problem of climate change.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30093,
+      "timestamps": [
+        {
+          "offset": 30093,
+          "raw": "[00:28:38]",
+          "seconds": 1718
+        }
+      ]
+    },
+    {
+      "end": 30944,
+      "excerpt": "[00:29:01] A stat that always sticks with me is that since 1970, which is not in my lifetime, but in many people's lifetimes, we've lost 70 percent of wild populations. So mammals, reptiles, amphibians, birds, fish, amongst monitored populations, 70 percent of individuals are gone. And I think to hear that and not think that in a relatively small, blink of an eye geologically that that big of a change could have any impact and not think it could have an impact on the world is kind of silly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30449,
+      "timestamps": [
+        {
+          "offset": 30449,
+          "raw": "[00:29:01]",
+          "seconds": 1741
+        }
+      ]
+    },
+    {
+      "end": 31050,
+      "excerpt": "[00:29:35] And so I think giving to organizations like World Wildlife Fund or many others is important. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30946,
+      "timestamps": [
+        {
+          "offset": 30946,
+          "raw": "[00:29:35]",
+          "seconds": 1775
+        }
+      ]
+    },
+    {
+      "end": 31294,
+      "excerpt": "[00:29:41] Gopi Rangan: Connor, thank you very much for spending time with me. Thank you for sharing specific examples from your own career and your investments. I look forward to sharing your wisdom and your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31052,
+      "timestamps": [
+        {
+          "offset": 31052,
+          "raw": "[00:29:41]",
+          "seconds": 1781
+        }
+      ]
+    },
+    {
+      "end": 31650,
+      "excerpt": "[00:29:55] You Thank you. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31296,
+      "timestamps": [
+        {
+          "offset": 31296,
+          "raw": "[00:29:55]",
+          "seconds": 1795
+        }
+      ]
+    }
+  ],
+  "source_sha256": "8e2df7efe3218a249361c9144dd7d676a34ec7e6cc5fad9ca0117655ed3a0dd7",
+  "text_sha256": "483d7df05b5e7e8d96a1cfec21ca3f6aff4e071ecf83aa84ab3bb1f9609ada74"
+}

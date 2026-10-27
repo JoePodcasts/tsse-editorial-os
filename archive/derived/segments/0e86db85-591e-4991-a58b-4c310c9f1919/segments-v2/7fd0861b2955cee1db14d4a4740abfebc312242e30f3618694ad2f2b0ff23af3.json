@@ -1,0 +1,819 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 243,
+      "excerpt": "\"Don't you think we feel a lot when we care about someone? They can feel that we care and we don't have to say anything special. So I think it's so much more than the words. I think when the founders care, yeah, we can feel.\" - Tomoko Ishikura",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 503,
+      "excerpt": "[00:00:31] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 245,
+      "timestamps": [
+        {
+          "offset": 245,
+          "raw": "[00:00:31]",
+          "seconds": 31
+        }
+      ]
+    },
+    {
+      "end": 782,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is a good friend of mine. Tomoko Ishikura. She's a managing partner at Kicker Ventures, a San Francisco based venture capital firm that focuses on the future of healthcare and a few other topics.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 505,
+      "timestamps": []
+    },
+    {
+      "end": 1031,
+      "excerpt": "We're gonna get into some of those details. Tomoko is also a fellow INSEAD Business School alum, so I'm very excited to welcome her to this podcast. As, uh, many of you know, I'm also an INSEAD alum. Tomoko, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 784,
+      "timestamps": []
+    },
+    {
+      "end": 1107,
+      "excerpt": "[00:01:26] Tomoko Ishikura: Thank you so much. I'm very happy to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 1033,
+      "timestamps": [
+        {
+          "offset": 1033,
+          "raw": "[00:01:26]",
+          "seconds": 86
+        }
+      ]
+    },
+    {
+      "end": 1501,
+      "excerpt": "[00:01:30] Gopi Rangan: Tomoko, you've had a very colorful journey in your career. You started as a pharmacist, a molecular biologist. You've done business development, you've been in consulting, and you've also spent so many years in Silicon Valley. But originally you are from Japan. Can we start there and how did you get excited about coming to the US and making a home in Silicon Valley?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1109,
+      "timestamps": [
+        {
+          "offset": 1109,
+          "raw": "[00:01:30]",
+          "seconds": 90
+        }
+      ]
+    },
+    {
+      "end": 1572,
+      "excerpt": "[00:01:54] Tomoko Ishikura: Yeah, so I was raised in Japan. And then ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 1503,
+      "timestamps": [
+        {
+          "offset": 1503,
+          "raw": "[00:01:54]",
+          "seconds": 114
+        }
+      ]
+    },
+    {
+      "end": 1630,
+      "excerpt": "[00:01:58] Gopi Rangan: where in Japan did you grow up? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1574,
+      "timestamps": [
+        {
+          "offset": 1574,
+          "raw": "[00:01:58]",
+          "seconds": 118
+        }
+      ]
+    },
+    {
+      "end": 1892,
+      "excerpt": "[00:02:00] Tomoko Ishikura: I grew up in, uh, south part of Japan called Fukuoka. I visited there recently and it's such a small town, like I felt like it took me forever to get to the school, but it's actually like a 10 minute walk from my home to the school.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 1632,
+      "timestamps": [
+        {
+          "offset": 1632,
+          "raw": "[00:02:00]",
+          "seconds": 120
+        }
+      ]
+    },
+    {
+      "end": 2318,
+      "excerpt": "But it was the community that everyone knew each other. Yeah, it was, it was a beautiful childhood, but I think somehow I was always attracted to a global like view, international view of the world, and even when I was younger in high school, I was determined to go outside Japan. And I think one thing that attracted me to come to the US, especially to San Francisco, is that I felt like almost like everything is possible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1894,
+      "timestamps": []
+    },
+    {
+      "end": 2664,
+      "excerpt": "Your future is not set by others, and you get to see only like one or two years from here and then from, you don't, you can't really plan for like a five year, 10 year journey because you grow so much and then your community expands. And I like this kind of like uncertainty unknown with lot of possibilities we have in, in the Silicon Valley. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2320,
+      "timestamps": []
+    },
+    {
+      "end": 2975,
+      "excerpt": "[00:03:24] Gopi Rangan: The US, and specifically Silicon Valley, is a special place. I come from a conservative community as well, just like you know, Japan tradition and following rules and following a traditional path in your career as well. That was kind of the natural way that people chart their careers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2666,
+      "timestamps": [
+        {
+          "offset": 2666,
+          "raw": "[00:03:24]",
+          "seconds": 204
+        }
+      ]
+    },
+    {
+      "end": 3416,
+      "excerpt": "But when you come to Silicon Valley, you realize that you could do anything. And there are a lot of people around who can support you. You can build a community around yourself and you can make a home. I've really enjoyed it as well. It's a very special place in the world. You've done many different things and you largely focus on the healthcare side of, uh, venture capital, but I'm really curious to learn why you like venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2977,
+      "timestamps": []
+    },
+    {
+      "end": 3890,
+      "excerpt": "[00:04:06] Tomoko Ishikura: I think I resonate with what you had in your blog about this podcast. Like we, we get to believe in something that others are not believing in yet. Like we can be the early believer of the big visions that our founders have, and I think especially when the market is difficult or the ideas are very. Big just to having few people who believe in the vision of the founders can be the fuel for them to just to keep going to achieve their mission.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 3418,
+      "timestamps": [
+        {
+          "offset": 3418,
+          "raw": "[00:04:06]",
+          "seconds": 246
+        }
+      ]
+    },
+    {
+      "end": 4697,
+      "excerpt": "So I think the impact that we can bring to their ideas just by believing is very, very meaningful for me. And also, this is my first time being a venture capitalist, actually, even though I'm a managing partner. And what I learned about being a VC is it makes me so humble because I realize, we are so interdependent. VCs don't exist without LPs who believe in us. And then we cannot achieve anything without the founders who are working very hard to realize their missions. And then as a small vc, like Kicker Ventures, we need co-investors who support our founders together. We need advisors, people in the community. So I feel so grateful. Like every time I open my email box, I feel so grateful. Like everyone is always willing to help support. And I wasn't expecting this before I joined this world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3892,
+      "timestamps": []
+    },
+    {
+      "end": 4996,
+      "excerpt": "[00:05:49] Gopi Rangan: Yeah. The venture capital industry in the business world is probably one of the most collaborative. It is, uh, one of the few industries that encourages people to work with strangers and not only people you already know, and it's naturally designed to think very long term.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4699,
+      "timestamps": [
+        {
+          "offset": 4699,
+          "raw": "[00:05:49]",
+          "seconds": 349
+        }
+      ]
+    },
+    {
+      "end": 5348,
+      "excerpt": "Yeah, it's uh, you make an investment, you think about ideas, you discuss and brainstorm with founders, they tend to be very patient and mission-driven founders yet very, very ambitious. To see the result of that work, it takes 5, 8, 10 plus years these days and it naturally kind of lends you the path to focus on effort and hot on result too much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4998,
+      "timestamps": []
+    },
+    {
+      "end": 5407,
+      "excerpt": "[00:06:33] Tomoko Ishikura: Yes. That's beautiful. Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 5350,
+      "timestamps": [
+        {
+          "offset": 5350,
+          "raw": "[00:06:33]",
+          "seconds": 393
+        }
+      ]
+    },
+    {
+      "end": 5598,
+      "excerpt": "[00:06:36] Gopi Rangan: You already touched on Kicker Ventures a little bit. What is Kicker Ventures? What areas do you focus on and how is the firm different from other types of VC firms? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5409,
+      "timestamps": [
+        {
+          "offset": 5409,
+          "raw": "[00:06:36]",
+          "seconds": 396
+        }
+      ]
+    },
+    {
+      "end": 5846,
+      "excerpt": "[00:06:46] Tomoko Ishikura: Yeah, so Kick Ventures, as you mentioned, we invest in a space of the future of healthcare. So it's very broad, but what we want to achieve is we want to create a happier and healthier world for the future generations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 5600,
+      "timestamps": [
+        {
+          "offset": 5600,
+          "raw": "[00:06:46]",
+          "seconds": 406
+        }
+      ]
+    },
+    {
+      "end": 6034,
+      "excerpt": "So lots of investments that we make, those technologies are mostly science-backed solutions, but most of the time going beyond existing healthcare categories to bring meaningful impact. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5848,
+      "timestamps": []
+    },
+    {
+      "end": 6083,
+      "excerpt": "[00:07:18] Gopi Rangan: Why is this important? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6036,
+      "timestamps": [
+        {
+          "offset": 6036,
+          "raw": "[00:07:18]",
+          "seconds": 438
+        }
+      ]
+    },
+    {
+      "end": 6633,
+      "excerpt": "[00:07:20] Tomoko Ishikura: I think to us the impact is very important. When we look at the company, how we conduct the due diligence, we imagine a world or imagine the future, how the future will be different with this solution, with this technology. And then the impact that creates to the future has to be significant. We just have published our impact report this Monday. We focus on four areas of impact, which are to foster happiness, to empower individuals, to amplify the impact of health professionals and researchers, and then to connect.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 6085,
+      "timestamps": [
+        {
+          "offset": 6085,
+          "raw": "[00:07:20]",
+          "seconds": 440
+        }
+      ]
+    },
+    {
+      "end": 7469,
+      "excerpt": "So I think what we're seeking is the impact that moves our hearts, like moves our mind, like touches us when we imagine. So it's sometimes a little bit difficult to explain, but if I could bring few examples of my portfolio companies. We invested in a company called Anise Health that is delivering mental healthcare to the Asian American population. And when I saw the data and then learned 43% of the people who are on Anise's platform have never seen therapists before because of the stigma we have in the Asian community about the mental health care. And I felt very moved by that number; like how many people are discovering Anise Health through the special channels, and then being able to have access to that service to feel better. So I think that's the impact that we're looking for, that changes someone's life drastically. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6635,
+      "timestamps": []
+    },
+    {
+      "end": 8045,
+      "excerpt": "[00:09:13] Gopi Rangan: This is very interesting. I see how you look at impact. It's great to see that you are also measuring it actively and you look at impact on health professionals and also research -related topics. I'm curious to learn more about the frameworks or techniques you use to measure this, but before we get there, it's a very good example that you gave how you are going after a very difficult problem. I usually joke that immigrant parents want their kids to become doctors, but they themselves will not go to a doctor when they have issues, health issues.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7471,
+      "timestamps": [
+        {
+          "offset": 7471,
+          "raw": "[00:09:13]",
+          "seconds": 553
+        }
+      ]
+    },
+    {
+      "end": 8400,
+      "excerpt": "Uh, it's such an irony, uh, and especially mental health is such a taboo topic in many of these conservative cultures. But you took a bet to change that. That's very, very interesting. Can you talk about the framework and the techniques you use to measure impact? Like, what are things that matter to you and how do you know that you're creating impact?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8047,
+      "timestamps": []
+    },
+    {
+      "end": 9091,
+      "excerpt": "[00:10:06] Tomoko Ishikura: Yeah, so we defined those four areas of impact, for instance, to foster happiness. So happiness, especially for the patients means they have access to personalized care or the community that support them and their clinical outcomes are improving. So we have companies that have FDA-approved treatment in their offering as part of the companies that are delivering that impact (to foster happiness). Anise Health is a part of that. And to empower is to give individuals options, solutions, and also new types of information for them to feel like they have enough tools to manage their lives, their conditions. So that could include even access to new diagnosis. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 8402,
+      "timestamps": [
+        {
+          "offset": 8402,
+          "raw": "[00:10:06]",
+          "seconds": 606
+        }
+      ]
+    },
+    {
+      "end": 9819,
+      "excerpt": "We have one company also again in mental health, which tracks the state of mental health, hundred percent passively and continuously so we get to see how stressed we are, how depressed we are as days go by to be able to learn, or maybe I need to pause a little bit to take care of myself. So, yeah, this was our first impact report and it was such a beautiful process to talk about this, especially with our founders and advisors to kind of agree that this is what we care, and I'm especially happy to have the happiness in our impact because I think it's very important not just for us to live long or to cure our diseases, but throughout that process, we stay peaceful, we stay happy, we're connected and we feel cared for. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9093,
+      "timestamps": []
+    },
+    {
+      "end": 10261,
+      "excerpt": "[00:12:03] Gopi Rangan: This is great. The founders of Anise Health, Alice and Nisha, uh, they are the women of color and they come from that community. They deeply understand the extent of the problem. I can see why they are passionate about solving this problem, and I, I'm delighted to see that the framework that you're using to measure is showing you results and the Happiness Report is actually happy to read. That's fantastic. Thank ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9821,
+      "timestamps": [
+        {
+          "offset": 9821,
+          "raw": "[00:12:03]",
+          "seconds": 723
+        }
+      ]
+    },
+    {
+      "end": 10307,
+      "excerpt": "[00:12:30] Tomoko Ishikura: you. Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 10263,
+      "timestamps": [
+        {
+          "offset": 10263,
+          "raw": "[00:12:30]",
+          "seconds": 750
+        }
+      ]
+    },
+    {
+      "end": 10563,
+      "excerpt": "[00:12:31] Gopi Rangan: How does it happen in the first meeting or second meeting with founders like this? Now you can take the example of Anise Health or some other company in your portfolio. What happens in the first meeting? What questions do you ask?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10309,
+      "timestamps": [
+        {
+          "offset": 10309,
+          "raw": "[00:12:31]",
+          "seconds": 751
+        }
+      ]
+    },
+    {
+      "end": 10588,
+      "excerpt": "What gets you excited? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10565,
+      "timestamps": []
+    },
+    {
+      "end": 11743,
+      "excerpt": "[00:12:47] Tomoko Ishikura: Yeah, I think what makes difference when we know that we're going to invest in the company is when the founders can articulate the impact that they're bringing very clearly. So they have the ways to measure the impact. They have the ways to articulate why this get adapted, this get used, and then what happens when solution is in the market and then people start using it. When someone explain this clearly, because the future of healthcare is very broad. We have portfolio companies in the AI space, mental health, chronic conditions, sequencing and robotics and food as medicine, even sustainability. So it's very broad. So often we are not even aware of the problem that they're solving, but when the founders can articulate, \"this is the problem, this is how we are going to solve it, and then the impact is this\", and then our mind moves, we feel very touched to imagine that. Like that's the feeling we're looking for, um, the big significant impact that we can bring to the healthcare world through that solution. And that's something that I'm looking for the most in our first meeting, whether they can explain that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 10590,
+      "timestamps": [
+        {
+          "offset": 10590,
+          "raw": "[00:12:47]",
+          "seconds": 767
+        }
+      ]
+    },
+    {
+      "end": 11930,
+      "excerpt": "[00:14:23] Gopi Rangan: How long does it take for you to get to that point where you get it? Is it, uh, one meeting of 30 minutes or a few hours or multiple meetings? How does it work? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11745,
+      "timestamps": [
+        {
+          "offset": 11745,
+          "raw": "[00:14:23]",
+          "seconds": 863
+        }
+      ]
+    },
+    {
+      "end": 12116,
+      "excerpt": "[00:14:34] Tomoko Ishikura: Surprisingly, it's usually one or two meetings. So Kicker Ventures, like we have invested in one portfolio company where we made a decision within 48 hours.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 11932,
+      "timestamps": [
+        {
+          "offset": 11932,
+          "raw": "[00:14:34]",
+          "seconds": 874
+        }
+      ]
+    },
+    {
+      "end": 12187,
+      "excerpt": "[00:14:46] Gopi Rangan: Oh, that's fantastic. I wanna hear the story.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12118,
+      "timestamps": [
+        {
+          "offset": 12118,
+          "raw": "[00:14:46]",
+          "seconds": 886
+        }
+      ]
+    },
+    {
+      "end": 12879,
+      "excerpt": "[00:14:51] Tomoko Ishikura: Yeah, it was, um, I was actually looking at our conversation and it was just a year ago and I was introduced to the founder Wednesday evening. It's the company called Place Genomics, so in the area of genomics. And I met the founder Thursday morning and then I called my other partner on my way back while driving f rom the meeting. And then he said, okay, let's invest. And then we just had one reference call and then another follow up call with the founder. And then we made a decision. And it was not a space that we are familiar with, but he did such an amazing job explaining the wall the genomic industry is hitting and then how he can overcome that wall.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 12189,
+      "timestamps": [
+        {
+          "offset": 12189,
+          "raw": "[00:14:51]",
+          "seconds": 891
+        }
+      ]
+    },
+    {
+      "end": 13234,
+      "excerpt": "And then we were very touched by the impact that could bring to the healthcare world. And yeah, this company is still in stealth mode, so that's why I'm not being able to share so much about their technology. But also another thing was the founder, was very, very humble, very authentic, and then I could feel that he really cares about what he's doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12881,
+      "timestamps": []
+    },
+    {
+      "end": 13438,
+      "excerpt": "He just wanted to do this right and not looking for anything about his status, reputation, and so forth. So I felt like we could be really good partners for a long time because it's a long-term project.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13236,
+      "timestamps": []
+    },
+    {
+      "end": 13780,
+      "excerpt": "[00:16:27] Gopi Rangan: 48 hours and you made a decision. That's lightning fast, indeed. I've done it a few times, but it's always, exciting when something like that happens. Uh, most, most of my investments will take a few handful of meetings and a maybe a few days or a few weeks. Uh, 48 hours is unusual, but it has happened a few times.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13440,
+      "timestamps": [
+        {
+          "offset": 13440,
+          "raw": "[00:16:27]",
+          "seconds": 987
+        }
+      ]
+    },
+    {
+      "end": 14138,
+      "excerpt": "Mm-hmm. You talked about how the founder was humble and mission-driven. If you ask the founders, \"Are you humble? Are you mission-driven?\", they would say, \"yeah, I am mission-driven. I'm humble.\" But how do you tease that out in the conversation? What questions do you ask the founder? What helps you learn that they are mission-driven and they're humble.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13782,
+      "timestamps": []
+    },
+    {
+      "end": 15057,
+      "excerpt": "[00:17:12] Tomoko Ishikura: Don't you think we feel a lot when we care about someone? They can feel that we care and we don't have to say anything special. So I think it's so much more than the words. I think when the founders care, yeah, we can feel, yeah, sorry it's a fluffy fluffy, but we, we know. Yeah, and then also the people change as well, and I think for us, we do our best to show them that we care, and then it's okay for them to show their challenges and we care them as a founder, but we also care about them as individual. And then I feel like maybe at the beginning, I would just say, they're afraid to open up. As time goes by we can improve our relationship with the founders and also we can make an impact by how we treat them. So I think it's been four years since we founded Kicker Ventures and our relationship with our founders did change, and I do feel like our founders also changed as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 14140,
+      "timestamps": [
+        {
+          "offset": 14140,
+          "raw": "[00:17:12]",
+          "seconds": 1032
+        }
+      ]
+    },
+    {
+      "end": 15331,
+      "excerpt": "We all learn to be humble. We all like gradually learn how much we are supported. So I think that's something that Kicker as a VC wants to bring to our community, including our founders as well, just through our own example. And I'm also learning to be more humble, yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15059,
+      "timestamps": []
+    },
+    {
+      "end": 15678,
+      "excerpt": "[00:18:57] Gopi Rangan: That's a very fresh perspective from a new VC firm. I'm delighted to hear that. Building a startup is difficult and building in healthcare is a different kind of challenge. What are some things that founders can do to improve the chances of success. What's your advice to founders building a new business in your sector? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15333,
+      "timestamps": [
+        {
+          "offset": 15333,
+          "raw": "[00:18:57]",
+          "seconds": 1137
+        }
+      ]
+    },
+    {
+      "end": 16248,
+      "excerpt": "[00:19:19] Tomoko Ishikura: Yeah. So, kicker is a believer in the power of a community. We have a big number of people in our community, and we try to support our founders through our programs, such as our Advisor-in-Residence program. And we organize a founder/advisor dinner as an example. And I think what I learn often from talking to founders is many founders are facing similar challenges, including how to manage remote team or what to do at our offsite events. And I think there's a lot we can learn from just connecting with each other, learn from each other.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 15680,
+      "timestamps": [
+        {
+          "offset": 15680,
+          "raw": "[00:19:19]",
+          "seconds": 1159
+        }
+      ]
+    },
+    {
+      "end": 16595,
+      "excerpt": "And in our community we have people from payer health systems and by just talking to them, you can learn a lot. You don't have to repeat the same mistakes that others did. So I think really asking for help and like reaching out to VCs who are well connected in the ecosystem, it can make a lot of their activities more efficient and much easier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16250,
+      "timestamps": []
+    },
+    {
+      "end": 16983,
+      "excerpt": "[00:20:37] Gopi Rangan: It's hard enough to build a business from scratch. And in the healthcare space, it's quite complicated; building a community around themselves, having that support system, people they can reach out to. And you offer a lot of those programs like access to advisors, founder dinners where they can talk to each other and get help, and that makes a huge difference.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16597,
+      "timestamps": [
+        {
+          "offset": 16597,
+          "raw": "[00:20:37]",
+          "seconds": 1237
+        }
+      ]
+    },
+    {
+      "end": 17171,
+      "excerpt": "Are there things that are different today in the healthcare market compared to, say, five years ago, 10 years ago? What is exciting for you? What are trends that you're looking out for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16985,
+      "timestamps": []
+    },
+    {
+      "end": 17446,
+      "excerpt": "[00:21:08] Tomoko Ishikura: I think so five years ago is the time, like we kind of just started. So we started in January 2021. And at that time I feel like the market, especially for VCs, was competitive, a little bit competitive, and we had a lot of FOMO about the deals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 17173,
+      "timestamps": [
+        {
+          "offset": 17173,
+          "raw": "[00:21:08]",
+          "seconds": 1268
+        }
+      ]
+    },
+    {
+      "end": 18107,
+      "excerpt": "But now it's calmed down quite a bit and I see a lot more collaborations. So collaborations from supporting a company together between co-investors to gathering together who share the same mission to just to support that mission. I've seen these kind of activities so much more. So I feel there is more opportunity to connect, more opportunity to learn from each other, and more opportunity to rely on the community so you don't have to do everything alone, and you can focus on what you are good at, and then there will be someone who is good at the things that you are not good at and then you can help each other to achieve something even more meaningful. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17448,
+      "timestamps": []
+    },
+    {
+      "end": 18407,
+      "excerpt": "[00:22:23] Gopi Rangan: It's a lot easier to find people, build relationships even with strangers now with the so many people active on social media platforms and other types of communities. And that was much harder like a decade ago in many sectors and especially in the sectors that you focus on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18109,
+      "timestamps": [
+        {
+          "offset": 18109,
+          "raw": "[00:22:23]",
+          "seconds": 1343
+        }
+      ]
+    },
+    {
+      "end": 18696,
+      "excerpt": "So Tomoko, you meet a lot of entrepreneurs, but you don't invest in all of them. Roughly how many entrepreneurs do you invest in for every, for every entrepreneur that you invest, how many entrepreneurs do you meet and why do you say no? What's the most common reason for you to say no? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18409,
+      "timestamps": []
+    },
+    {
+      "end": 19269,
+      "excerpt": "[00:22:58] Tomoko Ishikura: I think we meet a lot of entrepreneurs. We meet a few a day, and then we invest in maybe like four, five a year. For me, the biggest reason that I say no is again, the impact. So for us, because we get to invest in such a small number of companies, we are very careful to set a company that aligns with our mission, that is creating a happier and healthier world. For instance, there are so many AI use cases in, uh, healthcare, and then a lot of companies are working on creating automations for operations, for health systems, as an example.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 18698,
+      "timestamps": [
+        {
+          "offset": 18698,
+          "raw": "[00:22:58]",
+          "seconds": 1378
+        }
+      ]
+    },
+    {
+      "end": 19562,
+      "excerpt": "I do believe that's a cool idea. However, when I imagine the world with the impact with this automation of the patient's intake, for instance, to me, it's not significant enough to move my my heart, and I'm really looking for the impact that affects people's lives and really empower people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19271,
+      "timestamps": []
+    },
+    {
+      "end": 19806,
+      "excerpt": "So. I have often said no because of the type of impact that they're creating. So I'm not saying that there is no impact for their solutions, but I think we're more specifically looking for the impact that align with our four areas of impact. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19564,
+      "timestamps": []
+    },
+    {
+      "end": 19952,
+      "excerpt": "[00:24:53] Gopi Rangan: So you're looking for exponential impact, something that really transforms the way you people take care of their health.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19808,
+      "timestamps": [
+        {
+          "offset": 19808,
+          "raw": "[00:24:53]",
+          "seconds": 1493
+        }
+      ]
+    },
+    {
+      "end": 20186,
+      "excerpt": "There are many different ways to create impact and there are some that you like and you resonate with. And when that happens, you say yes. And it's very hard to find that connection with the impact that the founders want to create. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19954,
+      "timestamps": []
+    },
+    {
+      "end": 20398,
+      "excerpt": "It's a tough job, like when you have meet hundreds of founders and you only invest in four or five companies. Sometimes you have to say no even when you like the company a lot. I find that challenging as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20188,
+      "timestamps": []
+    },
+    {
+      "end": 20682,
+      "excerpt": "I want to ask you a more macro or more philosophical question about venture capital, and I'm really curious to hear your perspective because you're a new VC and it's a new VC firm you've started. What is one thing that you would like to change about how venture capital works today?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20400,
+      "timestamps": []
+    },
+    {
+      "end": 20957,
+      "excerpt": "And especially you as a woman VC and not, not a lot of women are in managing partner roles, so writing checks, the percentages were low. Is that something that you would like to see change or are there other aspects of how the industry works that you would like to change? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20684,
+      "timestamps": []
+    },
+    {
+      "end": 21903,
+      "excerpt": "[00:26:00] Tomoko Ishikura: I think I would like the orders for talent opportunities and solutions to be more eliminated. So Kicker Ventures is a global fund. So even though currently 80% of our portfolio companies are in the US, we do look at deals in Europe and in Japan as well, in Asia. And sometimes the way that VCs think about the exit or how to increase the value of the company, they are very different. So it's sometimes not transferable. Yeah. How the companies, for instance, raise money and then exit in Japan is very different in the US. And then I do believe there are so many solutions that can expanded to the global market and sometimes that kind of a structure or different business culture it's a barrier for the company to go global or bring their company or solution to different market. So I hope that barrier can be eventually eliminated so that everyone will have access to such a great solution to change their lives. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 20959,
+      "timestamps": [
+        {
+          "offset": 20959,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 22364,
+      "excerpt": "[00:27:25] Gopi Rangan: Now you and I are in Silicon Valley and Silicon Valley is still the dominant epicenter for innovation. More than 50% of capital invested in startups go to Silicon Valley startups. It'll be great to bring that spirit of innovation to the rest of the world. There are lots of problems waiting to be solved, and a lot of entrepreneurs exist everywhere in the world. Great ideas exist and it'll be great to see, many of those ideas funded.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21905,
+      "timestamps": [
+        {
+          "offset": 21905,
+          "raw": "[00:27:25]",
+          "seconds": 1645
+        }
+      ]
+    },
+    {
+      "end": 22549,
+      "excerpt": "Yeah, we're coming towards the end of our conversation, and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22366,
+      "timestamps": []
+    },
+    {
+      "end": 22646,
+      "excerpt": "[00:28:02] Tomoko Ishikura: So, I've been involved in this meditation tradition called Kadampa.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 22551,
+      "timestamps": [
+        {
+          "offset": 22551,
+          "raw": "[00:28:02]",
+          "seconds": 1682
+        }
+      ]
+    },
+    {
+      "end": 22962,
+      "excerpt": "So the meditation center in San Francisco that I go to, it's a nonprofit organization, and I've learned a lot by going to that center, including how to be humble, but also how to make my mind peaceful, how to be kinder, how to be happier, and then I am very passionate about bringing that practice to the VC world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22648,
+      "timestamps": []
+    },
+    {
+      "end": 23289,
+      "excerpt": "Learning to be able to keep a peaceful mind is very important in the current market. Often I see that like founders or even my busy friends believe that stress is good, like stress can drive us to achieve something better. I do believe when we have a peaceful mind, we have so much more space within our mind to do much more.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22964,
+      "timestamps": []
+    },
+    {
+      "end": 24040,
+      "excerpt": "We can make better decisions and we can see things in a calmer mind. And I often give this example of, to get to somewhere that you want to go, you don't have to be unpeaceful. You just have this will to get there. And then you have to know how to. You don't have to suffer or be stressed on your way to get there. And then if you are peaceful, you won't make a mistake about the route and you can really enjoy. And then maybe you get to support or share that journey with others or others get to join your journey. So I don't think we need to be stressed to be successful. So I've known this kind of thing through my meditation practice and because I benefited a lot, I would to share this with the people in my community and passionate about this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23291,
+      "timestamps": []
+    },
+    {
+      "end": 24428,
+      "excerpt": "[00:30:11] Gopi Rangan: I can feel the peace and calm in your voice, uh, through this podcast already. Tomoko, thank you very much for sharing candid examples, specific stories from your career, from your investments and your philosophy of how you care about impact when you make investments in startups, and how you support these founders through your community and your many programs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24042,
+      "timestamps": [
+        {
+          "offset": 24042,
+          "raw": "[00:30:11]",
+          "seconds": 1811
+        }
+      ]
+    },
+    {
+      "end": 24510,
+      "excerpt": "I look forward to sharing your nuggets of wisdom with the world. Thank you very ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24430,
+      "timestamps": []
+    },
+    {
+      "end": 24580,
+      "excerpt": "[00:30:36] Tomoko Ishikura: much. Oh, thank you. Thank you so much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tomoko Ishikura",
+      "start": 24512,
+      "timestamps": [
+        {
+          "offset": 24512,
+          "raw": "[00:30:36]",
+          "seconds": 1836
+        }
+      ]
+    },
+    {
+      "end": 24819,
+      "excerpt": "[00:30:41] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24582,
+      "timestamps": [
+        {
+          "offset": 24582,
+          "raw": "[00:30:41]",
+          "seconds": 1841
+        }
+      ]
+    },
+    {
+      "end": 24935,
+      "excerpt": "Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24821,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "7fd0861b2955cee1db14d4a4740abfebc312242e30f3618694ad2f2b0ff23af3",
+  "text_sha256": "f522df063f90176b634cb43ab56a5ca7329c5e5088563d874a216a7bc1bfc8de"
+}

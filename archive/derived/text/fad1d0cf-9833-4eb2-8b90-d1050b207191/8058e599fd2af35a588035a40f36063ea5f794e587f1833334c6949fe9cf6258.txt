@@ -1,0 +1,216 @@
+Mark Fernandes: We took time to reflect on what are the advantages and disadvantages of both sides of it. But we really had to go out and do some soul searching on what we wanted. And we really felt that the brand mattered a little bit of loyalty to Pete who founded the firm. And the sense of this is how we'd want to be treated again.
+
+Gopi Rangan: You are listening to the Sure Shot Entrepreneur.
+
+A podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the Sure Shot Entrepreneur. Today's guest is Mark Fernandez. Mark is a managing partner at Sierra ventures. He focuses on cloud infrastructure, security software, digital health, data, and analytics.
+
+Mark has been in Silicon Valley for more than two decades. He has seen the venture capital world evolve over many, many years. Let's talk to him about what he looks for in startups, what questions he asks entrepreneurs, and how his perspectives have changed over the years. Mark. Welcome to the Sure Shot Entrepreneur.
+
+Mark Fernandes: Thank you Gopi. Thanks for having me. 
+
+Gopi Rangan: Tell us about yourself, starting with your childhood. You grew up in Bombay. 
+
+Mark Fernandes: I did, I guess it's called Mumbai now, but yes, I grew up in Bombay. I did my bachelor's in mechanical engineering. I went to this little school at the time called Moneyball Institute of Technology, which is now a little more famous because of a gentleman named Suchen Adela who actually overlapped with me at Moneyball.
+
+After that, I came to Berkeley for my master's in robotics. I did that for a couple of years and then went down the product path, like many engineers. So I worked at a couple of big companies, a startup company. And when I was at Cisco, I realized I need to go do something different because I really understood the what and the how, but had no idea what the, why was.
+
+So I decided to go to business school. I went to HBS for a couple of years and thought I was going to go back into tech. And one common link you'll find here is food. I got enticed by the food offered by one of the investment banks, ended up going to work for about four and a half years on wall street, mostly at Merrill Lynch covering software.
+
+I was a sell-side research analyst covering some of the big names in software back in 99 and 2000 when everything was up into the right kind of like now. But did that for about four and a half years. Didn't really know what an investment bank did before business school. Ended up doing that. Didn't know what venture capital was.
+
+One day when I was at the marrow software conference again, over food, a couple of guys walked up to me and started talking. They happened to meet my future partners at Sierra and I joined Sierra back in early 2002. So that's been the journey. I've been here now for almost 20 years and it's been a great ride.
+
+Gopi Rangan: And food played an important role for me as well. I remember scavenging for leftover fruit after sales meetings. I saw that around 2002 or three, everything declined and the food disappeared. There was no good food. I wondered why. And someone told me it's the recession. The company's not doing well.
+
+That got me more interested in reading financial statements. And I went to business school as well. So food does play an important role I see between both of our careers. Tell me about your venture capital life. You started at Sierra ventures in 2002. What was your first deal?
+
+Mark Fernandes: Yeah. So I go better to be lucky than good.
+
+I started the bottom of the barrel. The bubble had burst and nobody was funding anything, but Sierra had been around for almost 20 years before I joined. All my partners at the time told me, take a year, figure out what it is, gave me a whole long list of things to look for in companies and entrepreneurs.
+
+So sometimes it's better to not know and not have a box around you. And so I was at the RSA security conference, which now you can't even get into. Those days, it must have been about 300 people at the Moscone Center. I was two weeks at Sierra and I saw this guy who people were walking up to him, probably 30 people tracking him at any given time, asking him for his autograph.
+
+And I'm thinking, this is a security show. Why would anybody want an autograph from someone out here? They had books and t-shirts and whatever that they were asking him to sign. So I stalked him for a little bit as any good VC would do and when he was grabbing a coffee, I said, Hey, should I get your autograph. Turns out it was this guy named Marty Roche and Marnie had an open-source project called snort, which was network intrusion, detection stuff, basically cybersecurity stuff.
+
+He had this open source project when nobody could spell open source back then and forget about putting open source and security together. We would just intrigue them because I used to cover security back at Merrill. I understood that the only way you could crack a very well-established security market was having something different that customers would pay attention to.
+
+Marty had that, he had 2 million downloads. He was well-recognized in the enterprise circles and so we started chatting and he said, look, I've been trying to raise money for almost two months here on Sandhill road. Nobody's given me the time of day. And when they did, they would say, Hey, come back when you have a million dollars in revenue.
+
+And he goes, if I had a million dollars in revenue, I wouldn't be talking to you. This was before the days of seed and pre-seed and mango seeds and whatever else you talk about these days, I hit it off. We started chatting, I brought him in and a week later we gave him a term sheet. We gave him his first $5 million and literally it was a $5 million pre-money valuation.
+
+So we bought a lot of the company. We raised a $7 million round. Long story short company went public in four or five years, and Cisco ended up buying them, for $3 billion. It was one of those things better to be lucky than good, but we were prepared. I had a very prepared mind about how entrepreneurs tackle problems and that's really important to me.
+
+So that was the start. Like I said, it's better to be lucky than good, but I was prepared. It was fantastic. And you also have to break the rules sometimes because my partners had said million dollars in revenue and they need to have established this and this, that, and Marty was just getting started as a commercial enterprise.
+
+So anyway, that's the long story. So I have fond memories of that. 
+
+Gopi Rangan: So you had a prepared mind and you had the hustle to approach the founder to ask him about his company and that eventually resulted in an investment that became really successful. What do you look for in founders when you make investments at that stage?
+
+The nomenclature doesn't really matter. There are lots of new names coming up, but roughly describe what stage do you like to meet the company and what questions do you ask them?
+
+Mark Fernandes: Yeah. So I am very early, Gopi, and as a farmer early seeds, the names, but for me in particular, I'm generally first institutional money into these companies.
+
+So maybe they've raised some angel money before and all, but I really do feel like for me, it's the best companies I've invested in. Usually, I've led either the seed round or the Series A round. So what am I looking for? Somebody who understands the problem. I am not concerned about whether the person is a first-time entrepreneur.
+
+Marty was a first-time entrepreneur. We'll talk about some other examples there for stem entrepreneurs. But, a real good grasp of the problem. Something unique, some unique insights into the problem. That's really important. The second characteristic is intellectual curiosity. It's super, super important to me, and it doesn't need to be someone who's academic in many ways, but when we can talk about a whole bunch of different things and I can see that spark in their eyes, and that's really, really important to me, those are a couple of things that are essential.
+
+And then there is one of the elements I've learned from Amazon, in particular, is that there are a lot of entrepreneurs who can present really, really well. And one of the things I realized is that that whole two page to six-page document mindset that entrepreneur has, can they articulate the problem in a document and just be very clear about what they're bringing to the table.
+
+So those would be the things that I look for. I'm less interested in necessarily the showy entrepreneur who puts on a really good dog and pony show. It's how powerful are they? The hustle is an interesting word, but I'm actually more interested in and powerfulness of the entrepreneur. 
+
+Gopi Rangan: How do you test for that? These days especially entrepreneurs tend to be very well-prepared. They have a beautiful elevator pitch ready to go. And their slide deck is dazzling. In that situation. It's becoming really difficult to piece out the real story. What questions do you ask them? 
+
+Mark Fernandes: Yeah. If you listen to the Y Combinator pitches, all 180 of them sound very similar, they've been trained exceptionally well. 
+
+Gopi Rangan: They all want to change the world.
+
+Mark Fernandes: And everything's up into the right. And the reality is there are five or 10 gems in there for sure. Every back. So your question is how do you tease that out? It's very difficult at that stage. For me, it is really that populace that they run through in the way they answer questions. Are they just responding like a can answer or do they take time to pause?
+
+And even a no, I don't know is great. I actually want to see some, no, I haven't thought about that and that's a really good insight or whatever. That's really interesting. I have no way to have the domain expertise that they do. So we have a standard set of questions at your last. For me. The biggest thing I'd ask is how did you arrive at this problem and what customer discovery did you do?
+
+It's a very open-ended question. Very simple on the surface. I'm sure there are people who have read plenty of blogs and stuff on customer discovery and what you need to do in the ICP initial customer profile and everything. But you can tell genuinely, have they done their research on it? There's a healthcare company we invested in two and a half years ago, Series A, and Ralph and Michael were the two founders, they lived and breathed the problem.
+
+Gopi Rangan: What's the name of the company? 
+
+Mark Fernandes: It's a company called Reify health REI, F Y health. And we funded them Series A  investment they'd been around for about seven or eight years before we invested.
+
+Usually, you're like, oh man, this is refried beans. I'm not really interested. But when we talked to Ralph was like, look, this is the various iterations that we had to try and figure out the problem. And he started this company because he had a personal issue. Someone in his family was trying to get a clinical trial.
+
+What they do is patient enrollment, but in clinical trials, he was trying to figure out this problem. He tried to find a trial and couldn't, and he decided to tackle this problem. In 20 years of doing this, this is the fastest-growing company I have ever worked with. In two and a half years. I can't give you the exact number, but they've gone from little to no revenue, to a lot of revenue, and let's leave it at they're the fastest-growing company I've ever worked with within 20 years of doing business.
+
+And your question was around, what kind of questions do I ask? It was really trying to get to the bottom of why Ralph arrived at the way he's tackling this problem. There were multiple ways to do that. At the time he had only one customer, one pharmaceutical company as a customer, but the way he approached the populous, which you've tackled this now again, that's one piece of it Gopi. The second piece is I believe in experts, there are domain experts. So he was actually at our CXO summit, which you might've attended. And I had two pharmaceutical CIOs, one CIO, and CTO talk to Ralph. And he really felt like I'm not going to say blindsided, but he felt like this was a very, very detailed diligence question.
+
+But the two CIOs walked out and they said, Mark, don't let this guy go. He absolutely understands the problem. I can see our companies absolutely using them. So two things Gopi. One is the powerfulness of the entrepreneur, the ability to do that. And two, knowing my limitations, are there people on short notice that I can actually utilize in our network to help me bolster the pieces?
+
+I don't know what I don't know sometimes. And I have to find people who could help me, especially in the domain, especially in things like healthcare. 
+
+Gopi Rangan: It's interesting that you distill a lot of your questions into these two specific things. I'm curious to see how long it takes for you to get to that answer from the first meeting to making a decision, how does it work for you?
+
+Mark Fernandes: Gopi, look in this day and age, especially now in this environment, for the very good deals, you don't have a lot of time. In many cases, we see a company on Thursday and we have to make a decision on the following Monday. The good news is being in a small firm. We are very, very nimble at Sierra. And so we'll do partner meetings on Mondays and Fridays, but if necessary, we do meet a team on Wednesday or Thursday.
+
+We'll get the troops together. We're very nimble on that front. The good thing with us is that we've built a good network and Gopi, I mentioned that CXO advisory board, we have 75 fortune, 2000 CIOs and CTOs of companies like Starbucks and merch and Facebook and you name it. We've got different industries. So when we were looking at Reify, for instance, I could ping seven out of the nine CIOs and CTOs of big pharma companies.
+
+I'm talking about GlaxoSmithKline and Alexion and Regeneron and companies like this and within a couple of days, at least get a knee-jerk reaction to the problem. For us, that's really critical and by the way, it also works in the other direction, which is Ralph saying, Hey, these guys have access to these pharma companies that will take me two years to get to this level.
+
+So it's been really good. But to answer your question, it's usually we've got to try and get to an answer in a couple of weeks and sometimes sooner. That's what is at stake, and it really helps to have a small team and be nimble about this decision-making process. 
+
+Gopi Rangan: The speed of decisions has accelerated over the past few years and it's good to have the superpower of a CXO network. I'm interested in understanding the original story of how the CXO network formed and how is it helpful for you now? I remember that many years ago, venture firms used to pay for free flight tickets to get CIOs, to come into Silicon valley and spend a few days. But now it's actually become very attractive for a lot of CIOs to be associated with VC firms. It's a lot easier to bring them on board. How do you build that network?
+
+Mark Fernandes: Yeah, Gopi. I'll be a little boastful out here and say, we were probably one of the first firms to start that right. This year will be our 17th annual CXO summit. So this was long before people figured this out and it started, honestly, I view it as almost an entrepreneurial endeavor because we realized the biggest challenge for our companies, for our entrepreneurs were getting people will say customers, but the reality is even getting feedback on what they're building.
+
+And so for me, when I started this, my room, we had tried this multiple times at Sierra started and it was always, the problem was I'll give you an inside baseball thing here. People try to plug their wares into these CIOs and these CIOs are being sold to all the time. The last thing they want is another one, selling them another startup product.
+
+The number one rule with my partners with I'll do this, but we cannot be flogging out where, so then if they're interested in seeing it fantastic, but not interested in it, we should not be selling to them. So I started with the five local CIOs. It was Cisco, WebEx was separate at the time, Sony and a few other folks.
+
+That's five became 10. The next year 10 became 20. They started telling each other, had people who basically stayed with us across four jobs. I think about Jim Scholfield who's at Marriott right now. I knew him when he was CTO at Coke. Went over to Nike. A CIO went over from there to Merck, a CIO, and now is at Marriott.
+
+Jim stayed with us. If he felt that he wasn't getting value out of it, there were plenty of options that he has. We don't pay them. There's no money changing hands or anything. It's just this intellectual stimulation. And I use the word intellectual curiosity. We really like people who are intellectually curious and the best entrepreneurs actually get feedback from these folks. It's terrific. It's very symbiotic on that front, Gopi. 
+
+Gopi Rangan: What does this mean for entrepreneurs. I see on one side, instead of just pitching to the money guy, the VC, they are also given an opportunity to talk to somebody from the industry who empathizes and understands the value of their products and services. How does this have an impact on the entrepreneur during the time when you are evaluating them?
+
+Mark Fernandes: So for sure there's plenty of money available. There's no shortage of capital these days. That's not the game. In fact, most VC firms do have access to terrific people out there and they're investing in what they call now in quotations, the platform team, and they have all these phenomenal resources and the bigger funds obviously have more resources to throw at the problem.
+
+There is some authenticity, some genuineness that entrepreneurs will realize when they talk to a CIO who's been with Sierra for 14 years in the network and across multiple jobs and they're getting genuine feedback. Honestly, if I go back to that Reify example and Ralph talked to George Lotto from Alexion. It really felt like, wow, that was a hard conversation because George didn't feel any qualms, and actually being very direct, there was no sales pitch. There was no gift wrapping on this. He was like, Hey, tell me why this works. Tell me why this should work. And tell me what you've been doing for the last eight years. Ralph initially was like, whoa, this is like very, to the point. But when he had the chance to digest that, it was like, wow, that was a genuine conversation.
+
+That's how the Sierra guides actually act. So to me Gopi, that's the difference between call it a package CIO board and a real engagement and real interaction. Good entrepreneurs see that very quickly. 
+
+Gopi Rangan: How many investments do you make in a year, roughly? 
+
+Mark Fernandes: The dynamics have changed because we're doing more seed deals, but there are two dimensions to your question.
+
+The first dimension is how many boards can I actually manage and effectively be a good board member too. And I'd say around nine or 10 is about right, because at any given time three or four, it's not going to get a lot of attention and two or three are in cruise control and somewhere in between. So board side effects on me.
+
+If I'm at about 10, I feel like, well, utilized, if I'm at seven or eight, maybe I'm not working hard enough. And if I'm at 12, then I'm like, okay, what am I not doing right. That's about from a board perspective. But from a new deal perspective, remember, like some of these companies take 6, 7, 10 years to get to fruition.
+
+So I would say I do about three, maybe four new deals a year, and some might just be, Hey, here's 2 million bucks as part of a slightly bigger round or we've got very good other board members. So that's how I think about it Gopi. It's about three or four. And given that there are three partners as a firm, we're probably doing 12 ish or so deals a year. 
+
+Gopi Rangan: Okay. Most of them are seed deals, but a few seeds and A's.
+
+Mark Fernandes: Seeds and a's yeah. 
+
+Gopi Rangan: Okay. When you see a company that's doing well, and I see that over the years, you have many companies that have done extremely well, including the stories that you've mentioned previously, what do they do well that positions the company for high growth?
+
+Mark Fernandes: Yeah, Gopi. I would say the first thing is the CEO of the founders know how to hire talent period. I tell my CEOs, if you ask any of my CEOs, they'll give you a consistent answer about the Fernandez thing, three things, cash, team, and momentum in that order. At the end of the day, the company has to be funded and the CEO has to always be thinking about it and they close a round they're thinking, Hey, what do I need to do to hit the next round?
+
+Because you don't have money, you can't hire a team. You don't have a team, you can't get the momentum. That's how I think about it. But the first thing, really one stashes there in the bank, I feel like the team, and I really do feel the CEO has to spend his or her time recruiting. Whether it's recruiting his executives, recruiting customers, it's recruiting, but mostly it's about hiring his or her direct team.
+
+It's really, really critical. And they always have to be on the lookout for talent. Once it's beyond that, if some CEOs are more product-centric, some are more sales and go to market centric. They have to have a bead on most elements of the business, but I really feel the biggest thing for CEO's the ability to attract talent.
+
+Gopi Rangan: Cash, team, and momentum. I like the way you've distilled the essence of your observation in these companies. 
+
+Mark Fernandes: And Gopi, look momentum is defined in many different ways. If you're a seed-stage company, it's about getting that initial design partner. If you reassign, it's about growing 50% quarter over quarter or whatever it's defined in different ways, and you have to adapt your thinking accordingly, but the cash and team part is pretty clear.
+
+Gopi Rangan: How do they do that? What are some things that you've seen that founders do really well? Let's talk about the team. What have they done to recruit really good people? It's really challenging to recruit, especially in Silicon Valley. 
+
+Mark Fernandes: Yeah. And it's not getting easier. In some ways, it's that ability to articulate the vision, the story. It's not a personality thing. You don't have to be the ultimate Salesforce in or whatever, but there's the ability to articulate a vision that compels people to join you just like we've talked about deals and there's plenty of money available. I'm sure that if somebody wanted to join a company, there are tons of startups.
+
+There are tons of the Amazons and Microsofts to go to, but I think people join people, that founder's ability to attract. Well, cliche, I guess A's are A's and B's hire C's. It's super important. If you look at the time and energy that I spend. Gopi, it's that ability to help that CEO to find those A's on their core team.
+
+Because if you get those A's, you know, they're going to hire other A's if you hire B's and you make some mistakes there. It just goes downhill from there. So I don't know exactly what it is, but I do feel it's that ability to articulate your vision and make it compelling for someone to join. And there's chemistry there and all of that, you don't need to be the nicest person.
+
+You don't need to be the smartest person. You don't need to have the most money. It's just about, there's something that compels great executives to join great leaders. 
+
+Gopi Rangan: Now I want to double click on this. This is very interesting. The charisma of the founders is not the only thing that matters. They have the ability to attract people who are far more talented than them who build a better team.
+
+How do you look for this when you first meet them before you make an investment? When you evaluate the founders and the startup, how do you look for this ability? 
+
+Mark Fernandes: I almost consider myself an employee of the CEO. So when I'm talking to the founder, I'm almost thinking, okay, this is the way they're going to pitch VP of sales or VP of engineering or head of products or something right.
+
+I'm looking for that Gopi and so I consider myself an employee, a part of the extended management team, the way they would pitch me as almost the way they would and it's everything from the cup of coffee and my Gravatar box. It's not just the interview. It's the full circle. It's how they follow up with you. I guess if you do it for long enough Gopi, you've looked for these character traits.
+
+I really do feel it's just a lot of little data points along the way, as opposed to one answer that they would give you. 
+
+Gopi Rangan: I think what you're saying is there is no formula and there are like five things that you need to hit. But having done this, you probably met thousands of companies over the years, you get an intuitive pattern recognition. 
+
+Mark Fernandes: It's pattern recognition. Pattern recognition and you still miss them. You still miss a lot and there's no secret formula or anything, but you just hope you get enough, right. 
+
+Gopi Rangan: When you make investments, you know, that it's pretty risky, some of these companies don't do that well. How do you manage the relationship with the founders at that time? 
+
+Mark Fernandes: You know, more deals, don't go well. And then the deals that go well, I want to treat people the way I want to be treated. And it's difficult. You have to be able to navigate through some choppy waters. We've had to shut down the companies you've had to fire CEOs. I want to treat people the way I would like to be treated. If I was in that circumstance, how would I like someone to deal with me? And it's just a very simple rule. It's my parents who have brought me up that way and that north star really has held good for me. And it's worked. I just feel like I want to treat people the way I want people to greet me. 
+
+Gopi Rangan: That's very thoughtful of you to share that. Eventually, it all comes down to our personalities. I see how you care about your entrepreneurs. I'm very curious to understand another topic here about Sierra. What people don't often understand or realize about the venture capital world is that it's very, very difficult to go through a generational transition. Sierra is one of those long-lasting firms that has successfully transitioned from the original founders to the next generation. Can you describe how hard it is? Why is it difficult and why was Sierra able to successfully make that transition? 
+
+Mark Fernandes: You're absolutely right. It's one of the hardest things to do. Most firms struggle with it. For us, probably back in 2010 and 2011, we went through this shift to some extent. And when Ben, Tim, and I took over the management of the firm. It really had to be a clean break. We could have gone out and like many of the new forums that you see these days where a few partners go out and start billing for them. We absolutely had the opportunity to do it, but we felt Pete Wendell, who was the founder of Sierra, really felt like, look, this was his legacy. This was something he started, he worked really hard towards, and we felt, I'm not going to say an obligation, but a real value to having Sierra 10 versus Tim, Ben, and mark one. It really was one of those things where we took time to reflect on what are the advantages and disadvantages of both sides of it.
+
+But we really had to go out and do some soul searching on what we wanted. We really felt that the brand matter a little bit of loyalty to Pete who founded the firm. And the sense of this is how we'd want to be treated again. We made that hard decision to essentially cut the firm in half and fun-size. A lot of things that we had to give up to do that.
+
+And it's paying off Gopi. If you look at some of the results on the firm all three funds are not just in the core tile, but a couple of the funds are in the top 5%. And so we're feeling very good about the decision and the model eventually came down to what is right for you. You've got your own firm. For us, it was like look, we're early stage guys. We want to really focus on the seats and A's, so we now had a blank sheet of paper to say, what is the farm we want to craft with the benefit of a brand that people knew about. Hopefully, that answers your question in terms of how we thought about it, what we did to go about it. And we went through a couple of difficult years, but we're benefiting from learning. We talk about entrepreneurs and the hard patches they have to go through. We truly believe we went through that. And so we identify with some of the problems that founders have. 
+
+Gopi Rangan: It takes a truly visionary founder to look decades ahead and it looks like Pete did that. Were there things that Pete offered or created at the time of transition that made it easy for you or were there some asks from your side as the next generation partners? 
+
+Mark Fernandes: Honestly, it was just a matter of someone willing to let go. And you think about founders who have to bring in CEOs, Gopi, you've seen this many, many times, it's one of the hardest and more emotional things that you have to go through and I really felt at the end of the day, it was about this isn't a CEO situation or something like that. It was like, Hey, this is the next phase of a firm and the next phase of growth. And that's what it took. 
+
+Gopi Rangan: You've been in the Silicon Valley for 20 plus years and at Sierra for two decades. Now, how has your perspective as a venture capital investor changed, you've been through multiple downturns, you've worked with different types of entrepreneurs. Are you a different kind of VC today than you were when you first started at Sierra? 
+
+Mark Fernandes: For sure. In many ways, there are a lot of similarities, Gopi, but if you look at the environment right now, completely different. At the end of the day, what am I looking for? Probably the same things in an entrepreneur on the characteristics on that. It's just that 20 other people are looking for the same thing.
+
+Right. And so in this tons of money that a lot of the dynamics have changed on that front, but eventually you have to have your north star, you have to figure out what is it that works for you. And just as much as there's plenty of money out there, there are plenty of great entrepreneurs out there. You just have to find that fit at the end of the day, Gopi.
+
+And so for me, has it changed? For sure. And this goes for entrepreneurs too. You've got to figure out what you're looking for in your first investment partner. I'm the same way. What is it that I'm looking for in that entrepreneur? Because a lot of these things are 5, 7, 10-year journeys. 
+
+Gopi Rangan: Do you think we're going into a recession anytime soon? We've been in an extended bull market for many years.
+
+Mark Fernandes: Gopi, your guess is as good as mine on that one. It's just so hard to tell. 
+
+Gopi Rangan: Yeah, you are one of the few people I can ask that question because you've been through different cycles in the book. I want to switch to the next part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? 
+
+Mark Fernandes: Yeah Gopi. We work with this nonprofit called the India literacy project.
+
+For me, education is number one, two, and three. Everyone has to find their own cause whether it's hunger, poverty, education. And for us, it's been education. We really do believe that we've gotta be able to fund it at scale. I remember growing up, my parents weren't very affluent or anything, but they said the only thing we're going to be able to give you is your education.
+
+And we'll pay for education as long as you want to study. They had to struggle to make ends meet. And we felt very fortunate and I've had a very good educational experience, a couple of master's degrees and stuff. So for me, I want to give that back to people who really can't afford it. We've been very focused on this project called the India literacy project.
+
+They focused on educating the far reaches of the community in India. So a lot of these small villages and taking education out there. They touch almost 200,000 students a year or so. We've been fortunate. We've actually been able to enroll a number of Indian entrepreneurs here in the valley. And hopefully, there's a lot more to go.
+
+Education is our passion. 
+
+Gopi Rangan: Education is certainly very important. I'm living proof of how education transformed my family. Among all the things, if you solve for education, it solves many other things downstream. Mark, thank you so much for spending time with me and sharing very insightful stories from the early years of your career, through the journey at Sierra and what you look for in entrepreneurs, and how you support founders in a very unique way.
+
+Thank you very much for sharing authentic stories. 
+
+Mark Fernandes: Absolutely, Gopi, and thanks for doing this and thanks for having me.
+
+Gopi Rangan: Thank you for listening to the Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers, supporting ambitious entrepreneurs. 
+
+Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode as well.
+

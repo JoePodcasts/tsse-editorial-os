@@ -1,0 +1,36 @@
+# CLI uploads are allowlisted. Git builds are constrained separately by the
+# explicit generated public set and Python function exclusion rule.
+*
+!api/
+!api/archive-function.py
+!archive/
+!archive/**
+archive/search/
+archive/derived/passages.jsonl
+archive/derived/search-documents.jsonl
+archive/exports/markdown-library.zip
+archive/reports/frontend*
+archive/reports/sync-run.json
+archive/reports/ingestion-latest.json
+archive/ingestion_state.json
+!archive_*.py
+!episode_discovery.py
+!web/
+!web/**
+!publishing/
+publishing/*
+!publishing/templates/
+publishing/templates/*
+!publishing/templates/quote-card/
+publishing/templates/quote-card/*
+!publishing/templates/quote-card/v1/
+publishing/templates/quote-card/v1/*
+!publishing/templates/quote-card/v1/assets/
+publishing/templates/quote-card/v1/assets/*
+!publishing/templates/quote-card/v1/assets/tsse-logo.png
+!publishing/templates/quote-card/v1/fonts/
+publishing/templates/quote-card/v1/fonts/*
+!publishing/templates/quote-card/v1/fonts/SourceSansPro-Regular.otf
+!publishing/templates/quote-card/v1/fonts/SourceSansPro-Semibold.otf
+!vercel.json
+!.python-version

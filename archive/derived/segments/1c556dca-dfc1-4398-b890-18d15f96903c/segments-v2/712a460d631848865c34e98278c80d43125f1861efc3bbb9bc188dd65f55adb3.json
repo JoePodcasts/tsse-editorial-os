@@ -1,0 +1,585 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 343,
+      "excerpt": "Schwark Satyavolu: I started my first company in 1999 and then the 2000 bubble burst happened. I started my second company in 2007 and then we had the 2008 crisis. And so, I've built both of my companies starting at the end of a bubble and building them through the burst cycles. The next time I try to start a company, I'll run for the hills.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 591,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 345,
+      "timestamps": []
+    },
+    {
+      "end": 791,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. In this episode, my guest is Schwark Satyavolu. He's a partner at Trinity Ventures. Trinity is one of the oldest venture capital firms based in Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 593,
+      "timestamps": []
+    },
+    {
+      "end": 1241,
+      "excerpt": "Schwark is a successful entrepreneur, especially in the FinTech space. He was one of the earliest entrepreneurs who's focused on financial services. He switched to being an investor. He brings his many years of expertise and experience as an operator, as a founder, and as a technology executive to his investment decisions. We're going to talk to him about the kind of founders he likes to support. Schwark, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 793,
+      "timestamps": []
+    },
+    {
+      "end": 1307,
+      "excerpt": "Schwark Satyavolu: Thanks for having me. It's great to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 1243,
+      "timestamps": []
+    },
+    {
+      "end": 1703,
+      "excerpt": "Gopi Rangan: Tell us about yourself starting with your journey in FinTech. You started Yodlee and that was at the peak of the dotcom boom. I'm really curious to hear how FinTech has evolved in your eyes over the years. Now FinTech has become such an important topic in venture capital investments. How did your career evolve over the years since that time, when you started in FinTech in 1999? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1309,
+      "timestamps": []
+    },
+    {
+      "end": 1908,
+      "excerpt": "Schwark Satyavolu: Interesting. The funny thing is when I started Yodlee, we didn't really start it to be a FinTech company. In fact, we didn't even start it to be a B2B company, which is what it is now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 1705,
+      "timestamps": []
+    },
+    {
+      "end": 2543,
+      "excerpt": "My aspiration at that time was to effectively become the new My Yahoo page. For those that don't know what it is, it used to be the homepage on most people's browsers when they opened it. So we wanted to kind of replace that to become more personalized and become a place where everything comes together in one place. We actually did pretty well. Most of the Silicon Valley at the time actually used us but that was a very small audience back in 99, unfortunately, the number of people over the internet savvy. So we ran out of that relatively quickly and then Citibank saw what we were doing and said, \"Hey, can you do this for us?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1910,
+      "timestamps": []
+    },
+    {
+      "end": 2822,
+      "excerpt": "Right about that time is when the bubble burst, the 2000 bubble. That is what made us more open to looking at it and saying, \"Maybe we should look into potentially doing this on a more B2B basis or B2C basis.\" And that was my first maybe somewhat unwilling entry into FinTech. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2545,
+      "timestamps": []
+    },
+    {
+      "end": 3179,
+      "excerpt": "Yodlee, when we first started it, had nothing to do with financial services. In fact, we were getting emails, shopping, travel, news even. From that, we, over many, many years, let go of all those other things. Funnily enough, each of those has become a separate company but we then focused primarily on financial services. That's how I got into FinTech. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2824,
+      "timestamps": []
+    },
+    {
+      "end": 3460,
+      "excerpt": "Gopi Rangan: This is very interesting. You say it's an unwilling entry into financial services. Is that because selling into financial services is difficult or is it because building infrastructure in that space is complicated because of regulations. Why do you say \"unwilling\"? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3181,
+      "timestamps": []
+    },
+    {
+      "end": 3671,
+      "excerpt": "Schwark Satyavolu: Well, even till five, maybe 10 years ago, FinTech, wasn't something that anybody in Silicon Valley wanted to get into mostly because it was perceived as old and stodgy and unwilling to move.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 3462,
+      "timestamps": []
+    },
+    {
+      "end": 4363,
+      "excerpt": "And a lot of that is true and for a good reason. They have a lot of regulatory oversight and therefore they can do a lot of things that you might want to do to innovate because they're worried about the regulators getting ahead of them. So, for all those reasons, it was not the most exciting place to be an entrepreneur or do innovation. And so it's not what I sought out to go do. For some time, in fact, I actually wasn't quite happy about that route in the first place, because they're not very aggressive at adopting new stuff. Of course, things have changed in all respects. Everything from regulatory to how the banks actually look at stuff, as well as how consumers perceive things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3673,
+      "timestamps": []
+    },
+    {
+      "end": 4667,
+      "excerpt": "Gopi Rangan: Yeah. The financial services industry is very, very large indeed. Trillions of dollars. And the banks have started adopting technology much more openly now than they did five or 10 years ago. Do you feel like we have reached peak FinTech or is this still the beginning and more will come? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4365,
+      "timestamps": []
+    },
+    {
+      "end": 4954,
+      "excerpt": "Schwark Satyavolu: Like with everything, I think it comes to the definition. So would you call 2000 the peak of the internet? In some ways, yes. It was the time when anybody could start an internet company or you put dotcom on your domain and suddenly everything goes to crazy heights.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 4669,
+      "timestamps": []
+    },
+    {
+      "end": 5010,
+      "excerpt": "Gopi Rangan: I remember. I was here in Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4956,
+      "timestamps": []
+    },
+    {
+      "end": 5410,
+      "excerpt": "Schwark Satyavolu: That's right. Now, I would say, it's where the internet is truly maturing. It has actually changed how people live their lives in fundamental ways, in ways that we could not have imagined back in 99 or 2000. So in some ways, the bubble is almost always the start of the innovation and the actual innovation can actually happen over the 10-year timeframe that succeeds that burst.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 5012,
+      "timestamps": []
+    },
+    {
+      "end": 5742,
+      "excerpt": "If you think about how connectivity and phones have actually made it possible for us to do innovation, like the AirBnBs of the world or Uber's of the world, things like that weren't really thought of because not everybody was on the internet back then. And so you could not do the kinds of things you can do today on the internet.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5412,
+      "timestamps": []
+    },
+    {
+      "end": 5995,
+      "excerpt": "And so if you look with that kind of lens on, I'd say FinTech is just maybe in the final stages of that initial bubble of a frenzy. But I think the true things that will change the way we live are still yet to come. That's what I'm most excited about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5744,
+      "timestamps": []
+    },
+    {
+      "end": 6091,
+      "excerpt": "Gopi Rangan: This leads us into the next part, where I can ask you about what do you focus on?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5997,
+      "timestamps": []
+    },
+    {
+      "end": 6169,
+      "excerpt": "What are you excited about? What are some areas where you like to invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6093,
+      "timestamps": []
+    },
+    {
+      "end": 6743,
+      "excerpt": "Schwark Satyavolu: I am excited about a variety of different things all of which come to what I call the invisibility of FinTech. Nobody actually thinks of online or internet-enabled companies today as dotcom companies anymore, because everything is dot com and everything is online. Now the question is. What is it actually doing? What is it actually doing for you? The kind of thing that I'm most excited about is where all of the financial services types of innovation that's happened over the last five to 10 years is now incorporated into almost every other business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 6171,
+      "timestamps": []
+    },
+    {
+      "end": 7430,
+      "excerpt": "A recent investment I made is in a company called Squire, which at the face of it is actually a barbershop platform. They're trying to build software for barbers. Now, why is that exciting to me? They are able to create what I'll call vertical-specific pieces of software, which is hard to monetize in the past, but they are able to create a stack of financial services products that underlie the software, integrated into the software, that generate enough revenues for everybody involved and enough savings for their customers and for them and for their customers, which actually enables the unlocking of revenue streams and monetization mechanisms that weren't possible in the past.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6745,
+      "timestamps": []
+    },
+    {
+      "end": 8032,
+      "excerpt": "This is a thing that could not have been done five or 10 years ago because the infrastructure that was necessary in order to make those things possible didn't exist. But now the FinTech plumbing, if your may, is now more firmly coming into place, which then enables another generation of integration of all of that FinTech into completely different businesses that can in some cases make businesses that were uneconomical or impossible to build in the past possible, and in some cases simply just make certain kinds of businesses significantly more profitable and therefore more interesting to build.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7432,
+      "timestamps": []
+    },
+    {
+      "end": 8564,
+      "excerpt": "A similar thing is also happening with crypto infrastructure. Crypto also went through its own bubble where you have a bunch of tokens and so on and so forth. Only now, that plumbing layer is now more firmly coming into a place where you actually have chains that have actually have transactional speed and cost. There are ways you can now start incorporating some of those elements into different kinds of businesses and make innovation that was not possible before possible now. Some of those things are very interesting to me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8034,
+      "timestamps": []
+    },
+    {
+      "end": 8977,
+      "excerpt": "Gopi Rangan: You're one of the people who understand the plumbing infrastructure for financial services. Starting from the days of Yodlee, you have focused on this space. How is crypto transforming the infrastructure for financial services? It has become such an important topic and there are many entrepreneurs building solutions in this space. I'm curious to get your perspective. What is happening in crypto?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8566,
+      "timestamps": []
+    },
+    {
+      "end": 9175,
+      "excerpt": "Schwark Satyavolu: Well, there's a lot happening in crypto. Crypto is probably the most innovated space at the moment because there are so many different elements of innovation that are happening.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 8979,
+      "timestamps": []
+    },
+    {
+      "end": 9935,
+      "excerpt": "One big area, of course, is DeFi, which is more competing with financial services than enabling at least right now, which is I think very interesting. I look at a lot of what is happening with DeFi as almost creating the plumbing. If you think about the bubble preceding the true innovation, there's a lot of stuff that's being built right now that I think is a demonstration of what a blockchain-based infrastructure could do to financial infrastructure efficiency. So if you could demonstrate how DeFi, lending and hedging, derivative trading, and all these other things can happen on a blockchain in a much more algorithmic way with less centralization, more access, et cetera, et cetera, all of which is actually now possible with these cryptocurrencies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9177,
+      "timestamps": []
+    },
+    {
+      "end": 10314,
+      "excerpt": "I think that's interesting, but it's only interesting for those people that are actually trading in those asset classes that are on the chain. My take on it is that eventually, and it may in fact be happening even faster than I'd imagined. I thought it would be 15 to 20 years before the dollar becomes digital, but it actually may actually happen in the next five to 10 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9937,
+      "timestamps": []
+    },
+    {
+      "end": 10641,
+      "excerpt": "That, I think, is when all of this innovation that was created for a specific kind of currency that is on the chain will basically then revolutionize how all of the US economy can function because the dollar itself will have to become digital. I can see a day, for example, when all the shares of companies become tokenized. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10316,
+      "timestamps": []
+    },
+    {
+      "end": 11042,
+      "excerpt": "You actually have different elements of the traditional financial services system that are not yet on-chain. But if they were to move on to a chain, and by the way, in the case of the digital dollar, or you're not going to have miners mining digital dollars. You'll have the fed to basically be the only miner. But you will still have a lot of benefits from the infrastructure that's been built out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10643,
+      "timestamps": []
+    },
+    {
+      "end": 11196,
+      "excerpt": "All of that I think is what's exciting. Now, a lot of that may be a little bit, or ways away, but the infrastructure for that is being built right now. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11044,
+      "timestamps": []
+    },
+    {
+      "end": 11346,
+      "excerpt": "Gopi Rangan: It is fascinating indeed. It feels like a new world is forming right now. Have you invested in any startups focused on blockchain tech?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11198,
+      "timestamps": []
+    },
+    {
+      "end": 11420,
+      "excerpt": "How was the first meeting? What did you ask them? What got you excited? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11348,
+      "timestamps": []
+    },
+    {
+      "end": 11979,
+      "excerpt": "Schwark Satyavolu: Well, I was a very big skeptic of cryptocurrencies a long time ago. What's interesting to me though, is while cryptocurrency is still somewhat of a hotly debated topic and I'm still not sure what the long-term elements of that stuff that will survive are, if you think about the ecosystem, the things that I'm most curious about is what I call the plumbing or the infrastructure, the blockchains and so on. I spent a lot of time studying stuff, but the best way to learn is to actually make an investment and actually live at the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 11422,
+      "timestamps": []
+    },
+    {
+      "end": 12375,
+      "excerpt": "We picked one company that was going to do ticketing on the blockchain. I thought ticketing was a perfect example because the token, which actually is a ticket to an event, let's say, is a great use case for something issued on the blockchain, because it can be issued digitally, it can live digitally, it can verify it digitally at the entrance to the event, for example, and it can be traded.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11981,
+      "timestamps": []
+    },
+    {
+      "end": 12764,
+      "excerpt": "The secondary market for tickets is massive, and in most cases, the primary issue of the ticket doesn't participate in any of the secondary economics. It's a perfect example of where a blockchain could do things where the current market has needs that are unsatisfied by the current infrastructure, but a new infrastructure could completely address it and probably even optimizes itself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12377,
+      "timestamps": []
+    },
+    {
+      "end": 13335,
+      "excerpt": "We were really excited about it and the company is actually starting to do really well. Unfortunately, COVID hit almost immediately after we invested in the company. Of course, all events got canceled. For a fledgling startup, it's really hard to be a ticketing company when there is nobody's actually buying any tickets for anything. The company has pivoted now into actually becoming more of an NFT platform for emoji-based identities, which I thought is also very interesting, but that was kind of my initial foray and first investment into stuff on the blockchain. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12766,
+      "timestamps": []
+    },
+    {
+      "end": 13440,
+      "excerpt": "Gopi Rangan: I see that you've dipped your toes into this space and there's more to come in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13337,
+      "timestamps": []
+    },
+    {
+      "end": 13647,
+      "excerpt": "I want to go back to some more basic processes. What do you follow when you make investment decisions? What happens in the first meeting? What are you looking for? What questions do you ask entrepreneurs? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13442,
+      "timestamps": []
+    },
+    {
+      "end": 13878,
+      "excerpt": "Schwark Satyavolu: In the first meeting, I'm looking to do two things. One is I'm trying to get to know the entrepreneurs a little bit better. I'm trying to understand who they are, why they're working on what they're working on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 13649,
+      "timestamps": []
+    },
+    {
+      "end": 14124,
+      "excerpt": "The second thing is I'm really trying to be a fast student of the space. Even though I've been in FinTech for 20 plus years, primarily as an entrepreneur, I only spent two years at MasterCard when one of my companies got acquired by MasterCard.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13880,
+      "timestamps": []
+    },
+    {
+      "end": 14448,
+      "excerpt": "So I've never been on the traditional side of financial services. In spite of that, I feel like there's so much breadth to build in financial services. There are nuances in specific elements like capital markets or lending, or even within lending between credit card lending and unsecured loans, commercial versus retail. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14126,
+      "timestamps": []
+    },
+    {
+      "end": 14958,
+      "excerpt": "I've really loved to dig deep and understand the specific sub-vertical or subspaces that these companies are actually spending time in. I see these entrepreneurs as the experts, the best professors you could find in any given space. So I'm really trying to be a student and try to understand what is there to learn about that space. When you meet enough of them, you've pretty much gone to the Stanford of that space, if you may, across all of them. You can be really well-informed as you evaluate companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14450,
+      "timestamps": []
+    },
+    {
+      "end": 15230,
+      "excerpt": "In my very first meeting, those are the two things I'm trying to achieve, and at the end of it, the goal is: can I get excited about this team? Because we tend to invest early, the team is very important. And second is the space exciting enough for us to spend time in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14960,
+      "timestamps": []
+    },
+    {
+      "end": 15507,
+      "excerpt": "Gopi Rangan: Can you give an example of a startup? How was that conversation? How long did the process take for you that whole Stanford education you've received on a new topic? And then eventually you came to the conclusion that, yes, this is a company I want to invest in. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15232,
+      "timestamps": []
+    },
+    {
+      "end": 15895,
+      "excerpt": "Schwark Satyavolu: Yeah, I'll take one example of a company which I invested in. It was maybe the first or second investment I made which is a company called Synapse. Synapse is an API for banking. It enables companies to effectively include banking into their own different elements of what you would typically get from a wholesale bank and do your own applications tightly integrated.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 15509,
+      "timestamps": []
+    },
+    {
+      "end": 16965,
+      "excerpt": "The way I actually met the company is I had a couple of seed investments that I'd actually seeded before that, where they were trying to incorporate certain levels of banking into their applications. They had both found Synapse and actually integrated it or looking to integrate it into their applications. I was like, \"well, that sounds interesting. I'd like to understand a little bit more about what's going on.\" I tried to talk to both of my existing entrepreneurs to try and understand what they're trying to do and why they're trying to do it. What is it that they're actually trying to achieve? And why did they pick Synapse and who did they talk to? What was available, et cetera. And what's interesting that I found is that they were trying to do things that hadn't really been done by a lot of people before. This was something that was a new need and the only real way to do that was to work with in the old days, you know, like the web banks and bank ops and so on and so forth, and actually build out an entire infrastructure, which was a very heavy lift.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15897,
+      "timestamps": []
+    },
+    {
+      "end": 18187,
+      "excerpt": "What I heard that these guys were doing is actually simplifying all of that much less. So of course I'm familiar with the bank folks. I've spent some time with them trying to understand what they do and what they offer. Then I went to meet this entrepreneur and actually said, what are you trying to do and how are you trying to do this? This is a company that was doing 500k, 600k in revenue at the time, but what was interesting is that he was cashflow positive even at that level and he was growing. Interestingly, he didn't need any outside funding, or at least didn't want any. He was freely humoring me because he thought I could have a couple of customers that I'm on the board of if he spent some time with me. That gave me an opportunity to learn a lot about the business. There are two things that struck me about it. One is that this was an entrepreneur who was only two or three years out of college but had spent so much time with the banks that he worked with, that he understood what really motivated and scared the banks, all the stuff about the regulatory insight that we talked about earlier, and he had actually built a lot of boring technology to automate the audits that his banks would go through. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16967,
+      "timestamps": []
+    },
+    {
+      "end": 18835,
+      "excerpt": "That kind of insight and the maturity of actually understanding what it is that your partners need in order to make you successful and investing in that and building that stuff out and making your partner successful in order to be successful yourself, I thought was very insightful. I got a lot of in-depth knowledge and how difficult it is to make that all happen and all the investment that went in to make that happen. I walked away thinking, well, this is both the right team and a very exciting space because this is only going to balloon., And it has, of course, in the last many years, the company is triple their revenue many, many times.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18189,
+      "timestamps": []
+    },
+    {
+      "end": 19216,
+      "excerpt": "Gopi Rangan: Wow! What a fascinating story. Thank you for sharing a real-life experience of how you engaged with an entrepreneur. I noticed a few things. You first geeked out on the topic, you did thorough research, you understood the space, and then you switched to the entrepreneur. When you started working with him, you understood the business, his motivation, his expertise.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18837,
+      "timestamps": []
+    },
+    {
+      "end": 19665,
+      "excerpt": "In this example, the entrepreneur didn't have a lot of experience in financial services. He didn't spend 25 years in financial services, and then he didn't come out to start a new company to modernize the infrastructure. He was sort of a newbie, but he had seen the industry from the inside, so he decided that \"Hey, I have a new way of building something different.\" Is that common? Is expertise not that necessary when you talk to entrepreneurs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19218,
+      "timestamps": []
+    },
+    {
+      "end": 20183,
+      "excerpt": "Schwark Satyavolu: I actually wrote a whole blog post on this topic. I like to invest in what I call naive fast learners; naive in that you believe that you could change the world. By the way, I don't mean that these have to be young entrepreneurs. You could have naive fast learners that are 45. The construct is that you believe that you could change the world in some area of your choice of innovation. You retain that naivety, which I think is almost necessary if you'll really create a big company in any space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 19667,
+      "timestamps": []
+    },
+    {
+      "end": 20794,
+      "excerpt": "The second is this fast learner piece. In anything that you want to innovate, if you are naive, but not a fast learner, that will be a disaster. If you're a fast learner but not naive, that's probably not going to help as much either because you're just not going to be ambitious enough. You're not going to be bold enough to make the big innovations. But if you're both, then you have the boldness, if you may, to go make those innovations happen, but then you have the humility to go learn everything that there is to learn about that space very, very quickly to become somewhat of the expert in that space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20185,
+      "timestamps": []
+    },
+    {
+      "end": 21369,
+      "excerpt": "I made another investment in a company called Baton Systems. Bhutan basically is using a blockchain-like infrastructure or distributed ledger but instead of creating a token on it actually using the ledger could actually enable the near-real-time exchange of assets between large financial institutions. Think about a capital market trade settlement of a large FX transaction as an example. These are the nooks and crannies of FinTech that most of us as consumers never even see because this is happening between JP Morgan's trading desk and HSBC's trading desk, let's say.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20796,
+      "timestamps": []
+    },
+    {
+      "end": 21955,
+      "excerpt": "I met this entrepreneur that actually came from Dwolla, which was a more consumer-facing FinTech company. He realized that all this money movement infrastructure on the retail side is interesting, but it is massive on the institutional side. And he knew nothing about the institutional side. He basically said, \"Look, there's a lot of innovation happening in the peer-to-peer money transfer mechanisms, but there's a 1,000,000X of that volume happening every day on institutional stuff. I'm going to go innovate on that stuff.\" But then he understood he knew nothing about that stuff.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21371,
+      "timestamps": []
+    },
+    {
+      "end": 23011,
+      "excerpt": "By the time I talked to the banks that he had worked with at that time, which was very early, he had, I think only one customer that was even doing a pilot with him at the time when I invested, but he talked to two or three banks. Almost every bank person I talked to on the capital markets, settlement experts; they said, \"This guy knows as much as my colleagues that I worked with for 15 or 20 years do.\" That informed me that this is a very fast learner. He came from the outside and learned everything there was to learn about capital market settlement so quickly that these people that he's trying to sell to actually recognize him almost as a peer, which I think is phenomenal. When you know that much about something and have the audacity to believe that you could change the world, I think you can build some very interesting companies. Of course, now he is the exclusive platform through which HSBC and Wells are actually doing all of their currency trades. Almost every one of the top five banks that are trying to trade on this platform today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21957,
+      "timestamps": []
+    },
+    {
+      "end": 23156,
+      "excerpt": "Gopi Rangan: Well, Sankaet at Synapse and Arjun at Baton Systems are exceptional examples of the description that you gave naive fast learners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23013,
+      "timestamps": []
+    },
+    {
+      "end": 23466,
+      "excerpt": "We're in this volatile phase in the macroeconomy right now, we're coming to the end of a pandemic. It hasn't fully concluded yet, but we're in the middle of a war situation. All of that will have an impact on the macroeconomic landscape. What is your advice to founders? How can they prepare for a recession?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23158,
+      "timestamps": []
+    },
+    {
+      "end": 23585,
+      "excerpt": "I know you wrote a blog post about this as well. Is there anything specific you'd like to share with founders today? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23468,
+      "timestamps": []
+    },
+    {
+      "end": 24224,
+      "excerpt": "Schwark Satyavolu: Sure. I think for good or bad, I started my first company in 99, and then the 2000 bubble burst happened. I started my second company in 2007 and then we had the 2008 crisis. So I've built both of my companies starting at the end of a bubble and building them through the burst cycles. The next time I try to start a company I'll run for the hills. The interesting thing that I have learned through those experiences is that things actually get a little bit easier when that happens, in some ways. I can tell you, when I started Yodlee, not unlike today, we actually had engineers being given BMWs as a sign-on bonus. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 23587,
+      "timestamps": []
+    },
+    {
+      "end": 24882,
+      "excerpt": "It was almost impossible to hire anyone. This was back in 1999. And when the 2000 bubble burst, we thankfully were one of the few well-funded companies at the time. What we ended up doing very quickly is taking drastic and maybe significant steps. I, in fact, still remember I had an argument with my board at the time on why we were actually cutting as much as we were. I even said, \"Hey, you guys invested in this thesis like six months ago. What's changed? Why would you go change everything about this business six months later? A lot of them actually took the time to explain to me exactly how they were thinking about this and why they were doing it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24226,
+      "timestamps": []
+    },
+    {
+      "end": 25645,
+      "excerpt": "I had very reluctantly agreed to go to what we did, which included cutting. We actually even refocused the company from being a B2C business to being more of a B2B2C business. All of those things happen as a reaction to the bubble bursting and those things actually set us up to be in a good place for two to three years after. So we did run out of money very quickly. We made what we had last longer. But when we did last longer, what I learned is that suddenly you didn't have to give BMWs to the best engineers to be able to hire them. A lot of the companies that were founded by what I've called tourist founders, there's a lot of founders that actually will do it because it is fashionable because it's easy to raise money because it's easy to get started.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24884,
+      "timestamps": []
+    },
+    {
+      "end": 26191,
+      "excerpt": "People that are not really passionate about the idea of somehow, but really love the idea of starting and running their own business. All of those fall away. They tend to grow very rapidly when you actually end up having a boom and they also shrink very rapidly when there's a burst. So the burst times, I've found, are actually great times to build businesses because the noise is lower. But it is harder, so it needs more grit. You do need to stand longer. You need to work harder to be able to raise the money, to keep the companies funded. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25647,
+      "timestamps": []
+    },
+    {
+      "end": 26663,
+      "excerpt": "There are hard decisions to be made. I've actually taken some kids, at Recap. One of my companies, Yodlee, actually did get Recap before we went public. I actually did take a little bit of a down round on my second company in order to keep it funded. That are difficult decisions to be made. But if you're passionate enough about the business that you're building, I think the downturn can actually be a relatively great time to actually continue to build your business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26193,
+      "timestamps": []
+    },
+    {
+      "end": 27040,
+      "excerpt": "Gopi Rangan: Words of wisdom from your experience, practical experiences living through multiple downturns. Thank you so much for sharing them. I could keep talking to you about so many different things, but we're coming to the end of our conversation. I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26665,
+      "timestamps": []
+    },
+    {
+      "end": 27563,
+      "excerpt": "Schwark Satyavolu: Yeah, I'll take two because there's one that I have been involved with for a very long time on a personal basis. It's around education. I used to be a volunteer with a nonprofit called Asha when I was in college. These days I am very passionate about one called Pratham. Basically, it's a nonprofit that's focused on educating underprivileged kids in India. I believe that education is the unlock to pretty much every kind of growth. To me, that is the biggest passion that I have on a personal basis. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 27042,
+      "timestamps": []
+    },
+    {
+      "end": 28112,
+      "excerpt": "Professionally, the diversity of the founder ecosystem is another thing that I'm quite passionate about. Of course, I'm doing my part. I've invested in two African-American-founded companies. Trinity has invested in a couple more. We think that those are phenomenal companies. Squire, which is one of the ones we discussed today, is founded by African-Americans. I do think that there are phenomenal companies to be built, but not all entrepreneurs get equal opportunity. That's an important element, which is something I'm very passionate about. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27565,
+      "timestamps": []
+    },
+    {
+      "end": 28527,
+      "excerpt": "Gopi Rangan: Schwark, thank you so much for sharing your personal passions for bringing diversity into the startup ecosystem. I hope this podcast does the same as well by sharing your nuggets of wisdom with entrepreneurs who typically may not have access to this kind of knowledge. I really appreciate your time and sharing your insightful stories. I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28114,
+      "timestamps": []
+    },
+    {
+      "end": 28594,
+      "excerpt": "Schwark Satyavolu: Absolutely. Thanks for having me. It was fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Schwark Satyavolu",
+      "start": 28529,
+      "timestamps": []
+    },
+    {
+      "end": 28886,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28596,
+      "timestamps": []
+    },
+    {
+      "end": 28939,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28888,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "712a460d631848865c34e98278c80d43125f1861efc3bbb9bc188dd65f55adb3",
+  "text_sha256": "4feeee849739efee5a412869108c25835fbbbda0d8baad39e1dcb7bb749b7c77"
+}

@@ -1,0 +1,1163 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 386,
+      "excerpt": "We're out there in the business of taking risk. We're out there in the business of trying to push, you know, the whole economy forward. So like that aspect of love, I wouldn't change any of that. I mean, we're out there trying to give money to people who wanna make everyone's lives better, and I wouldn't change anything about that, and that's what I'm trying to do day in and day out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 798,
+      "excerpt": "[00:00:26] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Aaron Webster. Aaron is the Managing Director at Cameron Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 388,
+      "timestamps": [
+        {
+          "offset": 388,
+          "raw": "[00:00:26]",
+          "seconds": 26
+        }
+      ]
+    },
+    {
+      "end": 1103,
+      "excerpt": "We're going to talk to him about his firm, what he likes to invest in, what kind of sectors and what stages does he like to invest in, what excites him when he meets founders, and why does he say no sometimes. We're going to talk to him about all of this, but let's start with him and his journey first.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 800,
+      "timestamps": []
+    },
+    {
+      "end": 1151,
+      "excerpt": "Aaron, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1105,
+      "timestamps": []
+    },
+    {
+      "end": 1213,
+      "excerpt": "[00:01:17] Aaron Webster: Yeah. Thanks for having me, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 1153,
+      "timestamps": [
+        {
+          "offset": 1153,
+          "raw": "[00:01:17]",
+          "seconds": 77
+        }
+      ]
+    },
+    {
+      "end": 1722,
+      "excerpt": "[00:01:18] Gopi Rangan: Let's start with your journey where you grew up. You are an Oklahoma boy. You grew up in Oklahoma. You've lived there. You've worked there for many years, many decades, and you're still there. There VCs in Oklahoma and you're one of the few VCs who have successfully launched and built a venture capital firm. Well, I'm really excited to ask you a lot of questions, but let's start with Oklahoma. Where did you grow up? How did you eventually end up starting a venture capital firm? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1215,
+      "timestamps": [
+        {
+          "offset": 1215,
+          "raw": "[00:01:18]",
+          "seconds": 78
+        }
+      ]
+    },
+    {
+      "end": 1944,
+      "excerpt": "[00:01:47] Aaron Webster: Yeah, you're correct. I've spent most of my life in Oklahoma. I had dreams and aspirations of going to other parts of the countries, but the older I get, the more I realize how great it is here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 1724,
+      "timestamps": [
+        {
+          "offset": 1724,
+          "raw": "[00:01:47]",
+          "seconds": 107
+        }
+      ]
+    },
+    {
+      "end": 2187,
+      "excerpt": "Actually, when I got this venture role, I spent a ton of time traveling across the country. The more places I go, I realized how great this place is. So yeah, I've been in the Oklahoma market for a long time. There aren't very many VCs here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1946,
+      "timestamps": []
+    },
+    {
+      "end": 2529,
+      "excerpt": "There's a handful of us. We don't do a ton of our deals here. Uh, I tell people all the time, I was like, I want to do more here and I'm actively helping trying to build the ecosystem here. And we get involved with a lot of things here. But at Cameron Ventures, we're doing a lot of our deals across the country and internationally as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2189,
+      "timestamps": []
+    },
+    {
+      "end": 2824,
+      "excerpt": "[00:02:25] Gopi Rangan: You spent many years at American Fidelity and then eventually switched from that part of the world, operating businesses, and then switched to the investing side. Walk me through that journey. How did that experience help you become successful venture capital investor?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2531,
+      "timestamps": [
+        {
+          "offset": 2531,
+          "raw": "[00:02:25]",
+          "seconds": 145
+        }
+      ]
+    },
+    {
+      "end": 3168,
+      "excerpt": "[00:02:39] Aaron Webster: Well, yeah, my journey in American Fidelity was, I started out as a developer. So I tell people we were writing InsurTech code before InsurTech was a word. We were doing digital signature capture before DocuSign was created. We were just doing it on a proprietary platform that wasn't really available to the public.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 2826,
+      "timestamps": [
+        {
+          "offset": 2826,
+          "raw": "[00:02:39]",
+          "seconds": 159
+        }
+      ]
+    },
+    {
+      "end": 3599,
+      "excerpt": "So a lot of people didn't see that. So. I've been doing InsurTech for a long time. I went back to grad school, got my graduate degree, you know, really found myself getting involved and focusing more on investing than on the technical side. And so, uh, after grad school, I made a transition. I was a balance sheet investor for a couple of insurance carriers for the group, spent several years doing that, doing corporate credit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3170,
+      "timestamps": []
+    },
+    {
+      "end": 4052,
+      "excerpt": "So I have a little bit of different background than a lot of your traditional venture investors. And so I spent several years doing that, building models, using my technology skills, working with in the credit space and then got the opportunity about six years ago to start Cameron Ventures. We've been investing off the balance sheet within the group since the late nineties, but we wanted to formalize the process and really put a program around it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3601,
+      "timestamps": []
+    },
+    {
+      "end": 4223,
+      "excerpt": "So whenever I was brought in, I put a brand on it and then we put a program together to start a point capital. So that's what we've been doing for the past half decade. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4054,
+      "timestamps": []
+    },
+    {
+      "end": 4458,
+      "excerpt": "[00:03:46] Gopi Rangan: So for about six plus years now, you've invested in companies like Fundbox, Coverdash, Jawnt, Lazarus, Yellowbird, and we are co-investors in Surround Insurance and many other startups that you've invested in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4225,
+      "timestamps": [
+        {
+          "offset": 4225,
+          "raw": "[00:03:46]",
+          "seconds": 226
+        }
+      ]
+    },
+    {
+      "end": 4549,
+      "excerpt": "Why is venture capital investing exciting to you? What do you enjoy the most about this? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4460,
+      "timestamps": []
+    },
+    {
+      "end": 4865,
+      "excerpt": "[00:04:06] Aaron Webster: Well, when I first got into the venture realm, it was like in the role of a founder. So I went to college back in the late nineties. I got exposure to the dotcom days, right? The advent of the internet. And so that's when I really started understanding what the founder journey was about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 4551,
+      "timestamps": [
+        {
+          "offset": 4551,
+          "raw": "[00:04:06]",
+          "seconds": 246
+        }
+      ]
+    },
+    {
+      "end": 5526,
+      "excerpt": "So I got an early taste of that while I was in school. We were hustling around the student union at the university of Oklahoma. We were gathering some of the first email addresses out there and some of the first marketing campaigns. So I really kind of caught the bug there and really like the strategic nature of working and building a company and then wearing multiple hats within the organization. So I actually was in the startup realm before I went to the corporate world. And I spent several years in corporate world and then I found my way back with the kind of a blend of my finance and technology skills that the opportunity opened up to get into VC.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4867,
+      "timestamps": []
+    },
+    {
+      "end": 5836,
+      "excerpt": "[00:04:52] Gopi Rangan: I see that very early in your life, you tried to bring new innovative things, even when you are in the corporate world, like the digital signature and the email marketing campaigns and those kind of things. But when you switch to the venture side, you don't get to do a lot of things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5528,
+      "timestamps": [
+        {
+          "offset": 5528,
+          "raw": "[00:04:52]",
+          "seconds": 292
+        }
+      ]
+    },
+    {
+      "end": 5971,
+      "excerpt": "You get to invest, you get to meet a lot of founders and hear stories. It's a very different type of work. Was that a big transition?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5838,
+      "timestamps": []
+    },
+    {
+      "end": 6196,
+      "excerpt": "[00:05:13] Aaron Webster: I mean, like whenever I was in the credit role, whenever I was in the bond markets, I was covering upwards of like 130, 150 names at a time. So I always had to track a bunch of different companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 5973,
+      "timestamps": [
+        {
+          "offset": 5973,
+          "raw": "[00:05:13]",
+          "seconds": 313
+        }
+      ]
+    },
+    {
+      "end": 6529,
+      "excerpt": "And I feel like that kind of exposure and experience is a lot of what you do, especially as like, as like the managing director, the managing partner of a firm, you're always having to get involved and bounce around to different businesses and understand what's going on with that company at that time and making decisions on that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6198,
+      "timestamps": []
+    },
+    {
+      "end": 6808,
+      "excerpt": "I think it was a very natural transition for me from a portfolio management kind of position and I don't have a problem not getting deep into the companies. We work with founders the way that they want to be worked with. We try to inject ourselves in the best way to help them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6531,
+      "timestamps": []
+    },
+    {
+      "end": 7178,
+      "excerpt": "And so I don't see a problem with that at all. Like when I deal with our portfolio companies, I think about like they're our children almost. And, uh, it's got, it's kind of sappy to say, but that's really the way that I, I like to interact with our founders. And, you know, they're kind of all like, we're very, very personal to me whenever we get involved with them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6810,
+      "timestamps": []
+    },
+    {
+      "end": 7653,
+      "excerpt": "[00:06:10] Gopi Rangan: I see that the years in corporate helped you prepare for this buy side role on venture capital when you see hundreds of companies when you track them and you watch their journey and you form opinions on which ones are likely to break out and become successful and which ones to avoid or perhaps learn from their experiences and you're bringing all those lessons back into your current role in the venture capital persona that you're occupying today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7180,
+      "timestamps": [
+        {
+          "offset": 7180,
+          "raw": "[00:06:10]",
+          "seconds": 370
+        }
+      ]
+    },
+    {
+      "end": 7960,
+      "excerpt": "I want to ask a lot about Cameron Ventures investments. But before we go there, there's a connection with American Fidelity, and that's a significant advantage to you that most other VCs do not have. So you're able to help the founders connect with the operating businesses when it's appropriate for them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7655,
+      "timestamps": []
+    },
+    {
+      "end": 8000,
+      "excerpt": "Can you talk a little bit about that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7962,
+      "timestamps": []
+    },
+    {
+      "end": 8393,
+      "excerpt": "[00:06:52] Aaron Webster: Yes. And so with, within the Cameron group, we actually interact with multiple financial service companies. So it's not just American Fidelity. We have seven other operating companies that are part of the group. So we have a few carriers, we have a few brokers, some on the life and health side, some on the commercial side. We have a bank that we own in the group.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 8002,
+      "timestamps": [
+        {
+          "offset": 8002,
+          "raw": "[00:06:52]",
+          "seconds": 412
+        }
+      ]
+    },
+    {
+      "end": 9034,
+      "excerpt": "And then we also have a PEO as part of the group. And so whenever we engage with a company or we're looking at a deal and we want to like due diligence on it, we have this built in advantage where we can actually go to that operating company, with the founder's permission and doing it appropriately. We can actually interact with that operating company and interact with their leadership, basically be a smart money investor or have an inside edge around the specific theme that we're focusing on because we have operators are actually dealing with that. They're going to be the customers to some of these companies that we're looking at.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8395,
+      "timestamps": []
+    },
+    {
+      "end": 9258,
+      "excerpt": "And so we've done a few of them today. We set up that conversation and we really dig in on what's being built. Hopefully that that makes us better investors and where we know the fundamental issue that we're investing in. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9036,
+      "timestamps": []
+    },
+    {
+      "end": 9358,
+      "excerpt": "[00:07:54] Gopi Rangan: How does it help you? Or more importantly, how does it help the founders? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9260,
+      "timestamps": [
+        {
+          "offset": 9260,
+          "raw": "[00:07:54]",
+          "seconds": 474
+        }
+      ]
+    },
+    {
+      "end": 9565,
+      "excerpt": "[00:07:57] Aaron Webster: One of the main value adds that we tell the founders before we sign a check or cut a check to them, is that we can try to bring a first customer or we can bring an early customer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 9360,
+      "timestamps": [
+        {
+          "offset": 9360,
+          "raw": "[00:07:57]",
+          "seconds": 477
+        }
+      ]
+    },
+    {
+      "end": 9880,
+      "excerpt": "We can bring a thought partner. We never promise that an operating company's gonna work with them and we're very open about that, but we say we bring that potential, but we're looking for those options out there to potentially bring in an early customer to them, or at least have a thought partner along the way. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9567,
+      "timestamps": []
+    },
+    {
+      "end": 10301,
+      "excerpt": "[00:08:22] Gopi Rangan: It's helpful for startups to brainstorm to figure out what is strategically important for the industry and talking to a leader, talking to someone who's operating at scale to understand what problems are worth solving is incredibly valuable for founders. So they can actually build the product that the customers want to buy instead of building in vacuum on their own. That's a major value add. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9882,
+      "timestamps": [
+        {
+          "offset": 9882,
+          "raw": "[00:08:22]",
+          "seconds": 502
+        }
+      ]
+    },
+    {
+      "end": 10867,
+      "excerpt": "[00:08:44] Aaron Webster: Yeah. It also helps in our sourcing quite a bit. So we're able to get to a no pretty quick, I think. We're trying to do it to help the founders, right. And give advice back out to the founders. What I would say is One thing that I didn't realize whenever I got in this role is how often I'd say no. I say no all the time. Right. And you know, whenever you're different styles of investing and when you're in the public markets, you're doing it differently. But when, whenever you're taking pitches all the time, all day long, it is tough.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 10303,
+      "timestamps": [
+        {
+          "offset": 10303,
+          "raw": "[00:08:44]",
+          "seconds": 524
+        }
+      ]
+    },
+    {
+      "end": 11127,
+      "excerpt": "It is tough to say no all the time. Whenever I mentor some accelerators, I tell founders in the presentation, look for that fit with the investor. Right? Look for the person that wants to solve that problem with you, because they don't want to say no to you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10869,
+      "timestamps": []
+    },
+    {
+      "end": 11445,
+      "excerpt": "They're probably previous founders as well and they know what it's like to, you know, raise that money. That's just part of the journey, but at the same time, we have to do it all day long. And so just know that on the investing side of the table, we don't want to have to deal with it, but it's part of the process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11129,
+      "timestamps": []
+    },
+    {
+      "end": 11671,
+      "excerpt": "[00:09:35] Gopi Rangan: For a founder, the best answer is yes, but the second best answer is a quick no versus a slow no or a maybe that eventually drags on and doesn't convert to a yes or no. That's torturous for founders. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11447,
+      "timestamps": [
+        {
+          "offset": 11447,
+          "raw": "[00:09:35]",
+          "seconds": 575
+        }
+      ]
+    },
+    {
+      "end": 11804,
+      "excerpt": "[00:09:48] Aaron Webster: What's torturous on the investing side is deals that you want to do, but you know, you can't do them all.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 11673,
+      "timestamps": [
+        {
+          "offset": 11673,
+          "raw": "[00:09:48]",
+          "seconds": 588
+        }
+      ]
+    },
+    {
+      "end": 12073,
+      "excerpt": "You see a great idea and you're like, Oh, but I got two or three other ones that are just right in front of it. That's tough on the, on the investing side as well. Right. I've kind of sat in that chair a little bit. I want to try to explore as many good ideas I can. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11806,
+      "timestamps": []
+    },
+    {
+      "end": 12152,
+      "excerpt": "[00:10:05] Gopi Rangan: How many investments do you close in an average year?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12075,
+      "timestamps": [
+        {
+          "offset": 12075,
+          "raw": "[00:10:05]",
+          "seconds": 605
+        }
+      ]
+    },
+    {
+      "end": 12466,
+      "excerpt": "[00:10:08] Aaron Webster: We don't do very many. We're a single LP fund. So we do like four to six is what I tell everybody our target is. That's new investments. That doesn't include follow ons. So, we've done about 26 total right now. We don't do a lot. And so that's another reason why we say no quite a bit. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 12154,
+      "timestamps": [
+        {
+          "offset": 12154,
+          "raw": "[00:10:08]",
+          "seconds": 608
+        }
+      ]
+    },
+    {
+      "end": 12528,
+      "excerpt": "[00:10:23] Gopi Rangan: What stage do you like to invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12468,
+      "timestamps": [
+        {
+          "offset": 12468,
+          "raw": "[00:10:23]",
+          "seconds": 623
+        }
+      ]
+    },
+    {
+      "end": 12613,
+      "excerpt": "I know that you prefer seed to series A, but can you define that even more deeply? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12530,
+      "timestamps": []
+    },
+    {
+      "end": 12834,
+      "excerpt": "[00:10:29] Aaron Webster: Yeah, our core focus is seed to series A. The checks we want to write are at the seed stage and then do a follow on the series A. We have invested as late as series C. We don't like to do that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 12615,
+      "timestamps": [
+        {
+          "offset": 12615,
+          "raw": "[00:10:29]",
+          "seconds": 629
+        }
+      ]
+    },
+    {
+      "end": 13141,
+      "excerpt": "That's definitely the exception. We've done a couple of later stage deals, but for the most part we want to try to find a company at its earliest institutional round - something that shows like early product market fit, early commercialization, and help them with that idea in a space that we know, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12836,
+      "timestamps": []
+    },
+    {
+      "end": 13707,
+      "excerpt": "Most of the founders that we run across, don't even know spaces that we focus on. We focus on a lot of employee benefits. We focus on a lot of B2B, a lot of B2B2C and professional services space. What we found out, especially like in the first wave of InsurTech, InsurTech 1.0, Insur Tech 2.0, is a lot of the founders are focusing on a lot of these B2C opportunities and insurance distribution plays. And it's funny now, a lot of the investors in the insurtech realm are starting to move towards us and towards our space in the B2B where we kind of specialize in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13143,
+      "timestamps": []
+    },
+    {
+      "end": 14028,
+      "excerpt": "[00:11:27] Gopi Rangan: What does seed stage mean for you? How do you define it? Like, can you talk about size of the company, revenue, product? Like, do they need to have some traction? Like, what do you like to see? What's too early? And I understand that series C is kind of too late for you, but what is too early? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13709,
+      "timestamps": [
+        {
+          "offset": 13709,
+          "raw": "[00:11:27]",
+          "seconds": 687
+        }
+      ]
+    },
+    {
+      "end": 14734,
+      "excerpt": "[00:11:42] Aaron Webster: I mean, um, you know, post revenue is good for us. I want to start seeing some good customers start coming through the funnel. I want to see a good pipeline being built up, having good conversations. So it's really that early commercialization piece that we're really looking for. And I find myself really attracted to deals that are in these themes that we know and we love or somebody comes in and they come up with a solution around some old, like archaic process where they can actually digitize it and this space really needs attention and we hadn't really thought about it. And we're like, \"Oh man, that's great.\" And those are usually the best opportunities to go pursue.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 14030,
+      "timestamps": [
+        {
+          "offset": 14030,
+          "raw": "[00:11:42]",
+          "seconds": 702
+        }
+      ]
+    },
+    {
+      "end": 15099,
+      "excerpt": "[00:12:18] Gopi Rangan: Now let's talk about sectors. You focus on InsurTech quite heavily and FinTech and some enterprise technology as well. Within those sectors, what kind of trends are exciting for you? Now you already talked about InsurTech 1. 0 and where we are with 2. 0. There's more infrastructure focus and less on distribution and those kind of things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14736,
+      "timestamps": [
+        {
+          "offset": 14736,
+          "raw": "[00:12:18]",
+          "seconds": 738
+        }
+      ]
+    },
+    {
+      "end": 15175,
+      "excerpt": "Can you talk about what kind of themes are very interesting to you today? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15101,
+      "timestamps": []
+    },
+    {
+      "end": 15477,
+      "excerpt": "[00:12:40] Aaron Webster: To me, it's all about moving data appropriately. You look at this artificial intelligence wave, everybody talking about. What makes those models successful. It's the classic age old issue of having good data - having good data to train on, having good data available to you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 15177,
+      "timestamps": [
+        {
+          "offset": 15177,
+          "raw": "[00:12:40]",
+          "seconds": 760
+        }
+      ]
+    },
+    {
+      "end": 15897,
+      "excerpt": "And so those are the things that excite me, you know, data infrastructure in the insurance space. I built some systems or helped build systems back in the day around moving data back and forth. And I don't feel like the industry as a whole has, really focused enough or enough capital has been spent on creating good systems in the insurance market. FinTech is, I feel like, a little bit ahead of the insurance market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15479,
+      "timestamps": []
+    },
+    {
+      "end": 16229,
+      "excerpt": "So that's really what I'm looking for. I love data infrastructure plays in the insurance space. An example of this is a company that we invested in back at the seed stage company called Certificial. They created a digital insurance cert. Well, the certificate of insurance right now is basically a digital version as a PDF, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15899,
+      "timestamps": []
+    },
+    {
+      "end": 16567,
+      "excerpt": "That's not really digital. And so what they've done is they've come in, they've created essentially like their own proprietary standard. They're trying to be the standard for the insurance industry around, you know, creating these certs. And it just, it unlocks, you know, all these. Process opportunities for people to build on top of.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16231,
+      "timestamps": []
+    },
+    {
+      "end": 16693,
+      "excerpt": "And that's the kind of stuff that I'm looking for. This fundamental building blocks for the industry and love that company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16569,
+      "timestamps": []
+    },
+    {
+      "end": 17370,
+      "excerpt": "[00:13:58] Gopi Rangan: That space is very interesting. I invested in a TrustLayer, which also does a certificate of insurance and a few other things. It doesn't help to have insurance policy. You need to be able to produce proof that here's an insurance policy that's actually valid and there's proper coverage and it wasn't just valid yesterday. It's actually valid today as well. Continuity of coverage and various other things. And that seems to be lacking in a significant way. Overall, if I look at the insurance industry, everything eventually boils down to how you manage data. And that's kind of what you're focused on. Can we talk about how these founders meet you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16695,
+      "timestamps": [
+        {
+          "offset": 16695,
+          "raw": "[00:13:58]",
+          "seconds": 838
+        }
+      ]
+    },
+    {
+      "end": 17522,
+      "excerpt": "What happens in that first meeting? What questions do you ask? What gets you excited? Can you pick an example, perhaps Artificial or another company? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17372,
+      "timestamps": []
+    },
+    {
+      "end": 17772,
+      "excerpt": "[00:14:41] Aaron Webster: Yeah, so how they meet us. We have a couple of associates on the team that, you know, do most of our sourcing. I have direct sourcing that comes in directly to me, but they produce most of the sourcing for our deal funnel.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 17524,
+      "timestamps": [
+        {
+          "offset": 17524,
+          "raw": "[00:14:41]",
+          "seconds": 881
+        }
+      ]
+    },
+    {
+      "end": 18079,
+      "excerpt": "You know, that's typically, you how the inbounds work or is, is, you know, Brian or Rob are out there, um, you know, and meet these people and discover, you know, good ideas. And we kind of filter through them and bring them in and start discussing them as a group. So that's, that's the way we meet them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17774,
+      "timestamps": []
+    },
+    {
+      "end": 18393,
+      "excerpt": "We typically, you know, join up virtually since we're a distributed team or across the country. And so we talk, you know, have some initial calls with the founders and really start digging into, you You know, what, what's going on with the company, what their product looks like, what kind of traction they have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18081,
+      "timestamps": []
+    },
+    {
+      "end": 18543,
+      "excerpt": "[00:15:22] Gopi Rangan: How do you do that? Like, what questions do you ask them besides what's available on slide deck and data room, basic stuff? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18395,
+      "timestamps": [
+        {
+          "offset": 18395,
+          "raw": "[00:15:22]",
+          "seconds": 922
+        }
+      ]
+    },
+    {
+      "end": 18735,
+      "excerpt": "Why are they solving the problem? What unique skillset do they have? Like one of the, one of my favorite questions is, is like, you know, how many people in the world can solve this problem?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18545,
+      "timestamps": []
+    },
+    {
+      "end": 19078,
+      "excerpt": "You know, and that's not just, you know, something specific to the insurance basis, you know, in like deep, deep tech, that kind of stuff. That's another question that I ask. And so that really interests me. I like the makeup of the team, right? So it's where early stage, we don't get to invest in companies with existing financials, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18737,
+      "timestamps": []
+    },
+    {
+      "end": 19433,
+      "excerpt": "We're like my last roles. Uh, when I was in the public markets, right? You dig into the financials a lot and that's how you make the basis of your decision. You don't get to do that in early stages. And so trying to understand what they're building, looking at the team makeup, understanding like their past experiences that they built a company before.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19080,
+      "timestamps": []
+    },
+    {
+      "end": 19829,
+      "excerpt": "And really what I like, honestly, since we're focused on technology is I like a mix between like a business person. And someone who really can, you know, be like an architect, an early architect for the company. And so I like that, that kind of mix. It could be like two or three people. It's just like those two kind of personalities should have the dynamics to work off of one another, right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19435,
+      "timestamps": []
+    },
+    {
+      "end": 19926,
+      "excerpt": "To build good tech and then also build a good business model. That's a lot of what I look for. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19831,
+      "timestamps": []
+    },
+    {
+      "end": 20025,
+      "excerpt": "What's a good example of a startup you invested where this was demonstrated very clearly to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19928,
+      "timestamps": []
+    },
+    {
+      "end": 20211,
+      "excerpt": "[00:16:43] Aaron Webster: Probably one of our portfolio companies, Naya, out of New York, probably, you know, showed that. Sina and Akash were the two original founders of the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 20027,
+      "timestamps": [
+        {
+          "offset": 20027,
+          "raw": "[00:16:43]",
+          "seconds": 1003
+        }
+      ]
+    },
+    {
+      "end": 20626,
+      "excerpt": "I would say Sina was the, you know, the business mind behind the group and Akash was definitely on the technology side. And, you know, they were focused on our space. A lot of people don't focus on our space, as I mentioned earlier. And employee benefit space. And so I had a good technologist and I had a person with a business model trying to solve a problem that we really wanted to get solved in the industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20213,
+      "timestamps": []
+    },
+    {
+      "end": 21113,
+      "excerpt": "And what's, what's funny is I've seen several copycat companies that have come after them because they've already been through their series C and then I've seen so many other companies trying to use their name or derivative of their name because they did so well. I love that. I mean, that's, I guess, like, one of the greatest compliments to one of your, one of your companies and teams, but that's a team that I think, you know, was exactly that fit that business and technology mix.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20628,
+      "timestamps": []
+    },
+    {
+      "end": 21289,
+      "excerpt": "[00:17:34] Gopi Rangan: What's your most common reason to say no? I know that you say no quite often. Like, how many times do you say no for every time you say yes? And why? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21115,
+      "timestamps": [
+        {
+          "offset": 21115,
+          "raw": "[00:17:34]",
+          "seconds": 1054
+        }
+      ]
+    },
+    {
+      "end": 21487,
+      "excerpt": "[00:17:42] Aaron Webster: Oh, I, I don't even know. I mean, I'm, we're probably saying no more than I even see, right? Cause we're saying no at the, at the sourcing level. I used to track numbers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 21291,
+      "timestamps": [
+        {
+          "offset": 21291,
+          "raw": "[00:17:42]",
+          "seconds": 1062
+        }
+      ]
+    },
+    {
+      "end": 21817,
+      "excerpt": "I think our pipeline is big enough to where, you know, I just don't spend a lot of time on that. I usually spend most of my time on the quality ones that, you know, that I want to spend time with. And so I feel like that's more productive use of time. But why do I say no? Typically it's fit. Uh, we focus in a certain vertical.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21489,
+      "timestamps": []
+    },
+    {
+      "end": 22199,
+      "excerpt": "Um, or certain verticals. And so if it's something that's, you know, in a, in a completely different vertical, we're probably not even going to look at it. Right. And I really don't even have the mandate to look at that. So generalist funds don't really have that issue. They're just going after the big, you know, opportunities and they'll take one bet in these different spaces.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21819,
+      "timestamps": []
+    },
+    {
+      "end": 22464,
+      "excerpt": "But with us, we gotta, we gotta operate, you know, in the same space. And so really it's, you know, do I like and love the problem? If I don't like and love the problem, or if I think it's a non problem, then we just don't even really spend that much time on it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22201,
+      "timestamps": []
+    },
+    {
+      "end": 22623,
+      "excerpt": "[00:18:35] Gopi Rangan: Let's say the bottom 50 percent of the companies, it's probably easy to say no, because there are obvious things that you don't like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22466,
+      "timestamps": [
+        {
+          "offset": 22466,
+          "raw": "[00:18:35]",
+          "seconds": 1115
+        }
+      ]
+    },
+    {
+      "end": 22949,
+      "excerpt": "But when something comes really close or you were just about to offer a term sheet, or there's like one or two things that you need to check, and now you're not able to get to the finish line. Does that happen? Like, how often does that happen? What are some reasons for you to say, \"well, we're close, but we're not there?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22625,
+      "timestamps": []
+    },
+    {
+      "end": 23283,
+      "excerpt": "[00:18:59] Aaron Webster: Yeah. I mean, that happens all the time, right? You spend some work on something, you really like it and maybe you just don't get comfortable with it or you think about it some more and you say, okay, that's not going to actually solve that problem. There could be structural issues, cap table's messed up.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 22951,
+      "timestamps": [
+        {
+          "offset": 22951,
+          "raw": "[00:18:59]",
+          "seconds": 1139
+        }
+      ]
+    },
+    {
+      "end": 23628,
+      "excerpt": "You could find something out in diligence about, you know, one of the founders. You could have a bad interaction with a founder at some point, you know, as a message to founders and I'm sure they've heard this as like, you're essentially going to marry this business as an investor, and the question is, do you want to marry them for 10 years?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23285,
+      "timestamps": []
+    },
+    {
+      "end": 23877,
+      "excerpt": "And that's really what I focus in. I really look for character. I feel like I've got some founders with just some great character. Part of due diligence is trying to understand like how this person is going to react over the course of the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23630,
+      "timestamps": []
+    },
+    {
+      "end": 24596,
+      "excerpt": "And I think character really is something that's going to help you succeed and win at the end. You know, do they have hustle? Do they have character? Are they really smart? Do they have the technical skills? So those are the things to make me say yes. And things that I'm, looking for. I really have trouble with people that I feel like have character issues, and I've brought that up in conversations. I will tell you an example. I actually mentored a person, an accelerator program over the course of like six months or so, almost did a deal with them. Verbal agreement on terms. And right before they did this, they were going to their initial close. They came back to me and they said, \"Hey, we can't honor this.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23879,
+      "timestamps": []
+    },
+    {
+      "end": 24915,
+      "excerpt": "I'm like, \"we agreed to this. I was your mentor.\" That to me is a very character flaw issue in something absolutely that we're not going to enter into for a period of 10 years. Reasons to say no just kind of manifest themselves over time. And it just, if it feels right, it feels right. And if it doesn't, it doesn't.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24598,
+      "timestamps": []
+    },
+    {
+      "end": 24951,
+      "excerpt": "So it could be any sort of issue. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24917,
+      "timestamps": []
+    },
+    {
+      "end": 25296,
+      "excerpt": "[00:20:40] Gopi Rangan: And as VCs, when we commit to an investment, it's a lifelong journey, like 10 plus years, like you said. Although we see many good companies, we can't say yes to all of them. We just don't have the bandwidth to do that many investments. We, we are only limited to the, in your case, like four to six companies per year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24953,
+      "timestamps": [
+        {
+          "offset": 24953,
+          "raw": "[00:20:40]",
+          "seconds": 1240
+        }
+      ]
+    },
+    {
+      "end": 25542,
+      "excerpt": "That commitment, because it's such a long term commitment, a lot of things need to feel right. And sometimes these character things are so important that if you detect it early, it saves you and the founder, a lot of heartburn in the longterm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25298,
+      "timestamps": []
+    },
+    {
+      "end": 25655,
+      "excerpt": "[00:21:11] Aaron Webster: Oh, absolutely. Yeah. I'm sure the company's doing great. I still see them out there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 25544,
+      "timestamps": [
+        {
+          "offset": 25544,
+          "raw": "[00:21:11]",
+          "seconds": 1271
+        }
+      ]
+    },
+    {
+      "end": 25783,
+      "excerpt": "We've got plenty of other things to worry about, right, than to have to worry about, you know, some sort of nuance like that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25657,
+      "timestamps": []
+    },
+    {
+      "end": 25986,
+      "excerpt": "[00:21:21] Gopi Rangan: What is your advice to founders today in the current market where things have changed? Now we went through COVID and then we went through this hype cycle and that's all settled.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25785,
+      "timestamps": [
+        {
+          "offset": 25785,
+          "raw": "[00:21:21]",
+          "seconds": 1281
+        }
+      ]
+    },
+    {
+      "end": 26259,
+      "excerpt": "Insurance 1.0 is now fully played out. Insurance 2.0 has now become real. Things have cooled off also in the insurance industry and insurtech. Not as many investments are happening in this space. In this market, what is your advice to founders when they come to meet you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25988,
+      "timestamps": []
+    },
+    {
+      "end": 26321,
+      "excerpt": "How can they be prepared to have a productive conversation? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26261,
+      "timestamps": []
+    },
+    {
+      "end": 26621,
+      "excerpt": "[00:21:48] Aaron Webster: I would just say be realistic about valuation. If you get a founder coming to you with a deal that's way out of market, that tells you something. They really haven't done their homework or they don't know how to raise money. They probably haven't created a company before.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 26323,
+      "timestamps": [
+        {
+          "offset": 26323,
+          "raw": "[00:21:48]",
+          "seconds": 1308
+        }
+      ]
+    },
+    {
+      "end": 26925,
+      "excerpt": "So it's pretty telling, when that kind of thing happens. So I would say, know your market, know what deals have gotten done. And sometimes that's hard as a first time founder, you don't understand where to go. So that's one thing. Be realistic on price. It is a new world or it is a normal world again.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26623,
+      "timestamps": []
+    },
+    {
+      "end": 27255,
+      "excerpt": "Some things are heating up, but it feels like it's much more realistic these days. So really just focus in on your problem solution statement. Focus in on why your team's the best. Focus in on how you're going to move fast, how you're going to grow fast, how you're going to scale, you know, those classic generic things, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26927,
+      "timestamps": []
+    },
+    {
+      "end": 27610,
+      "excerpt": "Those are the things to get the team interested. It allows us to start digging in more to say, \"okay, what else are we going to look for? What's going to make this company successful?\" So let's say just focus on that problem solution statement, right? Cause you're not going to have a bunch of customers if you're not solving a pretty good size problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27257,
+      "timestamps": []
+    },
+    {
+      "end": 27870,
+      "excerpt": "[00:22:48] Gopi Rangan: I want to ask you a philosophical question. Uh, you started a VC firm and you launched the firm six plus years ago and you've made 25 plus investments and you've established yourself as a leader in this space, especially in insurtech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27612,
+      "timestamps": [
+        {
+          "offset": 27612,
+          "raw": "[00:22:48]",
+          "seconds": 1368
+        }
+      ]
+    },
+    {
+      "end": 27962,
+      "excerpt": "What do you like to see change in the venture capital world to make this industry better? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27872,
+      "timestamps": []
+    },
+    {
+      "end": 28265,
+      "excerpt": "[00:23:07] Aaron Webster: That's a good question. I haven't thought about that. I don't know. I mean, I think there's always going to be problems to solve. You know, we're out there in the business of taking risk. We're out there in the business of trying to push, you know, the whole economy forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 27964,
+      "timestamps": [
+        {
+          "offset": 27964,
+          "raw": "[00:23:07]",
+          "seconds": 1387
+        }
+      ]
+    },
+    {
+      "end": 28520,
+      "excerpt": "So like that aspect of love, I wouldn't change any of that. I mean, we're out there trying to give money to people who want to make everyone's lives better. And I wouldn't change anything about that. And that's what I'm trying to do day in and day out. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28267,
+      "timestamps": []
+    },
+    {
+      "end": 28651,
+      "excerpt": "[00:23:31] Gopi Rangan: We're coming towards the end of our conversation. And I want to ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28522,
+      "timestamps": [
+        {
+          "offset": 28522,
+          "raw": "[00:23:31]",
+          "seconds": 1411
+        }
+      ]
+    },
+    {
+      "end": 28725,
+      "excerpt": "Is there a non profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28653,
+      "timestamps": []
+    },
+    {
+      "end": 29221,
+      "excerpt": "[00:23:41] Aaron Webster: So I have had a history working with different groups. Like right when I was out of school, I was working with Rebuilding Together Tulsa, which is kind of like Habitat for Humanity. We went in and fixed a lady's bathroom. There was basically like a hole in the bathroom of that house and, you know, took trees out. I've basically given money to United Way for years. I love that organization, how they, you know, how they coordinate community mobilization of capital. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 28727,
+      "timestamps": [
+        {
+          "offset": 28727,
+          "raw": "[00:23:41]",
+          "seconds": 1421
+        }
+      ]
+    },
+    {
+      "end": 29284,
+      "excerpt": "[00:24:05] Gopi Rangan: What's the name of the organization? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29223,
+      "timestamps": [
+        {
+          "offset": 29223,
+          "raw": "[00:24:05]",
+          "seconds": 1445
+        }
+      ]
+    },
+    {
+      "end": 29745,
+      "excerpt": "[00:24:06] Aaron Webster: United Way of Oklahoma. I love what theyy do. I've worked with a, my grandmother was a passionate person that helped people learn to read, kids that were having trouble reading. And so I worked with a nonprofit and it's called the Pain Education Center here in Oklahoma City. I was on the board for several years there. But currently right now, as you know, being a venture manager, your time is taken and it's not your own at times.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 29286,
+      "timestamps": [
+        {
+          "offset": 29286,
+          "raw": "[00:24:06]",
+          "seconds": 1446
+        }
+      ]
+    },
+    {
+      "end": 29962,
+      "excerpt": "[00:24:31] Gopi Rangan: Aaron, thanks a lot for spending time with me today. Thanks for sharing candid comments on the industry, your own personal journey, and your interactions with founders and advice to founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29747,
+      "timestamps": [
+        {
+          "offset": 29747,
+          "raw": "[00:24:31]",
+          "seconds": 1471
+        }
+      ]
+    },
+    {
+      "end": 30029,
+      "excerpt": "I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29964,
+      "timestamps": []
+    },
+    {
+      "end": 30074,
+      "excerpt": "[00:24:46] Aaron Webster: Thank you, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aaron Webster",
+      "start": 30031,
+      "timestamps": [
+        {
+          "offset": 30031,
+          "raw": "[00:24:46]",
+          "seconds": 1486
+        }
+      ]
+    },
+    {
+      "end": 30376,
+      "excerpt": "[00:24:48] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30076,
+      "timestamps": [
+        {
+          "offset": 30076,
+          "raw": "[00:24:48]",
+          "seconds": 1488
+        }
+      ]
+    },
+    {
+      "end": 30429,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30378,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "4afc6e75ae05a8e38f5425124587460b28e822a66c99c8d72e2278cf9ad639be",
+  "text_sha256": "d299687ed4e65868fec3607a2bf61828340c7f02cc20f0448665b34d165580e8"
+}

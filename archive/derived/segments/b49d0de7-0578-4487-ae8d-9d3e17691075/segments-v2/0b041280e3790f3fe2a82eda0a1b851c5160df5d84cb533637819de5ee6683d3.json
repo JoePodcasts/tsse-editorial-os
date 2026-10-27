@@ -1,0 +1,747 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 287,
+      "excerpt": "Seldomly, people nowadays in the busy world create that room and space, you know, just to sit back and to ponder and to self reflect and if I just want to do one thing, which obviously in reality, you know, we won't just do that one thing. If we have to pick one, what is our superpower?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 362,
+      "excerpt": "[00:00:27] Gopi Rangan: You are listening to The Sure Shot Entrepreneur -",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 289,
+      "timestamps": [
+        {
+          "offset": 289,
+          "raw": "[00:00:27]",
+          "seconds": 27
+        }
+      ]
+    },
+    {
+      "end": 667,
+      "excerpt": "a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Jesse Guo. She's an investment partner at Next Legacy Partners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 364,
+      "timestamps": []
+    },
+    {
+      "end": 1127,
+      "excerpt": "Next Legacy Partners has been around for many years. In its current incarnation, it's called Next Legacy Partners. Prior to that, Jessie was at Legacy Ventures. She was a partner there. We're going to talk to her about her journey, starting with how she grew up in a small town in Northern China and how she made her way to the San Francisco Bay Area and why she is excited about being an LP in Silicon Valley. Jessie, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 669,
+      "timestamps": []
+    },
+    {
+      "end": 1234,
+      "excerpt": "[00:01:27] Jessie Guo: Thank you so much, Gopi. I'm so excited to be here and having a fun conversation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 1129,
+      "timestamps": [
+        {
+          "offset": 1129,
+          "raw": "[00:01:27]",
+          "seconds": 87
+        }
+      ]
+    },
+    {
+      "end": 1493,
+      "excerpt": "[00:01:32] Gopi Rangan: I have a lot of questions. There are a lot of things happening in the market, especially in the past five to 10 years, especially from the perspective as an LP, a lot of things changing on the VC side, how you are adapting your game.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1236,
+      "timestamps": [
+        {
+          "offset": 1236,
+          "raw": "[00:01:32]",
+          "seconds": 92
+        }
+      ]
+    },
+    {
+      "end": 1742,
+      "excerpt": "But before we go into all of that, I want to start with you. You grew up in China, in a small town in northern China, and then you slowly made your way to where you are today. But let's start with the journey. Tell us a little bit about yourself. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1495,
+      "timestamps": []
+    },
+    {
+      "end": 2204,
+      "excerpt": "[00:02:01] Jessie Guo: Sounds good. Thanks, Gopi. So, as you mentioned, I was born and raised in China, so my hometown is a very small county in the Northern part of China. Nobody have really heard about this name. And I will show you that like probably 90 percent of the people cannot pronounce my hometown's name, Dingxiang. It's really fun. Like growing up, I can literally bike around the whole downtown of the entire county in about like 15 to 20 minutes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 1744,
+      "timestamps": [
+        {
+          "offset": 1744,
+          "raw": "[00:02:01]",
+          "seconds": 121
+        }
+      ]
+    },
+    {
+      "end": 2509,
+      "excerpt": "We have one primary school, one middle school, one high school where my parents worked. Because of that context, like all I wanted to do as a kid was to go out of my hometown and see what's the world out there. Maybe go to a bigger place where, you know, I cannot bike around the downtown in 10 minutes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2206,
+      "timestamps": []
+    },
+    {
+      "end": 3004,
+      "excerpt": "So I actually left my hometown when I was like 13 years old to attend a high school in the capital city of our province. And from there, I went to Beijing for university. Worked in Beijing and started my career in the technology industry and caught the LP bug while working with the VC funds and wanted to continue to build my LP career when I moved to the US like 12 years ago and found my current team 10 years ago, and here I am. I celebrated my 10 year anniversary last week with our team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2511,
+      "timestamps": []
+    },
+    {
+      "end": 3342,
+      "excerpt": "[00:03:42] Gopi Rangan: Congratulations! What an amazing journey. The venture ecosystem and the LP ecosystem has also evolved. There was a time when you could bike around in 20 minutes, you could meet all your portfolio firms and companies, but now that's not the case anymore. There are hundreds more, thousands more VCs in the market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3006,
+      "timestamps": [
+        {
+          "offset": 3006,
+          "raw": "[00:03:42]",
+          "seconds": 222
+        }
+      ]
+    },
+    {
+      "end": 3484,
+      "excerpt": "I'm curious to hear your perspective compared to 10 years ago when you started in industry. How have things changed? What is different now? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3344,
+      "timestamps": []
+    },
+    {
+      "end": 3781,
+      "excerpt": "[00:04:11] Jessie Guo: Yeah, obviously, so many things have changed. I will just highlight a couple, of my observations. And for one, I feel like, as you alluded to already, the ecosystem of venture industry has like expanded so much. Just in the past decade, it's already like expanded so much.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 3486,
+      "timestamps": [
+        {
+          "offset": 3486,
+          "raw": "[00:04:11]",
+          "seconds": 251
+        }
+      ]
+    },
+    {
+      "end": 4422,
+      "excerpt": "And I am very delighted to see that particularly the ecosystem of emerging managers has emerged and grown in the past decade. And we are seeing a lot of very promising and active players, that are joining the industry, making the impact to entrepreneurs at the very early stage and leveraging their domain expertise, right? To help the hero's journey of the entrepreneurs. I'm really delighted to see that. And another observation I would highlight is also feels like given the waves of innovation, I'm very excited to continue to see all the talent innovation. They just come regardless of the cycle of the, you know, where we are, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3783,
+      "timestamps": []
+    },
+    {
+      "end": 4765,
+      "excerpt": "Obviously we're still in a relatively challenging micro environment, and for the industry, but you probably can already tell I'm a more optimistic personality. And I think innovation is psycho agnostic. And that's where actually has been really the case, not only in the past decade, but much longer time, which really excites me every day. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4424,
+      "timestamps": []
+    },
+    {
+      "end": 4955,
+      "excerpt": "[00:05:50] Gopi Rangan: Now, you've already touched on a couple of things, why you like your job, but what about the venture ecosystem? Do you like the most? Why do you enjoy being an LP? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4767,
+      "timestamps": [
+        {
+          "offset": 4767,
+          "raw": "[00:05:50]",
+          "seconds": 350
+        }
+      ]
+    },
+    {
+      "end": 5381,
+      "excerpt": "[00:06:02] Jessie Guo: I thought about this, like, all the time, particularly when I first moved to the U. S. from China, and at the early stage of my career, thinking about where I want to develop my career trajectory. And a couple of things that really resonate with me. One, like we actually just, uh, our team went through like the strength finder experiment for our team. And one of my top one is learner is my top one.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 4957,
+      "timestamps": [
+        {
+          "offset": 4957,
+          "raw": "[00:06:02]",
+          "seconds": 362
+        }
+      ]
+    },
+    {
+      "end": 5753,
+      "excerpt": "So I just feel like, you know, as we are taking a generalist approach, as LP here, I'm learning all the time. It really excites me. And another thing that really resonates me is actually one of the top five values at Next Legacy. The first one is relationships over transactions. I think in our industry, we are in a position to be able to build that relationship right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5383,
+      "timestamps": []
+    },
+    {
+      "end": 6191,
+      "excerpt": "That authentic conversation, like what we are doing right now is like on top of the learning with all the great innovations and from all the smart minds, those who build that relationships over the time through those conversations, which really excites me as an LP talking with all the GPs, the other LPs, founders that we may cross pathways. So those are just like top two that immediately jump to my mind; learning and relationships. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5755,
+      "timestamps": []
+    },
+    {
+      "end": 6404,
+      "excerpt": "[00:07:29] Gopi Rangan: This business is all about relationships, and there is so much new stuff happening. It gets more and more difficult to keep pace with this, but you have to have that deep desire to learn.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6193,
+      "timestamps": [
+        {
+          "offset": 6193,
+          "raw": "[00:07:29]",
+          "seconds": 449
+        }
+      ]
+    },
+    {
+      "end": 6827,
+      "excerpt": "It's great that you highlighted the two of them as your most important characteristics that you really enjoy. I want to ask you about some of your investments. What gets you excited? When do you say: This is a firm I want to invest in? This is an emerging manager I want to back, or this is an established manager I'd like to get behind. What goes on in your mind when you say, \"yes, I really like this general partner\"? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6406,
+      "timestamps": []
+    },
+    {
+      "end": 7628,
+      "excerpt": "[00:08:05] Jessie Guo: Yeah. So one of the recent commitment we've made at Next Legacy is Audacious Ventures. Nakul Mandan is the founding GP of the firm. We initially connected with him through actually our GP network. He worked at Lightspeed and you know, our teams have already been familiar with him. But a couple of things really helped us to build a high conviction in what he's building at Audacious Ventures. One, if you have met Nakul or, you know, have heard of his story, it's very inspiring immigrant story where he immigrated to the U S from India and build his career in the venture industry over the time here in the U S. And just that tenacity, that drive, that willingness to do all the hustle, the hard work. And you can tell and you can see from how his personal journey has been.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 6829,
+      "timestamps": [
+        {
+          "offset": 6829,
+          "raw": "[00:08:05]",
+          "seconds": 485
+        }
+      ]
+    },
+    {
+      "end": 7968,
+      "excerpt": "And actually, a couple of weeks ago, I just celebrated for him to become a U. S. citizen. And after all these years, I'm very, very happy for him. So that speaks a lot to GPs. It's not just about \"Oh, you know, there's a firm. They are doing the seed investment. Like, you know, they are building this portfolio that focus on enterprise.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7630,
+      "timestamps": []
+    },
+    {
+      "end": 8438,
+      "excerpt": "You know, we, we also do diligence and do analysis on all that, but back to that relationships over transactions and back to that understanding the human being. Right. So that was a very important element. When we were trying to understand better of, you know, his vision, you know, his journey and really help us to build that conviction on the team. Another thing that I think is really a highlight for us is like, really do what you said you are going to do, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7970,
+      "timestamps": []
+    },
+    {
+      "end": 8756,
+      "excerpt": "Execute on your vision, your plan. And he has exactly been doing what his original vision has been; building the firm where each partner have their domain expertise in sourcing, in picking the deal, in access the deal, in helping the portfolio company. And he, since then, you know, brought MZ and Sam into the team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8440,
+      "timestamps": []
+    },
+    {
+      "end": 9375,
+      "excerpt": "And the team has also been expanding. We actually talked with him when he, during the pandemic, when he initially Was thinking about launching fund one and for all kinds of other our portfolio constructors and we wasn't able to jump on the train with him for fund one. But because of that deep conversation at the very inception time, and I and our team have been in touch with him and giving feedback and being a thought partner along the way while he was building fund one, I think we were one of the earliest LP to commit in his fund to this time around. So very much excited about his team and Audacious Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8758,
+      "timestamps": []
+    },
+    {
+      "end": 9679,
+      "excerpt": "[00:11:05] Gopi Rangan: Investing in a VC firm, backing a fund early is quite hard. And it's much harder to do it at fund one, fund two, and fund three when the emerging manager still hasn't fully evolved to show a solid track record. So kudos to you for backing the vision of the founder at the firm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9377,
+      "timestamps": [
+        {
+          "offset": 9377,
+          "raw": "[00:11:05]",
+          "seconds": 665
+        }
+      ]
+    },
+    {
+      "end": 10113,
+      "excerpt": "The firm is different in many ways. One of the things they follow is they separate out the functions of deal flow, evaluation and value add, which is usually combined with every partner. Each partner usually is responsible for sourcing and doing their own due diligence, leading that effort, and also supporting the portfolio companies. So that kind of becomes three jobs into one person, which is the standard that most VCs follow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9681,
+      "timestamps": []
+    },
+    {
+      "end": 10279,
+      "excerpt": "But Nakul and his team follow a very different approach and that is a different strategy. How did you get comfortable with it and what's exciting about it for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10115,
+      "timestamps": []
+    },
+    {
+      "end": 11033,
+      "excerpt": "[00:12:02] Jessie Guo: Yeah, on that front, maybe on the high level, I think that for our industry, there are multiple ways and approaches that enable a great venture firm to succeed. As you mentioned, like, you know, this is a different approach. There's other approaches, but there are Yeah. successful examples and firms in each one of the bucket of the approaches of building the firm. So that drills down to the question on. What is the optimal or ideal approach that suits the best to this specific team or the firm, right? So in this case, like what's really help us to get comfortable and build, actually, we think this as a differentiation. For Audicious is how deeply thoughtful Nakul and his partners in terms of leveraging their superpower.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 10281,
+      "timestamps": [
+        {
+          "offset": 10281,
+          "raw": "[00:12:02]",
+          "seconds": 722
+        }
+      ]
+    },
+    {
+      "end": 11516,
+      "excerpt": "We all have our own superpower and I feel like a lot of times people are trying to do a lot of things simultaneously and strive for the excellence in many domains altogether. But seldomly people nowadays in the busy world create that room and space, you know, just to sit back and, you know, to ponder and to self reflect, and if I just want to do one thing, which obviously in reality, you know, we won't just do that one thing, but if we have to pick one, what is our superpower?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11035,
+      "timestamps": []
+    },
+    {
+      "end": 11824,
+      "excerpt": "And I think Nakul really thought through that. And he was also very helpful to articulate how each one of them would leverage their superpower in those domains to help their entrepreneurs. Of course, you know, in the daily work, they all collaborate. It's not that clear cut to say, \"Hey, you just do this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11518,
+      "timestamps": []
+    },
+    {
+      "end": 11949,
+      "excerpt": "You just do that.\" But to the extent that can, you know, really amplify the superpowers where we think differentiate them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11826,
+      "timestamps": []
+    },
+    {
+      "end": 12300,
+      "excerpt": "[00:14:08] Gopi Rangan: It's great to see that you have an open mind to listen to new strategies. Often VCs walk in with a story that their superpower is in one of the three areas. And here we have Audacious Ventures, which has the opportunity to be excellent at all three of them, because there's one person responsible for each of those functions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11951,
+      "timestamps": [
+        {
+          "offset": 11951,
+          "raw": "[00:14:08]",
+          "seconds": 848
+        }
+      ]
+    },
+    {
+      "end": 12611,
+      "excerpt": "It's great to see that you had an open mind to embrace that concept. Let's talk about next legacy ventures. Can you describe the firm? What kind of investments do you like to focus on and also talk about the merger of the two firms? How did that come together? And what does the future look like for the firm?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12302,
+      "timestamps": []
+    },
+    {
+      "end": 12939,
+      "excerpt": "[00:14:50] Jessie Guo: Yeah, happy to share. So my firm Next Legacy Partners, we invest on behalf of a mission-driven community of philanthropists and athletes, and cultural leaders to invest in early stage venture. So I will get to the background story of where that community of philanthropists and athletes coming together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 12613,
+      "timestamps": [
+        {
+          "offset": 12613,
+          "raw": "[00:14:50]",
+          "seconds": 890
+        }
+      ]
+    },
+    {
+      "end": 13270,
+      "excerpt": "And before that, just like continue on what we do currently. And so we are venture only investment firm, right? And we invest in both funds and startups. So on the fund side, we invest in both established managers and emerging managers. And early stage focus strategy, technology focus, and generalist approach within technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12941,
+      "timestamps": []
+    },
+    {
+      "end": 13597,
+      "excerpt": "You mentioned earlier that, you know, our firm has been around for now 25 years. And so we have a existing portfolio of relatively concentrated portfolio on both established and emerging manager side. And on the direct investing side, we co-invest with our GPs from, you know, both group of established and emerging managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13272,
+      "timestamps": []
+    },
+    {
+      "end": 13916,
+      "excerpt": "And we typically, uh, invest somewhere one step, uh, later than our man, early stage focused, uh, managers or somewhere, you know, late series, a series B ish. Is the direct focus. So that's kind of a nutshell of what next legacy partners does. The background story of how next legacy was born. It's dear to my heart.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13599,
+      "timestamps": []
+    },
+    {
+      "end": 14563,
+      "excerpt": "So we actually just announced our new name, Next Legacy, last May. So it's been one and a half years. And prior to that, the two precedent firms, Legacy Venture, where I joined 10 years ago, started in 1999, representing the community of philanthropists. They could be philanthropic individuals or families or nonprofit organizations. And we actually, for our philanthropic capital, donate 100 percent of the distributions from our flagship vehicle to whatever charitable causes our investors choose. So we choose where to invest, they choose where to donate. We really want to leverage the venture return to amplify their philanthropic efforts.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13918,
+      "timestamps": []
+    },
+    {
+      "end": 15261,
+      "excerpt": "And then the other prior firm, Next Play Capital founded a decade ago by my partner, Ryan Nece is really helping the community of athletes to create a table for them in the venture industry and invest in the venture on behalf of this diverse and mission driven community. Obviously, you know, two prior teams have been knowing each other for quite a long time in the collaborating. So we kind of discussed some other way of deeper collaboration in maybe emerging manager portfolio at the beginning and then realize, you know what, there's synergy in our team. There's great value align in the community. There's already a lot of synergy we can realize in the portfolio side and you know all that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14565,
+      "timestamps": []
+    },
+    {
+      "end": 15427,
+      "excerpt": "So eventually we decided to combine together and here we are and looking forward to the next decade and decades for our combined one team, one firm as Next Legacy. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15263,
+      "timestamps": []
+    },
+    {
+      "end": 15593,
+      "excerpt": "[00:18:22] Gopi Rangan: I can see the natural amalgamation of the two firms coming together with values and organization's culture, all merging together seamlessly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15429,
+      "timestamps": [
+        {
+          "offset": 15429,
+          "raw": "[00:18:22]",
+          "seconds": 1102
+        }
+      ]
+    },
+    {
+      "end": 15941,
+      "excerpt": "I've known Russ Hall, the co founder of Legacy Partners for many years, more than a decade. He's a font of wisdom. I've learned a lot from him over the years. Every time I meet him for lunch, he shares a story that's truly inspiring. It's great to see that the two firms have come together and you're looking at the next few decades ahead of you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15595,
+      "timestamps": []
+    },
+    {
+      "end": 16336,
+      "excerpt": "[00:18:51] Jessie Guo: Yeah. A fun fact. Yeah. Like Russ literally was the reason I joined our team 10 years ago because I came to the US after left my job in Beijing, became an international MBA students here in the US. And Russ was kind enough to respond to my cold email, reach out to him like 10 plus years ago. And it's the only reason that I was lucky enough to be able to join our team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 15943,
+      "timestamps": [
+        {
+          "offset": 15943,
+          "raw": "[00:18:51]",
+          "seconds": 1131
+        }
+      ]
+    },
+    {
+      "end": 16492,
+      "excerpt": "Um, because you know, he's just, really kind and nice to a total stranger and opened the position for a young Jessie a decade ago. So, I'm very grateful. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16338,
+      "timestamps": []
+    },
+    {
+      "end": 16614,
+      "excerpt": "[00:19:32] Gopi Rangan: Can we talk about some guidelines and parameters of what is a good fit for Next Legacy Partners?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16494,
+      "timestamps": [
+        {
+          "offset": 16494,
+          "raw": "[00:19:32]",
+          "seconds": 1172
+        }
+      ]
+    },
+    {
+      "end": 17121,
+      "excerpt": "What fund stage is a good fit for you? I'm focusing a lot on the fund side, but I understand that you also do direct investments in companies. The fund side is a more difficult space to understand. So if you don't mind, we can focus on that. Is it fund one, fund two, fund three or more established firms? Do you have preference for a percentage of the fund that you'd like to be a part of? Are there some guidelines on bottom limits and top limits? And how often do you add a new fund to your portfolio? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16616,
+      "timestamps": []
+    },
+    {
+      "end": 17444,
+      "excerpt": "[00:20:09] Jessie Guo: Yeah, all great questions. I will talk first on the emerging manager portfolio side. For our emerging manager portfolio on the portfolio construction perspective, like we are building a relatively concentrated portfolio of somewhere between 10 to 15 core relationships in our emerging leaders fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 17123,
+      "timestamps": [
+        {
+          "offset": 17123,
+          "raw": "[00:20:09]",
+          "seconds": 1209
+        }
+      ]
+    },
+    {
+      "end": 18940,
+      "excerpt": "And we can write one to five meaning checks as the initial start with the underlying managers. How we are defining the emerging managers into our portfolio, we focus on US managers that are in their first three institutional funds, so fund ones, two, threes, sometimes fund 4s. They all are early stage focused managers. Compared to our established manager portfolio, they probably, you know, have a one step earlier by stage, right? Thinking about our emerging manager cohort, the underlying entry stage somewhere ranging from pre seed to A ish, and I mentioned earlier that we are taking a generalist approach within the technology space. Given the team background and capacity, we don't proactively invest in, say, traditional life science or health care. That is not our focus or sweet spot, but within tech, you know, we have enterprise focused managers, consumer deep tech is a variety of managers in a portfolio, which as I mentioned earlier, we want to actually rely on our managers to apply their superpower in whatever domains they are the best at. And then on the established managers, those are, you know, fund four or five beyond. And typically we have a longer history of relationship or they have a longer history for their firm. And that is still early stage focus for us. But thinking about probably the majority of the entry stage series A, and ranging from seed, A to B ish, and there we think about somewhere 20 to 25 core relationships, plus a few discovery relationships. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17446,
+      "timestamps": []
+    },
+    {
+      "end": 19176,
+      "excerpt": "[00:22:30] Gopi Rangan: It's great to see that you have a broad array of topics you can cover, you know, more established firms and later stage firms and all the way up to the earliest stage firms. Why is choosing a manager difficult?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18942,
+      "timestamps": [
+        {
+          "offset": 18942,
+          "raw": "[00:22:30]",
+          "seconds": 1350
+        }
+      ]
+    },
+    {
+      "end": 19200,
+      "excerpt": "Why is it a hard job? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19178,
+      "timestamps": []
+    },
+    {
+      "end": 19506,
+      "excerpt": "[00:22:46] Jessie Guo: Yeah, for one, when we talked about the involvement of the venture ecosystem at the beginning of our conversation, like, we discussed about the expansion of the ecosystem, right? If I just look at the funnel, 10 years ago versus like now, just that alone has been expanded so much.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 19202,
+      "timestamps": [
+        {
+          "offset": 19202,
+          "raw": "[00:22:46]",
+          "seconds": 1366
+        }
+      ]
+    },
+    {
+      "end": 19887,
+      "excerpt": "So actually, we just hosted our own annual meeting like 3 weeks ago. And as I was looking back of our deal funnel and we kind of looked at over 500 of funds in the past 15 months. But we only will be able to, you know, invest in 10 to 15 emerging managers in the portfolio, you know, 20 each core managers in the established managers and not all of those are new managers, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19508,
+      "timestamps": []
+    },
+    {
+      "end": 20253,
+      "excerpt": "Some of them are new relationships we added. Some of them are existing relationships that we continue to support. So just purely looking at the funnel or filter is already making the job hard, but I think what's more important that your question is like how LP can build the conviction of the manager, given that nowadays the information is very readily available.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19889,
+      "timestamps": []
+    },
+    {
+      "end": 20564,
+      "excerpt": "The deal sourcing is not as proprietary or as, you know, a decade ago before and how a manager can differentiate themselves and to help the LPs to build conviction. And as LP, how can we absorb all that information and taking all that conversations that we are having with the GPS. Build that high conviction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20255,
+      "timestamps": []
+    },
+    {
+      "end": 21405,
+      "excerpt": "Differentiation of the manager. That to me is the fun part of being an LP, but also the most difficult thing, particularly on the emerging manager side, right? As you alluded earlier, it's like oftentimes there's no track record, no institutional track record or short history. And it's also different between being a good investor versus being a great VC firm, a founding GP, right, for many of the spin out opportunity. So we spend a lot of time in those areas. I've tried to figure out the differentiation but it's so hard. Everybody like have their strengths and in every conversation I have, I always learn from the GP I'm talking to. And they always have their own angle and the passion in areas, but how can we based on that and take that there are a dozen managers there? That's the most difficult but also fun part of being an LP.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20566,
+      "timestamps": []
+    },
+    {
+      "end": 21738,
+      "excerpt": "[00:25:39] Gopi Rangan: Now, I empathize with LPs. About 15 years ago, when startups became so successful and entrepreneurship became a career choice that people actively chose, there were many, many, many startups. Used to be hundreds of startups, became thousands of startups. And the VCs at that time were inundated with demand.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21407,
+      "timestamps": [
+        {
+          "offset": 21407,
+          "raw": "[00:25:39]",
+          "seconds": 1539
+        }
+      ]
+    },
+    {
+      "end": 22093,
+      "excerpt": "And they couldn't manage, but over time, blogs and various other types of content have evolved to get to a point where founders can learn from VCs and get to know the VCs, and the number of VCs has also exploded. That's similar type of trend is happening now between the VCs and the LPs. There are thousands of VCs now in the market, but not enough LPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21740,
+      "timestamps": []
+    },
+    {
+      "end": 22668,
+      "excerpt": "The LP community has not significantly changed, although there are new types of LPs entering the market. So I empathize with limited partners like you, because you're inundated with a lot of requests from VCs, and you can't possibly take meetings with all of them. It's hard. What's one thing you would like to change about the venture ecosystem? As you're looking at Next Legacy Partners role in the ecosystem, a lot of things have gotten better, but there are still many more things that could improve in the venture ecosystem. What's one thing you would like to change? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22095,
+      "timestamps": []
+    },
+    {
+      "end": 23114,
+      "excerpt": "[00:26:50] Jessie Guo: Yeah, one is I think we need more diversity in our ecosystem. I'm delighted to see some great progress over the past few years in our industry, but that's still really far from enough. Right? So, I think that's the immediate first thing jump to my mind. Like, actually, one of the important elements, we launched our dedicated emerging manager fund and portfolio is where we want to build a portfolio of diverse managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 22670,
+      "timestamps": [
+        {
+          "offset": 22670,
+          "raw": "[00:26:50]",
+          "seconds": 1610
+        }
+      ]
+    },
+    {
+      "end": 23460,
+      "excerpt": "The second value of our firm is excellence through diverse thinking. We firmly believe in that. And I think that will also really from the investing perspective as we believe in that. And 2nd is like, better discipline. I think a lot of times is harder to really keep that discipline as you know, there's opportunity of expanding the fund size.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23116,
+      "timestamps": []
+    },
+    {
+      "end": 23863,
+      "excerpt": "There's opportunity to maybe get access to this seemingly very promising startup that a little bit off my strategy. And I would welcome and encourage to see more and better discipline from our ecosystem. Really stay true to what they are really best shooting and stay true to their strategy. Not saying that people should not evolve. We should be flexible and evolve and always constantly reevaluate. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23462,
+      "timestamps": []
+    },
+    {
+      "end": 24115,
+      "excerpt": "[00:28:23] Gopi Rangan: Both very valid points, diversity and discipline. We're coming towards the end of our conversation, and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23865,
+      "timestamps": [
+        {
+          "offset": 23865,
+          "raw": "[00:28:23]",
+          "seconds": 1703
+        }
+      ]
+    },
+    {
+      "end": 24584,
+      "excerpt": "[00:28:37] Jessie Guo: Great question. Our flagship vehicle, all distributions from that vehicle goes to charitable causes that our investors are passionate about. So my small GP commitment also, you know, goes to my donor-advised fund and goes to the causes I'm passionate about. So one that I support actually is very relevant to what we do is Venture Forward that the NVCA has been spearheading the effort and supporting the emerging managers and diverse managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 24117,
+      "timestamps": [
+        {
+          "offset": 24117,
+          "raw": "[00:28:37]",
+          "seconds": 1717
+        }
+      ]
+    },
+    {
+      "end": 24854,
+      "excerpt": "Another one dear to my personal connection is the Alzheimer Foundation of America. And both my and my husband's families, had a couple Alzheimer family members. And that's, you know, deeply dear in my heart to be able to support that research and solving that disease.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24586,
+      "timestamps": []
+    },
+    {
+      "end": 25269,
+      "excerpt": "[00:29:28] Gopi Rangan: Jessie, thank you very much for spending time with me today and sharing candid thoughts about your perspectives on the venture ecosystem. It's very hard to get an LP to come up and share openly their ideas and what they are excited about and what they are afraid about what changes they don't like to see and their vision for what changes they would like to contribute to in the ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24856,
+      "timestamps": [
+        {
+          "offset": 24856,
+          "raw": "[00:29:28]",
+          "seconds": 1768
+        }
+      ]
+    },
+    {
+      "end": 25430,
+      "excerpt": "I'm so delighted that we had this conversation and you're able to share your thoughts openly. I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25271,
+      "timestamps": []
+    },
+    {
+      "end": 25545,
+      "excerpt": "[00:30:03] Jessie Guo: Thank you so much Gopi and it's really a pleasure to be having this conversation with you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessie Guo",
+      "start": 25432,
+      "timestamps": [
+        {
+          "offset": 25432,
+          "raw": "[00:30:03]",
+          "seconds": 1803
+        }
+      ]
+    },
+    {
+      "end": 25548,
+      "excerpt": " ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25547,
+      "timestamps": []
+    },
+    {
+      "end": 25850,
+      "excerpt": "[00:30:08] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25550,
+      "timestamps": [
+        {
+          "offset": 25550,
+          "raw": "[00:30:08]",
+          "seconds": 1808
+        }
+      ]
+    },
+    {
+      "end": 25903,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25852,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "0b041280e3790f3fe2a82eda0a1b851c5160df5d84cb533637819de5ee6683d3",
+  "text_sha256": "bb090f343da74421a3a253c67a55f17864b712441c074aa76ab27b162f0723a0"
+}

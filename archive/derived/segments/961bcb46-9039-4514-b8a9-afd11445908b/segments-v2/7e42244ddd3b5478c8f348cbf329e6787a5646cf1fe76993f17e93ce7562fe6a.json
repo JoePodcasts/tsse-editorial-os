@@ -1,0 +1,1273 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 264,
+      "excerpt": " \"We look at all those things that you mentioned, sector specific, geographic specific, generalist seed. We would consider all of them. For us, I think it's a very returns-driven lens of all the things that we mentioned for us to get comfortable with the manager.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 636,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas, venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. Over the past few years, we've published many episodes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 266,
+      "timestamps": []
+    },
+    {
+      "end": 980,
+      "excerpt": "Most of our guests were venture capital investors. Over the past few months, you have noticed that our guests are also limited partners. We have one such limited partner, Aram Verdiyan. He's a partner at Accolade Partners. Aram is one of the most knowledgeable people in the venture capital industry. He understands the ecosystem really well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 638,
+      "timestamps": []
+    },
+    {
+      "end": 1286,
+      "excerpt": "He also is a very strong supporter of emerging managers. We're going to ask him questions about his role in the ecosystem. How does Accolade Partners differ from other limited partners? What kind of questions he asks and how he builds relationships with VC firms before he commits to investing in a fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 982,
+      "timestamps": []
+    },
+    {
+      "end": 1333,
+      "excerpt": "Aram, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1288,
+      "timestamps": []
+    },
+    {
+      "end": 1431,
+      "excerpt": "Aram Verdiyan: Hi Gopi, thank you for having me on and really appreciate the kind introduction. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 1335,
+      "timestamps": []
+    },
+    {
+      "end": 1630,
+      "excerpt": "Gopi Rangan: Let's talk about you first. Where are you from? You grew up in Armenia, and you moved to the U. S. at the age of 15, and you didn't speak a lick of English when you moved here, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1433,
+      "timestamps": []
+    },
+    {
+      "end": 2061,
+      "excerpt": "Aram Verdiyan: I spoke maybe a few sentences, but it was, uh, very limited, and, you know, funny enough, the first school I attended, they didn't have ESL (English as a Second Language), so I went straight into English A1, and first book in high school I got introduced to was Hamlet. So not the best way to get introduced to the English language, but I was fortunate enough to learn quickly and have a lot of support around me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 1632,
+      "timestamps": []
+    },
+    {
+      "end": 2297,
+      "excerpt": "Gopi Rangan: How did you enter the world of allocators, limited partners, or sometimes called allocators for people who are listening for the first time? How did you get into that world? Why did you get excited about venture capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2063,
+      "timestamps": []
+    },
+    {
+      "end": 2898,
+      "excerpt": "Aram Verdiyan: Yeah, it was very accidental, Gopi. I was in Washington, D. C. working at a consulting firm, doing a lot of financial consulting, actually mostly for the federal government. And I did love private equity as a concept, but I hadn't spent any time in it. So I started applying to some places, both in New York and Washington, D. C. And I came across this local fund of funds. And I can't say I knew what a fund of funds was back then. After many rounds of interviews, they took a chance on me. I am incredibly thankful to the team who hired me. And back then it was a really small team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 2299,
+      "timestamps": []
+    },
+    {
+      "end": 3255,
+      "excerpt": "They had just closed their third fund, about $500 million in AUM when I joined. 12 years later, I'm still here. In between, I went to business school, did a couple of things like work at one of our underlying managers, Andreessen Horowitz (a16z), did some work on the operating side, co-founded a company at Stanford, and then ended up rejoining Accolade.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2900,
+      "timestamps": []
+    },
+    {
+      "end": 3622,
+      "excerpt": "I really loved the allocator side. It was a great combination of, you saw the 10, 000 foot view when you were doing fund level investing. Then you really dug into the portfolio as well. And I really got to know all aspects of private equity. So at Accolade, we don't only do venture. We do venture. We do what we call growth equity, which is not late stage venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3257,
+      "timestamps": []
+    },
+    {
+      "end": 3934,
+      "excerpt": "It's more small private equity, both growth and minority and control. We also have a fairly large blockchain practice, and I believe we're the largest allocator globally in blockchain. And we've started a few other products along the way, like a fund of funds focused on women led and diverse managers as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3624,
+      "timestamps": []
+    },
+    {
+      "end": 4238,
+      "excerpt": "we now manage about 6 billion in AUM, team of 17. And it's been an incredible journey. I was very fortunate to join. I would have never expected I would still be here and the firm would be here. Yeah, accidentally joined, but I'm very happy that I did. And I never wanted to leave it once I was in it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3936,
+      "timestamps": []
+    },
+    {
+      "end": 4396,
+      "excerpt": "Gopi Rangan: Now, I've had many conversations with you and you always have thought provoking questions and comments on the industry and how GPs could think.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4240,
+      "timestamps": []
+    },
+    {
+      "end": 4527,
+      "excerpt": "Great to see that you actually came back to Accolade. How is Accolade different from other limited partners, other funder funds? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4398,
+      "timestamps": []
+    },
+    {
+      "end": 5019,
+      "excerpt": "Aram Verdiyan: So there's a lot of different fund of funds out there. There is a spectrum. There is really big globally diversified fund of funds. Some are even public. They do everything. They're very large. Then, you have your really niche focused fund of funds. They can be geographically focused, SPIC focused, all the way to like a small sleeve within venture focused. I think we have always been focused on two areas. Venture capital, which is primarily early-stage and growth equity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 4529,
+      "timestamps": []
+    },
+    {
+      "end": 5407,
+      "excerpt": "That's been consistent across 23 years. There are branches in that. I actually put put blockchain under venture capital, which kind of emerged out of venture capital 6 to 7 years ago. We're different in a couple of ways. We like to run concentrated portfolios as a fund of funds. Why that's important to us is we want to make sure that every manager is very meaningful to our portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5021,
+      "timestamps": []
+    },
+    {
+      "end": 5774,
+      "excerpt": "So every one of our funder funds will have anywhere from 15 to 20 names, sometimes even less than 15 managers. And we want to make sure that if a manager outperforms, they meaningfully impact our overall portfolio. What we don't want is 30 to 50 line items in a funder funds. If a manager 10 X is their fund, they don't really impact the overall fund level returns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5409,
+      "timestamps": []
+    },
+    {
+      "end": 6130,
+      "excerpt": "Another thing that we do that's somewhat contrarian is we tend to size managers equally. So take a 30 to 40 million fund and compare that to 500 million venture fund. We would size that commitment equally across the two. And we are fine taking concentration risk and being more than half of the fund. We actually just did the fund on the blockchain side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5776,
+      "timestamps": []
+    },
+    {
+      "end": 6499,
+      "excerpt": "$20 million fund. We took 15 of the 20. Thank you. When we have conviction, we do invest with conviction, and we make sure that each manager, whether it's a $25 million small fund or $500 million fund, they equally can impact the portfolio. So I think concentration, the level of conviction with which we invest, are some of the ways we have differentiated ourselves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6132,
+      "timestamps": []
+    },
+    {
+      "end": 6840,
+      "excerpt": "And we run a lot of analysis. We want a single fund to be able to return at least half of our funder funds. Our top 10 portfolio companies can return multiples of our overall funder funds. So we care about concentration quite a lot. And by the way, the same we preach for underlying managers and emerging managers, which we can talk about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6501,
+      "timestamps": []
+    },
+    {
+      "end": 7124,
+      "excerpt": "Gopi Rangan: It's great to see that you lead with concentration. Many limited partners have rules that they don't want to be more than 10 percent of a fund or 20 percent of a fund. And here you are, you're willing to go way above than 50 percent of a fund and have high conviction. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6842,
+      "timestamps": []
+    },
+    {
+      "end": 7963,
+      "excerpt": "Aram Verdiyan: By the way, I just want to make a comment on that because I have a lot of conversation with emerging managers and they, a lot of the times they'll say, \"well, my fund is X, but I'm talking to this LP who says they can't be more than 10%. So I think I need to raise a bigger fund in order for them not to be 10%.\" And to me, that's a big issue, actually, because your fund size is your strategy. Your fund side should never be the input. It should be the output. And your input should be: where is my expertise level? How much can I get in a company? How many companies can I invest in? Over what period of time? Including follow ons, plus management fees, that's my fund size. The other way around, if I raise a certain amount, but I don't really know how to allocate that much, that presents a lot of problems long term. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 7126,
+      "timestamps": []
+    },
+    {
+      "end": 8116,
+      "excerpt": "Gopi Rangan: That turns into like wishy washiness in their view of how they want to build their strategy, their portfolio construction and all of that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7965,
+      "timestamps": []
+    },
+    {
+      "end": 8456,
+      "excerpt": "Aram Verdiyan: It's hard to say no to money though, Gopi. Like a top down approach for an LP saying, you know, just raise a hundred and I'll give you ten million. Yeah. But then another LP like us would say, but the 50 is the right size. It's hard. I understand the human psychology of wanting to take the capital and raise a bigger fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 8118,
+      "timestamps": []
+    },
+    {
+      "end": 8592,
+      "excerpt": "Gopi Rangan: It happens on the startup side as well. When an investor comes in and says that, \"Raise more, then we'll give you more. \"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8458,
+      "timestamps": []
+    },
+    {
+      "end": 8674,
+      "excerpt": "Aram Verdiyan: Same dilution, raise more. It's hard to say no to that. Totally. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 8594,
+      "timestamps": []
+    },
+    {
+      "end": 8871,
+      "excerpt": "Gopi Rangan: I know. There are LPs who believe that diversification matters and larger portfolio is great. There are some theories around that as well, both for VC funds and for limited partners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8676,
+      "timestamps": []
+    },
+    {
+      "end": 9038,
+      "excerpt": "What's your response to them? There are no credible family offices and fund of funds that actively build a larger portfolio. That is contrary into what you believe. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8873,
+      "timestamps": []
+    },
+    {
+      "end": 9195,
+      "excerpt": "Aram Verdiyan: Yeah, so I think it depends how you define diversification. Do you need to be more diversified than a few venture managers? Yes, absolutely.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 9040,
+      "timestamps": []
+    },
+    {
+      "end": 9518,
+      "excerpt": "The power lot dynamics in venture have existed since inception, which means forget the funds; let's look at the outcomes distributed realized outcomes in venture. Going back 40, 50 years and looking to today, typically a very, very small percentage sub one percent of the companies will drive the majority of the returns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9197,
+      "timestamps": []
+    },
+    {
+      "end": 9862,
+      "excerpt": "Now, you can look at the most recent IPOs that have happened and look at the cap table and look at who was early in those companies, and there's very few firms typically. So if sub 1 percent of companies drive the majority of the returns, typically sub 1 percent of firms also are the ones who are leading the pre-seed, seed, series A rounds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9520,
+      "timestamps": []
+    },
+    {
+      "end": 10304,
+      "excerpt": "So I would argue that the list of top decile, top 5%, top 1 percent firms consistently is very small. Diversification is important, but over diversifying in venture could result in index like returns. And we always say that if you're getting the average return in venture, you might as well just invest in the public markets, not take the 10 year lock up, because the average return in venture is not great because of the parallel dynamics.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9864,
+      "timestamps": []
+    },
+    {
+      "end": 10694,
+      "excerpt": "Gopi Rangan: Now when founders start companies, they are patient; they put a lot of value on equity and they wait for years to see value in that equity turn into liquid cash. VCs who invest in that have even more patience because they have to wait longer for a whole portfolio to mature. And LPs like you have to be far more patient than the VC because your returns are 10 plus years out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10306,
+      "timestamps": []
+    },
+    {
+      "end": 10866,
+      "excerpt": "Yeah. And in that world, if you aren't aiming to be the top funds. It may not be worth it. Average is not the goal that you've set for yourself. You want to be the best. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10696,
+      "timestamps": []
+    },
+    {
+      "end": 11031,
+      "excerpt": "Aram Verdiyan: Yeah. By the way, again, like I said all this, but you can have an outcome of $300m to $400m and it's a great outcome for everyone around the table.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 10868,
+      "timestamps": []
+    },
+    {
+      "end": 11324,
+      "excerpt": "Like there are seed funds, pre-seed funds, they can own 10 to 20 percent upfront. They get diluted along the way, but a $300m to $400m outcome can return your fund, sometimes even multiples of your fund. So you need to have the right fund strategy fund math for what you're doing in venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11033,
+      "timestamps": []
+    },
+    {
+      "end": 11643,
+      "excerpt": "And you don't necessarily have to shoot for that top 0. 1 percent outcomes to get a 3 to 5 X fund. That's great if you do. By the way, if you get a 0. 1 percent outcome as an emerging manager, you shouldn't have a 3 to 5 X fund. You shouldn't have a 10 X plus fund And that's a, that's a sort of a rare outlier event.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11326,
+      "timestamps": []
+    },
+    {
+      "end": 11837,
+      "excerpt": "But in a non outlier setting, you should still be able to model out the three to five X return. But that's where the fund math comes in, which is fund size, portfolio construction, et cetera. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11645,
+      "timestamps": []
+    },
+    {
+      "end": 11967,
+      "excerpt": "Gopi Rangan: What kind of funds do you like to invest in? Do you like to invest in concentrated funds or more diversified funds?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11839,
+      "timestamps": []
+    },
+    {
+      "end": 12403,
+      "excerpt": "Aram Verdiyan: Yeah, I don't know if there's like a set number of companies, but it has to be a bottoms up approach of we like pre-seed, seed managers that typically can lead or co-lead rounds. That is most often, at least 10 percent ownership at entry, sometimes a lot higher than that. But although I do think it's really hard to get 20 plus percent ownership today, back in 2008, 2009, when there were 20 firms, it was much easier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 11969,
+      "timestamps": []
+    },
+    {
+      "end": 12740,
+      "excerpt": "It's a far more efficient market, and we're more wary of adverse selection. So, but we are looking for 10 to 15 percent plus, if possible, initially. So that with dilution, you still end up around 10%, maybe slightly less at exit. Then, depending on the fund size you have. $500m to $750 million exit can return more than 1x your fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12405,
+      "timestamps": []
+    },
+    {
+      "end": 13475,
+      "excerpt": "$1b plus exit gives you that home run opportunity at a fund level return. by the way, I do think leading/co-leading in precede consistently is very hard because it's really competitive. We have now looked at over 1000 seed funds. Pricing is hard. And so you do have to be early and you do have to bring something to the table for that entrepreneur to say, I'm willing to take your price, your level of ownership that you want, and why you are on the table. It's a fairly high qualitative signal. By the way, I'm not saying the over diversified approach doesn't work. There are firms that can defy what I just said. There are a number of firms I can think of that have done well. I just think it's really hard to do that consistently.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12742,
+      "timestamps": []
+    },
+    {
+      "end": 13685,
+      "excerpt": "Gopi Rangan: How many relationships do you have in the venture capital asset class at Accolade? Can you give a breakdown of like large funds, small funds, emerging managers, get an overview of where you are? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13477,
+      "timestamps": []
+    },
+    {
+      "end": 13978,
+      "excerpt": "Aram Verdiyan: We have close to 70 active relationships, but that spans early stage venture, pre seed seed, growth equity to blockchain, about a third to half of that isn't on the venture side. We try to invest early at fund one or fund two. I call it the first institutional fund they have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 13687,
+      "timestamps": []
+    },
+    {
+      "end": 14040,
+      "excerpt": "We try to get on the bus then and grow with them over time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13980,
+      "timestamps": []
+    },
+    {
+      "end": 14253,
+      "excerpt": "Gopi Rangan: Okay. The first institutional fund could be fund three, where the previous two funds could be family offices or high net worth individuals who are LPs and fund three is the first institutional LPs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14042,
+      "timestamps": []
+    },
+    {
+      "end": 14341,
+      "excerpt": "Aram Verdiyan: Yes, theoretically, yes. It usually ends up being fund one or fund two.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 14255,
+      "timestamps": []
+    },
+    {
+      "end": 14707,
+      "excerpt": "If it's a fund one, that means they spun out from another firm or they had some track record that's institutional enough for us to get comfortable. Usually it's a fund two. where fund, they had maybe an angel track record. They started to deploy their first fund, which was not institutional. They had friends and family money, maybe a few family offices invested.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14343,
+      "timestamps": []
+    },
+    {
+      "end": 14948,
+      "excerpt": "And then fund two is when they are stepping on the gas and saying, I want to make this even more institutional. So we've done both fund ones and twos. We will do fund threes as well, if it meets the criteria the way you exactly described. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14709,
+      "timestamps": []
+    },
+    {
+      "end": 15098,
+      "excerpt": "Gopi Rangan: How long does it take for you to build that relationship, develop conviction, and decide that, yes, this is a fund I want to invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14950,
+      "timestamps": []
+    },
+    {
+      "end": 15185,
+      "excerpt": "Aram Verdiyan: It varies. I mean, some have taken years, some have taken a lot less. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 15100,
+      "timestamps": []
+    },
+    {
+      "end": 15273,
+      "excerpt": "Gopi Rangan: Can you give an example? Pick one company, one firm from your portfolio. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15187,
+      "timestamps": []
+    },
+    {
+      "end": 15501,
+      "excerpt": "Aram Verdiyan: Yeah, I'll give you one extreme case on both ends. I mean, there is a manager we backed. We have known him for eight years. We invested in fund two. This person has stayed very close to the firm for a long time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 15275,
+      "timestamps": []
+    },
+    {
+      "end": 15840,
+      "excerpt": "He got together with his co founding GP. They started a fund. It was a bit too early for us to invest. In hindsight, we should have invested. They've done very well, but this is someone we tracked before they even thought about raising a fund. They were local in D. C. So we got to know them. We always knew they'll do something special.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15503,
+      "timestamps": []
+    },
+    {
+      "end": 16153,
+      "excerpt": "And at some point we'll back them. So I would say we've gone to know that individual for seven years, but that's unusual. In other instances, it's been much quicker than that, where we got to know manager over uh, Maybe half a fund cycle or so. And in preparation for the next fund, we got there pretty quickly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15842,
+      "timestamps": []
+    },
+    {
+      "end": 16472,
+      "excerpt": "I mean, there have been situations where we have known an individual as soon as they spun out, joined X firm or started their firm. We backed them and we're an anchor LP. I would say we do like to get to know managers over time. It's not like 1 to 2 months we're making the commitment. That's not part of our process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16155,
+      "timestamps": []
+    },
+    {
+      "end": 17103,
+      "excerpt": "And our job is to get to know people early. And it's a two way partnership where we want to invest and not be a million dollars over 50 million fund. We want to be arguably their biggest LP. So we want that manager to get to know us as much as we're getting to know them. Because we're running concentrated, we look at this as a very long term partnership, and we have really close relationships with our GPs. I would like to believe that if you called any of our managers and said, \"who are your top LPs who can add value, who have been there for you?, we would be on their list consistently, which is why it's a two way street.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16474,
+      "timestamps": []
+    },
+    {
+      "end": 17468,
+      "excerpt": "Gopi Rangan: Your behavior is very similar to a good VC. Like, that's what VCs want to do as well. I see there are large firms like QED and Accel and Andreson Horowitz. They always get a lot of marketing splash, but I want to talk about the new firms, the unusual firms, like Equal Ventures and Zeev Ventures, Notation and Mucker and Foundry, those kind of firms.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17105,
+      "timestamps": []
+    },
+    {
+      "end": 17592,
+      "excerpt": "Can you pick an example? How did you meet the GP? What happened in that first meeting? What questions did you ask the GP? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17470,
+      "timestamps": []
+    },
+    {
+      "end": 17748,
+      "excerpt": "Aram Verdiyan: Yeah, most of our introductions to other managers, they come from just our network at this point and that is primarily from other managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 17594,
+      "timestamps": []
+    },
+    {
+      "end": 18197,
+      "excerpt": "But in the case of, I mean, every single one of the firms you mentioned has come from introduction from either really close source we had or another general partner of ours or one of our managers in our portfolio. I think for all those, and we can go through the list, I mean. Mucker, Equal, they all had unique aspects that we really liked, whether that was, they already had a track record, incredible reputation and pedigree in a specific area.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17750,
+      "timestamps": []
+    },
+    {
+      "end": 18638,
+      "excerpt": "So for someone like Mucker that was in L. A., for someone like Equal that's looking at large legacy industries that can be disrupted with software, and Rick Zullo and Richard Kerby had already done a lot of that before. We track them for a fund in marker marker is actually great example fund three first institutional fund where like we became their largest investor and then we do a lot of references like it's a big part of our process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18199,
+      "timestamps": []
+    },
+    {
+      "end": 18995,
+      "excerpt": "They obviously have to check the box on pedigree reputation track record portfolio construction. Then we spent a lot of time talking to the actual founders and understanding why they pick them, how they add value, how are they like compared to other investors? And that process can be multi months. But if we get through that, then our team gets involved.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18640,
+      "timestamps": []
+    },
+    {
+      "end": 19234,
+      "excerpt": "They do OED legal and then we'll make a commitment. But our process is not. It actually sounds very simple in practice. We do have, I think, a lens of what we'd like on the emerging and seed managers, and it's worked really well for us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18997,
+      "timestamps": []
+    },
+    {
+      "end": 19329,
+      "excerpt": "Gopi Rangan: Why does it take so long compared to so many things we do in the business world?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19236,
+      "timestamps": []
+    },
+    {
+      "end": 19409,
+      "excerpt": "This feels like it takes like a long time. Why does it take such a long time? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19331,
+      "timestamps": []
+    },
+    {
+      "end": 19586,
+      "excerpt": "Aram Verdiyan: Yeah, so let me give you an example. So let's say someone spins out and they're starting their fund for the first time, but they haven't led deals on their own.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 19411,
+      "timestamps": []
+    },
+    {
+      "end": 19941,
+      "excerpt": "It's always been part of another firm or part of another institution. They're looking to lead deals on their own. Now, the references come back and they're very positive, but we still have questions whether this GP can do everything on their own or do they need to build a track record first and show that they can lead and colleague deals on their own.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19588,
+      "timestamps": []
+    },
+    {
+      "end": 20346,
+      "excerpt": "There could be a scenario. We want to track them for one fund and see, can they do what they say they're going to do? There could be an instance where we get really comfortable. And it's a shorter process and we can get there fairly quickly. So I think it's a case by case. You mentioned Zeev Ventures. So Oren Zeev is a good example of someone who has an incredible reputation in the Israeli community.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19943,
+      "timestamps": []
+    },
+    {
+      "end": 20731,
+      "excerpt": "You can reference him all day with every Israeli entrepreneur. He gets great references. The pedigrees there. The track record obviously speaks for itself. I mean, something like that is different from like fund one that's spinning out and like you have questions whether this individual was themselves making the investments? Were they because they were part of another firm or not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20348,
+      "timestamps": []
+    },
+    {
+      "end": 20917,
+      "excerpt": "So it really depends like if we can't get high conviction early on, we would want to track the person or that individual for a whole fund cycle. Maybe that does take too long, though. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20733,
+      "timestamps": []
+    },
+    {
+      "end": 21063,
+      "excerpt": "Gopi Rangan: It does take time. There are lots of questions, and I recognize that there is so much ambiguity. A lot of things need to be proven.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20919,
+      "timestamps": []
+    },
+    {
+      "end": 21323,
+      "excerpt": "Even after you commit to invest, more new things come up after the investment is made. And that's true about VCs investing in startups or any business relationships. It's really hard to know so many different things that are unknown and uncover all of that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21065,
+      "timestamps": []
+    },
+    {
+      "end": 21445,
+      "excerpt": "Aram Verdiyan: And by the way, like one thing you could say is like, \"well, why don't you just invest a million dollars?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 21325,
+      "timestamps": []
+    },
+    {
+      "end": 21856,
+      "excerpt": "And then if they do well, then the next funds you'll do 20 million?\" But that's hard, right? So I get that. But here's the problem with that, Gopi. Let's say we do a million starter check with someone as a pilot, and let's say they're massively successful. We got it right. It's very hard to go from a million to then sizing it appropriately in the next one, unless they're going to 5 to 10 X their fund size.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21447,
+      "timestamps": []
+    },
+    {
+      "end": 22094,
+      "excerpt": "But then if they do that, the whole strategy changes too. So we want to be early and have high conviction with the manager. Because of that, it might take us a fund cycle to get to know a manager before we make an investment with them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21858,
+      "timestamps": []
+    },
+    {
+      "end": 22368,
+      "excerpt": "We don't do a lot of these option checks of $1 million to 30 managers, and then we'll pick three of them that rise up from that group and double down. I think doubling down is very hard because the ones you want to double down with are really hard to 20x your commitment. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22096,
+      "timestamps": []
+    },
+    {
+      "end": 22625,
+      "excerpt": "Gopi Rangan: I share this with you because It's been a confusing thing, and I haven't fully wrapped my head around how the LP world works. I understand the startup world, and I understand how VCs work, and I'm learning how the limited partner world works.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22370,
+      "timestamps": []
+    },
+    {
+      "end": 23038,
+      "excerpt": "Aram Verdiyan: By the way, it's not very different from the, like, a traditional VC, when we hear that, \"oh, we're going to take a really small position in a company, but then the next round, if they do well, we're going to do well a lot more.\" The problem is that that company breaks out. Yes. Every big firm you just mentioned is going to be looking at that company and they're going to mark up the valuation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 22627,
+      "timestamps": []
+    },
+    {
+      "end": 23249,
+      "excerpt": "So sure, maybe you can come in, but you, it's your small funds eyes for you to get 10, 20 percent ownership at that stage becomes close to impossible. So you have to be early and have the conviction early on. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23040,
+      "timestamps": []
+    },
+    {
+      "end": 23457,
+      "excerpt": "Gopi Rangan: And the VCs and so do LPs, they don't have the option to invest in a bunch of competitors and see who comes up that you have to go with conviction with one person and not take a high ownership.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23251,
+      "timestamps": []
+    },
+    {
+      "end": 23794,
+      "excerpt": "Aram Verdiyan: I will caveat there are some strategies in emerging management that are interesting where you can preempt or like come in in between the rounds and build up your ownership as an LP. You can't do that in a fund, but unless you buy secondaries from other LPs, that is hard to do. But I've seen that be successful at times.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 23459,
+      "timestamps": []
+    },
+    {
+      "end": 24117,
+      "excerpt": "Gopi Rangan: We talked a lot about how the initial investment happens, how you start the relationship and how you add one manager after a lot of due diligence. What happens after that? Like when the next fund, subsequent fund starts, what's your engagement? What's your cadence of involvement? What's a good relationship?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23796,
+      "timestamps": []
+    },
+    {
+      "end": 24142,
+      "excerpt": "How does it look like? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24119,
+      "timestamps": []
+    },
+    {
+      "end": 24538,
+      "excerpt": "Aram Verdiyan: So it's, it's a two way partnership, as I said. I do truly believe that if you called any of our managers and ask them that question about, like, who are your top three closest partners who can add value, who know the space really well, who have been in your quarter on good days and bad days do believe we're going to be on that list consistently to us, that's really important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 24144,
+      "timestamps": []
+    },
+    {
+      "end": 24864,
+      "excerpt": "When we back someone, we talk to them. I mean, periodically, I mean, there's no like set formula, but we're very close with our managers. The beauty of being concentrated is you don't have too many relationships. So you intimately get to know not just the one GP who's running the firm, but other people at the organization.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24540,
+      "timestamps": []
+    },
+    {
+      "end": 25204,
+      "excerpt": "We have, in fact, at times we've gone to know portfolio companies and added value to them. I remember for one of our seed managers, for one of their portfolio companies, after every meeting, we tend to ask them, like, how can we help you? Is there any way we can help the portfolio companies? And we helped one of the portfolio companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24866,
+      "timestamps": []
+    },
+    {
+      "end": 25624,
+      "excerpt": "I hire their CEO. We made a number of introductions, and we do that consistently. We've made customer introductions to companies. We have helped connect GPS to each other to do a transaction together. Or if someone is looking for an expert in FinTech or government, we can help with that as well. So the relationship is two ways, and we try to add value wherever we can, and then we track the portfolio fairly closely.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25206,
+      "timestamps": []
+    },
+    {
+      "end": 25835,
+      "excerpt": "I mean, we have a CRM that goes back 23 years. It took us a long time to build it, but we can track every company under every fund under every firm. They can give us analytics pretty quickly on the portfolio. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25626,
+      "timestamps": []
+    },
+    {
+      "end": 26039,
+      "excerpt": "Gopi Rangan: I see that because you have such a concentrated portfolio you have. Tight relationships with the GPS and you know what's going on in their business and you're proactively able to help them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25837,
+      "timestamps": []
+    },
+    {
+      "end": 26181,
+      "excerpt": "Can you give examples of like the top two or three most common questions that we see is come to you with? What happens in the LPAC meeting? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26041,
+      "timestamps": []
+    },
+    {
+      "end": 26380,
+      "excerpt": "Aram Verdiyan: I find LPAC meetings to be very bland usually because, but the LPAC meetings will cover things like conflicts of interest, cross fund investing, extension of funds, the usual things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 26183,
+      "timestamps": []
+    },
+    {
+      "end": 26694,
+      "excerpt": "I think in the one on one meetings you get a lot more with the managers, typically, than you do in the LPAC meetings. I think one of the things we've always talked, especially with emerging managers, is they have a position that's very large. It's a big percentage of the fund. It could be multiples of the fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26382,
+      "timestamps": []
+    },
+    {
+      "end": 27113,
+      "excerpt": "Should they take some money off the table? Or should they not? How do they think about that? That's a conversation that came up a lot in 2020 and 2021 when valuations were crazy and everyone was marking up their deals. I think there is times when There is a follow on to be done in a company and whether the opportunity fund or the next fund should do it or whether they should not, which fund it should be done from.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26696,
+      "timestamps": []
+    },
+    {
+      "end": 27597,
+      "excerpt": "That's also a conversation that comes up quite a lot. So I think it's around liquidity. It's around specific portfolio companies. It's around cross fund investing, and it's around Conflicts of interest. Those are, I would say, the typical things that come up. And then sometimes it's also staffing related, like you're thinking of promoting someone or you're thinking of how to compensate someone, like we would be very engaged in those conversations as well - team related things. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27115,
+      "timestamps": []
+    },
+    {
+      "end": 27723,
+      "excerpt": "Gopi Rangan: Some of these things feel like administrative work, but these are actually very exciting conversations to have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27599,
+      "timestamps": []
+    },
+    {
+      "end": 28015,
+      "excerpt": "Aram Verdiyan: I would imagine for someone who is on fund one, fund two. Yeah, I think. I think there's, there's a lot of value in that. So the LPAC is helpful, I think. But I also think having those one on one conversations with your LPAC members, your biggest LPs is really important too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 27725,
+      "timestamps": []
+    },
+    {
+      "end": 28465,
+      "excerpt": "Gopi Rangan: For those of you listening, LPAC is the Limited Partner Advisory Council, typically a small subset of limited partners serve on the LPAC, mostly a volunteer role where LPs take interest in supporting the evolution of the fund. So now let's talk about the subsequent fund. Fund sizes typically increase. What's a range that feels like this is normal? What's the limit above which it feels like \"okay, this is getting too big too soon\"? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28017,
+      "timestamps": []
+    },
+    {
+      "end": 28693,
+      "excerpt": "Aram Verdiyan: So I'm gonna go back to the answer I gave before. It's a bottoms up approach. It's not I'm going from 50 to 100 because everyone is doing it. And that's market. I'm not going from 50 to 75 because that's market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 28467,
+      "timestamps": []
+    },
+    {
+      "end": 29002,
+      "excerpt": "It's what is the right fund size for your strategy? If you said I'm writing $1million checks, getting 10 percent ownership, I have 20 to 25 shots on goal with the reserves and management fees. I'm at $50m to $60m. That's fun one. And then you said, I'm looking to build out my ownership even more initially.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28695,
+      "timestamps": []
+    },
+    {
+      "end": 29339,
+      "excerpt": "And I've done that a number of times where I have 1. 5 to 2 million checks and fund one where I'm getting 15 plus percent ownership. I think I can do that more. And you should go talk to all the fund one companies where I could have done that. It's the majority of them so I can increase my initial check size to one and a half to two.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29004,
+      "timestamps": []
+    },
+    {
+      "end": 29689,
+      "excerpt": "I want to keep the same level of concentration 20 to 25 companies with the reserves. I'm looking closer to 75 to 100. 50 to 100 works. But if you don't have that story to how you get there, it's harder to justify a bigger fund. If you look at our funds, our funds in 20 plus years have gone from like 150 to 400 to 500 million dollar fund of funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29341,
+      "timestamps": []
+    },
+    {
+      "end": 30010,
+      "excerpt": "But if you asked us what has changed, the portfolio construction has stayed close to identical. We're just writing bigger checks per manager. And we are getting close to the local maximum of how much we can write an emerging manager because 20 to 25 million is probably the most you can get in a fund one or a fund two.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29691,
+      "timestamps": []
+    },
+    {
+      "end": 30320,
+      "excerpt": "So you can't scale your fund. And if you do, then that small manager is no longer as meaningful to your overall portfolio. And then there's other creative ways you can try to scale your firm. Like instead of blowing up that one fund where you're writing the precede seed check, that can be really meaningful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30012,
+      "timestamps": []
+    },
+    {
+      "end": 30635,
+      "excerpt": "You can have a small opportunity fund for your best deals. But keep your main fund small. I'm not suggesting you should have an opportunity, but if you are looking to do more follow ons and there is some capacity for later opportunities, that could make more sense versus saying, I need to quadruple my fund size.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30322,
+      "timestamps": []
+    },
+    {
+      "end": 31001,
+      "excerpt": "Gopi Rangan: The kind of brand a VC builds for himself or herself, the kind of entrepreneurs they tend to attract based on what they do, the stage at which they invest. All of these things, if they stay consistent, it's a lot more comfortable for limited partners. If suddenly the manager changes and says, well, I'm going to go later stage or go bigger ownership.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30637,
+      "timestamps": []
+    },
+    {
+      "end": 31165,
+      "excerpt": "I'm going to start leading all these investments. And prior to that, I was a small co investor. Then the story becomes a little jarring and harder to get behind. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31003,
+      "timestamps": []
+    },
+    {
+      "end": 31344,
+      "excerpt": "Aram Verdiyan: It works, by the way. It's just if you are going to change your story drastically like that, have some proof points in the previous fund where you are doing that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 31167,
+      "timestamps": []
+    },
+    {
+      "end": 31747,
+      "excerpt": "Don't go from I'm getting 1 to 2 percent ownership to now I'm going to get 10 to 20. But you haven't done that at all in the previous fund. And show that you could have done that in the companies you invested and you just didn't have the capital and you were capital constrained. So I think if you can tell a story with data around it and the references support that, it is possible to make that leap.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31346,
+      "timestamps": []
+    },
+    {
+      "end": 31919,
+      "excerpt": "I still think you're going to hit a local maxima in pre-seed, seed, like, it's very hard to run a multi hundred million dollar fund and say you're a pre-seed, seed firm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31749,
+      "timestamps": []
+    },
+    {
+      "end": 32168,
+      "excerpt": "Gopi Rangan: Yes. A lot of things have changed in the past 10 years. I'm not talking about the macroeconomic changes, but specifically about trends in venture capital. Multistage funds, solo GP funds, sector focused funds, geography focused funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31921,
+      "timestamps": []
+    },
+    {
+      "end": 32456,
+      "excerpt": "So many themes have evolved. What are some themes that you're excited about? What are some themes that you're not very excited about, you're scared of, and you wouldn't invest in those type of themes. As a solo GP, I'm very curious to see your perspectives on how you look at solo GPs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32170,
+      "timestamps": []
+    },
+    {
+      "end": 32860,
+      "excerpt": "Aram Verdiyan: We have backed solo GPs before, like we don't have any restraints against that. Like we backed Wonder Ventures solo GP, we backed Tim Connors early on solo GP, we backed Oren Zeev as you mentioned, solo GP. So we don't have any constraints around that. We look at all those things that you mentioned, sector specific, geographic specific, generalist seed. We would consider all of them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 32458,
+      "timestamps": []
+    },
+    {
+      "end": 33295,
+      "excerpt": "For us, I think it's a very like returns driven lens of all the things that we mentioned for us to get comfortable with the manager. If it's a sector specific manager, we would like to get comfortable. Is the sector large enough to support a dedicated fund? Doesn't mean we're gonna hire McKinsey to do a whole report on the market, but we are going to talk to everyone in that space to get a better sense in terms of other managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32862,
+      "timestamps": []
+    },
+    {
+      "end": 33617,
+      "excerpt": "Even downstream investors are investing in the space. Look at what types of outcomes have happened. What kind of funding levels have been required? Is there enough downstream capital to support those companies if it's a sector specific fund? And what are the exit outcomes and the exit multiples in that specific sector?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33297,
+      "timestamps": []
+    },
+    {
+      "end": 34100,
+      "excerpt": "Now you take that and you look at the fund strategy. Okay, well, in this sector, things are exiting at five times revenues. Okay, that's not great, but let's say that that is the case. So then you're looking at at 100 million run rate. You're looking at 500 million exit. Okay, so what type of a fund do I need to have if I have 3 to 5 of those 500 million exits to get a 5X fund so that the sector exit outcomes actually dictate the type of strategy and fund size you should have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33619,
+      "timestamps": []
+    },
+    {
+      "end": 34179,
+      "excerpt": "So if there is a specific sector focus fund, do we do that kind of analysis? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34102,
+      "timestamps": []
+    },
+    {
+      "end": 34414,
+      "excerpt": "Gopi Rangan: So you're pretty broad minded. You want to hear the story. You want to hear the thesis and you form conviction based on what's in front of you versus coming up with preconceived notions on this person that doesn't work. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34181,
+      "timestamps": []
+    },
+    {
+      "end": 34492,
+      "excerpt": "Aram Verdiyan: Yes. The one exception I forgot to mention this is geography.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 34416,
+      "timestamps": []
+    },
+    {
+      "end": 34937,
+      "excerpt": "So for blockchain, we are global. We have always done this since day one, but for traditional venture and growth equity, we have only stayed in the U. S. That is not to say there isn't a great opportunity set outside of the U. S., but we have a small team and for us to have a local advantage in terms of deal flow, the ability to get into funds, the ability to size meaningful into funds, I don't think it necessarily exists outside of the U.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34494,
+      "timestamps": []
+    },
+    {
+      "end": 35629,
+      "excerpt": "S. We would need boots on the ground, not someone like me traveling one week a month or one week a quarter, but someone being there full time and maybe a team being there full time. We know what we're good at, and I think we have done a really good job in early stage U. S. We don't necessarily have that competitive advantage outside of the U. S. Blockchain is different. We've had that since day one. So we look at Europe, Asia, but if I wanted to look at Latin American VC. I wouldn't know how to comp that firm. And I wouldn't know if I'm adversely selected to look at that firm, because I haven't looked at anything else. And why haven't local funder funds already picked up that firm?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34939,
+      "timestamps": []
+    },
+    {
+      "end": 35738,
+      "excerpt": "Gopi Rangan: You mentioned blockchain many times. I'm thinking about whether I really want to go into more.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 35631,
+      "timestamps": []
+    },
+    {
+      "end": 35788,
+      "excerpt": "Aram Verdiyan: How much time do you have, Gopi? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 35740,
+      "timestamps": []
+    },
+    {
+      "end": 35901,
+      "excerpt": "Gopi Rangan: Yeah, that's fine. I think we can spend a couple of hours on this topic. Keep it at a high level. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 35790,
+      "timestamps": []
+    },
+    {
+      "end": 35957,
+      "excerpt": "Aram Verdiyan: Have you done any blockchain in Fund1? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 35903,
+      "timestamps": []
+    },
+    {
+      "end": 36051,
+      "excerpt": "Gopi Rangan: My previous fund before I started Sure Ventures. I was an investor in Coinbase.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 35959,
+      "timestamps": []
+    },
+    {
+      "end": 36308,
+      "excerpt": "And around the time I filed for like six patents, I geeked out on Blockchain technology. I spent four hours with Vitalik before he created Ethereum, or in the early days of creating Ethereum. So I've been geeking out on that, but I haven't invested in... ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36053,
+      "timestamps": []
+    },
+    {
+      "end": 36439,
+      "excerpt": "Aram Verdiyan: Oh, you should have invested in the Genesis Mint, and then you wouldn't be here talking to me right now, probably.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 36310,
+      "timestamps": []
+    },
+    {
+      "end": 36740,
+      "excerpt": "Gopi Rangan: I did buy some Bitcoins in 2014 /15, and I'm holding on to it, hodling to see how far it goes. I haven't invested in this space. I mainly focus on traditional B2B software companies. Yep. Or legacy industries. How is investing in blockchain different from investing in traditional VCs? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 36441,
+      "timestamps": []
+    },
+    {
+      "end": 36783,
+      "excerpt": "Aram Verdiyan: It's very different, Gopi.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 36742,
+      "timestamps": []
+    },
+    {
+      "end": 37165,
+      "excerpt": "So everything is different - from sourcing to diligence execution to post investment work. Everything is different. The sourcing is happening on many different channels. It's happening on the telegrams and other channels that are not traditionally happening in traditional venture. The channels on which you communicate, the channels by which you get deal flow are very different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36785,
+      "timestamps": []
+    },
+    {
+      "end": 37952,
+      "excerpt": "Due diligence is also very different because you need to have some background in distributed systems and cryptography and do actual blockchain level due diligence. You need to be a lot more technical. Post investment, depending on the type of company you have. But let's talk about a blockchain network, which could have a token. And we can argue what the token does, whether it's a customer acquisition engine, whether it could accrue value in some ways, whether it's a utility token, etcetera. But there is an active level of participation in the community that's very different from sitting on the board of a company. So the motions of you sourcing a deal to doing due diligence to then, the I use in quotation sitting on a board of the blockchain company, are incredibly different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37167,
+      "timestamps": []
+    },
+    {
+      "end": 38274,
+      "excerpt": "By the way, that's the main reason why you saw spin outs from all the firms, not all, but a lot of that visible firms to start dedicated funds, because it was very hard to be that one person out of a 20 partnership doing blockchain. And every Monday morning meeting, you're just educating everyone on what blockchain is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37954,
+      "timestamps": []
+    },
+    {
+      "end": 38595,
+      "excerpt": "Instead, you can have your own dedicated firm with a dedicated research team that's technical in cryptography and distributed systems and prosecute the space. Similarly at Accolade, we decided that for us to do blockchain right, it's not enough to pick our traditional venture portfolio and have one blockchain manager.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38276,
+      "timestamps": []
+    },
+    {
+      "end": 38719,
+      "excerpt": "We need a dedicated blockchain fund of funds with 15 to 20 shots on goal. So we created a dedicated effort there as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38597,
+      "timestamps": []
+    },
+    {
+      "end": 39062,
+      "excerpt": "Gopi Rangan: It's great to see that you think from first principles, and it's very difficult to group everything together and have blockchain as one of the verticals. If you do private dinners, and that's your way of building relationships with founders in the blockchain world, you got to get into private telegram groups and signal groups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 38721,
+      "timestamps": []
+    },
+    {
+      "end": 39193,
+      "excerpt": "And that's a very different style of establishing network in that world. I see that you have a very thoughtful approach to that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39064,
+      "timestamps": []
+    },
+    {
+      "end": 39669,
+      "excerpt": "Aram Verdiyan: I think it's very hard as a generalist to do blockchain, even today, like, by the way, we have now looked at over 400 dedicated blockchain funds. I don't see how a generalist firm can compete against those firms. My colleague says this really well. He says, well, think of a tech firm investing in biotech. Well, good luck competing with the arch and the third rocks and the flagships and orbits of the world that have huge staffs and all they do is biotech. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 39195,
+      "timestamps": []
+    },
+    {
+      "end": 39870,
+      "excerpt": "Gopi Rangan: You've been in the venture world, you've observed this, you've actually influenced how this ecosystem shapes up. What's one thing you would like to change to make this ecosystem better? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 39671,
+      "timestamps": []
+    },
+    {
+      "end": 40182,
+      "excerpt": "Aram Verdiyan: I think there should be a higher emphasis on real valuations and what realized outcomes could be versus markups in portfolios. Even today, with the correction we've had and the valuations coming down both in the private and public markets, Generally, I do think there is a lot more pain to come.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 39872,
+      "timestamps": []
+    },
+    {
+      "end": 40921,
+      "excerpt": "We did this analysis for our annual meeting, and we grouped private companies from $1b +, $3b +, $5b + and $10b + in last valuation. And we also looked at how many companies - public companies - there are with those same categories, there is about a 10 to 1 ratio of private to public companies in each of those valuation zones to give you aggregate numbers, there's 210 companies that have gone public (software companies) over the past 10 years at over a billion dollar valuations. There's 10 times that number of companies that are private today. Yes, I agree. The tech TAM is larger and outcomes will be larger, but there is a large number of private companies in venture that are still being held and incredibly inflated valuations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40184,
+      "timestamps": []
+    },
+    {
+      "end": 41807,
+      "excerpt": "And you look at the best McLeod index or the highest growing SaaS index. 40 percent plus growth rule of 40 plus is typically at 12 times. There's going to be some premium to that in the private markets. But I still think there is significant mismatch between otal Value to Paid-In Capital (TVPI) and Distributed to Paid-In Capital (DPI). And I do think it's a healthy exercise for a manager with all their LPs. In all their positions to say, \"Here is where my company is today. Here's where it really should be given the repricing that has happened. And here's how long you'll take to get there. And yes, you're my auditors are telling me I shouldn't change that because it's you know, last valuation or whatever option pricing methodology you use. But I do think there is value in doing that exercise as a manager and saying, my DPI might end up being very different from the TVPI.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40923,
+      "timestamps": []
+    },
+    {
+      "end": 41981,
+      "excerpt": "Gopi Rangan: There is a lack of standardization. Everybody uses their own benchmarks. And even within a firm, those benchmarks keep changing on how they do mark to markup. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 41809,
+      "timestamps": []
+    },
+    {
+      "end": 42335,
+      "excerpt": "Aram Verdiyan: And this is my point. Like, don't worry about the auditors. You yourself as a manager, look at the traction of your company. You know your company better than the auditors or your LPs. Look at where the company is going today. Obviously, there's been probably some decline in the projections. I mean, a lot of companies are cutting burn.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 41983,
+      "timestamps": []
+    },
+    {
+      "end": 42686,
+      "excerpt": "So. Maybe your projections are coming down. You're not growing at the levels you thought you would in 2021 when you raised from a tiger global and look at that company and say, \"it's still a great company, but it's going to take three to five years to grow into that valuation. So my evaluation is X on the books, but I'm really thinking it's this.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42337,
+      "timestamps": []
+    },
+    {
+      "end": 42763,
+      "excerpt": "I think that's a healthy exercise. Every manager should do with their LPs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42688,
+      "timestamps": []
+    },
+    {
+      "end": 43046,
+      "excerpt": "Gopi Rangan: That would bring a lot more transparency to the industry. Makes it easy for everybody to understand how to value companies and where the, where there's mismatch and which companies deserve the high valuations and which companies are hyped up will become a lot clearer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 42765,
+      "timestamps": []
+    },
+    {
+      "end": 43225,
+      "excerpt": "We're coming towards our end of our conversation and I want to ask you about your community involvement. Is there a non profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43048,
+      "timestamps": []
+    },
+    {
+      "end": 43434,
+      "excerpt": "Aram Verdiyan: Yeah, so me being Armenian, I was very fortunate to be in the right place in the right time and to meet a number of people, a lot of them here at Accolade, that helped me throughout my career.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 43227,
+      "timestamps": []
+    },
+    {
+      "end": 43877,
+      "excerpt": "I know a lot of people who have taken my journey we're not as fortunate to be where I am today. So when I was in my early twenties, there is a nonprofit called the Armenian General Benevolent Union, and I started our D. C. Practice here, which peak grew to 500 members. It's a Huge organization. It sponsors everything from scholarships to mentorships to placing people in different industries, everything from medical to the finance fields.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43436,
+      "timestamps": []
+    },
+    {
+      "end": 44040,
+      "excerpt": "So very involved there still. And this is my way to give back to the people who were in my shoes and maybe weren't as fortunate to have the opportunities I had. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43879,
+      "timestamps": []
+    },
+    {
+      "end": 44358,
+      "excerpt": "Gopi Rangan: Aram, thank you very much for spending time with me. Thank you for sharing personal experiences. Thank you for engaging me in some debates. It's very healthy to see that you are open to new ideas and you're willing to share about your stories candidly, which rarely happens in the limited partner world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 44042,
+      "timestamps": []
+    },
+    {
+      "end": 44431,
+      "excerpt": "I look forward to sharing your nuggets of wisdom. with the rest of the ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44360,
+      "timestamps": []
+    },
+    {
+      "end": 44502,
+      "excerpt": "Aram Verdiyan: world. Thank you so much for having me on this, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Aram Verdiyan",
+      "start": 44433,
+      "timestamps": []
+    },
+    {
+      "end": 44730,
+      "excerpt": "Gopi Rangan: Thank you for listening to the Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 44504,
+      "timestamps": []
+    },
+    {
+      "end": 44846,
+      "excerpt": "Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44732,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "7e42244ddd3b5478c8f348cbf329e6787a5646cf1fe76993f17e93ce7562fe6a",
+  "text_sha256": "5bbc0bedaf0dff4a0c75426fb0712ff54be6df6d4e5bad4b3b658ec3568dec83"
+}

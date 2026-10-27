@@ -1,0 +1,112 @@
+name: TSSE Archive Sync
+
+on:
+  schedule:
+    - cron: '30 6 * * 2'
+      timezone: America/Los_Angeles
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tsse-archive-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    # Manual runs must use the default branch as well.
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+      actions: read
+    outputs:
+      commit_created: ${{ steps.persist.outputs.commit_created }}
+      revision: ${{ steps.persist.outputs.revision }}
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@83679a892e2d95755f2dac6acb0bfd1e9ac5d548 # v6.1.0
+        with:
+          python-version: '3.12'
+      - name: Restore prior successful operational state
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARCHIVE_REPOSITORY: ${{ github.repository }}
+          ARCHIVE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: python3 -B archive_operations.py restore-status --github-repository "$ARCHIVE_REPOSITORY" --branch "$ARCHIVE_BRANCH"
+      - name: Synchronize and validate the complete candidate
+        run: python3 -B archive_operations.py sync
+      - name: Regression tests
+        run: |
+          python3 -B -m unittest discover -s tests/archive -v
+          python3 -B -m unittest discover -s tests/frontend -v
+          node tests/frontend/sync-status-unit.mjs
+          python3 -B -m unittest discover -s tests/deployment -v
+      - name: Persist validated content only
+        id: persist
+        env:
+          ARCHIVE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          python3 -B archive_operations.py persist --push --branch "$ARCHIVE_BRANCH" > /tmp/archive-persist.json
+          python3 - <<'PY'
+          import json, os, subprocess
+          result = json.load(open('/tmp/archive-persist.json'))
+          revision = subprocess.check_output(['git', 'rev-parse', 'HEAD'], text=True).strip()
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write('commit_created=' + str(result['commit_created']).lower() + '\n')
+              out.write('revision=' + revision + '\n')
+          print(json.dumps(result))
+          PY
+      # Upload only after validation, regression tests and successful Git persistence.
+      # A no-change check uploads this tiny state artifact without a content commit.
+      - name: Persist successful synchronization evidence
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: archive-sync-state
+          path: |
+            archive/sync-status.json
+            archive/ingestion_state.json
+            archive/reports/sync-run.json
+          if-no-files-found: error
+          retention-days: 90
+      - name: Identify the successfully synchronized archive generation
+        id: status
+        run: |
+          python3 - <<'PY'
+          import json, os
+          import archive_operations as ops
+          from pathlib import Path
+          value = ops.freshness(Path('archive'))
+          assert value, 'Missing matching successful status'
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write('fingerprint=' + value['archive_fingerprint'] + '\n')
+          PY
+      - name: Publish the small frontend success artifact
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: archive-status-${{ steps.status.outputs.fingerprint }}
+          path: archive/sync-status.json
+          if-no-files-found: error
+          retention-days: 90
+      - name: Successful run summary
+        if: success()
+        run: python3 -B archive_operations.py summary --persisted >> "$GITHUB_STEP_SUMMARY"
+      - name: Failure summary
+        if: failure()
+        run: |
+          echo '## TSSE Archive Sync failed' >> "$GITHUB_STEP_SUMMARY"
+          echo 'See the failed step logs and rerun after correcting the cause. A failed synchronization never advances success metadata. A later publication/deployment failure may leave validated state persisted but not public; the site retains its last known matching success. Git pushes are never forced.' >> "$GITHUB_STEP_SUMMARY"
+  deploy:
+    needs: sync
+    if: needs.sync.outputs.commit_created == 'true'
+    permissions:
+      contents: read
+      actions: read
+    uses: ./.github/workflows/archive-deploy.yml
+    with:
+      revision: ${{ needs.sync.outputs.revision }}
+    secrets: inherit

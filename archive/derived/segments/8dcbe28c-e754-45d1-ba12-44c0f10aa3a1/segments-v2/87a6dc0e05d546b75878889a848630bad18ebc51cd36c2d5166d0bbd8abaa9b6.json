@@ -1,0 +1,1037 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 409,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Venk Shukla. Venk is the founder and managing partner at Monta Vista Capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 892,
+      "excerpt": "He started the firm in 2014, based in Silicon Valley. And besides starting Monta Vista, he's been involved in many incredibly important entrepreneurial initiatives, mainly through TiE (The IndUS Entrepreneurs). We're going to talk to him about how he got involved in this world of startups and venture capital. And we will ask him some questions about how he makes investments, what gets him excited, what questions does he ask founders in the first meeting and the second meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 411,
+      "timestamps": []
+    },
+    {
+      "end": 939,
+      "excerpt": "Venk, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 894,
+      "timestamps": []
+    },
+    {
+      "end": 994,
+      "excerpt": "[00:01:18] Venk Shukla: Happy to be here. Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 941,
+      "timestamps": [
+        {
+          "offset": 941,
+          "raw": "[00:01:18]",
+          "seconds": 78
+        }
+      ]
+    },
+    {
+      "end": 1273,
+      "excerpt": "[00:01:20] Gopi Rangan: Let's start with you. You grew up in India and then you migrated to the U. S. and you've been living in Silicon Valley for a few decades now. Early in your career, you were an entrepreneur and eventually you transitioned to the world of venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 996,
+      "timestamps": [
+        {
+          "offset": 996,
+          "raw": "[00:01:20]",
+          "seconds": 80
+        }
+      ]
+    },
+    {
+      "end": 1313,
+      "excerpt": "Walk us through that journey briefly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1275,
+      "timestamps": []
+    },
+    {
+      "end": 1689,
+      "excerpt": "[00:01:36] Venk Shukla: You know, I'm a reluctant immigrant to the United States. I was, as my wife says, fat, dumb, and happy in the civil service of India. I did undergrad in electronics engineering, but didn't work as an engineer for a day, and I joined civil service instead. And then arranged marriage, and my wife was, doing her undergrad in engineering from Berkeley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 1315,
+      "timestamps": [
+        {
+          "offset": 1315,
+          "raw": "[00:01:36]",
+          "seconds": 96
+        }
+      ]
+    },
+    {
+      "end": 1990,
+      "excerpt": "I got married to her with the assurance from the parents that she will come to India after the marriage. And it was a shock to me to discover that she had zero intention of doing that. So after two years of resisting the coming here, I finally decided to come as a compromise to do my master's here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1691,
+      "timestamps": []
+    },
+    {
+      "end": 2353,
+      "excerpt": "And then we'll decide. That turned out to be the beginning of a slippery slope because I went to MIT and her salary as an engineer was not enough to pay my tuition. So I had to borrow money, and if I went back, those days civil servants in India were not paid very well. I calculated that if I went back, I'll be paying back the loans for the rest of my career.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1992,
+      "timestamps": []
+    },
+    {
+      "end": 2548,
+      "excerpt": "So I said, \"okay, instead of that, why don't I work here for two years, pay off the loan and then go back to India.\" And that was the beginning of the slippery slope and basically my wife won. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2355,
+      "timestamps": []
+    },
+    {
+      "end": 2708,
+      "excerpt": "[00:02:53] Gopi Rangan: The two years has turned into more than two decades and you're still here and happily married. I've met your wife a few times as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2550,
+      "timestamps": [
+        {
+          "offset": 2550,
+          "raw": "[00:02:53]",
+          "seconds": 173
+        }
+      ]
+    },
+    {
+      "end": 3050,
+      "excerpt": "[00:03:01] Venk Shukla: Yeah, i'm still here. So I was a reluctant immigrant and I'm an accidental VC. I had no intention of becoming a VC. What happened was that I was a VP of marketing at Cadence Design, and one day I sat through my appointments and I calculated and I realized that I was spending about 70 percent of my time in meetings.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 2710,
+      "timestamps": [
+        {
+          "offset": 2710,
+          "raw": "[00:03:01]",
+          "seconds": 181
+        }
+      ]
+    },
+    {
+      "end": 3619,
+      "excerpt": "Either preparing for a meeting, in the meeting, or following up from the meeting. Another 15 to 20 percent of the time, I'm spending on HR, kind of, other internal issues. One on ones, performance reviews, and hiring and firing and stuff like that. The stuff that I actually loved, which is the product and the customer, I was doing less than 10 percent of that. So I said, \"well, this is not fun.\" So I took a chance. I went to a startup and that startup was very successful. It gave me the financial security for the rest of my life. And that by itself was freedom.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3052,
+      "timestamps": []
+    },
+    {
+      "end": 3930,
+      "excerpt": "And since then, I've been in one startup after the other. Some of them have been successful, and some of them have been what we all call valuable learning experience. My last startup was that, and my learning from that last startup was that don't jump into anything quickly, do your diligence, take your time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3621,
+      "timestamps": []
+    },
+    {
+      "end": 4215,
+      "excerpt": "So I decided, told my wife that 18 months I won't do anything, I'll just look around and participate in different things. That's the time when I started TiE Angels within TiE and I roped in Prasanthi to to work with me. And that experience really transformed me. It was intoxicating.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3932,
+      "timestamps": []
+    },
+    {
+      "end": 4520,
+      "excerpt": "Everyone walking through that door was some expert in some area and they very patiently educated you on what they knew because they wanted your money. So I thought, \"wow, this is such an amazingly efficient way of learning about so many different things from experts, and I don't even have to pay them.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4217,
+      "timestamps": []
+    },
+    {
+      "end": 4766,
+      "excerpt": "The other thing I discovered was that having been in the entrepreneur shoes so many times, any advice I gave them, they found it very valuable. Something that was very intuitive and obvious to me was a significant value add to the entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4522,
+      "timestamps": []
+    },
+    {
+      "end": 5088,
+      "excerpt": "And I said, \"wow, I really love, love this thing, learning new things, and every day I'm learning something new and I'm actually adding value to the entrepreneur.\" And it turned out that some of the investments that I made in that angel group turned out to be the best among any other member of the angel investor group.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4768,
+      "timestamps": []
+    },
+    {
+      "end": 5777,
+      "excerpt": "We had a hundred members. In the first three years, we made 25 investments. I wrote five checks. And those five companies turned out to be the best five companies out of those 25. So I said, \"Oh, so the method that I use for making investments seems to work. I really love doing this thing. So let's just start a fund instead of being CEO of yet another startup.\" that's how I started the fund. I just went to 100 people that I knew with hat in hand, and it was a very efficient process because people you know will tell you in one coffee meeting whether they're going to give you money or they will say, \"okay, get out of here.\" And it was very efficient. In two months, I had my fund. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5090,
+      "timestamps": []
+    },
+    {
+      "end": 6116,
+      "excerpt": "[00:06:22] Gopi Rangan: It's a fascinating story. You were a reluctant immigrant, but you're now here in the U. S. You've made a home. You're living the American dream. And you were an accidental entrepreneur as well. You found that was a path to building something that the world really cared about. And you found a lot of satisfaction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5779,
+      "timestamps": [
+        {
+          "offset": 5779,
+          "raw": "[00:06:22]",
+          "seconds": 382
+        }
+      ]
+    },
+    {
+      "end": 6423,
+      "excerpt": "Along the way, you found financial freedom as well. Then you were an accidental VC, like you said, and you found that this is extremely addictive and very, very satisfying when founders take your advice and actually find it super valuable. You've already mentioned a few things on why you like to be a VC.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6118,
+      "timestamps": []
+    },
+    {
+      "end": 6506,
+      "excerpt": "But what keeps you going? Why is building Monta Vista Capital important for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6425,
+      "timestamps": []
+    },
+    {
+      "end": 6758,
+      "excerpt": "[00:07:02] Venk Shukla: That by itself is not that important. What is really important is learning from everyone who comes in. And then working with a team of experts, I get excited very quickly, and I hear something, you know, this sounds very good.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 6508,
+      "timestamps": [
+        {
+          "offset": 6508,
+          "raw": "[00:07:02]",
+          "seconds": 422
+        }
+      ]
+    },
+    {
+      "end": 7061,
+      "excerpt": "And then we rope in the partners, we rope in the experts and stuff, and then the process of not getting excited happens. But that itself is a learning experience. So, the two things that I like, one is I want to connect with different people, especially people who have accomplished something in life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6760,
+      "timestamps": []
+    },
+    {
+      "end": 7387,
+      "excerpt": "And this venture fund is a great platform for that. I'm learning something every day and in the process of fundraising or in the process of doing diligence, I get connected to very, very impressive people. And that by itself is a reward. And then on top of that, if you have made good investment decisions, it pays well too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7063,
+      "timestamps": []
+    },
+    {
+      "end": 7460,
+      "excerpt": "I'm wondering why didn't I know about this thing 20, 30 years earlier? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7389,
+      "timestamps": []
+    },
+    {
+      "end": 7465,
+      "excerpt": "It ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7462,
+      "timestamps": []
+    },
+    {
+      "end": 7637,
+      "excerpt": "[00:08:01] Gopi Rangan: is a dream job for me as well. It's a combination of so many things that all work together and eventually it's a great outcome for the world too. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7467,
+      "timestamps": [
+        {
+          "offset": 7467,
+          "raw": "[00:08:01]",
+          "seconds": 481
+        }
+      ]
+    },
+    {
+      "end": 7935,
+      "excerpt": "[00:08:11] Venk Shukla: If you are intellectually curious, there's no better profession than this one. I'm intellectually curious. If somebody were to say that, \"hey, I'm an expert on mating habits of cockroaches\", I'll give you 10 minutes. Please tell me about the mating habits of cockroaches. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 7639,
+      "timestamps": [
+        {
+          "offset": 7639,
+          "raw": "[00:08:11]",
+          "seconds": 491
+        }
+      ]
+    },
+    {
+      "end": 7940,
+      "excerpt": "So ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7937,
+      "timestamps": []
+    },
+    {
+      "end": 8034,
+      "excerpt": "[00:08:27] Gopi Rangan: You will find those experts and they'll take the time to teach you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7942,
+      "timestamps": [
+        {
+          "offset": 7942,
+          "raw": "[00:08:27]",
+          "seconds": 507
+        }
+      ]
+    },
+    {
+      "end": 8090,
+      "excerpt": "[00:08:30] Venk Shukla: Yes. That's true. That's true.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 8036,
+      "timestamps": [
+        {
+          "offset": 8036,
+          "raw": "[00:08:30]",
+          "seconds": 510
+        }
+      ]
+    },
+    {
+      "end": 8320,
+      "excerpt": "[00:08:36] Gopi Rangan: Let's talk a little more about Monta Vista capital. I know you get excited about many things, but what are some areas of interest for you? What kind of investments do you focus on at Monta Vista Capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8092,
+      "timestamps": [
+        {
+          "offset": 8092,
+          "raw": "[00:08:36]",
+          "seconds": 516
+        }
+      ]
+    },
+    {
+      "end": 8496,
+      "excerpt": "[00:08:47] Venk Shukla: So we invest only at seed stage, and we looked at the numbers. I think about 70 to 75 percent of the companies we invest in are pre-revenue companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 8322,
+      "timestamps": [
+        {
+          "offset": 8322,
+          "raw": "[00:08:47]",
+          "seconds": 527
+        }
+      ]
+    },
+    {
+      "end": 8852,
+      "excerpt": "And it's the hardest to make decisions on because there's nothing to go by. No revenue, no product and stuff. And the failure rate in the industry of investing in pre revenue startups is about 60%. And I'm told that it has not changed over the last 30 years. The failure rate of companies that got investment at Series A, B, C has come down dramatically.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8498,
+      "timestamps": []
+    },
+    {
+      "end": 9283,
+      "excerpt": "But seed stage, the failure rate is still 60%. So I'm very happy that we are making fewer mistakes than others do. Our failure rate is 20 to 25%, which means we are making fewer mistakes than the rest of the other folks do. Whatever we are doing seems to be working. And because we invested at an early stage, if the companies go on to become successful, the returns are very, very good compared to any other stage of investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8854,
+      "timestamps": []
+    },
+    {
+      "end": 9589,
+      "excerpt": "So we like seed stage B2B. We do not invest in Series A unless we have participated at the seed stage. And we like to make very concentrated investments. We are not spray and pray. So if we invest, we invest with very high conviction. And typically in a fund, we make about 12 to 15 investments per fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9285,
+      "timestamps": []
+    },
+    {
+      "end": 9656,
+      "excerpt": "[00:10:09] Gopi Rangan: That is quite concentrated indeed. Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9591,
+      "timestamps": [
+        {
+          "offset": 9591,
+          "raw": "[00:10:09]",
+          "seconds": 609
+        }
+      ]
+    },
+    {
+      "end": 9727,
+      "excerpt": "[00:10:12] Venk Shukla: Yeah. Yeah. But so far it has worked for us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 9658,
+      "timestamps": [
+        {
+          "offset": 9658,
+          "raw": "[00:10:12]",
+          "seconds": 612
+        }
+      ]
+    },
+    {
+      "end": 9819,
+      "excerpt": "[00:10:15] Gopi Rangan: How many investments do you make roughly per quarter or per year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9729,
+      "timestamps": [
+        {
+          "offset": 9729,
+          "raw": "[00:10:15]",
+          "seconds": 615
+        }
+      ]
+    },
+    {
+      "end": 10024,
+      "excerpt": "[00:10:20] Venk Shukla: So last year we made five. This year so far, we have made not one new investment, and it's not for lack of or not looking at companies and not investigating them enough and stuff.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 9821,
+      "timestamps": [
+        {
+          "offset": 9821,
+          "raw": "[00:10:20]",
+          "seconds": 620
+        }
+      ]
+    },
+    {
+      "end": 10340,
+      "excerpt": "It's just that's what happens. We don't invest on a clock. Last year was very prolific year for us, and yet not one of them was generative AI. Not one of them. We did generative AI investment before that word became popular. Before chat GPT had come out in November of 2022, we had made one investment before that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10026,
+      "timestamps": []
+    },
+    {
+      "end": 10663,
+      "excerpt": "But in 2023, we did not make a single investment in gen AI because we found that a lot of them were nothing but a little bit of wrapper, you see, on top of chat GPT. And there was not much of a sustainable technology differentiation. We like tech differentiation. So something that can be sustained over a period of time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10342,
+      "timestamps": []
+    },
+    {
+      "end": 10875,
+      "excerpt": "Or some very unique insight about the industry that is not normally known. So last year we did five. I think this year given that half a year has already passed, probably we'll do about two, at the most three. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10665,
+      "timestamps": []
+    },
+    {
+      "end": 11382,
+      "excerpt": "[00:11:29] Gopi Rangan: How do you get information that gives you that conviction; whether the opportunity is right for you to make an investment, whether the product is the right product to build, whether the founders are the right fit for the kind of business they're building, whether the market is in the right place? What kind of questions do you ask? Can you pick an example of one or two companies; how did you meet the founder, what questions did you ask them, and how did you develop conviction? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10877,
+      "timestamps": [
+        {
+          "offset": 10877,
+          "raw": "[00:11:29]",
+          "seconds": 689
+        }
+      ]
+    },
+    {
+      "end": 11635,
+      "excerpt": "[00:11:54] Venk Shukla: Yeah. So most of the time they get introduced to us and we are fortunate in that the network that I have in Silicon Valley, so we get a lot of referral deals. Plus, we have about five other partners who have their own networks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 11384,
+      "timestamps": [
+        {
+          "offset": 11384,
+          "raw": "[00:11:54]",
+          "seconds": 714
+        }
+      ]
+    },
+    {
+      "end": 11954,
+      "excerpt": "So from that standpoint, you see, it's a pretty rich funnel of warm introductions. And then a lot of people just reach out to me directly. They know about me. They reach out to me directly. And I take pride in the fact that I read each and every email from an entrepreneur and I respond to each and every one of them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11637,
+      "timestamps": []
+    },
+    {
+      "end": 12265,
+      "excerpt": "So that's how I see most of the deals come. In terms of how do we develop conviction, I think the first cut is really that we have five, six partners who are exceptionally successful people in their own right. Three of them are deep technologists. And then there are two very seasoned VCs, Prashant and Roger.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11956,
+      "timestamps": []
+    },
+    {
+      "end": 12695,
+      "excerpt": "So between the six of us, I think there's a lot of expertise, a lot of knowledge of different industries. So that's the first cut. If we like it, then we open up a Rolodex and say, okay, what is the deepest domain expert we can find? So if it's somebody who is using generative AI for clinical trial patient recruitment, can we find some of the best experts see in the industry who have done this clinical trials all their life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12267,
+      "timestamps": []
+    },
+    {
+      "end": 13020,
+      "excerpt": "Let's go talk to them. If somebody is pitching a supply chain and have a solution to us. Let's go talk to the managing director of supply chain practice at Accenture, who we happen to know, or let's talk to a guy who used to run supply chain and logistics for all of HP, and then he ran two or three startups in that space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12697,
+      "timestamps": []
+    },
+    {
+      "end": 13374,
+      "excerpt": "Let's get those two guys involved and get their perspective. So everywhere, regardless of the domain that the entrepreneur is in, we try to find at least a couple of people who know a lot more about that domain. In fact, the entrepreneurs, even if we don't invest in them, they always thank us for connecting them to experts that they could learn from.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13022,
+      "timestamps": []
+    },
+    {
+      "end": 13409,
+      "excerpt": "How long does this process take? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13376,
+      "timestamps": []
+    },
+    {
+      "end": 13594,
+      "excerpt": "The first meeting, I think, we make very quick decision of no or maybe. And then if it's a maybe, we try to find experts and stuff. That process could take another four to six weeks. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13411,
+      "timestamps": []
+    },
+    {
+      "end": 13762,
+      "excerpt": "[00:14:09] Gopi Rangan: When you have four or five partners involved and experts who would be brought into the discussion, that process can go in many different ways.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13596,
+      "timestamps": [
+        {
+          "offset": 13596,
+          "raw": "[00:14:09]",
+          "seconds": 849
+        }
+      ]
+    },
+    {
+      "end": 14114,
+      "excerpt": "Some of those partners could get very excited and say, \"yes, this is really interesting. We should make an investment.\" And some others may not be as warm to the idea. How do you balance that? And how do you build consensus? And as you build consensus, you don't want to miss out on good opportunities just because one or two partners aren't excited.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13764,
+      "timestamps": []
+    },
+    {
+      "end": 14141,
+      "excerpt": "How do you balance that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14116,
+      "timestamps": []
+    },
+    {
+      "end": 14802,
+      "excerpt": "[00:14:38] Venk Shukla: It's a process of discussion. I think, uh, if someone is not excited about it, then we have to find out why they're not excited. And they say, \"well, I don't think market is big enough.\" We say, \"okay? Well, let's find some experts who know about that market.\" And it's not enough for some startup guy who has done nothing else in his life except run a startup to say this market is not big enough. So if you're trying to find market size validation from someone who is taking a 3D drawing automatically to 2D and with process takes six, eight weeks today and he's saying I can do it to see in a day, well, let's find the right people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 14143,
+      "timestamps": [
+        {
+          "offset": 14143,
+          "raw": "[00:14:38]",
+          "seconds": 878
+        }
+      ]
+    },
+    {
+      "end": 15106,
+      "excerpt": "Let's get a former CEO of Autodesk, or let's find some guy who actually runs a service company in this space who deals with this issue every single day. So let's talk to those two guys to figure out to see whether the market size question can be answered. And the feedback is market could be very huge.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14804,
+      "timestamps": []
+    },
+    {
+      "end": 15406,
+      "excerpt": "Then the next question is, \"well, is there a sustainable difference in technology? We have the bench strength of deep technologies. Let's just have them talk to those companies.\" And if one by one by one, we get rid of the objections and then we make a decision. It's a very healthy dynamic though.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15108,
+      "timestamps": []
+    },
+    {
+      "end": 15847,
+      "excerpt": "[00:15:46] Gopi Rangan: I see that you're very thoughtful about founder's time and you try to get to a quick no if it's going to be a no and you try to convert the maybe to a yes by going through a process and eventually, even if you don't invest, the founder finds value in those conversations. It's hard enough for founders to convince one partner. Isn't it difficult for founders to convince five partners or six partners in this case? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15408,
+      "timestamps": [
+        {
+          "offset": 15408,
+          "raw": "[00:15:46]",
+          "seconds": 946
+        }
+      ]
+    },
+    {
+      "end": 16266,
+      "excerpt": "[00:16:09] Venk Shukla: You know, I think, but they're not convincing each one of them individually. It's a group meeting and the first question we asked them is that why did you decide to do this? What it is that you see? What was in your background that made you think that this is a big enough market, and you are uniquely qualified to address that. So, that's the first clue. Are there enough supporting evidence?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 15849,
+      "timestamps": [
+        {
+          "offset": 15849,
+          "raw": "[00:16:09]",
+          "seconds": 969
+        }
+      ]
+    },
+    {
+      "end": 16577,
+      "excerpt": "If there is enough in the background to suggest that they have the credibility to do this if you have always worked in Cisco and Symantec, and suddenly you say that, \"Hey, there is this problem that hospitals have machine downtime, and I'm going to do this thing, this thing for them.\" We say, \"wait a minute.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16268,
+      "timestamps": []
+    },
+    {
+      "end": 17205,
+      "excerpt": "How many hospitals have you talked to?\" \"Oh, well, I've talked to two.\" You know, maybe you should talk to 30 because if you do a start up, next six to eight years you are dedicating to it. It's in your own interest to go first find out if enough number of hospitals have this problem. And do they see it as a problem enough to pay for it? And is it urgent enough or is this so go ask that question first before you dedicate this thing. So there are people you see who are entrepreneurs who inspire confidence and credibility because of who they are, because of the experience they have, because of the track record they have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16579,
+      "timestamps": []
+    },
+    {
+      "end": 17312,
+      "excerpt": "And there are people you see who think that, \"well, I should be an entrepreneur and I'll figure it out.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17207,
+      "timestamps": []
+    },
+    {
+      "end": 17431,
+      "excerpt": "[00:17:34] Gopi Rangan: Starting with the question of why, why did you start this company? What was your motivation? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17314,
+      "timestamps": [
+        {
+          "offset": 17314,
+          "raw": "[00:17:34]",
+          "seconds": 1054
+        }
+      ]
+    },
+    {
+      "end": 17464,
+      "excerpt": "[00:17:38] Venk Shukla: Right. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 17433,
+      "timestamps": [
+        {
+          "offset": 17433,
+          "raw": "[00:17:38]",
+          "seconds": 1058
+        }
+      ]
+    },
+    {
+      "end": 17533,
+      "excerpt": "[00:17:39] Gopi Rangan: Is a good place to begin the conversation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17466,
+      "timestamps": [
+        {
+          "offset": 17466,
+          "raw": "[00:17:39]",
+          "seconds": 1059
+        }
+      ]
+    },
+    {
+      "end": 17565,
+      "excerpt": "[00:17:41] Venk Shukla: Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 17535,
+      "timestamps": [
+        {
+          "offset": 17535,
+          "raw": "[00:17:41]",
+          "seconds": 1061
+        }
+      ]
+    },
+    {
+      "end": 17715,
+      "excerpt": "[00:17:41] Gopi Rangan: I know we are co investors in at least one company, First Shift, and hopefully we'll find more opportunities to collaborate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17567,
+      "timestamps": [
+        {
+          "offset": 17567,
+          "raw": "[00:17:41]",
+          "seconds": 1061
+        }
+      ]
+    },
+    {
+      "end": 17746,
+      "excerpt": "[00:17:48] Venk Shukla: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 17717,
+      "timestamps": [
+        {
+          "offset": 17717,
+          "raw": "[00:17:48]",
+          "seconds": 1068
+        }
+      ]
+    },
+    {
+      "end": 17830,
+      "excerpt": "[00:17:49] Gopi Rangan: I have a question that comes up quite often with founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17748,
+      "timestamps": [
+        {
+          "offset": 17748,
+          "raw": "[00:17:49]",
+          "seconds": 1069
+        }
+      ]
+    },
+    {
+      "end": 18039,
+      "excerpt": "'No' is the most frequent answer they hear from VCs. And also for VCs when they meet so many founders, ' no' is the most frequent answer and we say yes very rarely. What's your most common reason to say no? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17832,
+      "timestamps": []
+    },
+    {
+      "end": 18175,
+      "excerpt": "[00:18:04] Venk Shukla: There are two or three reasons. One is that the founding team does not inspire confidence in their technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 18041,
+      "timestamps": [
+        {
+          "offset": 18041,
+          "raw": "[00:18:04]",
+          "seconds": 1084
+        }
+      ]
+    },
+    {
+      "end": 18668,
+      "excerpt": "They have not thought through enough or they just don't have the horsepower enough to solve it in a way that provides them sustainable differentiation. So that's one. The second one is, uh, what we talked about earlier, that they have one experience of where they're working and they think that that's a problem they can solve and they go out to solve the problem, but they have not done enough of validation in the market about how large that problem is and how many customers there may be.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18177,
+      "timestamps": []
+    },
+    {
+      "end": 19015,
+      "excerpt": "And do those customers have a sense of urgency about it? So that's the second reason. The third reason we have said no is that they are pursuing a crowded market. There are a number of players in it. They are very smart. They are very capable but if there are 20 other players in this market, chances are one of them is going to become very big.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18670,
+      "timestamps": []
+    },
+    {
+      "end": 19320,
+      "excerpt": "But it's very hard to know which one of them is going to become very big. And if it's a crowded market, what happens is that the sales cycles get longer. Because now it's a comparative benchmarking evaluation or something between two or three vendors. So sales cycles get longer, the pricing gets lower.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19017,
+      "timestamps": []
+    },
+    {
+      "end": 19688,
+      "excerpt": "So implication you see for the VC is that you should be prepared for the long haul. Which means you should be willing and prepared to invest in multiple rounds before somebody really emerges as a front runner, as a winner. So as a small fund, we just don't have those kind of deep pockets to make that kind of a long term bet in one entrepreneur in a crowded market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19322,
+      "timestamps": []
+    },
+    {
+      "end": 19900,
+      "excerpt": "So we prefer to do one of a kind. One of a kind where if they can do the job, there's a market for it, and there are people willing to pay for it, and there's not likely to be any other competitor for a while. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19690,
+      "timestamps": []
+    },
+    {
+      "end": 20054,
+      "excerpt": "[00:19:52] Gopi Rangan: These are deep insights. Just in the past few minutes, you've outlined a lot of important things that founders need to focus on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19902,
+      "timestamps": [
+        {
+          "offset": 19902,
+          "raw": "[00:19:52]",
+          "seconds": 1192
+        }
+      ]
+    },
+    {
+      "end": 20504,
+      "excerpt": "This is incredibly valuable. You're speaking from your own personal experiences. We've talked about your career. We've talked about Monta Vista Capital, and I want to spend a few minutes to talk about TiE. You were the president of TiE at one point, and like you said, you also launched TiE Angels. What is TiE? For people who are new to TiE ( The IndUS Entrepreneurs), what does it represent? What are some high priority initiatives at TiE today? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20056,
+      "timestamps": []
+    },
+    {
+      "end": 20755,
+      "excerpt": "[00:20:24] Venk Shukla: You know, TiE is a very high minded organization. And it started in the 90s because the VCs would see Indians as very good from a technology kind of management standpoint, but not as the leaders, not as the business CEO kind.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 20506,
+      "timestamps": [
+        {
+          "offset": 20506,
+          "raw": "[00:20:24]",
+          "seconds": 1224
+        }
+      ]
+    },
+    {
+      "end": 21127,
+      "excerpt": "And the code word they used was that, go get professional management. So some of the early generations of successful entrepreneurs, they started it and they realized that this is a problem, not just for India. This is a very universal problem that unless you are part of the right network, it's very hard for you to kind of get venture funding and then build this thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20757,
+      "timestamps": []
+    },
+    {
+      "end": 21471,
+      "excerpt": "So they started TiE basically to inspire people to become entrepreneurs, to educate them on how to become entrepreneurs, to mentor them on the nitty gritty of it, provide them a network to connect with and fund them. So the entire life cycle of entrepreneurship, they decided to do and they succeeded beyond the wildest expectation of anyone.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21129,
+      "timestamps": []
+    },
+    {
+      "end": 21790,
+      "excerpt": "TiE was talking about entrepreneurship when it was the only organization in the world talking about benefits of entrepreneurship and how to go about doing it. Now, every university has entrepreneurship cell. Every county, every state, every country is trying to attract entrepreneurs and saying, this is a good thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21473,
+      "timestamps": []
+    },
+    {
+      "end": 22396,
+      "excerpt": "30 years ago, TiE was the only organization talking about this thing. And it has succeeded beyond wildest expectation, because if you look at it, just the Indian community, they're only about 5 percent of the Silicon Valley, but more than 50 percent of B2B startups in the valley have an Indian founder, which is mind boggling. It has had another impact. Successful startups were acquired by big companies. And the CEOs of those companies went on to become general managers of those divisions. And they did very well. So the mental block that people had that \"can these people become leaders?\" went away.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21792,
+      "timestamps": []
+    },
+    {
+      "end": 22683,
+      "excerpt": "A lot of very big companies had a lot of VPs and general managers and senior VPs in their ranks. So from them going to the next level and becoming CEOs was just a very small step. The big conceptual break happened when these startups were run by Indians became phenomenally successful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22398,
+      "timestamps": []
+    },
+    {
+      "end": 23172,
+      "excerpt": "So TiE is a very high minded organization and its core value is that people who are successful in life in any aspect have an obligation to help the next generation of entrepreneurs because it's the entrepreneurs who solve the toughest problem in the society. So it's an obligation to help the next generation entrepreneur. And they institutionalize this and figured out programs all over the world. So very proud of it and some of my best memories are associated with being part of TiE. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22685,
+      "timestamps": []
+    },
+    {
+      "end": 23317,
+      "excerpt": "[00:23:16] Gopi Rangan: I can see that. TiE has become a global organization and has been a champion for entrepreneurship for many decades now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23174,
+      "timestamps": [
+        {
+          "offset": 23174,
+          "raw": "[00:23:16]",
+          "seconds": 1396
+        }
+      ]
+    },
+    {
+      "end": 23638,
+      "excerpt": "In the 1990s, the Indians and many South Asians were mainly looked at for services and IT services and those kind of things. And even engineers who are successful in Silicon Valley and large tech companies, they didn't get into many management roles. And starting a company, being a CEO of a company was very difficult.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23319,
+      "timestamps": []
+    },
+    {
+      "end": 24044,
+      "excerpt": "And like you said, the phrase that was used was, can you go get professional CEO or professional management team? And that was a very open dialogue that people would have. Now, today, the world has changed and many large companies have Indian CEOs and many South Asians as CEOs. TiE has contributed significantly to that change in the culture, change in the mindset of how the world views this community.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23640,
+      "timestamps": []
+    },
+    {
+      "end": 24294,
+      "excerpt": "Thanks to TiE and all the leaders at TiE who made this happen. We're coming towards the end of our conversation and I want to ask you about your community involvement. Is there any other non profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24046,
+      "timestamps": []
+    },
+    {
+      "end": 24423,
+      "excerpt": "[00:24:15] Venk Shukla: Yeah, I've been involved with another organization from the beginning called Foundation for Excellence.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 24296,
+      "timestamps": [
+        {
+          "offset": 24296,
+          "raw": "[00:24:15]",
+          "seconds": 1455
+        }
+      ]
+    },
+    {
+      "end": 24839,
+      "excerpt": "We give scholarships to extremely talented kids in India who happen to come from very poor families. They're typically kids of maidservants, street vendors, landless laborers, and stuff. But, the good news is that in India, there's a merit-based comparative exams. And if you're good enough, you're motivated enough, and you get into a good engineering college or mental college, we give scholarship to those kids.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24425,
+      "timestamps": []
+    },
+    {
+      "end": 25342,
+      "excerpt": "And so far we have funded close to about 26, 000 kids in India. And thanks to Foundation for Excellence, they have become engineers or doctors. And there's one idea, which is pretty unique about this nonprofit. All the other nonprofits do good work. If you keep giving them money. Foundation for Excellence is the only one that has figured out a recipe for long term sustainability, which is every kid that you fund takes an honor pledge to fund two more kids when he or she is in a position to do it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24841,
+      "timestamps": []
+    },
+    {
+      "end": 25658,
+      "excerpt": "And last year, we raised close to 10 crore rupees in India, thanks to direct or indirect contribution from our alumni scholars. It's a huge amount of money. And I was the first president of FFE. I ran it for the first 18 years. Now I'm still on the board of the U. S. entity as well as trustee of the India entity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25344,
+      "timestamps": []
+    },
+    {
+      "end": 25964,
+      "excerpt": "And this is one of the most satisfying thing I've done, which is when you don't even know who the beneficiary is. But you give your money and you create the thing to fund those people and how they go on to transform their life and the lives of their family and people around them. That's very satisfying.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25660,
+      "timestamps": []
+    },
+    {
+      "end": 26388,
+      "excerpt": "[00:25:57] Gopi Rangan: Venk, you have such a rich experience in your life through your work and many other activities that you're directly involved in and you created. We can keep this conversation going and talk for at least another hour or two, but we have to conclude here. I want to thank you for spending time with me, sharing your personal perspective, sharing your journey, sharing insights and advice to founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25966,
+      "timestamps": [
+        {
+          "offset": 25966,
+          "raw": "[00:25:57]",
+          "seconds": 1557
+        }
+      ]
+    },
+    {
+      "end": 26455,
+      "excerpt": "I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26390,
+      "timestamps": []
+    },
+    {
+      "end": 26517,
+      "excerpt": "[00:26:21] Venk Shukla: Thank you for having me here again. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Venk Shukla",
+      "start": 26457,
+      "timestamps": [
+        {
+          "offset": 26457,
+          "raw": "[00:26:21]",
+          "seconds": 1581
+        }
+      ]
+    },
+    {
+      "end": 26874,
+      "excerpt": "[00:26:25] Gopi Rangan: Thank you forfor listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26519,
+      "timestamps": [
+        {
+          "offset": 26519,
+          "raw": "[00:26:25]",
+          "seconds": 1585
+        }
+      ]
+    }
+  ],
+  "source_sha256": "87a6dc0e05d546b75878889a848630bad18ebc51cd36c2d5166d0bbd8abaa9b6",
+  "text_sha256": "b8bc11fbaa7c1e2490510c917a2be0f27fbabea1033c414147edab9d1524885e"
+}

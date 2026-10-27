@@ -1,0 +1,561 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 335,
+      "excerpt": "Vikrant Shaurya: They're very proud. My dad as well. He is a very proud dad. At one point he was very much upset, very much frustrated. I saw him crying for the very first time when he got to know that I dropped out, but now he's very proud. Actually, he himself is an entrepreneur. He has created his own small company with my sister.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 582,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 337,
+      "timestamps": []
+    },
+    {
+      "end": 906,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. My guest today is Vikrant Shaurya. Vikrant is the CEO and founder of this publishing company called bestsellingbook.com. He's a prolific entrepreneur who has taken the story behind the process of publishing a book and supported many entrepreneurs, many authors to tell their stories.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 584,
+      "timestamps": []
+    },
+    {
+      "end": 1091,
+      "excerpt": "We're going to talk to him about early believers who supported him in his journey and how he plays that role with others in the world. Vikrant, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 908,
+      "timestamps": []
+    },
+    {
+      "end": 1199,
+      "excerpt": "Vikrant Shaurya: Thanks so much Gopi for having me. I'm really looking forward to our conversation today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 1093,
+      "timestamps": []
+    },
+    {
+      "end": 1291,
+      "excerpt": "Gopi Rangan: Tell me about yourself, starting with where you are. You are in Pune, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1201,
+      "timestamps": []
+    },
+    {
+      "end": 1448,
+      "excerpt": "Vikrant Shaurya: Yeah, I'm in Pune in India for the last three and a half years. Before Pune, I was in New Delhi for nine years, but my hometown is Patna. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 1293,
+      "timestamps": []
+    },
+    {
+      "end": 1595,
+      "excerpt": "Gopi Rangan: Oh, very interesting! So you've been to multiple different places in India. How did your childhood shape your outlook on the world? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1450,
+      "timestamps": []
+    },
+    {
+      "end": 1953,
+      "excerpt": "Vikrant Shaurya: My father used to be in the military. So we used to get posted every three years in different cities, different states. I think I've been to more than seven or eight states. Talking about my childhood, almost everyone in my family used to think that either I'm going to be an engineer, doctor or a government employee, because in India... ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 1597,
+      "timestamps": []
+    },
+    {
+      "end": 2030,
+      "excerpt": "Gopi Rangan: It's the definition of success; when you have a stable salary.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1955,
+      "timestamps": []
+    },
+    {
+      "end": 2267,
+      "excerpt": "Vikrant Shaurya: Definitely. Especially 10 years ago, it was very concrete. Now, of course, things are changing, but initially, people used to think that if you're not a doctor, engineer, or government employee, you are just a failure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 2032,
+      "timestamps": []
+    },
+    {
+      "end": 2495,
+      "excerpt": "So yeah, this was the initial feed I used to get from my parents, from my relatives. They used to ask me, \"do you want to become a doctor or engineer?\" Okay. I'll become a doctor because doctors sounded cooler than engineers. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2269,
+      "timestamps": []
+    },
+    {
+      "end": 3101,
+      "excerpt": "Gopi Rangan: Yeah, I can relate to this. Growing up in India, the ultimate definition of success is to get a very steady job, earn a salary and make life predictable. Entrepreneurship is for people who can't do that, who fail at getting. They can't be employed and they have no choice, but to start a company. That was the only path. But now I think a lot of things have changed. Entrepreneurship is a path for people to build their careers. I'm glad that it's becoming more and more prevalent, but it's still a long way to go before it becomes more mainstream like the career of an engineer or a doctor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2497,
+      "timestamps": []
+    },
+    {
+      "end": 3199,
+      "excerpt": "Where did you find your early supporters? Who are the early supporters for you in your journey? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3103,
+      "timestamps": []
+    },
+    {
+      "end": 3837,
+      "excerpt": "Vikrant Shaurya: My journey started when I was in college. But let me tell you exactly how I ended up being into an engineering college when initially in childhood, I used to say that we'll become a doctor. So just because all of my friends were taking admission in engineering college, when my dad asked me when I just passed high school and he asked me, okay, what do you want to become in your life? I told him that, okay, I'll become an engineer. I didn't want to sound dumb in front of him. But the only reason I told him that I'll become an engineer was that almost all of my friends were taking admission to engineering colleges.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 3201,
+      "timestamps": []
+    },
+    {
+      "end": 4897,
+      "excerpt": "So he thought that I'm serious about engineering and my life. So he sold his land in got me admission to an engineering college in nearby Delhi. There's a place called written nada, which belongs to Delhi NCR. And here I was, completely different life. By this time I used to just live under my parents. And of course, every time they used to just tell me what to do, what not to do when to come home and when to go outside. But now I was completely free. I had no one to check in on with me about what exactly was happening. Of course, my parents used to call me every day, but yeah, I used to just hang around with friends. I used to hate college lectures because of course everything was extremely theoretical and I'm kind of a practical guy. I used to find it very, very boring, but I used to go to the college library. I used to read a lot of self-help books over there instead of reading the textbook. And then I, one day I found this book called Rich Dad Poor Dad by Robert Kiyosaki. It completely changed my perception of finances, life, and career. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3839,
+      "timestamps": []
+    },
+    {
+      "end": 5294,
+      "excerpt": "Gopi Rangan: What happened? How did it change your perspective? So it looks like you got the support of an uncle who helped you enroll in the engineering college, but you didn't really like studying theoretical things. You are more of a practical guy. You wanted to build things. And this book that you read changed your perspectives and gave you a new path for the future. How did that happen? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4899,
+      "timestamps": []
+    },
+    {
+      "end": 6134,
+      "excerpt": "Vikrant Shaurya: You know, like of course we were discussing the traditional part in India, either go become a doctor, engineer or a government employee having a steady income. But now this book is talking about the exact opposite to the traditional route. Now this book is talking about, \"Hey, become an entrepreneur.\". They have this kind of a quadrant, which they talk about. In the first quadrant, it is employed. The second is self-employed. The third is entrepreneur, and the fourth is investor. The rich dad of this book talks about why being in the last two quadrants- entrepreneurs and investors- can really give you massive ROI in your life and in your career. And it completely changed the way I used to think about my career and about one of the biggest decisions, of course, initially, because I was just 17, 18 at that time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 5296,
+      "timestamps": []
+    },
+    {
+      "end": 6446,
+      "excerpt": "And the very same day that I saw that quadrant and I read that book, I just dropped out of college. I decided, okay, this is not for me. I'm going to do something of my own. This time I had nothing, I had no idea, no revenue, no money in my bank account. I believe I just had maybe a few thousand rupees. So...",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6136,
+      "timestamps": []
+    },
+    {
+      "end": 6512,
+      "excerpt": "Gopi Rangan: Did you know what business you are going to start? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6448,
+      "timestamps": []
+    },
+    {
+      "end": 6966,
+      "excerpt": "Vikrant Shaurya: No, actually I had no idea. All of my seniors, my friends, used to laugh at me. Also, some of my siblings and seniors who cared for me used to advise, \"At least complete your engineering. There are two and a half years left. You should complete your engineering.\" And I used to say, if I know that this is not for me, this is not going to be the path I'm going to be pursuing why should I waste another two and a half years of my life?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 6514,
+      "timestamps": []
+    },
+    {
+      "end": 7369,
+      "excerpt": "So I ended up dropping out of college. And, I think it took me around two or three months to get a business idea. I took some loans from my friends, my relatives, my seniors, started a company, hired a bunch of employees. I made a lot of mistakes and within six months I completely ran out of money. I had no money to pay my employees, no money to run the business. So I had to shut down the company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6968,
+      "timestamps": []
+    },
+    {
+      "end": 7587,
+      "excerpt": "Gopi Rangan: We're going a little fast. I'm really curious. I want to slow down and ask you how you convinced the early people to support you and invest in your business. What was the story that resonated with them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7371,
+      "timestamps": []
+    },
+    {
+      "end": 7775,
+      "excerpt": "Vikrant Shaurya: First of all, let me tell you that I dropped out of college and for the next six to seven months I had no courage to tell my parents that I had already left the college.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 7589,
+      "timestamps": []
+    },
+    {
+      "end": 8393,
+      "excerpt": "I was in stealth mode. And at the same time, I didn't know exactly how they would be reacting because they thought that I'm serious about engineering. And they sold their land to get me in this college. And then, suddenly I just dropped out. I thought that I'd be having some good money in my bank account and then I'd go back to my hometown and show it to them, \"Hey, this is what I'm doing now.\" And they'll be happy. A completely opposite thing happened. I had now $3,000 or something in debt at that time. So I had some of my seniors, like those who were having some good package. They really supported me well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7777,
+      "timestamps": []
+    },
+    {
+      "end": 8549,
+      "excerpt": "Gopi Rangan: These were college seniors who graduated and they received job offers. So now they were salaried employees. So they were able to support you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8395,
+      "timestamps": []
+    },
+    {
+      "end": 8948,
+      "excerpt": "Vikrant Shaurya: Yeah, and not a lot because of course I didn't take money just from one person. I got money from seven or eight people. Some of them were my friends. Like I took maybe just 5,000 rupees, 10,000 rupees, 20,000 rupees from some of them. But eventually, I had no money to pay my employees. So yeah, like six months happened and now I'm back to zero. Actually, I was in the negative. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 8551,
+      "timestamps": []
+    },
+    {
+      "end": 9315,
+      "excerpt": "Gopi Rangan: That is a rough start indeed. Looking back, would you still go through that path? Would you drop out of school and start a business? It looks like the first business taught you a lot of lessons, but it wasn't a success in terms of economic outcomes. Is that path still advisable? Would you have chosen that path now if you had a chance to do it again? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8950,
+      "timestamps": []
+    },
+    {
+      "end": 9902,
+      "excerpt": "Vikrant Shaurya: I think if given the same circumstance and same amount of experience, the same amount of knowledge, and the same amount of wisdom, I would be doing the exact same. Actually, I really don't have any regret. I'm really happy that I took the decision, even though I know that it failed and I had a very terrible situation. My dad used to not talk to me for one and a half years when he got to know that I dropped out. So it was a very difficult situation, but that kind of decision actually for an 18-year kid, I believe that that in itself is a very huge accomplishment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 9317,
+      "timestamps": []
+    },
+    {
+      "end": 10769,
+      "excerpt": "Nowadays. I'm seeing that kids don't take responsibility for their life or their career. They want a very simple answer. Hey, can you please ask me, okay, is this business idea good? Should I pursue this career? Should I pursue that career? They haven't explored themselves yet. And they just don't want to fail. If you are very young, you have at least a few years, maybe to you four years, at least. You have that privilege that you can fail for a few years. You can have so much of roadblocks in your life and still, somehow you will be in a good state, but if you'll just ask for someone else's advice and completely follow it without using your own brain, I don't think it's going to be making you a very intelligent human being with good experience because you are just working based on someone else's experience. This is what I believe and what I have seen. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9904,
+      "timestamps": []
+    },
+    {
+      "end": 11172,
+      "excerpt": "Gopi Rangan: That fear of failure prevents people from discovering who they are, what their strengths are. And they fall into this routine of following other people's suggestions and ideas and go down that path. They eventually get lost in that. The true expression of who we are doesn't come out until we go through that journey by ourselves. Kudos to you for embracing that quite early in your life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10771,
+      "timestamps": []
+    },
+    {
+      "end": 11460,
+      "excerpt": "I think it took me many more years to get to that point take that leap of faith and be bolder about these decisions. It's actually delightful to hear that you did that in your late teens. How did publishing come into your journey? How did you decide that publishing is the path for you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11174,
+      "timestamps": []
+    },
+    {
+      "end": 11754,
+      "excerpt": "Vikrant Shaurya: This situation happened. My first business failed and I had no money to pay my rent. I was living in a single-room apartment in New Delhi. I think I didn't pay rent for three or four months. My landlord used to call me every day, asking me for the rent and electricity bill. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 11462,
+      "timestamps": []
+    },
+    {
+      "end": 11828,
+      "excerpt": "Gopi Rangan: You had a landlord chasing you for rent. It's like a movie ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11756,
+      "timestamps": []
+    },
+    {
+      "end": 12181,
+      "excerpt": "Vikrant Shaurya: He was a humble guy, and he was very cooperative. Imagine, I'm not paying him for three or four months and somehow I was able to convince him, \"Hey, please give me one month. I'll pay next month next month, next month,\"... then three or four months happened. So now he was losing hope in me. I couldn't ask for money from my parents. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 11830,
+      "timestamps": []
+    },
+    {
+      "end": 12489,
+      "excerpt": "How I came into publishing is I had a broken laptop which, you know, like there's a ventilator fan inside a laptop. It was completely broken. So when I used to type on it, my fingers used to burn like anything. And the battery was completely gone. So the moment the electricity is gone, my laptop is gone. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12183,
+      "timestamps": []
+    },
+    {
+      "end": 12787,
+      "excerpt": "So this is kind of a situation I was in. So I used to have one container in which I used to pour water, and then I used to keep my lab on the container so that it could not become so much heated. And I used to, with a 2d internet speed and a broken laptop, search online how to make money online.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12491,
+      "timestamps": []
+    },
+    {
+      "end": 13038,
+      "excerpt": "I discovered cell publishing. This was my first introduction to publishing. Initially, I had no idea that after maybe seven years or eight years, I'll be having a publishing company. My goal was to just pay rent and pay my electricity and get food. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12789,
+      "timestamps": []
+    },
+    {
+      "end": 13252,
+      "excerpt": "I got to know that. Okay, with writing books and publishing books, I can make some money. I can make some, get some royalties incomes. And let me tell you that I used to get the lowest grades in English subject. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13040,
+      "timestamps": []
+    },
+    {
+      "end": 13400,
+      "excerpt": "Gopi Rangan: Okay. The plot is thickening here. You decided to go into publishing while writing and reading and literature was not your strength. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13254,
+      "timestamps": []
+    },
+    {
+      "end": 14250,
+      "excerpt": "Vikrant Shaurya: That's the fact actually, but now I can't give an excuse to myself. When your landlord is calling you every day, you just can't give an excuse to yourself that, Hey, I can't write, I can't read. So somehow I just locked myself. And my first book, I was able to write it in 21 days. The book was about real estate and the book's title was '19 Days to Sell Your House'. And, I just want to add a disclaimer over here that now I have unpublished that book, but if you will search that book on Google you'll find maybe the book cover and maybe you'll find Goodreads reviews. I got really good reviews back then on my book. And also I wanted to add one more disclaimer, that I had no idea about real estate, no idea about selling houses, but somehow I realized that I can take some complex information and I can make it very simplified.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 13402,
+      "timestamps": []
+    },
+    {
+      "end": 14714,
+      "excerpt": "So there were tens of thousands and millions of articles about how to sell a house. But what I did is I made it into a very structured format, like 19 days to sell the house. So what you have to do on day one, day two till day 19, and then by day 19, you'll be able to sell your house. You wouldn't believe it, four or five months after I published that book, I received a thank you message from a reader saying that he was able to sell his house using the book.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14252,
+      "timestamps": []
+    },
+    {
+      "end": 15403,
+      "excerpt": "Gopi Rangan: You take complicated topics, break them down into pieces and develop a step-by-step approach to solving that problem. You take something very intimidating and you make a practical solution that people can follow. And that was the lesson that you learn by publishing this book about selling a house and you took that lesson and you kind of turned it into a factory. So you can help other authors who are attempting to do similar things, where they want to demystify their world. And now you are giving them a voice so they can share their insights and perspectives with the world much more easily by helping them publish their books. That was the Genesis of The Book Factory.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14716,
+      "timestamps": []
+    },
+    {
+      "end": 15740,
+      "excerpt": "Vikrant Shaurya: So yeah, I was able to write this book in 21 days, but it was very badly written. Back then, my girlfriend, who used to be very, very good in academics, we used to be classmates. She was able to do the proofreading and editing of the book. She was somehow able to make it publish-ready. By the way, now she is my wife.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 15405,
+      "timestamps": []
+    },
+    {
+      "end": 15885,
+      "excerpt": "Gopi Rangan: This is a real movie. You enlisted your girlfriend to support you in your early entrepreneurial journey. And now she's your wife. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15742,
+      "timestamps": []
+    },
+    {
+      "end": 16203,
+      "excerpt": "Vikrant Shaurya: She was a big-time supporter. Like almost everyone, everyone in my life lost hope at one point. She was the only one standing with me. Her parents were very adamant. They came to my house, I guess, two times and they rejected me two times. \"No, we are never going to marry you with this guy.\" But...",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 15887,
+      "timestamps": []
+    },
+    {
+      "end": 16275,
+      "excerpt": "Gopi Rangan: Because you don't have a job and you don't have a salary?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16205,
+      "timestamps": []
+    },
+    {
+      "end": 16739,
+      "excerpt": "Vikrant Shaurya: I didn't have a job. At the same time, I had nothing to show him. I was just living in a single-room apartment and landlords chasing. But finally, after three and a half years of struggle, they got convinced and they allowed her. By this time, the last time they came to meet me, I was earning some good money. I had to show them my income report. Then they got convinced, \"okay, this guy is doing fine. Let's send our daughter to this person.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 16277,
+      "timestamps": []
+    },
+    {
+      "end": 16862,
+      "excerpt": "Gopi Rangan: Wow! So you showed them your bank statements to prove that you are actually doing something with your life. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16741,
+      "timestamps": []
+    },
+    {
+      "end": 17093,
+      "excerpt": "Vikrant Shaurya: Yeah, because initially, they thought that this guy is doing some kind of a scam and he's going to be in prison today or tomorrow. And our daughter is going to be in trouble if we'll just marry her with this guy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 16864,
+      "timestamps": []
+    },
+    {
+      "end": 17189,
+      "excerpt": "Gopi Rangan: What did they think now that you're a world-famous published bestselling author? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17095,
+      "timestamps": []
+    },
+    {
+      "end": 17739,
+      "excerpt": "Vikrant Shaurya: They're very proud. My dad as well. He is a very proud dad. At one point he was very much upset, very much fresh frustrated. I saw him crying for the very first time when he got to know that I dropped out. But now he's a very proud dad. Actually, he himself is an entrepreneur. He has created his own small company with my sister. So it's kind of a happy ending over there. But yeah, my in-laws are also very, very happy. They make me feel like I'm a son to them. So it's really, really good. Now they're, of course, cool with me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 17191,
+      "timestamps": []
+    },
+    {
+      "end": 17850,
+      "excerpt": "Gopi Rangan: What an amazing, happy ending to this story. Tell me about bestsellingbook.com. What does it do?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17741,
+      "timestamps": []
+    },
+    {
+      "end": 18378,
+      "excerpt": "Vikrant Shaurya: Yeah. We simply help entrepreneurs, coaches, and thought leaders, people who are really busy, who don't have the time, don't have the skillset to write a book; people who are just like me, who don't have the skillset, or they're super busy, they don't have the time. We help them turn their book idea into a best-selling book in six months. Even when they hate writing, they don't have to write even a single. We have systemized this entire book writing, editing, designing, publishing, and marketing process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 17852,
+      "timestamps": []
+    },
+    {
+      "end": 18713,
+      "excerpt": "They just come to us. They share their book idea with us. We interviewed them. We write the book for them in their authentic voice, and we do all kinds of services like editing, proofreading, cover designing, ISBN number, book formatting, publishing, distribution, marketing. We make it a bestseller guaranteeing 3X their investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18380,
+      "timestamps": []
+    },
+    {
+      "end": 18878,
+      "excerpt": "Gopi Rangan: How much time do you want them to spend with you in the early stages? How many hours of interview do you go through to get the book idea flushed out? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18715,
+      "timestamps": []
+    },
+    {
+      "end": 19298,
+      "excerpt": "Vikrant Shaurya: Specifically with the book writing, they have to give us 10 to 12 hours. So in 10 to 12 hours, we can scrape almost 80 - 90 percent of their ideas from their head. And eventually then comes the revision part. We provide unlimited revisions but a maximum of 15 hours and we can turn their book ideas or the thoughts, vision, experience, expertise they have in their mind into a well-written manuscript.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 18880,
+      "timestamps": []
+    },
+    {
+      "end": 20116,
+      "excerpt": "Gopi Rangan: This is very interesting. Each one of us can talk about something interesting that we have done. We can easily talk for 10 hours on that topic. There's at least one book in each one of us, if not more. The intimidating thing about publishing a book is that it immediately feels like, oh my God, I need to be articulate. I need to have ideas very clearly thought through, and I need to sit down and write, I'm not a good writer and I've never written books. So the first book is always a challenge. Even subsequent books are a challenge. You are making it easy for them to overcome that challenge, embrace their dream of ever publishing a book, perhaps even inducing their dream, that they could publish a book. And you're making it so simple that they just need to sit down and talk to you for 10 hours.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19300,
+      "timestamps": []
+    },
+    {
+      "end": 20507,
+      "excerpt": "Vikrant Shaurya: Actually, we got two clients this month who have already written and published their book themselves. Because they know how difficult the entire process is, they wanted to hire some professionals to do this thing. And it took them three, four years, five years to write their first book. They know that with us it's going to be just three to four months to write the book.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 20118,
+      "timestamps": []
+    },
+    {
+      "end": 20759,
+      "excerpt": "So those people who have followed the journey know those who are going to be writing their book for the first time really need the service; because of the time, energy and effort they are putting in sitting down, writing the book. It's not worth it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20509,
+      "timestamps": []
+    },
+    {
+      "end": 21058,
+      "excerpt": "Gopi Rangan: You have helped hundreds of authors over the years. And you have turned into that early believer that you had when you started your own journey. It's great to see that you're in some ways giving back to the world. So, Vikrant, in your view, how do entrepreneurs contribute to society?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20761,
+      "timestamps": []
+    },
+    {
+      "end": 21731,
+      "excerpt": "Vikrant Shaurya: I think there are three ways entrepreneurs are contributing to society. The first thing is they're solving a problem that society has. Sometimes people who are living in the society don't know about that problem. For example, initially, people didn't know that they need fire. But then fire came and suddenly people know and realize that, oh, how were we surviving without fire? And then wheels came. And then people used to think oh, how were we able to survive without wheels? So entrepreneurship is very much about problem-solving. And the first type of contribution is you are actually helping someone, making their life or business very, very easy. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 21060,
+      "timestamps": []
+    },
+    {
+      "end": 22514,
+      "excerpt": "The second thing that you are doing is you are contributing to the people who are working in your organization. Initially, I didn't think that way, but when I started working with so many people like now we have, I guess 30, 25 people working full time, and there are so many interns as well. So we have around 40, 50 people every day. Along with that, we have thousands of writers and editors who work with us on a contract basis. So after working with these people, I realized that they're contributing to us with their time, energy, and effort, but at the same time, the money which we give, the salary, which we give to them, is also helping them, helping their family and helping them get food, helping them get education for their children. So it's a kind of snowball effect.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21733,
+      "timestamps": []
+    },
+    {
+      "end": 23162,
+      "excerpt": "So, let me share with you one incident. We have some employees in the Philippines. In December, a very terrible typhoon came into the Philippines. So many cities got demolished and destroyed by that typhoon. And we had a few employees who got affected very badly. There was no electricity, there was water all around them and they were not able to also get drinking water and food for themselves. One person got really affected by that. She was also pregnant. It was a very difficult situation for her. So after talking to our CEO, we decided to buy a generator for her so that she can have at least electricity and some water supply at her home.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22516,
+      "timestamps": []
+    },
+    {
+      "end": 23664,
+      "excerpt": "Normally, the generator over there is $200, but just because of this situation, they were charging two times like $400, $500, sometimes more per generator. But we paid for that and she was able to get a generator and she was able to survive well. So what you are doing is you're not only helping a person after taking them as an employee, you are really taking care of the entire family, their education, their social system. So I am very grateful because I'm able to really help people in this way. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23164,
+      "timestamps": []
+    },
+    {
+      "end": 24226,
+      "excerpt": "The third level of contribution is, if you are doing the right kind of entrepreneurship and going in the right direction, you will be having a sense of wisdom. You will be having clarity in your mind which is not only going to be helping you but also the people around you. If someone is going to come to you, you'll be able to properly guide them because now you have faced so many challenges and that's the reason you are also able to provide a good level of guidance to people around you, which is also kind of helping the community and society around you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23666,
+      "timestamps": []
+    },
+    {
+      "end": 24677,
+      "excerpt": "Gopi Rangan: Vikrant, this is incredibly insightful. You have shared your personal journey, a lot of insights that you probably haven't shared elsewhere. It's a real-life perspective in your reflections on what entrepreneurship means at the community level and at a personal level. It's very powerful. Thanks a lot for sharing your nuggets of wisdom and sharing your stories with me. I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24228,
+      "timestamps": []
+    },
+    {
+      "end": 24763,
+      "excerpt": "Vikrant Shaurya: Awesome. Thank you so much, Gopi. It was a pleasure talking to you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vikrant Shaurya",
+      "start": 24679,
+      "timestamps": []
+    },
+    {
+      "end": 25106,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24765,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "dd922c3d215d847f7b1cb37ce44c0d696b92e591e4c6e5adeee847393271ea7f",
+  "text_sha256": "dfab8972a6834fed9964a54d804a1c5c338836e944dc21bf25ce85e6a334bac9"
+}

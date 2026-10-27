@@ -1,0 +1,999 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 366,
+      "excerpt": "Be able to answer three questions, at least theoretically around your product offering. And that is: how much is your customer willing to pay you for this? What's the most they're willing to pay you for this? And at what point they tell you to \"buzz off, I'm not going to pay you for this\"? The reason why I like those three questions is it helps really filter down:",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 710,
+      "excerpt": "Are you solving the top pain point? Is it one, two, or three? What's the minimal viable product you need to build? How much money do you need to raise to build that product? What's the sales cycle going to look like? Are you selling to small SMBs or large enterprises or direct to consumer? Accordingly, how much capital do you need to raise?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 368,
+      "timestamps": []
+    },
+    {
+      "end": 1221,
+      "excerpt": "[00:00:35] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision. Manan Mehta is the founding partner of Unshackled Ventures, a Silicon Valley based venture capital firm. He and his partner, Nitin, started Unshackled to remove the bottlenecks of immigration and amplify an entrepreneur's dream to build a new business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 712,
+      "timestamps": [
+        {
+          "offset": 712,
+          "raw": "[00:00:35]",
+          "seconds": 35
+        }
+      ]
+    },
+    {
+      "end": 1269,
+      "excerpt": "Manan, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1223,
+      "timestamps": []
+    },
+    {
+      "end": 1328,
+      "excerpt": "[00:01:19] Manan Mehta: Thank you so much for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 1271,
+      "timestamps": [
+        {
+          "offset": 1271,
+          "raw": "[00:01:19]",
+          "seconds": 79
+        }
+      ]
+    },
+    {
+      "end": 1378,
+      "excerpt": "[00:01:21] Gopi Rangan: Tell us about yourself, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1330,
+      "timestamps": [
+        {
+          "offset": 1330,
+          "raw": "[00:01:21]",
+          "seconds": 81
+        }
+      ]
+    },
+    {
+      "end": 1734,
+      "excerpt": "[00:01:23] Manan Mehta: Manan. The short story is I'm actually very fortunate to have won the Geographic Lottery. I was born and raised here in Silicon Valley, son of immigrants, grew up throughout my childhood here in the Bay Area, and was very fortunate to see what ultimately became the American dream for many immigrants as the son of two immigrants.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 1380,
+      "timestamps": [
+        {
+          "offset": 1380,
+          "raw": "[00:01:23]",
+          "seconds": 83
+        }
+      ]
+    },
+    {
+      "end": 2440,
+      "excerpt": "I have a double major in engineering and economics, studied abroad in London School of Economics. My career has has zigged and zagged a little bit where I started my career off in investment banking in the years of 2007 to 2010, uh, working on transactions like the Skype $1. 3 billion take private. And then ended up working for an education technology company that was backed by Andreessen Horowitz first round and Floodgate, started by an immigrant Osman Rashid, the founder of Chegg, who then went and founded the next company that I worked at, which was Kno. That got me working alongside a lot more foreign born immigrant entrepreneurs, and that led to ultimately starting Unshackled back in 2014. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1736,
+      "timestamps": []
+    },
+    {
+      "end": 2575,
+      "excerpt": "[00:02:30] Gopi Rangan: This is very interesting that you already peppered in the immigrant story here, but how did you get into VC? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2442,
+      "timestamps": [
+        {
+          "offset": 2442,
+          "raw": "[00:02:30]",
+          "seconds": 150
+        }
+      ]
+    },
+    {
+      "end": 2859,
+      "excerpt": "[00:02:36] Manan Mehta: Yeah, so the story is actually interesting and I probably jumped over it in my background, but in between working at the education technology company and starting Unshackled, I actually attempted to start a business with a co-founder that was on an H1B visa.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 2577,
+      "timestamps": [
+        {
+          "offset": 2577,
+          "raw": "[00:02:36]",
+          "seconds": 156
+        }
+      ]
+    },
+    {
+      "end": 3796,
+      "excerpt": "This was back in 2013 and early parts of 2014 and little did I know that as an American born, my co founder, who was a visa holding founder, I would be affected. He could not quit his daytime job because of visa sponsorship. And so long story short, connected with my now co-founder, Nitin, to come up with a solution on how do we help early-stage day zero immigrant-led companies on work visas actually allow them to quit their daytime job and work full time on their business. It was really in that pursuit of solving a problem that the most efficient solution would be building a venture fund to use our balance sheet, invest from our fund, sponsor the visa holder and effectively give birth to companies like the one I tried to start with, not realizing in my previous 30 years of my life that immigration would be a reason that many founders would either not build their company or would at a minimum delay starting their company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2861,
+      "timestamps": []
+    },
+    {
+      "end": 3903,
+      "excerpt": "So it's really a story of accidentally becoming a VC, but very intentionally looking to solve a problem. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3798,
+      "timestamps": []
+    },
+    {
+      "end": 4167,
+      "excerpt": "[00:04:06] Gopi Rangan: You say it so simply that accidentally becoming a VC, but it takes a lot of thought. It's great that you had personal experience starting a company and that the challenges of starting a company with an immigrant co-founder was very clear.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3905,
+      "timestamps": [
+        {
+          "offset": 3905,
+          "raw": "[00:04:06]",
+          "seconds": 246
+        }
+      ]
+    },
+    {
+      "end": 4320,
+      "excerpt": "But did you get a feel for that there are a lot of others like this in the same situation, and they also find it quite challenging to start companies? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4169,
+      "timestamps": []
+    },
+    {
+      "end": 4535,
+      "excerpt": "[00:04:27] Manan Mehta: Yeah, so as I was building my company, just like many of the founders that we back today, I was working in a coworking space, certainly not in COVID times, but working at a coworking space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 4322,
+      "timestamps": [
+        {
+          "offset": 4322,
+          "raw": "[00:04:27]",
+          "seconds": 267
+        }
+      ]
+    },
+    {
+      "end": 5352,
+      "excerpt": "And every evening after about 5 PM there was a noticeable change in the demographics, in the language, and in the smell of the food permeating from the microwave at the coworking space. What was happening was a lot of foreign-born people were tinkering and moonlighting on their ideas. And it was in that constant reminder and recurrence of these people coming in and out you realize that at the margin, somebody who comes to America by choice is more entrepreneurial than somebody who is native born, like myself. In a weird way, it's just like when we back companies and you're doing customer discovery. We were doing customer discovery at our actual coworking space. And so when we started seeing this frequency in this volume of foreign-born talent working and asking them the same question, \"Are you on a visa?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4537,
+      "timestamps": []
+    },
+    {
+      "end": 5681,
+      "excerpt": "Are you going to quit your daytime job? Are you going to work on your company full time?\" And you started hearing the consistency and the answer saying, \"I would love to, but I can't until I raise money. Oh, but raising money is very hard when I'm not full time.\" Nitin and I realized that there was a much bigger problem here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5354,
+      "timestamps": []
+    },
+    {
+      "end": 6055,
+      "excerpt": "And we ultimately bought a space at a conference to host a booth. We went to a local mall, printed t-shirts and effectively put on the back of our t-shirts, \"Want to start a company while on a visa? Come talk to us.\" Over three days of customer discovery and market validation, we became a beehive. Everyone was flocking to our booth and we knew that the market was there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5683,
+      "timestamps": []
+    },
+    {
+      "end": 6233,
+      "excerpt": "[00:06:19] Gopi Rangan: Wow. That's fascinating. How do you choose to fund these entrepreneurs? What kind of companies do you invest in and how do you go through that process? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6057,
+      "timestamps": [
+        {
+          "offset": 6057,
+          "raw": "[00:06:19]",
+          "seconds": 379
+        }
+      ]
+    },
+    {
+      "end": 7287,
+      "excerpt": "[00:06:27] Manan Mehta: Yeah. So again, I think so much of this is understanding product/market fit for us. When we started the firm back in 2015 and raised our debut fund, we were very adamant on building the first fully vertically integrated fund for immigrant entrepreneurs or teams with immigrant entrepreneurs. And what that meant was three things. Number one, recognizing that many foreign nationals do not have access to friends and family money. By definition, they may be the only one in their family in the country. Number two, one of the truisms of Silicon Valley that's maybe not talked about very often is the difference between success and failure is not what you know, it's who you know and when. And by definition, again, many foreign-born entrepreneurs do not have deep networks because they don't have years or generations in the country. And the third thing we realized was if you're going to support the immigrant diaspora or teams of immigrants, the only way to support the entire population is to also provide immigration support.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 6235,
+      "timestamps": [
+        {
+          "offset": 6235,
+          "raw": "[00:06:27]",
+          "seconds": 387
+        }
+      ]
+    },
+    {
+      "end": 8011,
+      "excerpt": "So when you put those three pieces together and look at the center of that Venn diagram, the product/market fit was really at day zero. It was pre incorporation, investing in people, not being focused only on any vertical or industry, but fundamentally underwriting people the way their friends and family would. The friends and family typically do not have regards for: \"are you building something in the e-commerce space or are you building something in deep tech? They're betting on the people. So when we take our investment strategy and filter that on top of the stage, it's very simple. We are going to underwrite people before they have product revenue customers and certainly in many cases before they incorporate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7289,
+      "timestamps": []
+    },
+    {
+      "end": 8415,
+      "excerpt": "So our process to invest is heavily skewed towards understanding why you want to build this company. What is your motivation? What is the story, the distance you've traveled and how do you define your adversity muscle? Uh, because building a company is really hard. Once we understand that everything else that we do can actually be designed to build value in your company and help you succeed faster. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8013,
+      "timestamps": []
+    },
+    {
+      "end": 8809,
+      "excerpt": "[00:08:34] Gopi Rangan: Now, I've heard you say that entrepreneurs or immigrants are long on dreams and the building the adversity muscle is something that naturally comes to immigrants. Is there a type of immigrant or is there a type of company that you prefer to invest in? You mentioned the stage is like very early pre-incorporation, but are there other characteristics that you look for?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8417,
+      "timestamps": [
+        {
+          "offset": 8417,
+          "raw": "[00:08:34]",
+          "seconds": 514
+        }
+      ]
+    },
+    {
+      "end": 8887,
+      "excerpt": "Maybe you could give an example of one or two companies you've invested in. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8811,
+      "timestamps": []
+    },
+    {
+      "end": 9158,
+      "excerpt": "[00:09:00] Manan Mehta: Yeah, it's a great question. Ultimately, an investment process, which maybe should be made more clear to entrepreneurs is there's two different starting points. The first one most commonly in VC is, did you come from a warm intro that I respect?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 8889,
+      "timestamps": [
+        {
+          "offset": 8889,
+          "raw": "[00:09:00]",
+          "seconds": 540
+        }
+      ]
+    },
+    {
+      "end": 9627,
+      "excerpt": "Immigrants don't get that luxury. And so we certainly weren't going to be the VC that said only warm intros and references that we trust are going to be the way we invest. Certainly not our way. The second way is throughout the investment process, in every subsequent meeting, you continually impress the person you're talking to. You withhold how to narrate, and you keep on building up from the very beginning to the very end of the process to get their conviction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9160,
+      "timestamps": []
+    },
+    {
+      "end": 9942,
+      "excerpt": "And so what we look for is something that is very driven by our emotion, our inability to leave the conversation, to end it on time, to believe there's something unique here. And that uniqueness can come from two different ways again. Number one, it can come from a unique insight around the business opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9629,
+      "timestamps": []
+    },
+    {
+      "end": 10747,
+      "excerpt": "One specific example that I can think about is a company called Bluefield in our portfolio. His thesis was entirely built around methane detection from lower earth orbit. The adoption of it was not going to be driven by. a concern for climate change and global warming, but rather by an inclination around the fact that one of the largest underwriters of bank debt for the oil and gas industry had a covenant around their debt agreement that they must provide some methane monitoring by the year 2021 or 2022. That was going to drive customer adoption. The other type of insight, which is much more of a technical insight is somebody to the vein of our founder of Plutoshift. This was our very first investment in our portfolio in 2015 has now gone on to raise series A from multiple high profile funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9944,
+      "timestamps": []
+    },
+    {
+      "end": 11095,
+      "excerpt": "But his ability came down to his ability to write code. He has now today written 13 books on artificial intelligence. He's a Ted speaker for 30 under 30. And that story around the business proposition was certainly a lagging indicator around his technical abilities to solve hard problems around applied AI and making sense from time series data.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10749,
+      "timestamps": []
+    },
+    {
+      "end": 11310,
+      "excerpt": "So what we're looking for is something that we just can't refutably ignore about the team. It's either an insight in the market opportunity or a technical insight that they can build a defensible strategy around. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11097,
+      "timestamps": []
+    },
+    {
+      "end": 11438,
+      "excerpt": "[00:11:27] Gopi Rangan: Two very good examples. And the topic you talked about is, uh, I still don't know how to resolve that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11312,
+      "timestamps": [
+        {
+          "offset": 11312,
+          "raw": "[00:11:27]",
+          "seconds": 687
+        }
+      ]
+    },
+    {
+      "end": 11742,
+      "excerpt": "Uh, I would love to learn from you on how you do it. Warm introductions are kind of the norm and it's very difficult to meet every entrepreneur that sends an email to us. How do you manage that? What is the process you follow? What's the decision making process like especially with the first meeting? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11440,
+      "timestamps": []
+    },
+    {
+      "end": 11802,
+      "excerpt": "[00:11:50] Manan Mehta: Yeah, it's another great question.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 11744,
+      "timestamps": [
+        {
+          "offset": 11744,
+          "raw": "[00:11:50]",
+          "seconds": 710
+        }
+      ]
+    },
+    {
+      "end": 12925,
+      "excerpt": "So, I'll give some context on where we've come. In 2018, we'd see about 51 deals a month, 2019, about a hundred. In 2020, 154. So you're looking at nearly 1800 deals a year. How do we process that? So everything that Unshackle does starts with a form on our website, whether you're a cold intro or warm intro, same process. This is the only way we can walk the walk on democratizing access to people. Again, going back to immigrant entrepreneurs, they don't have networks and that can not be a reason why they are not given a fair look. That form is looked upon twice a week by at least three people of our team. We have a team right now of five full time and one summer intern. Within seven days, we will evaluate that, invite you to an initial pitch of 20 minutes. Every Tuesday and Wednesday, we have three tracks, 20 minute each, to go through these pitches. And on each pitch, there's a partner. We believe in 20 minutes we're either positively inclined or negatively inclined. And we do not want to waste founders time more than that if we're not positively inclined. That's why a decision maker is on that meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11804,
+      "timestamps": []
+    },
+    {
+      "end": 13270,
+      "excerpt": "If we are positively inclined, we will then request an hour of the founder's time. This is with the other partner. We start doing a lot of research in the space, come up with typically 8 to 10 questions. Our associate or analyst is consistent throughout the journey. So there's always one point of And we start to go deeper into your insights.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12927,
+      "timestamps": []
+    },
+    {
+      "end": 13856,
+      "excerpt": "You'll go-to-market strategy and start to provide some thoughts around the opportunity. If that goes well, we then have our final meeting, which is a full partner meeting, another hour to an investment decision. Our goal is three meetings, two and a half hours less to an investment outcome. Again, we have led rounds in 75 percent of our businesses. We have been doing remote investing, online investing for over a year and a half. We are very comfortable investing over Zoom, taking a leadership position, underwriting the people, and asking very thoughtful and engaging questions. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13272,
+      "timestamps": []
+    },
+    {
+      "end": 13942,
+      "excerpt": "[00:14:01] Gopi Rangan: Well, you've clearly mastered the art of evaluating pitches.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13858,
+      "timestamps": [
+        {
+          "offset": 13858,
+          "raw": "[00:14:01]",
+          "seconds": 841
+        }
+      ]
+    },
+    {
+      "end": 14027,
+      "excerpt": "Out of the 1, 800 startups that come to you every year, how many do you invest in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13944,
+      "timestamps": []
+    },
+    {
+      "end": 14167,
+      "excerpt": "[00:14:11] Manan Mehta: Yeah, right now we're scaling a little bit, so we'll probably do between 15 and 18 a given year. So less than 1%. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 14029,
+      "timestamps": [
+        {
+          "offset": 14029,
+          "raw": "[00:14:11]",
+          "seconds": 851
+        }
+      ]
+    },
+    {
+      "end": 14232,
+      "excerpt": "[00:14:19] Gopi Rangan: It's about one to two deals per month. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14169,
+      "timestamps": [
+        {
+          "offset": 14169,
+          "raw": "[00:14:19]",
+          "seconds": 859
+        }
+      ]
+    },
+    {
+      "end": 14331,
+      "excerpt": "[00:14:22] Manan Mehta: Yeah, the goal is every six weeks do a deal. It certainly comes in waves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 14234,
+      "timestamps": [
+        {
+          "offset": 14234,
+          "raw": "[00:14:22]",
+          "seconds": 862
+        }
+      ]
+    },
+    {
+      "end": 14481,
+      "excerpt": "Right now we're working on closing three deals simultaneously. It never works out the way we want, but it's our job to stay on founders' timelines. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14333,
+      "timestamps": []
+    },
+    {
+      "end": 14675,
+      "excerpt": "[00:14:34] Gopi Rangan: Yeah. It's very difficult to predict exactly how many opportunities you will have. Sometimes you'll have more on your plate in a week and another week it might be slow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14483,
+      "timestamps": [
+        {
+          "offset": 14483,
+          "raw": "[00:14:34]",
+          "seconds": 874
+        }
+      ]
+    },
+    {
+      "end": 14954,
+      "excerpt": "It depends on the season. You started a few years ago, like from the day when you set up that booth to do market validation, when you got into VC, how has the market changed? Are there some notable changes that you've made and how you have evolved in your own thought process? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14677,
+      "timestamps": []
+    },
+    {
+      "end": 15037,
+      "excerpt": "[00:15:01] Manan Mehta: Yeah, the market certainly changed quite a bit around us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 14956,
+      "timestamps": [
+        {
+          "offset": 14956,
+          "raw": "[00:15:01]",
+          "seconds": 901
+        }
+      ]
+    },
+    {
+      "end": 15506,
+      "excerpt": "I mean, I think now you have 1200 funds in the market that when we started it was 300-400 funds that considered themselves early stage. So pre seed or seed. The reality is there's a lot of capital out there for people and I don't think capital wins investment opportunities. Certainly if you're an Andreessen, Sequoia or Lightspeed, where you can invest $20m to $30m at a time, you can win deals, but at the earliest stage, it's about conviction and customer service.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15039,
+      "timestamps": []
+    },
+    {
+      "end": 15832,
+      "excerpt": "And so for us, what that has meant is hyper transparency. We publish our entire process online. We also publish what are we likely to invest in. So how you can impress upon us that we should back you. We run a very tight process, as I mentioned earlier, and most importantly, we've started to unbundle our founder community.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15508,
+      "timestamps": []
+    },
+    {
+      "end": 16189,
+      "excerpt": "So we've always said there's two ways to build a brand. You can build a line outside your door that everyone sees when they walk by and they want to get in, or you can build something inside that once you're inside, no one ever leaves and you never see them again. We have been intent on building the party that once you're inside you never want to leave.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15834,
+      "timestamps": []
+    },
+    {
+      "end": 16503,
+      "excerpt": "And what that means is you care about who's inside. And so a big part of our philosophy has been unbundling the founder ecosystem. And so all of our founders are on Slack. They help each other. In fact, you have founders that are of two different categories. We have category of founders called the rising stars.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16191,
+      "timestamps": []
+    },
+    {
+      "end": 16836,
+      "excerpt": "These are people that are on their first company. Many people don't know about them. They're not world famous. And then we have the other category, the known stars. These are founders on the third or fourth business. They may have had unicorn exits as founders, or they can get money from any VC. They're all in the same community.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16505,
+      "timestamps": []
+    },
+    {
+      "end": 17349,
+      "excerpt": "So, by way of example, we have founders who are founding engineers at Omada. We have founders in our community that were the co-founders of AppDynamics. And then we have founders that are building their very first company. All in the same community. By unbundling that, giving them access to each other, you'll watch them succeed faster. And that's the level of customer support that we believe is scalable in venture and a lot of things that the affinity of being an immigrant really resonates with each other.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16838,
+      "timestamps": []
+    },
+    {
+      "end": 17385,
+      "excerpt": "And that's how we succeed faster. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17351,
+      "timestamps": []
+    },
+    {
+      "end": 17746,
+      "excerpt": "[00:17:16] Gopi Rangan: I see that you view venture capital as a service business and you're in the business of serving entrepreneurs. And I see how the Slack community and the network that you create among entrepreneurs perfectly serves that type of model. What can an entrepreneur do to prepare himself or herself before they come into the meeting with you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17387,
+      "timestamps": [
+        {
+          "offset": 17387,
+          "raw": "[00:17:16]",
+          "seconds": 1036
+        }
+      ]
+    },
+    {
+      "end": 17965,
+      "excerpt": "[00:17:37] Manan Mehta: Yes, one thing I tell founders all the time is: before you start your business do a little bit of customer discovery. First Round Capital had an amazing blog post around the willingness to pay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 17748,
+      "timestamps": [
+        {
+          "offset": 17748,
+          "raw": "[00:17:37]",
+          "seconds": 1057
+        }
+      ]
+    },
+    {
+      "end": 18292,
+      "excerpt": "And so what I tell founders is to be able to answer three questions, at least theoretically, around your product offering. And that is: how much is your customer willing to pay you for this? What's the most they're willing to pay you for this? And at what point they tell you to \"buzz off, I'm not going to pay you for this\"?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17967,
+      "timestamps": []
+    },
+    {
+      "end": 18659,
+      "excerpt": "The reason why I like those three questions is it helps really filter down. Are you solving the top pain point? Is it one, two or three? What's the minimal viable product you need to build? How much money do you need to raise to build that product? What's the sales cycle going to look like? Are you selling to small SMBs or large enterprises or direct to consumer?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18294,
+      "timestamps": []
+    },
+    {
+      "end": 18965,
+      "excerpt": "Accordingly, how much capital do you need to raise? All of these things create the initial thesis on why you should start the business. If you have those answers, we're likely going to know that there's some key insight that you've picked up on that no one else can. That's what we're going to invest in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18661,
+      "timestamps": []
+    },
+    {
+      "end": 19334,
+      "excerpt": "And knowing the competitive landscape and why a customer will pay for what you're building, I think it's a critical element because I think many, at least enterprise businesses will likely start off as service-oriented businesses. So you may as well figure out what they're going to pay you for that service so you can prioritize it over the next three to four years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18967,
+      "timestamps": []
+    },
+    {
+      "end": 19699,
+      "excerpt": "[00:18:56] Gopi Rangan: This is fascinating. You're giving an insider view on what kind of information you look for and how you make these decisions. But what's the dynamics between you and your partner and the rest of your team when you make decisions? Does an entrepreneur need to convince one partner, both partners, or get the buy in of everybody on the team?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19336,
+      "timestamps": [
+        {
+          "offset": 19336,
+          "raw": "[00:18:56]",
+          "seconds": 1136
+        }
+      ]
+    },
+    {
+      "end": 19726,
+      "excerpt": "Now, how does that work? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19701,
+      "timestamps": []
+    },
+    {
+      "end": 20069,
+      "excerpt": "[00:19:15] Manan Mehta: Yeah, we do all team-based investing. Right now we have two general partners. Theoretically, we have full decision making capacity. We both need to be in agreement. It's our job to convince each other, not the founder's job. We have a lot of deference for each other. And so we, we will respect the viewpoints so far.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 19728,
+      "timestamps": [
+        {
+          "offset": 19728,
+          "raw": "[00:19:15]",
+          "seconds": 1155
+        }
+      ]
+    },
+    {
+      "end": 20878,
+      "excerpt": "We have not disagreed on a single one of our 50 investments. Wow. Reason why we believe in that is because the founder gets the best out of Unshackled when we all are all on the same page. And so, as I mentioned earlier, we have five people on our team. Maria has been with us for five years. She is kind of the rising star across venture capital. We take her opinion very, very seriously. If any of our team members are not excited by a deal or will pound the table, that will be taken very seriously as well. We really pride ourselves in team-based investing. It's critical to founder success because at end of the day, every one of the team member that Unshackled has a different skill set and we can help with. And we want all of the power of Unshackled to be unleashed the moment we make an investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20071,
+      "timestamps": []
+    },
+    {
+      "end": 21193,
+      "excerpt": "Here's the truth of venture capital, especially early stage venture capital. Myself, very specifically me, am the last one to make money in a company in most cases. Ideally, first, the founders make money, then the most recent, latest investor, then we get our money back, which goes to my LPs, then I make money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20880,
+      "timestamps": []
+    },
+    {
+      "end": 21281,
+      "excerpt": "So if we are not amplifying founders time, we're never going to make money ourselves. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21195,
+      "timestamps": []
+    },
+    {
+      "end": 21527,
+      "excerpt": "[00:20:43] Gopi Rangan: That's the beauty of venture capital. The philosophy of venture capital is set up that way that your entrepreneurs make money, your investors make money, and then you as an venture capital investor, you generate returns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21283,
+      "timestamps": [
+        {
+          "offset": 21283,
+          "raw": "[00:20:43]",
+          "seconds": 1243
+        }
+      ]
+    },
+    {
+      "end": 21809,
+      "excerpt": "And it's all based on the profits that you generate. That's one of the basic principles of venture capital. And that's one of the things I admire a lot. How long does it take from the first meeting to go through this process to get to a point of final decision for an investment? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21529,
+      "timestamps": []
+    },
+    {
+      "end": 22244,
+      "excerpt": "[00:21:08] Manan Mehta: I've done it as fast as three days and I've done it as long as three months. I think that the punchline here is we work on founder's timeline. That's not to say an open request to push us all the time because nothing is worse than having artificial deadlines that the investor finds out were not true. But certainly, again, we run a process so seamlessly that we ensure our process does not determine outcome.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 21811,
+      "timestamps": [
+        {
+          "offset": 21811,
+          "raw": "[00:21:08]",
+          "seconds": 1268
+        }
+      ]
+    },
+    {
+      "end": 22423,
+      "excerpt": "We first think about the outcome that we want, and then we will adjust our process to get it done. We're not that rigid. But yeah, we will take a founder's time very seriously. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22246,
+      "timestamps": []
+    },
+    {
+      "end": 22662,
+      "excerpt": "[00:21:43] Gopi Rangan: So you're flexible. Sometimes when it's really urgent, you can move fast, but, somewhere between three days to three months, depending on the speed at which the entrepreneur is moving, you would make the decision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22425,
+      "timestamps": [
+        {
+          "offset": 22425,
+          "raw": "[00:21:43]",
+          "seconds": 1303
+        }
+      ]
+    },
+    {
+      "end": 22983,
+      "excerpt": "I want to ask you about something maybe if it's okay to push a little further. So many companies are founded with on immigrant entrepreneurs, and that's been happening for a long time, and it will continue to happen in the future as well. What is different with Unshackled Ventures when you say you focus on immigrants?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22664,
+      "timestamps": []
+    },
+    {
+      "end": 23055,
+      "excerpt": "Isn't it true that most VCs invest in immigrant entrepreneurs anyway? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22985,
+      "timestamps": []
+    },
+    {
+      "end": 23345,
+      "excerpt": "[00:22:17] Manan Mehta: 100%. Before Unshackled, after Unshackled, immigrants will start companies. They will be in the U. S. and they will be the greatest returners, financial returners of all demographics. That's certainly not going to change. For us, it's more than that though, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 23057,
+      "timestamps": [
+        {
+          "offset": 23057,
+          "raw": "[00:22:17]",
+          "seconds": 1337
+        }
+      ]
+    },
+    {
+      "end": 23843,
+      "excerpt": "Because there are obstacles and hurdles that are uniquely aligned to the foreign national journey. Waiting for your green card to start a company is an artificial government-imposed barrier. Waiting to get the warm intro to find the right investors is an artificial barrier. Getting somebody to provide your friends and family money when you don't have any friends and family in the country is a barrier. Getting somebody in your corner that's a full time investor to increase value is a barrier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23347,
+      "timestamps": []
+    },
+    {
+      "end": 24190,
+      "excerpt": "It's really easy if you're coming out of. I don't know, pick a company, um, Medallia as the head of security and you want to start a company. You'll have your choice of capital. But what about that person that is 24 years old, that got a full ride scholarship, I don't know, to University of Miami or Ohio and wants to start their first company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23845,
+      "timestamps": []
+    },
+    {
+      "end": 25243,
+      "excerpt": "They're not going to get that half million dollars or $2 million out of the gates. But if we can be that source of capital, we've done our job. On top of that for that person coming out of Medallia or a top company, Uber, most early-stage investment capital is either angels who are part time investors or they're much larger funds writing small option bet checks. That's wonderful. It makes a lot of sense, but it's not surprising that they're now inviting us into those rounds, those larger funds. Whether we're co investing with Lightspeed, Menlo, Founders Fund, or 8VC, there's a reason why they want us involved in the company is because we just understand a lot of the early stage playbook better than they will. They're focusing much more on the series A and beyond growth strategies, but the challenge of the first two or three years is very unique and it's not dependent on how much money you raise. It's dependent on the stage of your business. And that's why we tend to go early and earlier in our belief and it, creates a better ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24192,
+      "timestamps": []
+    },
+    {
+      "end": 25767,
+      "excerpt": "[00:24:20] Gopi Rangan: The immigrants tend to have the ability to achieve great things, but it's all in the future and it's really hard to look at their past and evaluate their capabilities. Entrepreneurs are the same way as well. But in that world, you're truly going after the underdogs, people who may not have worked at a large company like Google and others, where they would have made friends with others, even if they are immigrants, uh, then it becomes a lot easier for them to raise the initial round of funding.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25245,
+      "timestamps": [
+        {
+          "offset": 25245,
+          "raw": "[00:24:20]",
+          "seconds": 1460
+        }
+      ]
+    },
+    {
+      "end": 25935,
+      "excerpt": "You truly focus on the immigrants who may not have much at all. They're still new to the country and they have the entrepreneurial flare and you are supporting them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25769,
+      "timestamps": []
+    },
+    {
+      "end": 26468,
+      "excerpt": "[00:24:57] Manan Mehta: Certainly that's, the case. But if that was only the case, we wouldn't be investing in these known stars as well, who are being backed by these top flight series A funds as well. And I think what it goes down to is how early we're willing to invest our resource and energy to helping companies around customer validation, customer discovery, willingness to pay, our willingness to be available as they need us, right? We don't respond back and saying, \"Hey, schedule an office hour with me a week from now.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 25937,
+      "timestamps": [
+        {
+          "offset": 25937,
+          "raw": "[00:24:57]",
+          "seconds": 1497
+        }
+      ]
+    },
+    {
+      "end": 26827,
+      "excerpt": "We will get on a call that night. We believe in customer service, and that's where we think the difference is in how you succeed. And candidly, the bigger picture thought process here is venture capital is designed to find outsized returns from outliers. So how does pattern recognition work? It's the fundamental antithesis of outside returns and outliers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26470,
+      "timestamps": []
+    },
+    {
+      "end": 27151,
+      "excerpt": "So we are willing to do things that many other funds just don't need to. Our fund size is designed for this stage. Our team is being built for portfolio support and success. We run programs like the round table program and the university fellowship program to give access, and then we also do a lot of founder series with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26829,
+      "timestamps": []
+    },
+    {
+      "end": 27484,
+      "excerpt": "Customers and sources of capital. We do a lot of things that a lot of people don't talk about, or we don't talk about publicly, but it's again, everything that we do at Unshackled is built on two things: helping founders get to more customers and more capital. And it's not surprising our most common next investor is Y Combinator.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27153,
+      "timestamps": []
+    },
+    {
+      "end": 27827,
+      "excerpt": "[00:26:28] Gopi Rangan: I'm smiling because I wish Unshackled existed 15 years ago when I was a new immigrant. It would have certainly helped me. I want to ask you, are there any specific, tactical things that you help with? Maybe with immigration, legal items or other things like that usually not covered by any other venture capital firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27486,
+      "timestamps": [
+        {
+          "offset": 27486,
+          "raw": "[00:26:28]",
+          "seconds": 1588
+        }
+      ]
+    },
+    {
+      "end": 28228,
+      "excerpt": "[00:26:47] Manan Mehta: You couldn't serve the immigrant diaspora without serving immigration. Think about immigration as why the car starts and then everything else we do in terms of once we invest is how it's building the on ramp to the highway. So we actually have two immigration partners as part of the firm, which means we do all legal immigration work at zero cost to our portfolio companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 27829,
+      "timestamps": [
+        {
+          "offset": 27829,
+          "raw": "[00:26:47]",
+          "seconds": 1607
+        }
+      ]
+    },
+    {
+      "end": 28545,
+      "excerpt": "Nitin and I have given up our upside in the fund to our partners so that we can provide that service. What that means is everything from work authorization to the green card is at 0 dollar cost to our portfolio companies. More than the money, you now have people who are going to be creative and finding a solution.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28230,
+      "timestamps": []
+    },
+    {
+      "end": 28856,
+      "excerpt": "It's why we've done 130 immigration filings over the last five years on behalf of our portfolio companies. And we have a hundred percent success. That is certainly very unique to Unshackled. It's why we built this firm in a lot of the origin story. But beyond that, we recognize the car just starts with that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28547,
+      "timestamps": []
+    },
+    {
+      "end": 29131,
+      "excerpt": "The car's not moving. It's not on the highway. It's not going anywhere yet. And that's why we spend so much more of our time on the portfolio support and customers and capital to increase the value of that company, increase the speed help that car go a little bit further. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28858,
+      "timestamps": []
+    },
+    {
+      "end": 29339,
+      "excerpt": "[00:28:02] Gopi Rangan: It takes time to build a machine like this and kudos to you and your partner for leading this effort. I truly hope that many immigrants will benefit from the services that you offer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29133,
+      "timestamps": [
+        {
+          "offset": 29133,
+          "raw": "[00:28:02]",
+          "seconds": 1682
+        }
+      ]
+    },
+    {
+      "end": 29508,
+      "excerpt": "I want to talk about the next thing, the last piece in this segment about your community involvement. Is there a nonprofit organization that you are passionate about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29341,
+      "timestamps": []
+    },
+    {
+      "end": 29727,
+      "excerpt": "[00:28:22] Manan Mehta: Yeah, I'm a really big fan of an organization called Playworks. I've been very fortunate to go to a number of their annual galas and I actually do all my Amazon smile donations to them as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 29510,
+      "timestamps": [
+        {
+          "offset": 29510,
+          "raw": "[00:28:22]",
+          "seconds": 1702
+        }
+      ]
+    },
+    {
+      "end": 30216,
+      "excerpt": "But what the organization does, it provides a safe space for kids to get coaching, sports and play time who may not have it at home, who may not have the resources and may be forced in environments where both parents are working constantly multiple jobs and don't have that positive mentorship. And so these are typically elementary to junior high, high school kids who with a positive world of play and teamwork, take a big step forward in growing up and being better community leaders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29729,
+      "timestamps": []
+    },
+    {
+      "end": 30372,
+      "excerpt": "And so every year we spend a lot of time at these events and in giving as much as we can, but just been a really big part of our last seven, eight years. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30218,
+      "timestamps": []
+    },
+    {
+      "end": 30569,
+      "excerpt": "[00:29:14] Gopi Rangan: This is great. Thanks so much for sharing your experiences and insights on venture capital and your involvement in the local communities. It was a pleasure talking to you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30374,
+      "timestamps": [
+        {
+          "offset": 30374,
+          "raw": "[00:29:14]",
+          "seconds": 1754
+        }
+      ]
+    },
+    {
+      "end": 30719,
+      "excerpt": "I know we could spend more time picking your brain on various different things that you do. I hope we get a chance to co-invest also in the future. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30571,
+      "timestamps": []
+    },
+    {
+      "end": 30841,
+      "excerpt": "[00:29:32] Manan Mehta: Likewise. Thank you so much. And as it came from Hamilton, \"Immigrants. They get the job done.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Manan Mehta",
+      "start": 30721,
+      "timestamps": [
+        {
+          "offset": 30721,
+          "raw": "[00:29:32]",
+          "seconds": 1772
+        }
+      ]
+    },
+    {
+      "end": 30889,
+      "excerpt": "[00:29:38] Gopi Rangan: Well said. Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30843,
+      "timestamps": [
+        {
+          "offset": 30843,
+          "raw": "[00:29:38]",
+          "seconds": 1778
+        }
+      ]
+    },
+    {
+      "end": 31218,
+      "excerpt": "Thank you for listening to The Sure Shot Entrepreneur.I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30891,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "0f202a4ad2923f140b7c50139a2af33890e9f954348c96b297fe331a5739b7be",
+  "text_sha256": "ca6b4bd97ada6166ca29916f73e0c2fe1aa9e643816c551cad0594f5a6659c48"
+}

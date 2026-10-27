@@ -1,0 +1,1051 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 388,
+      "excerpt": "We're asking questions to, first of all, tease out why they're starting the company and why they think now is the right time for this to become a phenomenon, basically. We will be teasing questions out around that. I think there's a lot of the obvious stuff that founders will hear about, about how to prepare, like talk about a big market and great team and good technology and so forth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 544,
+      "excerpt": "The unintuitive things that we're really looking for are why now and why does this become a big and why you. I mean, those are effectively the questions. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 390,
+      "timestamps": []
+    },
+    {
+      "end": 927,
+      "excerpt": "[00:00:28] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision. Ravi Belani is the Managing Director at Alchemist Accelerator, a venture-backed initiative focused on accelerating startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 546,
+      "timestamps": [
+        {
+          "offset": 546,
+          "raw": "[00:00:28]",
+          "seconds": 28
+        }
+      ]
+    },
+    {
+      "end": 1190,
+      "excerpt": "The Accelerator backs teams with distinctive technical founders and provides capital, a fellowship of high potential founders, highly sought after mentors, customer development and a structured path to fundraising. Welcome, Ravi, to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 929,
+      "timestamps": []
+    },
+    {
+      "end": 1256,
+      "excerpt": "[00:01:21] Ravi Belani: Thank you, Gopi. It's great to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 1192,
+      "timestamps": [
+        {
+          "offset": 1192,
+          "raw": "[00:01:21]",
+          "seconds": 81
+        }
+      ]
+    },
+    {
+      "end": 1311,
+      "excerpt": "[00:01:23] Gopi Rangan: Tell us about yourself, Ravi.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1258,
+      "timestamps": [
+        {
+          "offset": 1258,
+          "raw": "[00:01:23]",
+          "seconds": 83
+        }
+      ]
+    },
+    {
+      "end": 1701,
+      "excerpt": "[00:01:24] Ravi Belani: So I am Ravi Belani. I'm an Indian American. I grew up in the Bay area and I can give a long history or short answer. I'll give you a short, the short answer right now is that I'm known for wearing two different hats. I run Alchemist, which is an accelerator for enterprise startups based out of San Francisco and Mountain View but also we have a European program.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 1313,
+      "timestamps": [
+        {
+          "offset": 1313,
+          "raw": "[00:01:24]",
+          "seconds": 84
+        }
+      ]
+    },
+    {
+      "end": 1890,
+      "excerpt": "The second hat that I wear is that I'm a lecturer at Stanford and I teach an Intro to Entrepreneurship class and I'm the lead for the Entrepreneurial Thought Leaders Seminar at Stanford. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1703,
+      "timestamps": []
+    },
+    {
+      "end": 2010,
+      "excerpt": "[00:01:53] Gopi Rangan: How did you decide to start Alchemist and how is Alchemist different from other accelerators? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1892,
+      "timestamps": [
+        {
+          "offset": 1892,
+          "raw": "[00:01:53]",
+          "seconds": 113
+        }
+      ]
+    },
+    {
+      "end": 2118,
+      "excerpt": "[00:01:58] Ravi Belani: I used to be a venture capitalist at DFJ, which is now a bunch of different funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 2012,
+      "timestamps": [
+        {
+          "offset": 2012,
+          "raw": "[00:01:58]",
+          "seconds": 118
+        }
+      ]
+    },
+    {
+      "end": 2434,
+      "excerpt": "And when I was at DFJ, I was doing a speaker series, which was called the Alchemist Series with the Harvard Club of San Francisco, which was focused on teaching Harvard alums how to become entrepreneurs. And we ended up doing a six week version of that speaker series where we just had six talks come back to back.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2120,
+      "timestamps": []
+    },
+    {
+      "end": 2749,
+      "excerpt": "And we got all these amazing enterprise founders that joined that six week series. This was in 2010 or 2011. It was around that timeframe. And these are people who are vice presidents at like Oracle and Cisco and these great firms like that. And we were asking, \"why are you joining the six-week speaker program?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2436,
+      "timestamps": []
+    },
+    {
+      "end": 3429,
+      "excerpt": "They would say, you know, \"we don't need to raise $5 million. So we don't need that much money from the VCs\" and all the existing accelerator programs that were there at the time, like Y Combinator and 500 Startups were really built for consumer startups, for companies that were building apps that were trying to hack together a growth curve that was going to be up and to the right. But there wasn't really a good home for them. And so that was the light bulb moment that we had where we said, \"Oh, there's this big opportunity to serve the enterprise founders, the founders that are building companies where they're monetizing from corporates for a special program for that.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2751,
+      "timestamps": []
+    },
+    {
+      "end": 3728,
+      "excerpt": "At the time, enterprise was not sexy. The idea of doing an enterprise accelerator was considered an oxymoron almost. You know, you couldn't do an accelerator for B2B startups. They were designed for consumer startups. And so that was our moment to sort of fight for the underdog or the contrarian.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3431,
+      "timestamps": []
+    },
+    {
+      "end": 4100,
+      "excerpt": "And then DFJ, which was the VC fund that I worked with, they funded Alchemist in a similar sort of response to how Sequoia, which is a prominent VC fund was the main LP behind Y Combinator. We were funded to build sort of the Y Combinator for the enterprise space and be the premier place where all the top enterprise founders would go before they raised their series A.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3730,
+      "timestamps": []
+    },
+    {
+      "end": 4132,
+      "excerpt": "So that's how we got started. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4102,
+      "timestamps": []
+    },
+    {
+      "end": 4479,
+      "excerpt": "[00:03:46] Gopi Rangan: That's very interesting. You started with the two hats. One is that you run the accelerator, and the second is that you teach at Stanford. If it's okay to ask this sort of controversial question, can entrepreneurship really be taught? Is this something that some people have, or if they don't have it, then don't have it?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4134,
+      "timestamps": [
+        {
+          "offset": 4134,
+          "raw": "[00:03:46]",
+          "seconds": 226
+        }
+      ]
+    },
+    {
+      "end": 4896,
+      "excerpt": "[00:04:05] Ravi Belani: Yeah, that's a good question. A short answer for that is I think that we have a fundamental belief that everybody is entrepreneurial. And really it's society that kills your natural entrepreneurial abilities or your creative abilities. So in some senses, what we're doing is just deteaching all the socialization that might be preventing you from getting in touch with your creative spirits.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 4481,
+      "timestamps": [
+        {
+          "offset": 4481,
+          "raw": "[00:04:05]",
+          "seconds": 245
+        }
+      ]
+    },
+    {
+      "end": 5341,
+      "excerpt": "Part of our role is especially for the Stanford undergrad, who tends to be an overachiever. I mean, just by virtue of the fact that Stanford is now the hardest (I think) college to be admitted to in the United States, it attracts a certain profile of undergraduate. I think just to get to that process, oftentimes, if you had your entrepreneurial or creative skills may have been numbed because of different things that you were going through.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4898,
+      "timestamps": []
+    },
+    {
+      "end": 5732,
+      "excerpt": "So I think that is point one that I do think that everybody is inherently entrepreneurial if we think about entrepreneurship more broadly. And then the second thing is, is that there are, we think, certain, you know, certain skills that can even help those that are entrepreneurially minded in terms of cultivating a sense of self awareness and a sense of resilience that are hard to know.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5343,
+      "timestamps": []
+    },
+    {
+      "end": 6146,
+      "excerpt": "You can definitely cultivate those without going through training, if you look at the studies on trying to predict which factors are correlated with entrepreneurial success, most of those studies have failed. But one of the things that has been shown is that if you were born into a family where your parents are entrepreneurial, that is statistically correlated with greater success as an entrepreneur yourself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5734,
+      "timestamps": []
+    },
+    {
+      "end": 6328,
+      "excerpt": "I do agree that your background and where you're from and perhaps genetics does play a role. We do think that you can deepen that if you have that focus and intention around that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6148,
+      "timestamps": []
+    },
+    {
+      "end": 6499,
+      "excerpt": "[00:05:46] Gopi Rangan: Yeah, some people might have that unfair advantage because they've seen entrepreneurs in their family. But I like to believe like you do as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6330,
+      "timestamps": [
+        {
+          "offset": 6330,
+          "raw": "[00:05:46]",
+          "seconds": 346
+        }
+      ]
+    },
+    {
+      "end": 6822,
+      "excerpt": "Everybody has that flair of entrepreneurship, and sometimes, or often, it dies out. We spend time at large corporations or businesses like consulting companies where entrepreneurship may not be encouraged in the same way that we do at accelerators. We can keep that flair going and come back to it when the time is right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6501,
+      "timestamps": []
+    },
+    {
+      "end": 6878,
+      "excerpt": "I think everybody has a chance to experiment at this. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6824,
+      "timestamps": []
+    },
+    {
+      "end": 7210,
+      "excerpt": "[00:06:18] Ravi Belani: Yeah, I think that's right. And I think the other thing is that the reality is that it's really teams, not individuals, that build great entrepreneurial pursuits. And where you fit in that team, you may not be the Steve jobs who, you know, has to paint the big vision and get everybody to rally around you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 6880,
+      "timestamps": [
+        {
+          "offset": 6880,
+          "raw": "[00:06:18]",
+          "seconds": 378
+        }
+      ]
+    },
+    {
+      "end": 7544,
+      "excerpt": "You may be more of the Steve Wozniak or, you know, the person behind the scenes who might not be terribly extroverted, but loves to just build a great product. That to me is also part of the entrepreneurial package. I do think there's many different roles that play into and can feed how you want to be involved in entrepreneurship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7212,
+      "timestamps": []
+    },
+    {
+      "end": 7767,
+      "excerpt": "[00:06:48] Gopi Rangan: Where does an accelerator fit in this ecosystem? In today's world, there are so many different accelerators. How do accelerators play a role, especially in the earliest part of building a business?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7546,
+      "timestamps": [
+        {
+          "offset": 7546,
+          "raw": "[00:06:48]",
+          "seconds": 408
+        }
+      ]
+    },
+    {
+      "end": 7985,
+      "excerpt": "[00:07:00] Ravi Belani: Well, so accelerators are generally provide a more structured path towards a variety of outcomes. For us at Alchemist, we measure ourselves by mentorship, traction, fundraising, and community.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 7769,
+      "timestamps": [
+        {
+          "offset": 7769,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 8302,
+      "excerpt": "We provide a structured and facilitated path towards that. The reason why I think accelerators have emerged recently is because the volume of startups has just grown exponentially. I think that has followed Moore's law. As the hurdle to actually start a company has gone down, the volume of startups have increased.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7987,
+      "timestamps": []
+    },
+    {
+      "end": 8730,
+      "excerpt": "That's created this peculiar problem for the venture capitalists where the need for signals to identify which startups they should spend time with is greater than it's ever been in the past. So one function that accelerators serve is that it can be a signaling function to investors and others - corporates and even talent - on whether or not a company can be separated from the pack of startups that they have to investigate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8304,
+      "timestamps": []
+    },
+    {
+      "end": 9016,
+      "excerpt": "Of course, you know, I think most people, when they look, trying to look at the ROI for accelerators, they're looking at investments and funding; other ways to measure things. We are very proud of our funding rates and we do have a huge network of investors that we can bring to bear.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8732,
+      "timestamps": []
+    },
+    {
+      "end": 9755,
+      "excerpt": "But most of our founders, what I find that they really love Alchemist for is the community. And I think one of the things is that just when you start a company, it can be a very lonely pursuit. And there's something just psychologically, incredibly comforting and also incredibly healthy about being a part of a cohort and a community that you're going on that journey together. In times that are bad, of course, it's great to have a community to support. And at times are good, it's great to have a community support to celebrate with either way. It's almost better in a group than it is alone. So I think that's the other big benefit that founders actually really feel that it's oftentimes not marketed because it's hard to measure it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9018,
+      "timestamps": []
+    },
+    {
+      "end": 9944,
+      "excerpt": "[00:08:42] Gopi Rangan: When should an entrepreneur think about joining an accelerator? And also, are there certain types of accelerators that you would say is not good idea to consider? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9757,
+      "timestamps": [
+        {
+          "offset": 9757,
+          "raw": "[00:08:42]",
+          "seconds": 522
+        }
+      ]
+    },
+    {
+      "end": 10098,
+      "excerpt": "[00:08:51] Ravi Belani: I don't know if I can represent all of accelerators. I do think that there's a wide variance of accelerators that are out there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 9946,
+      "timestamps": [
+        {
+          "offset": 9946,
+          "raw": "[00:08:51]",
+          "seconds": 531
+        }
+      ]
+    },
+    {
+      "end": 10856,
+      "excerpt": "I think in general, it's good that there's a lot of accelerators. Almost like universities, in general, it's great that there's a ton of universities. The way that you can really know, I think if an accelerator is good or not, it's not to listen to me or their webpage or the marketing presence of an accelerator, but the real way that you will know, and this is both for accelerators or investors, is to talk to founders that have gone through those programs and get their advice or recommendations. That's what I would say is the best piece of advice. In terms of when you should apply for Alchemist, we are teams driven. So, you know, we will admit teams with no traction. But whenever you are serious about starting something, we want to hear from you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10100,
+      "timestamps": []
+    },
+    {
+      "end": 11265,
+      "excerpt": "And if you are going to do something, we would rather support you earlier than later. And we operate a program that's longer than most accelerators. It's at least six months, 24 weeks. It actually, I think. We were looking at it's actually more like eight months. But even after you end our program, you get lifelong access to set up office hours and get connected with investors and customers and so forth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10858,
+      "timestamps": []
+    },
+    {
+      "end": 11573,
+      "excerpt": "And so we would rather support you early. I guess that's what I'm saying is that there's not this precious time where you have to approach it exactly the right time. Uh, we want to support whenever the company's, whenever a founder is serious so that we can give them. the network as soon as they're ready.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11267,
+      "timestamps": []
+    },
+    {
+      "end": 12102,
+      "excerpt": "[00:10:08] Gopi Rangan: Now, I've referred many startups to Alchemist and I've also invested in Alchemist startups when they graduate out of the cohort and I've had a great experience so far. One of the challenges that I've seen with many other accelerators is that in the world of, uh, the startup ecosystem, especially from a VC perspective, where When investors take a long term view, accelerators tend to take a short term view where they support a startup for that period of time and then after that they kind of face out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11575,
+      "timestamps": [
+        {
+          "offset": 11575,
+          "raw": "[00:10:08]",
+          "seconds": 608
+        }
+      ]
+    },
+    {
+      "end": 12196,
+      "excerpt": "Uh, there's no real connection between the accelerator and the startup after they graduate. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12104,
+      "timestamps": []
+    },
+    {
+      "end": 12506,
+      "excerpt": "[00:10:41] Ravi Belani: We don't do that. We have this whole system called the vault, which has over 20, 000 people in it. That's the online network that our founders used to book office hours with mentors, get requests to customers, set up meetings with venture capitalists, service providers, and so forth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 12198,
+      "timestamps": [
+        {
+          "offset": 12198,
+          "raw": "[00:10:41]",
+          "seconds": 641
+        }
+      ]
+    },
+    {
+      "end": 12839,
+      "excerpt": "All of our companies get lifelong access to that during the program, which is six months, there's dedicated attention being put on the companies and they have dedicated coaches that are working with them. And there's a whole curriculum. But after the six months, they continue to get access to any of the support that they want to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12508,
+      "timestamps": []
+    },
+    {
+      "end": 13252,
+      "excerpt": "They just need to drive themselves and set the meetings up themselves. And then we also have, um, quarterly events for the alums. We typically have two, they're more social events, um, but there's two social events. We have a bunch of optional community workshops that we invite the alums to. The most active thing is that we have like an online group where the alums are all posting and helping each other out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12841,
+      "timestamps": []
+    },
+    {
+      "end": 13617,
+      "excerpt": "And it's fairly active. I don't think that it's wise to have a program that tries to be, well, and first of all, we, I think three months is just far too short to do anything terribly meaningful for, for a startup founder. And I do think that I would be wary if a accelerator was really, you know, that their relationship was really going to be for that 12 weeks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13254,
+      "timestamps": []
+    },
+    {
+      "end": 13671,
+      "excerpt": "And that's, uh, I do think that can be problematic. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13619,
+      "timestamps": []
+    },
+    {
+      "end": 14011,
+      "excerpt": "[00:11:50] Gopi Rangan: That's great that you facilitate that. It's uh, I think what you describe is much like an alumni organization that the more involved you are, the more value you get out of it. And if you treat it like a, a degree program that you graduate and then you go off and live your life, then you're, you feel disconnected.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13673,
+      "timestamps": [
+        {
+          "offset": 13673,
+          "raw": "[00:11:50]",
+          "seconds": 710
+        }
+      ]
+    },
+    {
+      "end": 14187,
+      "excerpt": "That it's great that you provide that space for entrepreneurs to stay in contact with the rest of their cohort and other folks who've gone through the Alchemist Accelerator. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14013,
+      "timestamps": []
+    },
+    {
+      "end": 14499,
+      "excerpt": "[00:12:18] Ravi Belani: Yeah. And it's also self fit. I mean, we love doing that because we do love our founders. But the other thing is, is that what we find is that really the best mentors or experts for you are another founder that just went through the exact problem that you're facing just six months ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 14189,
+      "timestamps": [
+        {
+          "offset": 14189,
+          "raw": "[00:12:18]",
+          "seconds": 738
+        }
+      ]
+    },
+    {
+      "end": 14767,
+      "excerpt": "So even like fundraising changes so rapidly or the latest hacks on customer acquisition. So we do want our alums to still be connected into the community, both to benefit from our network, but then also to contribute back. So that's part of it. We do prioritize it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14501,
+      "timestamps": []
+    },
+    {
+      "end": 14871,
+      "excerpt": "[00:12:50] Gopi Rangan: Yeah. Someone who's like half a step ahead can be a great source of knowledge.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14769,
+      "timestamps": [
+        {
+          "offset": 14769,
+          "raw": "[00:12:50]",
+          "seconds": 770
+        }
+      ]
+    },
+    {
+      "end": 14903,
+      "excerpt": "[00:12:53] Ravi Belani: Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 14873,
+      "timestamps": [
+        {
+          "offset": 14873,
+          "raw": "[00:12:53]",
+          "seconds": 773
+        }
+      ]
+    },
+    {
+      "end": 15153,
+      "excerpt": "[00:12:54] Gopi Rangan: Can you pick an example of a startup that went through the program and how was your involvement? Uh, what do you look for at the beginning when you accept startups into the program and how you help them through the program? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14905,
+      "timestamps": [
+        {
+          "offset": 14905,
+          "raw": "[00:12:54]",
+          "seconds": 774
+        }
+      ]
+    },
+    {
+      "end": 15277,
+      "excerpt": "[00:13:05] Ravi Belani: Sure, there was a startup called LaunchDarkly, which we funded where they were, we were the first.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 15155,
+      "timestamps": [
+        {
+          "offset": 15155,
+          "raw": "[00:13:05]",
+          "seconds": 785
+        }
+      ]
+    },
+    {
+      "end": 15703,
+      "excerpt": "investor, I believe in the company. And it was Edith and John who are terrific technical product engineers. And they were working on a new feature flag as a platform product. They were not the most charismatic entrepreneurs. So if you met with them, but if you looked at what they had done, they had both led products at TripAdvisor and other companies in ways where they're basically playing roles as almost like mini CEOs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15279,
+      "timestamps": []
+    },
+    {
+      "end": 16074,
+      "excerpt": "They were also technical. So we love technical teams and they were a good compliment to one another. John was the CTO and Edith was a technical minded CEO type. And Edith, also just on the side used to run not just like a mile or 10 miles on the weekends or even a marathon. She would do these century runs where she would literally run 100 miles for potential outings.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15705,
+      "timestamps": []
+    },
+    {
+      "end": 16770,
+      "excerpt": "And she was she was training for these ultra marathoners. And so we love that aspect of entrepreneurs who are just persistent, who just have this ethos to just keep pushing things And so we were very honored and happy to fund Edith and John, but during the course of the program, they really were figuring out by working with developers on exactly what the product needed to look like. They ended up building a feature flag platform that allows developers to move towards this whole moment of absolute continuous development. What we loved about that was it was, it was just two people. They were deeply technical, but they also had this bifocal ability to understand where they wanted to head.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16076,
+      "timestamps": []
+    },
+    {
+      "end": 17134,
+      "excerpt": "So they had a vision of what they wanted to build, but then they also knew the three things that they needed to get done that day to move the product forward. And they were maniacally focused on just building an excellent product that people started to tell other people about. They've gone on to raise over 125 million of funding, you know, near unicorn status.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16772,
+      "timestamps": []
+    },
+    {
+      "end": 17529,
+      "excerpt": "And they've raised from Redpoint and Bessemer and DFJ. It's just been an amazing trajectory afterwards. We also funded a company called Rigetti. That was a single founder. I just mentioned this as sort of a counterpoint and many people won't fund single founder teams. But it was a single founder, Chad Rigetti, and he was building a hardware company, was building a quantum computing company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17136,
+      "timestamps": []
+    },
+    {
+      "end": 17942,
+      "excerpt": "Many of those things are red flags that no investor will touch. Lots of investors have this strong attitude that you have to have a co founding teams. Many investors won't do hardware, certainly not a quantum computing company, which looked like a research project. But when we're assessing companies, we're looking first at deeply technical teams and Chad was a PhD from Yale who was working at IBM on quantum.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17531,
+      "timestamps": []
+    },
+    {
+      "end": 18254,
+      "excerpt": "And we're looking at not how what can go wrong, but if something goes right, how big it can get. And there are very few things that would be as disruptive as quantum computing. They've gone on to raise over $200 million. I think they're going to be one of the platforms that will usher in quantum to the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17944,
+      "timestamps": []
+    },
+    {
+      "end": 18283,
+      "excerpt": "So those are two examples. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18256,
+      "timestamps": []
+    },
+    {
+      "end": 18624,
+      "excerpt": "[00:15:56] Gopi Rangan: I don't know much about Regetti, uh, but in general, these themes like quantum computing, I'm fascinated by it. I want to spend more time on it, but I can't draw the line between when is it science fiction and when it's actually real. So I'm, I'm always dabbling in that area, but I want to comment on LaunchDarkly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18285,
+      "timestamps": [
+        {
+          "offset": 18285,
+          "raw": "[00:15:56]",
+          "seconds": 956
+        }
+      ]
+    },
+    {
+      "end": 19084,
+      "excerpt": "I'm a big fan of what they've built, uh, Edith and John. The marketing genius that tells a beautiful story. That's what we typically get to see. We are often impressed by that but entrepreneurs don't have to be only of that type. If they are honest and true about what they are building, if they have a deep knowledge in a space, uh, and they geek out on that, there's clearly an opportunity to build an amazing business, just like how LaunchDarkly has done.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18626,
+      "timestamps": []
+    },
+    {
+      "end": 19149,
+      "excerpt": "And that's, uh, it's facilitated in Silicon Valley very often. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19086,
+      "timestamps": []
+    },
+    {
+      "end": 19411,
+      "excerpt": "[00:16:43] Ravi Belani: I think the key thing is if you care your empathy for your user that you're trying to serve and Edith and John love the developer that they serve, and they really care about their employees. That's the hallmark of a great entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 19151,
+      "timestamps": [
+        {
+          "offset": 19151,
+          "raw": "[00:16:43]",
+          "seconds": 1003
+        }
+      ]
+    },
+    {
+      "end": 19507,
+      "excerpt": "[00:16:53] Gopi Rangan: So what do you look for at that stage when entrepreneurs come to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19413,
+      "timestamps": [
+        {
+          "offset": 19413,
+          "raw": "[00:16:53]",
+          "seconds": 1013
+        }
+      ]
+    },
+    {
+      "end": 19829,
+      "excerpt": "[00:16:57] Ravi Belani: Well, we're first looking for if things go right, how big can this get? And it's a different lens that you're going to look at that than if you think about, you know, what are all the reasons why we shouldn't fund this company? That's sort of easy to do, like, why shouldn't we fund this company?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 19509,
+      "timestamps": [
+        {
+          "offset": 19509,
+          "raw": "[00:16:57]",
+          "seconds": 1017
+        }
+      ]
+    },
+    {
+      "end": 20221,
+      "excerpt": "Oh, there's all this risk on these sides. But the harder question is, if actually everything works out, does this become a $10 million business, $100 million business or a billion dollar business or more? Uniqueness is undervalued. We're really looking for companies that where there's a unique lens through which the founders are viewing the world, and they're doing something differently.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19831,
+      "timestamps": []
+    },
+    {
+      "end": 20721,
+      "excerpt": "We also are looking for distinction. We're looking for some evidence that the founders are distinctive, and that can be through a variety of ways. That can be through graduating from a pedigree school or working at a pedigree company for a period of time, or having built a product or something that was incredibly meaningful, or we also have funded and have on the faculty people that are dropouts that have gone on to build out amazing things and or done things that are disproportionately great.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20223,
+      "timestamps": []
+    },
+    {
+      "end": 21059,
+      "excerpt": "Or if you didn't graduate from a top tier university, if you have a team around you that did, that also demonstrates your ability to get people to work for you. That can also be an element of distinction. We're looking for unique ideas that if they work out, can become very, very big, backed by founders that have evidence distinction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20723,
+      "timestamps": []
+    },
+    {
+      "end": 21427,
+      "excerpt": "Ideally, we're first looking at teams where there's technical talent. We don't admit purely business teams. Ideally, it is like two engineers flanking a business executioner. That's like the perfect model if it's three. But again, like with Chad, we just had a solo engineer and he was also phenomenal because he embodied all the things that we were looking for too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21061,
+      "timestamps": []
+    },
+    {
+      "end": 21479,
+      "excerpt": "So, Those are some broad things that we look for. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21429,
+      "timestamps": []
+    },
+    {
+      "end": 21711,
+      "excerpt": "[00:18:36] Gopi Rangan: At the earliest stages, it's very difficult to discern, like, what questions do you ask? And how do you, what answers are you looking for? Like, what can entrepreneurs do to be prepared for that situation? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21481,
+      "timestamps": [
+        {
+          "offset": 21481,
+          "raw": "[00:18:36]",
+          "seconds": 1116
+        }
+      ]
+    },
+    {
+      "end": 21910,
+      "excerpt": "[00:18:49] Ravi Belani: Well, we're asking questions to first of all, tease out why they're starting the company and why they think now is the right time for this to become a phenomenon, basically.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 21713,
+      "timestamps": [
+        {
+          "offset": 21713,
+          "raw": "[00:18:49]",
+          "seconds": 1129
+        }
+      ]
+    },
+    {
+      "end": 22238,
+      "excerpt": "We will be teasing questions out around that. I think there's a lot of the obvious stuff that founders will hear about, about how to prepare, like talk about a big market and great team and good technology and so forth. The unintuitive things that we're really looking for are why now and why does this become big and why you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21912,
+      "timestamps": []
+    },
+    {
+      "end": 22828,
+      "excerpt": "I mean, those are effectively the questions and then things will go in a bunch of different directions. We're looking for founders that have a viewpoint on where they want to head, but also have an ability to be self aware. and aren't necessarily blocked. Maybe it's not that there's one answer to this because sometimes that can come out in one individual, like Chad's uniquely ability to go deep on the tech and deep on the business, but it can also be something that can be distributed across teams where you'll have very lopsided individuals that together as a team, formidable force.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22240,
+      "timestamps": []
+    },
+    {
+      "end": 23209,
+      "excerpt": "We're also looking for how that team works together. Is there respect amongst the co founders? Do they trust each other? Can they delegate different parts of the business to the other without needing to control that piece so that they can iterate and move quickly? Is there some unfair advantage that that company has where they can outperform other startups and also incumbents?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22830,
+      "timestamps": []
+    },
+    {
+      "end": 23570,
+      "excerpt": "What is the nature of the disruption of the innovation that they're seeking? Is it something where they're disrupting on an technical innovation, or is it based on execution? If it's something technical, what is the trade off that they're making to get the gain? What are the costs against that? If it's on execution, why will they out execute other startups?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23211,
+      "timestamps": []
+    },
+    {
+      "end": 23971,
+      "excerpt": "And, and if somebody replicates their approach, why do they still win? There's a whole bunch of questions. So those are a couple things. And I don't know if there's a laundry list. So it's not unfortunately something where I could say you need to get these five things nailed, and it'll be terrific. I think if you need to think about fundamental questions asked; it is why now, how big, and why me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23572,
+      "timestamps": []
+    },
+    {
+      "end": 24403,
+      "excerpt": "[00:20:42] Gopi Rangan: This is fascinating. You're quite exhaustive in what you're looking for, but I also see that you don't use a formula and it's not like a set way that this is what works and this doesn't work. And you're looking for a lot of nuances around if it's okay to push a little further, are there situations, can you give an example of a situation or what goes on in your mind when you're looking at an opportunity?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23973,
+      "timestamps": [
+        {
+          "offset": 23973,
+          "raw": "[00:20:42]",
+          "seconds": 1242
+        }
+      ]
+    },
+    {
+      "end": 24536,
+      "excerpt": "That's like almost there. Maybe it will make it. Maybe it won't. It's kind of at the borderline. What makes you have that dilemma? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24405,
+      "timestamps": []
+    },
+    {
+      "end": 24744,
+      "excerpt": "[00:21:13] Ravi Belani: Oh, there's a lot of things that can make me have that dilemma. Sometimes I'll have that dilemma where I'll have a distinctive team, but it's not clear why they're doing the startup.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 24538,
+      "timestamps": [
+        {
+          "offset": 24538,
+          "raw": "[00:21:13]",
+          "seconds": 1273
+        }
+      ]
+    },
+    {
+      "end": 25110,
+      "excerpt": "So it's usually that dilemma occurs when some of our fundamental, criteria are strong in one, but weak or, or, you know, mild and the other. So as I was mentioning before, we're looking for timing and big markets and teams. We could have something where we have an amazing team, but they're working on an idea where it's not clear why they're working on that idea.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24746,
+      "timestamps": []
+    },
+    {
+      "end": 25430,
+      "excerpt": "It might be because they want to be entrepreneurs more than they care about that idea. That happens quite a bit. I'm teaching, you know, At Stanford. We have quite a few incredibly smart Stanford undergrads that will apply, or young alums. And they've got pedigree backgrounds, but their ideas are not terribly unique.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25112,
+      "timestamps": []
+    },
+    {
+      "end": 25921,
+      "excerpt": "It's not terribly clear that it's mapped to what they individually are supposed to be doing with their lives, why they have a competitive advantage. So that's oftentimes one where we'll be struggling because we like the team but it's not clear to us that the market or the fit is the right space for them to be in, or sometimes the companies will be going after an interesting space or market, but it's just their approach or their articulation about how they want to attack that space is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25432,
+      "timestamps": []
+    },
+    {
+      "end": 26243,
+      "excerpt": "one degree too abstract, or it's just one degree off in terms of how crisply they need to get. This is a hard thing to articulate, but the best founders really are bifocal. They can paint a big vision and they can tactically know what they need to do in the next two days. This will manifest when you pitch as a founder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25923,
+      "timestamps": []
+    },
+    {
+      "end": 26585,
+      "excerpt": "If you show a specific plan, you're like, \"this is what I want to do for the next six months.\" Your investors are going to say, \"Oh, that's great. But I don't know how big that gets. Um, I think that's too small of a market.\" And then if you go in and you pitch a big market, they'll be like, \"Oh, that's great. But I think you need focus.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26245,
+      "timestamps": []
+    },
+    {
+      "end": 26907,
+      "excerpt": "So you're going to get whipsawed back and forth. And at the end of the day, really, what you need to do is do both. I think that's another place where you can sometimes find the good but not great situation where you'll have founders that do a good job on one of those lenses, but you're still wanting more on the other.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26587,
+      "timestamps": []
+    },
+    {
+      "end": 26941,
+      "excerpt": "And that hasn't been distilled. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26909,
+      "timestamps": []
+    },
+    {
+      "end": 27056,
+      "excerpt": "[00:23:10] Gopi Rangan: If it doesn't happen on the first attempt, do you give a second chance to entrepreneurs? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26943,
+      "timestamps": [
+        {
+          "offset": 26943,
+          "raw": "[00:23:10]",
+          "seconds": 1390
+        }
+      ]
+    },
+    {
+      "end": 27347,
+      "excerpt": "[00:23:16] Ravi Belani: Yeah, we love reapplicants. We encourage everybody to reapply. And I would say that the sweetest offers that we extend when we extend them are for reapplicants that previously were denied because you, you know, I think it's, it's more sweet also for those founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 27058,
+      "timestamps": [
+        {
+          "offset": 27058,
+          "raw": "[00:23:16]",
+          "seconds": 1396
+        }
+      ]
+    },
+    {
+      "end": 27486,
+      "excerpt": "And also we know all the hard work that they'd put into keeping up the business and reapplying and then finally getting the green light. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27349,
+      "timestamps": []
+    },
+    {
+      "end": 27757,
+      "excerpt": "[00:23:34] Gopi Rangan: That's very nice to hear. You covered quite a bit of topics here. I liked what you said, like when you're looking at when things go right, how big can this be? You're not looking for, what are some things that could potentially trip up and fail.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27488,
+      "timestamps": [
+        {
+          "offset": 27488,
+          "raw": "[00:23:34]",
+          "seconds": 1414
+        }
+      ]
+    },
+    {
+      "end": 28115,
+      "excerpt": "Can we avoid that? That's not what you're looking for. You're looking for when things go right, how big this can be. Well, thanks a lot for sharing this. I'm sure we can continue to talk and we'll spend another hour or two hours. There's so much to cover here, but I want to switch to the next section where I ask you about, um, your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27759,
+      "timestamps": []
+    },
+    {
+      "end": 28197,
+      "excerpt": "Is there an initiative that you are passionate about that serves the community? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28117,
+      "timestamps": []
+    },
+    {
+      "end": 28639,
+      "excerpt": "[00:24:11] Ravi Belani: Right now, we are doing a push on focusing on Black Lives Matter, and we think this is the time when there will be, you know, this is the moment, I think, in our history, really, where there is this palpable feeling that this is the moment where actually real change may occur, and so we would be remiss if there is any attention that we can give, we would love to point that towards the Black Lives Matter movement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ravi Belani",
+      "start": 28199,
+      "timestamps": [
+        {
+          "offset": 28199,
+          "raw": "[00:24:11]",
+          "seconds": 1451
+        }
+      ]
+    },
+    {
+      "end": 28973,
+      "excerpt": "Rachel Chalmers is one of our partners, is spearheading some of our work around showcasing some of the Alchemist founders that are black and what they've been working on. But in terms of an organization, if I could point people to one org, if you can't donate to Black Lives Matter, I would, um, recommend checking out cityofdreams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28641,
+      "timestamps": []
+    },
+    {
+      "end": 29315,
+      "excerpt": "org. And that's an organization where you can donate either money. or your time. And it's a, it's an organization that connects mentors to underprivileged youth in San Francisco. You can either be mentoring underprivileged youth or also even working. There's a communal urban garden if you want to be gardening that you can support as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28975,
+      "timestamps": []
+    },
+    {
+      "end": 29696,
+      "excerpt": "So I would say check out cityofdreams. org as a way to have real impact and change. And certainly, you know, what I feel is race is a very complicated issue and I'm not an expert. But I do think that if you're economically empowered, It's a lot more difficult to be disenfranchised. That's partly why I love tech and entrepreneurship is that I do think it is a path towards that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29317,
+      "timestamps": []
+    },
+    {
+      "end": 30010,
+      "excerpt": "You know, when I was at DFJ, one of the companies that I championed was, was Justin TV that became Twitch and the CEO is Michael, it was Michael Siebel who happens to be black. And I didn't fund Michael because, or, you know, that wasn't really, that didn't factor in. We just thought it was a terrific business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29698,
+      "timestamps": []
+    },
+    {
+      "end": 30374,
+      "excerpt": "But I do think that having Michael Siebels that become these icons within the entrepreneurial world and both accrue wealth and power is really impactful. I do think mentorship and the ability to create those paths for underprivileged and disenfranchised youth is a, is a great vehicle and path. And so that's why I'd encourage people to check out City of Dreams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30012,
+      "timestamps": []
+    },
+    {
+      "end": 30397,
+      "excerpt": "City of dreams. org. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30376,
+      "timestamps": []
+    },
+    {
+      "end": 30710,
+      "excerpt": "[00:26:09] Gopi Rangan: Thank you very much for sharing that. It's great to see that you're directly involved in some of these important activities. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30399,
+      "timestamps": [
+        {
+          "offset": 30399,
+          "raw": "[00:26:09]",
+          "seconds": 1569
+        }
+      ]
+    },
+    {
+      "end": 30877,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30712,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "b0f5b993d222ba5177a1a5b845e453ac09fc68dbed5eedac827d9c001be80a27",
+  "text_sha256": "c5796cddd269f2b9c8bfc90a37279f1108e80f00423a900a72ad3ed6084517c9"
+}

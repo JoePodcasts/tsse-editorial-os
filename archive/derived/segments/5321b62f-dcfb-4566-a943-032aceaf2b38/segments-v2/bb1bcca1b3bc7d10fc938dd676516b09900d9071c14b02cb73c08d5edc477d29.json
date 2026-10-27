@@ -1,0 +1,987 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 512,
+      "excerpt": "\"Any company, which I think enables good building of knowledge, drafts, maybe even verticalized, that's probably good economic value. The orchestration part, unclear how will the entire orchestration layer work between data and pipelines and agents. That's probably interesting. I think MCP is a big invention, very important for interoperability and falling on the agents and tools. So I think orchestration is important. All things data is important. Knowledge graph and metadata is important.\" - Bhaskar Ghosh",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 939,
+      "excerpt": "[00:00:37] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Bhaskar Ghosh. He goes by BG. BG is a partner at 8VC. 8VC is a very favored venture capital firm by founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 514,
+      "timestamps": [
+        {
+          "offset": 514,
+          "raw": "[00:00:37]",
+          "seconds": 37
+        }
+      ]
+    },
+    {
+      "end": 1234,
+      "excerpt": "They've made amazing investments over the years, and Bhaskar has been at 8VC for almost 10 years now. We're gonna talk to him about his style of investment. What kind of founders he likes to work with. What's his worldview about venture capital and what kind of startups he gets excited about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 941,
+      "timestamps": []
+    },
+    {
+      "end": 1389,
+      "excerpt": "We'll also ask him why he might say no in some situations. But first, let's start with BG and his background. BG, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1236,
+      "timestamps": []
+    },
+    {
+      "end": 1486,
+      "excerpt": "[00:01:42] Bhaskar Ghosh: Gopi. Thank you so much for having me. It's a pleasure and an honor. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 1391,
+      "timestamps": [
+        {
+          "offset": 1391,
+          "raw": "[00:01:42]",
+          "seconds": 102
+        }
+      ]
+    },
+    {
+      "end": 1594,
+      "excerpt": "[00:01:46] Gopi Rangan: I know you have a very, very busy schedule and a calendar. You travel quite a bit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1488,
+      "timestamps": [
+        {
+          "offset": 1488,
+          "raw": "[00:01:46]",
+          "seconds": 106
+        }
+      ]
+    },
+    {
+      "end": 1656,
+      "excerpt": "I really appreciate taking the time to speak with me today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1596,
+      "timestamps": []
+    },
+    {
+      "end": 1784,
+      "excerpt": "[00:01:53] Bhaskar Ghosh: Thank you so much. It's a pleasure and it's great to be here in person at your studio slash office. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 1658,
+      "timestamps": [
+        {
+          "offset": 1658,
+          "raw": "[00:01:53]",
+          "seconds": 113
+        }
+      ]
+    },
+    {
+      "end": 1869,
+      "excerpt": "[00:01:59] Gopi Rangan: Yes. First time recording in person. Let me start with you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1786,
+      "timestamps": [
+        {
+          "offset": 1786,
+          "raw": "[00:01:59]",
+          "seconds": 119
+        }
+      ]
+    },
+    {
+      "end": 2107,
+      "excerpt": "You grew up in Calcutta. Bachelor's degree from Jadavpur University, PhD from Yale, and you have been in the tech world for many years. But let me start with the first question. How did you transition from Calcutta into the tech world? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1871,
+      "timestamps": []
+    },
+    {
+      "end": 2980,
+      "excerpt": "[00:02:20] Bhaskar Ghosh: That's a long journey. I went to Yale, that was a long time back to do my PhD in Computer Science. I loved computer science and algorithms in general. Did a lot of parallel algorithms for numerical computations, but ended up getting a thesis done in the area of graph algorithms and random walks. Which is funny that as an investor, random box is one of the core principles of index investing. Initially wanted to go to academia, but at my advisor's notice he asked me to go west and work on software and my advisor was a lot smarter than me. I came here and 15 plus years was very lucky to be in the industry around data and ads and infrastructure. My foundational time was spent at the core R-D-B-M-S groups of Oracle and then the core ads infrastructure group at Yahoo, where I ran engineering for a company called Wag Media, which we bought.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 2109,
+      "timestamps": [
+        {
+          "offset": 2109,
+          "raw": "[00:02:20]",
+          "seconds": 140
+        }
+      ]
+    },
+    {
+      "end": 3353,
+      "excerpt": "Then I was very lucky to be at LinkedIn very early as the founding head of data infrastructure. We built a lot of open source projects and essentially built all the infrastructure that much of LinkedIn runs on. Very grateful. And then I wanted to do more consumer stuff, ended up running a company called NerdWallet in the FinTech marketplace space, which we took to IPO.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2982,
+      "timestamps": []
+    },
+    {
+      "end": 3670,
+      "excerpt": "The entrance into VC was purely accidental. I didn't know much about VC. After NerdWallet, I became a fairly prolific engine investor because I found that, helping, investing, advising startup founders was a great way to learn. And just wanted to be in the trenches with them, learn from them, help any way I could.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3355,
+      "timestamps": []
+    },
+    {
+      "end": 4332,
+      "excerpt": "I also became an advisor to a couple of companies at that time called OpenGov and Apar, which happened to be founded by the founder of 8VC, Joe Lonsdale, who incidentally was also the founder of Palantir. I've been a full-time partner at 8VC for seven and a half years now but I became an advisor to 8VC when it was being formed, and Joe invited me in initially to be a CTO, but then I became an investing partner and was very lucky to have the journey at 8VC building out a lot of the enterprise software practice, doing a lot of infrastructure stuff, open source stuff. And also very lucky to have incubated three companies, 'cause that's a core part of 8VC.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3672,
+      "timestamps": []
+    },
+    {
+      "end": 4678,
+      "excerpt": "A brief note on 8VC, we are a fairly well established, very entrepreneurial firm based out Austin and San Francisco. I'm based in San Francisco and Palo Alto, and we manage about $7 billion total AUM. I would say the highlight of it is we have an amazing build and incubate program. So 25% of our capital goes into starting companies ourselves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4334,
+      "timestamps": []
+    },
+    {
+      "end": 5149,
+      "excerpt": "As part of that program, I was lucky to incubate three companies in FinTech, in security tech, and in data analytics. But most of the time was spent in investments and still is on early phase investments. That's my journey. And as you and I were talking about, people of my background coming into VC, I think 2017 when I came full-time into as a partner, it was not that common for people with my tech and operating background and very strong Silicon Valley background.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4680,
+      "timestamps": []
+    },
+    {
+      "end": 5208,
+      "excerpt": "[00:05:15] Gopi Rangan: Now it's become much more common.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5151,
+      "timestamps": [
+        {
+          "offset": 5151,
+          "raw": "[00:05:15]",
+          "seconds": 315
+        }
+      ]
+    },
+    {
+      "end": 5442,
+      "excerpt": "[00:05:17] Bhaskar Ghosh: It's become much more common now, which is I think very good. To summarize, I don't think I've operated according to a plan. I think I've been lucky to work with really, really smart and good valued people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 5210,
+      "timestamps": [
+        {
+          "offset": 5210,
+          "raw": "[00:05:17]",
+          "seconds": 317
+        }
+      ]
+    },
+    {
+      "end": 5814,
+      "excerpt": "I think a lot of my values were formed by working in great companies like Informix, Oracle, Yahoo. Surely LinkedIn. And I think the transition and the journey to become a VC is because I got to meet Joe and he's an amazing entrepreneur and an amazing investor, and I would say my network kind of pushed me there. Underlying, it was a love of all things entrepreneurship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5444,
+      "timestamps": []
+    },
+    {
+      "end": 6149,
+      "excerpt": "I wouldn't say I'm an entrepreneur. I would say I'm a secondhand entrepreneur. But being next to entrepreneurs who give their life to build something meaningful, to follow a dream, has been like, that is the core part of being, being a VC and just extremely grateful to be sitting with them on the board and try to roll a little bit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5816,
+      "timestamps": []
+    },
+    {
+      "end": 6457,
+      "excerpt": "[00:06:09] Gopi Rangan: I want to double click on that specific transition, coming out of NerdWallet when you were a prolific angel investor and you had the experience of building LinkedIn from a very small company to something successful. You could have taken that experience and started your own company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6151,
+      "timestamps": [
+        {
+          "offset": 6151,
+          "raw": "[00:06:09]",
+          "seconds": 369
+        }
+      ]
+    },
+    {
+      "end": 6897,
+      "excerpt": "You could have done various other things. You could have been an executive at a very large company. You could have joined another startup. Instead of continuing your journey as a builder, you decided to transition to be an active investor as an angel first, and then a professional VC. Why do you like venture capital so much? You already mentioned that you like being that secondhand founder, but I want to understand that a little more.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6459,
+      "timestamps": []
+    },
+    {
+      "end": 6924,
+      "excerpt": "What's exciting for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6899,
+      "timestamps": []
+    },
+    {
+      "end": 7197,
+      "excerpt": "[00:06:50] Bhaskar Ghosh: I think the primarily of technology in Silicon Valley around influencing what gets built and what businesses can be dreamed about, sitting in Silicon Valley, I think we are in a very, very privileged and lucky position for you and me to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 6926,
+      "timestamps": [
+        {
+          "offset": 6926,
+          "raw": "[00:06:50]",
+          "seconds": 410
+        }
+      ]
+    },
+    {
+      "end": 8110,
+      "excerpt": "You know, you did hardware and you came here. I did core system software and then maybe some other stuff. I would say it's just a privilege to be in a situation where the future is not just firstly being dreamt about, but also being built. Being in a venture capital situation where I can both invest and build a little bit is kind of the ideal combo. Ultimately, I think it's about what I call learning loops, that if you're sitting in the middle of change and trying to originate change and you're developing your own mental models and thesis and dreams, you know, you don't have to be in a venture capital firm, but I would encourage everybody who has gone through industry, done well for themselves to be an angel investor, to be an advisor. Part of it is paying it forward. Part of it is you learn more in helping somebody build than you do in going to a larger company where the flywheel is already built.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7199,
+      "timestamps": []
+    },
+    {
+      "end": 8803,
+      "excerpt": "So I would say what I discovered about my own values and personality was that I'm actually a zero to one person. If I look at my gigs at Yahoo, surely at LinkedIn, surely at NerdWallet, at least my scope of responsibilities was very entrepreneurial. It was about change management and creating change, which was not easy. It was about thinking about how to do something from scratch, putting together teams from scratch. It was often not about inheriting somebody's medium to large team and then incrementally changing it. So I would say the strange thing that's happened to me is that as my career has progressed, I've gone from larger and larger companies to smaller and smaller companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8112,
+      "timestamps": []
+    },
+    {
+      "end": 8953,
+      "excerpt": "Did I do it in a self-conscious and planned way? No. I think I just discovered that I wanted to be early on in the cycle of creativity and building.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8805,
+      "timestamps": []
+    },
+    {
+      "end": 9227,
+      "excerpt": "Number two, as I already mentioned, I'm very attracted to people who are smarter than me who are better valued than me and who are just putting their lives on the line to build something that they believe in. It's just an amazing experience to be next to them and to help.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8955,
+      "timestamps": []
+    },
+    {
+      "end": 9854,
+      "excerpt": "[00:09:06] Gopi Rangan: I see that taking something from zero to one has been a part of your life pretty much throughout your career, and especially at LinkedIn and NerdWallet, and that still remains to be true today. As you are helping create companies you've created, helped created three companies, and you are, you play a significant role in companies when you invest, going from that journey of zero to one. That's very exciting. I can see that. I love that part of it as well. There's so much excitement. There's new vision, and these founders tell a story of how the world can be if everything they believe came true. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9229,
+      "timestamps": [
+        {
+          "offset": 9229,
+          "raw": "[00:09:06]",
+          "seconds": 546
+        }
+      ]
+    },
+    {
+      "end": 9989,
+      "excerpt": "[00:09:39] Bhaskar Ghosh: It's also hard and uncertain. I think managing uncertainty is a very, very core part of it, but yeah, true.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 9856,
+      "timestamps": [
+        {
+          "offset": 9856,
+          "raw": "[00:09:39]",
+          "seconds": 579
+        }
+      ]
+    },
+    {
+      "end": 10335,
+      "excerpt": "[00:09:46] Gopi Rangan: Before we get into more details, let's talk a little bit about 8VC and the kind of investments you make. What stage do you invest? How many companies do you invest roughly in a year? You mentioned that you also incubate and create companies. 25% of your capital is focused on that. What stage and what's your sweet spot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9991,
+      "timestamps": [
+        {
+          "offset": 9991,
+          "raw": "[00:09:46]",
+          "seconds": 586
+        }
+      ]
+    },
+    {
+      "end": 11143,
+      "excerpt": "[00:10:03] Bhaskar Ghosh: So we have a total of about $7 billion under management. Current fund is fund six, which is about a billion. We are primarily early phase investors and incubators. We do pre-seed, seed and A. That's our sweet spot. It's a multi vertical firm. We have an amazing thriving practice in defense; Bio IT health it; supply chain, logistics, transportation. And rest of it is, I would call it all things enterprise and services software, which the services part is a fresh entrant in the last year or so. But all things around tech, AI, software is about 40% of the fund, and that is the largest part. And that is both horizontal software, regular enterprise stuff, and vertical software for all kinds of verticals and increasingly AI-enabled services software as well. That's how it is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 10337,
+      "timestamps": [
+        {
+          "offset": 10337,
+          "raw": "[00:10:03]",
+          "seconds": 603
+        }
+      ]
+    },
+    {
+      "end": 11527,
+      "excerpt": "Check size, it varies. We are lucky to have enough capital. It varies. Whatever people need. We like to lead or co-lead. We like build ownership up by series A. Are very operationally supportive. We have an amazing talent team. We help with talent. We have an amazing BizDev team. We try to help with BizDev. And every partner also thinks about strategy in their area and verticals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11145,
+      "timestamps": []
+    },
+    {
+      "end": 11965,
+      "excerpt": "Having a multi vertical, multi area firm is amazing because in the current age of AI, we are finding that GenAI applications now permeate all verticals, and that has stood us in good stead. The one area we have stayed away from has been crypto. I don't think we have made any bets in it. I don't think we have tried to understand it deeply. But yeah we are essentially very strongly software AI and data driven in all the thesis areas. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11529,
+      "timestamps": []
+    },
+    {
+      "end": 12064,
+      "excerpt": "[00:11:46] Gopi Rangan: How many deals, new investments do you get involved in roughly per year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11967,
+      "timestamps": [
+        {
+          "offset": 11967,
+          "raw": "[00:11:46]",
+          "seconds": 706
+        }
+      ]
+    },
+    {
+      "end": 12475,
+      "excerpt": "[00:11:51] Bhaskar Ghosh: There is no number, I would say about year. I mean, I was very prolific, I would say, in 2021/22/23/24. Done a lot of deals. Sure, this year the firm has done a lot, so I think, uh, don't quote me, we probably have more than 300 portfolio companies, and given that our funds are getting larger and larger, the number of investments also grows. It also allows us to take larger bets. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 12066,
+      "timestamps": [
+        {
+          "offset": 12066,
+          "raw": "[00:11:51]",
+          "seconds": 711
+        }
+      ]
+    },
+    {
+      "end": 12817,
+      "excerpt": "[00:12:15] Gopi Rangan: You have worked in the infrastructure, the core infrastructure software area, and you built some of the solutions early on in your career. You've watched how the AI trend has evolved, and especially in the past couple of years with Gen AI at the forefront. How has that changed the way you look at investments today?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12477,
+      "timestamps": [
+        {
+          "offset": 12477,
+          "raw": "[00:12:15]",
+          "seconds": 735
+        }
+      ]
+    },
+    {
+      "end": 12873,
+      "excerpt": "What specific trends in Gen AI are you excited about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12819,
+      "timestamps": []
+    },
+    {
+      "end": 13373,
+      "excerpt": "[00:12:37] Bhaskar Ghosh: I personally don't feel I have understood everything as much about Gen AI as I'd like to. I'm trying hard to learn more, but unless you go out and build, where things are changing so fast, it is not easy to make a bet. So I, I think the interesting part about your question the way I approach it is you always think of a framework within which you give that answer. So lemme offer a framework that might be helpful that I've talked about in other talks and in panels also.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 12875,
+      "timestamps": [
+        {
+          "offset": 12875,
+          "raw": "[00:12:37]",
+          "seconds": 757
+        }
+      ]
+    },
+    {
+      "end": 13516,
+      "excerpt": "Something that I think about a lot is based on what I call geometry. So the three kind of geometries, which for an enterprise is interesting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13375,
+      "timestamps": []
+    },
+    {
+      "end": 13597,
+      "excerpt": "You can think of it as a personal geometry, budget geometry, product geometry. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13518,
+      "timestamps": []
+    },
+    {
+      "end": 13658,
+      "excerpt": "[00:13:14] Gopi Rangan: Okay. This is getting interesting. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13599,
+      "timestamps": [
+        {
+          "offset": 13599,
+          "raw": "[00:13:14]",
+          "seconds": 794
+        }
+      ]
+    },
+    {
+      "end": 14029,
+      "excerpt": "[00:13:17] Bhaskar Ghosh: So let's just focus for now on just enterprise software. Vertical and horizontal is fine. Let's ignore services for now. W hat I encourage founders to think about is as you're building stuff, as you're doing design partnerships that early at pre-seed and seed, you're trying to build your go-to market motion, whether you're doing open source.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 13660,
+      "timestamps": [
+        {
+          "offset": 13660,
+          "raw": "[00:13:17]",
+          "seconds": 797
+        }
+      ]
+    },
+    {
+      "end": 14355,
+      "excerpt": "By the way, I've done a lot of open source investments. I was lucky to work on open source a lot in my Yahoo and LinkedIn days. You guys probably have heard of things like Data Hub and Kafka and Helix and many things that we built at LinkedIn that you might actually have used. So, you know, I'm very partial to open source.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14031,
+      "timestamps": []
+    },
+    {
+      "end": 14573,
+      "excerpt": "Coming back to the geometry, I have found this rubric is helpful for founders. You think about persona geometry, who is your user? Who is your influencer? Who is your budget holder? There are many different personas.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14357,
+      "timestamps": []
+    },
+    {
+      "end": 15352,
+      "excerpt": "Second, you think about product geometry, which to me is really important. Product geometry is about in the existing enterprise, in the department or the IT that you're trying to sell into, is there an interlocking set of products which are already sitting there? How do you look at their cut points? How do you look at their APIs? If you go and throw your product in the mix, are you replacing one of the existing products? Do you know which other products you have to integrate with? Because when people buy software, they don't think of only your product that they buy. They think of how does it locate itself in the enterprise? And just whiteboarding about how your product P1 fits in with the existing products, P2 and P3, which just sitting next to you is really helpful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14575,
+      "timestamps": []
+    },
+    {
+      "end": 16064,
+      "excerpt": "Lemme give you an example. If you're trying to build, say, a metadata layer, like our company Data Hub is doing, and you know, metadata traditionally has been sitting somewhere on top of the warehouse next to the ETL pipeline, on top of the data lakes. Well, you have to think of all those three pieces that I just mentioned, you're thinking about the ingestion layer. Thinking about the data lake below you, you're thinking of the data warehouse next to you, thinking of the ETL pipelines, you're thinking of the BI dashboards. How do they all fit together and where will your metadata plane set? It's not a simple exercise because nobody knows what the right answer is. So that was the product geometry part.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15354,
+      "timestamps": []
+    },
+    {
+      "end": 16372,
+      "excerpt": "Third is the budget geometry part, and that fits into both persona and product. You ask yourself what are people spending and whoever's controlling the budget? How much money do they put into this product versus that. That gives you a really good rule of thumb around how to do pricing, how to measure ROI.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16066,
+      "timestamps": []
+    },
+    {
+      "end": 16511,
+      "excerpt": "So talking about Gen AI, I love to talk about Gen AI in the enterprise, in the context of the geometry. That was just like framework set.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16374,
+      "timestamps": []
+    },
+    {
+      "end": 17045,
+      "excerpt": "Coming to Gen AI, firstly it's mindboggling and amazing. I think obviously it's making a huge difference in the life and the lifecycle of software development itself. It is making a huge difference surely in the marketing department. It'll make a big difference in some of the SalesOps and sales workflows. It'll probably make a big difference in the areas of legal departments, the area of the CFO office. In my mind, if you look at the infrastructure side of Gen AI, I am excited about thinking about the data layer around Gen AI.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16513,
+      "timestamps": []
+    },
+    {
+      "end": 17323,
+      "excerpt": "What will the new asks of the existing data be? Everybody is now beginning to build knowledge crafts and ontologies because when you are working as an agent, AI agent or human agent, on top of data, you tend not to go to data directly. You tend to go through a semantic layer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17047,
+      "timestamps": []
+    },
+    {
+      "end": 17699,
+      "excerpt": "So any company which enables good building of knowledge drafts, maybe even verticalized, that's probably good economic value. The orchestration part, unclear how will the entire orchestration layer work between data and pipelines and agents. That's probably interesting. I think MCP is a big invention, very important for interoperability and hauling other agents and tools.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17325,
+      "timestamps": []
+    },
+    {
+      "end": 18053,
+      "excerpt": "So I think orchestration is important. All things data is important. Knowledge graph and metadata is important. I'm talking about the infrastructure layer. Surely there are businesses to be built in the AI inference layer, but I'm gonna ignore that for now. It's not clear to us how sticky that is and what the moat will be. I'll just leave that aside.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17701,
+      "timestamps": []
+    },
+    {
+      "end": 18270,
+      "excerpt": "I think the hard part in pure enterprise software with Gen AI is, oh, one of our company Bespoke Labs is working on the post-training phase, looking at RL environments, looking at evals, data sets. Really important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18055,
+      "timestamps": []
+    },
+    {
+      "end": 18662,
+      "excerpt": "Understand that Gen AI adoption is going to take its own time. And in the meanwhile, what I call the reference architecture, what I think of as the product geometry and the all the three geometry things that we pointed out, it would help us to think about it because we're probably in the first of a five year journey for a lot of things in core enterprise software and workflows to change.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18272,
+      "timestamps": []
+    },
+    {
+      "end": 18916,
+      "excerpt": "The other area I'm excited about is all things observability. So if you look at areas like site observability, like Splunk, Datadog, New Relic, Sumo Logic. There's probably very, very deep and useful things to do with say time series foundation models.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18664,
+      "timestamps": []
+    },
+    {
+      "end": 19052,
+      "excerpt": "Would love to see companies being built in that area. You can probably do a lot more. Anyway, that was from the core enterprise side. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18918,
+      "timestamps": []
+    },
+    {
+      "end": 19240,
+      "excerpt": "[00:18:15] Gopi Rangan: You've given a very thoughtful framework to start with, and then you have applied that framework to see how the current trends can be understood better in Gen AI.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19054,
+      "timestamps": [
+        {
+          "offset": 19054,
+          "raw": "[00:18:15]",
+          "seconds": 1095
+        }
+      ]
+    },
+    {
+      "end": 19357,
+      "excerpt": "Can you give an example of a company that you invested in that follows this framework well, that really impressed? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19242,
+      "timestamps": []
+    },
+    {
+      "end": 19564,
+      "excerpt": "[00:18:34] Bhaskar Ghosh: I think if you look at the company called Data Hub that my old colleagues from Yahoo and LinkedIn founded, they started off as a kind of the best open source data catalog company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 19359,
+      "timestamps": [
+        {
+          "offset": 19359,
+          "raw": "[00:18:34]",
+          "seconds": 1114
+        }
+      ]
+    },
+    {
+      "end": 19636,
+      "excerpt": "They're essentially becoming the semantic layer company, essentially. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19566,
+      "timestamps": []
+    },
+    {
+      "end": 19703,
+      "excerpt": "[00:18:49] Gopi Rangan: Let's go back in time when you met them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19638,
+      "timestamps": [
+        {
+          "offset": 19638,
+          "raw": "[00:18:49]",
+          "seconds": 1129
+        }
+      ]
+    },
+    {
+      "end": 20193,
+      "excerpt": "[00:18:51] Bhaskar Ghosh: Yeah. So, you know, the strange thing about me is that I've been lucky to have long lasting relationships with my colleagues, with my peers, with my bosses, with people who actually I recruited. A lot of my founders come from my past. Shirshanka Das and Swaroop Jagadish are two of the smartest technical people I worked with at LinkedIn and Yahoo Swaroop went on to do great things at Airbnb. Shirshanka became, you know, the chief data of LinkedIn essentially.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 19705,
+      "timestamps": [
+        {
+          "offset": 19705,
+          "raw": "[00:18:51]",
+          "seconds": 1131
+        }
+      ]
+    },
+    {
+      "end": 20518,
+      "excerpt": "And they started the data hub project started as an source project outta LinkedIn and I was probably a little bit instrumental in getting them together and, you know, helping them start the company. And we led both the seed and the A. The founder journey crossing my path has been a very unique thing in my journey as a VC.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20195,
+      "timestamps": []
+    },
+    {
+      "end": 22293,
+      "excerpt": "And I would say there are strengths and confirmation biases that play out in doing that. You know, I come from a heavily technical background except, you know, leadership, background, talent, background. And if you look at a company called Yugabyte, Kannan was my colleague at Oracle and one of the smartest engineers that I ever worked with. Kannan went on to do great things at Facebook and Nutanix and was an early data infrastructure denizen there. That's how I ended up leading the series B at Yugabyte. If you look at our data privacy and compliance company called LightBeam, the founding engineers, I actually hired both of them into LinkedIn. Raghavendra Prabhu (RVP) who is the founder of autonomous AI recruiter company called Tezi, RVP and I go way back when I kept on unsuccessfully trying to hire him into LinkedIn and NerdWallet. We just became friends in my attempts to hire him. And, he's doing extremely well. So, my journey through Silicon Valley has made me lucky to have been exposed to founders. Oh, let me give you one more example where Joe, head of a brought me into this company, which is a government SaaS company called openGov that he had actually founded. The first day I came into OpenGov and met the CEO, Zach Bookman as an advisor, this tall gentleman came into the exec staff meeting and he was the advisor John Chambers brought into OpenGov. The gentleman's name was Pankaj Patel, who was the CTO/CPO of Cisco. That was like August of 2016 when I was having time off after NerdWallet and Pankaj essentially became my mentor. And then, we started investing together in companies. We did at least three companies together as investors after I became a partner at 8VC and then when he was raising his series B, I ended up leading it with Joe.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20520,
+      "timestamps": []
+    },
+    {
+      "end": 22668,
+      "excerpt": "So that's Nile which is a networking as cloud service company, which is doing incredibly well. Very ambitious company with a stellar set of investors and a stellar board for that matter. And you know, being a lead investor in a company founded by Pankaj and John Chambers is like stuff of dreams, right? All of these deals and entrepreneurs came from my past relationships.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22295,
+      "timestamps": []
+    },
+    {
+      "end": 23030,
+      "excerpt": "[00:21:34] Gopi Rangan: This is amazing. You have given specific examples of how you met these founders, how you stay in touch with a lot of people you worked with in the past, and they come back into your life again. some of these people you worked with, some of the people you hired in your previous jobs, and that has become a very strong community for you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22670,
+      "timestamps": [
+        {
+          "offset": 22670,
+          "raw": "[00:21:34]",
+          "seconds": 1294
+        }
+      ]
+    },
+    {
+      "end": 23263,
+      "excerpt": "I can see why this is exciting because you like working with some of those people. And I'm going to go make an assumption here that you're a total nerd. You're a techie, okay? You're not one of the salesy, businessy type of people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23032,
+      "timestamps": []
+    },
+    {
+      "end": 23828,
+      "excerpt": "In this world of venture capital, you have to network. You have to network very heavily. How do you think about cultivating relationships with people? I know that you heavily rely on connections from your past, but you're also very actively connecting with new people, new communities. How do you think about connecting with people. Startups can come from any part of the world, any part of the industry, and you want to be in front of those founders. And you have done a phenomenal job over the years of building that venture capital career. How do you do that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23265,
+      "timestamps": []
+    },
+    {
+      "end": 24709,
+      "excerpt": "[00:22:43] Bhaskar Ghosh: I don't know if I have a secret sauce to offer you. I mean, bedrock is, you have to enjoy the company of people and you have to offer something. I remember doing a podcast on some of my community service past life that I never talk about. You know, I was lucky to work with Mother Teresa. She's from the same city as me and I had mentioned that to Pankaj once. And we ended up doing this podcast about a spirit of service in VC. And I suddenly realized that I had built infrastructure most of my life as a software builder and leader, and it's essentially a service that you provide to other people in the company. It's actually a horizontal thing. If you go to community service and social service that I've been lucky to do for 25 plus years, including the time I spent with Mother Teresa, you're again offering a service based on compassion and love.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 23830,
+      "timestamps": [
+        {
+          "offset": 23830,
+          "raw": "[00:22:43]",
+          "seconds": 1363
+        }
+      ]
+    },
+    {
+      "end": 25284,
+      "excerpt": "VC business is about being a service oriented person. So I think you have to genuinely enjoy the people you deal with, but you also have to offer something of yourself. So I think the guiding principle is when you go and meet new people, I think VC life is a hard life, right? You have to hustle, you have to land deals, but you have to be sure about what you know well and what you're prepared to give. You always try to add value, and it's best not to ask for anything in return. So I think there are some guiding principles that each of us should have around networking.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24711,
+      "timestamps": []
+    },
+    {
+      "end": 25528,
+      "excerpt": "Now, let's come to two kinds of networking. If you wanna be an entrepreneur, a VC, a business builder, which ultimately we all are, you have to be intentional in your networkings. You have to prioritize which networks you have to go, go into.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25286,
+      "timestamps": []
+    },
+    {
+      "end": 26099,
+      "excerpt": "Lemme give you a practical example. If you want to land good deals, you have to know which companies do most entrepreneurs come out of. And if you look at my life, I think very highly of entrepreneurs coming outta Oracle, Yahoo, LinkedIn, but also Facebook, surely Palantir, maybe old timers from PayPal. So important to know that you can draw your own network intentionally using LinkedIn, using just a piece of paper and see who do you want to get to and why, who are senior, but more importantly, people who may not be that senior who have a chip on their shoulders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25530,
+      "timestamps": []
+    },
+    {
+      "end": 26535,
+      "excerpt": "So having a methodology around how you create networks on the transactional side is very important. Second example is once you become an enterprise software investor, you'll realize that as your companies start going beyond design partnerships and you go into say, either you are doing open source based bottom up distribution, in which case it's a developer community that you need to be part of, you need to be intentional about it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26101,
+      "timestamps": []
+    },
+    {
+      "end": 27215,
+      "excerpt": "Which developer networks to go into? Do you go into the frontend developer community? Do you go into the design community? Do you go into the data infrastructure community? Do you go into the AI infra community? Do you go into the applied AI community? Building those graphs for yourself is incredibly helpful, but then you realize, oops, I have to go sell the software. That's really hard. How do you go into the big banks? How do you go into the big manufacturing companies? So in my time, I have probably accidentally done a good job with the big banks. They, you know, became friends with all the heads of ai, heads of data, CIO, CTO. And that I call intentional networking.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26537,
+      "timestamps": []
+    },
+    {
+      "end": 27718,
+      "excerpt": "Also, I have instinctively just enjoyed my time with seed investors like yourself, Gopi. I have found seed investors to be incredible , they also handle uncertainty really well, because seed investing is all about handling un uncertainty and you're making founder bets and domain bets. That's about it. You're not really making product bets. So you know, on the intentional networking side, I think I gave you examples about how to look at your networks. So you have to pick and choose and prioritize.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27217,
+      "timestamps": []
+    },
+    {
+      "end": 28068,
+      "excerpt": "The spirit with which you enter them is very important. You should decide what it's like. Are you gonna ask somebody for something in the first conversation? Do you wanna offer some help? Do you wanna offer people intros? I know the language I'm using is transactional. It's important to be helpful to people without asking for something in return.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27720,
+      "timestamps": []
+    },
+    {
+      "end": 28251,
+      "excerpt": "The second kind of networking, which is what I call that which puts gas in your tank. So my old boss, Reid Hoffman once told me, use the language called personal board of directors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28070,
+      "timestamps": []
+    },
+    {
+      "end": 28606,
+      "excerpt": "Anything Reid has told me, it takes me 10 years to understand what it means. So I think it's important to have at a human level, your personal board of directors. Part of that could be for your professional journey, but to me the values part, your family life. Where do you spend time? Do you go play soccer or cricket or basketball on Saturday morning?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28253,
+      "timestamps": []
+    },
+    {
+      "end": 29358,
+      "excerpt": "Do you go do social service? In my case, a lot of my support of things goes into music. It's important to know what puts gas in your tank: into your health, into your physical, mental, spiritual health; for your friendships and your family, because ultimately that's what will stay with you. And you have to figure out how to make time for that part of your network, which in a way is more about joy and fulfillment, which is not transactional. And I don't think I've succeeded. But in the some cases, the, for the founders that I'm close to, this comes up a lot around what is fulfilling them, what is keeping them going? I think it's important for whether you are a founder or a vc or an exec, to have the second network also in an intentional way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28608,
+      "timestamps": []
+    },
+    {
+      "end": 29691,
+      "excerpt": "[00:28:01] Gopi Rangan: This is very thoughtful. I can see that you have a style and you are intentional about every connection you make and you figure out whether it puts gas in your tank or is it a transactional or is it a service that you're providing because a lot of venture capital is about providing service to other people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29360,
+      "timestamps": [
+        {
+          "offset": 29360,
+          "raw": "[00:28:01]",
+          "seconds": 1681
+        }
+      ]
+    },
+    {
+      "end": 30266,
+      "excerpt": "What's your advice to founders who wants to network with you? Especially in today's world post COVID, and we're coming out of the hype cycle and now after a couple of years of downtime, looks like we're going into a more positive cycle in the economy and we are coming into Big Rush with Gen AI tools, and Gemini, and many other things out in the world. The ecosystem has changed and evolved. There are many types of seed investors in the ecosystem. Much, much more than we had about 10, 15 years ago. In this ecosystem, how can a founder stand out and get your attention? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29693,
+      "timestamps": []
+    },
+    {
+      "end": 31041,
+      "excerpt": "[00:28:57] Bhaskar Ghosh: I'm probably not the right person to answer this question, but ultimately a founder investor interaction of course has constraints, lack of time. Because we end up meeting so many people, I think homework based meetings are always better for me, so I have some context on some where coming from. But I do a lot of events. I do a lot of dinners. I meet people. I think sharing context is important. A founder telling me why are they so passionate about something quickly in a genuine way That's very important. Saying why is this market important to build the businesses is important. And the why part around what part of your journey took you to this point where you wanna put your life on the line and build something, around why you're equipped.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 30268,
+      "timestamps": [
+        {
+          "offset": 30268,
+          "raw": "[00:28:57]",
+          "seconds": 1737
+        }
+      ]
+    },
+    {
+      "end": 31890,
+      "excerpt": "Those are important things, and I think sharing critical observations. At 8VC, we have this 'why now' question. Why should this happen now and why should it happen with you in the loop? So I think insights around the why now, it's a teaching moment. I think VCs, we are passing things a lot. We get overwhelmed. I would say I like to be curious. I like to have learning loops. So if a founder uses these short interactions to teach me something and you know, that I could listen humbly is like really important. Those are the few things. So the why now part, why you part, why the market part and some insights. And then you know, have one ask. If you have an ask, say, Hey, and that doesn't mean I can help you. Do you have a specific ask? It just helps rather than a general ask where you don't know what to do. I would say those are important. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31043,
+      "timestamps": []
+    },
+    {
+      "end": 32134,
+      "excerpt": "[00:30:33] Gopi Rangan: Yeah. You're a rare person who likes to do homework. I see that you, you wanna take some homework and if it's a relevant, useful thing that will also help you learn about something new, uh, that makes it very exciting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31892,
+      "timestamps": [
+        {
+          "offset": 31892,
+          "raw": "[00:30:33]",
+          "seconds": 1833
+        }
+      ]
+    },
+    {
+      "end": 32142,
+      "excerpt": "Yeah, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32136,
+      "timestamps": []
+    },
+    {
+      "end": 32759,
+      "excerpt": "[00:30:45] Bhaskar Ghosh: I think that's probably both confirmation bias and, uh, something negative. I think people like us who have built stuff in a past life, whether it's products, businesses, tech teams, we like to know just enough. Because then, you know, ultimately we like to operate in the intersection of two areas. Early phase investing is so much about investing in the founders, but you're also trying to invest in a thesis. So I think the context, the homework around thesis is important. Even if you don't know an area really well, being curious about it. So I would say, yeah, homework is important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 32144,
+      "timestamps": [
+        {
+          "offset": 32144,
+          "raw": "[00:30:45]",
+          "seconds": 1845
+        }
+      ]
+    },
+    {
+      "end": 33744,
+      "excerpt": "A founder would only want to work with somebody who is coming in with some notion, right or wrong, some insights, because that starts a collaboration rather than just a monetary exchange, right. So ultimately the one thing, Gopi, that you and I have talked about a lot is early phase investing is the start of a five to seven year journey. It is not just about doing a pre-seed check and then a seed check and then a doing co-invest check for your pro rata. It is that you kind of become part of this tight-knit family, which is going through ups and downs and these initial conversations are about can we collaborate together? And are we comfortable collaborating? And the second, third conversation, can we expose our own insecurities? You know, can we actually problem solve? Can we ask for help? Those are the things that I look for. So I would say the first conversation is often about, you know, energy exchange, the why now part, and both sides being curious about each other.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32761,
+      "timestamps": []
+    },
+    {
+      "end": 34070,
+      "excerpt": "[00:32:15] Gopi Rangan: This is incredibly helpful. Thank you for sharing your, like what's really going on in your mind when you talk to founders. We're coming towards the end of our conversation and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33746,
+      "timestamps": [
+        {
+          "offset": 33746,
+          "raw": "[00:32:15]",
+          "seconds": 1935
+        }
+      ]
+    },
+    {
+      "end": 34179,
+      "excerpt": "[00:32:30] Bhaskar Ghosh: I think from 2016 I have given much more structured times in the nonprofit space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 34072,
+      "timestamps": [
+        {
+          "offset": 34072,
+          "raw": "[00:32:30]",
+          "seconds": 1950
+        }
+      ]
+    },
+    {
+      "end": 35739,
+      "excerpt": "We have a family run nonprofit called Society for Arts and Culture of South Asia and we support a lot of causes in the India-US corridor. We support women's and children's health education in India through various other nonprofits. We do a lot of support for music. My family is a set of musicians. We've had a ban and we try to support a lot of artists who are visiting from India to the US in the sacred music area. We like to support artists who will bring people together, help people rise above sectarianism. I'm a huge aficionado of Indian classical music, and I'll call out that one festival that we have been sponsoring for seventh year now that I encourage everybody to go to. It's in New York City in a beautiful nonprofit space in Brooklyn called Pioneer Works. The festival is called Ragas Live. It's a continuous 24 hour Indian music festival where it's Indian themed. I would guess it's probably the only 24 hour festival of this sort in the US and it's 50% of it is pure Indian classical but we try to have. Fusion and we try to have sacred music artists from the folk in the sacred spaces, whether it's from India, it's from South America, from Middle East, from Pakistan. This time we're gonna have some amazing Qawwali. We'll have amazing Baul music from Bengal, and I am like really excited about this festival called Ragas Live. So if anybody is in the New York area, you wanna come and attend. It's October 18th and 19th this year, starts at 7:00 PM on a Saturday, ends at 7:00 PM that Sunday, and I'm so proud to talk about Ragas Live. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34181,
+      "timestamps": []
+    },
+    {
+      "end": 35859,
+      "excerpt": "[00:34:16] Gopi Rangan: BG, thank you very much for spending time with me. We could go on for another couple of hours.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 35741,
+      "timestamps": [
+        {
+          "offset": 35741,
+          "raw": "[00:34:16]",
+          "seconds": 2056
+        }
+      ]
+    },
+    {
+      "end": 36340,
+      "excerpt": "There's so many things we could talk about, but we have to conclude here. Thank you very much for spending time with me and talking about specific things from your career, things that you're excited about, and your framework for how the thought process of a VC works and the kind of relationships you like to build and how to build those relationships and your insights on the market. This is incredibly valuable. I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35861,
+      "timestamps": []
+    },
+    {
+      "end": 36430,
+      "excerpt": "[00:34:44] Bhaskar Ghosh: Gopi, I'm so honored and thank you so much for having me here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 36342,
+      "timestamps": [
+        {
+          "offset": 36342,
+          "raw": "[00:34:44]",
+          "seconds": 2084
+        }
+      ]
+    },
+    {
+      "end": 36470,
+      "excerpt": "[00:34:48] Gopi Rangan: Thank you, BG.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 36432,
+      "timestamps": [
+        {
+          "offset": 36432,
+          "raw": "[00:34:48]",
+          "seconds": 2088
+        }
+      ]
+    },
+    {
+      "end": 36800,
+      "excerpt": "Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36472,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "bb1bcca1b3bc7d10fc938dd676516b09900d9071c14b02cb73c08d5edc477d29",
+  "text_sha256": "47dbb7e0295a6e6fbfc6fc91d6b539ef1e5cca50725846de63bec6a25ee676a7"
+}

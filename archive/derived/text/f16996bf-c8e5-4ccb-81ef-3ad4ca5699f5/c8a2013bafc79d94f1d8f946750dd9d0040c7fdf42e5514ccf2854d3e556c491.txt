@@ -1,0 +1,41 @@
+Kapil Surlaker, VP of Engineering, Data and AI Infrastructure at LinkedIn, joins guest host Bhaskar Ghosh for a technical and thoughtful discussion on how AI is reshaping enterprise. Kapil shares how LinkedIn built strong data foundations over more than a decade, and how that foundation enabled generative and agentic AI use cases. He reflects on building Espresso, a distributed database created out of necessity, and explains why he would not build it again today. The conversation explores AI infrastructure, model flexibility, privacy guardrails, and operational responsibility. His message to leaders is clear. Reinvent yourself continuously, or risk becoming irrelevant.
+
+
+In this episode, you'll learn:
+
+
+[04:07] From personalization to hiring agents
+
+
+[08:30] Modern AI infrastructure and model flexibility
+
+
+[14:58] Why LinkedIn built Espresso
+
+
+[23:08] AI can write code but you own the pager
+
+
+[26:33] Data as a success layer
+
+
+[30:06] Privacy, governance, and guardrails in the AI age
+
+
+[37:56] Reinvent or go extinct
+
+
+About Kapil Surlaker
+
+
+Kapil Surlaker is a seasoned technology leader who has worked across distributed systems, large-scale databases, and AI infrastructure. He began his career at Oracle building foundational database technologies before joining LinkedIn during its hypergrowth phase. At LinkedIn, he played a central role in building Espresso, a massively scalable distributed document database, and later led AI and data platform modernization efforts that powered personalization, ads, search, and emerging generative AI use cases. His work spans infrastructure, privacy engineering, governance systems, and enterprise AI transformation.
+
+
+About Bhaskar "BG" Ghosh
+
+
+Bhaskar "BG" Ghosh is an engineer, operator and investor, currently building and raising capital in the emerging investment category of AI-powered services for high TAM legacy verticals. Previously BG was a General Partner at SF venture firm 8VC where he led the core early-phase enterprise s/w investments in AI and Data, incubated disruptive businesses in AI-enabled Services and Infra, and supported a large family of founders in trenches and on boards. BG spent his formative Silicon Valley years building core tech and teams during the hyper-scaling phases of LinkedIn Data, Yahoo Ads, Oracle RDBMS and Nerdwallet marketplaces.
+
+
+Subscribe to our podcast and stay tuned for our next episode.
+

@@ -1,0 +1,863 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 299,
+      "excerpt": "Katie Shea: Who's the perfect founder. There's really no such thing, but a founder really stands out to me when they can somehow balance this visionary part of their story and their pitch. This is what the hundred million dollars a year business looks like. , they have the magnetism to them around,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 720,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, the podcast for founders with ambitious ideas, venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the shore shot. Today's guest is Katie shear. She's based in New York and she is the founding partner at divergent capital prior to starting divergent capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 301,
+      "timestamps": []
+    },
+    {
+      "end": 990,
+      "excerpt": "She was an active angel investor for many years, and she was also in many marketing roles. Let's talk to Katie and find out what she focuses on, how she makes investment decisions, and how she chooses startups for her VC. Katie. Welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 722,
+      "timestamps": []
+    },
+    {
+      "end": 1069,
+      "excerpt": "Katie Shea: Thank you so much for having me. I'm so excited to be here today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 992,
+      "timestamps": []
+    },
+    {
+      "end": 1288,
+      "excerpt": "I've spent my entire career in the startup ecosystem or in a ton of different hats from food shop founder, early marketing executive at venture back companies. As you mentioned, an angel investor now venture investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1071,
+      "timestamps": []
+    },
+    {
+      "end": 1471,
+      "excerpt": "Gopi Rangan: Talk about your experiences. Let's start with your childhood. Where did you grow up? I know you grew up in Queens, but how was your experience and how did it shape you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1290,
+      "timestamps": []
+    },
+    {
+      "end": 1809,
+      "excerpt": "Katie Shea: Yeah. I grew up on the Queens long island border, but it was really entrepreneurial household. My dad was actually a firefighter FDNY for 20 years, but he had this small business on the side. It was assigns and audience. When I was born yet three employees going to up to 40 employees over the years. And my mom was amazing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 1473,
+      "timestamps": []
+    },
+    {
+      "end": 2147,
+      "excerpt": "Stay at home mom of four kids, but she always had a side hustle and in a daycare center, tutoring, Cole, Morgan, and outside of my immediate family, almost all of my aunts and uncles were small business owners as well. Catering companies and construction companies and renovation companies for better or for worse at a really young age.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1811,
+      "timestamps": []
+    },
+    {
+      "end": 2602,
+      "excerpt": "I just thought. That's what people did. I tell people started businesses. And that was, obviously as an adult, what I was going to do. And it was super impactful to just add a very, very young age, know what a purchase order was because it was getting talked about at the dinner table or working for my dad, the summers in between high school and talking to customers and getting an experience that I probably would not have gotten at such an early age.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2149,
+      "timestamps": []
+    },
+    {
+      "end": 3014,
+      "excerpt": "I went to NYU, undergrad, studied finance, marketing, specialized in entrepreneurship. No. She started a company in my dorm room my senior year, but it started my career building a manufacturing business and we did not raise money. I didn't know venture capital was at the time we bootstrapped it, profitability my business partner at Susie lab, a brilliant designer, and I ran everything, sales and marketing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2604,
+      "timestamps": []
+    },
+    {
+      "end": 3407,
+      "excerpt": "We sold to Neiman Marcus and Macy's and Bloomingdale's and Bed, Bath and Beyond. Retailers all over the world, we factored against our receivables to grow. We never raise outside capital. We got to profitability. And actually we sold a business in 2013. That was my first foray into entrepreneurship. But without any sexy tech component to it, it was really like a B2B manufacturing company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3016,
+      "timestamps": []
+    },
+    {
+      "end": 3762,
+      "excerpt": "But a lot of blood, sweat, and tears, we ran the business for four years before we sold. It just gives me an incredible founder empathy that still sticks with me to this day. From there. I jumped to the tech side. I learned during my time in new manufacturing businesses, just, I would get so frustrated by how archaic some of the processes were, right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3409,
+      "timestamps": []
+    },
+    {
+      "end": 4079,
+      "excerpt": "We'd be getting purchase orders for multi hundreds of thousands of dollars via fax machine in 2012. And I was dealing with EDI where housing systems felt like they were built in the 1960s. I became increasingly interested in like technology solving some of the problems that I myself was having as a business owner.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3764,
+      "timestamps": []
+    },
+    {
+      "end": 4151,
+      "excerpt": "My investing story really starts in 2014 after we sold the  business. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4081,
+      "timestamps": []
+    },
+    {
+      "end": 4226,
+      "excerpt": "Gopi Rangan: When you became an angel investor and you started investing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4153,
+      "timestamps": []
+    },
+    {
+      "end": 4414,
+      "excerpt": "Katie Shea: Yeah. So 2014 was when I made my first investment. And so I was very small. My first angel investment was a company called Bombas socks, which is absolutely phenomenal, Dave.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 4228,
+      "timestamps": []
+    },
+    {
+      "end": 4754,
+      "excerpt": "He has still to this day, the best founders, CEOs that I've ever worked with. And I loved it. I was very small checks, but I loved being able to talk to founders, breakfast, lunch after work and not just help them with capital they'll share all the lessons and tribulations that I have learned as a founder of everything I had done wrong.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4416,
+      "timestamps": []
+    },
+    {
+      "end": 4870,
+      "excerpt": "And so every sold the business, that's really, when I transitioned more to operating at venture backed companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4756,
+      "timestamps": []
+    },
+    {
+      "end": 5190,
+      "excerpt": "Gopi Rangan: So you grew up in an entrepreneurial household. The idea of starting a business was always in the air. And you lived through that dream during college, you mentioned something interesting that most companies start illegally in dorms or in garages where they're not supposed to, without a business license.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4872,
+      "timestamps": []
+    },
+    {
+      "end": 5519,
+      "excerpt": "We don't talk about it much, but it's interesting that you mentioned that you had that stint while you were in college. You brought that back eventually as an angel investor, you begin to support many founders and you had a really fun experience working with entrepreneurs and directly. How did all that experience prepare you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5192,
+      "timestamps": []
+    },
+    {
+      "end": 5623,
+      "excerpt": "And when did you decide that? Okay, I want to start my own venture fund. And why did you do that much?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5521,
+      "timestamps": []
+    },
+    {
+      "end": 5887,
+      "excerpt": "Katie Shea:  Much later, we sold the business in 2013. I spent 2013 too. 2018 operating at venture back companies writing some small angel checks, but it was very much not the danger. The day job was running sales and marketing teams at venture-backed companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 5625,
+      "timestamps": []
+    },
+    {
+      "end": 6369,
+      "excerpt": "My sweet spot became that zero to 30 million in annual revenue stage, a couple of successes, one epic failure learned a ton operating venture back startups that probably gave me more and more conviction, both on my instincts of what separates. Good from great. What can go wrong over. And so I  didn't officially start venture investing until about four years ago, I had run growth marketing at a retail tech company in New York called OrderGroove very early days to the series B.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5889,
+      "timestamps": []
+    },
+    {
+      "end": 6697,
+      "excerpt": "I then joined a company called home joy, which is a home services market. They raised $40 million from tier one funds and imploded fabulously. When I was the general manager of New York, which I do like to take share now, but I was so upset at the time. It was my first resume blemish. I was like, oh my gosh, I can't believe.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6371,
+      "timestamps": []
+    },
+    {
+      "end": 7022,
+      "excerpt": "Worked for a company that went out of business. I thought that that was going to be a huge stain on my track record. And ironically enough, the older I get, the more I was like, wait a second. You were at home joy. That's the most interesting thing about you and what happened there? What were the learnings or the lessons?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6699,
+      "timestamps": []
+    },
+    {
+      "end": 7416,
+      "excerpt": "I was a general manager of New York and brown. The penal, the tri-state. Then I ran a growth consultancy for a couple of years. I was a fractional CMO, worked with some incredible companies. Air call is as a recent unicorn. Everything was an IOT enterprise software company and Nico Shatise was a procurement  platform and it really wasn't until about four years ago, then I was recruited by.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7024,
+      "timestamps": []
+    },
+    {
+      "end": 7744,
+      "excerpt": "A small fund in, and you're called Kyra's organization. I helped co-found in college and it's more a young founder community society. And that transition to a venture fund. Over the years, I was fortunate enough where I had worked with the founders, anchor, Alex, Ryan. They had known me for a decade. They had stayed friends.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7418,
+      "timestamps": []
+    },
+    {
+      "end": 8120,
+      "excerpt": "They had seen my angel investment track record. They knew things are going really well and they weren't mounts. That was really my first experience of like ways you can talk to founders all day and work with Vanderbilt. Have this be a career and get paid to do it. I was literally hooked from that. I just, I was like, this is 100% what I want to do for the rest of my life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7746,
+      "timestamps": []
+    },
+    {
+      "end": 8199,
+      "excerpt": "That's a bit more detail on the transition from founder operator to investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8122,
+      "timestamps": []
+    },
+    {
+      "end": 8355,
+      "excerpt": "Gopi Rangan: This is very interesting. Thank you for sharing your journey. How is divergent capital different from other VC firms? What's the philosophy? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8201,
+      "timestamps": []
+    },
+    {
+      "end": 8501,
+      "excerpt": "Katie Shea: A great question. We spent months and months and months asking ourselves all the philosophical questions around just the wrong need.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 8357,
+      "timestamps": []
+    },
+    {
+      "end": 8824,
+      "excerpt": "Another venture fund. There are like 800 venture funds raising right now or something crazy for us. It really boiled down to a few. I spend my whole life thinking about businesses from the growth and revenue side of the house, my partner, Lucy, a machine learning scientist turned investor. I was raised by entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8503,
+      "timestamps": []
+    },
+    {
+      "end": 9137,
+      "excerpt": "She was raised by scientists and engineers, very kind of complementary skillset to mind. She really wears more of that CTO technology, science hat. Lucy is more institutionally trained. She was at Greycroft and then she was at an edgy tech fund in Silicon valley. Right human. More of them angel operator route.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8826,
+      "timestamps": []
+    },
+    {
+      "end": 9548,
+      "excerpt": "So complimentary in so many ways. But a few years ago we noticed that something was starting to change about the bifurcation of our two worlds. For example, Lucy would meet the founders of a robotics company, but instead of doing. Safe deep tech business model of robotics, a service. The founders said we actually want to own the robotic cells and sell directly into OEMs Honda space X Bentleys of the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9139,
+      "timestamps": []
+    },
+    {
+      "end": 10060,
+      "excerpt": "And the sea would call me and say, how does this work? Who's the customer? What is the buyer persona? How does the sales cycle book? How do they think about ROI, average contract values right here? I would give her my opinion. She was like, that was super helpful. On the flip side, I was starting to see, for example, a consumer healthcare company that had a big thesis on personalization and the core of the technology for that thesis was a very complicated machine learning algorithm to properly underwrite.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9550,
+      "timestamps": []
+    },
+    {
+      "end": 10407,
+      "excerpt": "I would call Lucy and she'd say, Hey, these are the red flags. Ask these seven questions, check out these two competitors. There was a one plus one equals 10 dynamic to the partnership ad. We were seeing these companies so early pre-product pre-revenue because we're both these founder operators. We have no problem going that early tech market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10062,
+      "timestamps": []
+    },
+    {
+      "end": 10842,
+      "excerpt": "We were starting to see a gap in the market, especially for these types of films. In our opinion, trying to go out and do the bravest thing, right. They would take on technology risks and go to market risk. A good example. We like to point to as like the Teslas of the world, Tesla, obviously at the core is an innovative technology company, but they also took a go to market risk and said, we're going to sell directly to consumers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10409,
+      "timestamps": []
+    },
+    {
+      "end": 11172,
+      "excerpt": "A lot of early investors were like, no, sorry. We buy cars in parking lots. We don't buy cars direct to consumer. Right. They took two risks and both of those risks paid off. Depends on what the market is doing today. We do like a $600 billion company. We were talking to our peers who were getting excited about these founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10844,
+      "timestamps": []
+    },
+    {
+      "end": 11478,
+      "excerpt": "His company is talking to our peers at larger funds and they're like, yeah, these founders do look exceptional, but I know have a billion dollar fund. I need to deploy three to $5 million. Into a company to make my portfolio construction model work. So I'll just wait to see what happens to this company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11174,
+      "timestamps": []
+    },
+    {
+      "end": 11782,
+      "excerpt": "Right? I'll invest at the seed, all invested the a and so these are just got more and more conviction that there was this white space for the true pre-seed round for us, that usually looks like the first million or $1.5 million into the business. Particularly for science, heavier tech, heavy founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11480,
+      "timestamps": []
+    },
+    {
+      "end": 12090,
+      "excerpt": "There's a gap. We created  an LLC to really pressure test this thesis. This was probably two plus years ago. Now we invested in five companies pre-product pre-revenue and they're all doing really well. We got super lucky and we are working with amazing founders. And to your point, why launch another fund?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11784,
+      "timestamps": []
+    },
+    {
+      "end": 12467,
+      "excerpt": "It was actually our founders that really pushed us over the edge. On the regular, they were saying, you know, you guys understand our business, the best spills on the tech side and the go-to-market side. You just, most diligence. We want you to lead or coli. And if we did not have the capital to do that personally, they were like, you guys have a really unique partnership.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12092,
+      "timestamps": []
+    },
+    {
+      "end": 12797,
+      "excerpt": "That was really what pushed us to our founders or in a large way, our customers, we have founder customers. We may have LP customers, but they're at least half of our customer base. If you think about it that way, they were telling us that we had a really special product. So, yeah, we are a new pre-seed fund based in New York.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12469,
+      "timestamps": []
+    },
+    {
+      "end": 12917,
+      "excerpt": "We're looking to back early, early doesn't scare us pre product. Pre revenue is fine. We did our first close in March.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12799,
+      "timestamps": []
+    },
+    {
+      "end": 13149,
+      "excerpt": "Gopi Rangan: That's incredible. So you and your partner came together with very different backgrounds, very different styles of thinking, and that has become a huge strength for the firm. And you develop the thesis for the farmer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12919,
+      "timestamps": []
+    },
+    {
+      "end": 13293,
+      "excerpt": "Now you focus on very, very early stage, very early stage startups. When you meet entrepreneurs, what do you ask them? What do you  look for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13151,
+      "timestamps": []
+    },
+    {
+      "end": 13585,
+      "excerpt": "Katie Shea: Lucy and I are looking for founders are assessed with the problem that they are solving. They have thought about it from every angle. If not years for decades, they're either the customer or as a consumer, or they've experienced the problem firsthand as a business professional.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 13295,
+      "timestamps": []
+    },
+    {
+      "end": 13903,
+      "excerpt": "And on top of that obsession, and we're looking for some. Unique perspectives on what the founder thinks is missing from the market and why in a dream scenario, that's backed up with customer validation. Hey, I've talked to a hundred potential customers. These were the main insights I gleaned from the conversation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13587,
+      "timestamps": []
+    },
+    {
+      "end": 14262,
+      "excerpt": "We definitely have a bit of a bias towards founders that think a bit more from a bottoms up perspective and a top-down perspective. We're looking for founders that are really obsessed. The customer and the product. And that's how they think about what the future growth trajectory of the business looks like versus, oh, it's a hundred billion dollar market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13905,
+      "timestamps": []
+    },
+    {
+      "end": 14599,
+      "excerpt": "If I get 1% of it, this is what my ARR looks like. There are so many nuances to these conversations for Lucy and I, there's definitely gravitation towards. If the founder, isn't the customer of the business, they know that customer inside and outside, and they put in the work to validate some of the early hypotheses that they've had.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14264,
+      "timestamps": []
+    },
+    {
+      "end": 14910,
+      "excerpt": "And in some cases we actually love when they're like, actually, we had this hypothesis about the market, and then we went and talked to 200 customers that we realized were wrong. This is where we landed. They are entrenched in who their customer is and what they want. We don't tend to gravitate towards them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14601,
+      "timestamps": []
+    },
+    {
+      "end": 15361,
+      "excerpt": "Cool kids has been trained in how to create FOMO and adventure around it's out there right now is very hard to avoid it. And we get it. We've been founders. You do what you gotta do. We have absolutely no judgments, but for us, we really gravitate more towards authentic. Humble knows what they're good at knows what they're not good at has a way to actively thinking about how to fill the gaps of what they're not good at from co-founders or early.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14912,
+      "timestamps": []
+    },
+    {
+      "end": 15676,
+      "excerpt": "We've invest in 50 plus companies between the two of us. We found that that founder type, at least for us, that's the founder type that for the long haul can continue to attract incredible capital partners. They can attract and retain incredible talent. They tend to lead more with authenticity and vulnerability.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15363,
+      "timestamps": []
+    },
+    {
+      "end": 15998,
+      "excerpt": "Gopi Rangan: I like the way you described obsession, like intense passion. That is a common thread that I've seen with many entrepreneurs I've worked with. Yeah. The relentlessly resourceful entrepreneur who will not stop Paul Graham coined the word relentlessly resourceful. And that comes from this place of obsession.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15678,
+      "timestamps": []
+    },
+    {
+      "end": 16344,
+      "excerpt": "Katie Shea: Another thing that's hard to articulate perfectly, but I'll try my best. Who's the perfect founder. There's really no such thing, but I found a really stands out to me when. Can somehow balance the visionary part of their story and their pitch. And they're like, this is what the a hundred million dollar a year business looks like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 16000,
+      "timestamps": []
+    },
+    {
+      "end": 16682,
+      "excerpt": "They have the magnetism to them. There's this balance between the nitty gritty of what are the unit economics. So my customer, what does an ACB look like? How about growing from month to month to quarter to quarter alongside that visionary high level, super inspirational, super charismatic. It's really rare to find that in one person.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16346,
+      "timestamps": []
+    },
+    {
+      "end": 17001,
+      "excerpt": "But for us, that's been quote unquote, founder personality type. That's also treated us really well. They can almost flip back and forth almost seamlessly between visionary and hyper-focused on KPIs and testing. And being honest about themselves, driving a very KPI culture and orientation from the start of the year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16684,
+      "timestamps": []
+    },
+    {
+      "end": 17358,
+      "excerpt": "Gopi Rangan: Yeah, thank you for sharing that. You're going into the second level of details on what you're looking for. What do some entrepreneurs do that make it easy for you to get there? Are there things that certain entrepreneurs do to prepare ahead of the meeting? How do they present the story that makes it easy for you to understand the business?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17003,
+      "timestamps": []
+    },
+    {
+      "end": 17678,
+      "excerpt": "Katie Shea: I love starting with the founder motivation story. We have such a profound respect for what. Founders are doing even just calling it deals and venture rubs us the wrong way. A little bit. These are dreams and families putting income on the line. What founders are doing every day. It's just truly so brave.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 17360,
+      "timestamps": []
+    },
+    {
+      "end": 18057,
+      "excerpt": "We're really looking to hear a founding story or an origin story. Next speaks to the you're going to do this for 10 plus years. If all of those to plan, you are going to create hundreds, thousands, tens of thousands of jobs, billions, and multi-billion dollars in enterprise value. It's going to be awesome, but it's also going to be super, super hard when really articulating.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17680,
+      "timestamps": []
+    },
+    {
+      "end": 18393,
+      "excerpt": "Why you first thought about this business idea, why you become increasingly obsessed with it? Why there's nothing else in the world you can do except for this and why you are absolutely the best person to do it. Those four things should get packaged in that intro, but very tactically let's just say you have a 30 minute introduction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18059,
+      "timestamps": []
+    },
+    {
+      "end": 18729,
+      "excerpt": "I wouldn't spend more than five minutes on the background. Sometimes the mistake people make, especially at the early stage of a company, when there's not so much to show about the actual company themselves, they over-index on their past. They want to bring up as many awards and drop promotions and big logos that they've worked for.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18395,
+      "timestamps": []
+    },
+    {
+      "end": 19090,
+      "excerpt": "That makes sense to try to de-risk it. But I think keep that pretty concise because you do want to fold the majority of the meeting to not just your past, but what this business is and what you're trying to do. Obviously touch on where the business is. Now, anything you can do to de-risk interest or demand or traction, you should absolutely talk about that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18731,
+      "timestamps": []
+    },
+    {
+      "end": 19422,
+      "excerpt": "If you need to raise the money because you need to build a technology product, like totally get it. But is there anything you can do to have together an MVP and get some type of interest? Amazing. If it's an LOI from some type of customer to actually say, Hey, I have pressure tested this. These types of customers are interested.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19092,
+      "timestamps": []
+    },
+    {
+      "end": 19810,
+      "excerpt": "If they said they'd pay $500 a month for it, they need me to deliver on X, Y, Z in order to turn this LOI into an actual contract and basically try to do as much as you can to de-risk that there is demand to solve this problem. For us, this is speculative, of course, but really important. If you're talking to venture investors, you should not be looking to build a lifestyle business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19424,
+      "timestamps": []
+    },
+    {
+      "end": 20212,
+      "excerpt": "There needs to be a clear thought on how this becomes a hundred million dollar a year business pretty quickly. When we say pretty quickly four or five, six years, which I acknowledge I growing up in a small business household, how insane that sounds, but that is really. What you're talking about, and it doesn't really make sense to raise venture and do it yourself over multiple fundraising rounds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19812,
+      "timestamps": []
+    },
+    {
+      "end": 20572,
+      "excerpt": "If you're not really striving for that billion-dollar plus exit. So at least touching on what does this company look like at a hundred million in revenue? Where has the defensibility come in? Where does the moat come in? When you think about exit opportunities if it's not IPL, who are the buyers out there that will pay billions of dollars for this company?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20214,
+      "timestamps": []
+    },
+    {
+      "end": 20857,
+      "excerpt": "If you could structure the conversation around those three pillars, you covered the bases of what most early investors need to understand. They need to understand the founder and the motivation, the market, where the product is today and the venture outcome that they could be under.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20574,
+      "timestamps": []
+    },
+    {
+      "end": 20913,
+      "excerpt": "Gopi Rangan: You mentioned something very interesting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20859,
+      "timestamps": []
+    },
+    {
+      "end": 21262,
+      "excerpt": "A lot of sincere founders treat the first round of fundraising like a job interview and they start talking about their past. That is actually far less important. The more important part of the conversation is. What are you building? How is it doing to be useful for customers? What have you achieved in traction, which gives you strong conviction?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20915,
+      "timestamps": []
+    },
+    {
+      "end": 21431,
+      "excerpt": "That's a typical thing that happens with the founders, especially if they're not experienced and if they're not coached to present to investors. So thanks for holding.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21264,
+      "timestamps": []
+    },
+    {
+      "end": 21733,
+      "excerpt": "Katie Shea: It is so important what you've done in the past, because there's really no better prediction of future success than past success. The point I'm trying to make is do whatever you can to very powerfully and concisely deliver that part right where it's three to five minutes versus 20 to 30.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 21433,
+      "timestamps": []
+    },
+    {
+      "end": 21884,
+      "excerpt": "Gopi Rangan: Yep. Makes sense. Can you give an example of a startup that has worked really well? And you're very proud of how the outcome has turned.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21735,
+      "timestamps": []
+    },
+    {
+      "end": 22105,
+      "excerpt": "Katie Shea: I'm so proud. Somebody, my companies, I'm also a mom of two, and this may not resonate with everybody, but I actually think there's something very maternal about investing, especially at such an early stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 21886,
+      "timestamps": []
+    },
+    {
+      "end": 22286,
+      "excerpt": "You really, in a way it gets back these companies at infancy and you grow up next to them. There's a lot of powerful synergies between like parenting and it's hard with investing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22107,
+      "timestamps": []
+    },
+    {
+      "end": 22394,
+      "excerpt": "Gopi Rangan: Let's talk more about that. That's fantastic. So you think of your startups as your own baby.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22288,
+      "timestamps": []
+    },
+    {
+      "end": 22481,
+      "excerpt": "Katie Shea: I mean, I struggle with saying this cause I couldn't sound condescending.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 22396,
+      "timestamps": []
+    },
+    {
+      "end": 22805,
+      "excerpt": "I don't mean that at all. Most of my founders are much more impressive than myself from guiding and shepherding a partnership. There are parallels, especially when you think about what the average fund cycle looks like these days, which is 10 to 17 years, you really are talking about parallel infancy to almost adulthood.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22483,
+      "timestamps": []
+    },
+    {
+      "end": 23177,
+      "excerpt": "So, yes, the word proud really resonates because that is truly how I feel for so many of my founders. I'll give one example. It's a company in Austin called self founders. James Garvey. James is really one of the first institutional investments. I. We went down to Austin and I met him live. And what sells does when you think about the financial system in the us today?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22807,
+      "timestamps": []
+    },
+    {
+      "end": 23484,
+      "excerpt": "A lot of people that has no credit score or a crappy credit score at some point they want a credit card, right? So they'll walk into the bank of America that walked into a capital one, and they'll say, Hey, I want to unsecured credit card. And the bank will say, no, you can have an unsecured credit card.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23179,
+      "timestamps": []
+    },
+    {
+      "end": 23978,
+      "excerpt": "You can have a secured credit card, but you need to put $2,500 down to secure that credit. Most people in the country do not have more than $500 in emergency savings and are living paycheck to paycheck. So that usually is a deal breaker for this person or for this family. So itself enables this type of customer to do is to basically set up a savings plan where they can contribute to, or self account, $50 a month, a hundred dollars a month, $250 a month, whatever their budget allows them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23486,
+      "timestamps": []
+    },
+    {
+      "end": 24379,
+      "excerpt": "And then self reports to the credit bureaus that the customer is engaging in positive financial behavior of saving money. They're doing incredibly well over a million customers. Now just a couple of years after we invested, if you think about what this market looks like, as far as no credit or low credit, it's a hundred million people in the U S that basically could use cells and benefit from it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23980,
+      "timestamps": []
+    },
+    {
+      "end": 24716,
+      "excerpt": "And they have basically one, 100th of the market. I love this story. Nobody knows how well this company is doing naturally because James is truly an incredible founder and operator. He just heads down. He's a builder. He doesn't care about tech crunch headlines. He is obsessed with his employees and he is obsessed with his customers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24381,
+      "timestamps": []
+    },
+    {
+      "end": 25039,
+      "excerpt": "He's grown in a heads down way to get at the core track to this day. Even though there are multiple fundraising. Stages password, where we first invested the seed. He still sends a weekly KPI report on Fridays. These are the most impressive reports I have ever seen in my career. It goes back to what I mentioned earlier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24718,
+      "timestamps": []
+    },
+    {
+      "end": 25431,
+      "excerpt": "He's a visionary, he's incredibly mission-driven. He wanted to solve this problem for a hundred million Americans deserve access to learning, how to have better financial habits to having savings for the first time after a year. Putting money into their self account to having a better credit score. And basically working with people that no other financial institution wanted to work with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25041,
+      "timestamps": []
+    },
+    {
+      "end": 25742,
+      "excerpt": "Now he's created these incredibly high value customers that trust itself with their money. And like he's basically now is becoming like the bank let's have sales, give them their first credit card. Eventually have self-help them get a car loan or mortgage. There's so many places this company could go for me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25433,
+      "timestamps": []
+    },
+    {
+      "end": 25974,
+      "excerpt": "It's a perfect example of. A mission driven founder, who has just been heads down, building an incredible company for all of the right reasons. I believe going to create the multi-billions of enterprise value. As a result of that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25744,
+      "timestamps": []
+    },
+    {
+      "end": 26076,
+      "excerpt": "Gopi Rangan: I see the story of self is a story of quiet success. It's fantastic to hear that story.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25976,
+      "timestamps": []
+    },
+    {
+      "end": 26250,
+      "excerpt": "And I see the sense of pride in you that perinatal instinct kicks in when you see your portfolio company doing really well. What happens when some of these companies don't.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26078,
+      "timestamps": []
+    },
+    {
+      "end": 26497,
+      "excerpt": "Katie Shea: Oh, yeah. That's part of what you sign up for as, as an investor. Without naming names. I certainly have a couple of examples of those and probably one of the proudest moments in my career so far is one of my early angel investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 26252,
+      "timestamps": []
+    },
+    {
+      "end": 26853,
+      "excerpt": "Absolutely young founder. Incredible. I will absolutely invest in whatever he does. Next just was too early on the market. He's going after S and BS. It's really hard to get that right. Didn't figure it out on the timeline they needed to, but Catherine. But along the way, the founders still sent the most immaculate monthly updates was over transparent.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26499,
+      "timestamps": []
+    },
+    {
+      "end": 27180,
+      "excerpt": "The whole way I sent him a note when he decided to firmly shut down the company. And basically the high level is we know you feel like this is the end of the world right now, but it's not, you are an incredible founder. If you're assigning not for a lifetime of entrepreneurship. To have zeros. You're going to have failures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26855,
+      "timestamps": []
+    },
+    {
+      "end": 27636,
+      "excerpt": "It's an inevitable part of the journey. One of the best phone calls I ever got, he called me after he read that email. And he was like, honestly, no one else sent me a note. This is the crappiest feeling in the world. Thanks for just like normalizing a little bit. Again, it happens something that founders have to remember, especially if they're going after venture, we probably see like, you let so many people down and you just pointed your investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27182,
+      "timestamps": []
+    },
+    {
+      "end": 27979,
+      "excerpt": "Of course, as zero is not the outcome that anybody was hoping for, but any professional investor, there's no reason to not handle that gracefully. It happens. And as I said, I would invest in this founder again, the next week he starts a business. You have to reframe it more positively, but it's hard. It's hard in that dark moment of crap.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27638,
+      "timestamps": []
+    },
+    {
+      "end": 28022,
+      "excerpt": "I really wanted this thing to work in it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27981,
+      "timestamps": []
+    },
+    {
+      "end": 28402,
+      "excerpt": "Gopi Rangan: Yeah. When you're attempting to build a business that generates a hundred million dollars in revenue in the next four to seven years, it's a very, very risky and, and the chances of failures are quite high, much higher than building a lifestyle business. I want to switch to the next part of our [00:26:00] conversation and ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28024,
+      "timestamps": [
+        {
+          "offset": 28333,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 28463,
+      "excerpt": "Is there a nonprofit organization you are passionate about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28404,
+      "timestamps": []
+    },
+    {
+      "end": 28734,
+      "excerpt": "Katie Shea: I'll totally own the bias of this, but I actually mentioned a for-profit business, but it's serving nonprofits and again, full disclosure. This is my husband's company. So I'm doing a little bit of a plug here, but truly is how I would answer this question.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 28465,
+      "timestamps": []
+    },
+    {
+      "end": 29043,
+      "excerpt": "My husband is a founder of a company called Giftz. What he and his team have built is this incredible platform. Enables retailers and brands to replace discounts with donations. So instead of, Hey, buy these shoes and get $30 off, which hurts. AOV hurts, profit margin hurts brands for retailers and brands.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28736,
+      "timestamps": []
+    },
+    {
+      "end": 29443,
+      "excerpt": "It enables them to say to their customers, Hey, buy these shoes for a hundred dollars and we'll give you $30 in gifts, cash, and you can donate that gives cash to any charity of your choice. Instead of the brand saying, Hey, we want to support a breast cancer non-profit, which is amazing. Control in that choice, back to the customer and the shopper to let them choose the charity of their choice.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29045,
+      "timestamps": []
+    },
+    {
+      "end": 29839,
+      "excerpt": "He's young, he's now working with betterment and it fell H and M dozens, maybe hundreds of Shopify store, Shopify brands to help them get more dollars to charity and going innovative and innovative way. There's been hundreds of thousands of dollars donated to charities. At this point, if I had to say where my heart lies and in the charitable giving space, it's on the proud wife partner side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29445,
+      "timestamps": []
+    },
+    {
+      "end": 29902,
+      "excerpt": "Gopi Rangan: I see it. Entrepreneurship runs in your family. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29841,
+      "timestamps": []
+    },
+    {
+      "end": 30192,
+      "excerpt": "Katie Shea: And this is my fault. When I met my husband, I was the crazy entrepreneur. He was a super stable investment banker and I brought him over to the dark side and I was like, Dave, we were supposed to take turns. Somebody was supposed to have a stable income and health insurance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Katie Shea",
+      "start": 29904,
+      "timestamps": []
+    },
+    {
+      "end": 30319,
+      "excerpt": "All the other person did the high risk, high reward thing. But the global pandemic we're like, let's just go bigger, go home.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30194,
+      "timestamps": []
+    },
+    {
+      "end": 30539,
+      "excerpt": "Gopi Rangan: Thank you so much for spending time with me and sharing authentic stories from your own startup experiences and your investment experiences. I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30321,
+      "timestamps": []
+    },
+    {
+      "end": 30870,
+      "excerpt": "Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30541,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "871352796da17461f635a0d52c45351a84d507a1dc87bb742c46b04a33a3afaa",
+  "text_sha256": "4dfa9b673504c91640021d63533c6c503bd14763f16cdf02b7d7521d0e8c304e"
+}

@@ -1,0 +1,753 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 355,
+      "excerpt": "I thought I knew everything about management having  had 33,000 employees and a $11 billion budget as mayor. But this stuff was flying right over my head.  [I thought] \"These guys are amazing and this is gonna take a while to learn this.\"  One time we were going over some deal. And I remember everyone was going around the room debating: should we do it?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 493,
+      "excerpt": "Should we not do it? I remember Mark stopped the conversation and I said, \"Listen. We invest in great people, and this is a great team.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 357,
+      "timestamps": []
+    },
+    {
+      "end": 870,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Adrian Fenty. He's the managing general partner at Mac Venture Capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 495,
+      "timestamps": []
+    },
+    {
+      "end": 1183,
+      "excerpt": "We're gonna talk to him about his career, how he started in public office, and then eventually moved to venture capital. We're gonna talk to him about his startup investments, what kind of startups he invests in, how he views the industry in venture capital, and what he finds in founders that gets him excited.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 872,
+      "timestamps": []
+    },
+    {
+      "end": 1232,
+      "excerpt": "Adrian, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1185,
+      "timestamps": []
+    },
+    {
+      "end": 1310,
+      "excerpt": "Adrian Fenty: Thank you so much for having me. It's my pleasure to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 1234,
+      "timestamps": []
+    },
+    {
+      "end": 1503,
+      "excerpt": "Gopi Rangan: Alright, let's start with where you grew up. You grew up in Washington, DC, right? And you were in public office for many years and before you switched to the west coast, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1312,
+      "timestamps": []
+    },
+    {
+      "end": 1687,
+      "excerpt": "Adrian Fenty: That's correct. So I grew up in DC and was elected to my first elected position in January of 1999 and then I was an elected office until January of 2011. So 12 years. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 1505,
+      "timestamps": []
+    },
+    {
+      "end": 2029,
+      "excerpt": "Gopi Rangan: Politics is not a common background we see even in the business world, but specifically in venture capital. Let's talk about politics first before we go into venture capital. What got you into politics and why did you choose to spend two terms at the city of council member in the city of Washington, DC and later as the mayor?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1689,
+      "timestamps": []
+    },
+    {
+      "end": 2418,
+      "excerpt": "Adrian Fenty: Yeah, so I got into politics because I bought my first house in 1997 and when I bought my first house, when you become a homeowner, you just kind of like get concerned about everything in the community, from crime to cleanliness to the schools and you know, for lots of personal reasons. And the fact that I'm a political junkie, I just started going to community meetings.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 2031,
+      "timestamps": []
+    },
+    {
+      "end": 2838,
+      "excerpt": "I was about 26, 27 at the time, and I just decided, well, let's see what happens at our local community meetings, which would happen once a month at seven o'clock. And I started going to the community meetings and learning and asking questions and challenging people on things. One thing led to another and I ran for an unpaid office called an A N C Commissioner, which represents like 2000 people in the neighborhood.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2420,
+      "timestamps": []
+    },
+    {
+      "end": 3296,
+      "excerpt": "Then they elected me, president of the Civic Association, and then I became a lawyer for the city council. I was a lawyer for the education committee. And then, you know, I just decided since I was a homeowner and since the person who was on the city council representing my district had been there for 21 years, I decided it was time for a change, and if no one was gonna run against her, then I couldn't sleep with myself and if I didn't run against her.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2840,
+      "timestamps": []
+    },
+    {
+      "end": 3764,
+      "excerpt": "So I decided to run with very little name recognition at all, but, You know, I adapted a tactic called Knocking on Doors, and I literally knocked on every door in the district that I lived in and was able to win a David and Goliath City Council race. And then six years later, after a term and half on the city council, I kind of did the exact same thing in a David and Goliath campaign against the city council chair to win my election to be mayor of Washington dc.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3298,
+      "timestamps": []
+    },
+    {
+      "end": 3962,
+      "excerpt": "Gopi Rangan: What an amazing story of grassroots level work eventually getting to a point where you were in a position of power where you can influence policy. What brought you to Silicon Valley? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3766,
+      "timestamps": []
+    },
+    {
+      "end": 4562,
+      "excerpt": "Adrian Fenty: I lost my reelection in September of 2010. So I became a private citizen in January of 2011 and poked around in terms of what I wanted to do. Interestingly, when I got elected mayor, I was the youngest mayor in the country of a major city. And when I lost, you know, I was 39 years old. So I mean, I was by far one of the youngest people ever to lose a reelection, which you know, was not a good thing for my political career, but it actually turned out to be a very good thing for my second career because I was still young enough that I could kind of reinvent myself and start over.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 3964,
+      "timestamps": []
+    },
+    {
+      "end": 6196,
+      "excerpt": "And so I just started talking to everybody in the private sector who I could meet. And eventually I started meeting people in tech and I just really liked the pace and the idealism liked talking to startup founders and I started helping them here in Washington, DC and then when I started making trips out to Silicon Valley to help them fundraise or whatever, I really loved the whole kind of disruption mentality of Silicon Valley. It was something that we did when I was in politics, probably why I wasn't so popular in politics. But in the private sector, disruption is the only way to go because you have to continually reinvent yourself. And nowhere is that more true than in the startup ecosystem. Long story short, I worked with a lot of different individual startups, and then I met Mark Andreessen. Mark's firm was two and a half years old at the time, and they didn't yet have anyone focusing on regulation, politics, and government. So he was kind enough to carve out a role for me as an advisor to the firm on things that may touch on government politics and regulation and it was great timing because we had just invested in Airbnb. Within a few months we would invest in Lyft, both of these decacorns, as you know, faced significant state and local regulation. So I was one of the few people at the firm who not only kind of understood and felt comfortable around those things, but actually knew the players because I had just come out of state and local politics, so I knew almost all the mayors and many of the governors and could be very helpful to Lyft in particular and to Airbnb and other companies like that. . ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4564,
+      "timestamps": []
+    },
+    {
+      "end": 6682,
+      "excerpt": "Gopi Rangan: So you were deep in politics and then you switched to startups and technology and all of that was super fascinating to you. So you came to the West coast, pitched a tent and established a whole new career in the business world here in Silicon Valley. You could have done many things. You could have started a company, you could have joined a large tech company. You could have continued as an advisor to VC firms supporting their portfolio companies like Airbnb and Lyft.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6198,
+      "timestamps": []
+    },
+    {
+      "end": 6806,
+      "excerpt": "But you decided to start your own VC firm. Why is venture capital interesting to you and what's the genesis of the story? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6684,
+      "timestamps": []
+    },
+    {
+      "end": 7061,
+      "excerpt": "Adrian Fenty: I appreciate that. So first of all, from politics I wanted a clean break. I don't believe in career politicians. You know, it's one of the reasons I think we don't have as great political ecosystem as we could because people get burnt out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 6808,
+      "timestamps": []
+    },
+    {
+      "end": 7811,
+      "excerpt": "I think they should get in, make amazing change, and then get out and go right to the private sector. So I certainly didn't wanna be a career politician myself. So once I was outta politics, that was the end of it for me. In the private sector, joined in Andreessen Horowitz (a16z), September, 2012. I ended up working there for four and a half years and learned a ton. I sat in on some insane pitches on everything from GitHub to Oculus. And when you watch companies come in that early who then later become multi-billion dollar companies, you can learn a lot. And particularly when you're learning and watching people make decisions like Mark and Ben and Scott and Chris and those guys who are just kind of the titans of Silicon Valley investing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7063,
+      "timestamps": []
+    },
+    {
+      "end": 8173,
+      "excerpt": "But after four and a half years of kind of watching, learning, helping out wherever I could, I wanted to be more on the front lines. You're right. I did keep looking out for different positions that would've been in a company. I was always very interested in self-driving cars, for instance, and some other ones that kind of played on my government experience.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7813,
+      "timestamps": []
+    },
+    {
+      "end": 8476,
+      "excerpt": "But ultimately, I liked venture capital because in some ways it reminds me of when I was mayor. When I was mayor, I had 40 to 45 cabinet agency directors who worked for me. So, on some days I would be doing schools fire planning, and on other days I'd be doing public works, transportation and police.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8175,
+      "timestamps": []
+    },
+    {
+      "end": 9011,
+      "excerpt": "That's how it is as a venture capitalist. Some days I'll wake up and I'll talk to these three companies and we may talk throughout the day or throughout the week and help them solve problems. The next day it's another three. That keeps it really fast paced. It puts you in front of really dynamic individuals. People are trying to conquer the world and build a future, and I just like that multifaceted kind of very busy lifestyle that you have in venture capital. Getting work with lots of different people. Every day is different. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8478,
+      "timestamps": []
+    },
+    {
+      "end": 9413,
+      "excerpt": "Gopi Rangan: I'm enamored by how you draw parallels between politics and venture capital. I would never thought that there were parallels between these two worlds. I can see how the variety of questions and the urgency of those questions that come to you from founders is very similar to how questions you've dealt with in politics. How is Mac VC different from other VC firms? What do you focus on? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9013,
+      "timestamps": []
+    },
+    {
+      "end": 9842,
+      "excerpt": "Adrian Fenty: Yeah, that's a great question. So again, I started in venture capital in 2012. And a16z was a new fund. If you could kind of just pick one thing that they did differently and they did a lot of things differently, it was that they're super entrepreneur friendly. They built a whole market developments team around helping out the entrepreneurs' go-to-market and sales and engineering and marketing and you name it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 9415,
+      "timestamps": []
+    },
+    {
+      "end": 10243,
+      "excerpt": "That was a new approach for Silicon Valley, for venture capital. For me, it was the first thing I learned and then I saw my friend, Joe Lonsdale start Formation 8, which became 8VC. I'd seen a couple other firms. All the ones that have followed also have that very entrepreneur-friendly mentality - the way the entrepreneur is right, and you do everything to build and support your fund around them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9844,
+      "timestamps": []
+    },
+    {
+      "end": 11464,
+      "excerpt": "That's the approach we've taken at Mac Venture Capital. We started in 2019 (I started a smaller fund in 2017, which we could talk about also, but our but Mac started in 2019) and we want to be hands on. Our whole network for getting into deals are entrepreneurs. We get some deals from VCs and other places, but most of our deals come from other entrepreneurs who we've worked with and tell their friends or colleagues, \"hey, this is a good firm. They are hands-on. They put themselves in the shoes of the entrepreneur whenever there's a tough thing going on.\" And so we're different in that way for sure. We're kind of a new age - one of the few firms that have their headquarters in both Silicon Valley and LA. I'm in Menlo Park, the other GPs Marlon Nichols and Michael Palank are in LA. That gives us a real good kind of understanding of both the main ecosystem of Silicon Valley, which still is the biggest startup ecosystem, but it also gives us a great window into the emerging ecosystem - LA, we have deals in Texas, a lot of deals actually in Seattle and New York even started to get a couple deals in DC. So, in that way, I think we've got a really unique and dynamic way of looking at the ecosystem as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10245,
+      "timestamps": []
+    },
+    {
+      "end": 11739,
+      "excerpt": "Gopi Rangan: It's certainly very unique indeed, politician in venture capital and now you are expanding beyond Silicon Valley into Southern California and other regions. What happens in that first meeting? What do you look for in a founder? What questions do you ask them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11466,
+      "timestamps": []
+    },
+    {
+      "end": 11898,
+      "excerpt": "Adrian Fenty: Lemme tell you a story. Okay, so you noted that I can compare politics to venture capital. I'll do one. I think I said this in a speech before.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 11741,
+      "timestamps": []
+    },
+    {
+      "end": 12261,
+      "excerpt": "So first week when I got elected mayor, I went up to see Michael Bloomberg, who was the mayor of New York at the time. I think he was an early in his second term. He was a mentor to me in so many ways. And you know, if you ever get a new job, most people can relate to this. Or like if you start college or whatever, you're kind of drinking outta the fire hose.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11900,
+      "timestamps": []
+    },
+    {
+      "end": 12942,
+      "excerpt": "Everybody has a piece of advice. If you know a hundred people, you'll get a hundred pieces of advice. And that's how it was when I first got elected to mayor. Everyone was telling me, you gotta do this, that, this, the other thing to be successful. So I sat in front of Bloomberg and I said, \"listen, I'm getting all this advice, drinking out of the fire hose. I don't know what to do. What is the number one thing I need to do to make sure that my city, Washington DC, is a success for the next four years?\" And I remember he kind of half paused. Just me and him sitting there at the table and he said, \"hire great people\". And then he stopped a sentence and I was like, got it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12263,
+      "timestamps": []
+    },
+    {
+      "end": 13290,
+      "excerpt": "And I was maniacal about this when I was mayor. Like if you told me I had to hire somebody for any other reason, except they were amazing, it just went right in one ear, right out there. It was like, you're talking a foreign language to me. All I wanted to know was if they were amazing. If they were amazing, bring 'em in. I wanna talk to them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12944,
+      "timestamps": []
+    },
+    {
+      "end": 13649,
+      "excerpt": "So that was 2006. Then fast forward the clock 2012 and in deal review with Andreeson Horowitz. I'm blown away. People like Jeff Jordan, I'm looking at them analyzing deals. I'm like, whoa. I thought I knew everything about management. You know, running and having 33,000 employees and 11 billion budget as mayor, but this stuff is flying right over my head.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13292,
+      "timestamps": []
+    },
+    {
+      "end": 14268,
+      "excerpt": "These guys are amazing and this is gonna take a while to learn this. We were going over some deal. I can't remember the deal, and I remember everyone was going around the room debating, should we do it? Should we not do it? I remember Mark said, \"stop the conversation. We invest in great people. This is a great team. There's so many things that are gonna be improven, but we know that this is a great team.\" And once he said that, I was like, got it. Okay. Invest in great founders. And that's the, the approach I've taken since I began my tenure as a venture capitalist in in 2017. Look for amazing founding teams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13651,
+      "timestamps": []
+    },
+    {
+      "end": 14737,
+      "excerpt": "Now that means a lot of different things. Hopefully they are technical. Cause most of the products that we invest in are software companies. Hopefully they have some earned secret, like if they're doing a blockchain investment, hopefully, you know, when they're in college or their first job outta college, they work in blockchain or have been doing it on their own for a while or, or if it's healthcare. So hopefully they have some earned secret around health tech. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14270,
+      "timestamps": []
+    },
+    {
+      "end": 15314,
+      "excerpt": "And then we look for, you know, the more amazing technical founder in a team, the better. You know, you want strong co-founders and then you want them to be building a software product that can scale very fast and be defensible. After that, we're pretty wide open. We're a generalist firm. You could call us opportunistic. I, of course, love the phrase that Mark coined with the Wall Street Journal 'software is eating in the world'. We're software investors and we're looking for software solutions that can build the future and change the future in amazingly positive ways.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14739,
+      "timestamps": []
+    },
+    {
+      "end": 15542,
+      "excerpt": "Gopi Rangan: Fascinating story. I'm eager to jump deeper and ask you more questions, but before I ask you about specific startups, how many companies do you invest? What stage do you invest? When do you like to meet founders? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15316,
+      "timestamps": []
+    },
+    {
+      "end": 16596,
+      "excerpt": "Adrian Fenty: Terrific. So most of our deals are seed and then I'd say between 15 to 20% are pre-seed. We've never done a Series A. We could, but you know, we've got a sweet spot now and our reputation is a seed investor and most of our referrals are seed stage deals. So, like I said earlier, most of our deals come from other entrepreneurs. And it makes sense for us because we're so hands on. The first thing that I did when I woke up today is I I sent a couple text messages and WhatsApp to a couple founders because I just felt like I hadn't talked to them maybe in the last 10 days or so. So I just texted 'em, said, Hey, how's everything going? Some, I actually didn't talk to them like in the last week, but they're fundraising so I wanna text them cuz there's always a lot of questions when they're doing the next round. So when you're hands on, when you stay active with a founder, they remember that when they are kind of networking with other founders and then they'll send you deals. So, we're not afraid to back someone who's very early. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 15544,
+      "timestamps": []
+    },
+    {
+      "end": 16937,
+      "excerpt": "Most of the companies we back have a product. If they're enterprise, for instance, have a pilot. Some have their first real contracts. But we've gone earlier, like I said, pre-seed. If we get a really warm referral, are super blown away by a founder, we love the space, we're absolutely going to do a deal with that founder/founding team. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16598,
+      "timestamps": []
+    },
+    {
+      "end": 17008,
+      "excerpt": "Gopi Rangan: How many companies do you invest in on an average year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16939,
+      "timestamps": []
+    },
+    {
+      "end": 17109,
+      "excerpt": "Adrian Fenty: So we're at about 40 in this fund, I'd say. And will it probably end up at about 60? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 17010,
+      "timestamps": []
+    },
+    {
+      "end": 17262,
+      "excerpt": "Gopi Rangan: Can you give examples of conversations you've had? You mentioned that you're looking for amazing founders and what does amazing look like?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17111,
+      "timestamps": []
+    },
+    {
+      "end": 17343,
+      "excerpt": "What happens in that meeting? Can you give an example of one or two companies? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17264,
+      "timestamps": []
+    },
+    {
+      "end": 18659,
+      "excerpt": "Adrian Fenty: Sure, I'd love to, so I'll talk about a company called Fursure, it's a super prototype example because Catherine Dennig was referred to us by Howard Akumiah, and Howard had started a company that we invested in our proof of concept fund. He actually sold his company to Spotify and we met Howard through a Vicho Ghar, who's another person we invested in and who we knew through the Y Combinator network. So anyway, so Vicho led us to Howard. Howard led us to Catherine. Howard and Catherine had worked at Facebook together, now Meta. They were both kind of in the same cohort of amazing engineers and product people at Facebook who just really knew how to help build that company and then when they left, build other companies. So he gave her the most highest recommendation he could. And what she's building is essentially a financial platform for pet owners to finance any activity around pets from building a dog house to really critical healthcare, which, you know, can be a big charge to people, particularly young pet owners and millennials, et cetera. So we love her, her background, the referral. We love the space cuz it's a huge space and it's very future thinking. There's a lot of new millennial pet owners who just are trying to find ways to pay for things or to have it all centralized.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 17345,
+      "timestamps": []
+    },
+    {
+      "end": 19264,
+      "excerpt": "So that's one really good example. I could also talk about a company, for example, like Preveta, cause I mentioned healthcare. That's a company that we got referred to through La Techstars. It's oncology software for doctors and nurses and hospital groups essentially. And the founding team, husband and wife - they're a mix of a product engineer and a healthcare specialist. They started the company because they just knew from firsthand experience that in cancer care, there's just a really long list of things that doctors and nurses in hospitals have to keep track of in order to care for a patient.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18661,
+      "timestamps": []
+    },
+    {
+      "end": 19574,
+      "excerpt": "And if you don't keep track of them, you're not going to give as good a care as you could. And so they had some early pilots when we invested, and since then they've just done terrific in building and selling. And they just raised a pretty big series C recently, and we got some great investors that come in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19266,
+      "timestamps": []
+    },
+    {
+      "end": 19863,
+      "excerpt": "So those are two good examples. One a little bit more consumer facing, but there will be an insurance aspect, so there will be some enterprise. Most of what we do is enterprise SaaS. And then the second is kind of our super prototype enterprise sales software company that we invest in. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19576,
+      "timestamps": []
+    },
+    {
+      "end": 19999,
+      "excerpt": "Gopi Rangan: We are also investors in Fursure. It's great to support founders like Catherine. Catherine is an amazing founder indeed. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19865,
+      "timestamps": []
+    },
+    {
+      "end": 20431,
+      "excerpt": "Adrian Fenty: Yeah, and you know what's great about the ecosystem and people I think don't really get as excited as I do about this every day is that Catherine has already introduced us to other founders and some we have looked at for an investment, some we haven't. But it's just so exciting to see a new group of entrepreneurs coming into the ecosystem because, you know, that just means the future is gonna keep changing fast. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 20001,
+      "timestamps": []
+    },
+    {
+      "end": 20721,
+      "excerpt": "Gopi Rangan: It is. And it's great to have founders who have worked with us share contacts in their network and have them come to us. That's a great validation that we are doing a good work for them and also a validation from the founders that we worked with when they refer people to us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20433,
+      "timestamps": []
+    },
+    {
+      "end": 21069,
+      "excerpt": "I see that all of these things matter to you. Many of these conversations when founders pitch to you, may not result in a 'yes, I want to invest'. It often actually results in 'not right now', or 'maybe later', or maybe 'this is not the kind of topic I want to invest in'. What happens in those conversations? How do you handle those discussions?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20723,
+      "timestamps": []
+    },
+    {
+      "end": 21138,
+      "excerpt": "And I'm eager to see if there's a political parallel here as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21071,
+      "timestamps": []
+    },
+    {
+      "end": 21413,
+      "excerpt": "Adrian Fenty: It's not easy to tell someone no, but it is simple to tell somebody no. So, I mean, you never wanna say no, but it's a very straightforward conversation. We tend to give them as much information as we can, and we try to do it in as positive a way as possible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 21140,
+      "timestamps": []
+    },
+    {
+      "end": 21893,
+      "excerpt": "I've seen people write past notes where they say, we very often get this wrong. I love that about venture capital. Not only are you going to get wrong a lot of the deals you do, you gotta get wrong a lot of deals you don't do. I mean, you know this as well as anybody. It's one of the few industries where you literally keep an anti-portfolio list of all the companies that you passed on so that you can learn from that as well as you learn from the ones that you did invest on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21415,
+      "timestamps": []
+    },
+    {
+      "end": 22294,
+      "excerpt": "Maybe like in professional sports, say you're an NBA general manager, you usually have a list of all the people you picked and how they turned out. Maybe you also have a list of all the people who you didn't pick and see how they turned out. Although I bet they don't do that in the same way that venture capitalists do, but they should. Anyway, so that's kind of one of the exciting things for us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21895,
+      "timestamps": []
+    },
+    {
+      "end": 22614,
+      "excerpt": "Gopi Rangan: There's an easy parallel between sports and venture capital. We only remember the success stories when athletes score goals or score basketball points, but we don't look at the number of times they missed. The best players actually get many shots on goal, and that's why they are able to score more often.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22296,
+      "timestamps": []
+    },
+    {
+      "end": 22925,
+      "excerpt": "And venture capital has this parallel where we forget the failures. We very quickly move on. People and the world market, especially TechCrunch and others, they remember only the success stories and they attribute all the success stories to the VC. Success breeds success, and that's how the reputation grows.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22616,
+      "timestamps": []
+    },
+    {
+      "end": 23435,
+      "excerpt": "Adrian Fenty: Yeah. So the deals that we don't end up doing, we could pass for a million different reasons. But it's not really just like a warm referral for warm referral sake. if you're meeting someone for the first time, this is true in any walk of life, it's just so helpful if someone who you already know and who's known that other person for a long time can say, \"listen, you're just meeting this person, but I've known this person for a year or two or longer, and they are amazing for these reasons.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 22927,
+      "timestamps": []
+    },
+    {
+      "end": 23740,
+      "excerpt": "That just helps you as the investor get up to speed faster on this person and their attributes and all the amazing things they could possess that could make them a successful founder. And then after that, it's gotta be a really big idea. You just gotta have amazing founders. Gotta be a really big idea.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23437,
+      "timestamps": []
+    },
+    {
+      "end": 24239,
+      "excerpt": "Because sometimes you'll meet amazing people. But if the idea is not big then in venture capital, it can never have that impact in the portfolio and that impact on the fund that you need it to, which is amazing. I mean, sometimes I sit back and I look at all the companies that are passing on and I'm like, wow, those are all amazing companies. They're probably all gonna be very successful in somewhere, but they're not a big enough idea where they can be like a huge success, a super prototype. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23742,
+      "timestamps": []
+    },
+    {
+      "end": 24380,
+      "excerpt": "Gopi Rangan: The size of the market and the ambition, possibility for growth, all of those things matter to fit the venture capital model. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24241,
+      "timestamps": []
+    },
+    {
+      "end": 24646,
+      "excerpt": "Adrian Fenty: Yeah. The power of law, which has been talked about just over and over and over again, it just makes so much sense to me and it's a driving part of all the investments we make. They may not work, but if they do work, we want them to return the fund. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 24382,
+      "timestamps": []
+    },
+    {
+      "end": 24717,
+      "excerpt": "Gopi Rangan: Do you have any regrets? What's in your anti portfolio? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24648,
+      "timestamps": []
+    },
+    {
+      "end": 25014,
+      "excerpt": "Adrian Fenty: Well, certainly I don't have any regrets cuz I appreciate people who are smarter than me in this business who say, \" if you learn from the ones that you don't invest in or make a mistake on, then it's worth. You get something about it for the next time.\" None are popping to mind. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 24719,
+      "timestamps": []
+    },
+    {
+      "end": 25314,
+      "excerpt": "They're more in our last company. We looked at a lot of companies that were in the video space and some of them turned out to be pretty good companies. But in this fund, knock on wood, I think all the ones that we had a legitimate shot at and a really good introduction to we got in if we liked it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25016,
+      "timestamps": []
+    },
+    {
+      "end": 25425,
+      "excerpt": "So far there were only four and a half years old at this point, so I'm sure we're gonna have some 'regrets'. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25316,
+      "timestamps": []
+    },
+    {
+      "end": 25902,
+      "excerpt": "Gopi Rangan: It happens. I'm sure we will encounter situations where we pass opportunities and then those companies turn out to be great outcomes and we will regret. You're taking a fresh look on venture capital. You started a new firm. What is your view on where the market is today? What needs to change in venture capital for the industry to serve entrepreneurs better? So if you were the mayor of venture capital for one day, what would you change about venture capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25427,
+      "timestamps": []
+    },
+    {
+      "end": 26432,
+      "excerpt": "Adrian Fenty: Well, let me just talk about the most important part of the market that I see right now. That's kind of the entrepreneur network that we see. You guys are based in the same part of the ecosystem I am. I'm extremely impressed, sometimes you could even say blown away, by the number of new young technical founders that I see particularly living in san Francisco area. I say maybe half of them have some connection to Stanford, came outta Stanford computer Science, et cetera, and that's probably due to our network.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 25904,
+      "timestamps": []
+    },
+    {
+      "end": 27161,
+      "excerpt": "But the other half, they may have grown up in the bay, they may have just moved to the bay from somewhere else. They may be international, but they still join the same ecosystem. And it's an ecosystem of young, very technical software engineers. Somewhere between probably 22 and 27, you know who all know each other, who are living in hacker houses. You know, who wanna be amongst other builders. And so for us, one of the things we try to do is tap into that group. One, because that's where the exciting ideas are coming out of. And two, those are gonna be great deals to invest in. So that's my number one kind of focus. You have to be kind of maniacal about staying in touch with founders and being helpful and supportive.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26434,
+      "timestamps": []
+    },
+    {
+      "end": 27875,
+      "excerpt": "I think there is room for the ecosystem to grow and it's probably not growing fast enough when it comes to minorities and women participating both as venture capitalists and as entrepreneurs. But I think, to be honest with you, there's a lot of people in the ecosystem, myself included, who need to work harder at this because there are different ways to feed into the ecosystem that people are not really taking advantage of. And that can be everything from people who are going to college and getting computer science degrees, being connected to the Silicon Valley network more often and more regularly to other things like making sure that there's internships for people in business school all over the place.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27163,
+      "timestamps": []
+    },
+    {
+      "end": 27991,
+      "excerpt": "I'd like to see everybody just work a little bit harder in this regard, and I think the results will come faster. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27877,
+      "timestamps": []
+    },
+    {
+      "end": 28305,
+      "excerpt": "Gopi Rangan: That's how I learned about venture capital when I was an intern in business school and I took the opportunity to spend a summer with a VC firm. I was fascinated by how the power of entrepreneurship and the durable impact it has on society, and I decided to channel my career towards venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27993,
+      "timestamps": []
+    },
+    {
+      "end": 28472,
+      "excerpt": "I wanna ask you one last question before we conclude. What community activity are you passionate about? Is there a nonprofit organization you care about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28307,
+      "timestamps": []
+    },
+    {
+      "end": 28975,
+      "excerpt": "Adrian Fenty: The only thing that I think people need to focus on at the beginning of the day, at the end of the day, is education. And sometimes I feel like baffled and in the Twilight Zone, why people don't focus on it enough. So just like you and Hailey and everybody else, you know, if you are successful in life, you can point to one thing that is the reason for it and it's your education. And then you could pull that out and every single person you know who's a success would not be a success.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 28474,
+      "timestamps": []
+    },
+    {
+      "end": 29283,
+      "excerpt": "In every city, particularly in San Francisco and Oakland and San Jose, there are high schools and middle schools where kids are 3, 4, 5 grade levels behind in reading and math. And no one. I repeat, no one is doing anything about it. And so I moved in the area 10 years ago, and there's no business person.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28977,
+      "timestamps": []
+    },
+    {
+      "end": 29494,
+      "excerpt": "There's no tech entrepreneur, there's no ceo, there's no venture capitalist, and there's no politician or appointed official who has done anything meaningful about it since I moved into the area 10 years ago. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29285,
+      "timestamps": []
+    },
+    {
+      "end": 29646,
+      "excerpt": "And this is true in other cities, but let's just talk about the Bay, for example. But the crazy thing is that people complain about every other thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29496,
+      "timestamps": []
+    },
+    {
+      "end": 29877,
+      "excerpt": "They complain about homelessness. They complain about crime, they complain about the jobs. They complain about diversity. They complain about everything. But you know why people don't focus on education? Because it's really hard.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29648,
+      "timestamps": []
+    },
+    {
+      "end": 30211,
+      "excerpt": "I don't have any other pet project except education. And the reason is, is because if I didn't have an education, like half of the kids, you know, in these public schools, I would not be having this conversation with you today and neither would you or any of other guests you have on. So why people overcomplicate it, I don't know. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29879,
+      "timestamps": []
+    },
+    {
+      "end": 30822,
+      "excerpt": "But the one thing I will say is starting some side project to help out some community group or something. It's not gonna do it. You have to go right to the core of the problem. You have to treat the problem as if there was your own child. If your own child was not getting an education, you would raise holy hell. And right now in the Bay and other places, there are thousands and thousands of kids right now, right at the hour of the people listening to this podcast who aren't getting a great education. People need to raise the same holy hell if they was their own kids. And we need to be honest about it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30213,
+      "timestamps": []
+    },
+    {
+      "end": 30939,
+      "excerpt": "Gopi Rangan: Education transformed my family. It has had a huge impact and I see that you are passionate about it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30824,
+      "timestamps": []
+    },
+    {
+      "end": 31164,
+      "excerpt": "I'm actually like blown away, frustrated and confused why people don't do anything about it. I don't understand why people complain about all the issues that end like incarceration and recidivism and all these other issues.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30941,
+      "timestamps": []
+    },
+    {
+      "end": 31511,
+      "excerpt": "Yeah, they're important, but like if you have three kids, right? Take the tip of a venture capitalist or CEO of a company. Say if they have two or three kids and their kids are success. Their kids are successful because their kids had an education and were kept busy and had loving parents. Only two things a kid needs are love and an education.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31166,
+      "timestamps": []
+    },
+    {
+      "end": 31988,
+      "excerpt": "If you get those two things, you know, you are on the path to say, but if you take away one of those things, let alone both of them, that kid has no chance. And so we, but I don't understand why we as a community as a society. Don't prioritize it, but not like with talk. Because if we're just gonna talk about it, but on your drive to work you pass two or three high schools where you know the kids are four levels behind in reading and math, then you're not doing anything.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31513,
+      "timestamps": []
+    },
+    {
+      "end": 32041,
+      "excerpt": "Will you jump back into politics to fix education? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31990,
+      "timestamps": []
+    },
+    {
+      "end": 32274,
+      "excerpt": "Adrian Fenty: I won't jump back into it myself. I don't believe in career politicians, but here's the truth of it. If anybody is willing to take on the school system, I will not only be behind them, I will stand right next to them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 32043,
+      "timestamps": []
+    },
+    {
+      "end": 32580,
+      "excerpt": "Gopi Rangan: Adrian, thank you so much for sharing your views on startups, venture capital, and the changes that we need to bring in the society, specifically starting with education. It is amazing to hear examples from your background, your specific experiences, both in politics and in venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32276,
+      "timestamps": []
+    },
+    {
+      "end": 32647,
+      "excerpt": "I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32582,
+      "timestamps": []
+    },
+    {
+      "end": 32772,
+      "excerpt": "Adrian Fenty: Me too. And it would be a terrific pleasure to do more deals with you. I'm glad that Catherine connected us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 32649,
+      "timestamps": []
+    },
+    {
+      "end": 32815,
+      "excerpt": "Gopi Rangan: Let's do more like Fursure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32774,
+      "timestamps": []
+    },
+    {
+      "end": 32848,
+      "excerpt": "Adrian Fenty: Thank you, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Adrian Fenty",
+      "start": 32817,
+      "timestamps": []
+    },
+    {
+      "end": 33025,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32850,
+      "timestamps": []
+    },
+    {
+      "end": 33192,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33027,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "9db7a2a76a9254103135ac6f0d331a5f1e39bbe2cfe47edddd7fa09bab2c5162",
+  "text_sha256": "54a913bbbe1a5d14066e108ffd99c75499257fc0ea230b4de80e97c0f3d87a82"
+}

@@ -1,0 +1,1837 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 491,
+      "excerpt": "A lot of the products today, like ads and all the recommendation surface areas, which didn't exist at the time. New modalities like video, which didn't really exist, and all these new member and customer experiences, which, which were simply not, in some cases possible, or in some cases the relevance maybe wasn't particularly good. And the amazing innovations with our AI teams and all the innovation around model architectures and so on has created this amazing member and customer value.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 878,
+      "excerpt": "[00:00:41] Gopi Rangan: You're listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. Today we have a special episode, a different kind of episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 493,
+      "timestamps": [
+        {
+          "offset": 493,
+          "raw": "[00:00:41]",
+          "seconds": 41
+        }
+      ]
+    },
+    {
+      "end": 1226,
+      "excerpt": "[00:01:11] We have Bhaskar Ghosh (BG). He is going to be a guest host, so he's gonna be the host for the episode today. And we have a guest, Kapil Surlaker. BG and Kapil go a long way. They worked on something fundamental to where technology is today, the fundamentals of architecture, databases, artificial intelligence, and all of those topics.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 880,
+      "timestamps": [
+        {
+          "offset": 880,
+          "raw": "[00:01:11]",
+          "seconds": 71
+        }
+      ]
+    },
+    {
+      "end": 1671,
+      "excerpt": "[00:01:35] So instead of talking about venture capital and startups, which is our typical topic, we're gonna nerd out on Deep Tech and BG's gonna lead that conversation. He's gonna be the host, and I'm gonna invite BG to take over the mic and introduce Kapil. BG, welcome to The Sure Short Entrepreneur. Kapil, welcome to The Sure Shot Entrepreneur. I'm really excited to have this special episode with the two of you running it. BG, go ahead.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1228,
+      "timestamps": [
+        {
+          "offset": 1228,
+          "raw": "[00:01:35]",
+          "seconds": 95
+        }
+      ]
+    },
+    {
+      "end": 2086,
+      "excerpt": "[00:01:59] Bhaskar Ghosh: Happy New Year, and thank you my friend, for having me do this nerdy talk with a very dear old friend of mine, honored to be your guest host and very honored and happy to have my old friend, respected colleague from my Oracle and LinkedIn days, and a very respected technology leader from Silicon Valley and a great executive, Mr. Kapil Surlaker. Kapil, thank you so much for joining us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 1673,
+      "timestamps": [
+        {
+          "offset": 1673,
+          "raw": "[00:01:59]",
+          "seconds": 119
+        }
+      ]
+    },
+    {
+      "end": 2281,
+      "excerpt": "[00:02:25] Kapil Surlaker: Hey, BG. Thanks for having me. Really excited to be on this podcast, big fan, and it's awesome to be here as a guest this time, especially with you as the guest host.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 2088,
+      "timestamps": [
+        {
+          "offset": 2088,
+          "raw": "[00:02:25]",
+          "seconds": 145
+        }
+      ]
+    },
+    {
+      "end": 2420,
+      "excerpt": "[00:02:36] Bhaskar Ghosh: Thanks, Kapil. Yeah, amazing. It's been so much fun even chatting about this podcast with you and our journeys.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 2283,
+      "timestamps": [
+        {
+          "offset": 2283,
+          "raw": "[00:02:36]",
+          "seconds": 156
+        }
+      ]
+    },
+    {
+      "end": 3113,
+      "excerpt": "[00:02:43] I mean, we started our careers at Oracle. Couple of decades earlier, we wrote code together, we were lucky. And we'll talk about the Oracle side a little bit. And then we had an amazing adventure together at LinkedIn where, you know, you and I helped start the infrastructure team in a way, and we're gonna recap that journey, but I think given that you have done deep work, both on the AI side and the data side, applications infra, and because now the enterprise is becoming AI first yet another time, but in a much deeper way, it would be cool to like look at the future of the enterprise and future of leadership through your lens, through your remarkable journey at LinkedIn.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2422,
+      "timestamps": [
+        {
+          "offset": 2422,
+          "raw": "[00:02:43]",
+          "seconds": 163
+        }
+      ]
+    },
+    {
+      "end": 3138,
+      "excerpt": "[00:03:24] Sounds good.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3115,
+      "timestamps": [
+        {
+          "offset": 3115,
+          "raw": "[00:03:24]",
+          "seconds": 204
+        }
+      ]
+    },
+    {
+      "end": 3230,
+      "excerpt": "[00:03:25] Kapil Surlaker: Yeah, these are all fantastic topics, so looking forward to it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 3140,
+      "timestamps": [
+        {
+          "offset": 3140,
+          "raw": "[00:03:25]",
+          "seconds": 205
+        }
+      ]
+    },
+    {
+      "end": 3814,
+      "excerpt": "[00:03:29] Bhaskar Ghosh: Amazing. Let's dive in and let's start with AI. Just to allay your fears. Ka, I will not ask you about context graphs and decision trees and decision traces, even though they are important. But let's talk about the AI cycles and the upcoming AI revolution in the enterprise. But I was lucky to be at Yahoo doing AI in the ads area for four years, and then we both got to LinkedIn around the same time. We were so lucky to have you there, Kapil. Very briefly, why has AI been so critical at a business and an engineering team and product team like LinkedIn?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 3232,
+      "timestamps": [
+        {
+          "offset": 3232,
+          "raw": "[00:03:29]",
+          "seconds": 209
+        }
+      ]
+    },
+    {
+      "end": 4584,
+      "excerpt": "[00:04:07] Kapil Surlaker: Yeah, and you're absolutely right. This AI cycle itself is phenomenal. This is probably the greatest technological shift we're witnessing in probably the history of tech. But it's also building on the long history that we've had AI in the enterprise, and even before this latest generative AI explosion. At LinkedIn machine learning was integral for many, many years, right? So I would say AI has been in LinkedIn's DNA for over a decade. And personalization, as you probably remember, has always been a key driver for many of the use cases at LinkedIn. So you might be a member or you might be an enterprise customer, literally every part of the experience, whether it's people you may know, PYMK your feed, your job recommendations, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 3816,
+      "timestamps": [
+        {
+          "offset": 3816,
+          "raw": "[00:04:07]",
+          "seconds": 247
+        }
+      ]
+    },
+    {
+      "end": 4712,
+      "excerpt": "[00:04:57] Or even. Like core things, like, you know, content understanding and anti-abuse trust, A lot of it is driven by AI.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4586,
+      "timestamps": [
+        {
+          "offset": 4586,
+          "raw": "[00:04:57]",
+          "seconds": 297
+        }
+      ]
+    },
+    {
+      "end": 5109,
+      "excerpt": "[00:05:06] Bhaskar Ghosh: I want to interrupt you and say for the listeners, they may or may not realize that LinkedIn, what Kapil and I have always talked about in our past is LinkedIn is a bimodal company. LinkedIn has its consumer side membership graph and all the engagement that you have on the member side, but the money comes from the enterprise side by selling these three huge products.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 4714,
+      "timestamps": [
+        {
+          "offset": 4714,
+          "raw": "[00:05:06]",
+          "seconds": 306
+        }
+      ]
+    },
+    {
+      "end": 5428,
+      "excerpt": "[00:05:26] Everybody knows LinkedIn recruiter. Then there's LinkedIn sales solutions and a very large business in the marketing solutions area. So coming back, Kapil, you mentioned PYMK, the professional feed. Jim B, which was the job recommendations thing, and of course the internal systems around abuse and search.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5111,
+      "timestamps": [
+        {
+          "offset": 5111,
+          "raw": "[00:05:26]",
+          "seconds": 326
+        }
+      ]
+    },
+    {
+      "end": 5603,
+      "excerpt": "[00:05:45] Search was so important. And then coming back to Gen ai, given that I just mentioned the enterprise side of LinkedIn, what about gen AI and the agentic use cases?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5430,
+      "timestamps": [
+        {
+          "offset": 5430,
+          "raw": "[00:05:45]",
+          "seconds": 345
+        }
+      ]
+    },
+    {
+      "end": 5862,
+      "excerpt": "[00:05:55] Kapil Surlaker: Yeah. And, that's exactly what has started happening in the last couple of years, right? It hasn't been around that long, but this whole space is moving so quickly that now there are so many more emerging agentic use cases, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 5605,
+      "timestamps": [
+        {
+          "offset": 5605,
+          "raw": "[00:05:55]",
+          "seconds": 355
+        }
+      ]
+    },
+    {
+      "end": 6280,
+      "excerpt": "[00:06:09] I think a good example is the announcement LinkedIn did late last year about the launch of hiring agents, right? And this is kind of in that vein of a lot of these jobs to be done that you see by being automated by your semi-autonomous and autonomous agents, right? But when you look at it as a big picture, I think LinkedIn had one of the most diverse set of use cases compared to I think most companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5864,
+      "timestamps": [
+        {
+          "offset": 5864,
+          "raw": "[00:06:09]",
+          "seconds": 369
+        }
+      ]
+    },
+    {
+      "end": 6880,
+      "excerpt": "[00:06:35] The important thing there is, it's not just the depth of model innovation that's really important, but the diversity is equally or perhaps even more important. And I mentioned earlier, ML and AI was in the DNA for a number of years, but the other thing that's necessary to point out here is the AI future is gonna be powered by your data foundation past. Right. And LinkedIn, as you know, had been investing in really solid data foundations for a decade and a half before this latest shift. And that really allowed us to be in a really solid place to capitalize on these new innovations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6282,
+      "timestamps": [
+        {
+          "offset": 6282,
+          "raw": "[00:06:35]",
+          "seconds": 395
+        }
+      ]
+    },
+    {
+      "end": 7251,
+      "excerpt": "[00:07:16] Bhaskar Ghosh: Indeed, indeed. We will get to the data part later in the talk and just in terms of some of the mental models and abstractions that came out as you and I were chatting recently, just to reframe this conversation again, we started thinking about, as we talked about AI and data, we'd start thinking about the infra layer and the services layer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 6882,
+      "timestamps": [
+        {
+          "offset": 6882,
+          "raw": "[00:07:16]",
+          "seconds": 436
+        }
+      ]
+    },
+    {
+      "end": 7694,
+      "excerpt": "[00:07:35] That was one part, data and AI as an infrastructure, as a service. Then we started thinking about data and AI in the application layer, which is more about success. So data as a success layer, ai as a success layer. And what you point out about diversity is so important. Even that's what I felt during my tenure at LinkedIn and, and you mentioned that LinkedIn, it has scale, but it may not have the scale of Google and Facebook.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7253,
+      "timestamps": [
+        {
+          "offset": 7253,
+          "raw": "[00:07:35]",
+          "seconds": 455
+        }
+      ]
+    },
+    {
+      "end": 8007,
+      "excerpt": "[00:07:59] It has enormous internal diversity around the types of data it uses, and absolutely around the internal applications it has both on the data side and the AI side. So it's a very, very, very complicated and diverse environment, both with the consumer facing side as well as the enterprise facing side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7696,
+      "timestamps": [
+        {
+          "offset": 7696,
+          "raw": "[00:07:59]",
+          "seconds": 479
+        }
+      ]
+    },
+    {
+      "end": 8212,
+      "excerpt": "[00:08:16] So yeah, very much. Coming back to your areas that you and your team were building, what would be three key areas? That you had to focus on on the LinkedIn AI infrastructure and platform side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8009,
+      "timestamps": [
+        {
+          "offset": 8009,
+          "raw": "[00:08:16]",
+          "seconds": 496
+        }
+      ]
+    },
+    {
+      "end": 8732,
+      "excerpt": "[00:08:30] Kapil Surlaker: Yeah. So I would say three key pillars that we had to manage all at the same time. First is the modernization of AI infrastructure itself. And this is all the way from building the physical as well as the logical layers, Because to enable a lot of the modernization today, you have to have a ton of GPUs which also means you have to innovate on the space and power and all these physical parameters of your data centers that maybe you didn't have to think about as deeply as you have to now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 8214,
+      "timestamps": [
+        {
+          "offset": 8214,
+          "raw": "[00:08:30]",
+          "seconds": 510
+        }
+      ]
+    },
+    {
+      "end": 9429,
+      "excerpt": "[00:09:01] To scale the systems and scaling models that jumped from in a few years, maybe tens or hundreds of millions parameters to be able to scale to hundreds of billions of parameters. So the physics aspect of that modernization is also very, very important, The second pillar I would say is the products itself. Building and enabling the products that are driven by ai. And the key here is while we focused very heavily on building infrastructure and building these platforms, the ultimate objective always stayed as creating amazing experiences for our members and users. How do we create better personalization for them? How do we create better matching? How do we create new experiences?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8734,
+      "timestamps": [
+        {
+          "offset": 8734,
+          "raw": "[00:09:01]",
+          "seconds": 541
+        }
+      ]
+    },
+    {
+      "end": 10558,
+      "excerpt": "[00:09:46] So the AI innovation is important primarily to drive the business and product innovation. And the third pillar is the model flexibility. And what I mean here is the ML model layer was already evolving over a number of years, right? We started with much smaller, much simpler linear machine learning models, which transformed over the course of years into more complex deep neural nets to more recently now the transformer models with perhaps hundreds of billions of parameters. And even though at any given time, you might have maybe a handful of foundation models that are there at like the frontier of technology. It's very important to realize that the balance of cost, quality, and other considerations for the product, there is really no one model to rule them all right? So it's really important to identify for your use case, what is the best choice that you can make. And we focused a lot at LinkedIn on supporting both in-house trained models as well as leveraging the increasingly available foundation large language models as well as the small language models that are available in the open source, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9431,
+      "timestamps": [
+        {
+          "offset": 9431,
+          "raw": "[00:09:46]",
+          "seconds": 586
+        }
+      ]
+    },
+    {
+      "end": 10665,
+      "excerpt": "[00:11:00] So this modularity and adaptability of the platform I think was a really key innovation there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10560,
+      "timestamps": [
+        {
+          "offset": 10560,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 11112,
+      "excerpt": "[00:11:06] Bhaskar Ghosh: Indeed. Let me summarize what I heard and I want to add a fourth point. You mentioned the core AI infrastructure and infrastructure as a service modernization, which is fairly deep work, low down. You mentioned all the application layer support that you're building for supporting AI driven products, which the product engineers are building, but you are also having to build application infrastructure to support that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 10667,
+      "timestamps": [
+        {
+          "offset": 10667,
+          "raw": "[00:11:06]",
+          "seconds": 666
+        }
+      ]
+    },
+    {
+      "end": 11433,
+      "excerpt": "[00:11:30] Third is something that is in my life as an investor for the last eight years, and now as a newfound founder, builder and investor again, model flexibility to avoid lock in with a single set of models outside is a very important part of the future of the enterprise. And LinkedIn was also going through that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11114,
+      "timestamps": [
+        {
+          "offset": 11114,
+          "raw": "[00:11:30]",
+          "seconds": 690
+        }
+      ]
+    },
+    {
+      "end": 11890,
+      "excerpt": "[00:11:49] That's what I heard about the flexibility. I wanna bring up a fourth point in this context. You know, listening to you about the application layer infrastructure as well as model flexibility. I think the thing that you and I have faced in our past lives as kind of data infrastructure builder and leaders, and now I feel in the future of the enterprise where so much of data gets outsourced to the cloud companies, the data service side, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11435,
+      "timestamps": [
+        {
+          "offset": 11435,
+          "raw": "[00:11:49]",
+          "seconds": 709
+        }
+      ]
+    },
+    {
+      "end": 12227,
+      "excerpt": "[00:12:16] Is one of the things that you and I talked about a lot over the last few years, if not, you know, decades is what we used to call reference architecture. The reason we could build better ingestion tiers, better metadata tiers on the analytics side, in the warehousing side for data is because these layers were well-defined.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11892,
+      "timestamps": [
+        {
+          "offset": 11892,
+          "raw": "[00:12:16]",
+          "seconds": 736
+        }
+      ]
+    },
+    {
+      "end": 12965,
+      "excerpt": "[00:12:35] IT people buying software understood that, \"Hey, I had Informatica today. I'll switch it out with airflow.\" Something like that. And I feel as I was investing and writing checks into AI applications a lot, and even the tooling and infrastructure layer for the last many years, the reference architecture in the enterprise is something to pay close attention to as AI enters. Like there will be the orchestration layer, and you already mentioned model routing, right? You want to be able to use many models outside. There are the new MCP layers coming up, which are exposing data and SaaS more as a chat as a service thing, then the very deep subtlety around observability and feedback loops for LLM driven products. Right. So",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12229,
+      "timestamps": [
+        {
+          "offset": 12229,
+          "raw": "[00:12:35]",
+          "seconds": 755
+        }
+      ]
+    },
+    {
+      "end": 13007,
+      "excerpt": "[00:13:13] Kapil Surlaker: that's right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 12967,
+      "timestamps": [
+        {
+          "offset": 12967,
+          "raw": "[00:13:13]",
+          "seconds": 793
+        }
+      ]
+    },
+    {
+      "end": 13318,
+      "excerpt": "[00:13:13] Bhaskar Ghosh: Something that you have gone through at LinkedIn is just wanna make a point, is this ref I want to make the four point is this reference architecture part. You guys got that right over a couple of generations and the enterprise now has to get it right over the next five to 10 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 13009,
+      "timestamps": [
+        {
+          "offset": 13009,
+          "raw": "[00:13:13]",
+          "seconds": 793
+        }
+      ]
+    },
+    {
+      "end": 13623,
+      "excerpt": "[00:13:27] Kapil Surlaker: Yeah, and I think that's a fascinating point. Because I'm thinking a lot of the other areas that we both worked in as well, and these have always been changing, but you're kind of building on those reference architectures that have evolved on multiple years or decades, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 13320,
+      "timestamps": [
+        {
+          "offset": 13320,
+          "raw": "[00:13:27]",
+          "seconds": 807
+        }
+      ]
+    },
+    {
+      "end": 13989,
+      "excerpt": "[00:13:42] Especially in like database systems and so on. Indeed. And I think the thing to point out here is I think with AI and certainly with Gen ai I think there are parts of the stack and we can talk about it later as we, as we go through it. I think there are layers lower in the stack, which I think have had reference architectures that we are improving on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13625,
+      "timestamps": [
+        {
+          "offset": 13625,
+          "raw": "[00:13:42]",
+          "seconds": 822
+        }
+      ]
+    },
+    {
+      "end": 14550,
+      "excerpt": "[00:14:04] But as AI gets adopted in the enterprise for specific use cases, I think that application specific infrastructure and those reference architectures are still kind of evolving and we are kind of building and stabilizing them as we go along. So I think this is going to be a fascinating journey over the coming months and years as we sort of, you know, rediscover and implement some of the tried and tested things like orchestrators, and we know those data foundations and there are other things like MCP and other standards, which are just emerging.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13991,
+      "timestamps": [
+        {
+          "offset": 13991,
+          "raw": "[00:14:04]",
+          "seconds": 844
+        }
+      ]
+    },
+    {
+      "end": 14712,
+      "excerpt": "[00:14:37] Bhaskar Ghosh: Emerging. Yeah. I, I should try to get you to write a deep blog post about the future of reference architectures in AI and enterprise.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 14552,
+      "timestamps": [
+        {
+          "offset": 14552,
+          "raw": "[00:14:37]",
+          "seconds": 877
+        }
+      ]
+    },
+    {
+      "end": 14946,
+      "excerpt": "[00:14:46] The other thing I want to mention, Kapil, before we move on to the data phase of this podcast let's go back to our time at Oracle. I would love to hear a little bit about your memories of Oracle and how it influenced you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14714,
+      "timestamps": [
+        {
+          "offset": 14714,
+          "raw": "[00:14:46]",
+          "seconds": 886
+        }
+      ]
+    },
+    {
+      "end": 15370,
+      "excerpt": "[00:14:58] Kapil Surlaker: Yeah. And what a fascinating trip down the memory lane. And this was literally my first job. I think that time we spent in Oracle at the beginning of our careers was foundational. It taught me what engineering rigor for these complex systems really looked like. And I think even more so, especially in the reflection, what an amazing talent density that was there in those buildings at the time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 14948,
+      "timestamps": [
+        {
+          "offset": 14948,
+          "raw": "[00:14:58]",
+          "seconds": 898
+        }
+      ]
+    },
+    {
+      "end": 15601,
+      "excerpt": "[00:15:25] It's something that has stayed with me throughout the journey afterwards as well. We saw really how a fairly tiny group. I think server technologies, which we were part of at the time was probably like 1500 individuals",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15372,
+      "timestamps": [
+        {
+          "offset": 15372,
+          "raw": "[00:15:25]",
+          "seconds": 925
+        }
+      ]
+    },
+    {
+      "end": 15664,
+      "excerpt": "[00:15:39] Bhaskar Ghosh: if not, if not smaller. Yeah. Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 15603,
+      "timestamps": [
+        {
+          "offset": 15603,
+          "raw": "[00:15:39]",
+          "seconds": 939
+        }
+      ]
+    },
+    {
+      "end": 16048,
+      "excerpt": "[00:15:41] Kapil Surlaker: Even then, I think it was a fraction of the company, but it was amazing to see how a relatively small group could generate a generational product and a revenue base And that experience, I would say really influenced how we approach building systems later on. Including at LinkedIn. And you've seen other places like Yahoo and many of your investment also.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 15666,
+      "timestamps": [
+        {
+          "offset": 15666,
+          "raw": "[00:15:41]",
+          "seconds": 941
+        }
+      ]
+    },
+    {
+      "end": 16708,
+      "excerpt": "[00:16:03] Bhaskar Ghosh: Yep. So let's fast forward to LinkedIn in 2010, and the company was hitting hockey street growth. I think it had crossed 50 million users. When I left late late 2014, we had crossed 550 million users. So even during my time it was almost a tenfold. So coming back to the hockey stick question and the underlying platform that it was running on the database was Oracle at the time. Once you start talking about this other amazing project that we were lucky to work on and then you led. You were instrumental in building Espresso. What was Espresso and why was it such a transformational and actually existential project for LinkedIn?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 16050,
+      "timestamps": [
+        {
+          "offset": 16050,
+          "raw": "[00:16:03]",
+          "seconds": 963
+        }
+      ]
+    },
+    {
+      "end": 17487,
+      "excerpt": "[00:16:39] Kapil Surlaker: Yeah, so this was late 2010, early 2011, I think, when we started that journey. And I think, you know, just to paint like a really quick picture for our listeners, you had this amazing website, LinkedIn at the time, which had already crossed, you know, 50 million users and growing fast very rapidly. The users obviously loved this product and it was clear looking at it internally that the place where we really needed investment was like underlying data layers because the underlying data foundation was almost entirely based on Oracle at the time. And it was, for multiple reasons, not the best choice for, you know, a website in 2011 or so that was growing very, very rapidly. So Espresso was our massively scalable distributed document database.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 16710,
+      "timestamps": [
+        {
+          "offset": 16710,
+          "raw": "[00:16:39]",
+          "seconds": 999
+        }
+      ]
+    },
+    {
+      "end": 17884,
+      "excerpt": "[00:17:29] Initially we built it with the objective of replacing Oracle for most high traffic and critical use cases, and it was really existential at the time because it was obvious that this membership and traffic growth that LinkedIn was experiencing at the time could really not be supported without building something to replace the Oracle installation at the time in the online data layer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17489,
+      "timestamps": [
+        {
+          "offset": 17489,
+          "raw": "[00:17:29]",
+          "seconds": 1049
+        }
+      ]
+    },
+    {
+      "end": 18343,
+      "excerpt": "[00:17:52] Bhaskar Ghosh: Indeed, indeed. And building a distributor database from scratch is hard. I would not wish it on my worst enemies. As a team, you guys pulled it off. It's a massive undertaking. Right? One troubling question I had for you because times changes: would you still make the same call today? And what would be your advice to our listeners, the engineers listening and technical leaders? Would you still build something like this, Kapil.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 17886,
+      "timestamps": [
+        {
+          "offset": 17886,
+          "raw": "[00:17:52]",
+          "seconds": 1072
+        }
+      ]
+    },
+    {
+      "end": 18515,
+      "excerpt": "[00:18:19] Kapil Surlaker: So completely agree with you that building a distributed database, especially a source of truth database, is a really, really hard thing to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 18345,
+      "timestamps": [
+        {
+          "offset": 18345,
+          "raw": "[00:18:19]",
+          "seconds": 1099
+        }
+      ]
+    },
+    {
+      "end": 18851,
+      "excerpt": "[00:18:28] It's kind of like the cardinal sin of software engineering orgs. As a rule, it's like, yeah, that's one thing you should not attempt to build. But it is important to understand the context in which this was done right? This was a time before I would say the cloud databases had matured or in some cases even existed, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18517,
+      "timestamps": [
+        {
+          "offset": 18517,
+          "raw": "[00:18:28]",
+          "seconds": 1108
+        }
+      ]
+    },
+    {
+      "end": 19184,
+      "excerpt": "[00:18:49] That's right. I think at the time when we started building Espresso, dynamo existed in AWS, but Dynamo DB was still being built. Aurora and others came much later, right? Cosmos DB of Azure, Google offerings, all of this came much later. So we were really building this at a time when there were no other options, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18853,
+      "timestamps": [
+        {
+          "offset": 18853,
+          "raw": "[00:18:49]",
+          "seconds": 1129
+        }
+      ]
+    },
+    {
+      "end": 20580,
+      "excerpt": "[00:19:08] So this wasn't about arrogance or showing off how cool engineering or whatever. This was basically necessity and survival. So the key principle there was really service to the product, right? We didn't build this for the sake of building. In fact, you probably remember this very clearly as well. The first use case that prompted us down this route was Inbox infrastructure. The mailbox infrastructure indeed within LinkedIn at the time was, which was running on Oracle, was basically just creaking, and it was clear that it was a matter of time before it would just fail and it would just be down, right? So we started with that use case and SV went ahead. We also made, I feel, very pragmatic decisions in hindsight, right? For example, we didn't build the storage engine ourselves. We chose to use the reliable MySQL in O DB backend. For cluster management. We relied on Apache zookeeper, for example. Now we built a framework on top of that called Helix, which then we realize was super helpful in building other systems as well. So there was a lot of leverage there. So I think that was really the key there. And to answer your question today, I would not do that again, right. In the situation we are today, I would absolutely start from many of the solutions which are available either as cloud products or commercial offerings, or even something like PostgreSQL today, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19186,
+      "timestamps": [
+        {
+          "offset": 19186,
+          "raw": "[00:19:08]",
+          "seconds": 1148
+        }
+      ]
+    },
+    {
+      "end": 20969,
+      "excerpt": "[00:20:34] Like even OpenAI at the crazy scale, as they shared in their blog post recently has used PostgreSQL and made it work at crazy scale. So absolutely, my advice would be do not build this unless you absolutely, absolutely need to. Right. Ask yourself, are you building a monument to showcase, your engineering ability, or are you building the foundation for your product success?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20582,
+      "timestamps": [
+        {
+          "offset": 20582,
+          "raw": "[00:20:34]",
+          "seconds": 1234
+        }
+      ]
+    },
+    {
+      "end": 21175,
+      "excerpt": "[00:20:56] Bhaskar Ghosh: Indeed, I think, I don't remember the exact numbers, but I think at LinkedIn we went live within a year of kind of shipping the first version of Espresso, which was pretty crazy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 20971,
+      "timestamps": [
+        {
+          "offset": 20971,
+          "raw": "[00:20:56]",
+          "seconds": 1256
+        }
+      ]
+    },
+    {
+      "end": 21209,
+      "excerpt": "[00:21:06] Kapil Surlaker: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 21177,
+      "timestamps": [
+        {
+          "offset": 21177,
+          "raw": "[00:21:06]",
+          "seconds": 1266
+        }
+      ]
+    },
+    {
+      "end": 21415,
+      "excerpt": "[00:21:07] Bhaskar Ghosh: But then over the next three, four years, it progressively went across data centers, went across use cases, and now probably runs the online like 60, 70% of the online cases now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 21211,
+      "timestamps": [
+        {
+          "offset": 21211,
+          "raw": "[00:21:07]",
+          "seconds": 1267
+        }
+      ]
+    },
+    {
+      "end": 21561,
+      "excerpt": "[00:21:17] Kapil Surlaker: does it was a long and hard journey, right, which is. Why I said, Hey, like this is not something you should attempt.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 21417,
+      "timestamps": [
+        {
+          "offset": 21417,
+          "raw": "[00:21:17]",
+          "seconds": 1277
+        }
+      ]
+    },
+    {
+      "end": 21592,
+      "excerpt": "[00:21:24] Bhaskar Ghosh: Not",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 21563,
+      "timestamps": [
+        {
+          "offset": 21563,
+          "raw": "[00:21:24]",
+          "seconds": 1284
+        }
+      ]
+    },
+    {
+      "end": 21628,
+      "excerpt": "[00:21:24] Kapil Surlaker: for the",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 21594,
+      "timestamps": [
+        {
+          "offset": 21594,
+          "raw": "[00:21:24]",
+          "seconds": 1284
+        }
+      ]
+    },
+    {
+      "end": 21670,
+      "excerpt": "[00:21:25] Bhaskar Ghosh: fate of heart.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 21630,
+      "timestamps": [
+        {
+          "offset": 21630,
+          "raw": "[00:21:25]",
+          "seconds": 1285
+        }
+      ]
+    },
+    {
+      "end": 21719,
+      "excerpt": "[00:21:25] Kapil Surlaker: Yeah. Yeah, exactly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 21672,
+      "timestamps": [
+        {
+          "offset": 21672,
+          "raw": "[00:21:25]",
+          "seconds": 1285
+        }
+      ]
+    },
+    {
+      "end": 21912,
+      "excerpt": "[00:21:27] Bhaskar Ghosh: So Kapil one comment there and a couple of jokes. One comment is I think it's a peculiar confluence of time and luck and business model that we could do that, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 21721,
+      "timestamps": [
+        {
+          "offset": 21721,
+          "raw": "[00:21:27]",
+          "seconds": 1287
+        }
+      ]
+    },
+    {
+      "end": 22659,
+      "excerpt": "[00:21:35] Remember, a bunch of other companies started their source of two database layer at the same time could not finish it, except I would say Facebook and LinkedIn. Other companies, a lot of our friends could not pull it off in other companies. But we were lucky to be at that place where the business model was around data and there was enough scale and there was enough budget to go hire exceptional engineers like you, and go build it. So we were lucky. One of the sad things I remember is that we did open Kafka and. And the other projects, but we never got to open source Espresso. Maybe we could have killed a few database components if we did that. That aside, I'll remind you of a memory you had probably not joined or just joined.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21914,
+      "timestamps": [
+        {
+          "offset": 21914,
+          "raw": "[00:21:35]",
+          "seconds": 1295
+        }
+      ]
+    },
+    {
+      "end": 22984,
+      "excerpt": "[00:22:15] I was, as the leader, I was struggling thinking, man, are we gonna build this from scratch? And we were at a SIG amount or VRDB database conference in Scottdale, Arizona, and I think I was with Shanka. Maybe you were there and we accosted the legend of distributed systems, Jeffrey Dean. And he was very helpful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22661,
+      "timestamps": [
+        {
+          "offset": 22661,
+          "raw": "[00:22:15]",
+          "seconds": 1335
+        }
+      ]
+    },
+    {
+      "end": 23158,
+      "excerpt": "[00:22:33] And I remember asking him, Jeff, what should we not build? And Jeff said, do not build the transactional layer. I remember that we actually leveraged his wisdom.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22986,
+      "timestamps": [
+        {
+          "offset": 22986,
+          "raw": "[00:22:33]",
+          "seconds": 1353
+        }
+      ]
+    },
+    {
+      "end": 23567,
+      "excerpt": "[00:22:43] Let's come back to interesting question that is on everybody's mind from a software engineering point of view. All the code gen tools like Claude Code, like Cursor Windsurf in the past. Tell us a bit, you can build so much more quickly now Kapil. It's so much easier than before to build, but is building becoming a viable option again? You know, why shouldn't we build any, any thoughts on that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23160,
+      "timestamps": [
+        {
+          "offset": 23160,
+          "raw": "[00:22:43]",
+          "seconds": 1363
+        }
+      ]
+    },
+    {
+      "end": 24860,
+      "excerpt": "[00:23:08] Kapil Surlaker: Yeah, that's a, it's funny you should say that, and it's honestly, it's a very deep and subtle question as well, right? So it's definitely true that all these AI tools that are available today makes it so seductive to go from zero to one very, very quickly. But the important thing to remember is AI can write all the code you want, but you still own the pager. So really, really want to make sure that that's something that you consider before embarking on this. Broadly speaking, I would still say that hey, it's better to buy than to build. If you have analyzed the trade-offs carefully, and building on top of existing open source might be a viable path, or it is some differentiated capability that is specifically for your product, then I think it makes sense. But whatever you build remember that you are now the owner of that code and you are going to be the one who is going to carry the pager, whether you wrote it or not, whether it was super cheap to write and produce. And the reason is I think you should still think of code as a liability, right? And the stack debt in there. So it's easy to generate, but even if it costs you nothing to produce the burden of owning it, maintaining it, changing it, understanding it, it's still your responsibility.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 23569,
+      "timestamps": [
+        {
+          "offset": 23569,
+          "raw": "[00:23:08]",
+          "seconds": 1388
+        }
+      ]
+    },
+    {
+      "end": 25305,
+      "excerpt": "[00:24:24] And this, this has been true even before ai, right? You on the pager. AI might be able to generate all these things, but until the tool gets tools get to much more sophistication than they're today, you are still the one who has to be prepared to wake up in the middle of the night. The tools don't yet change the operational reality that you are the one who's responsible for the reliability of the system that you own and operate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24862,
+      "timestamps": [
+        {
+          "offset": 24862,
+          "raw": "[00:24:24]",
+          "seconds": 1464
+        }
+      ]
+    },
+    {
+      "end": 25472,
+      "excerpt": "[00:24:49] And ultimately the dependency risk of what you own is still high. This is code that you haven't fully vetted or don't understand, and it'll remain a risk.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25307,
+      "timestamps": [
+        {
+          "offset": 25307,
+          "raw": "[00:24:49]",
+          "seconds": 1489
+        }
+      ]
+    },
+    {
+      "end": 25946,
+      "excerpt": "[00:24:59] Bhaskar Ghosh: Indeed. So let me summarize what I heard from you. Code which is a core asset and high leverage asset can still become a liability. That's first point, correct? Absolutely. Second point is the operational side. After you've applied code is hugely important. As you said, you still own the pager, even though the Gen Zs may not know what a pager is, and that is actually a really important point that you'll be woken up in the middle of the night.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 25474,
+      "timestamps": [
+        {
+          "offset": 25474,
+          "raw": "[00:24:59]",
+          "seconds": 1499
+        }
+      ]
+    },
+    {
+      "end": 26188,
+      "excerpt": "[00:25:25] And third is depend is really important around talent and around knowledge in the enterprise. It's almost like you're bringing in an intern who writes code, then the intern leaves, or you're hiring and letting go of a contractor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25948,
+      "timestamps": [
+        {
+          "offset": 25948,
+          "raw": "[00:25:25]",
+          "seconds": 1525
+        }
+      ]
+    },
+    {
+      "end": 26222,
+      "excerpt": "[00:25:40] Kapil Surlaker: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 26190,
+      "timestamps": [
+        {
+          "offset": 26190,
+          "raw": "[00:25:40]",
+          "seconds": 1540
+        }
+      ]
+    },
+    {
+      "end": 26341,
+      "excerpt": "[00:25:40] Bhaskar Ghosh: So there is core dependency around people and knowledge in the enterprise that is involved.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 26224,
+      "timestamps": [
+        {
+          "offset": 26224,
+          "raw": "[00:25:40]",
+          "seconds": 1540
+        }
+      ]
+    },
+    {
+      "end": 26389,
+      "excerpt": "[00:25:45] Those are the three things I heard.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26343,
+      "timestamps": [
+        {
+          "offset": 26343,
+          "raw": "[00:25:45]",
+          "seconds": 1545
+        }
+      ]
+    },
+    {
+      "end": 26431,
+      "excerpt": "[00:25:46] Kapil Surlaker: That's right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 26391,
+      "timestamps": [
+        {
+          "offset": 26391,
+          "raw": "[00:25:46]",
+          "seconds": 1546
+        }
+      ]
+    },
+    {
+      "end": 26482,
+      "excerpt": "[00:25:46] Bhaskar Ghosh: That's a great analogy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 26433,
+      "timestamps": [
+        {
+          "offset": 26433,
+          "raw": "[00:25:46]",
+          "seconds": 1546
+        }
+      ]
+    },
+    {
+      "end": 26516,
+      "excerpt": "[00:25:47] Kapil Surlaker: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 26484,
+      "timestamps": [
+        {
+          "offset": 26484,
+          "raw": "[00:25:47]",
+          "seconds": 1547
+        }
+      ]
+    },
+    {
+      "end": 26809,
+      "excerpt": "[00:25:48] Bhaskar Ghosh: Right. So your summary is that you're not saying that you should never build. But build things which are core to your organization and build products that differentiate your product. Exactly. But you need to build and then own that. That's kind of what I'm hearing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 26518,
+      "timestamps": [
+        {
+          "offset": 26518,
+          "raw": "[00:25:48]",
+          "seconds": 1548
+        }
+      ]
+    },
+    {
+      "end": 26855,
+      "excerpt": "[00:26:02] Kapil Surlaker: Exactly. Exactly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 26811,
+      "timestamps": [
+        {
+          "offset": 26811,
+          "raw": "[00:26:02]",
+          "seconds": 1562
+        }
+      ]
+    },
+    {
+      "end": 27295,
+      "excerpt": "[00:26:04] Bhaskar Ghosh: So Kapil we've talked about the AI infrastructure layer, the AI driven products layer, and we talked about massive online data layer and this amazing project called Espresso. I was just curious, do you remember while I was there and then you have driven this for a fair amount of time, what would be some of the measurable impacts that these AI applications, ai infra data applications, data infra products, had?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 26857,
+      "timestamps": [
+        {
+          "offset": 26857,
+          "raw": "[00:26:04]",
+          "seconds": 1564
+        }
+      ]
+    },
+    {
+      "end": 27403,
+      "excerpt": "[00:26:33] I'm curious to your thoughts, because when I joined, it was, what, 50, 60 million unique users.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27297,
+      "timestamps": [
+        {
+          "offset": 27297,
+          "raw": "[00:26:33]",
+          "seconds": 1593
+        }
+      ]
+    },
+    {
+      "end": 27692,
+      "excerpt": "[00:26:38] Kapil Surlaker: Right. Yeah, yeah, yeah. I think the, the growth since then over the 15 years or so has been astronomical. Like at that time, as you said, it was like around 50 million. I think the recent number, the publicly available number was closer to 1.3 billion, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 27405,
+      "timestamps": [
+        {
+          "offset": 27405,
+          "raw": "[00:26:38]",
+          "seconds": 1598
+        }
+      ]
+    },
+    {
+      "end": 28052,
+      "excerpt": "[00:26:53] So you've gone from 50 million users to 1.3 billion members, but the site engagement also has changed dramatically. Like if you remember in the beginning, around 2011 or so, LinkedIn didn't even have, I think the feed right, which was introduced in the years after that. And this is like an amazing driver of user engagement and user value, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27694,
+      "timestamps": [
+        {
+          "offset": 27694,
+          "raw": "[00:26:53]",
+          "seconds": 1613
+        }
+      ]
+    },
+    {
+      "end": 28087,
+      "excerpt": "[00:27:16] Bhaskar Ghosh: Indeed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 28054,
+      "timestamps": [
+        {
+          "offset": 28054,
+          "raw": "[00:27:16]",
+          "seconds": 1636
+        }
+      ]
+    },
+    {
+      "end": 28441,
+      "excerpt": "[00:27:16] Kapil Surlaker: A lot of the products today, like ads and all the recommendation surface areas, which didn't exist at the time, new modalities like video, which didn't really exist, and all these new member and customer experiences, which were simply not in some cases possible, or in some cases the relevance maybe wasn't particularly good.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 28089,
+      "timestamps": [
+        {
+          "offset": 28089,
+          "raw": "[00:27:16]",
+          "seconds": 1636
+        }
+      ]
+    },
+    {
+      "end": 28618,
+      "excerpt": "[00:27:39] Right? And the amazing innovations with our AI teams and all the innovation around model architectures and so on has created this amazing member and customer value.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28443,
+      "timestamps": [
+        {
+          "offset": 28443,
+          "raw": "[00:27:39]",
+          "seconds": 1659
+        }
+      ]
+    },
+    {
+      "end": 28964,
+      "excerpt": "[00:27:49] Bhaskar Ghosh: Indeed. So coming back, Kapil, to your journey in the big data side, you talked about the data infrastructure layer, and then you have always mentioned this other concept of data as a success layer. Give us a little bit of a flavor of what was that layer like. What were some of the nuances and a few insights from it?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 28620,
+      "timestamps": [
+        {
+          "offset": 28620,
+          "raw": "[00:27:49]",
+          "seconds": 1669
+        }
+      ]
+    },
+    {
+      "end": 29488,
+      "excerpt": "[00:28:10] Kapil Surlaker: Yeah. I love that term data as a success layer too, right? Because this is really going beyond kind of the nuts and bolts of infrastructure. We are talking about a shift here from scaling the infrastructure to how do you generate value and insights from now we're talking about exabytes. So there are multiple parts to this data as a success layer, like one that we already talking about is like, \"Hey, you need to train and serve these machine learning and AI models for all the product areas.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 28966,
+      "timestamps": [
+        {
+          "offset": 28966,
+          "raw": "[00:28:10]",
+          "seconds": 1690
+        }
+      ]
+    },
+    {
+      "end": 29839,
+      "excerpt": "[00:28:38] You're building applications to enable your sales and marketing teams that use data to create differentiated value. You talked about Pinot, and again, this was another example of really following on the product outcomes and use cases. And I think the first use case was around advertising and who viewed my profile and features like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29490,
+      "timestamps": [
+        {
+          "offset": 29490,
+          "raw": "[00:28:38]",
+          "seconds": 1718
+        }
+      ]
+    },
+    {
+      "end": 30383,
+      "excerpt": "[00:28:59] And we needed engine that needed extremely low latency and high QPS, online analytics queries operating on near real time fast data, right? Which was really the use case to build Pinot and then data movement platform Goblin, which ingested data not just from sources like Kafka and Espresso, but also a lot of the other deployed systems as well, right? So it was all in the service of, \"Hey, how do we generate value from this amazing data layer that you have? And really making it data as a success layer. Not just infrastructure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29841,
+      "timestamps": [
+        {
+          "offset": 29841,
+          "raw": "[00:28:59]",
+          "seconds": 1739
+        }
+      ]
+    },
+    {
+      "end": 30740,
+      "excerpt": "[00:29:35] Bhaskar Ghosh: Indeed. So a lot of the application layer stuff you built was for external facing use cases. The internal use cases that you talked about a lot in the past life was around privacy and governance. Privacy and governance, yeah. Very important. And as an application specific layer. Infrastructure layer who, who were the customers?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 30385,
+      "timestamps": [
+        {
+          "offset": 30385,
+          "raw": "[00:29:35]",
+          "seconds": 1775
+        }
+      ]
+    },
+    {
+      "end": 30952,
+      "excerpt": "[00:29:55] Who were the personas? Can you tell us a little bit about it and about this project that I got so excited about after my time called Data Guard? So personas and this Data Guard thing, what were they?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30742,
+      "timestamps": [
+        {
+          "offset": 30742,
+          "raw": "[00:29:55]",
+          "seconds": 1795
+        }
+      ]
+    },
+    {
+      "end": 32627,
+      "excerpt": "[00:30:06] Kapil Surlaker: Yeah, so let's talk about the personas first, right? So for all of this kind of privacy related work, I would say, you had two sets of personas. So one was kind of your legal privacy officers who are mainly worried about how do we keep the company and the member experience safe, right? And on the other side, you have the persona of your product engineering and managers who are trying to build member experiences as quickly as possible. So the principle there is to enable product velocity and establish guardrails that solve the concerns around privacy and compliance and enable this product engineers to move very, very quickly. So I wouldn't go into a too much detail about Data Guard, but you know, I would encourage interested listeners to check out the VLDB paper, which was released last year on Data Guard, which was basically a system to enable authoring policies based on semantic descriptions of the data and purpose of the data access, right? So it allowed masking data at very, very fine granularity than what traditional solutions allow. But more than the implementation, which is actually very elegant and very fascinating the most important part of why we build this was one of course, you know, the member first principle that LinkedIn has always had, and you know, Jeff, like really as the CEO really drove this down through the organization. So it was already a principle which was natural, but then all the regulatory concerns that were emerging, it was clear that we had to build a layer between the application layer and between the core infrastructure that really enabled product engineers to move very, very fast, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 30954,
+      "timestamps": [
+        {
+          "offset": 30954,
+          "raw": "[00:30:06]",
+          "seconds": 1806
+        }
+      ]
+    },
+    {
+      "end": 32849,
+      "excerpt": "[00:31:54] Bhaskar Ghosh: Indeed, yes. So for people who just heard this around Data Guard and around privacy and governance, this. Of course relate to principles and needs around GDPR data retention, and member consent.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 32629,
+      "timestamps": [
+        {
+          "offset": 32629,
+          "raw": "[00:31:54]",
+          "seconds": 1914
+        }
+      ]
+    },
+    {
+      "end": 33234,
+      "excerpt": "[00:32:08] I think that will resonate with people at LinkedIn as its engagement and its graph grew. Had to put in serious effort into that. And I think GDPR, all of those years, I remember you guys were doing phenomenal work with your parent company, Microsoft, to actually a bunch of the stuff you guys built ended up being used by the parent company, Microsoft two. So kudos Kapil.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32851,
+      "timestamps": [
+        {
+          "offset": 32851,
+          "raw": "[00:32:08]",
+          "seconds": 1928
+        }
+      ]
+    },
+    {
+      "end": 33749,
+      "excerpt": "[00:32:29] Something that you and I have talked about a lot, we've thought about culture deeply as leaders, as builders, as organizational, organizationally accountable people. I wanna talk about that. Leadership and culture and the spirit of service a bit more. So you move from building deep systems in all areas of infrastructure and services and applications to leading massive, horizontal service, providing teams. The funniest thing for listeners is, you know, Kapil was always the quietest guy in the room.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33236,
+      "timestamps": [
+        {
+          "offset": 33236,
+          "raw": "[00:32:29]",
+          "seconds": 1949
+        }
+      ]
+    },
+    {
+      "end": 34070,
+      "excerpt": "[00:32:58] He was also the smartest guy in the room who would \\ say very little, but whatever he said was incredibly profound and would leave and would leave us thinking. And I always thought, man, how is he going to manage people? Because he is not gonna find people like I did who are like smarter and deeper than me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33751,
+      "timestamps": [
+        {
+          "offset": 33751,
+          "raw": "[00:32:58]",
+          "seconds": 1978
+        }
+      ]
+    },
+    {
+      "end": 34359,
+      "excerpt": "[00:33:13] Anyway, that joke, joke aside, you were always up. Deep listener. You were acquired, but smart leader and you hired incredible people. Tell us about three golden rules or key practices for leading, for building and leading these platform, application and infrastructure teams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34072,
+      "timestamps": [
+        {
+          "offset": 34072,
+          "raw": "[00:33:13]",
+          "seconds": 1993
+        }
+      ]
+    },
+    {
+      "end": 34602,
+      "excerpt": "[00:33:30] Kapil Surlaker: Yeah. And, and I was, I was very lucky to not only work with incredibly smart people, but then also like you, like you pointed out, having had the opportunity to hire people who are, who are smarter than me, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 34361,
+      "timestamps": [
+        {
+          "offset": 34361,
+          "raw": "[00:33:30]",
+          "seconds": 2010
+        }
+      ]
+    },
+    {
+      "end": 35125,
+      "excerpt": "[00:33:42] So I think going back from our early days, I think the talent density, I think is, is incredibly important, right? Like no matter what else happens, I think having a. Amazingly talented. You know, the can-do attitude engineers is, is very, very important. But the other principle, which I, which I realized is also finding people who I would say is not just culture fit, but also culture add the, the, not just so I like thinking about it differently, like the diversity of perspectives that the talent brings.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34604,
+      "timestamps": [
+        {
+          "offset": 34604,
+          "raw": "[00:33:42]",
+          "seconds": 2022
+        }
+      ]
+    },
+    {
+      "end": 35673,
+      "excerpt": "[00:34:19] Even when we hired, we used to think explicitly about this principle of, \"Hey, what is the net new delta that this person is bringing to the team?\" Not just as an individual, but what are they adding to the team? Right? And even for me personally, when I came into LinkedIn, it was instructive for me to learn from, you know, folks who had been at Yahoo and Google on what those experiences are, right? So having that diverse set of talent was, was incredibly important. And that's, I would say, like really important principle, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35127,
+      "timestamps": [
+        {
+          "offset": 35127,
+          "raw": "[00:34:19]",
+          "seconds": 2059
+        }
+      ]
+    },
+    {
+      "end": 36517,
+      "excerpt": "[00:34:50] The second is, we referred to this in the past as well, which is the spirit of service, right? And this is very, very crucial to not just infrastructure, but I would say generally speaking for horizontal teams, because our success is measured not just by the success of these teams, but how successful you've made the product teams. The infrastructure and the platforms is not the main product for these organizations. It's ultimately in the service of customers and members. And the third is cultivating a learning environment and creating these opportunities for engineers to move up and down the stack for infrastructure engineers to learn about how products are built and deployed for product engineers to move and pick up skills in the infrastructure layers. So all these, I think three things have remained a constant for me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35675,
+      "timestamps": [
+        {
+          "offset": 35675,
+          "raw": "[00:34:50]",
+          "seconds": 2090
+        }
+      ]
+    },
+    {
+      "end": 36631,
+      "excerpt": "[00:35:42] Bhaskar Ghosh: Indeed amazing. What I heard is talent density and culture add, the spirit of service,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 36519,
+      "timestamps": [
+        {
+          "offset": 36519,
+          "raw": "[00:35:42]",
+          "seconds": 2142
+        }
+      ]
+    },
+    {
+      "end": 36984,
+      "excerpt": "[00:35:49] a learning and dynamic environment. Wanna just remind people that we mentioned our time at Oracle? I really feel Ka. You and I were both deeply affected by the density of talent, but also the meritocratic culture. People who are now the SVPs who are all engineers during our time. The you, you know, promotion was not about managing people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36633,
+      "timestamps": [
+        {
+          "offset": 36633,
+          "raw": "[00:35:49]",
+          "seconds": 2149
+        }
+      ]
+    },
+    {
+      "end": 37327,
+      "excerpt": "[00:36:11] You had to be technically really good. I mean, it was insane that RDBMS group, so one, I, I think it really affected both you and me and I remember we talked about it. I want to just give a shout out to LinkedIn. And I would say I personally, and then Kapil and many of our peers and people that we hired did something phenomenal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36986,
+      "timestamps": [
+        {
+          "offset": 36986,
+          "raw": "[00:36:11]",
+          "seconds": 2171
+        }
+      ]
+    },
+    {
+      "end": 37971,
+      "excerpt": "[00:36:31] I think I would call two things out. One is the open source that we got to do. I mean, I was personally lucky to do open source at Yahoo, but I think LinkedIn really established itself as one of the finest open source companies around depth adoption and diversity of open source projects. And it came with this amazing culture of one outside, but inside. Second is we were lucky to have an entrepreneurial culture there which you also amplified. Look at the companies coming out of there. I mean, Jay Kreps, the phenomenal builder leader around Kafka built Confluent. Swaroop Jagadish and Shirshanka Das took DataHub to the masses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37329,
+      "timestamps": [
+        {
+          "offset": 37329,
+          "raw": "[00:36:31]",
+          "seconds": 2191
+        }
+      ]
+    },
+    {
+      "end": 38150,
+      "excerpt": "[00:37:06] Kishore took Pinot and went and started S tar Tree. And then I would say Vinod went on to Uber and started, you know, company that was similar to, what was it called?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37973,
+      "timestamps": [
+        {
+          "offset": 37973,
+          "raw": "[00:37:06]",
+          "seconds": 2226
+        }
+      ]
+    },
+    {
+      "end": 38195,
+      "excerpt": "[00:37:16] Kapil Surlaker: Hoodie. He built",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 38152,
+      "timestamps": [
+        {
+          "offset": 38152,
+          "raw": "[00:37:16]",
+          "seconds": 2236
+        }
+      ]
+    },
+    {
+      "end": 38247,
+      "excerpt": "[00:37:16] Bhaskar Ghosh: yeah, he built, yeah, in",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 38197,
+      "timestamps": [
+        {
+          "offset": 38197,
+          "raw": "[00:37:16]",
+          "seconds": 2236
+        }
+      ]
+    },
+    {
+      "end": 38350,
+      "excerpt": "[00:37:17] Kapil Surlaker: the system. Yeah, we had similar systems like Dali and others at LinkedIn.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 38249,
+      "timestamps": [
+        {
+          "offset": 38249,
+          "raw": "[00:37:17]",
+          "seconds": 2237
+        }
+      ]
+    },
+    {
+      "end": 38642,
+      "excerpt": "[00:37:22] Bhaskar Ghosh: Dali that you and Friant and Carl worked on and there are, I'm sure Adil went and he had built the AB testing infrastructure, AB testing at LinkedIn, and then he went and built Split. And so, so many phenomenal Silicon Valley companies came out of that small team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 38352,
+      "timestamps": [
+        {
+          "offset": 38352,
+          "raw": "[00:37:22]",
+          "seconds": 2242
+        }
+      ]
+    },
+    {
+      "end": 38980,
+      "excerpt": "[00:37:37] Also, I think just want to give a shout out to the early leadership of LinkedIn, and two amazing leaders like Kapil. So thank you, Kapil. Coming back to today, you have built these amazing core data systems and now you have built systems enabling ai. Talk to us a little bit about the future of data and AI in the enterprise.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38644,
+      "timestamps": [
+        {
+          "offset": 38644,
+          "raw": "[00:37:37]",
+          "seconds": 2257
+        }
+      ]
+    },
+    {
+      "end": 39383,
+      "excerpt": "[00:37:56] Kapil Surlaker: Yeah, and I think especially, I think the last year or so I think has been a fascinating journey, right? I talked to many of my friends, many leaders in different companies and enterprises, and over the last year, I think people have. Really experimented and they've gotten this sort of directive to go figure out how to use AI to do, you know, many different things, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 38982,
+      "timestamps": [
+        {
+          "offset": 38982,
+          "raw": "[00:37:56]",
+          "seconds": 2276
+        }
+      ]
+    },
+    {
+      "end": 39729,
+      "excerpt": "[00:38:21] But the important thing to keep a focus on is forget the AI race focus on the use case, right? It's important to really understand what is the outcome that you're trying to enable with AI as a tool at your disposal, that might be a massive accelerator. And we are still, I would say, very early in the innings of, of this AI journey.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39385,
+      "timestamps": [
+        {
+          "offset": 39385,
+          "raw": "[00:38:21]",
+          "seconds": 2301
+        }
+      ]
+    },
+    {
+      "end": 40080,
+      "excerpt": "[00:38:41] And as you can see, the speed of changes. It's exponential, right? But what remains true throughout this, I think, is the principles of service and enablement, which are more important than ever. Whether it's massive GPU farms or large or small language models. The mission of us platform leaders, I think largely remains the same, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39731,
+      "timestamps": [
+        {
+          "offset": 39731,
+          "raw": "[00:38:41]",
+          "seconds": 2321
+        }
+      ]
+    },
+    {
+      "end": 40513,
+      "excerpt": "[00:39:03] Which is leverage data and AI to build innovative products and generate value for your customers, right? The technology has changed, but the spirit of service, I think is the constant. And that's why I think the journey itself is never over. As a result of the massive shifts in technology, architecture, and even some personas that we have traditionally looked upon in our teams, I think all of this is changing, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40082,
+      "timestamps": [
+        {
+          "offset": 40082,
+          "raw": "[00:39:03]",
+          "seconds": 2343
+        }
+      ]
+    },
+    {
+      "end": 40821,
+      "excerpt": "[00:39:32] And frankly, I think some of the craft, the skills that we developed over the last few years, decades, might no longer be even needed. The very nature of the software discipline itself is changing, right? So for leaders and engineers alike, I think the big takeaway is reinvention or extinction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40515,
+      "timestamps": [
+        {
+          "offset": 40515,
+          "raw": "[00:39:32]",
+          "seconds": 2372
+        }
+      ]
+    },
+    {
+      "end": 40978,
+      "excerpt": "[00:39:53] That's, that's our choice in the AI era. We have to constantly work on reinventing ourselves as professionals, reinventing ourselves as leaders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40823,
+      "timestamps": [
+        {
+          "offset": 40823,
+          "raw": "[00:39:53]",
+          "seconds": 2393
+        }
+      ]
+    },
+    {
+      "end": 41195,
+      "excerpt": "[00:40:01] Bhaskar Ghosh: Indeed, indeed Kapil. I wanna make a slightly subtle point around the reinvention part. I think the spirit of service, the talent density part enablement, part of product remains important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 40980,
+      "timestamps": [
+        {
+          "offset": 40980,
+          "raw": "[00:40:01]",
+          "seconds": 2401
+        }
+      ]
+    },
+    {
+      "end": 41531,
+      "excerpt": "[00:40:14] The other new thing that's happening that I want to make a note before we end is as the reference architecture on AI stabilizes, you know, whether it's the MCP layer, orchestration layer, all the tooling layer, feedback loop layer. Engineers also have to look outside a bit more in terms of what to bring in rapidly, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41197,
+      "timestamps": [
+        {
+          "offset": 41197,
+          "raw": "[00:40:14]",
+          "seconds": 2414
+        }
+      ]
+    },
+    {
+      "end": 41891,
+      "excerpt": "[00:40:33] So there is this bad, that's right. Balance. Now that your tech stack, you are not only heads on building for 12 months at a time, you're also having to keep one leg outside to make sure that you are understanding where things are changing. And of course, morals just being one, one part of it. So there is that aspect of reinvention also correct?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41533,
+      "timestamps": [
+        {
+          "offset": 41533,
+          "raw": "[00:40:33]",
+          "seconds": 2433
+        }
+      ]
+    },
+    {
+      "end": 41931,
+      "excerpt": "[00:40:54] Kapil Surlaker: Absolutely.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 41893,
+      "timestamps": [
+        {
+          "offset": 41893,
+          "raw": "[00:40:54]",
+          "seconds": 2454
+        }
+      ]
+    },
+    {
+      "end": 42298,
+      "excerpt": "[00:40:55] Bhaskar Ghosh: Amazing and perfect note to end on. Either you reinvent or you go extinct. Thank you Kapil for sharing your journey from RDBMS to document style databases to the AI applications layer and data applications layer, and to AI infrastructure. I think we talked about, there were two concepts that came up to us as we talked about this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 41933,
+      "timestamps": [
+        {
+          "offset": 41933,
+          "raw": "[00:40:55]",
+          "seconds": 2455
+        }
+      ]
+    },
+    {
+      "end": 42660,
+      "excerpt": "[00:41:16] One is AI and data as a service layer and the culture around it and AI and data as a success layer closer to the applications and the culture around it and flexibility in a future facing enterprise. Some of the points you made really resonated. I would love to summarize them that your AI future continues to be powered by your data foundation past.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42300,
+      "timestamps": [
+        {
+          "offset": 42300,
+          "raw": "[00:41:16]",
+          "seconds": 2476
+        }
+      ]
+    },
+    {
+      "end": 43026,
+      "excerpt": "[00:41:38] Do the wise things on the data layer number one. You still own the pager while AI still writes the code. So make sure that you are understanding the code and you know the implications and the operational component of the code. That's number two. As we said, reinvent yourself or you're gonna go extinct and focus on the outcomes, the ROI, the use cases.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42662,
+      "timestamps": [
+        {
+          "offset": 42662,
+          "raw": "[00:41:38]",
+          "seconds": 2498
+        }
+      ]
+    },
+    {
+      "end": 43402,
+      "excerpt": "[00:41:59] And the one other point that resonance with me is the dependency on models outside the enterprise is growing rapidly. In a way, Silicon Valley companies and startups are also depending on models as a service, almost like the next gen data as a service. Something for people to think about and figure out how do they manage their talent, their processes around it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43028,
+      "timestamps": [
+        {
+          "offset": 43028,
+          "raw": "[00:41:59]",
+          "seconds": 2519
+        }
+      ]
+    },
+    {
+      "end": 43467,
+      "excerpt": "[00:42:22] Kapil, any other parting thoughts before we wrap up?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43404,
+      "timestamps": [
+        {
+          "offset": 43404,
+          "raw": "[00:42:22]",
+          "seconds": 2542
+        }
+      ]
+    },
+    {
+      "end": 43693,
+      "excerpt": "[00:42:25] Kapil Surlaker: I think, I think you summarized this perfectly and I think it was great. Thank you for having me on the podcast, BG and Gopi, I think loved going down the memory lane and sharing these experiences.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 43469,
+      "timestamps": [
+        {
+          "offset": 43469,
+          "raw": "[00:42:25]",
+          "seconds": 2545
+        }
+      ]
+    },
+    {
+      "end": 43873,
+      "excerpt": "[00:42:37] Bhaskar Ghosh: Thank you so much for sharing these jewels and that wraps up this episode of Sure Shot. Thank you Gopi, for having me as a guest host. Thank you, Kapil.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Bhaskar Ghosh",
+      "start": 43695,
+      "timestamps": [
+        {
+          "offset": 43695,
+          "raw": "[00:42:37]",
+          "seconds": 2557
+        }
+      ]
+    },
+    {
+      "end": 43912,
+      "excerpt": "[00:42:48] Kapil Surlaker: Thank you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kapil Surlaker",
+      "start": 43875,
+      "timestamps": [
+        {
+          "offset": 43875,
+          "raw": "[00:42:48]",
+          "seconds": 2568
+        }
+      ]
+    },
+    {
+      "end": 44100,
+      "excerpt": "[00:42:51] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 43914,
+      "timestamps": [
+        {
+          "offset": 43914,
+          "raw": "[00:42:51]",
+          "seconds": 2571
+        }
+      ]
+    },
+    {
+      "end": 44278,
+      "excerpt": "[00:42:59] Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44102,
+      "timestamps": [
+        {
+          "offset": 44102,
+          "raw": "[00:42:59]",
+          "seconds": 2579
+        }
+      ]
+    }
+  ],
+  "source_sha256": "0e95151e6d8ffdcb8b964f6a34b49473b12f40cf02c2cf9f4e1e305d9f967831",
+  "text_sha256": "d5d587f44aee841449fcaeb04f3f4bab317867f2412d8624260aff42daf9a533"
+}

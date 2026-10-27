@@ -1,0 +1,465 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 339,
+      "excerpt": "Chris Wake: I am a nerd. I read IEEE and a number of technical trade publications just for fun. And I have taken it upon myself in a number of cases, including in this one with TwoSense, to reach out to either a company or a researcher on the back of reading a research paper to see whether they're commercializing their technology or not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 587,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 341,
+      "timestamps": []
+    },
+    {
+      "end": 955,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm here with Chris Wake. Chris Wake is the founder of Atypical Ventures. Atypical Ventures is a New York City-based venture capital firm. We're going to learn from Chris what he looks for in entrepreneurs, how he makes investment decisions, and what focus areas gets him excited. Chris, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 589,
+      "timestamps": []
+    },
+    {
+      "end": 1015,
+      "excerpt": "Chris Wake: Thanks for having me. I'm excited to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 957,
+      "timestamps": []
+    },
+    {
+      "end": 1285,
+      "excerpt": "Gopi Rangan: Tell us about yourself, starting with your career in entrepreneurship. You had a brief time at PricewaterhouseCoopers, but since then you've been through many startup experiences over the years in Silicon Valley and elsewhere. Tell us about your journey. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1017,
+      "timestamps": []
+    },
+    {
+      "end": 1665,
+      "excerpt": "Chris Wake: Yeah, absolutely. I've always been a builder. So even back when I was at PwC, like every early entrepreneur, I had a stint working on a project in the online dating space, had another project where I was importing physical doormats with novelty characteristics. For anyone that saw the movie 'Office Space', we created doormats that were the jump to conclusion mats.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 1287,
+      "timestamps": []
+    },
+    {
+      "end": 2895,
+      "excerpt": "So did a lot of random things. Ultimately, I decided I wanted to go full-time on building and launching companies. I left PwC. A number of people thought that getting an MBA was the fastest path to starting a company. It would be the most expensive networking event I've ever been to, but I wouldn't trade it for anything. It was amazing, and then I proceeded over the next couple of years to learn what it actually means to go from zero to one, one to 10, and so forth. I started companies, had some failures, successes - the successes were minor. We were able to pay off our AWS expenses and buy a pizza at the end of the day, which I consider a success in some regards, and then found myself ultimately as the first employee and then head of operations at Spire, a company in the small satellite space. We went from zero to space literally in about 12 months with our first three satellites. We then proceeded to launch something like 65 satellites over the following couple of years. I personally got to see everything in that journey, from booking rockets with Space X and NASA and others to traveling the world a couple of different times with an RF test kit to figure out where to drop antennas to talk to our satellites.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1667,
+      "timestamps": []
+    },
+    {
+      "end": 3102,
+      "excerpt": "So I got some cool stories about the TSA equivalent in various countries and how unfriendly they can be when you're carrying around RF equipment on your person. It kind of looked like a spy. That was fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2897,
+      "timestamps": []
+    },
+    {
+      "end": 4003,
+      "excerpt": "I left that and went back to super early stage stuff. I spent some time at Clearbit, in kind of the developer and business intelligence space, then did some stuff in computer vision for geospatial data, worked with some folks in the autonomous vehicle space, worked on some companies in the rocket space, more satellites, buzzword, buzzword, buzzword, and I somehow ended up as a EIR (Entrepreneur in Residence) in a venture firm called Costanoa in the Bay Area. I spent about a year with them thinking through a number of different ventures that I potentially wanted to start. That's where we get close to where I'm at now. My wife and I decided we wanted to leave the Bay in 2018 and moved to New York when we were expecting our first kid. When we got out here, I found product-market fit. It just happened to be on a venture fund as opposed to a venture. That brings us to the time with Atypical.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3104,
+      "timestamps": []
+    },
+    {
+      "end": 4128,
+      "excerpt": "Gopi Rangan: Oh, this is great. So you're a part of the exodus crowd even before it became a trend during the COVID times. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4005,
+      "timestamps": []
+    },
+    {
+      "end": 4154,
+      "excerpt": "Chris Wake: True story. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 4130,
+      "timestamps": []
+    },
+    {
+      "end": 4264,
+      "excerpt": "Gopi Rangan: How did you decide to start Atypical Ventures, and how is the firm different from other firms? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4156,
+      "timestamps": []
+    },
+    {
+      "end": 4571,
+      "excerpt": "Chris Wake: It was kind of right time, right place, right experience. When I moved to New York, I tried to quickly get clued into just the startup ecosystem out here. I met with a number of founders, a number of investors at other funds, a number of angel investors, and just generally trying to network. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 4266,
+      "timestamps": []
+    },
+    {
+      "end": 5857,
+      "excerpt": "At that time, I was still exploring some venture opportunities - companies that I wanted to start. Through that process of getting connected with people, I quickly realized that there was an opportunity in the New York ecosystem to start the type of fund that I myself would want to work with. Specifically, one focused on really early technical founders trying to solve hard problems. I found that the kind of operator-turned-investor that we tend to think of quite often in the Bay Area is not quite as prevalent outside of the Bay. So, being out here and having a lot of operational expertise, I started having all sorts of really early technical founders reaching out to me not only looking for access to capital because I had come from the Bay and was connected to different investors out that way, but also access to advice. They were going through the process of their zero to one journey or their one to 10. They approached me with questions like: how do we scale...and how do we hire? They didn't really have the same level of operational resources that they could turn to on this coast. Ultimately, I started Atypical when I realized that there was this opportunity and the market was almost pulling it out of me as opposed to me thinking I needed to take advantage of this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4573,
+      "timestamps": []
+    },
+    {
+      "end": 6275,
+      "excerpt": "I launched it in mid-2019, raised initial capital from a whole bunch of operators and entrepreneurs that I had worked with in the past, some people that I had either worked for or some people that I had advised for, some people that I had just met along the way and knew that they were experts in their own right.  So, I finally decided to pull together Atypical to take on that space around early technical experts.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5859,
+      "timestamps": []
+    },
+    {
+      "end": 6576,
+      "excerpt": "Gopi Rangan: I want to hear some examples as well and how you make these investments. Having been an entrepreneur, you had this feeling of, \"this is the kind of firm I would have liked when I was an entrepreneur.\" That was the framework with which you started building your own firm. Is that right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6277,
+      "timestamps": []
+    },
+    {
+      "end": 6604,
+      "excerpt": "Chris Wake: Yep. Correct. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 6578,
+      "timestamps": []
+    },
+    {
+      "end": 6680,
+      "excerpt": "Gopi Rangan: So what do you look for? What kind of areas do you focus on? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6606,
+      "timestamps": []
+    },
+    {
+      "end": 7268,
+      "excerpt": "Chris Wake: There's a lot to unpack there. One thing that I specifically wanted and affirm that I couldn't find on this coast was an appreciation for technical advantage. So not simply a business model advantage, but a technical advantage, true technical innovation, and the way in which that can have compounding benefits with time. The other part of it is really someone who can actually increase your likelihood of success not just through deploying capital but also deploying advice and expertise and all of those things that I touched on earlier to actually help you along the way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 6682,
+      "timestamps": []
+    },
+    {
+      "end": 7754,
+      "excerpt": "In many ways, I like to be as hands-on as my founders within the portfolio need me to be. And one thing that I try to set up with each of them is a regular cadence for communication- letting them set the cadence with which we speak and dedicating a specific time to them so that we can hop on the phone whether it's to gripe about what's going on or have a sympathetic ear, or if we need to talk through a very specific tactical thing, we have that time set aside and we can do that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7270,
+      "timestamps": []
+    },
+    {
+      "end": 8534,
+      "excerpt": "In terms of the thesis and what I really try to establish, we have this tagline of 'engineers with empathy'. We're looking for people who have the raw intellectual power to build the thing, to take that technical leap from, but then they also have the empathy aka the softer skills to really build the right team of people around them to create a truly transformative company. I use this example of PhDs that have to be locked in a closet in order to produce good work. There are a lot of really smart people, but not all really smart people have the capability to work well with others. So, we look for the unique case where they have the just raw IQ, but it's combined with all of these other things that increase their likelihood of creating something, truly transformative. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7756,
+      "timestamps": []
+    },
+    {
+      "end": 8946,
+      "excerpt": "Gopi Rangan: Engineers with empathy - two different words that are difficult to find in one person., A smart engineer tends to be really good at problem-solving and may not have the empathetic skills that you'd usually you would find in people who are more customer-focused or outside-focused. And those people don't tend to have the same level of smarts that engineers have. It's a deadly combination indeed. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8536,
+      "timestamps": []
+    },
+    {
+      "end": 9094,
+      "excerpt": "How do you check for that? What questions do you ask founders in the first, second meeting? Can you give an example of a startup you invested in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8948,
+      "timestamps": []
+    },
+    {
+      "end": 10113,
+      "excerpt": "Chris Wake: Yeah. So there are actually a number of filters that we use. I describe it as the top of the funnel being product-focused. In some ways, we almost treat technical innovation as a binary outcome. We look for something truly differentiated and try to understand: is this an actual leap forward or is this an incremental step forward on an existing path or trajectory? For products, we look at the world and try to think through the infrastructure that will be required for a future that may not yet exist. We try to invest around that infrastructure layer, and we try to do it in places where the product itself has the potential to create net new markets and net new value, as opposed to being extractive within the existing market space. Very quickly we can filter through a lot of the traditional pitchers that we get and understand just even based on a deck, is this something truly innovative and different, or is this something incremental, or is it focused on business model innovation and so forth. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 9096,
+      "timestamps": []
+    },
+    {
+      "end": 11518,
+      "excerpt": "We then get into more of the nuanced understanding of this empathy piece and really try to understand how the founders think about the business that they're building. Within that, there's a lot of nuances, and frankly, we don't have all the answers. There's no hard and fast rubric that you can use to evaluate empathy, but it's a mission that we're very passionate about and something that we continue to be really excited about continuing to explore as a firm. And so within that space, we try to look for some aspect of learning. We'd like founders that you could classify as a learning machine. They're always seeking new input and new ways to challenge their own thinking. We look within that same vein for a growth mindset, the notion that they don't know everything and that they need to continue to check their own assumptions and understanding and to ask others for assistance...because ultimately we are partners in this journey. We, Atypical, with the companies that we work with, we don't see it as just deploying capital and then walking away. We try to truly partner with our founders. If they're in a position where they feel that they know everything or have all of the answers, then it's ultimately not going to be a great relationship because it's very difficult for us to give feedback or ask those critical questions and get into a dialogue that actually pushes the business forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10115,
+      "timestamps": []
+    },
+    {
+      "end": 12399,
+      "excerpt": "And then, again, we look for some notion of an ability to empathize with others. So this kind of manifests in some ways as also storytelling or narrative or sales, depending on how you slice it. Can this individual tell their story in a way that it resonates with others? And I think about this as a superpower because as a founder you will always be telling your story, whether you're talking about hiring the team around you and getting them to believe in the mission and the vision of where you're going, whether you're talking about investors and getting them on board with giving you their money and more importantly their time in order to be on that mission with you or for customers. Early customers need to almost believe in the same way that your investors do and what it is you're doing and how you can drastically improve their situation relative to what it is today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11520,
+      "timestamps": []
+    },
+    {
+      "end": 13179,
+      "excerpt": "Gopi Rangan: I see a lot of interesting themes here from the description that you gave. You're looking for a learning machine, someone who's very eager to, with a lot of curiosity, discover new things. You're looking for someone with a growth mindset. They're willing to go outside their comfort zone and try new things, change even their own mental models. And you're looking for someone with empathy who can tell a story that resonates with other people and they understand what other people are looking for and they have that eagerness to connect with the customer or whoever uses their products and services. I see these three things all combining together. Can you give an example of a startup where you recently invested, where these things came out in the early meetings?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12401,
+      "timestamps": []
+    },
+    {
+      "end": 13625,
+      "excerpt": "Chris Wake: Yeah, absolutely. One example actually is the last angel investment I made before starting the fund and has subsequently become a fund investment. The company is called TwoSense, and they focus on behavioral biometric security. It's a quintessential Atypical story for a number of reasons. Number one, my first interaction with the founders was actually through cold email, me cold emailing them as opposed to the other way around. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 13181,
+      "timestamps": []
+    },
+    {
+      "end": 13674,
+      "excerpt": "Gopi Rangan: That's unusual. It doesn't often. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13627,
+      "timestamps": []
+    },
+    {
+      "end": 14609,
+      "excerpt": "Chris Wake: I am a nerd. I read IEEE and a number of technical trade publications just for fun. And I have taken it upon myself in a number of cases, including in this one with TwoSense, to reach out to either a company or a researcher on the back of reading a research paper to see whether they're commercializing their technology or not. In the case of TwoSense, I read about their tech initially in IEEE and I emailed the CEO and just said, \"Hey, I think this is fascinating. I have spent very little time in and around the security space, but I have spent some time delving into cyber security and I have some experience within the construct of ML. I think we should talk.\" He graciously agreed to talk and one meeting turned into a few meetings. Funny enough, despite my reaching out about the technology, his first question when we sat down was actually about culture and growing a healthy team over time as the company scales.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 13676,
+      "timestamps": []
+    },
+    {
+      "end": 14940,
+      "excerpt": "It was fascinating to me, one, that he was just concerned about the culture and the team and building a company that could scale at such an early stage despite the fact that he was also sitting on very interesting cutting edge technology in a space that was hyper-competitive, and yet they had moved far beyond their competition.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14611,
+      "timestamps": []
+    },
+    {
+      "end": 15277,
+      "excerpt": "So that was one where immediately struck me that this is a special individual who has the raw intellectual horsepower in spades, but then also has the soft skills to think creatively around what it is they're trying to craft in a team and in an organization. And when you combine those two things, you can get something truly special. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14942,
+      "timestamps": []
+    },
+    {
+      "end": 15655,
+      "excerpt": "Gopi Rangan: Oh, you dropped a lot of things that don't happen often. You read IEEE magazines for fun. I've never seen anyone do that. I've published a couple of papers on IEEE. I always wondered who are these people who read this? Unless there's a PhD student forced to read these papers as a part of that research work. I don't know of anyone who reads IEEE papers for fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15279,
+      "timestamps": []
+    },
+    {
+      "end": 15713,
+      "excerpt": "Chris Wake: Oh, there you go. I'm your audience of one. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 15657,
+      "timestamps": []
+    },
+    {
+      "end": 16255,
+      "excerpt": "Gopi Rangan: An audience of one is always interesting. In venture, an audience of one is always interesting. Then you met this entrepreneur who you cold-called. We've heard of entrepreneurs cold calling VCs, but there you have an example where you cold-called the entrepreneur. That never happens. And then on top of that, you meet the brilliant, high intellectual IQ researcher, who also happens to have this strong bend for culture and organization. That never happens. It's a deadly combination of all these three things coming together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15715,
+      "timestamps": []
+    },
+    {
+      "end": 16352,
+      "excerpt": "Is this common in your investments that you meet entrepreneurs who you find in unusual places? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16257,
+      "timestamps": []
+    },
+    {
+      "end": 16950,
+      "excerpt": "Chris Wake: It is. TwoSense is not the only company that I've cold emailed and not the only cold email that has turned into an investment. Going back to the thesis and how we approach investment evaluations again, we look at the top level, the technology, and the innovation, and then we really try to dive in to understand the founders, their motivations, and them as individuals. In that context, I'd say absolutely every one of our founders within the portfolio, I would describe as a subject matter expert who also has the soft skills and the empathy to build something truly transformative. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 16354,
+      "timestamps": []
+    },
+    {
+      "end": 17118,
+      "excerpt": "Gopi Rangan: Have you come close to a startup where you say you really like a lot of things about this company, but you're not just there and you're going to say no. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16952,
+      "timestamps": []
+    },
+    {
+      "end": 17956,
+      "excerpt": "Chris Wake: I come across that many times. I think that it's usually a couple of different things. On the product side, as we think about a problem that a company is trying to tackle, you can sit at different layers of abstraction in that problem space. If you think about a problem in the context of multiple layers and you with each subsequent layer, you may serve a different customer. For instance, are you building something that will ultimately serve the end-user as in a consumer product? Or are you building something that may serve developers who will build products on top of that to serve a multitude of other companies who will then serve end consumers? It's thinking through where in that stack do you ultimately fall, and is that the right place to be to maximize the potential value creation for this particular problem. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 17120,
+      "timestamps": []
+    },
+    {
+      "end": 18775,
+      "excerpt": "We invested in a company that is developing a novel commercial nuclear reactor for medical radioisotopes development. Within the medical space, radioisotopes are used for a number of different use cases from tracer drugs to specific scans that you can get when you go into a hospital. What is not commonly known is that the majority of medical radioisotopes actually come from eight commercial reactors spread across the globe. All of the existing reactors are either government-owned or government-subsidized. None of those are resident within the United States. So, it's a space that is dominated by a small number of players on aging infrastructure and the supply is highly rate limitive. We invested in a company that is trying to change that paradigm by creating the first commercial reactor to supply the space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17958,
+      "timestamps": []
+    },
+    {
+      "end": 19222,
+      "excerpt": "One of the interesting things with this is that they are truly building infrastructure, literal nuclear reactors. However, at the end of the day, they're sitting at a place where they will be able to own the full stack if they want to go that path. They could actually start to develop novel therapeutics on top of the infrastructure that they're building, or they can continue to supply the entire market with those radioisotopes as raw inputs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18777,
+      "timestamps": []
+    },
+    {
+      "end": 20116,
+      "excerpt": "The other interesting element here is that they're not only serving the core market, which is that medical radioisotopes space, but by opening up a commercial reactor and providing this capacity that didn't exist before, they're identifying a whole multitude of other new opportunities that simply did not exist because there was no place for these companies to go or to even think that they could use a nuclear reactor in this way. So, specifically thinking about doping within the context of semiconductors or looking at radiation hardening within the aerospace industry, or looking at radioactive batteries within the aerospace industry, or what have you. Many of these have been severely rate limited, and therefore the market quote unquote for those has just been “De Minimis” at best. Now with the potential of creating this new commercial reactor, you open up brand new opportunities. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19224,
+      "timestamps": []
+    },
+    {
+      "end": 20355,
+      "excerpt": "Gopi Rangan: Why is this exciting to you? I see that you have reached out to researchers who publish papers on IEEE and now you have this example of nuclear reactors. This is hitting hardcore science topics. Why is this exciting to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20118,
+      "timestamps": []
+    },
+    {
+      "end": 21271,
+      "excerpt": "Chris Wake: Well, I'd be lying if I didn't want to go visit a nuclear reactor. You better believe when that set up I will be there. But ultimately it comes down to market creators. The things that excite me are opportunities where you can create net new value from nothing. And if you can do that on the back of really cutting edge science or technology, that's compelling. On the product side, one other way that I use to describe what it is we focus on is plausible science fiction. So if it falls in the realm of plausible science-fiction, we'd love to look at it- whether it is nuclear reactors, or it is changing the way in which healthcare decisions are made, or if it is providing a remote sensing platform within commercial real estate, all of these things are super interesting and open up brand new opportunities and levels of intelligence that we didn't have before. And that's where we'd love to play. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 20357,
+      "timestamps": []
+    },
+    {
+      "end": 21738,
+      "excerpt": "Gopi Rangan: Creating net new value from nothing. That's a beautiful way to say how market makers start their ideas. Usually, as you said, when you build infrastructure, who is going to use that platform and what can be built on that platform is really hard to envision. These entrepreneurs have a very strong vision for why this will be the standard for the future. I see why you're excited about these kinds of startups. What's your most common reason to say no? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21273,
+      "timestamps": []
+    },
+    {
+      "end": 22519,
+      "excerpt": "Chris Wake: There are two really common reasons to say no. At the top of the funnel, the most common reason to say no is that it's a business model innovation. The product may have early revenue. It may look compelling on the outside. It may have compelling co-investors and it may look like a great investment, but ultimately it's a business model innovation. That for us would be on deploying capital behind something and betting on the team's ability to continue to execute faster than everyone else in the market. I don't like those kinds of partnerships because in that case, our value is just the money. I like to be in a position where our value is something demonstrative behind helping the business to succeed and thereby increasing their likelihood of ultimate success.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 21740,
+      "timestamps": []
+    },
+    {
+      "end": 22756,
+      "excerpt": "I almost like it when our investing in a company becomes an unfair competitive advantage for that company because it's not only our capital, but it's our resources and expertise that are now behind them and helping them along the way. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22521,
+      "timestamps": []
+    },
+    {
+      "end": 23659,
+      "excerpt": "Gopi Rangan: Yeah. Earlier in my career, I would ask a lot of questions about, what's your product; what problem are you solving; what's your business model; how are you going to make money; how will you build a team; do you have the right resources? Now show me the market. Let's do the market sizing. And then eventually, finally I would ask the question. How can I help? And I would ask the question to myself, like, is this the kind of company I would be able to invest in and make a difference, but now I flip the whole series of questions and I start with, is this a company that I can help? And then if I answer the question convincingly, then I ask all the other questions to make sure that it's a good investment. So I see that what you described is when you make an investment, you want your presence to be a competitive advantage to your founders and they won't get that from anywhere else.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22758,
+      "timestamps": []
+    },
+    {
+      "end": 24439,
+      "excerpt": "Chris Wake: Correct. To the second reason of saying no, part of it relates to empathy. Maybe they have the raw intellectual horsepower to build the thing, but ultimately they may be lacking in some other soft skill or we don't get the same vibe that they will have that ability to execute on the team building piece of it, or related to that it could be that they're too tactical. I think that the benefit and one of the drawbacks of having the engineering mindset is that you're hyper-rational and you like to walk through a very logical argument for why things should be the way that they should be or the way that you'd like them to be. Ultimately, we always go through this exercise with founders talking about how you tell a compelling story and how to clip that paradigm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 23661,
+      "timestamps": []
+    },
+    {
+      "end": 24925,
+      "excerpt": "It really comes down to understanding, first and foremost, that humans inherently feel before they think. So, you need to grab the emotion of what it is you're doing and lead with emotion before you start to walk through the rational argument and that doesn't always resonate with highly technical subject matter experts. Sometimes we reach a point where we have to say no because ultimately they don't take that feedback well or they don't internalize it and it becomes a challenge. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24441,
+      "timestamps": []
+    },
+    {
+      "end": 25031,
+      "excerpt": "Gopi Rangan: Yeah. Humans feel first before they think. That's a powerful way of looking at the world. '",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24927,
+      "timestamps": []
+    },
+    {
+      "end": 25372,
+      "excerpt": "This is incredibly valuable. You're giving specific examples based on your experiences, your interactions with founders, the investments that you've made at your fund. I want to switch to the next part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25033,
+      "timestamps": []
+    },
+    {
+      "end": 25761,
+      "excerpt": "Chris Wake: There is a group called Have Dreams in the suburbs of Chicago. I have been involved with them since my undergraduate days at Northwestern. We ran something called dance marathon there and when I was there, I was on the executive council of dance marathon, which is an all-day dancing marathon. It's 24 hours of dancing with the idea of raising money for a particular charity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 25374,
+      "timestamps": []
+    },
+    {
+      "end": 25924,
+      "excerpt": "In the case of primary year, I was there my senior year. We had to have dreams as a charity. I continued to stay involved with them for couple of decades almost.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25763,
+      "timestamps": []
+    },
+    {
+      "end": 26144,
+      "excerpt": "Gopi Rangan: Longstanding relationship. Chris. Thank you so much for spending time with me sharing real-life examples and stories from your experiences. I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25926,
+      "timestamps": []
+    },
+    {
+      "end": 26218,
+      "excerpt": "Chris Wake: Yeah, thank you so much for having me. This has been great. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Chris Wake",
+      "start": 26146,
+      "timestamps": []
+    },
+    {
+      "end": 26562,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26220,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "45003fff528f7dac68db57691ac1de16534cafedb7cf16a0874e804ec2516ead",
+  "text_sha256": "382d6e8db5edd9937ea1052697157b5123cf897c4c02c44472283a401e68f686"
+}

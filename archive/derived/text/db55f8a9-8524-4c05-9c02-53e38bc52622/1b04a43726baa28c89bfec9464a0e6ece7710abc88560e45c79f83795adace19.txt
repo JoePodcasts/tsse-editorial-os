@@ -1,0 +1,206 @@
+Cindy Padnos: [00:00:00] So in that case, we reached into our Rolodex, but also that of our entire advisory council and asked them to help with introductions and some of the companies where they sat on the boards or where they were in the executive ranks directly became customers early customers of that company.
+
+Gopi Rangan: You are listening to the Sure shot entrepreneur podcast for founders, with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the sure shot entrepreneur. In this episode, I'm here with Cindy Padnos founder and managing partner at illuminate ventures.
+
+I've worked with her for many years. We used to serve on the board of a startup many, many years ago, and that stayed in touch and we'd collaborate on [00:01:00] many startup related activities. Cindy, welcome to the short shot.
+
+Cindy Padnos: Thank you for inviting me Gopi and pleasure to be here.
+
+Gopi Rangan: In this episode, Cindy and I talk about her journey as a venture capital investor and how she started illuminate ventures.
+
+She gives specific examples of startups, like Vivent bright edge JetStream, exactly joined her and many others to show what she looks for in entrepreneurs and how she identifies the right kind of opportunities to pursue. She talks about diversity. She's one of the few women founders of a venture capital firm in an industry that has very little diversity.
+
+She talks about what are some things that she is doing to improve diversity and what are some things that we can all do to change status quo. Cindy, tell us about yourself.
+
+Cindy Padnos: Well, I guess I would put myself in the role of serial entrepreneur, but perhaps a unique aspect of that is that I've been on [00:02:00] the entrepreneurial side as an operator and as an investor, I am.
+
+What I mean by that is I've been part of several startups that have gone on to raise capital and have successful exits in the enterprise software world. But I've also been the founder of an enterprise software venture capital firm.
+
+Gopi Rangan: How did you decide to start eliminate ventures? How old is the farm and what was the Genesis?
+
+Cindy Padnos: It's a great question. It was not an overnight conclusion that I would launch a venture capital firm. And in fact, even my entree into venture wasn't exactly planned, but once I was there and I was part of a very traditional series, a firm called outlook ventures, investing out of their $140 million fund back before the concept of seed stage investing really existed.
+
+So we're talking about 2004, five, six, seven kind of timeframe that I was investing out of that firm. And while I was [00:03:00] there, I saw the advent of the public cloud. I saw AWS launch. I started noticing entrepreneurs that were coming to me that had already built a prototype that had a working functional product that might even have their first few beta customers without ever saw having sought any outside capital.
+
+It fell on me like a ton of bricks. One day when I started thinking about the company, I had found that it was a company called Vivaan. It was a very early SAS procurement software company. By very early, I mean, before the public cloud, which meant that we had to buy all the servers by the database licenses from Oracle host, all of that at Rackspace.
+
+And so go to all of that expense. Still deliver it as a subscription revenue model kind of pricing type of a product. And there was a disconnect there that I saw finally being corrected with the public cloud, where you didn't have to spend great amounts of capital to get [00:04:00] started. It was okay that you weren't demanding these one-time large million dollar enterprise software kind of licenses anymore.
+
+There was a better match between the economics of the cost and the revenue that you could generate. That was, that was one fundamental, I guess the second one was that while there were a few, this is sort of 2007, eight timeframe. There were a very small handful of micro VC firms as they were calling them, then getting started.
+
+None of them were focusing on the enterprise software, not. I know that for a fact, because what I finally did, the CEO of a group called always on, reached out to me and he said, well, you're the first would you like to be on every plant panel I ever do on enterprise software? I laughed. You probably familiar with that with them back then in the day.
+
+But so for me, I had having been a founder of an [00:05:00] enterprise software company, myself. I actually. Could fully see how the economics had changed, but there was a second set of economics that had also changed in parallel. We suddenly had all of these marketing automation tools that were all in the cloud.
+
+We suddenly didn't need quarter of a million dollar sales reps to sell the product. , the whole customer acquisition costs paradigm had changed in parallel. You could hire directly out of, you know maybe three years of work experience young people to perform inside sales tasks, get sales, very close to the final sales process and never meet a customer live.
+
+Never get on an airplane and close enterprise software subscriptions. I saw it happening and very few people believed it was possible. I absolutely did. The combination of those things was enough for me to step back and say, there's an opportunity [00:06:00] here.
+
+Gopi Rangan: This is very interesting. You started eliminate ventures at a time when the market for micro VCs was just beginning.
+
+And now there are more than a thousand farms that are micro VC funds, less than a hundred million dollars in the fund size, a lot has changed. And has that made a difference to your business now that there are more VC firms and especially enterprise software focused?
+
+Cindy Padnos: There's no doubt that the market has evolved over time and that aluminate has evolved over time.
+
+I guess, one of the fundamentals having been a founder myself, and also having the privilege to watch so many of our portfolio companies succeed. I've come to understand that if you aren't always just continuously, innovating that you're likely to be left behind. I certainly see that with our, within our own portfolio and elsewhere, not just ours, but you know, more broadly, of course, and we [00:07:00] believe the same for our firms.
+
+When I launched the firm, which was really, we, we raised the first fund in 2011, I had warehouse investments in advance of that. I had formed our business advisory council. I actually had incorporated the firm, but I was investing out of my own capital up until then. Warehousing means you write the check yourself, understanding that the plan is to fold that investment eventually into a fund that you will allow limited partner investors to participate.
+
+Makes sense.
+
+Gopi Rangan: Yeah, you're taking a big risk upfront while you're waiting to start the farm.
+
+Cindy Padnos: Well, I, I certainly had skin in the game as they say that it was close to three quarters of a million dollars of my own capital and total that I had committed at the point in time that we raised our first fund.
+
+We basically doubled up on that. So that investors in the end would own like half the fund. Okay. So, you know, [00:08:00] interestingly enough, as part of that process, I also came to realize that there was really a dearth of capital that was focused on more diverse founders. So another element I would say in the mix was that I wanted a firm that looked more like me and more like me did not just mean female, but more diverse overall.
+
+That would be more inclusive. W we never have had, nor nor do I think we ever will a mandate around only investing in diverse founders. On the other hand, always had a mandate that we would find ways to open the door wider, that we would eliminate as many barriers as possible that we would invite much a great deal of diversity into our advisory council, into the class, your internship programs that we have.
+
+That has really served as well over the years. So that was, that was one of the innovations I [00:09:00] would say early on in the firm was thinking about diversity as an opportunity, not as a mandate. So fast forward to today to actually get past your real question. We started out where it was frankly enough to say we do enterprise only.
+
+We do B2B enterprise early seed stage investing first institutional round. And now if you were to count the companies that might say that there might be, I don't know, 250 of them for all I know. So over time, as you might guess, we have fine tune our investing strategy quite a bit. And a lot of that has to do with what you learn as an investor over, you know, across three funds, which is what we have under management today.
+
+I would say it was probably halfway into the second fund that I began to understand. Where our sweet spot was. So we really have this value add because of our business advisory council, because of our intern [00:10:00] program, because of the kind of background that I had, that a raw startup that was still trying to build product was not going to be the best fit for us.
+
+Many people can write a check at that stage. And we wanted to do a lot more than write a check. We wanted to be able to add value immediately. And if you look at our advisory council, there are 45 members around it. Today when we started, I think we started with nine and all the way back in 2009 or 10, we had our first meeting.
+
+All of them come from the B2B tech world. All of them have added value to us as a firm and to our portfolios over the years in extraordinary ways from people like Sarah friar. Who's now the CEO at next door. She's been on our advisory board since her days heading the software practice at Goldman Sachs in San Francisco.
+
+Then on to square as COO and CFO. And now [00:11:00] of course, CEO at, at that next door. I can't tell you how many opportunities folks like that refer to us, you know, investment opportunities. I can't tell you how many times they assist us with our due diligence efforts. And then we've had some of these folks who, across that group, it's kind of extraordinary.
+
+We just did this count and I'm kind of stunned myself at the numbers. This group of 45 people has sat on over 200 private company boards and 100 public company boards. And you can only imagine how that kind of network and access helps us in our portfolios.
+
+Gopi Rangan: Yeah, you've built an ecosystem around illuminates and it's a strong ecosystem of three phones with entrepreneurs in each of those portfolios and a advisory members that help you with your portfolio companies.
+
+It's amazing to see that journey from the beginning when micro VC was still young and now you're thriving enterprise. [00:12:00] What kind of companies do you invest in when you say enterprise software? What do you mean?
+
+Cindy Padnos: Sure. I would take the B2B aspect of what we focus on to heart. Meaning we do not invest in businesses that are targeting consumers.
+
+We generally are not that interested in marketplaces. They are typically companies that either have a horizontal business application or are focused on some element of cloud infrastructure. So examples of companies might be like bright edge. One of our early investments out of our warehoused fund.
+
+What we call now, our spotlight fund, right edge as the market leader in search engine optimization today. But we invested when it was two guys, no revenue prototype product. And that would be, you know, sort of a platform play that's very horizontal, a more vertical solution would be a company like bedrock analytics, which focuses [00:13:00] entirely on the CPG industry and provides sales and marketing analytics.
+
+To help new brands gain entree into, you know, all of them commercial environments that, that, that they're seeking to primarily large grocery chains and the like, so that's sort of one category business applications. If you want to think of it that way, most of them embed some type of deep analytics, obviously frequently today.
+
+That means machine learning or NLP or, or both. Historically of course it didn't. And then the other category of, of cloud structure. Maybe a couple of examples there, we have a company that's super exciting in our portfolio called JetStream. They're the first company to provide continuous data protection.
+
+And disaster recovery in hybrid cloud environments. And, Oh, we're just announced a few weeks ago as the only product supported to do that in [00:14:00] the Microsoft AVS environment, Azure for VMware environment. So super exciting companies in that world. Another that we exited already as a company called ops Matic that provided server drift management and other capabilities.
+
+In data center environments, and they became part of new Relic about about five years ago.
+
+Gopi Rangan: Do you look for in entrepreneurs when you first meet them? What kind of questions do you ask? What are you expecting to see?
+
+Cindy Padnos: I would say more so than a lot of other investors. We care pretty deeply about domain knowledge and customer understanding.
+
+So there are of course investors who care primarily about deep technology. We care about the technology to the extent that it helps you differentiate yourself or provide advantage in some way or another. But we care equally, if not more deeply about your understanding of what the [00:15:00] customer needs really are.
+
+So when we're talking to a founder, I would equally want to hear about the number of customer meetings that he's had, the focus groups that they've run, the surveys that were the, how they collected information or their own prior experience in the category that helps them truly understand why this is an important issue.
+
+Gopi Rangan: How long does it take from the time that you meet the entrepreneur to the time you can decide to make an investment and close the investment.
+
+Cindy Padnos: Now that really varies. And the time that it might take can be as short as let's say a month, two as long as six. And you might ask them question how in the world is that possible?
+
+That range. One of the things I haven't shared that I think is relatively important is that as part of that evolution from Jay, we just do seed stage enterprise software to where we are today is the discovery that. Companies that are going to get the most [00:16:00] value from illuminated as an investor are typically somewhat further along.
+
+They may have bootstrap to revenue. They may be a spin out from some other company. They may have started as an it services business that identified a business problem that they kept repeating, creating a solution for and their customer base or client base, and then decided to productize it. There's, there's all sorts of reasons or ways that, that people get there.
+
+But in the end, we are typically investing in a company that is not. I'm a raw startup. And because of that, there's two things. The things that can happen one the founder may or may not even be seeking capital, maybe thinking about gee, maybe I won't even do a seed round. I'll just wait and do a larger series.
+
+Yeah. A we've seen that a couple of times, or they have a lead investor who wants to sell syndicate with us or, or the entrepreneur might, and there might be a lot of [00:17:00] diligence that's already been done. That's shared with us that can really expedite things. So the range can be pretty broad.
+
+Gopi Rangan: So depending on the situation, on the case, it might be a short time, or it might take many weeks and months, depending on if you didn't know the entrepreneur of the spaces knew.
+
+Cindy Padnos: Yeah. First apologies. I would say that, you know, we tend to be relatively thorough in our diligence, but we don't waste people's time. If we're not serious, we won't ask for, you know, an opportunity to speak to their customers. We won't take their time unless we really are serious. And. Part of what we do in the background, that entrepreneurs, when we tell them we're doing this, I'm not sure if they believe we are, we have this really broad network of what we call interns or students in residents that we work with during the class year we've believe it or not had 70 of those interns over the last 10 years graduate, if you will, from our program.
+
+And we [00:18:00] leverage their knowledge sets and access to data sets you know, through their university. Libraries and other things to help us quickly assess a sector that might be new to us before deciding to take an entrepreneur's time.
+
+Gopi Rangan: What advice would you give to entrepreneurs before they come to meet you? What are a few things that they can do to prepare?
+
+Cindy Padnos: Well, as I said earlier, know your customer, know how you are going to demonstrate ROI and value from what you're. Trying to either build or deliver to your target customers. I think that's important. I would also say surrounding yourself with the best people you can is incredibly important.
+
+Don't settle. Don't just take someone because they're available because you will be judged, not just for who you are as a founder, but the other people that you're able to attract to your team.
+
+Gopi Rangan: So in today's world, [00:19:00] a lot of things have changed because of COVID in the past 10, 11 months. Most of the work is happening from home, despite that the market is still hot and there are lots of new opportunities and lots of transactions happening.
+
+Does that change anything for you in your due diligence process and how you engage with entrepreneurs?
+
+Cindy Padnos: I don't think COVID has changed what my partner and I do very dramatically, to be honest, because. We've always been a remote team. My partner, Jennifer is in Seattle, I'm in the Bay area. And so we've always had at least one of us.
+
+Participating in entrepreneur meetings remotely. Generally, I will say we meet as a group before we make a final investment decision. And I think that will still happen even during COVID meaning, you know, even if it's outdoors on a bench that's likely to happen, we've made during COVID for new investments, which is right on track with a normal year for us.
+
+So we haven't slowed down our pace at all. And we have [00:20:00] several in the queue right now that we're very excited about.
+
+Gopi Rangan: Yeah, it's been the same for me. The same experience I planned out to do one to two investments per quarter, and the pace has kind of remained the same before and after, but I also find it challenging that now I can meet people in person and spending time face-to-face is it's actually much more fun and I hope we can return to that world sometime soon.
+
+Absolutely. Are there any pet peeves, you have things that you wish were not the way they are? 
+
+Cindy Padnos: Well, I mean, I think Gopi you're aware that I have a great deal of passion and interest around increasing diversity in the tech sector. So it does trouble me that last year during COVID we saw a fairly significant decrease in diverse founders being funded. That's troubling. I'm sure in fact that it's not intentional.
+
+But there's still certainly a question as to why and how it's happening. This is, this was [00:21:00] the first year in the last five or seven that it declined rather than what went in, what I would consider the right direction growing. So that, that certainly is one area.
+
+Gopi Rangan: What is the cost of that trend? Do you think?
+
+Cindy Padnos:  I mean, I, I can only have opinion. I haven't done any research on this, but I would say all of us have a natural tendency. When our back is to the wall when we're feeling undue pressure to revert to what we're most comfortable with and, and that all of us not, and not just, you know, white males or something like that, every one of us.
+
+If you have had the experience of something working well, all for you in the past, you're likely more likely to repeat that when you think there's more risk and undoubtedly over the last year, most investors would have perceived the environment to hold more risks.
+
+Gopi Rangan: It's a common that investors like to invest in entrepreneurs who look like them or act like them, or personality wise, they're similar.
+
+But when everything [00:22:00] goes remote and we're working from home and opportunities to network and meet new people is restricted. Then you're kind of stuck with the existing set of people that you already know. And they tend to be people that look like you act like you and have personalities. Like you, maybe that's something that's moving the.
+
+Cindy Padnos: I've been doing research on this topic of, you know, diverse founders for years. It's not, my day job is, you know, it's, it's a labor of love. And the first paper is now 10 years old, which is hard for even me to believe. But that research in doing the research for that paper, I stumbled upon a word that I'd never heard before.
+
+It's called homofeely. And if you look it up in Webster's, it's going to explain that it really is about how all of us have a natural inclination to a natural affinity, to feel more comfortable with people and things that are more like ourselves. As an example, if I walk into a room where there's [00:23:00] no one.
+
+I know, but I hear someone speaking French in a corner of the room. I'm likely to walk over there. Because I speak French and it's the same for all of us. When I, if you fast forward to the most recent research we've done, there's been a couple of other surveys and papers that we've done along the way.
+
+It's just super interesting to see that still as of today, male investors see about half. The number of female founders that women investors do. And interestingly enough, though, invest in them at the same ratio, meaning women, investors invest in twice as many women, but they seem twice as many of them, it's not some bias on either side.
+
+It's about, you know, like I said earlier, what we try to do is just open the door wider, look at everything.
+
+Gopi Rangan: I know you're passionate about diversity and it's it's very rare to find a, a venture capital fund founded by a woman. You clearly stand out here. [00:24:00] Are there things that we can do differently?
+
+What can we do to change and improve the status quo?
+
+Cindy Padnos: Well, I think we need a combination of early encouragement for more diverse founders. That's not just women, it's blacks and Latinos and others as well. Part of our strategy, there is this internship that we do more than two thirds of our participants in that program are diverse over the last 10 years.
+
+And it's. You know, by intent in that case, it's definitely my intent to have, if we don't have enough diversity in our applicants, look for more. Getting, offering the exposure to entrepreneurship and venture capital early on is important. And I also think that having more diverse investors is going to be important over time as well, that that's been demonstrated time and again.
+
+Gopi Rangan: Yeah, it takes a revolution to change the mindset, to become a good investor. [00:25:00] And clearly the journey has been great for you. I want to switch to another part of the conversation where I ask you about community involvement. Is there a nonprofit organization that you're passionate about?
+
+Cindy Padnos: I sort of practice what I preach or whatever I guess is the way I would say it. I'm actively involved at the Tepper school of business in their entrepreneurship center, the sports center of entrepreneurship there and around encouraging more women and other diverse students to become a part of that.
+
+I'm involved with two nonprofits that focus on encouraging high growth women entrepreneurs. And one of those is called Astia out here in the Bay area. The other is springboard enterprises back on the East coast. Both of them are now really global in scope. I've been involved with both of those for, for 20 years.
+
+Gopi Rangan: Oh, this is great. Despite all the busy work you do make time for community activities. And I [00:26:00] see that this is important for the industry overall and will have an impact in the longterm. We will bring more diversity into venture capital. 
+
+Cindy Padnos:  I hope so. I think in the end, those who are able to generate wealth, give back into the community and also support the next generation behind them.
+
+I you know, when I was doing the research on my first paper, 10 years ago, one of the things that I didn't fully understand was how it, it was for example, that Indian entrepreneurs had gone from being. Cannon fodder, literally second class citizens. In the sense of hearing people say, let's just hire a bunch of Indian engineers, the cheap, right, too, running some of the most successful companies in the world becoming very successful VCs and almost to the point even 10 years ago, where if you didn't have an Indian amongst your founding team, or at least senior engineering team people wondered why not.[00:27:00]
+
+And so I went and talked to the founders of Thai and ask them, how did that happen? Because I seriously was curious how that was possible for Indian entrepreneurs. And it hadn't happened for women yet. I mean, after all, I mean, women are half the world. I was like, well, you know that there's something kind of out of whack here.
+
+I don't understand it. And I learned so much including how naive I was. Because first of all, they informed me that my impression that Indians were unbelievably entrepreneurial wasn't accurate, and that I was incredibly biased because the only ones I saw were the ones who had left India come to the U S and of course they were incredibly entrepreneurial, but that, that was a very small portion of the population.
+
+So I was like, okay, I guess I get that. And not every woman is entrepreneurial either, so, okay. Check Mark. I learned something there and the [00:28:00] second thing they said really resonated with me because they said, Cindy, we knew we were being treated like second-class citizens. And we chose to actively change that.
+
+And every one of us chose to help the next person behind us and make it happen for our community. Because that's what immigrants do. And it it really hit me because I, it made me think about my own grandfather. All my grandparents were immigrants. But my, my father on my dad's side, and to this day, I hear stories about how, when a Vagrant or itinerant would show up during the depression and the little town in Michigan that he landed in after leaving Russia by himself as a teenager.
+
+That the people in the community would send those people over to his house because they knew that he would feed them. It didn't matter who it was. I, you know, I, I think about that and I think about what some of the founders of Ty [00:29:00] said to me, and I kind of sat back and I was frankly, a little disappointed because I thought, okay, women don't think of themselves as immigrants.
+
+That's for sure. And they don't really feel patient holed into being second class citizens. And 10 years ago, they weren't doing enough in my humble opinion to help each other. And I think the really good news today is that that's changed. They don't think of themselves as second class or immigrants, but they are helping one another, which I think is fabulous.
+
+Gopi Rangan: And this is incredible. You're pretty much describing my journey. I had a few offers when I graduated from college and I took the job where I went to, went to work for a startup instead of working for one of these consulting companies.
+
+And that was a big decision at that time, but I was way down the totem pole to make any difference to the industry. But the feeling of not being given the right kind of opportunities. I have to go out and try something [00:30:00] myself to unleash potential, that feeling was there. Thanks to a lot of the people around me who believed in me and supported many people, of course, in the Indian community, that made a huge difference to me.
+
+There's probably something that, that we can learn and translate to bring more diversity into venture capital. I hope so. 
+
+Cindy Padnos: I think so.
+
+Gopi Rangan: Well, this is great. Thank you so much, indeed. It's always great to talk to you and learn from your experiences. Thanks a lot for sharing your stories and  insights. 
+
+Cindy Padnos: My pleasure. Thank you.
+
+Gopi Rangan: Thank you for listening to the shore shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. 
+

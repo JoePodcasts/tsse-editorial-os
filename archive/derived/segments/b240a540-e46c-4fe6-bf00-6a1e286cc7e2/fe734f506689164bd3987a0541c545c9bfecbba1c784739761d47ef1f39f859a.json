@@ -1,0 +1,1711 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 322,
+      "excerpt": "\"The challenge is how you fit in this complicated, messed up healthcare system. So it's like we're changing it, but we're not gonna operate outside of it either. Some companies have kind of tried to do that just by expensive cash pay products and a lot of them have done okay and a lot of them have failed.\" - Jessica Karr",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 744,
+      "excerpt": "[00:00:25] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Jessica Karr. Jessica is the founder and managing partner at Coyote Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 324,
+      "timestamps": [
+        {
+          "offset": 324,
+          "raw": "[00:00:25]",
+          "seconds": 25
+        }
+      ]
+    },
+    {
+      "end": 1176,
+      "excerpt": "[00:01:00] Kori Ventures focuses on healthcare startups. She's very interested in democratizing healthcare access to populations that don't receive the right kind of healthcare. And this can happen through technology innovation. Those are the kind of companies she likes to invest in. We're gonna talk to her about her investment thesis, the kind of founders she likes working with how she thinks about these investment decisions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 746,
+      "timestamps": [
+        {
+          "offset": 746,
+          "raw": "[00:01:00]",
+          "seconds": 60
+        }
+      ]
+    },
+    {
+      "end": 1365,
+      "excerpt": "[00:01:22] And sometimes she says no. Perhaps more often she says no. And why does she say no? We're gonna talk to her about those as well. Jessica, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1178,
+      "timestamps": [
+        {
+          "offset": 1178,
+          "raw": "[00:01:22]",
+          "seconds": 82
+        }
+      ]
+    },
+    {
+      "end": 1422,
+      "excerpt": "[00:01:32] Jessica Karr: Thank you. Excited to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 1367,
+      "timestamps": [
+        {
+          "offset": 1367,
+          "raw": "[00:01:32]",
+          "seconds": 92
+        }
+      ]
+    },
+    {
+      "end": 1539,
+      "excerpt": "[00:01:34] Gopi Rangan: Let's start with you. Who are you? You grew up in Texas, but you now live in San Francisco.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1424,
+      "timestamps": [
+        {
+          "offset": 1424,
+          "raw": "[00:01:34]",
+          "seconds": 94
+        }
+      ]
+    },
+    {
+      "end": 1581,
+      "excerpt": "[00:01:42] Walk us through that journey.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1541,
+      "timestamps": [
+        {
+          "offset": 1541,
+          "raw": "[00:01:42]",
+          "seconds": 102
+        }
+      ]
+    },
+    {
+      "end": 2194,
+      "excerpt": "[00:01:43] Jessica Karr: I was born and raised in Amarillo, Texas. It's in the northwest part of Texas. It's really close to New Mexico, so that was a nice part about growing up is skiing in the mountains of New Mexico and going to Santa Fe. And I was born and raised there. So I left for college afterwards. I went to Texas State in San Marcos. It's near Austin. So I was glad to get out of, that small town Amarillo is. It was pretty small and pretty far from everything and I was excited to go see other things. So texas State was really nice. Very close to Austin and San Antonio, so there is so much to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 1583,
+      "timestamps": [
+        {
+          "offset": 1583,
+          "raw": "[00:01:43]",
+          "seconds": 103
+        }
+      ]
+    },
+    {
+      "end": 2394,
+      "excerpt": "[00:02:26] There is a river that went through campus, so we would be floating and laying out at the river after class. And then after that I went to San Diego, so been in California ever since then.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2196,
+      "timestamps": [
+        {
+          "offset": 2196,
+          "raw": "[00:02:26]",
+          "seconds": 146
+        }
+      ]
+    },
+    {
+      "end": 2568,
+      "excerpt": "[00:02:39] Gopi Rangan: California has been home for you now. Yes. You were in R&D for some time. You were at Impossible Foods, and eventually you made your way to venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2396,
+      "timestamps": [
+        {
+          "offset": 2396,
+          "raw": "[00:02:39]",
+          "seconds": 159
+        }
+      ]
+    },
+    {
+      "end": 2619,
+      "excerpt": "[00:02:48] What attracted you to Venture Capital?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2570,
+      "timestamps": [
+        {
+          "offset": 2570,
+          "raw": "[00:02:48]",
+          "seconds": 168
+        }
+      ]
+    },
+    {
+      "end": 3459,
+      "excerpt": "[00:02:51] Jessica Karr: I always loved the idea of investing, and I did get to learn some from being inside at Impossible Foods and interacting with the investors, and also just seeing on the inside, every time there was a round of funding that was raised, I saw what kind of impact that had on especially hiring and growing the team and then looking at what priorities we had in the next 12 to 18 months between funding rounds. So I did get to see a lot of how venture money flowed into the actual development of the products. And yeah, I was at Impossible for about six years to saw the very early idea stage, helped make the very first prototype and that went into some patents and then all the way through the public launch where, you know, working with David Chang from Momofuku and Traci Des Jardins , a famous chef out here in sf.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 2621,
+      "timestamps": [
+        {
+          "offset": 2621,
+          "raw": "[00:02:51]",
+          "seconds": 171
+        }
+      ]
+    },
+    {
+      "end": 3843,
+      "excerpt": "[00:03:43] So it was really cool to see the trajectory and what I struggled with while working there was somewhat like having a role that could be a little bit in isolation 'cause I like more. Connecting things and working on lots of different ideas. So when I left and did an MBA, I started working with tons of startups, thought I would immediately find the next Impossible Foods.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3461,
+      "timestamps": [
+        {
+          "offset": 3461,
+          "raw": "[00:03:43]",
+          "seconds": 223
+        }
+      ]
+    },
+    {
+      "end": 4208,
+      "excerpt": "[00:04:07] I would say that batch of startups hasn't quite been as successful, but I learned a ton working directly with founders, a lot of them raising their first round of either angel or VC funding. And yeah, worked with about a dozen companies over just two years. And I loved that portfolio approach supporting a ton of different ideas helping strategically.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3845,
+      "timestamps": [
+        {
+          "offset": 3845,
+          "raw": "[00:04:07]",
+          "seconds": 247
+        }
+      ]
+    },
+    {
+      "end": 4521,
+      "excerpt": "[00:04:28] And then I said the main thing I need from this next is to be able to put checks into them and not just, doing my consulting and advising. So I worked briefly with another fund and really got excited about a health tech thesis that ended up becoming Coyote Ventures when I decided to do it on my own.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4210,
+      "timestamps": [
+        {
+          "offset": 4210,
+          "raw": "[00:04:28]",
+          "seconds": 268
+        }
+      ]
+    },
+    {
+      "end": 4686,
+      "excerpt": "[00:04:47] Gopi Rangan: Very, very interesting. I wanna talk about Coyote Ventures, but I have this provocative question about Impossible Foods, if you don't mind.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4523,
+      "timestamps": [
+        {
+          "offset": 4523,
+          "raw": "[00:04:47]",
+          "seconds": 287
+        }
+      ]
+    },
+    {
+      "end": 4729,
+      "excerpt": "[00:04:56] Jessica Karr: Yeah, of course.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 4688,
+      "timestamps": [
+        {
+          "offset": 4688,
+          "raw": "[00:04:56]",
+          "seconds": 296
+        }
+      ]
+    },
+    {
+      "end": 4920,
+      "excerpt": "[00:04:57] Gopi Rangan: So there are people who love meat, and then there are people who love eating plant-based food. And then there are people, and this is the cohort, I don't understand.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4731,
+      "timestamps": [
+        {
+          "offset": 4731,
+          "raw": "[00:04:57]",
+          "seconds": 297
+        }
+      ]
+    },
+    {
+      "end": 5242,
+      "excerpt": "[00:05:07] They want to eat plants, but they want it to look and taste like meat. Like I want to eat carrots and broccoli and beans, but I want it to taste like steak and chickens like that is the part that kind of baffles me. Like, why can't you just eat carrot and beans and broccoli? Why do you have to look for food?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4922,
+      "timestamps": [
+        {
+          "offset": 4922,
+          "raw": "[00:05:07]",
+          "seconds": 307
+        }
+      ]
+    },
+    {
+      "end": 5258,
+      "excerpt": "[00:05:29] Are",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5244,
+      "timestamps": [
+        {
+          "offset": 5244,
+          "raw": "[00:05:29]",
+          "seconds": 329
+        }
+      ]
+    },
+    {
+      "end": 5308,
+      "excerpt": "[00:05:30] Jessica Karr: Are you a veterinarian?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 5260,
+      "timestamps": [
+        {
+          "offset": 5260,
+          "raw": "[00:05:30]",
+          "seconds": 330
+        }
+      ]
+    },
+    {
+      "end": 5465,
+      "excerpt": "[00:05:32] Gopi Rangan: I am vegetarian. Yeah. But I'm perfectly fine if someone wants to eat meat and I'm perfectly fine if someone wants to not eat meat.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5310,
+      "timestamps": [
+        {
+          "offset": 5310,
+          "raw": "[00:05:32]",
+          "seconds": 332
+        }
+      ]
+    },
+    {
+      "end": 5727,
+      "excerpt": "[00:05:40] Jessica Karr: I don't think anybody sat around and said, I wish this carrot tasted like meat. The idea really came from the founder, Pat Brown, and he said, a lot of problems with climate change related to the meat industry, which continued to grow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 5467,
+      "timestamps": [
+        {
+          "offset": 5467,
+          "raw": "[00:05:40]",
+          "seconds": 340
+        }
+      ]
+    },
+    {
+      "end": 6022,
+      "excerpt": "[00:05:55] And he said, one way that to solve it is just to give people who are open to changing that, you know where, where the meat came from. It's essentially like same experience. The idea is the same experience, just. Different source and, and that's the idea of making, plant-based meat.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5729,
+      "timestamps": [
+        {
+          "offset": 5729,
+          "raw": "[00:05:55]",
+          "seconds": 355
+        }
+      ]
+    },
+    {
+      "end": 6327,
+      "excerpt": "[00:06:13] Something that substitutes without changing the experience of eating meat. So, as we've seen it evolve, some products are maybe seven to eight out of 10, similarity to meat. I don't think any of them are one for one. And of course, there is some ingredients that people might be sensitive to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6024,
+      "timestamps": [
+        {
+          "offset": 6024,
+          "raw": "[00:06:13]",
+          "seconds": 373
+        }
+      ]
+    },
+    {
+      "end": 6673,
+      "excerpt": "[00:06:31] There is a level of processing. So, yeah, I could talk for a whole hour about the nutritional comparison, but that's more of the idea. I think it was not something that people thought that they wanted until it was there. And I think that the marketing was pretty successful and seeing like global effect has been interesting as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6329,
+      "timestamps": [
+        {
+          "offset": 6329,
+          "raw": "[00:06:31]",
+          "seconds": 391
+        }
+      ]
+    },
+    {
+      "end": 6975,
+      "excerpt": "[00:06:49] Other countries like Latin America and Asia. I spent some time in Singapore. I've, I've seen some of these similar products launch elsewhere in different markets from different companies. I think that Impossible and Beyond Meat, the main competitor sort of paved the way for this movement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6675,
+      "timestamps": [
+        {
+          "offset": 6675,
+          "raw": "[00:06:49]",
+          "seconds": 409
+        }
+      ]
+    },
+    {
+      "end": 7068,
+      "excerpt": "[00:07:06] Although I think some data has shown it's a little slower growth than predicted.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6977,
+      "timestamps": [
+        {
+          "offset": 6977,
+          "raw": "[00:07:06]",
+          "seconds": 426
+        }
+      ]
+    },
+    {
+      "end": 7311,
+      "excerpt": "[00:07:11] Gopi Rangan: It's fascinating because it's real innovation. Creating things that didn't exist in the world before. It takes a lot of scientific breakthroughs as well, and connecting with the taste palettes and behaviors of people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7070,
+      "timestamps": [
+        {
+          "offset": 7070,
+          "raw": "[00:07:11]",
+          "seconds": 431
+        }
+      ]
+    },
+    {
+      "end": 7527,
+      "excerpt": "[00:07:24] That is never easy. Coming back to Coyote Ventures, you started Coyote Ventures in the beginning of the pandemic (around 2021). 20, What is Coyote Ventures and how is the firm different from other firms?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7313,
+      "timestamps": [
+        {
+          "offset": 7313,
+          "raw": "[00:07:24]",
+          "seconds": 444
+        }
+      ]
+    },
+    {
+      "end": 8554,
+      "excerpt": "[00:07:35] Jessica Karr: Coyote Ventures, like you said, it focuses on the areas of healthcare that have been traditionally left behind. It really stems from an idea related to women's health, but definitely has evolved to how that can be intersectional with other areas of health that have been overlooked as well, including mental health, aging and caregiving, various social barriers people face to health, like lack of transportation as well as racial disparities in health, geographic disparities, economic. So the list goes on and we really focus on AI driven platforms. So the majority of the companies are in digital health and we're writing a whole AI thesis right now that will make this more clear. So I'm excited to get that out there. But essentially there's AI driven platforms that can do more in digital health than just, people. Now there's so many platforms. It's like how do you support a patient's needs on a more day-to-day basis, or potentially supporting the health system's needs or the payer's needs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 7529,
+      "timestamps": [
+        {
+          "offset": 7529,
+          "raw": "[00:07:35]",
+          "seconds": 455
+        }
+      ]
+    },
+    {
+      "end": 9023,
+      "excerpt": "[00:08:38] There's different models, using technology, so something might be a concrete example, one of our companies working with pregnant moms who have gestational diabetes. So diabetes during pregnancy. The standard of care, even at Stanford, was to have the pregnant person write down everything that they ate, all of their blood glucose tracking, all of their exercise, and wrote it all down on a piece of paper and would show it to the nurse at the appointment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8556,
+      "timestamps": [
+        {
+          "offset": 8556,
+          "raw": "[00:08:38]",
+          "seconds": 518
+        }
+      ]
+    },
+    {
+      "end": 9732,
+      "excerpt": "[00:09:06] And this actually has huge consequences. So like it can really sometimes lead to preterm births and lead to a lot of risk of diabetes and heart disease in both the mom and baby. So this was a low hanging fruit to say we don't really need telehealth for this, but the pregnant people need a daily tracker that replaces that pen and paper, but also gives AI driven insights. What could they improve? Also, taking into account like cultural competencies, because a lot of these were designed for sort of the white American diet. But taking into account, like putting this in Spanish. What do people from different cultures want to eat? So it's been really exciting to see the growth of that company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9025,
+      "timestamps": [
+        {
+          "offset": 9025,
+          "raw": "[00:09:06]",
+          "seconds": 546
+        }
+      ]
+    },
+    {
+      "end": 10096,
+      "excerpt": "[00:09:48] They've served over 50,000 patients. And then back to like how that ties into the thesis, there's a lot of platforms that are AI driven and they can really scale quickly through digital platforms and also like serving people on a more day-to-day basis. That's between doctor's visits and not just this telehealth for prescribing X, Y, Z type of thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9734,
+      "timestamps": [
+        {
+          "offset": 9734,
+          "raw": "[00:09:48]",
+          "seconds": 588
+        }
+      ]
+    },
+    {
+      "end": 10483,
+      "excerpt": "[00:10:08] We're not really into that. So, I'm glad you started with Impossible Foods because it really shows that as an innovation and that's what we're looking for here, is like there is a level of innovation that's really driven by insights from founders having either experienced this problem or having a loved one that experienced the types of problems that they're designing for.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10098,
+      "timestamps": [
+        {
+          "offset": 10098,
+          "raw": "[00:10:08]",
+          "seconds": 608
+        }
+      ]
+    },
+    {
+      "end": 10673,
+      "excerpt": "[00:10:29] And they also usually have this advantage of like working in healthcare, a lot of them have been the buyer of these products from either the payer or health system side as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10485,
+      "timestamps": [
+        {
+          "offset": 10485,
+          "raw": "[00:10:29]",
+          "seconds": 629
+        }
+      ]
+    },
+    {
+      "end": 10819,
+      "excerpt": "[00:10:40] Gopi Rangan: Let's get into some of the details on your investment process. What stage do you invest in? What's a sweet spot for you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10675,
+      "timestamps": [
+        {
+          "offset": 10675,
+          "raw": "[00:10:40]",
+          "seconds": 640
+        }
+      ]
+    },
+    {
+      "end": 10877,
+      "excerpt": "[00:10:46] How early is too early? How late is too late?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10821,
+      "timestamps": [
+        {
+          "offset": 10821,
+          "raw": "[00:10:46]",
+          "seconds": 646
+        }
+      ]
+    },
+    {
+      "end": 11906,
+      "excerpt": "[00:10:49] Jessica Karr: So we're doing two buckets now. Historically we've done mostly seed, and I can explain that first, where we have a new program that is doing pre-seed. So on the seed side, what we have done traditionally is post product. So there is some kind of MVP and they're usually at least working with maybe one design partner or maybe have a little more traction with a few live contracts usually a little bit further along and we have diligence on like, what is this platform doing? What are the different stakeholders experiences with this? How can this scale to more enterprise contracts? I would say, the standard diligence, we do financials and product. I would say what is above and beyond for us that we look at a little more uniquely. One is how they are measuring healthcare access and outcomes. And a lot of the times these healthcare access and outcomes actually, sort of like a values-based care, they might show that they are in the end, cost savings for the enterprise that they're partnered with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 10879,
+      "timestamps": [
+        {
+          "offset": 10879,
+          "raw": "[00:10:49]",
+          "seconds": 649
+        }
+      ]
+    },
+    {
+      "end": 12392,
+      "excerpt": "[00:11:53] So back to the gestational diabetes example, by preventing preterm births or actually driving huge cost savings. So the payers aren't incentivized to say like, we'll pay for this because this is a great solution that is preventing things associated with high cost. So, we look at the measuring outcomes. We produce impact reports, but beyond just doing good, which is important it also ties in directly with a economic model that can scale with the better outcomes as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11908,
+      "timestamps": [
+        {
+          "offset": 11908,
+          "raw": "[00:11:53]",
+          "seconds": 713
+        }
+      ]
+    },
+    {
+      "end": 12862,
+      "excerpt": "[00:12:26] We look really heavily at the team. Like I said, usually the founders have direct experience and also the career experience that gives them an advantage. And then the last unique thing to us is like, what is the level of innovation? It's not just telehealth, it's a little more than just digitizing something. So those are a little more unique to us. And then going a little earlier on the pre-seed, a lot of these will not have the platforms developed yet.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12394,
+      "timestamps": [
+        {
+          "offset": 12394,
+          "raw": "[00:12:26]",
+          "seconds": 746
+        }
+      ]
+    },
+    {
+      "end": 13293,
+      "excerpt": "[00:12:51] So the really strong thing that we look at is the team, and similar to what I just described, direct experience and career experience. And then also just like a light work on the competitive landscape, like if they're going against a big incumbent and we don't see how they could really drive scale. I would say the competitive landscape, like making sure we understand that there is a blue ocean opportunity for them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12864,
+      "timestamps": [
+        {
+          "offset": 12864,
+          "raw": "[00:12:51]",
+          "seconds": 771
+        }
+      ]
+    },
+    {
+      "end": 13414,
+      "excerpt": "[00:13:15] Gopi Rangan: How many investments do you make at the pre-seed stage and the seed stage on average in a year?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13295,
+      "timestamps": [
+        {
+          "offset": 13295,
+          "raw": "[00:13:15]",
+          "seconds": 795
+        }
+      ]
+    },
+    {
+      "end": 13637,
+      "excerpt": "[00:13:21] Jessica Karr: Ideally around six. Maybe we'll start increasing that a bit. It's interesting. Years can vary. I feel like sometimes it's like a little bit of a dry spell, like we're just waiting for a good deal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 13416,
+      "timestamps": [
+        {
+          "offset": 13416,
+          "raw": "[00:13:21]",
+          "seconds": 801
+        }
+      ]
+    },
+    {
+      "end": 13924,
+      "excerpt": "[00:13:31] And then sometimes they're like, three will come at once and it's crazy frenzy and it's unpredictable. I remember, I was in Tahoe for the summer, it was my birthday and trying to chill and it was like I have like five deals going icy. So much work that I was doing so. Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13639,
+      "timestamps": [
+        {
+          "offset": 13639,
+          "raw": "[00:13:31]",
+          "seconds": 811
+        }
+      ]
+    },
+    {
+      "end": 13972,
+      "excerpt": "[00:13:51] Gopi Rangan: This is unpredictable.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13926,
+      "timestamps": [
+        {
+          "offset": 13926,
+          "raw": "[00:13:51]",
+          "seconds": 831
+        }
+      ]
+    },
+    {
+      "end": 14055,
+      "excerpt": "[00:13:51] You never know when the next new idea comes It can come from anywhere.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13974,
+      "timestamps": [
+        {
+          "offset": 13974,
+          "raw": "[00:13:51]",
+          "seconds": 831
+        }
+      ]
+    },
+    {
+      "end": 14087,
+      "excerpt": "[00:13:55] Jessica Karr: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 14057,
+      "timestamps": [
+        {
+          "offset": 14057,
+          "raw": "[00:13:55]",
+          "seconds": 835
+        }
+      ]
+    },
+    {
+      "end": 14215,
+      "excerpt": "[00:13:56] Gopi Rangan: And you are the general partner at the firm. How do you make investment decisions? What's the process?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14089,
+      "timestamps": [
+        {
+          "offset": 14089,
+          "raw": "[00:13:56]",
+          "seconds": 836
+        }
+      ]
+    },
+    {
+      "end": 14390,
+      "excerpt": "[00:14:02] Jessica Karr: Yeah, I'm the only full-time person, but I have a really nice team of part-time venture partners and then a few members on the investment committee.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 14217,
+      "timestamps": [
+        {
+          "offset": 14217,
+          "raw": "[00:14:02]",
+          "seconds": 842
+        }
+      ]
+    },
+    {
+      "end": 14670,
+      "excerpt": "[00:14:10] So I'll walk through sort of how that works. I focus a lot on the sourcing, so I am talking to a lot of people, being at events speaking just really getting the coyote name out there and helping people understand our thesis 'cause obviously, you gotta see good deals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14392,
+      "timestamps": [
+        {
+          "offset": 14392,
+          "raw": "[00:14:10]",
+          "seconds": 850
+        }
+      ]
+    },
+    {
+      "end": 15076,
+      "excerpt": "[00:14:26] That's step one. If you don't see it, you can't invest in it. So sourcing is really, really important to us. And then once we connect with a founder, a lot of times my venture partners will do the first calls just because we do wanna talk to a lot of founders. Right now we have five on our team, and their expertise does span a lot of different, subject areas that are really relevant for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14672,
+      "timestamps": [
+        {
+          "offset": 14672,
+          "raw": "[00:14:26]",
+          "seconds": 866
+        }
+      ]
+    },
+    {
+      "end": 15438,
+      "excerpt": "[00:14:49] A lot of digital health operators also coming from health systems, health payers, as well as the employer side of things. So really amazing team. And we do kind of screen for some of those things that I mentioned earlier in the diligence. Looking at team, looking at business models, health outcomes, products, a little bit on competitive landscape.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15078,
+      "timestamps": [
+        {
+          "offset": 15078,
+          "raw": "[00:14:49]",
+          "seconds": 889
+        }
+      ]
+    },
+    {
+      "end": 15839,
+      "excerpt": "[00:15:08] So we'll do a first call. And if we decide to continue diligence, we'll have one of the venture partners designated as the main lead on looking into the deal. And I'm overseeing all of that. So I come in somewhere in the middle normally. We also have a team meeting every week where we're talking about the deals and the market and all of our exciting special projects that we do as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15440,
+      "timestamps": [
+        {
+          "offset": 15440,
+          "raw": "[00:15:08]",
+          "seconds": 908
+        }
+      ]
+    },
+    {
+      "end": 16167,
+      "excerpt": "[00:15:30] I should mention the summit at some point as well. So we have a few stages of diligence. The first stage there's certain things we're looking at. We do really heavily evaluate the product. Spend more time with the team, doing a lot of back channeling calls, like who knows who, we all know each other at some point.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15841,
+      "timestamps": [
+        {
+          "offset": 15841,
+          "raw": "[00:15:30]",
+          "seconds": 930
+        }
+      ]
+    },
+    {
+      "end": 16557,
+      "excerpt": "[00:15:48] And then, if it keeps going from there, really looking into financials doing some more subject matter expert calls. So a lot of times this does need to connect. Like so many stakeholders in healthcare, we have to look at like, how are the healthcare providers interacting with this? Like if they're the ones that need to refer patients, where does this fit into their workflow?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16169,
+      "timestamps": [
+        {
+          "offset": 16169,
+          "raw": "[00:15:48]",
+          "seconds": 948
+        }
+      ]
+    },
+    {
+      "end": 17182,
+      "excerpt": "[00:16:08] So that's a really important one; looking at. really heavily, how this also fits into health payers models. What could be opportunities to like do direct contracting for more revenue with enterprises. There's a lot of stages where we're doing diligence. There's a lot of decision trees where it's like, do we continue with this now, or say it's a pass for now, and then sort of at the end when it's time to make the decision that's where the investment committee comes in. They look at, at that point we probably have a 20 page memo and a whole data room and lots of information call notes from our interactions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16559,
+      "timestamps": [
+        {
+          "offset": 16559,
+          "raw": "[00:16:08]",
+          "seconds": 968
+        }
+      ]
+    },
+    {
+      "end": 17478,
+      "excerpt": "[00:16:43] And then, our investment committee meets the founder and I make the final decision. But I think like having other subject matter expertise who actually have the in depth questions with the founders at that point, and they make their recommendation and then I make the final decision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17184,
+      "timestamps": [
+        {
+          "offset": 17184,
+          "raw": "[00:16:43]",
+          "seconds": 1003
+        }
+      ]
+    },
+    {
+      "end": 17827,
+      "excerpt": "[00:16:59] Most of the time we do agree and yeah, I think there's been times I felt bullish, but then they found ways to poke more holes that we didn't poke earlier. So yeah, it is a bit of a process. I commend founders for going through it, but I do think we're strong partners on a cap table, so I think for the most part it's worth it for them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17480,
+      "timestamps": [
+        {
+          "offset": 17480,
+          "raw": "[00:16:59]",
+          "seconds": 1019
+        }
+      ]
+    },
+    {
+      "end": 18121,
+      "excerpt": "[00:17:22] Gopi Rangan: I see you have a structured process and you have many experts involved in the decision making and they all support you. But ultimately you're the final decision maker on the investment. How long does it take for a founder from the first meeting to investment decision?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17829,
+      "timestamps": [
+        {
+          "offset": 17829,
+          "raw": "[00:17:22]",
+          "seconds": 1042
+        }
+      ]
+    },
+    {
+      "end": 18547,
+      "excerpt": "[00:17:36] Jessica Karr: On average, it's about a month. I think if a round is closing quickly, we can make a quicker decision, especially if we know the lead investor. And we've had some where they've shared their memos and we said. We're not gonna rewrite this, because they, some of the, some of the, lead investors will have so much more time to go into customer calls and really help build the financial model together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 18123,
+      "timestamps": [
+        {
+          "offset": 18123,
+          "raw": "[00:17:36]",
+          "seconds": 1056
+        }
+      ]
+    },
+    {
+      "end": 18857,
+      "excerpt": "[00:17:58] So yeah, we have some trusted co-investors that we'll go in with. That can be a little bit faster. We'll still meet the founder at least two or three times in that case. But really going off of trust from other trusted co-investors. Sometimes it does take longer and that's not usually on our end.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18549,
+      "timestamps": [
+        {
+          "offset": 18549,
+          "raw": "[00:17:58]",
+          "seconds": 1078
+        }
+      ]
+    },
+    {
+      "end": 19271,
+      "excerpt": "[00:18:16] I know that right now where there's a lot of deals we're looking at that are taking some time to find a lead investor. I know there's, a huge gap in that space, especially like pre-seed and seed stage who who will like lead rounds and yeah, you don't always have a lead at pre-seed, but for seed definitely we wanna see what the terms are and who the lead investor is before making the final decision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18859,
+      "timestamps": [
+        {
+          "offset": 18859,
+          "raw": "[00:18:16]",
+          "seconds": 1096
+        }
+      ]
+    },
+    {
+      "end": 19517,
+      "excerpt": "[00:18:39] So, we'll front load most of our diligence as much as we can. And then a lot of times, yeah, that could take a few months. Ideally not the longer it takes at the seed, the more fundraising risk there is maybe at the next round, so...",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19273,
+      "timestamps": [
+        {
+          "offset": 19273,
+          "raw": "[00:18:39]",
+          "seconds": 1119
+        }
+      ]
+    },
+    {
+      "end": 19627,
+      "excerpt": "[00:18:52] Gopi Rangan: That is true. Yeah. A month seems like a good enough time for the founder to invest.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19519,
+      "timestamps": [
+        {
+          "offset": 19519,
+          "raw": "[00:18:52]",
+          "seconds": 1132
+        }
+      ]
+    },
+    {
+      "end": 19945,
+      "excerpt": "[00:18:58] It's a distraction for them from the business. And they can focus on fundraising for a month and get it to the finish line that's a good use of their time. Over the past two, three years, AI has become such an important thing. How has all these changes we've seen in AI changed the way you make decisions?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19629,
+      "timestamps": [
+        {
+          "offset": 19629,
+          "raw": "[00:18:58]",
+          "seconds": 1138
+        }
+      ]
+    },
+    {
+      "end": 20015,
+      "excerpt": "[00:19:17] What's different for you now compared to a few years ago?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19947,
+      "timestamps": [
+        {
+          "offset": 19947,
+          "raw": "[00:19:17]",
+          "seconds": 1157
+        }
+      ]
+    },
+    {
+      "end": 20339,
+      "excerpt": "[00:19:20] Jessica Karr: Yeah. A lot of our companies have been using AI since before the chat GPT release. I've always been aware of like how machine learning will incorporate into some of our companies. So we've had some that have been yeah, using machine learning to understand something related to personalized health.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 20017,
+      "timestamps": [
+        {
+          "offset": 20017,
+          "raw": "[00:19:20]",
+          "seconds": 1160
+        }
+      ]
+    },
+    {
+      "end": 20665,
+      "excerpt": "[00:19:39] So some of them are like. What is this person's risk for cancer? Understanding some of their lifestyle and biomarkers for example, and just like personal data in general. So you can use a lot of personalized data train models and have an algorithm. We have a lot of companies that, that have been leveraging that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20341,
+      "timestamps": [
+        {
+          "offset": 20341,
+          "raw": "[00:19:39]",
+          "seconds": 1179
+        }
+      ]
+    },
+    {
+      "end": 21342,
+      "excerpt": "[00:19:57] But definitely like the ability to integrate like generative AI as part of a product has been really strong for a lot of our companies. And then, as more agentic AI has rolled out. We're seeing a lot of companies revamp their internal operations to become, it's a little bit of an investment to build in that way, but becoming a lot more efficient as well as cost efficient, using more internal AI. And then I think just it's an exciting time in healthcare with the ability to collect data, share data both on the sort of lifestyle side as well as the health data side. And in using AI to really collect, integrate, analyze a lot of data to make healthcare better.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20667,
+      "timestamps": [
+        {
+          "offset": 20667,
+          "raw": "[00:19:57]",
+          "seconds": 1197
+        }
+      ]
+    },
+    {
+      "end": 21536,
+      "excerpt": "[00:20:42] Gopi Rangan: Healthcare is a complicated world. It is so broken, especially in the US. What trends are you excited about in healthcare? What kind of solutions are you interested in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21344,
+      "timestamps": [
+        {
+          "offset": 21344,
+          "raw": "[00:20:42]",
+          "seconds": 1242
+        }
+      ]
+    },
+    {
+      "end": 21785,
+      "excerpt": "[00:20:53] Jessica Karr: So I think just piggybacking off of the AI part, there's so many opportunities. Like one of our companies that was just co-founded with one of our venture partners is using AI to again, understand personalized health data.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 21538,
+      "timestamps": [
+        {
+          "offset": 21538,
+          "raw": "[00:20:53]",
+          "seconds": 1253
+        }
+      ]
+    },
+    {
+      "end": 22154,
+      "excerpt": "[00:21:07] So both, biomarkers as well as some devices that are measuring hormones and integrating all of this different data into one platform. There's kind of a huge lack of that and there's so many applications. You could basically take this technology and apply it to so many use cases and so many populations that essentially can just be thesis in and of itself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21787,
+      "timestamps": [
+        {
+          "offset": 21787,
+          "raw": "[00:21:07]",
+          "seconds": 1267
+        }
+      ]
+    },
+    {
+      "end": 22606,
+      "excerpt": "[00:21:27] So this company, for example, is using it towards couples trying to conceive. So, the CEO is been working individually with patients and actually worked with my friend who now has a six month old baby. And definitely helping like optimize people's health, but you need that baseline understanding of health as well as structuring all of that data, like which data is important, which things will you look to improve and how do you do that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22156,
+      "timestamps": [
+        {
+          "offset": 22156,
+          "raw": "[00:21:27]",
+          "seconds": 1287
+        }
+      ]
+    },
+    {
+      "end": 22883,
+      "excerpt": "[00:21:53] So that's some themes that we're interested. We have a whole section on our website on the thesis page about, different areas of health that we're excited about, diving into a little bit further as well. All contributing to, yeah, making healthcare better for all.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22608,
+      "timestamps": [
+        {
+          "offset": 22608,
+          "raw": "[00:21:53]",
+          "seconds": 1313
+        }
+      ]
+    },
+    {
+      "end": 22988,
+      "excerpt": "[00:22:09] Gopi Rangan: What's your advice to founders in today's world now, given where the market is?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22885,
+      "timestamps": [
+        {
+          "offset": 22885,
+          "raw": "[00:22:09]",
+          "seconds": 1329
+        }
+      ]
+    },
+    {
+      "end": 23338,
+      "excerpt": "[00:22:13] Fundraising has become quite difficult compared to the high peers couple of years ago, and there are new advanced technology solutions available. And I see quite often that very large enterprises, I make some healthcare investments as well. They are also struggling to figure out what's coming up in the future and how to prepare for it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22990,
+      "timestamps": [
+        {
+          "offset": 22990,
+          "raw": "[00:22:13]",
+          "seconds": 1333
+        }
+      ]
+    },
+    {
+      "end": 23370,
+      "excerpt": "[00:22:32] In this environment",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23340,
+      "timestamps": [
+        {
+          "offset": 23340,
+          "raw": "[00:22:32]",
+          "seconds": 1352
+        }
+      ]
+    },
+    {
+      "end": 23465,
+      "excerpt": "[00:22:33] what's your advice to founders when they're building a healthcare focused startup?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23372,
+      "timestamps": [
+        {
+          "offset": 23372,
+          "raw": "[00:22:33]",
+          "seconds": 1353
+        }
+      ]
+    },
+    {
+      "end": 23859,
+      "excerpt": "[00:22:37] Jessica Karr: Yeah, there's a lot there. Definitely really understanding the problem that you're solving and really understanding the revenue model potentially before you, seek funding. I think, yeah, a lot of our companies are B2B, B two, B2C, so, touching end consumers, but really understanding like the challenge is how you fit in this complicated, messed up healthcare system.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 23467,
+      "timestamps": [
+        {
+          "offset": 23467,
+          "raw": "[00:22:37]",
+          "seconds": 1357
+        }
+      ]
+    },
+    {
+      "end": 24318,
+      "excerpt": "[00:23:02] So it's like. We're changing it, but we're, we're not gonna operate outside of it either. Some companies have tried to do that just by, expensive cash pay products and a lot of them have done okay. And a lot of them have failed, so. I think really understanding like if you are going to B2B what kind of relationships you have, just like willingness to, to pay and like, a lot of, a lot of companies can start out, billing like a fee for service.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23861,
+      "timestamps": [
+        {
+          "offset": 23861,
+          "raw": "[00:23:02]",
+          "seconds": 1382
+        }
+      ]
+    },
+    {
+      "end": 24621,
+      "excerpt": "[00:23:30] So if it's like, we did this telehealth appointment and this is the cost and this is the unit economics, you can start off with those. There's a lot of other. Fee for service codes that digital health can utilize. Like remote patient monitoring and other things that are, beyond telehealth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24320,
+      "timestamps": [
+        {
+          "offset": 24320,
+          "raw": "[00:23:30]",
+          "seconds": 1410
+        }
+      ]
+    },
+    {
+      "end": 24953,
+      "excerpt": "[00:23:46] And the relationships are important. That's why we really care about founders who, or we prioritize investing in founders who have those relationships because healthcare is very relationship driven and yeah, it's really hard to just. Meet a health system and immediately sell. So this, the sales cycles are really long.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24623,
+      "timestamps": [
+        {
+          "offset": 24623,
+          "raw": "[00:23:46]",
+          "seconds": 1426
+        }
+      ]
+    },
+    {
+      "end": 25867,
+      "excerpt": "[00:24:05] And if you're trying to do contracting, that's not fee for service can be a bridge. Like, hey, here's, here's what we're doing while we're like trying to do bigger contracts. But if you start off just trying to contract and can't really bridge that gap I've seen that be a huge challenge also because investors don't have visibility into the payer's decision making, and it's different for every payer anyway. So I've seen that be a lesson learned is, there's a lot of fundraising risk for types of companies that investors are just like, we're not sure this is gonna work. And so, yeah, I have to be, I think, really sure. You know, pre-seed, the bar and seed all across the board, the bar has raised so much that it's almost like pre-seed could be looked at as a seed in terms of, maybe if the product isn't there, but like. How fast can you get to these metrics like getting to contracts and, yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24955,
+      "timestamps": [
+        {
+          "offset": 24955,
+          "raw": "[00:24:05]",
+          "seconds": 1445
+        }
+      ]
+    },
+    {
+      "end": 25945,
+      "excerpt": "[00:25:02] Gopi Rangan: It's challenging, but it's also exciting. Right now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25869,
+      "timestamps": [
+        {
+          "offset": 25869,
+          "raw": "[00:25:02]",
+          "seconds": 1502
+        }
+      ]
+    },
+    {
+      "end": 26152,
+      "excerpt": "[00:25:05] Mm-hmm. To be an entrepreneur. You said that you make about six investments in a year. Roughly how many startups do you consider, do you evaluate, meet for every. Six investments like in a year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25947,
+      "timestamps": [
+        {
+          "offset": 25947,
+          "raw": "[00:25:05]",
+          "seconds": 1505
+        }
+      ]
+    },
+    {
+      "end": 26323,
+      "excerpt": "[00:25:19] Jessica Karr: Yeah. I didn't do these numbers for 2025 yet, but I remember from 2024 it was over a thousand deals. That's just tracked in our internal system.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 26154,
+      "timestamps": [
+        {
+          "offset": 26154,
+          "raw": "[00:25:19]",
+          "seconds": 1519
+        }
+      ]
+    },
+    {
+      "end": 26622,
+      "excerpt": "[00:25:29] I'm sure there was more that, you just see by walking out in, Alamo Square Park or wherever just, or just, demo days, emails that we don't actually end up filing. So over a thousand. Not sure how many over that we probably meet in the hundreds per year. So we, we do meet a lot of them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26325,
+      "timestamps": [
+        {
+          "offset": 26325,
+          "raw": "[00:25:29]",
+          "seconds": 1529
+        }
+      ]
+    },
+    {
+      "end": 26975,
+      "excerpt": "[00:25:50] And in this world, a lot of times, if we don't schedule a a call right away, we might see them out in the wild at one of these conferences or events as well. We're basically diligencing maybe five to 10 a month and then potentially investing in. And one every other month or so. And a lot of times those will batch together through the year",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26624,
+      "timestamps": [
+        {
+          "offset": 26624,
+          "raw": "[00:25:50]",
+          "seconds": 1550
+        }
+      ]
+    },
+    {
+      "end": 27068,
+      "excerpt": "[00:26:12] Gopi Rangan: tracking thousand companies and eventually making, six investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26977,
+      "timestamps": [
+        {
+          "offset": 26977,
+          "raw": "[00:26:12]",
+          "seconds": 1572
+        }
+      ]
+    },
+    {
+      "end": 27447,
+      "excerpt": "[00:26:15] That's a couple of hundred startups for every new investment. The ratio is very small. And you say no quite often. What's your most common reason to say no? Besides like, oh, it's not healthcare, or some basic structural issues, things like that. Once it falls into an area of like, yeah, this could be a topic of interest, but it doesn't make it to the finish line.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27070,
+      "timestamps": [
+        {
+          "offset": 27070,
+          "raw": "[00:26:15]",
+          "seconds": 1575
+        }
+      ]
+    },
+    {
+      "end": 27464,
+      "excerpt": "[00:26:37] Why?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27449,
+      "timestamps": [
+        {
+          "offset": 27449,
+          "raw": "[00:26:37]",
+          "seconds": 1597
+        }
+      ]
+    },
+    {
+      "end": 27848,
+      "excerpt": "[00:26:38] Jessica Karr: Mm-hmm. I'm trying to think. It's been really different from like some that we even brought all the way to investment committee. But I think some of it is, really looking at, at the team. And, and sometimes I would say had experiences where really liked the problem and solution and saw an opportunity, but, but didn't have a great experience with the team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 27466,
+      "timestamps": [
+        {
+          "offset": 27466,
+          "raw": "[00:26:38]",
+          "seconds": 1598
+        }
+      ]
+    },
+    {
+      "end": 28176,
+      "excerpt": "[00:26:58] I think like a lot of times we can feel when it is a fit and the type of entrepreneur who's a true partner. Some, some we've seen are like, okay, this person seems a little. On the narcissistic side or and some of them might be successful, but not, like, that's not really the type of partners that we usually have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27850,
+      "timestamps": [
+        {
+          "offset": 27850,
+          "raw": "[00:26:58]",
+          "seconds": 1618
+        }
+      ]
+    },
+    {
+      "end": 28489,
+      "excerpt": "[00:27:19] And I a lot comes out in diligence that, especially the subject matter experts could say, this wouldn't fit into a physician's workflow. Or, yeah, it's really different every time once we're past the screening questions. And we, we, I would say like. We love looking at past investor updates as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28178,
+      "timestamps": [
+        {
+          "offset": 28178,
+          "raw": "[00:27:19]",
+          "seconds": 1639
+        }
+      ]
+    },
+    {
+      "end": 28854,
+      "excerpt": "[00:27:39] That's told us a lot and unfortunately it is such a hard time to fundraise that. We've definitely been interested in many that end up just not able to raise and we're not gonna carry that alone and they need to raise, more rounds in the future and it gets harder each time. So that's been another reason why a lot of things have fallen through as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28491,
+      "timestamps": [
+        {
+          "offset": 28491,
+          "raw": "[00:27:39]",
+          "seconds": 1659
+        }
+      ]
+    },
+    {
+      "end": 28951,
+      "excerpt": "[00:27:59] Gopi Rangan: Every time I say no, I always wonder , what if it's the wrong decision?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28856,
+      "timestamps": [
+        {
+          "offset": 28856,
+          "raw": "[00:27:59]",
+          "seconds": 1679
+        }
+      ]
+    },
+    {
+      "end": 28987,
+      "excerpt": "[00:28:03] Jessica Karr: Oh, yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 28953,
+      "timestamps": [
+        {
+          "offset": 28953,
+          "raw": "[00:28:03]",
+          "seconds": 1683
+        }
+      ]
+    },
+    {
+      "end": 29056,
+      "excerpt": "[00:28:04] Gopi Rangan: And I've made some wrong decisions as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28989,
+      "timestamps": [
+        {
+          "offset": 28989,
+          "raw": "[00:28:04]",
+          "seconds": 1684
+        }
+      ]
+    },
+    {
+      "end": 29367,
+      "excerpt": "[00:28:06] Jessica Karr: Well, that's true. Yeah. They, we have a, we have our anti portfolios. But yeah, I haven't said no to anything that's like gone public with a crazy payout quite yet. But I have said, said no to some things that were going on to, raise great valuations and having famous investors and.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 29058,
+      "timestamps": [
+        {
+          "offset": 29058,
+          "raw": "[00:28:06]",
+          "seconds": 1686
+        }
+      ]
+    },
+    {
+      "end": 29646,
+      "excerpt": "[00:28:25] I always, yeah, remind myself a lot of times, like I'll go off of my gut for some of these, but you know, when it's really, really legit, have to really like look at it objectively and be like, and why am I saying no? And there is still good reasons for all of them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29369,
+      "timestamps": [
+        {
+          "offset": 29369,
+          "raw": "[00:28:25]",
+          "seconds": 1705
+        }
+      ]
+    },
+    {
+      "end": 29807,
+      "excerpt": "[00:28:42] Gopi Rangan: Yeah. Let's talk about the summit because you care about community, you wanna bring people together, and once a year you do the summit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29648,
+      "timestamps": [
+        {
+          "offset": 29648,
+          "raw": "[00:28:42]",
+          "seconds": 1722
+        }
+      ]
+    },
+    {
+      "end": 29908,
+      "excerpt": "[00:28:50] Can you share some details about what is the summit about? What do people get out of it?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29809,
+      "timestamps": [
+        {
+          "offset": 29809,
+          "raw": "[00:28:50]",
+          "seconds": 1730
+        }
+      ]
+    },
+    {
+      "end": 30155,
+      "excerpt": "[00:28:54] Jessica Karr: Yeah, so this will be our second annual Health Equity Innovator Summit April 15th to 17th and Tiburon, which is near San Francisco. And we're bringing together, yeah, around a hundred people. A lot of healthcare leaders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 29910,
+      "timestamps": [
+        {
+          "offset": 29910,
+          "raw": "[00:28:54]",
+          "seconds": 1734
+        }
+      ]
+    },
+    {
+      "end": 30908,
+      "excerpt": "[00:29:08] So we do really like bringing since there's so many stakeholders in healthcare, bringing them together, lots of different orgs and really influential orgs as well as policy is really important; has a lot at stake in healthcare right now. So we also like at this one we'll have the California Surgeon General as one of our keynote. We invited some folks from San Francisco Mayor's office, which is doing some exciting things. And yeah, some folks in the past have been from Health and Human Services and then lots of founders it's, it's mostly designed around founders. Really learning on, how to integrate more with health systems, hearing different opinions and experiences from, health systems payers, lots of potential partners for them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30157,
+      "timestamps": [
+        {
+          "offset": 30157,
+          "raw": "[00:29:08]",
+          "seconds": 1748
+        }
+      ]
+    },
+    {
+      "end": 31250,
+      "excerpt": "[00:29:57] Lots of investors also attend our team as well, as well as a lot of our LPs. So it's very fun. It's designed to be like really good content, but not too heavy on the amount of content. There's a lot of experiences and breaks, and there's the entire day dedicated to wellness and leadership and yeah, lots of, happy hours, snacks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30910,
+      "timestamps": [
+        {
+          "offset": 30910,
+          "raw": "[00:29:57]",
+          "seconds": 1797
+        }
+      ]
+    },
+    {
+      "end": 31608,
+      "excerpt": "[00:30:20] Coffees, lunches and yeah, we actually did two events last year. So the fall event is more of a retreat style and it was hosted at a horse ranch in Sonoma, so we did a sound bath with the horses and just got to hang out with goats. And my puppy is always there as well. Yeah, it's, it's really great. We feature a lot of our portfolio companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31252,
+      "timestamps": [
+        {
+          "offset": 31252,
+          "raw": "[00:30:20]",
+          "seconds": 1820
+        }
+      ]
+    },
+    {
+      "end": 31745,
+      "excerpt": "[00:30:46] Yeah, the company that I mentioned earlier and the fertility trying to conceive side, they, they actually met at the summit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31610,
+      "timestamps": [
+        {
+          "offset": 31610,
+          "raw": "[00:30:46]",
+          "seconds": 1846
+        }
+      ]
+    },
+    {
+      "end": 31802,
+      "excerpt": "[00:30:53] Gopi Rangan: What's the name of the company?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31747,
+      "timestamps": [
+        {
+          "offset": 31747,
+          "raw": "[00:30:53]",
+          "seconds": 1853
+        }
+      ]
+    },
+    {
+      "end": 31975,
+      "excerpt": "[00:30:54] Jessica Karr: That one's Kiara Health, like K-I-A-R-A and then one of our other companies just closed another round. They met their lead investor at the summit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 31804,
+      "timestamps": [
+        {
+          "offset": 31804,
+          "raw": "[00:30:54]",
+          "seconds": 1854
+        }
+      ]
+    },
+    {
+      "end": 32275,
+      "excerpt": "[00:31:04] And then a lot of sort of partnership conversations are going on with some of the health systems and payers who attend as well. So it's really great for our portfolio, it's great for our relationships and I know a lot of things have happened out the community meeting each other as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31977,
+      "timestamps": [
+        {
+          "offset": 31977,
+          "raw": "[00:31:04]",
+          "seconds": 1864
+        }
+      ]
+    },
+    {
+      "end": 32405,
+      "excerpt": "[00:31:21] Gopi Rangan: We're coming towards the end of our conversation and I want to ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32277,
+      "timestamps": [
+        {
+          "offset": 32277,
+          "raw": "[00:31:21]",
+          "seconds": 1881
+        }
+      ]
+    },
+    {
+      "end": 32488,
+      "excerpt": "[00:31:25] Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32407,
+      "timestamps": [
+        {
+          "offset": 32407,
+          "raw": "[00:31:25]",
+          "seconds": 1885
+        }
+      ]
+    },
+    {
+      "end": 32749,
+      "excerpt": "[00:31:30] Jessica Karr: There's so many. I think lately there have been a lot of important work happening in reproductive health. So there's one called Reproductive Freedom for All. They're having a luncheon coming up that I'll be attending in San Francisco.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 32490,
+      "timestamps": [
+        {
+          "offset": 32490,
+          "raw": "[00:31:30]",
+          "seconds": 1890
+        }
+      ]
+    },
+    {
+      "end": 32918,
+      "excerpt": "[00:31:45] I'm happy to share this link with you. But yeah, really doing great things for reproductive rights for women is really important. Yeah. It's really amazing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32751,
+      "timestamps": [
+        {
+          "offset": 32751,
+          "raw": "[00:31:45]",
+          "seconds": 1905
+        }
+      ]
+    },
+    {
+      "end": 33115,
+      "excerpt": "[00:31:56] Gopi Rangan: Jessica, thank you very much for spending time with me. Thank you for sharing insightful stories. Thank you for the candid examples from how you make investment decisions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32920,
+      "timestamps": [
+        {
+          "offset": 32920,
+          "raw": "[00:31:56]",
+          "seconds": 1916
+        }
+      ]
+    },
+    {
+      "end": 33255,
+      "excerpt": "[00:32:05] What's the process? Examples from your own portfolio? Yes, and I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33117,
+      "timestamps": [
+        {
+          "offset": 33117,
+          "raw": "[00:32:05]",
+          "seconds": 1925
+        }
+      ]
+    },
+    {
+      "end": 33389,
+      "excerpt": "[00:32:12] Jessica Karr: Thank you. Thanks for hosting me. And yeah, shout out to Cool Water for our community where we met as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 33257,
+      "timestamps": [
+        {
+          "offset": 33257,
+          "raw": "[00:32:12]",
+          "seconds": 1932
+        }
+      ]
+    },
+    {
+      "end": 33433,
+      "excerpt": "[00:32:19] Gopi Rangan: That's right. Yes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33391,
+      "timestamps": [
+        {
+          "offset": 33391,
+          "raw": "[00:32:19]",
+          "seconds": 1939
+        }
+      ]
+    },
+    {
+      "end": 33495,
+      "excerpt": "[00:32:20] Jessica Karr: Yes. Thank you, Jessica. Thank you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jessica Karr",
+      "start": 33435,
+      "timestamps": [
+        {
+          "offset": 33435,
+          "raw": "[00:32:20]",
+          "seconds": 1940
+        }
+      ]
+    },
+    {
+      "end": 33575,
+      "excerpt": "[00:32:25] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33497,
+      "timestamps": [
+        {
+          "offset": 33497,
+          "raw": "[00:32:25]",
+          "seconds": 1945
+        }
+      ]
+    },
+    {
+      "end": 33861,
+      "excerpt": "[00:32:27] I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33577,
+      "timestamps": [
+        {
+          "offset": 33577,
+          "raw": "[00:32:27]",
+          "seconds": 1947
+        }
+      ]
+    }
+  ],
+  "source_sha256": "fe734f506689164bd3987a0541c545c9bfecbba1c784739761d47ef1f39f859a",
+  "text_sha256": "582153703c9a65ba0b77669f485b8f8d3e6f65fdd3ec29d5c82ffca9b95f7140"
+}

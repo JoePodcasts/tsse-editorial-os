@@ -1,0 +1,13 @@
+# Rebuild this binary locally from preserved sources and catalogue metadata.
+/search/*.sqlite3
+# Operational evidence is persisted as the archive-sync-state Actions artifact.
+/sync-status.json
+/ingestion_state.json
+/reports/sync-run.json
+/reports/ingestion-latest.json
+# Rebuildable corpus, validation caches and compressed download.
+/derived/passages.jsonl
+/derived/search-documents.jsonl
+/exports/markdown-library.zip
+/reports/library-zip.json
+/reports/search-index.json

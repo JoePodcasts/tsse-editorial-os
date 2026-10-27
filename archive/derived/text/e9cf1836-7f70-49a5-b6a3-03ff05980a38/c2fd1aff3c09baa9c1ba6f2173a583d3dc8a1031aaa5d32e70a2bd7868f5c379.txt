@@ -1,0 +1,242 @@
+People were all about growth, growth, growth, growth, growth on demand apps. Right. And nobody was looking at the unit economics. I just remember going to a board meeting and asking, "wait, but the more we grow, the more money we lose. That doesn't make any sense." And while it was possible for some time to raise money on growth, it came to a point where the market changed and it wasn't possible to do that.
+
+[00:00:23] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. In this episode, Mar and I talk about her investment philosophy, how it is different from other venture capital investors.
+
+She starts with the story of her origin from Spain, how she came to Silicon Valley, and how she built Pear Ventures along with Pejman Nozad. Mar gives specific examples of startups that she invested in, starting with one of her first investments as a venture capital investor in Branch. And later she talks about DoorDash, one of the most successful startups that has come out of Silicon Valley.
+
+We also talk about story of a startup that didn't go well and what happened there. Mar gives us a description of her thought process and some of the struggles that she has as an investor when she is optimistic. That optimism can also fall into the trap of fear of missing out while chasing good opportunities and worrying about missing an opportunity that could eventually become huge.
+
+How does she manage all of this? Let's talk to Mar. Mar, welcome to The Sure Shot Entrepreneur. 
+
+[00:01:53] Mar Hershenson: I'm so excited to be here, Gopi. Thank you for inviting me. 
+
+[00:01:56] Gopi Rangan: Tell us about yourself starting with your origin from Spain and how did you come to Silicon Valley and how did you end up starting Pear Ventures? 
+
+[00:02:05] Mar Hershenson: Well, my name is Mar. I'm actually originally from Barcelona, Spain. I came to the US in 1995. I came to Stanford to get my master's in electrical engineering. I ended up liking it so much that I left with a PhD in circuit design. The year 1995, I think, uh, was a great time to land here because it was almost the beginning of the internet revolution.
+
+So I feel very privileged to come at such a time. I had a big decision to make as I was wrapping up my PhD, which was, do I go into academia or do I start a company based on the research that I had done as a PhD student. Because it was 1999, it was kind of a crazy time for those who remember, I decided to go the entrepreneurial route.
+
+That was probably the biggest decision in my life, at least professional life - deciding to actually go into entrepreneurship. So that really determined the next 15 years of my life. I started three companies, two in semiconductors and one in mobile E-commerce. My first company didn't work out.
+
+Actually, that was a great lesson for me. Happy to chat more about that and all the lessons learned, but it put me on the right track to do it right the next couple of times. After I had done this companies one of my investors, Tejman, had been bugging me for several years to go with him and start a venture fund.
+
+I reluctantly agreed at the end. I was very surprised that he even had approached me to join him in doing a venture fund because I had no idea about investing, but my partner, who's very smart, thought that we needed a complimentary team to make it work. He had a ton of investment experience.
+
+He didn't have operational experience. So we made a good match and that's how I got into venture in 2013 and we've been building Pear Ventures since then. We started with a small fund of $50 million and now we are in our third fund, which is $160 million and we've been privileged to work with incredible founders almost since day one.
+
+So I feel very lucky to have landed in this position. 
+
+[00:04:17] Gopi Rangan: This is a great story. You're all the way from Barcelona to here through Stanford, through a journey of entrepreneurship in three companies and then starting Pear. Eventually Tejman convinced you to join him. What do you like about Venture? Why Venture?
+
+[00:04:32] Mar Hershenson: I think venture, it really fits me very, very well in terms of the sort of things that I like to do as a person. We invest really early. So most of the companies we invest in are pre-product and pre-customer; what people call pre product/market fit. And while there are some venture people that like to get companies post product/market fit, we like them before product/market fit.
+
+It's a big challenge and I love challenges and figuring out how to make it work. And every company is slightly different. Right. So for me, I revel in those two.
+
+I don't like the details later, so it's perfect because I get to do that with several companies every year and I get really close to the founders, build really strong relationships. I feel like at a personal level, I have a much richer life as well. 
+
+[00:05:26] Gopi Rangan: I see that you go scary early. 
+
+[00:05:29] Mar Hershenson: Yes. 
+
+[00:05:30] Gopi Rangan: That's 
+
+very unusual indeed.
+
+I'm very curious. Now, there are lots of questions on my mind already, but I want to start with your choice to leave Stanford with a PhD and instead of going to academia, you chose to start a company. That's already quite adventurous. But now the kind of investments you make are quite far removed from electrical engineering and semiconductors and the EDA world where you came from.
+
+How is your background helpful? Or do you feel like sometimes the software companies that you invest in, if you had spent more time in that industry, it would have been more helpful. 
+
+Well, of course, knowledge is always good, but if you boil it down for a business, right, no matter whether you're selling chips or you're selling subscription software to a consumer or a service like DoorDash, no matter what, you're really selling something, a service or a product or software, and you're hoping that you can make money with it.
+
+Which means that you're selling it for more than it costs you to build it and to support it. Right? So I'm a very simple person in that regard. For me, the math has to work, right? And even early on when things obviously don't make a lot of sense and you're not making money on your first customer, I have to believe that there's a path to get there.
+
+With that principle, it's relatively easy to switch from whether you are a consumer company, a B2B, a B2B2C. It's always about, "am I going to be able to make money? Am I going to be able to scale it?" I try to communicate this to my founders because many founders are confused. They think that being a successful company is having a lot of users.
+
+That's not enough, right? Or getting a lot of press or raising a lot of money. And at the end, it's what is your potential for large profits in a business. And that's what I try to do with any of them. 
+
+Yeah, the foundation of those lessons are quite well rooted in the Silicon part of Silicon Valley. And I'm very fortunate to have spent some time in that industry and learned the basics of business from there.
+
+I'm always curious to understand when you talk about failure, the company that didn't really go well, what really happened? What were some things that you were expecting to see and what didn't happen the way you expected? 
+
+[00:07:48] Mar Hershenson: Well, it's so interesting. And this was one of the reasons that eventually I decided to start Pear.
+
+But in 1999, which is when I started, if you remember, the world was really different. We didn't have TechCrunch, the internet existed, but you didn't have a ton of blogs. If you typed 'how to raise money', you didn't have a million results, right? So it was a little more obscure. That's number one. Number two, it was understood that if you were a PhD student, just graduated, and I don't know if being a woman had an impact, but anyways, let's just say if you were a student, just graduated, never had a job, the understanding from the venture people is that you would get a CEO.
+
+That was the understanding, right? And I think with Andreessen coming into our industry, that perception has changed completely. The understanding now is that you should back somebody who has the potential of being a CEO, right? So I think for me, I didn't have that belief in myself or support around me to say, "okay, Mar, you can run the company."
+
+So then you kind of roll the dice because you have to go find the CEO. And I think that's a really hard thing to do. It's been documented nine out of 10 times. It's just. Really hard, right? For me, it's very important that I believe that everybody we invest in should be capable of running this company all the way through IPO.
+
+That's our fundamental belief. I think the founders that we back that are able to grow with a company and get there, they, consistently invest in themselves. They hire better people, they hire a coach for themselves. They're always reading, they're always getting better, right? So this really had a defining impact in how I do venture in my companies.
+
+I really, really want those founders to be ultimately really great CEOs. 
+
+[00:09:38] Gopi Rangan: How is Pear different from other venture capital firms? What's your philosophy? Can we also talk about the name? I find it really cute. 
+
+[00:09:45] Mar Hershenson: Well, my partner Pejman, a lot of it is rooted on both of us, right? I think when you have a small firm and you have two founders, I think you've been in companies.
+
+A lot of the culture and DNA of the company really comes from the two founders. So I will tell you about the name, but anyways, my background, you can see how it came in here. But Pejman had been an angel for many years and he has an incredible story where he was selling rugs at a rug store in University Avenue in Palo Alto. He realized that the people purchasing rugs were actual investors and founders, or he's like, I'm going to get into this business. He wasn't a founder or, you know, a VC, but he used these tremendous people skills to get into the business, right? And he's belief in people.
+
+So that's a big rooted belief into Pear. We believe really in the potential of people and we're willing to invest whatever it takes to make them successful. So I would say that's what sets us apart. And I think when you talk to people about Pear, they will bring a lot that human side of pear into the picture.
+
+The name I will tell you. When we started the firm, we were used to be called Pejman and Mar the firm. And we didn't have a name, but I said, listen, if Andreessen is Andreessen, we could be Pejman and Mar. So that's what we did. But eventually we decided that we wanted to build a firm that outlasted the two of us.
+
+So if you do that, you had to get your name out of the door. So we hired somebody to help us. It took us a year to find a name. A lot of people said that the two of us did a lot of things together. We were like a pair, and then, uh, you can call it Pear. And that's the first two letters of Pejman and my last two letters.
+
+So it sounds great. And it's a very well thought out name at the end of the day, even though it took us a long time to get there. 
+
+[00:11:34] Gopi Rangan: That's a clever word play there. 
+
+[00:11:36] Mar Hershenson: Yes. 
+
+[00:11:37] Gopi Rangan: How do you make investments? What are the kinds of companies that you look for? What stage do you invest in? What types of industries do you focus on?
+
+[00:11:45] Mar Hershenson: Yeah, there's a document on our website and it's been circulated in many places about how we evaluate companies. The Seed Landscape, I think is the title. We fundamentally have three stages at which we invest. One is for our accelerator. We run our, uh, an accelerator in the summer.
+
+Very fun. Those companies, they at the idea stage. They're really truly at zero, zero. The next place we invest is what we call a pre seed. And they [companies] may be a little more, not much more, but a little more. There may be a prototype or there may be, you know, they've done some customer discovery or something.
+
+And then we invest at seed. Say you've had a product out and maybe you have your first couple of customers, but you still haven't figured out your growth engine or how to scale. So those are the three places we invest. We prefer to lead the rounds because we'd really like to build those strong relationships with founders, but we're also follow in some occasions. We'll write checks that are for the accelerator as you know, small $150K, but the next, the seed rounds could be as large as $2 million coming in, or sometimes even larger. 
+
+[00:12:56] Gopi Rangan: This is very interesting. A lot of new venture capital firms have formed since the time you started Pear.
+
+Many firms focus on seed stage and series A stage. There's also now hundreds of new micro VC firms. So the, the whole industry has kind of grown a lot in the past, uh, five, six years, ever since you started. Can you give examples of one or two companies and show how the conversation evolves from the start?
+
+Like, how do you meet them? What do you look for? What questions do you ask them? 
+
+[00:13:26] Mar Hershenson: Yeah, for sure. I'll tell you about my first investment. Cause I think that's fun. And we can also talk about DoorDash if you'd like, cause I think that's obviously interesting. 
+
+I invested in a company called Branch. They do deep linking for mobile. I met them through Office Hours at Stanford. The founder came to me to pitch me his company, which was basically an app for printing photo albums. So you would like download this app, put some pictures, hit print, and they would mail you a little book with photos, right?
+
+He had built a great team around him. There were two other founders at the time. I told my partner, Pejman, "This is a great team. We really need to back them, whatever they're doing." So they came over and we wrote the first check, which was $50K. This is very, very small. They were still students. I was so like, impressed by the way they were talking about the business that they were building.
+
+And I remember Pejman saying, "well, this is not a big market." He was right. But I said, "it's not a big market, but these people are thinking big markets, so they're going to figure it out." So that's how early we will invest. Sometimes I say we invest at minus one. This company, Branch, they actually went through two pivots before they landed into the company that they are today. So first they moved from printing a photo album to building an API for printing. Then they realized that nobody was actually using the API because it was really hard to communicate from app to app. So they decided, "why don't we build something that helps apps talk between each other?
+
+Those were the deep links. And that's where they. truly found a big product market fit. So fast forward, the company's valued over a billion dollars and they've raised hundreds of millions of dollars. And it's an incredible story from the sense that when we invested, they weren't even working on what they said they would be, what they're doing right now.
+
+But it gives you a window as to how we do it. 
+
+Do you get nervous when companies pivot? 
+
+[00:15:27] Gopi Rangan: A hard pivot like this from one direction to the other? 
+
+[00:15:30] Mar Hershenson: It depends on the pivot. I think there's many types of pivots. If you are pivoting based on data and there's a reasoning behind it and it's not kind of a desperate move or a rushed move, then that's the right call. Why keep doing the thing that is not working?
+
+So that's a little bit of an art when to pivot and to pivot where, right? It's, it's not easy to figure it out. 
+
+[00:15:57] Gopi Rangan: If we can turn the clock back into the few meetings you had with the founders and they were ready to pivot or how was the situation?
+
+What was the mood like? 
+
+[00:16:07] Mar Hershenson: Well, this is the deal. I think at least Pear, and I believe most investors, once we invest, we are part of the team. We want the team to succeed. And I rather hear like the bad news early, because then we can make a plan B. If you hear the news too late, then it's hard to figure it out.
+
+So I know the founders may be really nervous or concerned to say, "Hey, it's not working." But that's just part of our business. If everything worked, every company would be a winner, right? That doesn't happen. So I think what founders have to realize is that we are used to things not working.
+
+And we are almost like doctors in that situation and therapists and saying, "okay, let's go figure it out." The first time that Branch pivoted, I think it was okay because they were like, " we were doing photo albums. And now we realized that if we really want to print, we should really have built this API and everybody will include it in all of their apps and then we'll print more stuff." It made sense and everybody was very positive. The second time, the founders came and when they all come, you're like, "something is wrong." And they said, "Oh, you can take your money back. We're pivoting to this. We really think it's the right way, but we can't give you any guarantees."
+
+My partner Pejman and I said, "no, we backed you. We're going to stick with it and we're going to help you out". And I think that's a very strong kind of believe at Pear that we, we made the call we are part of it. We're going to stick with it and we're going to do whatever we can. So I think they were a little more nervous, but it was okay from our side.
+
+[00:17:36] Gopi Rangan: How was the DoorDash and how was the story different from Branch? 
+
+[00:17:39] Mar Hershenson: Well, DoorDash, I think it's a great story because it tells you how my partner Pejman and I operate differently or complement each other. Pejman met Tony at YC before he presented. I was saving him a seat at the YC demo day. He came to me and said, "Mar, we have to fund this company.", I was like, "okay, what do they do?"
+
+He's like "Food delivery." I was like, "oh my God, delivery. What are you talking about? There's no tech in there. I come in from the semiconductor industry." Pejman was so insistent that I said, "okay, fine. I'll figure I'll dig in." So I basically went with my, with my iPad down University Avenue, trying to talk to every owner or manager that had DoorDash sign on their door and said, "Hey, you're using DoorDash. Why are you using DoorDash?" And everybody loved it. One of the people I talked to said, "Oh, well, this is like, like a FedEx for my, for my business. It's great." So a lot of people would tell me, "we love Tony." So it was a long day, but I was, I was at least positive.
+
+Then we went to visit Tony at their house that they had on Stanford Avenue, Tony and the founders. Tony was excellent at explaining why this was going to be a huge company. Obviously in retrospect, it seems really easy, but I just remember thinking, "wow, this guy knows A lot more than I will ever know."
+
+So I had to give it to Pejman and we decided to make an investment. I think that's how we do a lot of the investments together. 
+
+[00:19:05] Gopi Rangan: So it looks like Pejman had an immediate conviction on this business and he managed to convince you eventually. And yes, both of you came in quite early with DoorDash and it's become one of the best startups that came out of Silicon Valley.
+
+[00:19:19] Mar Hershenson: Yeah. So fortunate, I would say. 
+
+[00:19:22] Gopi Rangan: On average, how many companies do you invest in every year? 
+
+[00:19:27] Mar Hershenson: Every year, about 12 companies, without counting the accelerator. So in the accelerator, there's around 15 companies and they're smaller, but in the core portfolio, around 12. We have four partners in the investment team.
+
+So there's enough of us to take care of them. 
+
+[00:19:43] Gopi Rangan: So how is venture different for you now compared to how you started many years ago? 
+
+[00:19:49] Mar Hershenson: Well, it's like you said, I think the market has changed a lot. When we started, first of all, there was no pre seed. Pre seed didn't exist as a word.
+
+And Pejman and I had a word in our website for a long time. That was called soil. It said, "if you're before seed, which we call soil come see us." Now that has been baptized as pre seed, but that's how early we were. And it already felt late. There were about a hundred firms at the time in the seed category.
+
+Now they're at 800. It's a tremendous growth. I think it's definitely very competitive. I would say in that regard, there's a lot more people. There's also a lot more founders that want to start companies. It's definitely become more of a desirable career. I would say also that the value of tech in terms of public markets has grown dramatically in the last seven years.
+
+So that has had an impact dripping down all the way to seed. Even if you look right now, a lot of the stock market pool has been due to tech, right? It's almost like this bimodal effect where companies that are doing remote work or telehealth or anything where you need a computer, it has become more valuable, right?
+
+But if you're in a traditional business, you're at risk of going out of business. So we are in, in some perverse way, much more a beneficiary of COVID as an industry, and it's something that we're seeing at the seed level. The valuations are the highest I've seen in the last seven years, which is a little bit counterintuitive, but you can somehow explain it if you look at the macro that we're leaving in.
+
+[00:21:26] Gopi Rangan: That's true. Because of the pandemic, everybody's going digital at home, at offices, and there's more infrastructure needed for that. So technology companies have a huge advantage in this space. I'm curious to go back to the theme that you mentioned when Pejman made a very strong conviction immediately and you spent some time to form an opinion, research, get to know, use some data and then form your conviction.
+
+Is that the typical style between the two of you? Is it common or does the story flip where you form a conviction very quickly and Pejman takes some time? 
+
+[00:22:01] Mar Hershenson: Well, it's changed over time. Pejman had been an investor for a long time prior to Pear. He had been investing for 15 years. So I think when you've been investing for a while, good or bad, you have opinions, so have patterns which are not necessarily great when you're trying to find outliers.
+
+I found that I needed much more proof at the beginning and me as a person than I, I do now. I think I have much more intuition right now because I have many more hours with many more companies and I've seen thousands of companies. So, but at the beginning I would say, so I think that's good that there's kind of, you know, that's why building a partnership makes sense.
+
+I think if you have a partnership that works, people compliment each other, they challenge each other. It's a great partnership with Pejman in that regard. 
+
+[00:22:50] Gopi Rangan: So do entrepreneurs need to convince both of you or do they need to convince one of you and then you will convince the other person? How does it work?
+
+How does the dynamics work? 
+
+[00:22:59] Mar Hershenson: Both of us have to be convinced, but it may be that one of us needs a little nudging, right? But both of us eventually would have to be convinced similar to the DoorDash case. 
+
+[00:23:10] Gopi Rangan: Yeah. These decisions are, you know, you stick with it and these relationships are long time. 
+
+[00:23:15] Mar Hershenson: It's also interesting because I think obviously, venture is a game of super winners, so you really want to make sure you don't miss out on any great company.
+
+That's the most important thing, right? You will have companies that don't return any money. But if you say no to a company that eventually becomes a 10 billion company, that has a huge impact for your LPs. What's interesting. I think we are in a business where you really should be thinking about not what could go wrong, but what could go right It's a very different state of mind because that's not how we are wired as humans. So at least I wasn't wired that way. So my, my wiring has been changing. 
+
+[00:23:58] Gopi Rangan: That's true. Having spent some time in the venture capital industry, I see that the way, you know, truly good venture capital investors think and behave and how they live their life is very different from the rest of the world because of this style of thinking.
+
+It's a thread of optimism. Yes. The question is always about if things go right, how big can this be? And that's not how the rest of the world thinks. They always think, like, what are some things that pitfalls that we need to avoid so we don't lose. That's usually the style of thinking that's common in the rest of the world.
+
+In the venture world, it's very different. 
+
+[00:24:35] Mar Hershenson: And it's also different if you think about venture people. I'm sure you get asked this all the time. Can this be replicated somewhere else? I think the mentality of the Valley is that optimism can do, can put a rocket somewhere. And that's a very difficult mentality to replicate somewhere else, very difficult.
+
+So even if you have a company fundraising in other parts of the country, people, they tend to be more conservative in that sense. There's just different style. 
+
+[00:25:05] Gopi Rangan: Yeah, this style is not naturally found in other economies. No. But how do you prevent yourself from falling into the trap of FOMO, fear of missing out?
+
+Because every opportunity might look like a shiny object that you cannot let go of. It's understandable if there's a herd mentality or someone else gets excited, you get excited as well. Now you worry that, "oh, what if this is the next DoorDash or if this is the next Google?" How do you stop yourself from falling into that trap?
+
+[00:25:32] Mar Hershenson: I used to have more FOMO early on. Now my partner Pejman, early on when we started Pear, I would be like, really, I worked really hard. I couldn't lose a deal or miss a deal. So we worked so hard to try to get in wherever we thought we wanted to, or struggled to say no.
+
+Pejman told me, "Mar, companies are like buses, they keep coming. So if you miss one, there's another one." And I think he's right. Obviously you don't want to miss a lot of buses, so you won't make it home in time for dinner. But knowing that it is okay to miss one, it makes it a little easier.
+
+[00:26:08] Gopi Rangan: You just need to have the right amount of change to buy a ticket. That's right. When the bus arrives. Yes. Can you give an example of a company where, uh, things didn't really go that well after the investment and, uh, what happened? 
+
+[00:26:22] Mar Hershenson: One of my early companies that we did that was really, we were really excited was called Washio and they were the Uber for dry cleaning.
+
+They would have an app. You download it and you would say, I want my dry cleaning picked up or my laundry and somebody would come to your house within half an hour, get it and take it to a laundromat, then pick it up the next day and bring it back. The founders were great. They were hustlers. So before even we did an early investment, they became, I believe, Lyft drivers.
+
+And they built their own app. They weren't engineers. So it was really an exciting investment in that sense. But eventually the company didn't make it. I'll tell you why. The company never got to have profitable unit economics or they didn't get there early on. At the time, I mean, it's hard to remember all of this, but at the time, which was 2014, 2015, people were all about growth, growth, growth, growth, growth of this on, on demand apps.
+
+Nobody was looking at the unit economics. And I remember going to a board meeting and asking, "wait, but the more we grow, the more money we lose. That doesn't make any sense." And while it was possible for some time to raise money on growth, it came to a point where the market changed and it wasn't possible to do that.
+
+That was a big lesson for me moving forward, because I realized that no matter what, unless you have a positive unit economics or some sense that you can really achieve positive unit economics by changing something very quickly, it could be really hard at any time to raise money. It's a lesson that I learned really well.
+
+And it's the beneficiaries are everybody that's come after us in terms of not missing that point.. 
+
+[00:27:59] Gopi Rangan: Yeah, a lot of Silicon Valley is about growth at any cost. Yes. Probably not the right thing to do all the time.
+
+[00:28:07] Mar Hershenson: It's a magic and it's subtle because you really want to grow and you're raising venture capital to grow.
+
+But if you're growing with negative margins, you're in a really dangerous territory, right? You can do that as long as the CEO is a great fundraiser and the market is great. If either of those two fail, then you're in trouble. 
+
+[00:28:28] Gopi Rangan: Yes. So we're coming to the end of the conversation. I want to ask you about your community involvement.
+
+Is there a non profit organization that you are passionate about? And why? 
+
+[00:28:39] Mar Hershenson: Well, I've always been very passionate about education. A couple of months ago, I joined Harvey Mudd College as a trustee, and I feel so honored. It's an incredibly exciting opportunity. Maria Clawe, the president, has really transformed that school. We really care about diversity and inclusion. Percent female matches percent male, which I think is phenomenal for a primarily engineering school. And of course we still have a lot of work to do. There's a lot of inclusion, not just gender, but I'm excited to work with a team like that, that cares about it.
+
+So it's, I I'm super excited about the next few years trying to help that team make it even better. 
+
+[00:29:21] Gopi Rangan: This is great. I'm so happy that we had a chance to talk today. You covered a lot of territory from where you came from, your education, the startup journeys that you went through, and then starting Pear, you know, examples of successful stories like DoorDash and Branch, and also ones that didn't go that well, Washio.
+
+Thank you so much for sharing all your insights and knowledge. I'm looking forward to sharing this with the world. Thank you. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.
+
+Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.
+

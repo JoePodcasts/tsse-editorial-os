@@ -1,0 +1,561 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 264,
+      "excerpt": "Mike Smerklo: The entrepreneurial journey is so difficult. I wrote about it in the book, 'Mr. Monkey and Me'. You've got to have an unbelievable passion and commitment to whatever idea you're pitching. So part of my first thing is, can I talk you out of this idea?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 512,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 266,
+      "timestamps": []
+    },
+    {
+      "end": 1168,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host Gopi Rangan. I'm here with a new guest Mike Smerklo. He's the co-founder and managing director at Next Coast Ventures. Next Coast Ventures is an Austin, Texas-based venture capital and private equity firm. Mike is also the author of 'Mr. Monkey and Me', a real survivor guide for entrepreneurs, mainly targeting topics about mental health for founders. We're gonna talk about his investment focus, his philosophy of entrepreneurship and investments and how he got to where he is and what he can share with us that'll be helpful for founders to learn from. Mike, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 514,
+      "timestamps": []
+    },
+    {
+      "end": 1221,
+      "excerpt": "Mike Smerklo: Thanks, Gopi. It's great to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 1170,
+      "timestamps": []
+    },
+    {
+      "end": 1422,
+      "excerpt": "Gopi Rangan: Tell us about yourself, starting with where you're from. You grew up in Toledo, Ohio, and you spent many years in the Silicon Valley. Now you live in Austin for the past five, six years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1223,
+      "timestamps": []
+    },
+    {
+      "end": 1655,
+      "excerpt": "You started your career as an investment banker and you were an entrepreneur, very successful entrepreneur. Now you are an investor. Tell us a little more about that journey, how you got started and where you started your journey. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1424,
+      "timestamps": []
+    },
+    {
+      "end": 2212,
+      "excerpt": "Mike Smerklo: Yeah, well, it's great. I always joke when I moved to Silicon Valley, it was literally 180 degrees from Toledo Ohio. I grew up in Western part of United States, a very industrial town called Toledo and grew up in the bad part of the town. The joke of course, is there are good part. There's a few good parts, but I was definitely in the kind of mean streets, first roots of my family ever to go to college. Worked my way through college in odd jobs, from everything from refereeing sports games, to selling beer on Sundays at football games.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 1657,
+      "timestamps": []
+    },
+    {
+      "end": 2510,
+      "excerpt": "So I found my way out, which was a primary focus. I got very fortunate that was able to get educated. I got my degree in accounting. My first job was at Ernst & Young in Chicago, a job that I instantly hated, but realized it'd give me some key instruments to help build a foundation for business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2214,
+      "timestamps": []
+    },
+    {
+      "end": 2820,
+      "excerpt": "From there, I went to work in investment banking. Got lucky got into Lehman Brothers, when it existed, also realized that I didn't wanna work 120 hours a week staring at a spreadsheet, but did that, and then got educated at Northwestern Business School at Kellogg school and then moved out to Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2512,
+      "timestamps": []
+    },
+    {
+      "end": 3193,
+      "excerpt": "My quick journey. Then I came back and worked for Morgan Stanley, another investment bank. And this was in the.com boom, the kind of crazy time, which I believe you're familiar with, but a lot of the younger entres don't, but it was literally the wild wild west of the technology scene, more hardcore technology, but also really a little bit just of gun singer mentality.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2822,
+      "timestamps": []
+    },
+    {
+      "end": 3650,
+      "excerpt": "I got recruited by Mark Andreessen and Ben Horowitz to go work for them. They had just sold Netscape to AOL. They were looking for their next venture. I got interviewed, introduced to Mark and Mark said, \"Why don't you come and work for us!\". I made the bold jump into startup land. It was chaos, which we can talk about, but I worked for Mark and Ben and Tim Howes, and In Sik Rhee, the four co-founders for two years and saw that go from concept to IPO.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3195,
+      "timestamps": []
+    },
+    {
+      "end": 4017,
+      "excerpt": "Then I quit raised a small pool of capital via search fund and bought a business in downtown San Francisco called ServiceSource and ran it for 14 years. I raised capital from Benchmark, General Atlantic and took a public in 2011 and ran it for three and a half years, as public company CEO before I moved on and I moved to Austin and co-founded Next Coast Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3652,
+      "timestamps": []
+    },
+    {
+      "end": 4219,
+      "excerpt": "Gopi Rangan: So you were one of the first people that left Silicon Valley well before it became a trend. How do you compare your life in Silicon valley compared to how things are in Austin right now? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4019,
+      "timestamps": []
+    },
+    {
+      "end": 4804,
+      "excerpt": "Mike Smerklo: Yeah, it's great. I mean, it's interesting. You said that. Cause when I first got here, it was the first wave of Californians and there was a bumper sticker that said don't \"Californicate\" my Austin or something like that. The resistance was already there, but Austin, at the time, was going through an interesting transition. It kind of reminded me of Silicon Valley when I first got there in the late nineties where there was a professionalization starting to happen. It was moving from a town to a city and there were a decent amount of interesting things happening.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 4221,
+      "timestamps": []
+    },
+    {
+      "end": 5329,
+      "excerpt": "Now, Austin has changed so radically post pandemic that it is a super vibrant town. There's a tremendous amount of talent. It's a really enjoyable place to live. But I also am quick to point out that I still hold the valley near dear to my heart - strong network there, great group of friends. The Valley's just different. The pace, the scale, the expectations, and the dreams and vision tend to be bigger. There's more capital in terms of the venture capital scene. They're very different, but I equally enjoy both cities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4806,
+      "timestamps": []
+    },
+    {
+      "end": 5608,
+      "excerpt": "Gopi Rangan: I'm curious. You were an investment banker and you analyzed markets. You developed teams and you observed how trends evolve. And then when you became an entrepreneur, you turned around a company, took the company to IPO and raised a lot of venture capital funding.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5331,
+      "timestamps": []
+    },
+    {
+      "end": 5910,
+      "excerpt": "How does your experience fundraising in the market in general? How easy was it or how difficult was it when you did that, compared to how the market is today? Overall, are some things easier, are some things more difficult? How do you compare your time as an entrepreneur versus entrepreneurs today? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5610,
+      "timestamps": []
+    },
+    {
+      "end": 6439,
+      "excerpt": "Mike Smerklo: Generally speaking, and this is great for entrepreneurs, is the breadth and depth of capital that's available to an entrepreneur and the resources to help them access it have never been greater. Doesn't mean it's easier, but I would say if you think about angel list syndicates to seed funds, all sorts of firms, there's never been more venture capital, more segmentation of that capital and more information around how they make decisions or what they're interested in. All that's really great for entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 5912,
+      "timestamps": []
+    },
+    {
+      "end": 6710,
+      "excerpt": "Relatively speaking, when part of the early team at LoudCloud, I helped raise the first rounds of capital with Mark and Ben. There was a club mentality. You were either in it or you weren't, and there was not a lot of understanding how you got in or I got access to it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6441,
+      "timestamps": []
+    },
+    {
+      "end": 7037,
+      "excerpt": "But now I would say an entrepreneur who spends a little bit of time can find very quickly the number firms are out there, what they're looking for, et cetera, et cetera. Then the question is, how do you take advantage of that? But I would just say it's so radically different asset class venture than it was 10, 15 years ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6712,
+      "timestamps": []
+    },
+    {
+      "end": 7687,
+      "excerpt": "Gopi Rangan: Yeah, there's much more information available. There are many more VCs in the market, which is easier for founders to raise money. But despite the fact that the companies, the start a company and launch a company, grow a company is cheaper. Now there's the silos still exist. It's still: you need to know people. You need to have a network and navigate that network to get to the right people and say the right things to be able to efficiently raise money. I hope that changes and we can now welcome more diverse entrepreneurs into the ecosystem. I wanna talk about your book before we jump into more details about Next Coast Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7039,
+      "timestamps": []
+    },
+    {
+      "end": 7836,
+      "excerpt": "You wrote a book, 'Mr. Monkey and Me', a very interesting title. Can you tell us about what the book is about? What do you talk about in the book? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7689,
+      "timestamps": []
+    },
+    {
+      "end": 8027,
+      "excerpt": "Mike Smerklo: I wrote the book. It's like starting a company. If you knew how hard it was gonna be, you wouldn't do it again. But I wrote the book largely because [a] I enjoyed writing. [b]",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 7838,
+      "timestamps": []
+    },
+    {
+      "end": 9574,
+      "excerpt": "I was drawn into the creative process, but [c] most importantly, I became frustrated with content that was available to help entrepreneurs. What I've found is that it generally, I think it still does today, fall in the two bucket. There's the one bucket, the practical guide to getting a term sheet, how to build a business plan, etc... very important content, but dry and road, if you will. And then the other, which I still think dominates a lot of the fantasy land of entrepreneurship, you know, putting the Inc Magazine or what have you, the '10 things that Elon must does before breakfast', which is highly irrelevant to 99.9% of the entrepreneurs out there, but that's what you read. And I characterize that type of content as it's like, when you're hungry and you eat some junk food, you eat it and it satiates you for a few minutes, but you still end up being hungry and dissatisfied. So what I wanted to do was provide some information about the mental aspect of entrepreneurship, because I looked at my experience working with Mark and Ben, my own experience taking a small company all the way through IPO, and now at Next Coast investing in over 70 different companies, I begin to see more and more patterns emerge, which is the idea is really important. But at the end of the day, who wins between Uber and Lyft. Who wins between Starbucks and coffee shops that are out there. Using older examples, but in every day, there's no one market where there's only one or two players. Well, maybe Google. There's very few examples of that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8029,
+      "timestamps": []
+    },
+    {
+      "end": 10264,
+      "excerpt": "It ends up being the mental toughness and tenacity of the entrepreneur tends to make the difference. I didn't see content that was around that. And I was completely obsessed with it, so I started looking at my own experiences, looking at mentors that had helped me and then also interviewed at least 20 different entrepreneurs that were much, much more successful than me. And I said, \"Tell me what you would attribute your success to on the mental side.\" And from there, I was able to bring that to life in the book and a very relevant formula called the SHAPE formula, which tries to provide a framework for entrepreneurs that they can start to learn and embrace, develop these skills. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9576,
+      "timestamps": []
+    },
+    {
+      "end": 10809,
+      "excerpt": "Gopi Rangan: When we think about business, we talk about revenue models, business plan, resources, managing organizations, building a team, recruiting market size, unit economics, strategy - all those type of business stuff. But what really happens is in your head. That determines success or failure. How you manage yourself matters a lot. The journey of an entrepreneur goes through high highs and low lows. What was most challenging for you? Do we see glimpses of that in your book? Do you talk about specific examples from your experience?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10266,
+      "timestamps": []
+    },
+    {
+      "end": 11216,
+      "excerpt": "Mike Smerklo: Well, it ties into the title and I wanna be clear about my goal. I told the publisher, \"I refuse to write a boring business book.\" I always tell people, if you wanna go read a great book about entrepreneurship, go read Shoe Dog by Phil Knight, who took Nike over 40 years and built it into a behemoth. There're great entrepreneurial studies and books that are much more impressive than mine.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 10811,
+      "timestamps": []
+    },
+    {
+      "end": 11543,
+      "excerpt": "What I wanted to do was make people laugh, or at least cringe, tell some stories and try to bring something relevant to help current and future entrepreneurs. So to answer your question, I looked at my own experience and my greatest barrier probably still today was a voice inside my head telling me I couldn't be successful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11218,
+      "timestamps": []
+    },
+    {
+      "end": 11841,
+      "excerpt": "I wouldn't be successful. I was making bad decisions, kind of that naysayer voice that I think is everyone. I looked at that and said, okay, the best way for me to conquer that was to personify it. So, I made it into a big like Silverback gorilla, Mr. Monkey. Mr. Monkey is the star of the book. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11545,
+      "timestamps": []
+    },
+    {
+      "end": 12330,
+      "excerpt": "I talk about the journey that I have been on and continue to try and use those voices in my head, how to start to turn them around, to recognize what they are, use them to my advantage, and that led to the SHAPE formula, and that led to the title of the book. But yeah, my biggest thing has been imposter syndrome, overcoming uncertainty and actually showing up not as I wanted to as a leader at times, because I let this negative voice get in the way of what I was trying to accomplish.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11843,
+      "timestamps": []
+    },
+    {
+      "end": 12448,
+      "excerpt": "Gopi Rangan: Yeah. Sometimes Mr. Monkey gets too loud and dominating and we have to learn to manage it and tame it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12332,
+      "timestamps": []
+    },
+    {
+      "end": 13438,
+      "excerpt": "Mike Smerklo: Yeah, even now is venture capitalist, I thought the voice would go away. I was quite convinced early on in my life that a certain level of financial success or professional success or experience in life would quiet the voice. The voice is quite adept in my mind, and he changes his intonations and his messaging. So, part of the life journey is how do you start to recognize what it is because I find a lot of entrepreneurs either have the risk of not starting, which is a real risk; starting with false expectations: \"Oh, this is gonna be fun.\" No, it's gonna be tough. Or how many times do we see and there's been, or, you know, go on Netflix and you see, We Crash, you see Super Pumped, there are numerous examples, but three really relevant examples of entrepreneurs that lost their way and let the success get in the way of making some appropriate decisions. So it's not just about getting going with it, but when you are on the journey, how do you stay fully healthy? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 12450,
+      "timestamps": []
+    },
+    {
+      "end": 13645,
+      "excerpt": "Gopi Rangan: Yeah, staying mentally agile is quite challenging. I don't really think imposter syndrome ever goes away. As an investor, I want to invest in founders who are incredibly way smarter than I am.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13440,
+      "timestamps": []
+    },
+    {
+      "end": 14078,
+      "excerpt": "So when I walk into the room, it always feels like, \"wow, do I deserve a spot in this room?\" I feel extremely lucky and that's how it should be. I should be investing in amazing founders. If I'm only investing in people who are worse than me, that's not a good thing as an investor. So I always have this imposter syndrome that, \"wow, I don't think I deserve to be here, but I'm delighted and honored that I have this opportunity.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13647,
+      "timestamps": []
+    },
+    {
+      "end": 14229,
+      "excerpt": "That brings us to the topic of investments. Let's talk about Next Coast Ventures. What is Next Coast Ventures? How is it different from other firms? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14080,
+      "timestamps": []
+    },
+    {
+      "end": 14679,
+      "excerpt": "Mike Smerklo: Yeah. So Next Coast Ventures is primarily investing in the old language of Series A, Series B companies. Our last fund was a $200 million early-stage fund and a $50 million opportunity fund. We look for businesses that usually have some product-market-fit. They're generating some level of revenue, not always, but mostly, and are looking for operational help looking to write check size on average between $5 million and $15 million.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 14231,
+      "timestamps": []
+    },
+    {
+      "end": 15088,
+      "excerpt": "How are we different? I'll tell you little more of our criteria. We take a thematic approach, but we are very quick to opt out of things that have massive capital intensity, or are kind of Silicon Valley prime, which you probably see every day in your life. We're not looking for the \"I'm raising a $100 million series A and I have to be worth a billion dollars for this to work. That's just not our focus. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14681,
+      "timestamps": []
+    },
+    {
+      "end": 15815,
+      "excerpt": "In terms of differentiation, if there is such a thing in the highly competitive world of venture capital, everyone who sits around the table has been an operator. All the partners here have run businesses at scale. We've made MIS payroll. We've laid awake at three in the morning, trying to figure out what we are gonna do with our lives or save our business. And we've had to go through the painful things that are, a lot of companies are experiencing now layoffs or cost cutting. So, we try to bring that advice and insight to the companies we work with and try and walk that thin line between experiential advice and trying to tell you what to do, which I think is probably one of the hardest part of being a board member.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15090,
+      "timestamps": []
+    },
+    {
+      "end": 16522,
+      "excerpt": "Gopi Rangan: I see the play in the words Next Coast Ventures. And you're in Austin. There's no coast there, but you're building the next east coast west coast, and there's a new coast here. What most people say most investors say is they invest in people and some investors are bold and I would say more honest. And they say that they invest in markets like Don Valentine said \"give me a big market andI can find everything else for you.\" Some others say there's a combination of different things. They like ideas and products. You say \"we invests in teams.\" What does that mean? And you have a lot of interesting themes, future of work, education technology software 3.0 and a few other topics like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15817,
+      "timestamps": []
+    },
+    {
+      "end": 16644,
+      "excerpt": "Feel free to give some examples of investments you've made. What's the best way to describe your investment philosophy. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16524,
+      "timestamps": []
+    },
+    {
+      "end": 17356,
+      "excerpt": "Mike Smerklo: We start with themes and they're all on our website. We start with that and twice a year we get the whole firm together and our advisory network and say, \"where do we think there's pockets of innovation, which is candidly kinda easy right now. There are so many great ideas out there, but then we break that down and say of those ideas, those themes, where do we think we could actually play? So the example would be, from six months ago, clearly electric vehicles will continue to be at force for disruption. But given the capital intensity and the nature of those businesses, it's not gonna be great for $200 million funds. We take these wide range of themes and we come down to seven or eight.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 16646,
+      "timestamps": []
+    },
+    {
+      "end": 18007,
+      "excerpt": "We publish them, we write up one pages on them and we do that for two reasons. One, to help clarify in our own mind what we're looking for and have an educated mind when we meet entrepreneurs. But secondly, and I think most importantly, to show entrepreneurs like, \"listen, if you're outside of these themes, don't waste your time with us.\" I'm passionate about entrepreneurship. I wanna be as helpful as I can. So, I don't want you to come in and tell me about your medical device company when it's something we know nothing about. That's a waste of time for both of us. We start with the themes then we break that down and we really go to markets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17358,
+      "timestamps": []
+    },
+    {
+      "end": 18327,
+      "excerpt": "And I like Valentine's suggestion. It might have been Bruce Dunlevie from Benchmark who used to always say, \" when a bad market meets good management team, the market comes out with its reputation intact, which is a long handed way to say 'a great entrepreneur going after a bad market, it's not gonna work typically. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18009,
+      "timestamps": []
+    },
+    {
+      "end": 18570,
+      "excerpt": "We go from theme to market and then it really does come down to whether or not we think the entrepreneur is what we call a 'glass eater'. Does this person have the attributes to go through all the ups and downs go with being an entrepreneur?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18329,
+      "timestamps": []
+    },
+    {
+      "end": 19094,
+      "excerpt": "I'll give you a real world example. Six years ago, I was focused on what I called healthcare hacking at the time. Kinda non-sexy term, but it was really about when a lot of different information was becoming available to the consumer, and this was starting to think Prew, but, you know, starting get the apple watch, starting to get things that you could test and maybe a fit that would by at the time, Tim Ferris and other podcasters were talking about intermittent fasting and different ways to check your glucose level.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18572,
+      "timestamps": []
+    },
+    {
+      "end": 19412,
+      "excerpt": "So there's all these kind of information where I saw consumers starting to get ideas around how they could have a little more control of their healthcare. And I'm not a healthcare investor at all, far from it, but we took that theme. We started to make outbound calls. We looked into a bunch of supplement companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19096,
+      "timestamps": []
+    },
+    {
+      "end": 19947,
+      "excerpt": "We looked at some testing companies and through that work and serendipity met an amazing founder named Julia Cheek. She had just started a business in Austin. It was focused on direct consumer lab testing. It's called Everlywell, and really had complete passion to disrupt an industry that was dominated by a couple of monopolistic companies that had all of their financial incentives based on payer provider, meaning insurance pay LabCorp and quest, and she saw massive opportunity to change the, what consumers did testing at home.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19414,
+      "timestamps": []
+    },
+    {
+      "end": 20437,
+      "excerpt": "Now, that was not only a great investment, but then you throw in COVID. They were the first to have an FDA approved at home COVID test. So there was a lot of tailwinds behind it. But that business we invested in super early and now is several hundred million dollar multi unicorn, but a really good example of how we start with a theme. We do our work. And then if in those magic moments, you find a great, amazing entrepreneur, you just go, \"yeah, this is something I wanna be part of.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19949,
+      "timestamps": []
+    },
+    {
+      "end": 20683,
+      "excerpt": "Gopi Rangan: This is very interesting. You're using specific examples from your own investments in the past. What happens in that first meeting? What questions do you ask the founders? What are you looking for in the first one or two meetings? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20439,
+      "timestamps": []
+    },
+    {
+      "end": 20900,
+      "excerpt": "Mike Smerklo: We're all colored by our experiences. I tell a story of how I used to pitch investors. I'll tell you that in a sec, but what I'm looking for is I do believe the entrepreneurial journey is so difficult.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 20685,
+      "timestamps": []
+    },
+    {
+      "end": 22239,
+      "excerpt": "It's something I wrote about in the book, 'Mr. Monkey and Me'. You gotta have an unbelievable passion and commitment to whatever idea you're pitching. Part of my first thing is, can I talk you out of this idea? I'm not looking for bravado. I'm looking for, have you done your work? Have you thought about what it's gonna take to build this business and are you passionate about? Secondarily, I'm looking for the entrepreneur that can't imagine the world without their product or service existing, but at the same time can also take feedback. That dichotomy might be the hardest thing for an entrepreneur to do but when you see it, you're like, \"oh my goodness! This person is absolutely gonna build this. It is gonna come to life.\" They know what they need to do, but when I'm giving them or they're getting feedback or questions, they're not coming at it with ,you know, \"don't gimme any feedback.\" So that balance is really interesting. Then, the last thing I'm passionate about is: how are you thinking about your customer experience? Is this something that people really want? How are you gonna convey that value whether it B2B or D2C? And is it something that can really show repeatable value to the consumer, whether it again, be in the business setting or the consumer setting. I think that's gotten lost in the last couple years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20902,
+      "timestamps": []
+    },
+    {
+      "end": 22577,
+      "excerpt": "Gopi Rangan: How long does it take for you to go from that first meeting where you ask these questions to understand their passion, but also at the same time, you're looking to see if they take feedback? These are great initial discussions, but when do you say, \"well, I'm ready now. I want to invest.\" How long does that process take? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22241,
+      "timestamps": []
+    },
+    {
+      "end": 22912,
+      "excerpt": "Mike Smerklo: We joke with entrepreneurs and say \"we're gonna be the fastest no you've ever received.\" We are constantly challenging ourselves to say, if we're not serious, let the entrepreneur go focus on something else. I don't think there's enough of that in the industry. I think there's way too many tire kicking, whatever else.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 22579,
+      "timestamps": []
+    },
+    {
+      "end": 23540,
+      "excerpt": "Usually, in the first meeting, we're looking for these key attributes and if we're interested, we're using a second meeting to focus on understanding the product, which matters. From there, we'll move very quickly. I would say on the average, excluding the lawyer documents, our average time it is usually a couple of weeks. What we're doing in that time is much more focusing on the market, using our expert network to see where we could be missing things, trends. All of that is typically where we're spending our time. But I would say on average, it's, you know, from first meeting to funding, it's probably 30 to 45 days. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22914,
+      "timestamps": []
+    },
+    {
+      "end": 24005,
+      "excerpt": "Gopi Rangan: What can entrepreneurs do to make that process efficient? How can they prepare? What's your advice to them before they come to meet you? There are standard things like have your due diligence folders ready, have forecast analysis, have detailed explanations for your market sizing and all those kind of things. But in addition to these standard normal things, are there a few things entrepreneurs can do to make this process efficient for themselves?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23542,
+      "timestamps": []
+    },
+    {
+      "end": 24430,
+      "excerpt": "Mike Smerklo: Yeah. Well, the two things I would say, and I love your show because it's providing real practical advice. The first thing that entrepreneur has to understand is that it is a numbers game. You will meet with a lot of investors. You'll hear no a lot and you have to understand that going in. The reason for the no is I think having a sheet, if I was an entrepreneur and I'd say, okay, why did this firm say no?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 24007,
+      "timestamps": []
+    },
+    {
+      "end": 25165,
+      "excerpt": "Was it because of, they don't have capital? Do some work. Maybe they're out of capital. Maybe the partner you're talking to isn't that powerful, which also isn't obvious when you're first doing this. There are power structures within venture capital firms. There are also firms that don't have new capital or they're raising a fund, so they may not be active or maybe the partner had a bad day. Those are all things that actually really do impact decision making, unfortunately, or fortunately. So do your research on that side. But then also look for really good practical feedback. If you've heard no seven times and the same reasons coming up, then address that concern up front and determine whether or not you're overlooking it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24432,
+      "timestamps": []
+    },
+    {
+      "end": 25985,
+      "excerpt": "When I ran my company ServiceSource, we had an enterprise sales motion. When we were going to meet with a potential customer, we would look at his or her LinkedIn. How long had they been there? What other information could we glean? I'm talking about trying to understand what motivates them they're buying and what their history is. You can do that very easily, like you would for a sales call. So, treat it like a sales call. Do your work upfront. Do you work on the firm? Look for relevant investments they've made big, big opportunities. Please go try and find someone who knows me to connect. If you can get an in network dramatically different than coming in cold or semi cold. In all those things, a little bit of work upfront can make a massive difference in the process both from efficiency and effectiveness.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25167,
+      "timestamps": []
+    },
+    {
+      "end": 26414,
+      "excerpt": "Gopi Rangan: Yeah, doing some homework to proactively address topics of concern and doing homework on the investors to see who they are, you know, what is their sweet spot, specialty or focus. These are helpful both for the conversation. It also saves a lot of time for the entrepreneur. They don't waste time talking to investors that are not a good fit. I'm glad you mentioned that. What's your most common reason to say no. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25987,
+      "timestamps": []
+    },
+    {
+      "end": 26712,
+      "excerpt": "Mike Smerklo: Well, the unfortunate part of this business, it's my own dichotomy that I'm passionate about entrepreneurship, but I say no 99% of the time, which I'm sure you can understand. Let me break it down. First flush of no is usually because of either market size or lack of understanding.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 26416,
+      "timestamps": []
+    },
+    {
+      "end": 27385,
+      "excerpt": "I mean, there's stage, but you know, we try to be upfront about that, but usually it's like, Hey, I don't know anything about this. And I don't know how I could get smart about. I just gotta be careful about because you could miss some real innovation there. But generally speaking it's like, if you're coming in again, talking about medical devices, I don't know anything about it. It's not a good fit and or market size. I do believe I love entrepreneurship. I don't think everything should be venture funded. I think there's a lot of great businesses that don't need venture capital and shouldn't attract it because the market size isn't big. It's my personal opinion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26714,
+      "timestamps": []
+    },
+    {
+      "end": 27704,
+      "excerpt": "On the secondary part, so once you pass those screens, usually we're saying no, or 99% of our discussion internally is the entrepreneur. Is she being thoughtful about the business? And do we believe that there's no way she's not gonna let this thing come to to reality? That's usually what the bulk of our debate is. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27387,
+      "timestamps": []
+    },
+    {
+      "end": 27987,
+      "excerpt": "Gopi Rangan: Mike, I wish we could spend a lot more time on this. We're coming to the end of our discussion and I wanna switch to the last part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27706,
+      "timestamps": []
+    },
+    {
+      "end": 28343,
+      "excerpt": "Mike Smerklo: Well, the book I wrote, all the proceeds go to charity. I set up a scholarship for diverse and underrepresented students interested in entrepreneurship. I'm plowing a decent amount of money into that because I was lucky to get educated and that allowed me to go on and have a meaningful career. I believe the world needs more entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 27989,
+      "timestamps": []
+    },
+    {
+      "end": 28658,
+      "excerpt": "We need more diversity in entrepreneurship and we need more mentally strong and healthy entrepreneurs. Anyone who buys the book, 'Mr. Monkey and Me' it's on Amazon. My website is mikesmerklo.com my firm is Next Coast Ventures. But note that all, every dollar of the revenue generated goes to fund the scholarship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28345,
+      "timestamps": []
+    },
+    {
+      "end": 29064,
+      "excerpt": "Gopi Rangan: The world definitely needs more entrepreneurs and more healthy entrepreneurs. I'm glad that you wrote the book and thanks for sharing your experiences with me today. You've shared a lot of insights, a lot of specific examples from your investments and from your own journey as an entrepreneur. Thank you very much for sharing your nuggets of wisdom. I look forward to sharing them with the. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28660,
+      "timestamps": []
+    },
+    {
+      "end": 29288,
+      "excerpt": "Mike Smerklo: Thank you, Gopi. It's been wonderful. I love what you're doing. And likewise, really hats off for you for helping entrepreneurs get that critical fundraising and continue to build their dreams. So thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mike Smerklo",
+      "start": 29066,
+      "timestamps": []
+    },
+    {
+      "end": 29616,
+      "excerpt": "Gopi Rangan: You're welcome. Thank you very much. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29290,
+      "timestamps": []
+    },
+    {
+      "end": 29669,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29618,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "9d3f4dedbe5d94a311a7e5f2f0e52d595c99c31336bc2242e09acb6418f10336",
+  "text_sha256": "f5d288f4822f3821234037b8b8ab639e39cdea157f568de38db18506892cb82c"
+}

@@ -1,0 +1,885 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 493,
+      "excerpt": "[00:00:00] Maryam Haque: I think I'm just kind of realistic right about how the math is gonna make sense here because there's been a lack of liquidity. Like that's, you know, no surprise for anyone in the industry. And if you kind of think about how capital gets recycled back, you know, if LPs aren't seeing cash distributed to them, that's press putting a lot of pressure sort of downstream on new fund managers even, you know, existing fund managers that are coming back to market to raise.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 0,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 752,
+      "excerpt": "[00:00:32] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 495,
+      "timestamps": [
+        {
+          "offset": 495,
+          "raw": "[00:00:32]",
+          "seconds": 32
+        }
+      ]
+    },
+    {
+      "end": 1322,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. Today I have a very special guest, someone who's different from the regular guests that I host at this podcast. We have Maryam Haque. Haque is the founding executive director of Venture Forward. Venture Forward is a nonprofit organization with the mission to democratize access to venture capital. It is right in the middle of the innovation economy. Why is this an important organization? What role does it play in creating opportunities for venture firms to invest more in entrepreneurial endeavors?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 754,
+      "timestamps": []
+    },
+    {
+      "end": 1670,
+      "excerpt": "We're gonna talk about that. They've played a significant role and the organization is five years old now and Maryam has been a powerful leader in the community and has the work has created substantial impact in the ecosystem, mainly on the emerging manager side. We're gonna learn more about Venture Forward and why this initiative is important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1324,
+      "timestamps": []
+    },
+    {
+      "end": 1719,
+      "excerpt": "Miriam, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1672,
+      "timestamps": []
+    },
+    {
+      "end": 1778,
+      "excerpt": "[00:01:55] Maryam Haque: Thanks Gopi. So glad to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 1721,
+      "timestamps": [
+        {
+          "offset": 1721,
+          "raw": "[00:01:55]",
+          "seconds": 115
+        }
+      ]
+    },
+    {
+      "end": 2056,
+      "excerpt": "[00:01:57] Gopi Rangan: I'm very excited to talk to you. I want to dig into a lot of questions related to venture capital, but before we do all of that, I wanna learn a little more about you. You grew up in Mississippi, and now you live in the middle of venture capital world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1780,
+      "timestamps": [
+        {
+          "offset": 1780,
+          "raw": "[00:01:57]",
+          "seconds": 117
+        }
+      ]
+    },
+    {
+      "end": 2140,
+      "excerpt": "How did that happen? How did that transition happen all the way from Mississippi? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2058,
+      "timestamps": []
+    },
+    {
+      "end": 2384,
+      "excerpt": "[00:02:15] Maryam Haque: I mean it it's funny to look back and think about it because I would imagine most people who hear me can't tell by the accent that I spent the first 18 years of my life in Mississippi in a small town called Vicksburg.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 2142,
+      "timestamps": [
+        {
+          "offset": 2142,
+          "raw": "[00:02:15]",
+          "seconds": 135
+        }
+      ]
+    },
+    {
+      "end": 2939,
+      "excerpt": "And I think everyone is a sort of product of where they grew up. I'm no different. And I definitely cherish that experience. I learned a lot from growing up in an area that felt very different than when I speak to people now just in terms of friends and colleagues about where they grew up. And I think that's shaped me for the better. I learned a lot about education in terms of, it was a really important thing within our family and had this great opportunity to go to a public boarding school in the state of Mississippi for math and science. school.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2386,
+      "timestamps": []
+    },
+    {
+      "end": 3393,
+      "excerpt": "And it opened my world to then actually going to Pittsburgh, Pennsylvania, where I went to Carnegie Mellon. I learned a lot more about the world of entrepreneurship, but I still wasn't fully aware of like the world of venture capital. And I had this opportunity after that to move out to San Francisco. The first thing I did was land a really cool role at Dow Jones Venture Source, which for folks who have been in the industry for a while that was... ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2941,
+      "timestamps": []
+    },
+    {
+      "end": 3469,
+      "excerpt": "[00:03:26] Gopi Rangan: i've used it. I used it regularly for many years. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3395,
+      "timestamps": [
+        {
+          "offset": 3395,
+          "raw": "[00:03:26]",
+          "seconds": 206
+        }
+      ]
+    },
+    {
+      "end": 3956,
+      "excerpt": "[00:03:28] Maryam Haque: That's great to hear. It was a great platform. It was the pitch book of the time and that's how I got thrown into the world of venture capital really from the research side of understanding more about deals, transactions, the people in the industry. Just trying to collect data on a very opaque asset class, I think, was a cool challenge. But yeah, from Mississippi to San Francisco, it's been a fun journey. I've been in San Francisco, now for about 18 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 3471,
+      "timestamps": [
+        {
+          "offset": 3471,
+          "raw": "[00:03:28]",
+          "seconds": 208
+        }
+      ]
+    },
+    {
+      "end": 4302,
+      "excerpt": "[00:03:55] Gopi Rangan: Fantastic. And you spend many years at NVCA (National Venture Capital Association), one of the strongest organizations that supports this industry. And after spending many years, you've decided, Hey, there's an opportunity to create a new initiative called Venture Forward. I want to hear more about the genesis of that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3958,
+      "timestamps": [
+        {
+          "offset": 3958,
+          "raw": "[00:03:55]",
+          "seconds": 235
+        }
+      ]
+    },
+    {
+      "end": 4376,
+      "excerpt": "Like how did that happen? What was the reason to start Venture Forward? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4304,
+      "timestamps": []
+    },
+    {
+      "end": 4762,
+      "excerpt": "[00:04:18] Maryam Haque: I would love to take all the credit for this, but I will not, because there are definitely people before I joined NVCA who had been thinking about this, and it was really the NVCA board at the time. It was like Scott Sendel at NEA, Jason Green at Emergence, and then Bobby Franklin, who at the time, you know, 10, 12 years ago was still new into the CEO role.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 4378,
+      "timestamps": [
+        {
+          "offset": 4378,
+          "raw": "[00:04:18]",
+          "seconds": 258
+        }
+      ]
+    },
+    {
+      "end": 5110,
+      "excerpt": "They had this idea of creating 501C3 under NVCA. So NVCA as everyone knows, is primarily focused on public policy and advocacy. It's been around since the seventies. That's its bread and butter. But there was this idea of creating another entity within NVCA that supported the industry that really helped to give back to help the next generation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4764,
+      "timestamps": []
+    },
+    {
+      "end": 6162,
+      "excerpt": "It was also at a time when NVCA had created what was called then the Diversity Task Force. And there was like a real recognition, rightfully so from the NBCA board that despite how impactful, how much wealth venture and venture ecosystem is created and how much innovation has come out of this ecosystem over a short period of time. It has been concentrated in a few demographics, a few geographies, and the real reckoning was that, that's a challenge and that's something that we should be looking at closely as to like, why are we not untapping more of that innovation? But then also understanding like what are those barriers for maybe people from non-traditional backgrounds, like me from someone from Mississippi or someone who maybe didn't go to a few universities and just weren't from some of these smaller networks that had tentacles in the industry. So that was really the start of this. I joined NVCA in 2015. Some of this was already happening, and I got the very cool opportunity to pick up where they were with this project at the time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5112,
+      "timestamps": []
+    },
+    {
+      "end": 6641,
+      "excerpt": "We talked to a lot of people in the industry, wanted to figure out like, what is the role we should play doing something like this, how do we fund it? What's the governance? Just a lot of like the tactical, technical aspects to getting this up and running. The coolest thing about this is it has felt like there's so many leaders in the industry who have been passionate about this and like with their momentum, I think is what has helped get it going and to where it is today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6164,
+      "timestamps": []
+    },
+    {
+      "end": 6741,
+      "excerpt": "So we publicly launched in 2020, but I would say like the roots of this trace back 10 plus years. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6643,
+      "timestamps": []
+    },
+    {
+      "end": 7008,
+      "excerpt": "[00:06:38] Gopi Rangan: Very nice to see that the venture industry is very important chalking hold in the flow of money, capital formation for venture funds, and eventually that capital going into the hands of entrepreneurs who create a lot of innovative solutions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6743,
+      "timestamps": [
+        {
+          "offset": 6743,
+          "raw": "[00:06:38]",
+          "seconds": 398
+        }
+      ]
+    },
+    {
+      "end": 7347,
+      "excerpt": "In that flow, playing a role that brings more diversity makes a lot of sense. But even before all of that, I understand this initiative has been in the minds of a lot of people for 10 plus years, why was there no diversity or very little diversity in the venture capital ecosystem? Why did we end up in that place for in the first place?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7010,
+      "timestamps": []
+    },
+    {
+      "end": 7651,
+      "excerpt": "[00:07:13] Maryam Haque: I think there are a lot of different aspects to how the venture ecosystem works that play a role in how we have gotten to where we are. For one, I think this industry, a lot of decisions are being made not on metrics. It's subjective. Unconscious bias is very easy to creep in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 7349,
+      "timestamps": [
+        {
+          "offset": 7349,
+          "raw": "[00:07:13]",
+          "seconds": 433
+        }
+      ]
+    },
+    {
+      "end": 9118,
+      "excerpt": "So then you think about, well, are there other ways that my mind is telling me, yes, this is good, or no, this is not good, or are they red flags or not? And so I think that has tended to make decisions, whether those are for investment decisions into portfolio companies or even LPs making investment decisions into emerging managers or even VCs who are hiring for talent on their teams. It's like I think that the creep of unconscious bias has been pretty prevalent. And along those same lines, there's been this tendency to rely on pattern matching. So what I mean by that is there are recipes that have led to success in other examples, that it means in the future those similar recipes or tendencies are gonna lead to success. But we know, in venture, that's not always the case. And so it kind of begs us the question of, if you're always going to the same networks or relying on the same patterns to make decisions, what about all these other opportunities? And that's where I think the importance and the role of diversity come in. It's having an industry that's trying to invest in the next big thing and built on innovation of ensuring that it's not just the same people trying to solve the same problems, but it's people with different experiences, different backgrounds, different connections and relationships, whether that's for customer segments or hiring, or even just broader challenges that are being solved through different products or services.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7653,
+      "timestamps": []
+    },
+    {
+      "end": 9274,
+      "excerpt": "I think having that broader view really only comes through having a diverse perspective around the table when it comes to investing or scaling a company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9120,
+      "timestamps": []
+    },
+    {
+      "end": 9468,
+      "excerpt": "[00:09:01] Gopi Rangan: So for many years, perhaps even decades, the industry has functioned in a certain way. Pattern matching unconscious bias, and then you decided to start venture forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9276,
+      "timestamps": [
+        {
+          "offset": 9276,
+          "raw": "[00:09:01]",
+          "seconds": 541
+        }
+      ]
+    },
+    {
+      "end": 9525,
+      "excerpt": "What gives you confidence that now change will happen? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9470,
+      "timestamps": []
+    },
+    {
+      "end": 9797,
+      "excerpt": "[00:09:17] Maryam Haque: I mean it's I gotta give a lot of credit to someone who has been part of this since day one, or even earlier, someone by the name of Kate Mitchell, who is a co-founder at Scale Venture Partners, one of the first female led funds in the industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 9527,
+      "timestamps": [
+        {
+          "offset": 9527,
+          "raw": "[00:09:17]",
+          "seconds": 557
+        }
+      ]
+    },
+    {
+      "end": 10021,
+      "excerpt": "I think people like her have been so passionate about this since the beginning. And I think that there have been these champions that give me some optimism in terms of helping to see the industry evolve in a different way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9799,
+      "timestamps": []
+    },
+    {
+      "end": 10564,
+      "excerpt": "That said, we all know that things move very slowly in venture capital, right? Like just the time to succeed or to fail. It takes years, funds are 10, 15 plus years now. If you start off as an investor today in this industry, you're not going to even make it to be a general partner for so long. And so I think this pace of how the industry inevitably moves is not in our favor when it comes to seeing things like just more opportunity and more diversity across the ecosystem. That said, I do think that there have been some positive trends.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10023,
+      "timestamps": []
+    },
+    {
+      "end": 11005,
+      "excerpt": "We do a survey every two years that we've done a survey since 2016 with Deloitte to track the human capital aspects to venture capital. So looking at who are the people you know, all the way from GP to other parts of the investment teams, also looking at like how firms approach talent management and talent recruitment practices. And over time we have seen some progress in terms of who are the decision makers and sort of those GP roles.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10566,
+      "timestamps": []
+    },
+    {
+      "end": 11370,
+      "excerpt": "I will say most of that progress has been seen in terms of gender diversity. I think progress has been a little more slow and uneven when it comes to racial and ethnic diversity. I do feel like there have been some bright spots of pockets of activity and more firms popping up in the middle of the country, which I think has led to some more geographic diversity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11007,
+      "timestamps": []
+    },
+    {
+      "end": 11962,
+      "excerpt": "That said, I do think we have definitely hit some challenges in terms of how to keep the momentum going on this. But I'm an eternal optimist. I feel like you have to be one if you're in the venture ecosystem of kind of just keeping at it. And I think the most encouraging thing is working with. Some of the newer folks both at established firms as well as some of the newer fund managers who are coming in with a lot of really exciting investment thesis and looking at really cool companies and they just also happen to be a lot of them from backgrounds that are not traditional in venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11372,
+      "timestamps": []
+    },
+    {
+      "end": 12296,
+      "excerpt": "[00:11:41] Gopi Rangan: Ventures very long term just by design. It takes one fund, 10 plus years to fully mature. And for a firm to get established, they run three or four funds and that's when they actually know whether the market is viable for them with their strategy. And that takes like 10, 20 years, more than 10 years easily.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11964,
+      "timestamps": [
+        {
+          "offset": 11964,
+          "raw": "[00:11:41]",
+          "seconds": 701
+        }
+      ]
+    },
+    {
+      "end": 12945,
+      "excerpt": "This is a long game and we want new investors to be successful in the long term. That's hard to get if you don't learn how to do this through an apprenticeship type of experience. But now, in today's world, there are various different types of investors coming into the market and various geographies. And I think in the 1990s it was largely on Sandhill Road in Silicon Valley, and that's it. Not even in San Francisco, but now there are many different types of entrepreneurs and many different types of investors the entrepreneurs attract. So it's been a natural force of change and I'm excited to see that Venture Forward is leading that effort.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12298,
+      "timestamps": []
+    },
+    {
+      "end": 13052,
+      "excerpt": "Now, let's talk about Venture Forward. What is Venture Forward? What role does it play in the ecosystem? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12947,
+      "timestamps": []
+    },
+    {
+      "end": 13330,
+      "excerpt": "[00:12:46] Maryam Haque: So we are part of NVCA, but we are a 5 0 1 C3 nonprofit within NVCA that is focused on democratizing access to venture. And what we specifically mean by that is encouraging more people from all backgrounds to have the opportunity to thrive in venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 13054,
+      "timestamps": [
+        {
+          "offset": 13054,
+          "raw": "[00:12:46]",
+          "seconds": 766
+        }
+      ]
+    },
+    {
+      "end": 13618,
+      "excerpt": "And then we are also providing education and supporting anyone that kind of wants to morph into and evolve into the general partner role of like, once you're in the industry, how do you actually succeed and get to the level of becoming managing partner or the general partner at a firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13332,
+      "timestamps": []
+    },
+    {
+      "end": 14388,
+      "excerpt": "Luckily, because we have our connection to NVCA, which is very connected to a lot of the established firms in the industry, we're able to leverage a lot of leaders who want to give back and so that's where I think Venture Forward is a bit unique in that we're able to plug in the likes of, for example, Barry Eggers at Lightspeed who has had this amazing career. He's now on our board and is helping us to roll out new content education, mentorship to support the next generation of fund managers who might be the Lightspeed of the industry 20 years from now. And so I think that's where we've played a big role. We are trying to help people who want to learn how to be an investor, understand what it means to do that from both the art and the science side of things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13620,
+      "timestamps": []
+    },
+    {
+      "end": 15170,
+      "excerpt": "We have a program with Berkeley called VC University, so anyone can take that to learn more about the foundational aspects of venture. And then we're also helping new fund managers and we're connecting them to LPs, helping those emerging managers gain knowledge and best practices on fund and portfolio management 'cause we wanna see those newer fund managers be successful. Obviously we can't dictate the returns or like their investment decisions, but we don't want things like setting up back office infrastructure or ensuring that portfolio construction is taken into account when raising your funds or building more relationships with LPs as you're growing your fund and maybe graduating from higher net worth individuals and family office to maybe foundations and endowment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14390,
+      "timestamps": []
+    },
+    {
+      "end": 15292,
+      "excerpt": "So I think bridging the gap of some of the education and relationship building for those to not be barriers to success. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15172,
+      "timestamps": []
+    },
+    {
+      "end": 15482,
+      "excerpt": "[00:14:55] Gopi Rangan: It's very helpful to have an ecosystem and a support network as new VCs are building excellence in their processes and the culture of excellence in their own firms.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15294,
+      "timestamps": [
+        {
+          "offset": 15294,
+          "raw": "[00:14:55]",
+          "seconds": 895
+        }
+      ]
+    },
+    {
+      "end": 15650,
+      "excerpt": "How are these programs useful to an emerging manager? Let's start with a high level, like total all these programs together. How many emerging managers do you serve? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15484,
+      "timestamps": []
+    },
+    {
+      "end": 15854,
+      "excerpt": "[00:15:16] Maryam Haque: Yeah, so I would think of the two programs: VC University and Emerging Manager Office Hours as a little bit separate. So, VC University, about 5,000 people have come through it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 15652,
+      "timestamps": [
+        {
+          "offset": 15652,
+          "raw": "[00:15:16]",
+          "seconds": 916
+        }
+      ]
+    },
+    {
+      "end": 16885,
+      "excerpt": "Now, not all of those are emerging managers. There is a subset of those who are. Our program that's more squarely focused on emerging managers is emerging manager office hours, and we've had about 315 fund managers come through that program over the past few years. It's has primarily focused on funds one and funds two. What we have realized is some of the people that have raised funds one or funds two in recent years have been successful and are going on to raise their next funds. But there's been a bit of a gap in terms of support, education and making that evolution from just trying to get that first fund raised to like, okay, well I need to set up all of this stuff when it comes to just compliance, getting back office stuff set up. I'm gonna start looking at more institutional LPs. So there's like a whole other sort of level of maturity and infrastructure that's needed to work with those types of institutions. And so we've actually created a new program that we're launching next month called the GP Masterclass.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15856,
+      "timestamps": []
+    },
+    {
+      "end": 17147,
+      "excerpt": "And this is something new where it's to support funds threes and four who are in that next phase of their evolution to help them on things like build and scale a firm. How do you hire people? When do you know when it's time to bring on certain people in house?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16887,
+      "timestamps": []
+    },
+    {
+      "end": 17637,
+      "excerpt": "How do you think about achieving customer success with LPs, handle portfolio construction and things like that over multiple funds? And so I think getting into these more complex topics that frankly are not exciting, right? If you're a fund manager, you're thinking about investing and, fundraising is important, but there's so much more to being a fund manager, I think that maybe doesn't get discussed or explained enough. And I think that is something where we're trying to demystify. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17149,
+      "timestamps": []
+    },
+    {
+      "end": 17861,
+      "excerpt": "[00:17:10] Gopi Rangan: Raising fund one is very difficult. Continuing to grow with fund two and fund three is even harder. The number of firms that start with fund one and end up at fund three or fund four is very little.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17639,
+      "timestamps": [
+        {
+          "offset": 17639,
+          "raw": "[00:17:10]",
+          "seconds": 1030
+        }
+      ]
+    },
+    {
+      "end": 18227,
+      "excerpt": "The ratio is really small and it's hard enough to do it for any VC and I believe it's harder for founders of VC firms who are minority or other kinds of non-mainstream career paths that they come from. It's great to have this program that supports Fund one, fund two, and I'm delighted to see that there's a GP masterclass for Fund three, fund four, fund five VCs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17863,
+      "timestamps": []
+    },
+    {
+      "end": 18429,
+      "excerpt": "Can you give an example of a firm that has been through these programs? What benefit did they get? Have you seen how they evolve as VCs and as people that build firms, not just investing in startups? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18229,
+      "timestamps": []
+    },
+    {
+      "end": 19832,
+      "excerpt": "[00:18:00] Maryam Haque: A great example is someone who actually is now on the Venture Forward board. Samara Hernandez, who is at Chingona Inve Chingona Ventures in Chicago, she actually came through our very first emerging manager office hours back in like 2018. So before Venture Forward even publicly launched, we had incubated our programs under NVCA. So she was at the very first program in Palo Alto in 2018 and fast forward now seven years, she has raised funds. She has built her firm in Chicago. She's actually had a lot of her or junior people come through VC University in terms of training them. And I think she's gone on or has become a true leader in the industry. And, we invited her to join our board, not only because of the fact that, she's come through our programs, but like, she is someone who I think has really stood out as being that future. She is the leader of this sort of next wave of fund managers coming through. So I think that's a great example. We've also had examples of people who have met LPs or made a connection with an LP in one of our programs. And even though, I would be really clear, like our programs are not pitching events and we make that really clear to both the gps and the LPs. I think it just makes for a much more calm and friendly environment where there isn't the pressure of pitching, but the goal really is around education and network building.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 18431,
+      "timestamps": [
+        {
+          "offset": 18431,
+          "raw": "[00:18:00]",
+          "seconds": 1080
+        }
+      ]
+    },
+    {
+      "end": 20128,
+      "excerpt": "And so even though an LP that someone has met at a meeting a few years ago maybe didn't make sense 'cause that LP wasn't investing maybe at that small check size at the time. But some folks have gone on and kept those relationships warm and it has actually led to, or translated to commitments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19834,
+      "timestamps": []
+    },
+    {
+      "end": 20447,
+      "excerpt": "And so I think it all goes back to the fact that this industry is so relationship driven. It's small and I would like never discount an intro right, of someone that you might meet or if someone may just not feel like today that they're the most relevant person to have a connection with. 'cause you never know, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20130,
+      "timestamps": []
+    },
+    {
+      "end": 20754,
+      "excerpt": "Like some of this just builds over time and being able to reach out to someone today and say, Hey, you remember when we met at this Venture Forward event a couple years ago? Just wanted to let you know we are raising our next fund. It might be a better fit for you because of X, Y, z that we talked about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20449,
+      "timestamps": []
+    },
+    {
+      "end": 20975,
+      "excerpt": "So I, I think the story arc of that is so common in this industry that I think trying to build on that and create some of those relationships. Early on can only help once fund managers are further on in their journeys. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20756,
+      "timestamps": []
+    },
+    {
+      "end": 21450,
+      "excerpt": "[00:20:18] Gopi Rangan: I've admired how Samara is building her firm, Chingona Ventures. I've had her on the podcast speak about her firm in the early days. What are some things that people like Samara do that you've watched many emerging managers go through the programs and some of them do things right to go from fund one to fund two and successfully raise fund three or fund four, perhaps even fund one to fund two. Not many people graduate to more funds in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20977,
+      "timestamps": [
+        {
+          "offset": 20977,
+          "raw": "[00:20:18]",
+          "seconds": 1218
+        }
+      ]
+    },
+    {
+      "end": 21594,
+      "excerpt": "What are some things that they do right? What is your advice to them? How has the program been helpful to them in giving that resource? Yeah, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21452,
+      "timestamps": []
+    },
+    {
+      "end": 21861,
+      "excerpt": "[00:20:54] Maryam Haque: I mean, we were talking about how hard it is to raise. I feel like it was Sapphire Partners who not too long ago put out a stat, which was like. I was like, less than 20% of people who raise a fund, one actually even make it to a fund four.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 21596,
+      "timestamps": [
+        {
+          "offset": 21596,
+          "raw": "[00:20:54]",
+          "seconds": 1254
+        }
+      ]
+    },
+    {
+      "end": 22138,
+      "excerpt": "And so it gets to be a really small percentage when you think of who starts out to raise a fund and build a firm to who actually gets further down that line. It's really hard. And so, I feel like there are a few things that have stood out for folks that have been successful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21863,
+      "timestamps": []
+    },
+    {
+      "end": 22440,
+      "excerpt": "I definitely think there, and I'm generalizing here, but I feel like there can be a misconception from some folks that I hear who are trying to raise a first fund of not fully appreciating everything that goes into sort of the fund management side of the business. And I was alluding to this earlier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22140,
+      "timestamps": []
+    },
+    {
+      "end": 23361,
+      "excerpt": "I think there's a lot of interest in terms of like, yeah, I have this great. Proprietary deal flow. I have, this experience doing X, Y, Z before and so like, I think there's a lot of importance on just like getting capital to go invest. And I think that there isn't this full understanding of once you start investing other people's money there's a lot of like infrastructure that needs to come with that. There's a lot of trust that needs to be built and that sort of that relationship aspect to this. And so I think that like fund managers that have come into this role of fully appreciating what that means and it's not just, again, like I'm just thinking about people that just don't fully understand, like things, just in terms of like, you have to file K ones. Like there's work that's involved with this beyond what you might see on Twitter or just publicly about people who talk about the wins or the successes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22442,
+      "timestamps": []
+    },
+    {
+      "end": 23391,
+      "excerpt": "So I think that's one thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23363,
+      "timestamps": []
+    },
+    {
+      "end": 24203,
+      "excerpt": "The second thing is like learning from the nose and whether you're a founder who's hearing a lot of nos, but in this case, fund manager who's hearing a lot of nos, I think that's just like. You're always gonna hear nos from LPs and I think using those opportunities to like learn from it and adapt and evolve, I think that's where fund managers have then had success with building those relationships and raising. And then, I think third. Like we can't discount, like the fact that you have to have performance here in this industry to be successful and learning how to communicate the metrics that you have and to be able to share that, even if, it's not, may not be DPI, especially with the earlier funds, but being able to show like the true value that, you as an investor have brought to the fund, to then.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23393,
+      "timestamps": []
+    },
+    {
+      "end": 24516,
+      "excerpt": "Gain the trust and the just interest of anyone who might either wanna re-up or to get new investors. So I think those are things that sort of stand out for me. And then I think just, just generally being professional and responsive. It might sound like small things, but I feel like those can go a long way too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24205,
+      "timestamps": []
+    },
+    {
+      "end": 24884,
+      "excerpt": "[00:23:36] Gopi Rangan: It is tough. It's vastly underestimated by most new VCs that decide to start a firm how hard it is to manage everything else behind the scenes. It's no longer about just investing in startups and tweeting about it and that part. Investing is why we do all of this, but that becomes a smaller portion of everything else that we need to manage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24518,
+      "timestamps": [
+        {
+          "offset": 24518,
+          "raw": "[00:23:36]",
+          "seconds": 1416
+        }
+      ]
+    },
+    {
+      "end": 25239,
+      "excerpt": "And building a firm takes more thoughtful approach, more long term thinking, more strategy on how to build for the long term. Those things take time and those things also need help from others in the ecosystem, the resources that we need to tap into those that I underestimated as well when I started my first fund, and I'm learning a lot along the way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24886,
+      "timestamps": []
+    },
+    {
+      "end": 25591,
+      "excerpt": "It's difficult. It's not easy to do that. Publishing K ones tax and audit and fund admin behind the scenes on finances. As someone who worked at larger organizations, that was all done by an army of people that I didn't even have to deal with, and now I have to manage everything myself and doing it right, earning the trust of LPs is very important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25241,
+      "timestamps": []
+    },
+    {
+      "end": 26291,
+      "excerpt": "[00:24:43] Maryam Haque: Maybe just to add to that too, is this element of, and it goes to the question earlier about like why has diversity maybe been difficult or just a challenge for the industry is like the financial risk that goes into starting your own fund is real. And if you're not someone who can take on that risk, you don't have the financial security or don't have connections to wealth capital. I think that makes it even harder because like how do you, that the math gets to be really difficult, right? If you have a $10 million fund, like the two and 20 on, what you get from that on just the management fees to start a fund it's tough. Like it's so hard. And so add all of that to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 25593,
+      "timestamps": [
+        {
+          "offset": 25593,
+          "raw": "[00:24:43]",
+          "seconds": 1483
+        }
+      ]
+    },
+    {
+      "end": 26597,
+      "excerpt": "Well, I'm not gonna make any money for a while. That just, it's like why does anyone wanna be a fund manager, a gp? But, I think for the, at the end of the day, it's, to your point, it's like the investing, the working with founders the hope that this will scale into something I is why everyone does it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26293,
+      "timestamps": []
+    },
+    {
+      "end": 26805,
+      "excerpt": "But there's just so many. Pieces that I feel like may maybe aren't always understood by folks who just jump into this industry without a full idea. Yeah. It's a big unknown idea of how to hard it is. Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26599,
+      "timestamps": []
+    },
+    {
+      "end": 27058,
+      "excerpt": "[00:25:47] Gopi Rangan: Yes. What's your view on the future of no venture capital? You're in a very unique position where you see new types of VCs creating firms and different types of VCs, not just the same type of trends that we've seen in the past.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26807,
+      "timestamps": [
+        {
+          "offset": 26807,
+          "raw": "[00:25:47]",
+          "seconds": 1547
+        }
+      ]
+    },
+    {
+      "end": 27274,
+      "excerpt": "So you have a window into that future on where this is going. Are you bullish? Are you apprehensive? What's the feeling you have today based on what you've seen over the past five years of running Venture Forward? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27060,
+      "timestamps": []
+    },
+    {
+      "end": 27472,
+      "excerpt": "[00:26:14] Maryam Haque: I'm definitely very bullish on the innovation. Like I think we're in a really exciting period for just the types of companies, the types of technology and innovation that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 27276,
+      "timestamps": [
+        {
+          "offset": 27276,
+          "raw": "[00:26:14]",
+          "seconds": 1574
+        }
+      ]
+    },
+    {
+      "end": 27807,
+      "excerpt": "Being uncovered, whether that's, obviously a AI has been huge, but just so many things like in the life sciences space, just like I think that I'm very bullish on the period we're in. From an innovation perspective on an industry perspective, I think I'm, I don't wanna say bullish or bearish, I think I'm just realistic right about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27474,
+      "timestamps": []
+    },
+    {
+      "end": 28442,
+      "excerpt": "How the math's gonna make sense here because there's been a lack of liquidity. Like that's, no surprise for anyone in the industry. And if you think about how capital gets recycled back, if LPs aren't seeing cash distributed to them, that's press putting a lot of pressure downstream on new fund managers, even, existing fund managers that are coming back to market to raise in terms of just less capital out there to put to work. And then, what does that mean for the company. So I think it's gonna be interesting to see how this shakes out, but I do think it's gonna be a very challenging time, just fundraising wise for for funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27809,
+      "timestamps": []
+    },
+    {
+      "end": 28829,
+      "excerpt": "I also think that with just the. Lack of liquidity, right? There have been so many companies staying private longer. I think there's been a lot happening. We actually just did a webinar yesterday on secondaries. So I think just with the sort of lack of liquidity pri companies staying private, longer funds, having to support companies for longer or just think about other investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28444,
+      "timestamps": []
+    },
+    {
+      "end": 29247,
+      "excerpt": "I think there's a real question on like, how is the VC like model today? The same as. What it has been in terms of like, I think of traditional VC as more of that like early stage investing, but if so much VC is now getting put into sort of just the later stage or growth stage thing, I think it's almost like the VC model that we know or knew is just brand new world for venture in, in terms of the next five years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28831,
+      "timestamps": []
+    },
+    {
+      "end": 29550,
+      "excerpt": "And I think it's gonna get defined maybe in more of like. Not just venture as a whole, but like more of these like segmented pockets, whether those are by stage. And then I also think there's more of a gravitation towards sector specialized sector specialization rather than like the generalist model.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29249,
+      "timestamps": []
+    },
+    {
+      "end": 29873,
+      "excerpt": "And I think that goes to what I was saying earlier about what I'm excited about is the innovation, but I think it's becoming so much more deep that I think there is gonna be a lot more specialization. And the good news is I think new fund managers with a lot of that sector expertise are gonna help to fill in those gaps.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29552,
+      "timestamps": []
+    },
+    {
+      "end": 30281,
+      "excerpt": "[00:28:42] Gopi Rangan: Lack of liquidity is an issue. It's a big structural issue in the industry today. It affects founders. It affects early employees, it affects early investors, and it affects limited partners. I hope we find a solution that makes this industry move forward in a meaningful way. We're coming towards the end of our conversation, and I want to ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29875,
+      "timestamps": [
+        {
+          "offset": 29875,
+          "raw": "[00:28:42]",
+          "seconds": 1722
+        }
+      ]
+    },
+    {
+      "end": 30354,
+      "excerpt": "Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30283,
+      "timestamps": []
+    },
+    {
+      "end": 31131,
+      "excerpt": "[00:29:08] Maryam Haque: I, I mentioned I grew up in Mississippi and education was always a really big thing for us growing up, and you may or may not know it, but Jim Henson, the creator of the Muppets is actually from Mississippi. And so I've always had a really close soft spot for the Muppets and. More of that, meaning that I grew up a lot on Sesame Street and so, Mr. Rogers. And so, PBS is actually a nonprofit that I really do feel strongly about supporting, just in terms of the the role that they play in education, especially for rural parts of the country more and also just for, lower income households and also just people before kids, before they even get into school or start schooling to, to, to learn. So I think that's a good one that I'd like to amplify. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 30356,
+      "timestamps": [
+        {
+          "offset": 30356,
+          "raw": "[00:29:08]",
+          "seconds": 1748
+        }
+      ]
+    },
+    {
+      "end": 31467,
+      "excerpt": "[00:29:48] Gopi Rangan: Miriam, thank you very much for spending time with me today. Thank you for sharing deep insights on how the venture ecosystem is evolving. And thank you very much for the work that you and your team are doing to support new fund managers that literally shape how the venture industry will evolve in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31133,
+      "timestamps": [
+        {
+          "offset": 31133,
+          "raw": "[00:29:48]",
+          "seconds": 1788
+        }
+      ]
+    },
+    {
+      "end": 31736,
+      "excerpt": "I really appreciate all the work that you and your team are doing. And I'm so happy that we had time to chat and I could ask you a lot more questions, but we have to end the conversation here. But I'm looking forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31469,
+      "timestamps": []
+    },
+    {
+      "end": 31801,
+      "excerpt": "[00:30:18] Maryam Haque: Well, thank you so much for having me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryam Haque",
+      "start": 31738,
+      "timestamps": [
+        {
+          "offset": 31738,
+          "raw": "[00:30:18]",
+          "seconds": 1818
+        }
+      ]
+    },
+    {
+      "end": 31825,
+      "excerpt": "It's been a pleasure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31803,
+      "timestamps": []
+    },
+    {
+      "end": 32178,
+      "excerpt": "[00:30:23] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to rea-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31827,
+      "timestamps": [
+        {
+          "offset": 31827,
+          "raw": "[00:30:23]",
+          "seconds": 1823
+        }
+      ]
+    }
+  ],
+  "source_sha256": "80cad012dbbf7dd46676e0e0d62972ca0f4bcfc22cff16970874a7277719f870",
+  "text_sha256": "1569fe8830ca2562023887c9aec0222cfaee9176f9c9e4ee76b2d5799e0f13cb"
+}

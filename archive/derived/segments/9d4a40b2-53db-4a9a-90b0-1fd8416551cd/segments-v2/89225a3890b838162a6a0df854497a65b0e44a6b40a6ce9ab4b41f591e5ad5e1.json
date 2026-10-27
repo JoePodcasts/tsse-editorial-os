@@ -1,0 +1,1217 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 411,
+      "excerpt": "Our jobs as allocators, the beta, and the market returns are going to be a lot different over the next 10 years. Our job comes to how do we generate alpha. And that goes into everything we just said in regards to fund sizes, you know, portfolio construction, and a lot of the ways that we can decide kind of what are the, best managers that we can pick that have the best risk adjusted returns in our portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 836,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Miles Dieffenbach. He's a director of investments at Carnegie Mellon University's endowment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 413,
+      "timestamps": []
+    },
+    {
+      "end": 1170,
+      "excerpt": "His endowment invests in venture capital firms as they produce new venture capital funds. We're going to talk to him about how he chooses venture capital funds to invest in, how he builds relationships, what excites him about this asset class, what trends he sees in the world today. And why he likes this asset class to begin with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 838,
+      "timestamps": []
+    },
+    {
+      "end": 1218,
+      "excerpt": "Miles, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1172,
+      "timestamps": []
+    },
+    {
+      "end": 1286,
+      "excerpt": "Miles Dieffenbach: Awesome. Thanks, Gopi. I'm excited to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 1220,
+      "timestamps": []
+    },
+    {
+      "end": 1523,
+      "excerpt": "Gopi Rangan: Let's start with you. Tell us a little bit about yourself. You are a local Pittsburgh kid. You grew up there and you've always lived there and you studied there as well and you played football and now you're working there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1288,
+      "timestamps": []
+    },
+    {
+      "end": 1540,
+      "excerpt": "Is that right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1525,
+      "timestamps": []
+    },
+    {
+      "end": 1848,
+      "excerpt": "Miles Dieffenbach: Yeah, yeah, that's correct. Yeah, I grew up in Pittsburgh, you know, grew up playing football. So I grew up in a sports family, but I was always a big kid. And so my parents wanted me to get me into a sport where I could go and use that big frame to not get in trouble in school anymore.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 1542,
+      "timestamps": []
+    },
+    {
+      "end": 2295,
+      "excerpt": "So I got started playing football at a really young age and yeah. And was fortunate enough to get some scholarship offers to play in college. And so I chose to play at Penn state university. So played there. It was a crazy time. I was there from 2010 to 2014. I had three different head coaches, you know, while I was there, Joe Paterno, who obviously had some issues during those first two years, given the scandal and everything that happened.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1850,
+      "timestamps": []
+    },
+    {
+      "end": 2605,
+      "excerpt": "And then coach O'Brien for two years and then James Franklin for my last year, who's still the head coach of Penn State. And my goal my whole life was, was to play 10 years in the NFL. That got cut short by about nine years. Uh, and so I had a, had a short stint in the NFL, uh, with the Pittsburgh Steelers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2297,
+      "timestamps": []
+    },
+    {
+      "end": 2948,
+      "excerpt": "And so it was a great opportunity. Look back, you know, very fondly. One thing I appreciate about the NFL, it's just the ultimate competitive environment. People ask, \" what happened, why'd you get cut? Was it injuries? Was it bad luck?\" It's like, no, I just wasn't good enough. And so I appreciate just how competitive that environment is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2607,
+      "timestamps": []
+    },
+    {
+      "end": 3584,
+      "excerpt": "So I look back really fondly on that time and, and didn't know what I wanted to do when that finished. It was fortunate enough to get started in real estate. So was that CBRE, which was a brokerage firm and then made the transition into private markets. And so I joined a real estate private equity group as a part of their capital team. We built big box industrial buildings all throughout the country. And then, I knew I was still pretty raw and I wanted to get in front of as much information as I could. And so I saw an opportunity at the endowment and, and being frank with you guys, I actually didn't know what an endowment did.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2950,
+      "timestamps": []
+    },
+    {
+      "end": 3911,
+      "excerpt": "I thought it was just kind of a black box and a pool of money. I knew that my scholarship in college came from the endowment at Penn state, but didn't know what actually they did. And so reading through the job description, I thought, what an incredible opportunity for us. You know, at that point we were a four person team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3586,
+      "timestamps": []
+    },
+    {
+      "end": 4074,
+      "excerpt": "We were investing across the globe, across every single asset class. So Yeah. Yeah. was fortunate enough to join the team and been there for over six years now. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3913,
+      "timestamps": []
+    },
+    {
+      "end": 4355,
+      "excerpt": "Gopi Rangan: Fascinating story. Sports builds a lot of character and I can see your life's kind of come full circle where Penn State gave you a scholarship and now you're working Carnegie Mellon's endowment to hopefully give more scholarships to deserving students in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4076,
+      "timestamps": []
+    },
+    {
+      "end": 4385,
+      "excerpt": "What position did you play? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4357,
+      "timestamps": []
+    },
+    {
+      "end": 4554,
+      "excerpt": "Miles Dieffenbach: So I played offensive guard, so I would, I would block for the running back and protect the quarterback. So I was, I was a lot bigger in my heyday. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 4387,
+      "timestamps": []
+    },
+    {
+      "end": 4657,
+      "excerpt": "Gopi Rangan: Okay. Do you feel like you're playing a similar role as the director of investments on? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4556,
+      "timestamps": []
+    },
+    {
+      "end": 4673,
+      "excerpt": "Yeah, I tell, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4659,
+      "timestamps": []
+    },
+    {
+      "end": 4952,
+      "excerpt": "Miles Dieffenbach: I tell folks, you know, my job is a lot easier today than it was when I was, when I was playing football and in battling to protect the quarterback and a running back against 300 pound men that were trying to kill me. So my job today is a little bit easier. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 4675,
+      "timestamps": []
+    },
+    {
+      "end": 5027,
+      "excerpt": "Gopi Rangan: Less physical hurt and maybe some financial hurt right now. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4954,
+      "timestamps": []
+    },
+    {
+      "end": 5074,
+      "excerpt": "Miles Dieffenbach: That's right. Yeah, sure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 5029,
+      "timestamps": []
+    },
+    {
+      "end": 5230,
+      "excerpt": "Gopi Rangan: As the economy is, uh, recovering from whatever it's been through, let's talk about venture capital. Why is venture capital exciting to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5076,
+      "timestamps": []
+    },
+    {
+      "end": 5666,
+      "excerpt": "Miles Dieffenbach: Venture capital, we think, is the best way to play the innovation economy. Particularly when you look at the United States. It's the greatest venture capital market in the world, and it's a superpower, we believe. The innovation engine that is here is impossible to replicate. We would go across geographic markets and folks would die to have a Silicon Valley in their country and to have that ecosystem innovation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 5232,
+      "timestamps": []
+    },
+    {
+      "end": 5861,
+      "excerpt": "And so for us, you know, we want to take advantage. We're long term believers in technology and automation and innovation. And we think there's no better way to play that than venture capital. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5668,
+      "timestamps": []
+    },
+    {
+      "end": 6000,
+      "excerpt": "Gopi Rangan: Let's start from the basics. I see the passion for venture capital, how innovation is fueled by VCs and LPs who support VCs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5863,
+      "timestamps": []
+    },
+    {
+      "end": 6207,
+      "excerpt": "But let's start with where it fits in your asset portfolio. Can you give a quick description of the endowment and what are different asset classes you focus on? Where does VC fit into the portfolio? Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6002,
+      "timestamps": []
+    },
+    {
+      "end": 6367,
+      "excerpt": "Miles Dieffenbach: So from a top down, we're an equity oriented endowment. So 85 percent of the endowment is going to be in equities, 15 percent fixed income.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 6209,
+      "timestamps": []
+    },
+    {
+      "end": 6708,
+      "excerpt": "And so that venture capital portfolio is going to fit into that equity bucket. And now there's, there's two forms that of equity, right? There's liquid equity and there's illiquid equity. And so we put venture capital into that illiquid equity bucket. And so for us, when we look at our asset allocation, liquidity is incredibly important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6369,
+      "timestamps": []
+    },
+    {
+      "end": 7080,
+      "excerpt": "And so we are not allowed to have more than 55 percent of our endowment in illiquid investments. And so venture capital fits into that 55 percent bucket. It's the largest exposure within that 55%. So we do have a healthy exposure to venture. We're overweight, like a lot of folks are dealing with, you know, the denominator effect, as folks say, but we're intentionally.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6710,
+      "timestamps": []
+    },
+    {
+      "end": 7155,
+      "excerpt": "Overweight venture and we're going to be overweight over the next decade.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7082,
+      "timestamps": []
+    },
+    {
+      "end": 7206,
+      "excerpt": "Gopi Rangan: What percentage is venture capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7157,
+      "timestamps": []
+    },
+    {
+      "end": 7308,
+      "excerpt": "Miles Dieffenbach: You know, US venture capital today for us is around 16 percent of the endowment. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 7208,
+      "timestamps": []
+    },
+    {
+      "end": 7429,
+      "excerpt": "Gopi Rangan: Okay. Do you expect that it will stay at 16 or dip down to closer to 10 or grow to 20 plus in the future? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7310,
+      "timestamps": []
+    },
+    {
+      "end": 7813,
+      "excerpt": "Miles Dieffenbach: We think it's probably going to be steady state. It's hard given how long the feedback loop is in venture. And so you can have some years where you've got, really aggressive distributions, right? Like a 2021 where you've got an insane IPO market and you're having a lot of distribution. So that nav then comes down. So it all depends on, on our commitment pacing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 7431,
+      "timestamps": []
+    },
+    {
+      "end": 8171,
+      "excerpt": "And so we do budget out that what is our commitment pacing to have a long term asset allocation. And so we have a budget of folks we commit to per year. Sometimes we're over, sometimes we're under, but a lot of that allocation is going to be dependent on distributions. And so obviously it's been a light past 18 months in distribution for venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7815,
+      "timestamps": []
+    },
+    {
+      "end": 8276,
+      "excerpt": "We think that'll change, you know, moving forward, but very dependent on what distributions look like. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8173,
+      "timestamps": []
+    },
+    {
+      "end": 8497,
+      "excerpt": "Gopi Rangan: So I've seen 5 percent and they think it's aggressive. And some endowments are willing to go all the way up to like 30 percent or maybe even more for venture capital asset class. Where do you think you are?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8278,
+      "timestamps": []
+    },
+    {
+      "end": 8627,
+      "excerpt": "Are you in the aggressive side or are you on the optimistic but realistic side? Or do you feel like there's still room to grow? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8499,
+      "timestamps": []
+    },
+    {
+      "end": 8862,
+      "excerpt": "Miles Dieffenbach: I'd say we're on the aggressive side. You know, we look at CMU, and our endowment. What's our two greatest advantages? We think one. It's our time horizon. And so an endowment is meant to last in perpetuity, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 8629,
+      "timestamps": []
+    },
+    {
+      "end": 9350,
+      "excerpt": "We want to be funding scholarships for students at CMU for the next 1000 years. And so given our time horizon, we can take advantage of long duration and illiquid asset classes. There's no better category for long duration and e liquid asset classes than early stage venture, right? It's most likely when we commit to a seed fund, they're 10 years on the cover, kind of the fund, you know, the fun life, but realistically that fund is not going to be fully liquid for at least 15 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8864,
+      "timestamps": []
+    },
+    {
+      "end": 9972,
+      "excerpt": "So that's a very long duration asset class, which we as an endowment can take advantage of given our duration. So that's one. And the number two is the CMU brand, right? CMU is, is probably the uh, top three computer science school in the world. You've got us, Stanford, MIT. Robotics, computer science. CMU had the first ever self driving car in the United States. CMU had the first ever artificial intelligence degree. This was before it was the hottest venture bubble there was, but that was in 2016, 2017. CMU had the first ever undergraduate program for artificial intelligence. So we lean into that pretty heavily.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9352,
+      "timestamps": []
+    },
+    {
+      "end": 10499,
+      "excerpt": "So that's good for us in regards to access in venture. We think top quartile managers, it's it's a lot of an access game. And so we'll lean into that brand. And then, you know, for us, we lean into it to be a helpful LP. Some of our GPs. If they're spending time in cyber security or robotics or maybe a certain subset of software that our P. H. D. Students or professors are proficient and we'll have them on campus and we'll have them talk to some of our professors, which is which is huge value add for some of those GPs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9974,
+      "timestamps": []
+    },
+    {
+      "end": 10655,
+      "excerpt": "Gopi Rangan: I know CMU is a prestigious institution. It's been around for a long time. The longer CMU thrives, it's greater for, it's good for everybody.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10501,
+      "timestamps": []
+    },
+    {
+      "end": 10810,
+      "excerpt": "The innovation that comes out of the research at CMU is just, it transforms the way we live. But I heard you say thousand years. Thousand years. Really? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10657,
+      "timestamps": []
+    },
+    {
+      "end": 10860,
+      "excerpt": "Miles Dieffenbach: We hope so. That's the goal. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 10812,
+      "timestamps": []
+    },
+    {
+      "end": 11027,
+      "excerpt": "Gopi Rangan: Okay. So let's talk about the denominator effect. A thousand years is a long horizon indeed, but the denominator effect has an impact in the short term.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10862,
+      "timestamps": []
+    },
+    {
+      "end": 11120,
+      "excerpt": "What is a denominator effect and how does it play into your decision making process? Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11029,
+      "timestamps": []
+    },
+    {
+      "end": 11398,
+      "excerpt": "Miles Dieffenbach: So the denominator effect is when we look at our portfolio, we've got, like I said, illiquid investments and liquid investments. So those liquid investments would be public securities and fixed income, right? So those mark to market on a daily basis, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 11122,
+      "timestamps": []
+    },
+    {
+      "end": 11728,
+      "excerpt": "You know, just like an Apple stock, you can check what its price is today versus illiquid investments mark on a quarterly basis and they do not mark to market. Usually, even on that quarterly basis, right, there is a lot of qualitative work that goes into what GPs or venture firms hold their securities at a specific valuation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11400,
+      "timestamps": []
+    },
+    {
+      "end": 12150,
+      "excerpt": "So what happened was, you know, 2022 and the early part of 2023 came around and our public equities portfolios took a sharp downturn. And then on top of that, you know, our venture capital bucket did not go down nearly at the same rate as our public equity portfolio did. And so then you've got a very large increase in what percent of your endowment is in these e liquid investments because they did not mark to market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11730,
+      "timestamps": []
+    },
+    {
+      "end": 12393,
+      "excerpt": "And we're also not getting distributions. So that NAV (Net Asset Value) is not turning into cash back to the endowment. It's still sitting in an illiquid portfolio. And so that's really the denominator effect in what folks are dealing with. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12152,
+      "timestamps": []
+    },
+    {
+      "end": 12518,
+      "excerpt": "Gopi Rangan: So when that happens, you're not able to allocate more capital to venture asset class until things normalize. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12395,
+      "timestamps": []
+    },
+    {
+      "end": 12864,
+      "excerpt": "Miles Dieffenbach: It depends on, on where each, All endowments are different in regards to their target asset allocations and how they monitor their portfolio. And so certain folks who maybe had an underallocation to venture, maybe they saw that as an opportunity in there. And there were certainly folks that were significantly overallocated.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 12520,
+      "timestamps": []
+    },
+    {
+      "end": 13157,
+      "excerpt": "And that is probably your scenario where they're probably having to press pause on new commitments or they're having to cut back on their commitments going forward. Maybe their check sizes to these funds has to be cut by half. All depends on how folks model that out within their endowment. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12866,
+      "timestamps": []
+    },
+    {
+      "end": 13509,
+      "excerpt": "Gopi Rangan: Cutting is not that easy. Often, relationships last for a long time. And when you add a new relationship, it lasts for multiple funds, at least three or four funds to start with. Otherwise, you wouldn't even think about adding a new manager. Am I right? Correct. For sure. Let's talk about that process. Like, how do you choose managers?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13159,
+      "timestamps": []
+    },
+    {
+      "end": 13614,
+      "excerpt": "What goes on in your mind when you decide to add a manager? What are you expecting out of the VC firm? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13511,
+      "timestamps": []
+    },
+    {
+      "end": 13846,
+      "excerpt": "Miles Dieffenbach: Yeah. So, we played a long game, like I said, taking advantage of our time horizon. So we spent a lot of time getting to know the GPs that come into the portfolio. We just committed to a seed fund civic manager.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 13616,
+      "timestamps": []
+    },
+    {
+      "end": 14238,
+      "excerpt": "You've actually had on this podcast that we've known of him for five years and we've spent time building a relationship, watching the portfolio evolve and ended up making an investment just this year. So we tell folks, we, we play the long game and sometimes that does result and we need a manager and we can do work over maybe six to nine months and get to know you and make an investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13848,
+      "timestamps": []
+    },
+    {
+      "end": 14618,
+      "excerpt": "But most of the time it works out that we're just going to watch you and track you and build that relationship over two to three years. And so we spend a lot of time getting to know our GPs, both going out to dinner, reference calls, in-person meetings. So there's a lot of qualitative work given that when we commit to a new fund, we think at least three funds into the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14240,
+      "timestamps": []
+    },
+    {
+      "end": 14922,
+      "excerpt": "And if that's a seed fund, you know, that's 15 years on that first fund, and you're probably going to commit to those next two funds every three years thereafter. So that's, you know, that's 20 years in an illiquid relationship. I think like the average marriage in the U S is like eight or nine years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14620,
+      "timestamps": []
+    },
+    {
+      "end": 15215,
+      "excerpt": "So you got to be really sure about who you're partnering with. And so the qualitative aspect is very important. And then, obviously digging into the quantitative, we spent a lot of time digging into every metric that we can to make sure we're partnering with the best investors in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14924,
+      "timestamps": []
+    },
+    {
+      "end": 15281,
+      "excerpt": "Gopi Rangan: How many managers do you typically add every year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15217,
+      "timestamps": []
+    },
+    {
+      "end": 15579,
+      "excerpt": "Miles Dieffenbach: It's dependent. We're very much \"a best athlete\" is how we call it. And so we're not looking at saying every year we want to add X amount of managers. It's really how are we building relationships? And, and when do we feel comfortable enough to execute and invest in those GPs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 15283,
+      "timestamps": []
+    },
+    {
+      "end": 15806,
+      "excerpt": "So some years it's more, some years it's less. So in 2023, we've added three GPs to our US venture portfolio. 2022, we didn't add any. And so very much dependent on that relationship building and when the fundraisers happen. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15581,
+      "timestamps": []
+    },
+    {
+      "end": 15893,
+      "excerpt": "Gopi Rangan: What stage in the evolution of a firm is a good fit for CMU's endowment?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15808,
+      "timestamps": []
+    },
+    {
+      "end": 16047,
+      "excerpt": "Is it the first fund? Is it the second fund? Third fund? Or is it more mature like fund seven, fund eight? What is too early? What is too late for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15895,
+      "timestamps": []
+    },
+    {
+      "end": 16244,
+      "excerpt": "Miles Dieffenbach: I'd say the only barrier to something that's too early is going to be dependent on our check size. So, the smallest check we've ever written for a GP is right around 7 million.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 16049,
+      "timestamps": []
+    },
+    {
+      "end": 16562,
+      "excerpt": "And so sometimes if it's a fund one and they're raising 20 million, we don't ever want to be typically more than 20% of a fund, and so that's going to be usually breaking that threshold. And so we're going to want to watch you and track you until you get to a space where you'd be able to accommodate our check size.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16246,
+      "timestamps": []
+    },
+    {
+      "end": 16870,
+      "excerpt": "And so that's usually the only barrier from everything. The rest it's very bottoms up. And so we don't have any strict rules saying we don't do fund ones, or we want to enter between, fund one and fund three, or we only do fund fives. It's very, very bottoms up in regards to what has your experience been.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16564,
+      "timestamps": []
+    },
+    {
+      "end": 17005,
+      "excerpt": "What has your track record been and how comfortable can we get with that relationship with you and your team over these fund cycles? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16872,
+      "timestamps": []
+    },
+    {
+      "end": 17119,
+      "excerpt": "Gopi Rangan: Have you invested in fund one fund to actively? How many VC firm relationships do you have at CMU? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17007,
+      "timestamps": []
+    },
+    {
+      "end": 17572,
+      "excerpt": "Miles Dieffenbach: Yeah, yeah, we currently have 13 relationships at CMU and those are on a go forward basis, right? So we have some legacy exposures of like, you know, we started our, our endowment program here, our staff driven model in 2007. Up until 2007, we were run by a consultant, and so we do have some legacy managers in there that we would not re up with, or we haven't re uped with on a go forward basis, that we do not include in that 13.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 17121,
+      "timestamps": []
+    },
+    {
+      "end": 17817,
+      "excerpt": "Gopi Rangan: Okay. So you have more than 13 relationships, but the 13 are the ones that you're actively managing today? Yes. What is a good sign of a good VC firm for you? What are signals that tell you that this is a manager I want to track? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17574,
+      "timestamps": []
+    },
+    {
+      "end": 17969,
+      "excerpt": "Miles Dieffenbach: Yeah, that's a good question. So I'll start maybe on the quantitative. And so that takes the form dependent on your history, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 17819,
+      "timestamps": []
+    },
+    {
+      "end": 18359,
+      "excerpt": "So if you're a new and emerging manager, typically that's going to take the shape of either an angel track record or a personal track record you've had in a prior venture firm. Maybe you're an associate or you're a partner and you've got attribution from your track record prior. So we will look at that track record and we want to making sure you're getting access to the best companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17971,
+      "timestamps": []
+    },
+    {
+      "end": 18730,
+      "excerpt": "And so that can take a shape of us talking to those founders, us getting the fundamental data on your track record. And so looking. Have these companies had artificial markups of 2021 or are these real companies with real revenue growing, maybe they're not profitable, but maybe they have a lot of cash in the bank and they're, and they're growing into their valuation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18361,
+      "timestamps": []
+    },
+    {
+      "end": 18870,
+      "excerpt": "We want to understand, are you investing in good companies? So that's really important. And so we'll look at that track record in detail. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18732,
+      "timestamps": []
+    },
+    {
+      "end": 19074,
+      "excerpt": "Gopi Rangan: But that's hard, Miles. Like, it's hard enough for a VC to know whether they're investing in a good company. It's, uh, even more difficult for other VCs to agree that it was a good company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18872,
+      "timestamps": []
+    },
+    {
+      "end": 19196,
+      "excerpt": "Now you're looking at it from the allocator's perspective. How would you know that they're investing in good companies? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19076,
+      "timestamps": []
+    },
+    {
+      "end": 19619,
+      "excerpt": "Miles Dieffenbach: It's tough. You know, venture, like I was saying earlier, for us as an LP, the feedback loops are very, very long. And so when we look at an early stage venture fund, we're honestly not going to know what the true performance of that fund is typically until we call it year eight, year eight, you're going to see what are the value drivers of that portfolio and what are the returns going to look like?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 19198,
+      "timestamps": []
+    },
+    {
+      "end": 19941,
+      "excerpt": "I mean, we've had a lot of funds, you had companies come out of nowhere, five, six years into the fund, like slack, right? That was a failed investment for a long time for Excel. UiPath was another failed investment that pivoted numerous times, right? So that happens a lot in venture. So it's really hard at year three.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19621,
+      "timestamps": []
+    },
+    {
+      "end": 20295,
+      "excerpt": "That being said, it doesn't stop us. We have to look at the data that we have. And so that'll either take the shape of what is the traction of those companies, right? So that's revenue, ARR, customers, downloads, whatever you call it. So we'll, you know, we'll, we'll take that data. We'll also take what are these founding teams are the teams growing?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19943,
+      "timestamps": []
+    },
+    {
+      "end": 20762,
+      "excerpt": "Are they attracting quality talent? And then we'll also look at the cap table, right? Is this something that other folks are excited about? Has this been non consensus and it's now consensus are other active investors wanting to get onto the cap table of this company? We'll take all of that and get in and kind of form a picture of, are you a good picker of companies and are you able to get into the best companies? There's no perfect formula for that, for sure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20297,
+      "timestamps": []
+    },
+    {
+      "end": 20947,
+      "excerpt": "Gopi Rangan: It's a difficult job. Indeed. It's hard to start a company. It's hard to evaluate startups to invest in, and it's very difficult to evaluate managers who manage VC funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20764,
+      "timestamps": []
+    },
+    {
+      "end": 21112,
+      "excerpt": "The information available to you is sparse, limited, and very difficult to capture comprehensive information. You're making decisions based on a lot of ambiguity. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20949,
+      "timestamps": []
+    },
+    {
+      "end": 21276,
+      "excerpt": "Miles Dieffenbach: Yeah, and that's the, that's the quantitative aspect, right? So that's the qualitative aspects that we do in regards to diligence in a manager.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 21114,
+      "timestamps": []
+    },
+    {
+      "end": 21621,
+      "excerpt": "And so we'll spend a lot of time reference calling. I mean, most GPs, we're going to do at least 25 reference calls. And so those take the shape of founder references. And so calling, you know, from your portfolio companies and saying, why did you choose Gopi, right? Why is he on your cap table? Has he been helpful? Has he not been helpful? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21278,
+      "timestamps": []
+    },
+    {
+      "end": 21868,
+      "excerpt": "We'll call folks out of the blue so that it won't be Gopi giving me a list of his like three best friends who he's really close with as portfolio founders. We'll go through a portfolio and reach out to folks on LinkedIn or through back channels.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21623,
+      "timestamps": []
+    },
+    {
+      "end": 22568,
+      "excerpt": "And so we really want to get to know you as a person and who you're dealing with. So those reference calls are important. We'll talk to other venture firms who are on shared cap tables with you. We'll talk to LPs, existing LPs or maybe, folks that you've invested with prior. And then we'll talk to your team, you know, at your existing place. If it's maybe a fun three, you built out a roster of team. We'll talk to your junior team members. We'll talk to your other partners at the firm. And so we want to get a really good picture of who you guys are as people and are you good people? Are you trustworthy? Are you transparent? Are you thoughtful? And so that's really important for us as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21870,
+      "timestamps": []
+    },
+    {
+      "end": 22841,
+      "excerpt": "Gopi Rangan: So you mentioned quantitative aspects, qualitative aspects, positive signals that excite you. What are some red flags? Not the obvious ones that, you're committing fraud or like you've made really bad investments, but what are some red flags that bother you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22570,
+      "timestamps": []
+    },
+    {
+      "end": 23184,
+      "excerpt": "Miles Dieffenbach: Yeah, uh, fund size is the greatest single quantitative indicator that we can look at at a fund today to estimate your future returns. It's going to be fun size and GP commitment. So those are our two greatest signals that we have looking back on our own data, as well as third party data in regards to future performance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 22843,
+      "timestamps": []
+    },
+    {
+      "end": 23764,
+      "excerpt": "And so, fund size growth, it's a red flag. It's not a no go for us, but we need to really understand the math and how are you going to invest that fund size efficiently? How does that compare to what you've done prior? If you have an angel track record of investing 10 million across 100 investments, that's done really well, and now you're coming to raise your inaugural first fund and it's a hundred million, walk me through how that math works. Cause that's going to be a very different job than what you've done prior doing these, you know, one off $10,000, $50,000 checks. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23186,
+      "timestamps": []
+    },
+    {
+      "end": 24017,
+      "excerpt": "It's very different. The ownership you're going to need to command. The ball control you're going to need to have setting these rounds up. And so we spend. An exorbitant amount of time on fund size and how that plays into your portfolio construction. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23766,
+      "timestamps": []
+    },
+    {
+      "end": 24133,
+      "excerpt": "Gopi Rangan: What is a good growth in fund size? At what point do you feel like, okay, this is becoming dangerous?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24019,
+      "timestamps": []
+    },
+    {
+      "end": 24476,
+      "excerpt": "Miles Dieffenbach: It's an interesting question. It's dependent on where the manager plays in the ecosystem. So most of the multistage firms, you're typically not ever going to get more than 25 percent ownership in these companies. And so then a lot of that is dependent on the size of your team and how you're underwriting exit assumptions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 24135,
+      "timestamps": []
+    },
+    {
+      "end": 24730,
+      "excerpt": "In 2021, you know, you were able to take your company's public at 50 times ARR. That was normal in 2021. These multistage firms saw that and said, \"if I can, over the next 10 years, take all my companies public at 50 times ARR, I can raise $10 billion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24478,
+      "timestamps": []
+    },
+    {
+      "end": 25081,
+      "excerpt": "That math works. The math, in our opinion, does not work when the median public SaaS companies today is trading at five and a half times ARR. That math on those fund sizes doesn't work. The size of outcomes you're going to need to return these multi billion dollar funds is, I mean, you're gonna be squinting your eyes looking at those spreadsheets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24732,
+      "timestamps": []
+    },
+    {
+      "end": 25574,
+      "excerpt": "And so, for the multi stage firms, it's really dependent on on how many checks you're gonna write and where you're playing in the ecosystem and how you're underwriting your exits. For the early and kind of seed managers. It's going to be dependent on where you play in the ecosystem. And so we've seen some seed funds that have grown up to maybe achieve double digit ownership, you know, which is great, but it's dependent, all that fund size is going to be, how many checks are you writing?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25083,
+      "timestamps": []
+    },
+    {
+      "end": 25949,
+      "excerpt": "Are you sitting on boards? How big is your team? And is it at seed? Is it at a, you know, how are you planning that construction? And then there's some managers that don't kind of, we call it the play nice approach that want to co invest alongside the multi stage firms. And so typically, you know, those folks aren't going to be able to get more than 10 percent ownership.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25576,
+      "timestamps": []
+    },
+    {
+      "end": 26305,
+      "excerpt": "And so usually you're either going to have a smaller fund size or you're going to have more positions in those funds. And so it's going to be a larger portfolio. And so, a lot went into that question you asked me. And so there's a lot of variations into how these funds play into the ecosystem, but that's kind of our framework for how we think about it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25951,
+      "timestamps": []
+    },
+    {
+      "end": 26653,
+      "excerpt": "Gopi Rangan: So now let's take this scenario. You've invested in the fund. It's a new fund that you've added. You've tracked the GP for a while. You're very excited to start this new relationship. What do you want to see from the firm besides the quarterly reports and financial reports and all that? How much information is ideal for you to see?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26307,
+      "timestamps": []
+    },
+    {
+      "end": 26713,
+      "excerpt": "What type of details do you like to learn about the firm? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26655,
+      "timestamps": []
+    },
+    {
+      "end": 27491,
+      "excerpt": "Miles Dieffenbach: There's no such thing as too much information. We want as much information as humanly possible. CMU is a very data driven university and we would consider ourselves a data driven investment shop as well. And so I think first off, you know, when we look at a firm, if we committed, and then three years go by and now it's a chance to re up, you know, the first thing we're going to say is, is what did you say you were going to do? And what did you do? And so the portfolio construction is essentially done. I mean, you might have some follow on investments that you're going to make past year three. But like the initial money in the ground, it's done. And so we write a very detailed investment memo. We've got all our notes when we do commit to that fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 26715,
+      "timestamps": []
+    },
+    {
+      "end": 27798,
+      "excerpt": "And so we have like, what did you say your portfolio construction was going to be? How many companies were you targeting to invest in? What was your target check size? What was your target ownership? And so we'll look at that fund three and say, what did you say you were going to do? And what did you do?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27493,
+      "timestamps": []
+    },
+    {
+      "end": 28251,
+      "excerpt": "And if you didn't do that, why, you know, what's your answer for why you pivoted or you added more companies or you had less ownership or maybe you had more ownership. So we want to understand how that played out. And so that's going to be really important. And like we said, at year three. It's going to be pretty hard to see what the fund drivers of the portfolio is, but usually there's going to be one or two companies you're really excited about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27800,
+      "timestamps": []
+    },
+    {
+      "end": 28570,
+      "excerpt": "And so we'll want to see the fundamental data on that company. Maybe it's at 10 million of ARR, and maybe they've raised it up around from these firms. And now these got these folks on the cap table. We'll want to understand what's kind of the early drivers in the portfolio and what's getting you excited about that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28253,
+      "timestamps": []
+    },
+    {
+      "end": 29326,
+      "excerpt": "And then, lastly, it's now what are you targeting to raise for this next fund? And how does that compare to your fund one? If you raised a hundred million dollar fund one, and it's done really well. And now you're saying, Hey, we've crushed it. And we're targeting to raise $400 million. that's a very different number than your fund one. And so going back to what I said, we'll just ask them. You know, walk us through your portfolio construction and what's changing for you when you go from 100 million fund to a 400 million fund. And our favorite question, uh, honestly asking GPs is: what fund size do you think is the best fund size for the maximum returns for you as a GP? And you'd be surprised at some of the, some of the answers we get on that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28572,
+      "timestamps": []
+    },
+    {
+      "end": 29597,
+      "excerpt": "Gopi Rangan: I think about that all the time. Like at what point would I say that with confidence to my investors? I'm very, very confident that I can generate the optimal returns for my effort and beyond that, you know, above this or below this will not be as optimal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29328,
+      "timestamps": []
+    },
+    {
+      "end": 29896,
+      "excerpt": "So this is the right amount. So I'm always thinking about that. It's great to see that you're not only eager to see the numbers and the data and who's on the team and all that, but you're also asking thought provoking questions to see what they really want to build for their professional careers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29599,
+      "timestamps": []
+    },
+    {
+      "end": 30370,
+      "excerpt": "We went through a hype cycle for a decade plus, and it ended in 2021/22 with a huge boom. Lots of companies going IPO multiples, like you said, were like 50x ARR, 100x ARR, and now we're going through that correction in 2023. Some funds are even reducing their fund sizes when they raise subsequent funds, but they are still raising funds. The activity is still vibrant and there's healthy activity, both on the investments and startups and new VC firms raising new funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29898,
+      "timestamps": []
+    },
+    {
+      "end": 30741,
+      "excerpt": "What do you expect for the next five years, 10 years from a macro point of view? Do we have too many VC firms? Do we have opportunities for more VC firms to be formed? What areas are you more excited about? Are the certain theses that you like, certain trends like solo GPs or those kind of new behaviors that have come into the asset class, what are you excited about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30372,
+      "timestamps": []
+    },
+    {
+      "end": 30771,
+      "excerpt": "What are you worried about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30743,
+      "timestamps": []
+    },
+    {
+      "end": 31183,
+      "excerpt": "Miles Dieffenbach: Yeah. So I think you hit it on the nail on the head. It's a different environment than we've been in for the past decade, right? The past decade might've been the best, you know, 10 year venture investment period, maybe ever. There was easing, you had no rates and you had, you know, massive technological waves like mobile cloud computing and you just saw great companies come out of that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 30773,
+      "timestamps": []
+    },
+    {
+      "end": 31489,
+      "excerpt": "We think the next 10 years, 20 years, the U S is still going to be the best venture capital market in the world, and they're still going to be fabulously great and large companies that are going to come out. So we're still quite excited about the venture capital industry and kind of the forward outlook.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31185,
+      "timestamps": []
+    },
+    {
+      "end": 31795,
+      "excerpt": "That being said, fund sizes got really large, like you said, over the past a few years. And that has a huge impact on forward returns, right? And so we think the venture industry is a bit more private equified, if that's, you know, the word you want to use, there's just a lot more capital in the sector.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31491,
+      "timestamps": []
+    },
+    {
+      "end": 32282,
+      "excerpt": "And so we think our jobs as allocators, the beta, kind of the market returns are going to be a lot different over the next 10 years than they were over the past. 10 years. So our job comes to how do we generate alpha? And so that goes into everything we just said in regards to fund sizes, you know, portfolio construction and a lot of the ways that we can decide kind of what are the best managers that we can pick that have the best, you know, risk adjusted returns in our portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31797,
+      "timestamps": []
+    },
+    {
+      "end": 32692,
+      "excerpt": "And so it's going to be a really interesting few years in venture, right? You know, fund sizes hopefully reduce. I think some will, I think some won't. That management fee income is pretty hard to pass up for a lot of those really big firms, especially if they sold a GP stake and they've got other folks who are owners in the GP that are really pushing them to raise bigger and bigger funds and perpetuity. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32284,
+      "timestamps": []
+    },
+    {
+      "end": 32968,
+      "excerpt": "You know, there's a lot of things playing in this space. We think AI is real, even though it might be a little bit hypey and bubbly currently. The product market fit is as clear as day, right? I mean, the first time you play with the ChatGPT, it's, it's almost mind blowing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32694,
+      "timestamps": []
+    },
+    {
+      "end": 33186,
+      "excerpt": "And so we're really excited about the innovations that are going to come out of the venture capital world over the next 10 years and what it's going to do to democratize access, innovation and everything in between. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32970,
+      "timestamps": []
+    },
+    {
+      "end": 33846,
+      "excerpt": "Gopi Rangan: When something new happens in technology that really fuels growth opportunities for new startups. In the 1990s, it was the Internet and that created opportunities for infrastructure companies like Cisco and social networking companies for people to come together. The past 10 years when the smartphone came through ubiquitous access to Internet really transform the way we operate life and that created lots of opportunities for FinTech companies and for energy focused companies and many other sectors rode on that wave. Now we're going through the AI wave and that is going to create new opportunities. I'm very excited to see where this goes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33188,
+      "timestamps": []
+    },
+    {
+      "end": 34000,
+      "excerpt": "Many things you hit were positive. Are there things that you're worried about that things that you don't like to see how the venture is evolving today? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33848,
+      "timestamps": []
+    },
+    {
+      "end": 34351,
+      "excerpt": "Miles Dieffenbach: Yeah, so I think it's going to be a pretty different environment over the next 10 years in regards to how founders think about capital. The past 10 years was growth at all costs, and that was great for venture capital firms who are raising big funds because you could put a lot of capital to work and you still had great outcomes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 34002,
+      "timestamps": []
+    },
+    {
+      "end": 34704,
+      "excerpt": "I think given all the messiness that's going to come out of the past two years over the next two years in regards to down rounds, a lot of founders who maybe raised a lot of money and have a big prep stack, you know, it's going to be really hard for these founders to make a lot of money for their outcomes for their companies, which is brutal, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34353,
+      "timestamps": []
+    },
+    {
+      "end": 35038,
+      "excerpt": "These people put their kind of heart and soul into these businesses. And so I think founders are going to take a different view on what capital means to them and with with AI and GitHub copilot and Amazon AWS code whisperer, like, you know, your output for five stellar engineers is almost like what 50 engineers was five years ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34706,
+      "timestamps": []
+    },
+    {
+      "end": 35375,
+      "excerpt": "Folks are going to be able to do more with less. And so that's inherently a bad thing for venture capitalists, right? You're not going to be able to put as much money to work as maybe you have over the past decade. And so that's gonna cause some hurdles for certain GPS out there in regards to the capital and how they're deploying it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35040,
+      "timestamps": []
+    },
+    {
+      "end": 35684,
+      "excerpt": "Gopi Rangan: Yeah, founders have to be a lot more thoughtful about choosing which VCs to bring on board, and they have to be mindful of managing their expenses in the future, and so will VCs. VCs need to really think about how they manage their growth, fund size growth, team growth, and many other things. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 35377,
+      "timestamps": []
+    },
+    {
+      "end": 36009,
+      "excerpt": "You mentioned something that we didn't touch on, and I want to make sure that we cover that, which is GP commit. What is the right amount of GP commit that you feel is fair, which shows that there is skin in the game on the part of GP, what is too low, what is too high? Beyond certain point, it doesn't make a difference. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35686,
+      "timestamps": []
+    },
+    {
+      "end": 36508,
+      "excerpt": "Miles Dieffenbach: It's a good question. It's very, it's very qualitative. So we'll spend a lot of our times talking candidly with our GPs around what this looks like. From our perspective, there's no amount that's too high. I'll start with that. But for us, we want to see that it's a meaningful part of your liquid net worth. Given this is going to be your full time job and you're handling other people's money You should think that this is the best place for you to invest your capital, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 36011,
+      "timestamps": []
+    },
+    {
+      "end": 36986,
+      "excerpt": "If you're coming to us and saying we should invest in your fund. We think you should think this is a pretty awesome investment opportunity, which should align yourselves with us by putting majority of your liquid net worth, uh, into these funds. And so, listen, like we, we have backed, you know, fund one GPs who haven't made a lot of money, and you're not seeing a 10 percent or 5 percent GP commitment, but we know that it's a majority, if not all, of the liquid net worth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36510,
+      "timestamps": []
+    },
+    {
+      "end": 37416,
+      "excerpt": "And that might turn out to be a 1 percent GP commitment. So that's why we don't say there's no specific number that's like, Oh, we're never going to look at a fund that has 1 percent GP commitment, but we do think as fiduciaries and taking institutions capital, you should be very aligned with us in regards to how you think about GP commitment and how you think about the investment opportunity of the fund that you're running.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36988,
+      "timestamps": []
+    },
+    {
+      "end": 37858,
+      "excerpt": "Gopi Rangan: GP commitment is definitely an indicator, I recognize that. But most emerging managers fund one fund to starting small funds. There's also a significant opportunity cost that walking away from possibly lucrative job offers. There is a school of thought that it is important for GPs to be financially independent, and those GPs make decisions that are not determined by short term incentives, they look for long term incentives.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37418,
+      "timestamps": []
+    },
+    {
+      "end": 38202,
+      "excerpt": "I can see the logic behind that. If we follow that school of thought, then only financially independent people can start VC firms. That breeds a lot of selection bias here, and we don't get to see diversity in the ecosystem. There are probably amazing founders who could be funded, but they don't fall into the ecosystem of those type of VCs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37860,
+      "timestamps": []
+    },
+    {
+      "end": 38522,
+      "excerpt": "So if we expand beyond that, and if we go to, you don't need to be that financially independent as long as you're okay. Therefore, we don't expect high GP commit from you as well because you're not as wealthy as some of the other financially independent people. But those GPs they have the potential to be amazing VCs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38204,
+      "timestamps": []
+    },
+    {
+      "end": 38851,
+      "excerpt": "And they have the opportunity to attract diverse entrepreneurs who otherwise wouldn't get funded. That can be a strong positive for the ecosystem that can also generate massive returns far more than the first cohort of people. VCs who are financially independent. They may not be able to attract the same kind of entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38524,
+      "timestamps": []
+    },
+    {
+      "end": 39072,
+      "excerpt": "By prioritizing on GP commit, do you worry that you might be a little too conservative? And what point would you say that, okay, this is the limit to which I can accept the GP commit and the liquid net worth of the GP? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38853,
+      "timestamps": []
+    },
+    {
+      "end": 39203,
+      "excerpt": "Miles Dieffenbach: No, yeah, we, we completely agree with what you just said. And so we spent a lot of time with our GPs on this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 39074,
+      "timestamps": []
+    },
+    {
+      "end": 39513,
+      "excerpt": "And we typically have access to the information. So, like, we know your angel track record or we know your track record at your prior firm. We know if your carry has vested or if your carry has paid out. So, like, it's going to be pretty hard for us not to know, like, if you've made money or if you haven't.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39205,
+      "timestamps": []
+    },
+    {
+      "end": 39881,
+      "excerpt": "And so we're very aware when folks, like, maybe your carry has not vested. And you're, you're trying to build a family and you do want to be independent. Like we're not expecting you to triple mortgage your house and for that money. And there's a lot of ways still that you can make GP commitments, even with, you know, technically no cash out of your pocket, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39515,
+      "timestamps": []
+    },
+    {
+      "end": 40234,
+      "excerpt": "There's management fee offsets. And there's a lot of different ways where you can align yourselves with the firm. But for us, it's a clear understanding of. Listen, we understand you don't have a massive liquid network. You're young, you're hungry, you're proving yourself. Incredible. And we want you to kill it in this fund that we're committing to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39883,
+      "timestamps": []
+    },
+    {
+      "end": 40795,
+      "excerpt": "And guess what? If you do kill it and you make a ton of returns, you are going to be very liquid. And at which that point, If you're still raising funds and asking us for money, we are, we should be expecting you to be putting those liquid funds into those vehicles. So we're very cognizant of folks situations and completely understanding of folks that maybe don't come from all the same backgrounds and don't have the same, you know, financial settings that maybe folks who have been a partner at 10 years in a multi stage firm and completely aware of that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40236,
+      "timestamps": []
+    },
+    {
+      "end": 41147,
+      "excerpt": "Gopi Rangan: Beautifully articulated. I can see. Why you're excited about venture capital and what we can do together as LPs and VCs. We're coming towards the end of our conversation and I want to ask you one last question I usually ask. What community involvement are you excited about? Which nonprofit organization are you passionate about and why?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 40797,
+      "timestamps": []
+    },
+    {
+      "end": 41461,
+      "excerpt": "Miles Dieffenbach: Yeah, to be honest with you, this might sound like an easy out, but I think Carnegie Mellon, as a nonprofit, I sell this to GPs, but it's truly astounding what happens on campus at Carnegie Mellon and, and how that impacts the world in CMU, we manage $3. 6 billion on behalf of the university.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 41149,
+      "timestamps": []
+    },
+    {
+      "end": 41781,
+      "excerpt": "It's a big number, but we're very underfunded when we compare to our research footprint. Right? So like I was saying, MIT, Stanford, you know, their endowments, Stanford is massive, over 20 billion. And so CMU has a long ways to go. We have a long ways to go to continue to support the university and specifically aid.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41463,
+      "timestamps": []
+    },
+    {
+      "end": 42454,
+      "excerpt": "It's a very expensive currently to go to Carnegie Mellon university. And we're just hitting that threshold of where our draw comes out of the endowment is able to support, you know, kids of need. And so like you said, inclusion and access is everything for us and CMU. It's why I get out of bed every morning. It gets me excited to go to work. And so we tell GPs, listen, you're going out and you're making these investments and they're going to create a multiple of the dollars and you're going to give it back to us. You give it back to us. And then that goes to campus and there is almost like an infinite return on investment of when this money goes back onto campus.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41783,
+      "timestamps": []
+    },
+    {
+      "end": 42776,
+      "excerpt": "Like I said, first ever self driving car, first undergraduate artificial intelligence degree, like the research footprint of the university is just incredible. And so. It's really exciting to see the impact that has not only on Pitch, but on the world. So I couldn't be more excited about the nonprofit that I work for. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42456,
+      "timestamps": []
+    },
+    {
+      "end": 43175,
+      "excerpt": "Gopi Rangan: Miles, talking to you is like a master class on venture capital. You've shared a lot of wisdom, a lot of experiences, your personal points of view on how venture capital work, how it should work, advice to VCs on how to build a VC firm, macroeconomic views, and going down to the details of how to build a fund that's viable, including details like GP commit and those kind of things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 42778,
+      "timestamps": []
+    },
+    {
+      "end": 43504,
+      "excerpt": "I really look forward to talking more and bringing more wisdom from the limited partner world out into the ecosystem, which is typically not well understood. I really appreciate your time, spending time with me today to talk about your position in the ecosystem. I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43177,
+      "timestamps": []
+    },
+    {
+      "end": 43580,
+      "excerpt": "Miles Dieffenbach: Awesome. I had a blast, Gopi. Thanks for having me on. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miles Dieffenbach",
+      "start": 43506,
+      "timestamps": []
+    },
+    {
+      "end": 43871,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 43582,
+      "timestamps": []
+    },
+    {
+      "end": 43924,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43873,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "89225a3890b838162a6a0df854497a65b0e44a6b40a6ce9ab4b41f591e5ad5e1",
+  "text_sha256": "1298bf805bfda5745ee9e59f90f8e600b1b29d6e25249f950df8f7ee2222fcde"
+}

@@ -1,0 +1,1167 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 370,
+      "excerpt": "In many ways it's hypocritical of us as venture capital investors to have our theses be investing in cutting edge technologies and demanding that our portfolio companies leverage the latest in technologies and the latest in culture and processes, whereas our core business doesn't evolve at all. And so throughout our funnel at Two Sigma, we try and be very data driven.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 494,
+      "excerpt": "And by the way, I would say that. I'm a big believer that venture capital is and will always be a human oriented business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 372,
+      "timestamps": []
+    },
+    {
+      "end": 874,
+      "excerpt": "[00:00:29] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. Today's guest is Vinay Iyengar, a venture capital investor at Two Sigma Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 496,
+      "timestamps": [
+        {
+          "offset": 496,
+          "raw": "[00:00:29]",
+          "seconds": 29
+        }
+      ]
+    },
+    {
+      "end": 1233,
+      "excerpt": "He's based in the San Francisco Bay Area, helping Two Sigma build its presence in the Silicon Valley. Vinay calls himself a failed entrepreneur. While he was at Harvard University as an undergraduate student, he started a company which failed. And he talks about how his lack of empathy for customers that he was targeting did not help him build a business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 876,
+      "timestamps": []
+    },
+    {
+      "end": 1639,
+      "excerpt": "And he also explains how he's using that lesson to become a better venture capital investor. He gives specific examples of companies, about how he met the founders, how he built relationship with the founding team and what they did to make it easy for him to get to know them and build conviction. He talks about many insights, including clarity of thought he wants to see in conversations with founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1235,
+      "timestamps": []
+    },
+    {
+      "end": 1872,
+      "excerpt": "He talks about his investment philosophy focused on democratizing creativity by building better infrastructure for the future. Let's talk to Vinay and learn more about his investments. Vinay, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1641,
+      "timestamps": []
+    },
+    {
+      "end": 1967,
+      "excerpt": "[00:02:10] Vinay Iyengar: Thank you so much for having me, Gopi. It's a pleasure to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 1874,
+      "timestamps": [
+        {
+          "offset": 1874,
+          "raw": "[00:02:10]",
+          "seconds": 130
+        }
+      ]
+    },
+    {
+      "end": 2070,
+      "excerpt": "[00:02:13] Gopi Rangan: Vinay, is there an event in your life that had a major impact on your career?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1969,
+      "timestamps": [
+        {
+          "offset": 1969,
+          "raw": "[00:02:13]",
+          "seconds": 133
+        }
+      ]
+    },
+    {
+      "end": 2416,
+      "excerpt": "[00:02:18] Vinay Iyengar: Yeah, for sure. I think probably the event that had the most impact on my life actually predates my life. And it's really about my parents who like you are immigrants to this country from India. They came here for higher education. They were not wealthy. They came here on scholarships. I'm eternally grateful to them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 2072,
+      "timestamps": [
+        {
+          "offset": 2072,
+          "raw": "[00:02:18]",
+          "seconds": 138
+        }
+      ]
+    },
+    {
+      "end": 2739,
+      "excerpt": "Inspired by the sacrifices that they made and the risks that they took to give me and my brother the best opportunities possible. I was really lucky to grow up in a house where education and hard work were really valued. My dad was an engineer. I had very early exposure to technology and grew up loving math and science.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2418,
+      "timestamps": []
+    },
+    {
+      "end": 3225,
+      "excerpt": "I ended up going to Harvard for college and that's sort of where this failed entrepreneur story began. I went to Harvard intending to become an academic. I'd spent many years doing math and computer science research, specifically focused on public key cryptography and thought I would continue down that path and do a PhD. And I very randomly discovered entrepreneurship as a freshman in college. I met a friend and we decided to start a company and build a supercharged email client.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2741,
+      "timestamps": []
+    },
+    {
+      "end": 3625,
+      "excerpt": "You're probably familiar with Superhuman, which is the very popular email client. We were basically trying to build that, but several years too early. The idea was what if we could use NLP to automate a lot of the mundane aspects of email. It was a total failure, but it really sort of captivated me and I sort of caught the entrepreneurship bug and I realized just how magical entrepreneurship is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3227,
+      "timestamps": []
+    },
+    {
+      "end": 4020,
+      "excerpt": "It's one of these special fields where if you can build a great product and a great business, you can have lasting impact at scale in a way that's really special and really unlike any other job out there. I thought venture could be a really cool gig in that you can spot the next trends and help support great entrepreneurs and building businesses that are hopefully more successful than mine.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3627,
+      "timestamps": []
+    },
+    {
+      "end": 4162,
+      "excerpt": "I was lucky to land a gig at Bessemer Venture Partners right out of college. And that was sort of what got me started on my path in venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4022,
+      "timestamps": []
+    },
+    {
+      "end": 4354,
+      "excerpt": "[00:04:15] Gopi Rangan: Well, immigrant parents, especially Indian immigrant parents, they want their kids to either become doctors; that would be the preferred route, or at least engineers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4164,
+      "timestamps": [
+        {
+          "offset": 4164,
+          "raw": "[00:04:15]",
+          "seconds": 255
+        }
+      ]
+    },
+    {
+      "end": 4454,
+      "excerpt": "You were kind of there on the path and then what happened? You became a venture capital investor. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4356,
+      "timestamps": []
+    },
+    {
+      "end": 4686,
+      "excerpt": "[00:04:28] Vinay Iyengar: Exactly. To this day, my parents still have no idea what I do, but I think they're happy because my older brother is a doctor. And so he, he checked the box for the family and now I get to do what I love.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 4456,
+      "timestamps": [
+        {
+          "offset": 4456,
+          "raw": "[00:04:28]",
+          "seconds": 268
+        }
+      ]
+    },
+    {
+      "end": 4701,
+      "excerpt": "So I'm lucky.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4688,
+      "timestamps": []
+    },
+    {
+      "end": 4880,
+      "excerpt": "[00:04:40] Gopi Rangan: you're the black sheep in the family. Didn't follow the rules. Yes. Exactly. How did you become a venture capital investor? What drew you to this space? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4703,
+      "timestamps": [
+        {
+          "offset": 4703,
+          "raw": "[00:04:40]",
+          "seconds": 280
+        }
+      ]
+    },
+    {
+      "end": 5091,
+      "excerpt": "[00:04:49] Vinay Iyengar: Yeah, for sure. As I mentioned, when I was in college and trying to figure out, you know, whether I wanted to be an entrepreneur myself, that was sort of my first exposure to venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 4882,
+      "timestamps": [
+        {
+          "offset": 4882,
+          "raw": "[00:04:49]",
+          "seconds": 289
+        }
+      ]
+    },
+    {
+      "end": 5397,
+      "excerpt": "And I thought it could be a really interesting opportunity. I was lucky to get this gig at Bessemer right out of college. I was based in New York and largely focused on early stage software investing. My initial intention was to do that for a year or two and then try my hand again at starting a company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5093,
+      "timestamps": []
+    },
+    {
+      "end": 5772,
+      "excerpt": "Again, like many people who do venture, I sort of accidentally fell in love with it. I realized just how much fun it is to learn from great entrepreneurs and help them build great businesses. And so fast forward several years, I ended up spending several years at Bessemer and then earlier this year left to join Two Sigma and help them start their new West Coast practice.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5399,
+      "timestamps": []
+    },
+    {
+      "end": 6076,
+      "excerpt": "[00:05:33] Gopi Rangan: Now you mentioned that it was a little too early for the company to be successful. And later when superhuman and others came through, the market was ready. Besides the timing of the market, is there anything else that you learned from the experience you had as an entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5774,
+      "timestamps": [
+        {
+          "offset": 5774,
+          "raw": "[00:05:33]",
+          "seconds": 333
+        }
+      ]
+    },
+    {
+      "end": 6242,
+      "excerpt": "[00:05:48] Vinay Iyengar: Yeah, for sure. I think one of the things that really stuck with me is this idea of how important empathy is to building a great business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 6078,
+      "timestamps": [
+        {
+          "offset": 6078,
+          "raw": "[00:05:48]",
+          "seconds": 348
+        }
+      ]
+    },
+    {
+      "end": 6823,
+      "excerpt": "It's really funny. I look back and I think: what in the world were two college freshmen doing, thinking about starting an enterprise software company? It's hard to build for an audience you don't really understand. That experience has definitely influenced my vantage point as an investor. One of the key things that I look for is this idea of empathy, right? Do founders have deep empathy with the problems that they're solving? That's probably the most important thing in B2B, especially because oftentimes in the world of B2B software, the best products don't necessarily win.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6244,
+      "timestamps": []
+    },
+    {
+      "end": 7032,
+      "excerpt": "It's often the best execution and the best go-to-market that wins. And so having that Deep understanding of how an industry or how a function within an enterprise works is super critical to being successful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6825,
+      "timestamps": []
+    },
+    {
+      "end": 7163,
+      "excerpt": "[00:06:38] Gopi Rangan: This is very interesting. Email is common. Everybody uses it and we're all familiar with how email works.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7034,
+      "timestamps": [
+        {
+          "offset": 7034,
+          "raw": "[00:06:38]",
+          "seconds": 398
+        }
+      ]
+    },
+    {
+      "end": 7430,
+      "excerpt": "But I see your point that when you build an email client, it's mainly sold to enterprise. That's the larger portion of the business model. So that takes a different type of approach compared to building a B2C type of product. Is that what you're referring to? Yes. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7165,
+      "timestamps": []
+    },
+    {
+      "end": 7521,
+      "excerpt": "[00:07:00] Vinay Iyengar: Yeah, absolutely. And I think that's starting to change slowly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 7432,
+      "timestamps": [
+        {
+          "offset": 7432,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 8083,
+      "excerpt": "I think one of the trends that I'm seeing in the SaaS world is that SaaS is becoming consumerized. And so that means the way products are designed is often in a more usable way. The way products are sold is often more in a bottoms up adopted manner. Still, I think this idea of understanding exactly what the pain points are of an enterprise is really critical because at the end of the day, even if you build a great product, selling it and getting enterprise adoption and getting those big contracts is really what's going to help you build a great business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7523,
+      "timestamps": []
+    },
+    {
+      "end": 8158,
+      "excerpt": "[00:07:34] Gopi Rangan: So what kind of investments do you focus on now? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8085,
+      "timestamps": [
+        {
+          "offset": 8085,
+          "raw": "[00:07:34]",
+          "seconds": 454
+        }
+      ]
+    },
+    {
+      "end": 8481,
+      "excerpt": "[00:07:37] Vinay Iyengar: Yeah, for sure. My philosophy as an investor is the democratization of creation. What I mean by that is simply the following, which is that never before in the history of our planet has been easier to build. This relates not only to software, but building physical things or building businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 8160,
+      "timestamps": [
+        {
+          "offset": 8160,
+          "raw": "[00:07:37]",
+          "seconds": 457
+        }
+      ]
+    },
+    {
+      "end": 8891,
+      "excerpt": "We're really living in a golden age for creation. And so on the software side, there are now a wealth of open source tools and libraries and APIs that make it very, very easy to build and ship sophisticated software. We're seeing innovations like 3D printing and even trends like globalization and more advanced supply chains that make it very easy to build and ship a physical product anywhere in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8483,
+      "timestamps": []
+    },
+    {
+      "end": 9220,
+      "excerpt": "You have tools like Shopify and Stripe among others that now have basically lowered the barriers to entrepreneurship to near zero. We're living in a magical time for creation. I think one of my core philosophies as an investor is investing in the technologies that are enabling this creation to continue to compound and expand.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8893,
+      "timestamps": []
+    },
+    {
+      "end": 9532,
+      "excerpt": "In a word, I would say infrastructure is one of the core things that I invest in. I often tell people I invest in infrastructure and they think I'm talking about roads and bridges. But in a way, I am investing in the roads and bridges or sort of the digital means to help build technology and build businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9222,
+      "timestamps": []
+    },
+    {
+      "end": 9835,
+      "excerpt": "[00:08:58] Gopi Rangan: You're building the information superhighway infrastructure. Yeah. Democratization of creative work, that's an interesting way to look at it. What does it mean for you? What kind of companies do you look for? Can you give an example of a company that you recently invested in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9534,
+      "timestamps": [
+        {
+          "offset": 9534,
+          "raw": "[00:08:58]",
+          "seconds": 538
+        }
+      ]
+    },
+    {
+      "end": 9932,
+      "excerpt": "[00:09:12] Vinay Iyengar: Yeah, for sure. I think this means a whole bunch of different things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 9837,
+      "timestamps": [
+        {
+          "offset": 9837,
+          "raw": "[00:09:12]",
+          "seconds": 552
+        }
+      ]
+    },
+    {
+      "end": 10257,
+      "excerpt": "A lot of people think also that infrastructure just means boring stuff related to servers and cloud infrastructure, but I think it really means anything that helps people to build. One of my favorite companies that I invested in back in Bessemer in the series A of is a business called Coder, which is building a cloud IDE.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9934,
+      "timestamps": []
+    },
+    {
+      "end": 10636,
+      "excerpt": "Simplistically, you can think of the business as almost like Google Docs for code. Or a product that connects any code editor to the elastic compute and storage resources of the public cloud. And, you know, Coder is, is a phenomenal story for a lot of reasons. I think one of my favorite parts about Coder is the fact that the three co founders are all autodidact, self taught.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10259,
+      "timestamps": []
+    },
+    {
+      "end": 10996,
+      "excerpt": "They all met when they were teenagers in this game called Minecraft. While they were teenagers, built a Minecraft server business that was generating tens of thousands of dollars in revenue a month. They're going to skip college and they decided to basically spend their careers building technology. And Coder was very much born out of their own experiences.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10638,
+      "timestamps": []
+    },
+    {
+      "end": 11344,
+      "excerpt": "I earlier alluded to this idea of empathy with the problems that you're solving. Coder is a great example of this. The three founders were all actually living in different parts of the country. Kyle was living in Canada. John Andrew was living in New York. Ammar was living in Alabama and they all met online and started building things together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10998,
+      "timestamps": []
+    },
+    {
+      "end": 11651,
+      "excerpt": "Coder was basically the tool that they wish they had while they were building their first businesses, which is a tool that helps remote and distributed teams build software together. Coder is a really fascinating story for that reason. The other reason is because the core product is actually open source.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11346,
+      "timestamps": []
+    },
+    {
+      "end": 12157,
+      "excerpt": "They built and released this product that's totally free to use. Anyone in the world can use it. And they have sort of an enterprise version of the product with more advanced features that they sell on top of that. So back to this theme of democratizing creation, I think Coder, a great example of that, both in terms of the actual story of the founders, as well as the core business model of itself, which gives away the core product for free and only charges enterprises when they're using it at scale.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11653,
+      "timestamps": []
+    },
+    {
+      "end": 12391,
+      "excerpt": "[00:11:21] Gopi Rangan: How did you meet the founders? It sounds like a really interesting story and they're all located in three different places. What was the interaction like? What did you ask them? How did you get to know them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12159,
+      "timestamps": [
+        {
+          "offset": 12159,
+          "raw": "[00:11:21]",
+          "seconds": 681
+        }
+      ]
+    },
+    {
+      "end": 12613,
+      "excerpt": "[00:11:30] Vinay Iyengar: Yeah, for sure. So I think this is one of the special aspects of being a relatively young person in venture. Oftentimes you can build close relationships with founders who are, who are your age.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 12393,
+      "timestamps": [
+        {
+          "offset": 12393,
+          "raw": "[00:11:30]",
+          "seconds": 690
+        }
+      ]
+    },
+    {
+      "end": 12949,
+      "excerpt": "Sometimes it really works out. But the relationship started with a cold email. Like many others, I was spending time exploring the world of developer tooling and infrastructure. I cold emailed John Andrews, the CEO, and we sort of hit it off immediately. As I mentioned, I'd spent time as a developer and spent time building software.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12615,
+      "timestamps": []
+    },
+    {
+      "end": 13265,
+      "excerpt": "And the idea just totally made sense to me, which is that everything is moving to the cloud. All of software is moving to the cloud, yet the core process of developing software itself is still very tied to our local machine. So why hasn't anyone migrated that to the cloud? That vision very much resonated with me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12951,
+      "timestamps": []
+    },
+    {
+      "end": 13600,
+      "excerpt": "And even today, I think a lot about this broad vision of Coder as a tool to democratize creation. And in particular, like I often think about, I imagine a young kid in a village in India can now, leveraging tools like Coder, build the sort of advanced machine learning algorithms that are built in the labs at Harvard and MIT, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13267,
+      "timestamps": []
+    },
+    {
+      "end": 13964,
+      "excerpt": "They can take a course on edX or Coursera. They can use Coder and leverage the compute and storage resources of the cloud. To basically build the advanced algorithms are things like TensorFlow and CAFE and these open source tools. It's just magical to me to think about that idea that even five or 10 years ago, these sort of things were completely inaccessible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13602,
+      "timestamps": []
+    },
+    {
+      "end": 14392,
+      "excerpt": "And now you can be anywhere in the world and all you need is internet connection and a laptop. You can build sort of really advanced technology. To me, that vision, which Coder is still working towards is really inspiring. And, and it's one of the most inspiring things about venture more broadly is that you get to work with entrepreneurs that if they succeed can really change the world and make people's lives a lot better.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13966,
+      "timestamps": []
+    },
+    {
+      "end": 14708,
+      "excerpt": "[00:13:22] Gopi Rangan: Wait, you said that you cold emailed the founders. Let me make sure that I understand this. Usually in the world, entrepreneurs chase investors. They send cold emails or they try to find a warm introduction. But in this case, you email them and you pitched yourself to them. Is that right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14394,
+      "timestamps": [
+        {
+          "offset": 14394,
+          "raw": "[00:13:22]",
+          "seconds": 802
+        }
+      ]
+    },
+    {
+      "end": 14779,
+      "excerpt": "[00:13:40] Vinay Iyengar: Yeah, absolutely. I think it's very common.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 14710,
+      "timestamps": [
+        {
+          "offset": 14710,
+          "raw": "[00:13:40]",
+          "seconds": 820
+        }
+      ]
+    },
+    {
+      "end": 15386,
+      "excerpt": "I really think of venture similar to how like many would think of dating almost, where if you're trying to find a partner, the people who who you approach are probably gonna be higher quality than the people who approach you. It's a very similar analogy with investing. I'm a big believer in cold emails. I've sent a lot to mentors in my life and, and I send a lot to entrepreneurs and I'm a big believer that the best opportunities and the best companies aren't gonna be knocking on my door asking for money. Especially as a young person in venture who doesn't have as much of a track record and a brand.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14781,
+      "timestamps": []
+    },
+    {
+      "end": 15872,
+      "excerpt": "It's really my responsibility to go out and chase the best opportunities and sell myself. At the end of the day, all money is green and in venture, we're selling a commodity. And so it's really important to be aggressive and outbound driven. That was one of the core lessons I took away from my time at Bessemer, where they really instilled in us this culture of, of going out and cold emailing and chasing down companies, even with a brand and a track record of a firm like Bessemer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15388,
+      "timestamps": []
+    },
+    {
+      "end": 16264,
+      "excerpt": "[00:14:41] Gopi Rangan: That's true. I do it as well. Venture is a different kind of asset class where the asset chooses the investor and not the other way. Although from the outside, it looks like entrepreneurs are chasing investors all the time. When it gets to the point of making decisions, entrepreneurs have choice and they can pick between two investors and only one of them gets in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15874,
+      "timestamps": [
+        {
+          "offset": 15874,
+          "raw": "[00:14:41]",
+          "seconds": 881
+        }
+      ]
+    },
+    {
+      "end": 16362,
+      "excerpt": "And who is that going to be? And that depends on how the investor positions himself or herself. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16266,
+      "timestamps": []
+    },
+    {
+      "end": 16595,
+      "excerpt": "[00:15:08] Vinay Iyengar: Yeah, absolutely. I think, it's also part of the reason why you need to be really thesis driven in venture as well, right? Having a unique point of view and a unique way that you can add value to founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 16364,
+      "timestamps": [
+        {
+          "offset": 16364,
+          "raw": "[00:15:08]",
+          "seconds": 908
+        }
+      ]
+    },
+    {
+      "end": 16848,
+      "excerpt": "I know you've done this really effectively at Sure Ventures with the focus on sort of FinTech and Insurtech and having a point of view in a way that you can uniquely add value there. And so I think that's probably been effective for you, I'd imagine. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16597,
+      "timestamps": []
+    },
+    {
+      "end": 17154,
+      "excerpt": "[00:15:31] Gopi Rangan: Yeah, it's been very effective for me. It's good for the world to know who I am and my firm, what we stand for, what kind of focus we have, what do we invest in, then in conversations where people are involved, where I'm not involved, they can describe Sure Ventures more clearly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16850,
+      "timestamps": [
+        {
+          "offset": 16850,
+          "raw": "[00:15:31]",
+          "seconds": 931
+        }
+      ]
+    },
+    {
+      "end": 17593,
+      "excerpt": "And that's the effort that I'm building. I learned early in my career that it's very important for the rest of the world to know what I do. So it'll come up at conversations and it'll be more accurate. Definitely. Since you joined Two Sigma, has anything changed for you in your focus and the kind of investments that you make stage wise or ownership in the company you prefer to take board seats or any other mechanics of an investment?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17156,
+      "timestamps": []
+    },
+    {
+      "end": 17890,
+      "excerpt": "[00:16:12] Vinay Iyengar: At Two Sigma, we are really trying to build the next legendary venture firm. And I think we're trying to approach things a little differently. In terms of sort of quick context, we are the venture arm of a very large hedge fund in New York called Two Sigma Investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 17595,
+      "timestamps": [
+        {
+          "offset": 17595,
+          "raw": "[00:16:12]",
+          "seconds": 972
+        }
+      ]
+    },
+    {
+      "end": 18237,
+      "excerpt": "That's a $60 billion quantitative asset manager. Though Two Sigma is technically an asset manager, we sort of think of ourselves as a technology company. The broader hedge fund has a couple thousand software developers. All decisions are made algorithmically. A few hundred of those people have PhDs in machine learning or distributed computing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17892,
+      "timestamps": []
+    },
+    {
+      "end": 18623,
+      "excerpt": "So it really is a large data science shop more than anything else. given that heritage, we had been investing in technology companies for the past decade or so, and have more formalized our venture capital arm in the last few years. We have a 300 million fund. That is like at a high level, what we're focused on at Two Sigma, which is leading seed, series A and series B investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18239,
+      "timestamps": []
+    },
+    {
+      "end": 18957,
+      "excerpt": "The one thing that is very different is that our approach to venture is radically different from a lot of our peer venture capital firms. What I mean by that specifically is given our passion for data driven businesses and data and machine learning broadly. We're trying to be far more data driven in the way that we make decisions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18625,
+      "timestamps": []
+    },
+    {
+      "end": 19488,
+      "excerpt": "As I mentioned, I had the privilege of starting my career in venture at Bessemer, which has a unique distinction of being the longest standing venture firm in the world. It started in the early 20th century. What's fascinating is they've really nailed this process around how to be a great venture capital firm, but the actual process itself hasn't materially evolved in the past half a century or so. The same way in which they evaluate companies and source companies and help portfolio companies has largely remained unchanged.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18959,
+      "timestamps": []
+    },
+    {
+      "end": 19943,
+      "excerpt": "Similarly, you look at a firm like Benchmark, that's five people without much infrastructure making investments. Our core belief is that these firms are great. They have a great track record and brand, but as we're trying to build the next great venture capital firm, we have to do it differently. The next great venture capital firm will not be five dudes sitting around a table using their networks and their gut feelings to make investment decisions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19490,
+      "timestamps": []
+    },
+    {
+      "end": 20394,
+      "excerpt": "We're a big believer that it's going to be all about data driven investment decisions, providing a lot more value to your portfolio companies post investment. In many ways, hypocritical of us as venture capital investors to have our thesis be investing in cutting edge technologies and demanding that our portfolio companies leverage the latest in technologies and the latest in culture and processes whereas our core business doesn't evolve at all.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19945,
+      "timestamps": []
+    },
+    {
+      "end": 20919,
+      "excerpt": "And so throughout our funnel at Two Sigma, we try and be very data driven. And, and by the way, I would say that I'm a big believer that venture capital is and will always be a human oriented business. It's about building relationships. It's about trust. It's ultimately about investing in people and teams, but throughout this funnel, whether it's sourcing or diligence or even supporting our company's post investment. I think there are ways that we can build and leverage technology to make that process more efficient. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20396,
+      "timestamps": []
+    },
+    {
+      "end": 21243,
+      "excerpt": "[00:19:36] Gopi Rangan: You say that venture capital will always be a human relationship based business, but you work for a quant hedge fund fund, right? And there are hundreds of software engineers building models, trying to figure out how to make it all automated and without having human involvement in decision making.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20921,
+      "timestamps": [
+        {
+          "offset": 20921,
+          "raw": "[00:19:36]",
+          "seconds": 1176
+        }
+      ]
+    },
+    {
+      "end": 21344,
+      "excerpt": "What makes you feel like venture capital is never going to fit into that hedge fund type of model? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21245,
+      "timestamps": []
+    },
+    {
+      "end": 21588,
+      "excerpt": "[00:19:58] Vinay Iyengar: Ultimately, one of the big problems in our business is how do we identify greatness at a very early stage based on a technology and a team and an idea, and often without a lot of data by way of financial performance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 21346,
+      "timestamps": [
+        {
+          "offset": 21346,
+          "raw": "[00:19:58]",
+          "seconds": 1198
+        }
+      ]
+    },
+    {
+      "end": 21998,
+      "excerpt": "It'll always be about having this read about people, which really algorithms and technology are never going to be as good as humans at that. But more importantly, as we alluded to earlier in this conversation, venture is an asset class where the asset chooses the investor. And so ultimately, regardless of how sophisticated our algorithms are at picking what the next billion dollar business is going to be.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21590,
+      "timestamps": []
+    },
+    {
+      "end": 22733,
+      "excerpt": "We need to convince that entrepreneur that we are the people that they want to work with and that we are the ones that they should trust and who can add the most value to them. For those reasons, venture will always remain a human oriented business. It's in the things like sourcing opportunities and finding ways to be more data driven and figuring out the companies that may be interesting or where there is more data leveraging data science to make decisions more effectively or, or augment that decision making with some data and then even post investment, if there are tools or software that we can build or product ties for our portfolio companies to make their lives easier, that's where we're exploring the use of technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22000,
+      "timestamps": []
+    },
+    {
+      "end": 22894,
+      "excerpt": "But in this sort of critical moment of we're making a decision, we're trying to sign a term sheet, I don't think technology will ever be able to replace that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22735,
+      "timestamps": []
+    },
+    {
+      "end": 23062,
+      "excerpt": "[00:21:31] Gopi Rangan: Yeah, the aspects of due diligence that could be accelerated using data and maybe even having some objective views will eliminate some biases.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22896,
+      "timestamps": [
+        {
+          "offset": 22896,
+          "raw": "[00:21:31]",
+          "seconds": 1291
+        }
+      ]
+    },
+    {
+      "end": 23391,
+      "excerpt": "But I also believe that there's a huge human portion of it that cannot be easily replaced anytime in the near future. You've been on the entrepreneur side and now you've been in venture and a couple of different firms in two different geographies. Do you see anything that kind of feels like this needs to change about venture?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23064,
+      "timestamps": []
+    },
+    {
+      "end": 23417,
+      "excerpt": "What would it be? Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23393,
+      "timestamps": []
+    },
+    {
+      "end": 23731,
+      "excerpt": "[00:22:00] Vinay Iyengar: Yeah, that's a great question. One of the things that I've thought of, and I've come of age in venture in what I would call sort of the post 'Me Too' movement in venture, we really need to step up our efforts to make the venture and startup ecosystem a more diverse and inclusive place.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 23419,
+      "timestamps": [
+        {
+          "offset": 23419,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 24125,
+      "excerpt": "I know this is an area you've thought quite a bit about, and you've had awesome guests like Lo Toney on the show as well, who are making a lot of strides in that world. But this is an area I'm really passionate about. The venture and startup ecosystem needs to do better. I am a big believer in this idea that technology plus capital are maybe the most powerful forces for social good, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23733,
+      "timestamps": []
+    },
+    {
+      "end": 24570,
+      "excerpt": "If you look at the remarkable rise in human living standards over the past 200 years, arguably very attributable to these forces. But we also have a history, in this country specifically, of systemic oppression and injustice and subjugation that the startup and venture ecosystem can remedy. But I would go as far as to say, we have an obligation to remedy that not only because it's good for the world, but because I think it's good business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24127,
+      "timestamps": []
+    },
+    {
+      "end": 25207,
+      "excerpt": "Diverse teams perform better. Investing in diverse and inclusive teams will give us an opportunity to invest in areas that are underserved and to make a lot of money. And so it's not just about doing good for the world, but it's about being successful as venture capital investors. Part of that is efforts like this podcast, that are aiming to put out the knowledge that may only be available to people who've worked at certain institutions or have certain networks and really trying to democratize access to that information as well. I'd be curious to get your take as well on how you see venture investors playing into that movement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24572,
+      "timestamps": []
+    },
+    {
+      "end": 25621,
+      "excerpt": "[00:23:38] Gopi Rangan: Yeah, very well said. We need more diversity in venture, both at the investor level and also at the entrepreneur level where we need to invest in more diverse entrepreneurs. And that's something that I hope will change in the future. My plan is to use this podcast as an avenue to make information available to different types of entrepreneurs who may not have the network that others do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25209,
+      "timestamps": [
+        {
+          "offset": 25209,
+          "raw": "[00:23:38]",
+          "seconds": 1418
+        }
+      ]
+    },
+    {
+      "end": 26030,
+      "excerpt": "Now as a result of listening to the podcast, people know exactly how someone at Two Sigma thinks. Or someone who's an upcoming emerging manager in the venture world; how does he think? So that's now available to the whole world. Thanks to you for coming on to the show for the interview. So that's the view I have, and I'm contributing in a small way through this podcast, but I think a lot needs to change.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25623,
+      "timestamps": []
+    },
+    {
+      "end": 26373,
+      "excerpt": "[00:24:22] Vinay Iyengar: It's definitely all about the baby steps. While I was at Bessemer, I was lucky to help start the diversity and inclusion initiative at the firm. And more importantly, help start a program called the Bessemer Fellowship, which was a summer internship program for underrepresented students at our portfolio companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 26032,
+      "timestamps": [
+        {
+          "offset": 26032,
+          "raw": "[00:24:22]",
+          "seconds": 1462
+        }
+      ]
+    },
+    {
+      "end": 26805,
+      "excerpt": "And we're doing something very similar at Two Sigma, which is a mentorship program for underrepresented young people who want to get their foot in the door at startups and venture firms. At any of these sort of institutions, whether it's a venture firm or even a startup where access is largely driven by who, as opposed to what, I think we do have an obligation to break down those barriers and make these fields more accessible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26375,
+      "timestamps": []
+    },
+    {
+      "end": 27046,
+      "excerpt": "We've also seen over the past several years, the amount of wealth creation that has happened in the tech ecosystem more broadly. So it's also a question of how do we make that more accessible for people from a wide variety of backgrounds. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26807,
+      "timestamps": []
+    },
+    {
+      "end": 27213,
+      "excerpt": "[00:25:16] Gopi Rangan: What are some things that entrepreneurs do to make it easy for you to get to know them, get to understand their business and form conviction?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27048,
+      "timestamps": [
+        {
+          "offset": 27048,
+          "raw": "[00:25:16]",
+          "seconds": 1516
+        }
+      ]
+    },
+    {
+      "end": 27574,
+      "excerpt": "[00:25:24] Vinay Iyengar: Sure. I think, as I mentioned, it's really about empathy for me more than anything else. For me to understand why an entrepreneur has started the business that they have started and why they have deep empathy with the problem that they're solving. I think that for me is one of the most important things that I look for in a founder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 27215,
+      "timestamps": [
+        {
+          "offset": 27215,
+          "raw": "[00:25:24]",
+          "seconds": 1524
+        }
+      ]
+    },
+    {
+      "end": 27811,
+      "excerpt": "I think the other thing that I look for is what I would call clarity of thought or put another way: can this entrepreneur explain a complex idea in a simple way? To me, that's one of the most compelling aspects of a great entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27576,
+      "timestamps": []
+    },
+    {
+      "end": 28271,
+      "excerpt": "If they can explain something complex in a simple way, it shows that they will be able to very effectively recruit great talent around them. They'll be very effective at pitching their business to perspective customers. They'll be very effective at raising money. It's this idea of really telling stories and being able to sell people on a vision that I think is really inspiring. It's a trait that the best entrepreneurs all share these two things together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27813,
+      "timestamps": []
+    },
+    {
+      "end": 28467,
+      "excerpt": "It's really about deep empathy with the problem that you're solving and this clarity of thought and storytelling ability that I think something that I really enjoy in founders that I work with. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28273,
+      "timestamps": []
+    },
+    {
+      "end": 28602,
+      "excerpt": "[00:26:37] Gopi Rangan: Can you give an example of a startup where you felt the deep empathy and also you saw the clarity of thought?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28469,
+      "timestamps": [
+        {
+          "offset": 28469,
+          "raw": "[00:26:37]",
+          "seconds": 1597
+        }
+      ]
+    },
+    {
+      "end": 29242,
+      "excerpt": "[00:26:43] Vinay Iyengar: Yeah, for sure. One of the companies that I'm involved with now at Two Sigma is a business called Remote.com. And it also very much falls in this broader trend of the democratization of creation. Remote.com's product is providing the core infrastructure to help teams manage and hire remote and distributed workforces. So one of the things a lot of people don't understand is that if you wanted to hire a team of developers in Ukraine, for example, it's actually quite complex. There are a bunch of local laws and regulations and tax rules that you have to follow, you have to pay people in their local currency.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 28604,
+      "timestamps": [
+        {
+          "offset": 28604,
+          "raw": "[00:26:43]",
+          "seconds": 1603
+        }
+      ]
+    },
+    {
+      "end": 29589,
+      "excerpt": "It's a real pain. And so Remote is basically trying to abstract away that complexity and make it very easy for people to hire the best talent anywhere. And Remote was founded by an awesome guy named Job van der Voort, who was an early exec at GitLab and many people don't know this, but GitLab was actually a fully remote company from the start.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29244,
+      "timestamps": []
+    },
+    {
+      "end": 29914,
+      "excerpt": "GitLab is actually another Two Sigma portfolio company. Basically, Job experienced firsthand the pain of hiring and managing a distributed and remote workforce at GitLab. Now, remote work is suddenly the hot trend and everyone's really excited about it. But GitLab was proving early on that that model is definitely viable.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29591,
+      "timestamps": []
+    },
+    {
+      "end": 30208,
+      "excerpt": "Now they're sort of building the infrastructure that's making that easy for anyone to do. And so I think that's a great example that I've seen of someone who has deep empathy with the problem that they're solving and was able to sort of explain it and articulate the need in a very clear way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29916,
+      "timestamps": []
+    },
+    {
+      "end": 30462,
+      "excerpt": "Finally, I think Remote has really benefited from a lot of the tailwinds we've seen this year around COVID, where now remote work is not only something that a lot of teams are considering, but it has become sort of the new standard for a lot of teams. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30210,
+      "timestamps": []
+    },
+    {
+      "end": 30700,
+      "excerpt": "[00:28:33] Gopi Rangan: Yeah, it looks like Remote was preparing us for the post COVID world, even before COVID started. So are there things that entrepreneurs, do that tick you off? You wish they didn't do? Do you have any pet peeves? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30464,
+      "timestamps": [
+        {
+          "offset": 30464,
+          "raw": "[00:28:33]",
+          "seconds": 1713
+        }
+      ]
+    },
+    {
+      "end": 30930,
+      "excerpt": "[00:28:46] Vinay Iyengar: Excessive hubris or confidence. While it's a necessary trait of being an entrepreneur, you have to be salesy, you have to really Put your best foot forward. If you overdo it, it can be very off putting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 30702,
+      "timestamps": [
+        {
+          "offset": 30702,
+          "raw": "[00:28:46]",
+          "seconds": 1726
+        }
+      ]
+    },
+    {
+      "end": 31633,
+      "excerpt": "The reality isbuilding a startup is incredibly hard and I wouldn't know it. I haven't been a successful entrepreneur myself, but I've seen it enough times now to know that there are a variety of pitfalls that entrepreneurs can fall into. For an entrepreneur to be able to acknowledge that they don't have it all figured out and that there are a bunch of challenges that will lie ahead, that's one of the most encouraging signs in an entrepreneur, because again, it shows that they're self aware that they're humble, that they know just how difficult the path ahead could be. The other thing that we see all the time is an entrepreneur will come to us and ask for money and have these wild projections.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30932,
+      "timestamps": []
+    },
+    {
+      "end": 31952,
+      "excerpt": "\"I'm going to go from one to 12 million of ARR this year.\" Then we check in with them in six months and they've nowhere even close to hit those projections and, and they'll totally revise their projections and be like, \"Hey, we're still at 1 million of ARR now, but. 12 months from now we'll be at 12 million of ARR.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31635,
+      "timestamps": []
+    },
+    {
+      "end": 32276,
+      "excerpt": "It goes to this question of, are entrepreneurs self aware enough, even with things like the way that they're projecting their business growing, are they realistic? Are they humble? And, and when, in, when entrepreneurs don't hit their goals and aren't able to, Hit those ambitious numbers that they set out for themselves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31954,
+      "timestamps": []
+    },
+    {
+      "end": 32530,
+      "excerpt": "Are they self aware about it? And do they acknowledge their mistakes to me? Humility is one of the most important things I look for in great founders. And that sort of arrogance and ignorance, frankly, is probably the thing that ticks me off the most. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32278,
+      "timestamps": []
+    },
+    {
+      "end": 32677,
+      "excerpt": "[00:30:22] Gopi Rangan: Yeah. In a world where we have so much hype, it's very easy get carried away by unrealistic, over optimistic projections.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32532,
+      "timestamps": [
+        {
+          "offset": 32532,
+          "raw": "[00:30:22]",
+          "seconds": 1822
+        }
+      ]
+    },
+    {
+      "end": 33013,
+      "excerpt": "And some entrepreneurs fall trap into that. And it's much better to have a practical approach. It ticks me off too this conversation is being fantastic. It's phenomenal. I'm so happy that we have this opportunity to chat. You definitely have a deep understanding of what is venture and you have insights that you are willing to share.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32679,
+      "timestamps": []
+    },
+    {
+      "end": 33197,
+      "excerpt": "So thank you very much for doing that. Towards the end, uh, uh, this is the time when I usually ask about community involvement. Is there a nonprofit organization you are a part of. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33015,
+      "timestamps": []
+    },
+    {
+      "end": 33401,
+      "excerpt": "[00:31:02] Vinay Iyengar: Yeah, absolutely. I am really excited about as a nonprofit called the Equal Justice Initiative, which was started by a very famous public interest lawyer named Brian Stevenson.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 33199,
+      "timestamps": [
+        {
+          "offset": 33199,
+          "raw": "[00:31:02]",
+          "seconds": 1862
+        }
+      ]
+    },
+    {
+      "end": 33710,
+      "excerpt": "And for you and your guests who haven't, his Ted talk that he gave I believe in 2013 is probably the most inspirational Ted talk that I've ever seen. I highly recommend it. His organization is basically largely focused on criminal justice reform and advancing justice for all sort of groups in this country.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33403,
+      "timestamps": []
+    },
+    {
+      "end": 34173,
+      "excerpt": "In particular, this year, in light of things like the murder of George Floyd and a lot of the Black Lives Matter protests, they've been super active and done some really amazing work. That's an organization that I try to support financially and more broadly, this area of advancing diversity and inclusion in our startup and venture ecosystem is a community related project that I am very excited about and actively try to work on through my role at Two Signal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33712,
+      "timestamps": []
+    },
+    {
+      "end": 34810,
+      "excerpt": "[00:31:59] Gopi Rangan: Thank you so much for sharing your experiences, starting with your entrepreneurship stint during college and how you were on track to become a professor, but you changed course and from entrepreneurship, you switched to venture capital. And now you're actively investing with this theme of democratizing. creative work by building a better infrastructure for the future. Very good examples of the specific things that you look for, especially empathy and, clarity of thought in your, in your conversations. So thank you so much for sharing all your stories and insights. It's been incredibly insightful to hear.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34175,
+      "timestamps": [
+        {
+          "offset": 34175,
+          "raw": "[00:31:59]",
+          "seconds": 1919
+        }
+      ]
+    },
+    {
+      "end": 34856,
+      "excerpt": "Thank you so much again for having me. It's ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34812,
+      "timestamps": []
+    },
+    {
+      "end": 34908,
+      "excerpt": "[00:32:36] Vinay Iyengar: really been a pleasure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Vinay Iyengar",
+      "start": 34858,
+      "timestamps": [
+        {
+          "offset": 34858,
+          "raw": "[00:32:36]",
+          "seconds": 1956
+        }
+      ]
+    },
+    {
+      "end": 35209,
+      "excerpt": "[00:32:38] Gopi Rangan: Thank you for listening to the SureShot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34910,
+      "timestamps": [
+        {
+          "offset": 34910,
+          "raw": "[00:32:38]",
+          "seconds": 1958
+        }
+      ]
+    },
+    {
+      "end": 35262,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35211,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "fed93999d5bca4a35b888e617cf8a744414d004fff7c58a19af6088819d1d09e",
+  "text_sha256": "46d9eeaa6e17fdd132faea7b774cde27cf5f61d50c5bbfa2b80f383fb2f9abb3"
+}

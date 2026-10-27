@@ -1,0 +1,601 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 343,
+      "excerpt": "Alexa Von Tobel: New York City, I think, is the capital of the world in so many ways. I said to myself, why isn't there more young, aggressive capital here that has world-beating attitudes that wants to go focus on the next generation of amazing founders and help them go and bend space and time and create really special companies right here?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 592,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur. A podcast for founders with ambitious ideas, venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 345,
+      "timestamps": []
+    },
+    {
+      "end": 1094,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. In this episode, my guest is Alexa Von Tobel. She is the founder and managing partner at Inspired Capital. Inspired Capital is a New York City-based venture capital firm. Prior to starting Inspired Capital, she was the chair of Northwestern Mutual venture capital division and she was also a successful entrepreneur. Let's talk to Alexa to find out how she makes investments and what she looks for in entrepreneurs. Alexa, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 594,
+      "timestamps": []
+    },
+    {
+      "end": 1146,
+      "excerpt": "Alexa Von Tobel: Thank you so much for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 1096,
+      "timestamps": []
+    },
+    {
+      "end": 1281,
+      "excerpt": "Gopi Rangan: I'm looking forward to our conversation, but let's start with you. Tell us about your childhood. Where did you grow up? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1148,
+      "timestamps": []
+    },
+    {
+      "end": 1779,
+      "excerpt": "Alexa Von Tobel: Sure. I came from a family that has two very interesting and different routes. My dad's side of the family is from Europe. My dad was born in Belgium and then my mom's side of the family's from South Bend, Indiana; very different backgrounds and worldviews but my parents had a very similar vision for the future. My brother was born in Germany, my other brother and I were actually born in Kentucky and then my parents moved to Jacksonville, Florida when I was eight months old.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 1283,
+      "timestamps": []
+    },
+    {
+      "end": 2419,
+      "excerpt": "So as far as I know, I was born and raised essentially in Florida. I grew up with two older brothers, and that is an important thing to say out loud because they, in so many ways, shaped my worldview. I have one brother who's almost eight years older than me and another brother who's about four years older than me. I always had two fast-moving older brothers that if I ever wanted to have anybody to play with, I had to essentially keep up. In so many ways, that set the pace of how I thought about life, which was I had to be tough. I needed to keep up. I had to be able to run fast. I will always be grateful to both of them for that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1781,
+      "timestamps": []
+    },
+    {
+      "end": 3329,
+      "excerpt": "In middle school, I was a gymnast to the degree where I didn't go to school full time and actually trained most weeks, six days a week for four to five hours a day. I will always credit gymnastics to being where I really learned exceptional discipline around hard work and time management skills. Because when you have no time, you have to manage your time wisely. I used to go to school in the morning and then go to gymnastics from three till eight, it took about 35-40 minutes to get home. I would have walked in the door when I was in middle school until nine o'clock. Then I had to finish all of my homework and if I wanted to even have the chance to call a friend, it had to be done quickly. So much of efficiency, time management, rigor around being organized came probably from my DNA. My parents were quite organized, but then also from the fact that necessity is the mother of invention and skills.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2421,
+      "timestamps": []
+    },
+    {
+      "end": 3754,
+      "excerpt": "When I analyze my own life, I really look back to my work ethic from being great at sports. As I transitioned to high school, I played many other sports. And then I got into Harvard and actually, I was a diver at Harvard. Also, I dove platform in springboard and I really only started diving my senior year, but my gymnastics training pretty fantastically helped me to  be pretty darn good at diving without much training. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3331,
+      "timestamps": []
+    },
+    {
+      "end": 4297,
+      "excerpt": "I went to Harvard undergrad and when I got there, just like my whole family - they're all in medicine  - I assumed I would do that. The best way I can describe it is, I had an awakening by the time I got to Harvard, because I've always been an entrepreneur. I was always cooking up businesses. Always, instead of having a lemonade stand, I was selling stuff at my lemonade stand that I'd collected around my house, which my mom obviously did not love. I had a little tutoring business when I was in high school. I was always up to something.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3756,
+      "timestamps": []
+    },
+    {
+      "end": 4543,
+      "excerpt": "By the time I got to college, I realized that not only was it obvious that I really love business, but I'm very entrepreneurial. And I finally had the words to describe it, \"oh, I'm an entrepreneur\". That's what this restless energy really is. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4299,
+      "timestamps": []
+    },
+    {
+      "end": 4893,
+      "excerpt": "That gives you a sense of my childhood. I had a pretty normal childhood. I grew up in a family where my dad was a doctor and my mom is still a pediatric nurse practitioner. Both my brothers are doctors and entrepreneurs themselves. I was the black sheep. Everybody else had multiple degrees and I was the one who went really directly into business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4545,
+      "timestamps": []
+    },
+    {
+      "end": 5201,
+      "excerpt": "Gopi Rangan: Wow! Training as an athlete does certainly give you the discipline to manage time, manage your resources, and aim really, really high. And I see that you have that attitude built-in from your early childhood. You also overdosed on Harvard. You went there twice, for undergrad and for your MBA.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4895,
+      "timestamps": []
+    },
+    {
+      "end": 5349,
+      "excerpt": "I'm curious to understand how that education and also your early career in banking, how did that prepare you for starting a venture capital firm? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5203,
+      "timestamps": []
+    },
+    {
+      "end": 5549,
+      "excerpt": "Alexa Von Tobel: Well, I was so grateful to get into Harvard business school when I was a senior in college. It was kind of pre-two-plus-two. So they made it easy for people to defer and come later.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 5351,
+      "timestamps": []
+    },
+    {
+      "end": 5906,
+      "excerpt": "It felt somewhat flexible. I went for one semester in the fall of 2008. At that point, I had already started LearnVest and I felt that I really wanted to go. It was so clear to me that the business idea for LearnVest, which is: how do you help America with their wallet in a way that's forward-thinking and, and really trustworthy...it was time to launch!",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5551,
+      "timestamps": []
+    },
+    {
+      "end": 6550,
+      "excerpt": "I went to HBS because I had to. I couldn't defer any longer. And when I showed up, it was so clear to me that Lehman Brothers was going under. And this business idea that I'd worked on for a while, it was so obvious to me that it was time to launch. Meanwhile, there I am sitting at HBS and I had a few classes there. One of them was called leadership. It was so simple. It's leadership. It's about how to be a good leader. It was basic life skills that I was really grateful to have about how to examine situations from every stakeholder's point of view. In some ways, pretty obvious stuff but I actually felt like that was really wonderful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5908,
+      "timestamps": []
+    },
+    {
+      "end": 6803,
+      "excerpt": "And the biggest thing I really got out of HBS was I'm so fortunate. I was only there 91 days, but I joke that I made 91 years of friends because I really left with some incredible lifelong friends and people that my husband and I together really love.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6552,
+      "timestamps": []
+    },
+    {
+      "end": 7861,
+      "excerpt": "So then I dropped out in the fall of 2008. It was December 18th. I walked into the admissions office and said, \"I'm got to go build this business\". And I will tell you, Gopi, at the time it sounded like, \"oh, that's great. You dropped out. Cool. It all worked out\". People thought I was nuts, including some of my own best friends who said, \"What are you doing? The world is in full global collapse. And you're going to go and take this amazing safety net that you have in business school. And you're going to throw it away?\" And it was one of those moments where I really learned that I am not only comfortable; I thrive at swimming against the grain. And what I mean by that is I do have this deep self-awareness that says life is really short. You only get to live once. You can't live for other people's worlds and you can't live for other people's expectations. You got to really live for your own. We all have inner voices that tell us things that we should do. And it became very clear to me that I would regret it forever. And so I had to go do it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6805,
+      "timestamps": []
+    },
+    {
+      "end": 7969,
+      "excerpt": "Anyways, I moved to New York, and then I was starting up LearnVest, which was its own chapter of my life. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7863,
+      "timestamps": []
+    },
+    {
+      "end": 8528,
+      "excerpt": "Gopi Rangan: It's one thing to drop out and start a company, but it's a whole another thing to have the bravado to do it in the middle of a global crisis. Around the same time, I graduated from business school and I tried to start a company. It didn't go anywhere, partly because of the global crisis and not many people were eager to invest in a small startup. Kudos to you for taking that brave step. Would you recommend that to entrepreneurs? Like, be that brave. Drop out of school. Don't worry about macroeconomic conditions and go start your company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7971,
+      "timestamps": []
+    },
+    {
+      "end": 8683,
+      "excerpt": "Alexa Von Tobel: I would recommend to people that starting a company for the sake of being a CEO and making money is the wrong reason to start a company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 8530,
+      "timestamps": []
+    },
+    {
+      "end": 9113,
+      "excerpt": "The right reason to start a company is that you are so committed to a problem that you want to solve. You have your own opinion of why there's a better solution out there. And you truly believe that you're the best person possible to go build it. That's a much better reason, and hopefully, a more successful path to building a company than to simply say, \"Oh gosh, it sounds really fun to go be a CEO. I'd like to go be a CEO!\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8685,
+      "timestamps": []
+    },
+    {
+      "end": 9439,
+      "excerpt": "For me, at that point in time, I had done the work. I'd written a 75-page business plan. I had a pretty darn clear path about what I wanted to build. So I actually started LearnVest in May of 2007. My husband is absolutely adorable and he's got an alert on his calendar that reminds us every year when I actually started it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9115,
+      "timestamps": []
+    },
+    {
+      "end": 9688,
+      "excerpt": "At the time, I was 23. And by the time I went to business school, I was 24. By the time I dropped out, I just turned 25. But I really started the company at 23. So I'd been working on it really for a year and almost half by the time I dropped out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9441,
+      "timestamps": []
+    },
+    {
+      "end": 9944,
+      "excerpt": "So if you think about it, I was pretty obsessed for a year and a half, and it finally became clear that there was a really unique moment in time to build it. It was the right time. Sometimes people make it sound like, \"Oh, I stumbled into building this.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9690,
+      "timestamps": []
+    },
+    {
+      "end": 10256,
+      "excerpt": "I became pretty obsessed with the problem. And then I felt like I was equipped to be part of the solution. I felt like it would be wrong for me not to go be part of the solution based on all of the work that I had done and how passionate I was. In some ways, that's a better orientation to starting a company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9946,
+      "timestamps": []
+    },
+    {
+      "end": 11016,
+      "excerpt": "Gopi, I'll end on why building a company is the least glamorous thing on the planet. The world and society and press glamorize it all. Now founders are on the covers of magazines. It feels very, very exciting and sexy to go be a founder. But I will tell you the actual job is the least glamorous thing. You're constantly solving hard problems. It's a pretty thankless job on a lot of occasions. You're making really brutal decisions. Most days are harder than great. And there are many days you come home deeply demoralized and wondering whether or not the company will even exist. If you don't love and are obsessed with solving the problem and you start a company in a category you're not that passionate about, on those days, you're going to want to quit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10258,
+      "timestamps": []
+    },
+    {
+      "end": 11418,
+      "excerpt": "And one thing my husband and I were talking about it, you know, in the eight years I was building and running LearnVest I didn't have one day I wanted to quit. Not one. There were days where I wanted to go home early because I was pretty miserable, but never had a minute where I wanted to quit. And I do think if you build it for the wrong reasons, it's going to be really hard for you not to quit. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11018,
+      "timestamps": []
+    },
+    {
+      "end": 11665,
+      "excerpt": "Gopi Rangan: What an amazing story! The grit and the determination you had, the conviction you had in your business, and writing a 75-page business plan and having all the details sketched out in your mind is a great way to form that conviction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11420,
+      "timestamps": []
+    },
+    {
+      "end": 11884,
+      "excerpt": "The thing you talk about as a mission in your company is that relentless determination. You had that in the beginning, and you did it again in 2019. You teamed up with Penny, Mark, and Lucy to start  Inspired Capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11667,
+      "timestamps": []
+    },
+    {
+      "end": 12611,
+      "excerpt": "Alexa Von Tobel: It's so funny. About a decade prior, when I was building my own company, I remember having a really earnest and honest moment where I said to myself, \"I can't believe I'm sitting here in the core of New York city building a fintech company, and I have to fly to the West Coast to go raise my capital. California Palo Alto, San Francisco, Silicon Valley is like the tech capital of the country, but New York City is the capital of the world in so many ways. Why isn't there more young, aggressive, vivacious capital here that has world-beating attitudes that wants to go focus on the next generation of amazing founders and help them go and bend space and time and create really special companies right here?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 11886,
+      "timestamps": []
+    },
+    {
+      "end": 13227,
+      "excerpt": "Gopi, it was a simple moment where I had a really clear idea and I said to myself: that would really make my life better if that capital was here and if it had open arms for me. Many years later, the idea stuck in the back of my head. And one day I literally said the words \"It's Inspired Capital.\" It knows how to build businesses. It welcomes founders for their toughest moments. It really understands the love of the game and it can help founders execute better, faster, et cetera. Literally Inspired was born, and our founding team is pretty special. It has literally built and scaled 10 businesses amongst us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12613,
+      "timestamps": []
+    },
+    {
+      "end": 14190,
+      "excerpt": "One of my business partners is former U.S. Secretary of Commerce, Penny Pritzker. She's on the board of Microsoft and Harvard, and she's been the chairman of TransUnion. She's been part of more businesses and more complex decisions around business as former U.S. Secretary of Commerce, and she is wired in the same way I am, which is she really loves to build businesses. My other two business partners are Mark and Lucy. Lucy, I've known for 20 years. She was a co-founder of Paperless Post. We both started on the venture investing side at Insight Venture Partners, and Paperless Post now has literally a hundred million-plus users around the globe. On the flip side, Mark Batsiyan had been with me for 12 years. We were the deal team selling LearnVest and then we ran Northwest Mutual venture fund together and it has been such a phenomenal collaboration. The last thing I'll say is: people are everything and people that know one another work well together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13229,
+      "timestamps": []
+    },
+    {
+      "end": 14350,
+      "excerpt": "I think that what really differentiates most organizations is the people. And I'm really proud of who our team is and particularly how close-knit we all are. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14192,
+      "timestamps": []
+    },
+    {
+      "end": 14505,
+      "excerpt": "Gopi Rangan: You have assembled a great team indeed. How is Inspired Capital different from other VC firms? Why do entrepreneurs choose to work with you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14352,
+      "timestamps": []
+    },
+    {
+      "end": 14799,
+      "excerpt": "Alexa Von Tobel: Well, I always say you should really talk to our founders. We have a lot to prove over the next decade and beyond that. And our founders speak to the benefit of us, probably the best, which is we are there to work hard. We pick up every phone call. We work seven days a week.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 14507,
+      "timestamps": []
+    },
+    {
+      "end": 15649,
+      "excerpt": "When it comes down to the craftsmanship of early-stage building of businesses, that really is what we are excellent at on many fronts - from strategic planning, what I call, how to play chess, and how to think about your business in chapters and think about how you make each chapter smarter than the next, all the way down to collect the best talent as quickly as you can. Ourselves, we built and scaled 1500 employees in New York City alone... We're also excellent at things like how do you think about most strategic decisions, the most strategic business partnerships? Who are those? How do you sequence them? How do you set them up? And then, finally, honing your narrative; honing your brand; honing who you are; honing how you talk to your customers and how you talk to the business world, which is also the future of the fundraising world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14801,
+      "timestamps": []
+    },
+    {
+      "end": 15885,
+      "excerpt": "Those are all categories that we love. And then, finally, I'll just say it doesn't hurt that our co-founder and business partner was former U.S. Secretary of Commerce and knows most business people in the country personally very well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15651,
+      "timestamps": []
+    },
+    {
+      "end": 16014,
+      "excerpt": "We are very helpful at getting to whoever our founders need to help them do whatever they need to make their businesses better.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15887,
+      "timestamps": []
+    },
+    {
+      "end": 16200,
+      "excerpt": "Gopi Rangan: That's a powerful network indeed. Do you prefer to invest in New York City-based startups? Do you invest in other locations as well? What do you look for in entrepreneurs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16016,
+      "timestamps": []
+    },
+    {
+      "end": 16365,
+      "excerpt": "Alexa Von Tobel: We are fully topic agnostic. We're a generalist fund, and we invest around the country and even outside of the country. We are seed and series A. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 16202,
+      "timestamps": []
+    },
+    {
+      "end": 17267,
+      "excerpt": "And you asked us, what do we look for? There are a few key attributes to an Inspired company. First, we look for really special founders. And that's obvious, everybody does that, but having been founders before, the way that we think about our founders is, we really look at their mental fitness. We look at the WHY. We look at under all of the full veneer of building a business, what's really driving you? We really like to understand our founders in that regard. On the business model side, we like to think about businesses like as they get bigger, they get better. So that means really unique, unfair advantages, data modes, something on the competitive side that helps the business scale more quickly. That may be a first-mover advantage. That may be a data moat, or that may be a data plus business model moat. So we really like to think about how this business gets bigger as it gets better. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16367,
+      "timestamps": []
+    },
+    {
+      "end": 17790,
+      "excerpt": "We like capital-efficient businesses. Not every one of our investments has been super capital-efficient, but most have. Capital efficient businesses can go quite far without having to raise boatloads of capital. And again, it's not to say that all of our businesses haven't raised lots of capital. But in general, we like capital-efficient businesses. And then finally, we either like to go after really big market opportunities or what we call fully new categories, where you're building something with true white space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17269,
+      "timestamps": []
+    },
+    {
+      "end": 18050,
+      "excerpt": "So I'll give an example of that: an NFT-type category or Web3 categories, a lot of white space.  Some of our businesses have just gone after money movement, which is a term of trillions of dollars. So, even if you capture 1% of that, that's pretty powerful. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17792,
+      "timestamps": []
+    },
+    {
+      "end": 18646,
+      "excerpt": "Finally, two categories that we have deep expertise in are fintech & fintech-adjacent and crypto, and that entire universe. We spent our life's work, me particularly, 15 plus years of published New York Times bestselling books and I'm personally so passionate to a point where I do it for free. I love it so much. Other categories are digital health. We've spent a long time in prior life thinking about the future of digital health and then COVID happened. Not only do we have a lot of experience, but digital health and fintech are also actually emerging as in some cases, even blended units.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18052,
+      "timestamps": []
+    },
+    {
+      "end": 19049,
+      "excerpt": "That's another example of a place that we like. But we've done everything - from a housing company called Habi in Latin America, which is doing exceptionally well, to self-driving lawnmowers here in the United States, which is leveraging AI to think about full automation, around per acre promo software on a lawnmower, to really interesting infrastructure plays, and we're having a time of our life. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18648,
+      "timestamps": []
+    },
+    {
+      "end": 19287,
+      "excerpt": "Gopi Rangan: I see you have a wide variety of topics you are interested in, and I can see the passion with which you like to learn and that childhood athlete-type of attitude still is there  kind of pushes you to keep trying new things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19051,
+      "timestamps": []
+    },
+    {
+      "end": 19538,
+      "excerpt": "I'm curious to understand what happens in the first one or two meetings. What questions do you ask entrepreneurs? Can you give an example of a couple of startups where you met them? What inspired you to say: I really want to invest in this company? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19289,
+      "timestamps": []
+    },
+    {
+      "end": 19893,
+      "excerpt": "Alexa Von Tobel: Great question. I really like to ask the founder, there's a thesis or a hypothesis that's in their head that they see a decade out that whether they articulated it or not, they believe is true. And they are running towards it. I'll go back to my LearnVest days. I believed it was truly wild that financial planning was a luxury product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 19540,
+      "timestamps": []
+    },
+    {
+      "end": 20340,
+      "excerpt": "And I felt like it was almost a civil right for everybody to have access to it. We get access to basic health care. Why can't we get access to basic financial planning? And I believed that over time advice should be something that is affordable for all. That was my core thesis, that it was that critical to the wellbeing of the country and that it needed to exist. And that as a result, there was going to be an interesting play that happened. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19895,
+      "timestamps": []
+    },
+    {
+      "end": 20852,
+      "excerpt": "So I like to ask founders: what is the core theme/thesis that you see in your head? Maybe not everybody sees what that you are building your business to. And I'll give you an analogy, Gopi. I learned this from somebody else and I absolutely love it. You're looking for a great surfer on a good surfboard (that's the company) on a tsunami. So you're looking for a good enough surfer on a good enough surfboard, but riding a tsunami. I ask them what's their tsunami? What's that wave that they're running after? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20342,
+      "timestamps": []
+    },
+    {
+      "end": 21109,
+      "excerpt": "So that's one. And then the second thing I like to ask them is, \"If you strip away everything and you're sitting with your best friend, whoever you confide in the most in the world, and you describe to them what you want to accomplish and why, what is it?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20854,
+      "timestamps": []
+    },
+    {
+      "end": 21699,
+      "excerpt": "I'll articulate it with Inspired. I want to build one of the best funds in the world here in New York City. And I want it to last 40 years. I want to pass it down to this younger team that we're building, and want it to be a firm that your best founders in the country literally think of as a first stop. How do I build that? It's going to be a really long effort. I do believe a Sequoia of the East Coast should exist and I want to build it. That's a crazy thing to say, but that's the level of quality that we want to bring. We have to earn it and it's going to be really hard to build.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21111,
+      "timestamps": []
+    },
+    {
+      "end": 21895,
+      "excerpt": "I ask founders the same. What do you want to accomplish? It really shows their commitment levels, how they view it, how they talk about it. I really like to get a sense of what's in their head. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21701,
+      "timestamps": []
+    },
+    {
+      "end": 22396,
+      "excerpt": "Gopi Rangan: I've always believed that when investors like you show up with a long-term vision, it shows the commitment to the founder; that they're not in it to just get something out in the next two, three years and flip the company. You demonstrate that you're committed for the long term and you're on a mission. And the conversation will clearly show that, yeah, that's the kind of investor I want to work with. The founders will see that this investor will make a difference in the long term. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21897,
+      "timestamps": []
+    },
+    {
+      "end": 22801,
+      "excerpt": "Alexa Von Tobel: That's right. You said it well. I'm committed to doing this for decades. I'm not going to make a short-sighted decision where a company's not doing well and we're going to upset them. It's not the right way to build our vision. Getting a real sense of what's driving somebody and what they want to accomplish also really does help show somebody your cards of what's really driving you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 22398,
+      "timestamps": []
+    },
+    {
+      "end": 22874,
+      "excerpt": "Gopi Rangan: And I think the world needs an East Coast Marquee VC firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22803,
+      "timestamps": []
+    },
+    {
+      "end": 23247,
+      "excerpt": "The attempt has been made a few times. Media was a very popular industry in 10, 15 years ago, coming out on New York, maybe some financial services. But I think what you're building is a generalist VC firm that can cater to any kind of entrepreneur depending on any trend, any kind of tsunami that the market throws at you, you'd be able to take advantage of those waves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22876,
+      "timestamps": []
+    },
+    {
+      "end": 23584,
+      "excerpt": "We meet a lot of entrepreneurs. We meet hundreds of entrepreneurs in a year. Not all of them are great pitchers. Not all of them are conversations that turn into a second meeting, and definitely, very few turn into an investment. What advice would you give to entrepreneurs to use their time effectively with you? How can they prepare?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23249,
+      "timestamps": []
+    },
+    {
+      "end": 24588,
+      "excerpt": "Alexa Von Tobel: First of all, you don't have to have all the answers. So being really transparent, \"here's what I know really well, and here's what I'm still trying to think through\" - it shows intellectual honesty. one of my board members once taught me that when people describe whatever they're talking about, the level of detail that they can go into is very indicative of their knowledge base. So, if you talk about things at really high levels, you probably only know things at really high levels. If you talk about things in detailed levels, at the weeds, you're showing me you put in the work. You understand what you're working on or working with. When I talk to founders, I do like to hear that they have unique insights into the weeds so that they understand some of the nuances. The difference between flawless execution and okay execution is often the weeds. It's the details. It's knowing how to prioritize one small feature over another or knowing which go-to-market makes sense first. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 23586,
+      "timestamps": []
+    },
+    {
+      "end": 25030,
+      "excerpt": "Sometimes I'll talk to founders and say, \"What's your go-to-market strategy? And they'll say, \"Oh, I'm going to go after small businesses.\"  Why? The sorta answer is like, I know five people there and I can call them; as opposed to, \"well, I could start in the medium businesses, particularly in healthcare versus technology. And here's why I think that this is the right category. Here's the market, data that proves that this will work.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24590,
+      "timestamps": []
+    },
+    {
+      "end": 25096,
+      "excerpt": " I always like to hear more thorough work on the execution side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25032,
+      "timestamps": []
+    },
+    {
+      "end": 25564,
+      "excerpt": "Gopi Rangan: Yeah. When someone has marinated in that topic for a long time, when they receive questions, they have very nuanced answers, some of which we may have never heard of. We can't read it in New York Times or TechCrunch. It's in their mind and they probably haven't had a chance to sit down and write it. So when the conversation happens, that's when the details come through. I really like having those conversations and learning from these entrepreneurs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25098,
+      "timestamps": []
+    },
+    {
+      "end": 26374,
+      "excerpt": "Alexa Von Tobel: Yeah. One other thing I'll add to that is I really enjoy founders who know their work, who are very self-assured because they've done the work. Confidence comes from having done the work. I'm always very excited to hear. On the flip side, there's also overconfidence that is the caution moment. Keep in mind, I was a young punk kid who in so many ways got lucky and, thank goodness, was decently smart enough to keep getting better. And I had coaches my whole life at things that I did. So I said to myself, oh, I should get a coach and I should get better. And I shouldn't assume I'm a good CEO, because I've clearly never done this before. There's also, I call it an ABL an \"Always Be Learning\" mindset, where you're really comfortable saying: I don't have all the answers and that's okay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 25566,
+      "timestamps": []
+    },
+    {
+      "end": 26722,
+      "excerpt": "So, you're smart enough. You've got the raw mental horsepower to do great work, do great strategy, but also smart enough to know that you don't need to have all the answers first because that's where you hire a management team. That's where you refer to people more intelligent on a category than you and are more informed on a category than you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26376,
+      "timestamps": []
+    },
+    {
+      "end": 26998,
+      "excerpt": "Sometimes there's overconfidence that I've seen that doesn't serve a founder either.  I like to see confidence, rigor, but also a low ego where you know that you can lean on other people for great insights. All the answers for a founder don't have to come from the founder. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26724,
+      "timestamps": []
+    },
+    {
+      "end": 27347,
+      "excerpt": "Gopi Rangan: I see that you like transformative, bold ideas from brilliant teams, but at the same time, there's humility in the work that they do. Very beautifully articulated. I want to switch to the next part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27000,
+      "timestamps": []
+    },
+    {
+      "end": 27658,
+      "excerpt": "Alexa Von Tobel: Yeah. I'm a mother of three children and I've been really lucky to get to know Christy Turlington and her nonprofit Every Mother Counts. It's a wonderful one. And right now I'm at a stage in life where I'm really fortunate to have three healthy kids. I thank God literally every day for that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 27349,
+      "timestamps": []
+    },
+    {
+      "end": 28195,
+      "excerpt": "Being a mom is really hard. Having healthy children is something that, in so many ways, the healthcare infrastructure we take for granted. I spent some time in Kenya and firsthand saw what other people's healthcare looks like when you weren't lucky enough to be born in the United States. And so, one, I'm very patriotic to this country, and two, having seen enough of the world to know how fortunate we are, I loved her cause. I loved why she backed it. And it's one that, as the Inspired team, we are looking to get more involved in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27660,
+      "timestamps": []
+    },
+    {
+      "end": 28558,
+      "excerpt": "Gopi Rangan: Alexa, thank you so much for sharing your nuggets of wisdom with me. You shared a lot of stories all the way from that punk kid's childhood days to how you developed this characteristic of always be learning. I wish you the best, and I'm super excited to have this opportunity to collaborate with you and look forward to investing with you as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28197,
+      "timestamps": []
+    },
+    {
+      "end": 28759,
+      "excerpt": "Alexa Von Tobel: Thank you so much, Gopi. Thanks so much for having me. I'm so grateful and truly honored, and it's been so fun to get to meet you. Thank you everybody for listening, it means a lot. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Alexa Von Tobel",
+      "start": 28560,
+      "timestamps": []
+    },
+    {
+      "end": 28936,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28761,
+      "timestamps": []
+    },
+    {
+      "end": 29103,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28938,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "a091536ccf17c09155237688ef0036054712a5aef1e680d8f980c4ba22e5dfd4",
+  "text_sha256": "61e50183a99595c827fe388b0e71257fece1a82fa7ef78b1feb4a5119948a6d7"
+}

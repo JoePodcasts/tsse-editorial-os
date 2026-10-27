@@ -1,0 +1,44 @@
+[
+  {
+    "page": "home",
+    "size": "desktop",
+    "scroll": 1366,
+    "text": "Last successful sync Oct 26, 2026 · 10:26 PM PT",
+    "width": 1366
+  },
+  {
+    "page": "files",
+    "size": "desktop",
+    "width": 1366,
+    "scroll": 1366,
+    "passed": true
+  },
+  {
+    "page": "home",
+    "size": "tablet",
+    "scroll": 768,
+    "text": "Last successful sync Oct 26, 2026 · 10:26 PM PT",
+    "width": 768
+  },
+  {
+    "page": "files",
+    "size": "tablet",
+    "width": 768,
+    "scroll": 768,
+    "passed": true
+  },
+  {
+    "page": "home",
+    "size": "mobile",
+    "scroll": 375,
+    "text": "Last successful sync Oct 26, 2026 · 10:26 PM PT",
+    "width": 375
+  },
+  {
+    "page": "files",
+    "size": "mobile",
+    "width": 375,
+    "scroll": 375,
+    "passed": true
+  }
+]

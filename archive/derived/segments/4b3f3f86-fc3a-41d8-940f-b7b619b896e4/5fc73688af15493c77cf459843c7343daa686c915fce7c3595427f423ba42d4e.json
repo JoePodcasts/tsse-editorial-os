@@ -1,0 +1,1235 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 523,
+      "excerpt": "\"As harsh as that might sound. I think it gets at a more important point, which is, as a founder, you need to go and find investors that share the conviction that you have. You wanna find, particularly in the seed stages, the people that are, you know, true believers and are gonna be in your corner. And oftentimes that's finding investors that already have been thinking about the space before or have some experience or firsthand knowledge of the market you're going after.\" - Stephen Wemple, Principal at Spero Ventures",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 925,
+      "excerpt": "[00:00:38] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Stephen Wemple. Stephen is a principal at Spero Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 525,
+      "timestamps": [
+        {
+          "offset": 525,
+          "raw": "[00:00:38]",
+          "seconds": 38
+        }
+      ]
+    },
+    {
+      "end": 1394,
+      "excerpt": "[00:01:11] We have co-invested together in one company, Juno, and we hope to do more. I really enjoy working with Stephen. He works for a firm that focuses on healthy future, sustainable future, fulfilling future. What does that mean? We're gonna learn more about how Stephen as a junior partner or a person who is not a managing partner, general partner at the firm, how does he play a role at the firm and how founders can benefit from working with people like him.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 927,
+      "timestamps": [
+        {
+          "offset": 927,
+          "raw": "[00:01:11]",
+          "seconds": 71
+        }
+      ]
+    },
+    {
+      "end": 1454,
+      "excerpt": "[00:01:38] Stephen, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1396,
+      "timestamps": [
+        {
+          "offset": 1396,
+          "raw": "[00:01:38]",
+          "seconds": 98
+        }
+      ]
+    },
+    {
+      "end": 1631,
+      "excerpt": "[00:01:40] Stephen Wemple: Thank you for having me. It's quite a lineup from your past guests, so it's an honor to be a part of it, and I'm excited for our conversation today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 1456,
+      "timestamps": [
+        {
+          "offset": 1456,
+          "raw": "[00:01:40]",
+          "seconds": 100
+        }
+      ]
+    },
+    {
+      "end": 1805,
+      "excerpt": "[00:01:48] Gopi Rangan: I'm looking forward to it as well. I'm really excited to have some of the topics we talked about. It's gonna come up soon, but let's start with you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1633,
+      "timestamps": [
+        {
+          "offset": 1633,
+          "raw": "[00:01:48]",
+          "seconds": 108
+        }
+      ]
+    },
+    {
+      "end": 2159,
+      "excerpt": "[00:01:56] You grew up all over in many different places, largely in the Bay Area and in Boston, but now you come back after living in many different cities back into San Francisco. Walk us through that journey. And I understand that the only job or the main job that you've had. Since graduation from college is in venture capital, that's very unique.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1807,
+      "timestamps": [
+        {
+          "offset": 1807,
+          "raw": "[00:01:56]",
+          "seconds": 116
+        }
+      ]
+    },
+    {
+      "end": 2549,
+      "excerpt": "[00:02:15] Stephen Wemple: Yeah, absolutely. and It wasn't a path I charted intentionally, particularly, but it's been a fun one nonetheless and a real privilege. I grew up bouncing around between the East coast and West Coast, like you said , bay area and outside Boston for the most part. I went to school back on the East coast at Melanoma University, which is outside of Philadelphia.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 2161,
+      "timestamps": [
+        {
+          "offset": 2161,
+          "raw": "[00:02:15]",
+          "seconds": 135
+        }
+      ]
+    },
+    {
+      "end": 3089,
+      "excerpt": "[00:02:35] Known for a great basketball team. I was there for some very fun years. Met my wife, made some great friends. It was an incredible place. I think some of my most favorite memories from that period of life. I did a Fulbright Fellowship right after Villanova. I went to Southeast Asia. I lived in Vietnam for a year and mostly taught English outta high school and a little bit outta college, but also spent time working with the State Department to think about how to better support their entrepreneurial endeavors in the region.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2551,
+      "timestamps": [
+        {
+          "offset": 2551,
+          "raw": "[00:02:35]",
+          "seconds": 155
+        }
+      ]
+    },
+    {
+      "end": 3754,
+      "excerpt": "[00:03:01] So I was particularly interested in how entrepreneurship and private capital create positive impact in emerging markets and in unique parts of the world. And that was kind of my first foray, weirdly, into the world of venture and tech. I didn't even quite know what a venture capitalist was until my very last semester of college, but was nonetheless always interested and excited about entrepreneurship broadly, and the lever that it plays in creating outsized impact. I struggle to think about a more levered mechanism to create kind of societal change in terms of its inputs relative to its outputs, I should say, than entrepreneurship and startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3091,
+      "timestamps": [
+        {
+          "offset": 3091,
+          "raw": "[00:03:01]",
+          "seconds": 181
+        }
+      ]
+    },
+    {
+      "end": 4482,
+      "excerpt": "[00:03:38] And so, I leveraged that experience in Southeast Asia to go work at a pre-Seed venture fund, that was focused on emerging markets, mostly Sub-Saharan Africa, Latin America, India, and then some kind of overlooked corners of America. So it was a bit of a rise of the rest theme. So basically investing in markets outside of the Bay Area. Again, was just continued interest in path and curiosity down the rabbit hole around the role that venture and, founders and startups can play in creating culture and positive outcomes. I got the venture bug along the way, met Spero Ventures through that as they were spinning out in its Proto iteration, and we've had another refounding moment, which maybe we could talk about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3756,
+      "timestamps": [
+        {
+          "offset": 3756,
+          "raw": "[00:03:38]",
+          "seconds": 218
+        }
+      ]
+    },
+    {
+      "end": 4915,
+      "excerpt": "[00:04:18] Spero and the people around the table really shared my interest in both driving real outcomes and having great success in the venture industry, but also trying to align mission and purpose-driven companies with those outcomes. And there is just an innate belief that we all shared an interest around what companies and founders with a mission and a purpose can do for society, but also for the venture ecosystem broadly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4484,
+      "timestamps": [
+        {
+          "offset": 4484,
+          "raw": "[00:04:18]",
+          "seconds": 258
+        }
+      ]
+    },
+    {
+      "end": 5085,
+      "excerpt": "[00:04:43] So that's a bit of the whirlwind to Spero and then can talk more about our firm and the journey since then. That was about six years ago that I joined Spero.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4917,
+      "timestamps": [
+        {
+          "offset": 4917,
+          "raw": "[00:04:43]",
+          "seconds": 283
+        }
+      ]
+    },
+    {
+      "end": 5315,
+      "excerpt": "[00:04:51] Gopi Rangan: You've had a variety of experiences and quite early in your career, you went international, you got exposed to a lot of new things, emerging opportunities in new markets both outside the US and in the US.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5087,
+      "timestamps": [
+        {
+          "offset": 5087,
+          "raw": "[00:04:51]",
+          "seconds": 291
+        }
+      ]
+    },
+    {
+      "end": 5684,
+      "excerpt": "[00:05:03] It's been about almost 10 years since you entered into the venture capital industry. I'm curious to hear what were you expecting when you first entered the venture capital industry and how has it played out over the past few years? And obviously you like it, and I'm curious to understand why you like it, in addition to the leveraged impact it can create.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5317,
+      "timestamps": [
+        {
+          "offset": 5317,
+          "raw": "[00:05:03]",
+          "seconds": 303
+        }
+      ]
+    },
+    {
+      "end": 6721,
+      "excerpt": "[00:05:23] Stephen Wemple: It's endlessly fascinating job. you get paid to learn from really passionate people and it's a true privilege on that front. but every day is a new day in this job, and you never know when you're gonna find luck or you never know when you're gonna run into the next great founder or opportunity and you know, you're only as good as your next deal. And you have an opportunity to compete on the playing field every day, which is really exciting. I don't think I had very many expectations coming in the industry. I will say, as I reflect back on the 8, 9, 10 years in this space, I think I'm surprised how many of the truisms and kind of advice that I got when I first started have actually been ultimately true. I went through these phases where I was trying to find my own path, but some of the very simple kind of pieces of advice that I got at the beginning of my career are just simply true. Like everything comes down to founder quality, I think is something I've come to really believe and internalize.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 5686,
+      "timestamps": [
+        {
+          "offset": 5686,
+          "raw": "[00:05:23]",
+          "seconds": 323
+        }
+      ]
+    },
+    {
+      "end": 6948,
+      "excerpt": "[00:06:16] It's something I tried to outsmart in the early days, but at a certain point you just realize almost everything is downstream of the founder and their talents and their ability to attract talent and see the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6723,
+      "timestamps": [
+        {
+          "offset": 6723,
+          "raw": "[00:06:16]",
+          "seconds": 376
+        }
+      ]
+    },
+    {
+      "end": 7083,
+      "excerpt": "[00:06:27] Gopi Rangan: Let's talk about Spero, how the firm got started. How is Spero different from other VC firms in the industry?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6950,
+      "timestamps": [
+        {
+          "offset": 6950,
+          "raw": "[00:06:27]",
+          "seconds": 387
+        }
+      ]
+    },
+    {
+      "end": 7141,
+      "excerpt": "[00:06:34] Can you give a quick background on the story?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7085,
+      "timestamps": [
+        {
+          "offset": 7085,
+          "raw": "[00:06:34]",
+          "seconds": 394
+        }
+      ]
+    },
+    {
+      "end": 8141,
+      "excerpt": "[00:06:36] Stephen Wemple: Yeah. Absolutely. So, the arc of Spero is an interesting one. Our founding partner, Shripriya Mahesh has a background in operating. She ran product at eBay and circa about 20 10, 20 11, 20 12. She joined back up with the founder of eBay, Pierre Omidyar, to join his kinda large $10 billion platform that was mixing pure venture, which is the strategy she led all the way to the end of the other end of the spectrum like grant writing and mission driven nonprofit investing. So she did that for about five years, and in about 2016, 2017 realized that the venture strategy would be best served sitting outside of the Omidyar network, and so she spun out Spero in the proto iteration in around 2017, 2018. In 2020, end of 2020, our partner Andrew Parker, joined as GP alongside Shripriya and we had a bit of a refounding moment. The team as is, which is about six of us for the most part, assembled in 20 19, 20 20, and Spero, as you know it today, started in January, 2021.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 7143,
+      "timestamps": [
+        {
+          "offset": 7143,
+          "raw": "[00:06:36]",
+          "seconds": 396
+        }
+      ]
+    },
+    {
+      "end": 8503,
+      "excerpt": "[00:07:38] The overarching thesis around Spero is that mission-driven and purpose-driven companies can create outsize impact. And if we're good at our jobs, we think we'll reorient venture capital towards companies that have and lead with a purpose and a mission. And we don't. Think of ourselves in any way, shape, or form as trying to not prioritize returns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8143,
+      "timestamps": [
+        {
+          "offset": 8143,
+          "raw": "[00:07:38]",
+          "seconds": 458
+        }
+      ]
+    },
+    {
+      "end": 8858,
+      "excerpt": "[00:07:56] We play on the same field as every other venture firm. We just have a firm belief that there's an intangible quality around mission-driven and purpose-driven cultures that leads to outsized, success. And that's really rooted in our teams shared and collective experiences is founders, operators and investors over the last handful of decades.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8505,
+      "timestamps": [
+        {
+          "offset": 8505,
+          "raw": "[00:07:56]",
+          "seconds": 476
+        }
+      ]
+    },
+    {
+      "end": 9555,
+      "excerpt": "[00:08:13] One of our partners is a guy named Marc Tarpenning who is the original co-founder of Tesla, and that's a company that we hold up as a North star. Tactically, the firm invests in seed stage companies for the most part. We write two to $4 million checks into rounds between three and 10. We like to lead or co-lead. And the firm is investing out of its second fund. It's $126 million fund. We have a pretty concentrated portfolio approach. We'll invest in something like 20 companies outta this fund and that's different relative to other firms our size and our stage. We will invest in about half the companies at another comparable fund size playing at the same stage would invest in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8860,
+      "timestamps": [
+        {
+          "offset": 8860,
+          "raw": "[00:08:13]",
+          "seconds": 493
+        }
+      ]
+    },
+    {
+      "end": 9783,
+      "excerpt": "[00:08:47] And that's really designed to create space for us to work closely with founders to the extent that they want us in the mix. But we pride ourselves on being great partners and I think our founders would back that up.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9557,
+      "timestamps": [
+        {
+          "offset": 9557,
+          "raw": "[00:08:47]",
+          "seconds": 527
+        }
+      ]
+    },
+    {
+      "end": 9932,
+      "excerpt": "[00:08:58] Gopi Rangan: When founders are committed for the long term, it creates a huge impact and that's a perfect alignment for venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9785,
+      "timestamps": [
+        {
+          "offset": 9785,
+          "raw": "[00:08:58]",
+          "seconds": 538
+        }
+      ]
+    },
+    {
+      "end": 10060,
+      "excerpt": "[00:09:05] I can understand why you focus on mission driven founders. I do as well. What stage is a good sweet spot for Spero?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9934,
+      "timestamps": [
+        {
+          "offset": 9934,
+          "raw": "[00:09:05]",
+          "seconds": 545
+        }
+      ]
+    },
+    {
+      "end": 10241,
+      "excerpt": "[00:09:12] Stephen Wemple: . That's a great question. We like to say we invest with early signals of product market fit, and so that can come in a bunch of different form factors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 10062,
+      "timestamps": [
+        {
+          "offset": 10062,
+          "raw": "[00:09:12]",
+          "seconds": 552
+        }
+      ]
+    },
+    {
+      "end": 10569,
+      "excerpt": "[00:09:19] It can come in revenue, it can come in early users. We also have ended up investing in quite a few hardware businesses. So an unfair expectation at those seed for hardware companies to have traction. So we measure that on a different scale, more on thinking about where the technology is from a de-risk perspective.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10243,
+      "timestamps": [
+        {
+          "offset": 10243,
+          "raw": "[00:09:19]",
+          "seconds": 559
+        }
+      ]
+    },
+    {
+      "end": 11215,
+      "excerpt": "[00:09:35] Oftentimes we invest in hardware companies that the end market is kind of obvious. For example, we invested in a company called Telo Trucks. They're making pickup trucks the size of a mini Cooper. It's a pretty awesome form factor. It's a really fun project. But if you can get a truck on the road even a one might add as interesting as a Telo I encourage everyone to look it up, but there's a big market for trucks in this world. So we're really more taking engineering risk and capital risk with that one. So I would say we like to be early, but we like to have some proof points that the world wants, the thing that's being built.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10571,
+      "timestamps": [
+        {
+          "offset": 10571,
+          "raw": "[00:09:35]",
+          "seconds": 575
+        }
+      ]
+    },
+    {
+      "end": 11384,
+      "excerpt": "[00:10:05] We don't find ourselves being the most incredible investors in predicting the future, but when there's some market pull and some validation, we get excited.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11217,
+      "timestamps": [
+        {
+          "offset": 11217,
+          "raw": "[00:10:05]",
+          "seconds": 605
+        }
+      ]
+    },
+    {
+      "end": 11610,
+      "excerpt": "[00:10:15] Gopi Rangan: Awesome. I understand that Spero focuses on healthy future, sustainable future, fulfilling future. How does that align with how you invest and the mission-driven founder perspective that you focus on?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11386,
+      "timestamps": [
+        {
+          "offset": 11386,
+          "raw": "[00:10:15]",
+          "seconds": 615
+        }
+      ]
+    },
+    {
+      "end": 11919,
+      "excerpt": "[00:10:28] Stephen Wemple: We put a lot of emphasis on that mission and purpose driven founder and culture. And I would say we have strong opinions about mission from two perspectives. First and foremost, we're looking to invest in folks that are true entrepreneurs and people that were born to be founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 11612,
+      "timestamps": [
+        {
+          "offset": 11612,
+          "raw": "[00:10:28]",
+          "seconds": 628
+        }
+      ]
+    },
+    {
+      "end": 12283,
+      "excerpt": "[00:10:44] I think we believe that there's a handful of people that just view the world through solving problems, building solutions, catalyzing people and stories, and we wanna find those founders that find a mission or a purpose that they're deeply tied to, and that they can communicate and build teams around authentically and are intrinsically motivated by.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11921,
+      "timestamps": [
+        {
+          "offset": 11921,
+          "raw": "[00:10:44]",
+          "seconds": 644
+        }
+      ]
+    },
+    {
+      "end": 12554,
+      "excerpt": "[00:11:05] When we see that combination, we call them founders find their mission, it creates magic. So we look at our colleague Mark, who I mentioned earlier, who was one of the co-founders of Tesla. The second startup that he had success building with his co-founder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12285,
+      "timestamps": [
+        {
+          "offset": 12285,
+          "raw": "[00:11:05]",
+          "seconds": 665
+        }
+      ]
+    },
+    {
+      "end": 13552,
+      "excerpt": "[00:11:18] Mark and his co-founder Martin, are true entrepreneurs, and they started to build Tesla from a very simple mission, which is to rid the world of our dependency on fossil fuels. And with an Excel spreadsheet they worked their way back to a sports car, and it's an incredible story, but that's the kind of founder and founder experience that we're looking to find and work with. It's people who view the world through entrepreneurship and then who find a mission that they can build and catalyze people and capital and customers around. And then we are prescriptive or have some strong opinions about the types of missions that we get excited about and missions that we wanna work on or spend a decade thinking about. That's where our thematic areas come in. We do stuff broadly in healthcare, which gets us into really interesting pharma, insurance, care delivery, D2C applications. We work together on something that's health ish in the insurance space, which we could talk more about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12556,
+      "timestamps": [
+        {
+          "offset": 12556,
+          "raw": "[00:11:18]",
+          "seconds": 678
+        }
+      ]
+    },
+    {
+      "end": 14204,
+      "excerpt": "[00:12:12] We also do quite a bit in energy, climate and sustainability. That's actually where I've spent a lot of my time historically, although I've led investments on behalf of the firm across areas of focus, and then we do things broadly in software and tech that we think is increasing people's agency, increasing people's ability to navigate how fast the world's changing looks like a lot of AI software straight down the fairway, Silicon Valley Tech investing. But we're pretty generalist and you can squint and put almost anything in it. But it's really that kind of mission and purpose driven starting point that we really get excited about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13554,
+      "timestamps": [
+        {
+          "offset": 13554,
+          "raw": "[00:12:12]",
+          "seconds": 732
+        }
+      ]
+    },
+    {
+      "end": 14283,
+      "excerpt": "[00:12:45] Gopi Rangan: You have a few specific themes you are excited about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14206,
+      "timestamps": [
+        {
+          "offset": 14206,
+          "raw": "[00:12:45]",
+          "seconds": 765
+        }
+      ]
+    },
+    {
+      "end": 14680,
+      "excerpt": "[00:12:48] You're broadly interested in many things beyond that as well, and you focus on your preferred space is a startup. When they have signals of product market fit, right? That could be pre-seed, could be seed, it could be up to series A. How often do you invest? How many companies do you invest in on average in a year, and how many companies do you meet to get to those few investments?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14285,
+      "timestamps": [
+        {
+          "offset": 14285,
+          "raw": "[00:12:48]",
+          "seconds": 768
+        }
+      ]
+    },
+    {
+      "end": 15104,
+      "excerpt": "[00:13:10] Stephen Wemple: It's a great question on the top of funnel. The last time we looked into that, it was like something north of 1500 companies across the firm in a year. We end up making about six investments a year. Pacing correctly, we probably go deep on maybe 40 or 50 companies a year. And by deep, I mean, weeks of conversations two or three weeks of conversation present to the full team do customer calls.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 14682,
+      "timestamps": [
+        {
+          "offset": 14682,
+          "raw": "[00:13:10]",
+          "seconds": 790
+        }
+      ]
+    },
+    {
+      "end": 15288,
+      "excerpt": "[00:13:35] Gopi Rangan: Alright. Can we take an example of how the conversation started? How did you find the founder? What happened in the first meeting? What questions did you ask?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15106,
+      "timestamps": [
+        {
+          "offset": 15106,
+          "raw": "[00:13:35]",
+          "seconds": 815
+        }
+      ]
+    },
+    {
+      "end": 15496,
+      "excerpt": "[00:13:44] Maybe we can use the example of Juno. The company that we both invested in. I was literally the first investor VC that committed to the company and he joined in the next round. How did it happen?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15290,
+      "timestamps": [
+        {
+          "offset": 15290,
+          "raw": "[00:13:44]",
+          "seconds": 824
+        }
+      ]
+    },
+    {
+      "end": 15938,
+      "excerpt": "[00:13:55] Stephen Wemple: Juno's a great story. It's actually a funny, a unique one I would say. Jordan is the CEO of Juno. Jordan and I were both living in San Diego during the COVID years, and we met at one of these outdoor quote unquote social distanced coffee meetups in early COVID. Jordan is a really unique character. He's an incredibly passionate founder. He's building a very long time horizon business, I would say in a good way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 15498,
+      "timestamps": [
+        {
+          "offset": 15498,
+          "raw": "[00:13:55]",
+          "seconds": 835
+        }
+      ]
+    },
+    {
+      "end": 16462,
+      "excerpt": "[00:14:19] It's an inevitable business. It's a product that is building disability insurance for children. So think about, long-term disability for adults. If you get injured, your employer will cover you via an insurance product based off that injury in this case. It's for children. So the parent would still get the payout, but it's intended to keep parents in the workforce and support families beyond just the healthcare expenses associated with these really tragic moments and challenging moments in a family's life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15940,
+      "timestamps": [
+        {
+          "offset": 15940,
+          "raw": "[00:14:19]",
+          "seconds": 859
+        }
+      ]
+    },
+    {
+      "end": 16735,
+      "excerpt": "[00:14:47] So, I would say it's a good reflection of how we like to meet founders, which is early, and build a relationship over, a period of time, maybe not three years, which is what it took from when I first met Jordan to when we led the round in, about 18 months ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16464,
+      "timestamps": [
+        {
+          "offset": 16464,
+          "raw": "[00:14:47]",
+          "seconds": 887
+        }
+      ]
+    },
+    {
+      "end": 17061,
+      "excerpt": "[00:15:01] But we do love to see kind of proof points over a period of time if we can. And we're incredibly relationship driven. Partners and we want founders to want to work with us for a long time. And so I think it's a mutually productive thing when we get a chance to get to know founders, before we make the investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16737,
+      "timestamps": [
+        {
+          "offset": 16737,
+          "raw": "[00:15:01]",
+          "seconds": 901
+        }
+      ]
+    },
+    {
+      "end": 17597,
+      "excerpt": "[00:15:19] In terms of how we meet founders broadly, it's pretty good mix, I would say. We have a decent outbound engine, and that's a muscle that I try to flex since, the beginning of my career. I think someone who starts their career in venture and works their way up. It's one of the talents and strengths that we have that, others that enter later in their career might not have, which is just the raw hard work and effort and low ego of doing cold outreach and doing the hard work of finding founders and getting in front of 'em.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17063,
+      "timestamps": [
+        {
+          "offset": 17063,
+          "raw": "[00:15:19]",
+          "seconds": 919
+        }
+      ]
+    },
+    {
+      "end": 18341,
+      "excerpt": "[00:15:46] It's an underappreciated, overlooked grunt work of the industry, but it can be a unique way to have an advantage over your peers later in your career. We also are incredibly network driven. As we build a portfolio, some of the best signal we can get is an intro from one of our founders. Not that we value warm introductions over anything, but we've already decided that we trust our entrepreneurs and our portfolios talent judgment. And so when they surface someone who they think is great, that really is a positive signal for us. And then we try to put our bat signal out there and attract founders as well, but that's getting increasingly challenging in this information age or just a dilution of content and whatnot out there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17599,
+      "timestamps": [
+        {
+          "offset": 17599,
+          "raw": "[00:15:46]",
+          "seconds": 946
+        }
+      ]
+    },
+    {
+      "end": 18711,
+      "excerpt": "[00:16:26] Gopi Rangan: Proactively chasing outbound is quite interesting. It's not a typical thing, although I do a little bit of it. That's not how most VCs operate. They spend a lot of time talking to founders inbound, like you said, through founder referrals and others. What's your advice to founders on how best to use pre partner level leaders within a VC firm?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18343,
+      "timestamps": [
+        {
+          "offset": 18343,
+          "raw": "[00:16:26]",
+          "seconds": 986
+        }
+      ]
+    },
+    {
+      "end": 18807,
+      "excerpt": "[00:16:46] What role do you play that supports the partners. How can founders engage with you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18713,
+      "timestamps": [
+        {
+          "offset": 18713,
+          "raw": "[00:16:46]",
+          "seconds": 1006
+        }
+      ]
+    },
+    {
+      "end": 19070,
+      "excerpt": "[00:16:52] Stephen Wemple: So I started at Spero as an associate. I'm now a principal. I've led five deals on behalf of the firm. I sit on a bunch of board observer seats. And that evolution has been an interesting one and I think frankly a quite leveraged one.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 18809,
+      "timestamps": [
+        {
+          "offset": 18809,
+          "raw": "[00:16:52]",
+          "seconds": 1012
+        }
+      ]
+    },
+    {
+      "end": 20114,
+      "excerpt": "[00:17:04] For a founder navigating a venture firm it can be venture firm specific, and so do a little bit of homework to understand how big the firm is. If it's a smaller firm, an emerging manager, or just a seed firm that has less than 10 employees, probably five or six investors, the junior investors are gonna have a pretty big voice in the room, and they can be an incredible partner for you, the founder navigating kind of the deal process. If you can get that analyst, associate, senior, associate principal to understand your vision and to advocate for you through the process, it can be an incredibly strategic partner. Bigger firms, I think it's really idiosyncratic to that firm. I think generally speaking, there's a thread of advice out there that says, you wanna get to the decision maker or the partner in the first conversation, and these junior people may not be worth your time. I would say there is an ounce of truth to it. The advice exists for a reason, but more often than not, following that will get you into trouble.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19072,
+      "timestamps": [
+        {
+          "offset": 19072,
+          "raw": "[00:17:04]",
+          "seconds": 1024
+        }
+      ]
+    },
+    {
+      "end": 20664,
+      "excerpt": "[00:18:05] Partners hire junior investors because they trust them and they want their perspective in the room. And to bypass that or to dismiss it can be a negative signal about the founder, and so I would just be careful. When utilized best, I think junior investors are trying to hustle for you. They're trying to create their own track record. They're trying to prove their merits as an investor and they're trying to get reps, and so I think finding a junior investor that you connect with can be an incredible boon to your fundraising process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20116,
+      "timestamps": [
+        {
+          "offset": 20116,
+          "raw": "[00:18:05]",
+          "seconds": 1085
+        }
+      ]
+    },
+    {
+      "end": 20872,
+      "excerpt": "[00:18:41] Gopi Rangan: How to make the first meeting effective with you? What can founders do beyond have your slide deck ready and all that stuff? Can you share one or two tips to founders to do it right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20666,
+      "timestamps": [
+        {
+          "offset": 20666,
+          "raw": "[00:18:41]",
+          "seconds": 1121
+        }
+      ]
+    },
+    {
+      "end": 21142,
+      "excerpt": "[00:18:51] Stephen Wemple: Yeah. The baseline filter in a first call from my perspective is, do I leave that call believing that the opportunity is big enough and that this team has the background and the experience and the talent to navigate towards that big outcome?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 20874,
+      "timestamps": [
+        {
+          "offset": 20874,
+          "raw": "[00:18:51]",
+          "seconds": 1131
+        }
+      ]
+    },
+    {
+      "end": 21191,
+      "excerpt": "[00:19:08] Gopi Rangan: How can they show that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21144,
+      "timestamps": [
+        {
+          "offset": 21144,
+          "raw": "[00:19:08]",
+          "seconds": 1148
+        }
+      ]
+    },
+    {
+      "end": 21245,
+      "excerpt": "[00:19:09] What's a good way to present that to you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21193,
+      "timestamps": [
+        {
+          "offset": 21193,
+          "raw": "[00:19:09]",
+          "seconds": 1149
+        }
+      ]
+    },
+    {
+      "end": 21701,
+      "excerpt": "[00:19:11] Stephen Wemple: Yeah, it's a great question. I think it's not just a tam slide thing, right? if you end up talking about total addressable market just by numbers, it feels like you're starting to justify the existence of a market. You kind of need to bring someone into the future and articulate this inevitable outcome and how big of an impact your company or the problem that you're trying to address what it'll look, what the solution will.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 21247,
+      "timestamps": [
+        {
+          "offset": 21247,
+          "raw": "[00:19:11]",
+          "seconds": 1151
+        }
+      ]
+    },
+    {
+      "end": 21718,
+      "excerpt": "[00:19:37] Hmm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21703,
+      "timestamps": [
+        {
+          "offset": 21703,
+          "raw": "[00:19:37]",
+          "seconds": 1177
+        }
+      ]
+    },
+    {
+      "end": 22034,
+      "excerpt": "[00:19:37] Gopi Rangan: That's great. That's a good way to look at it. It's both the combination of statistics, data, numbers and also the mission driven aspect that you mentioned earlier. Are you committed for the long term and why? And can you take me to that future? That's a very interesting way to look at it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21720,
+      "timestamps": [
+        {
+          "offset": 21720,
+          "raw": "[00:19:37]",
+          "seconds": 1177
+        }
+      ]
+    },
+    {
+      "end": 22266,
+      "excerpt": "[00:19:53] And if the founder can communicate that to you in the first meeting, it makes it productive for them and for you. You say no quite often. You probably say no more often than you say Yes. How often and why do you say no?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22036,
+      "timestamps": [
+        {
+          "offset": 22036,
+          "raw": "[00:19:53]",
+          "seconds": 1193
+        }
+      ]
+    },
+    {
+      "end": 22477,
+      "excerpt": "[00:20:05] Stephen Wemple: Yeah. My mentality when I meet a founder and look at a company is to have a default level of optimism and believe that this version of the future that this founder's sharing is true.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 22268,
+      "timestamps": [
+        {
+          "offset": 22268,
+          "raw": "[00:20:05]",
+          "seconds": 1205
+        }
+      ]
+    },
+    {
+      "end": 22817,
+      "excerpt": "[00:20:16] And then it's our job to decide whether or not if it is true, and if it reaches scale and everything goes right, is the outcome big enough to return our fund? And is the outcome big enough to make a material impact on both the returns that we're trying to drive and the level of impact we're trying to have at a societal level.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22479,
+      "timestamps": [
+        {
+          "offset": 22479,
+          "raw": "[00:20:16]",
+          "seconds": 1216
+        }
+      ]
+    },
+    {
+      "end": 23245,
+      "excerpt": "[00:20:36] And so when we say no to companies, it's because we don't have our own conviction in the size of the outcome more often than not. The hard part is that's often downstream of really believing in the story that the founder is telling you. And so I think as harsh as that might sound, it gets at a more important point, which is, as a founder, you need to go and find investors that share the conviction that you have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22819,
+      "timestamps": [
+        {
+          "offset": 22819,
+          "raw": "[00:20:36]",
+          "seconds": 1236
+        }
+      ]
+    },
+    {
+      "end": 23571,
+      "excerpt": "[00:21:03] You wanna find, particularly in the seed stages, the people that are true believers and are gonna be in your corner. And oftentimes that's finding investors that already have been thinking about the space before or have some experience or firsthand knowledge of the market you're going after which is really hard.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23247,
+      "timestamps": [
+        {
+          "offset": 23247,
+          "raw": "[00:21:03]",
+          "seconds": 1263
+        }
+      ]
+    },
+    {
+      "end": 23919,
+      "excerpt": "[00:21:21] I empathize with founders. It's hard to find those folks and, which is why I encourage founders to really run a pretty good funneled process to meet as many people and see all the different flavors. We miss big opportunities all the time just because we don't have the intuition or the insight required to understand a big opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23573,
+      "timestamps": [
+        {
+          "offset": 23573,
+          "raw": "[00:21:21]",
+          "seconds": 1281
+        }
+      ]
+    },
+    {
+      "end": 24092,
+      "excerpt": "[00:21:40] So when we say no, it's more of a reflection of us and our ability to have a prepared mind and to see what the founder sees than it is about the founder itself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23921,
+      "timestamps": [
+        {
+          "offset": 23921,
+          "raw": "[00:21:40]",
+          "seconds": 1300
+        }
+      ]
+    },
+    {
+      "end": 24419,
+      "excerpt": "[00:21:49] Gopi Rangan: That informed mindset makes a big difference. It helps the founder have a more substantive conversation in the first meeting and second meeting, and the founders can figure out whether the investor has experience thinking about this problem statement, more deeply. That's a good use of founder's time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24094,
+      "timestamps": [
+        {
+          "offset": 24094,
+          "raw": "[00:21:49]",
+          "seconds": 1309
+        }
+      ]
+    },
+    {
+      "end": 24673,
+      "excerpt": "[00:22:04] You've now spent more than six years at Spero, and you've had many years of experience as a venture capital investor. What's one thing that you would like to change? You want to see a change in the venture capital industry to make it better?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24421,
+      "timestamps": [
+        {
+          "offset": 24421,
+          "raw": "[00:22:04]",
+          "seconds": 1324
+        }
+      ]
+    },
+    {
+      "end": 24726,
+      "excerpt": "[00:22:18] Stephen Wemple: That's a great question.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 24675,
+      "timestamps": [
+        {
+          "offset": 24675,
+          "raw": "[00:22:18]",
+          "seconds": 1338
+        }
+      ]
+    },
+    {
+      "end": 25042,
+      "excerpt": "[00:22:19] Look, I think we're in an interesting moment and I'm still early in my career and I'm still working through seeing different cycles play out, but it certainly feels like right now there's, just a concentration of capital in large firms that I think we'll have really interesting long-term ramifications.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24728,
+      "timestamps": [
+        {
+          "offset": 24728,
+          "raw": "[00:22:19]",
+          "seconds": 1339
+        }
+      ]
+    },
+    {
+      "end": 25420,
+      "excerpt": "[00:22:37] We have really large mega funds, which I think have proven they exist for a reason. LPs like the product they're selling, but I do think ultimately they're fundamentally selling a different product than early stage venture capital. The mega funds are hard to make the math work even in your most optimistic interpretation of how big outcomes might be in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25044,
+      "timestamps": [
+        {
+          "offset": 25044,
+          "raw": "[00:22:37]",
+          "seconds": 1357
+        }
+      ]
+    },
+    {
+      "end": 25707,
+      "excerpt": "[00:22:57] So I'm skeptical or somewhat worried about the concentration in these mega funds and its impact on emerging smaller funds to be able to raise capital. So if I could change anything I think you're seeing this actually from a handful of really like thoughtful progressive LPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25422,
+      "timestamps": [
+        {
+          "offset": 25422,
+          "raw": "[00:22:57]",
+          "seconds": 1377
+        }
+      ]
+    },
+    {
+      "end": 25999,
+      "excerpt": "[00:23:13] I think there would be some emphasis on a return to smaller, more concentrated fund strategies. But I guess it's a bit of a chicken and egg thing. It's incumbent upon these smaller, emerging, more concentrated fund strategies to prove their worth. And we'll see how it plays out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25709,
+      "timestamps": [
+        {
+          "offset": 25709,
+          "raw": "[00:23:13]",
+          "seconds": 1393
+        }
+      ]
+    },
+    {
+      "end": 26219,
+      "excerpt": "[00:23:28] I'm certain the big guys will find ways to make money and make it all work, but there is a change happening in terms of the institutionalization of venture capital, and we'll see if it works in the long run.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26001,
+      "timestamps": [
+        {
+          "offset": 26001,
+          "raw": "[00:23:28]",
+          "seconds": 1408
+        }
+      ]
+    },
+    {
+      "end": 26537,
+      "excerpt": "[00:23:38] Gopi Rangan: The true art of venture capital is in the early stages, and it makes sense to steer the ship in the direction again. We're coming towards the end of our conversation and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26221,
+      "timestamps": [
+        {
+          "offset": 26221,
+          "raw": "[00:23:38]",
+          "seconds": 1418
+        }
+      ]
+    },
+    {
+      "end": 26810,
+      "excerpt": "[00:23:54] Stephen Wemple: So Gopi, I've gotten to know you through working on Juno. I think Juno is a really special mission driven organization. We talked a little bit about it, but I also got to know your story a little bit and why you came to Juno with prepared mind.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 26539,
+      "timestamps": [
+        {
+          "offset": 26539,
+          "raw": "[00:23:54]",
+          "seconds": 1434
+        }
+      ]
+    },
+    {
+      "end": 27115,
+      "excerpt": "[00:24:05] So I'm actually throw this back on you. I don't know if you ever get a chance to talk about things that you care about in your life, but I know there's a lot of things and organizations that mean a lot to you as it relates to your family and the Juno story. Is it okay to turn it back to you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26812,
+      "timestamps": [
+        {
+          "offset": 26812,
+          "raw": "[00:24:05]",
+          "seconds": 1445
+        }
+      ]
+    },
+    {
+      "end": 27489,
+      "excerpt": "[00:24:18] Gopi Rangan: Great. Well the questions has boomerang back to me. I'll give you a short story. When I first came to the US as an immigrant, as a student, the first set of Americans I met were undergraduate students at Arizona State where I went to graduate school and I was a tutor to these undergraduate students I was a tutor at the disability resource center.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27117,
+      "timestamps": [
+        {
+          "offset": 27117,
+          "raw": "[00:24:18]",
+          "seconds": 1458
+        }
+      ]
+    },
+    {
+      "end": 27854,
+      "excerpt": "[00:24:37] The students I taught or tutored, had some kind of disability, physical disability, or hidden disability. And I've always had it in my mind that it would be great to intercept in the lifes of these kids much earlier and that will of course correct and create opportunities for them to be far more independent than trying to catch them at college level.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27491,
+      "timestamps": [
+        {
+          "offset": 27491,
+          "raw": "[00:24:37]",
+          "seconds": 1477
+        }
+      ]
+    },
+    {
+      "end": 28478,
+      "excerpt": "[00:24:56] So when I started living in Silicon Valley, I looked for an opportunity where I can be attached to an organization that does this. And I found Achieve Kids. Achieve Kids is a non-public school. it has two campuses, one in San Jose, one in Palo Alto. It's been around for more than 50 years. They serve more than a hundred students in the area. The families benefit tremendously when they move their children to Achieve Kids. The mission of the school is to help children become as independent as they can and meet them where they are with their capacities and give them tools so then they can learn and develop.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27856,
+      "timestamps": [
+        {
+          "offset": 27856,
+          "raw": "[00:24:56]",
+          "seconds": 1496
+        }
+      ]
+    },
+    {
+      "end": 28797,
+      "excerpt": "[00:25:29] I'm very fortunate to have the opportunity to experience this, get close to the earlier days of earlier years of a child and create that impact. And I've been on the board for more than 10 years, and I've really, really enjoyed it. I feel like I've, more than anything I give learned a lot more, in return.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28480,
+      "timestamps": [
+        {
+          "offset": 28480,
+          "raw": "[00:25:29]",
+          "seconds": 1529
+        }
+      ]
+    },
+    {
+      "end": 28896,
+      "excerpt": "[00:25:45] So I'm very happy and very proud of, this association I've had for more than a decade.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28799,
+      "timestamps": [
+        {
+          "offset": 28799,
+          "raw": "[00:25:45]",
+          "seconds": 1545
+        }
+      ]
+    },
+    {
+      "end": 29163,
+      "excerpt": "[00:25:50] Stephen Wemple: Yeah, it's incredible. Just getting to know you, you've lived a really fruitful life in Silicon Valley since you've been here. The more I learn about you, the more I feel privileged to get to work on Juno and hopefully more in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 28898,
+      "timestamps": [
+        {
+          "offset": 28898,
+          "raw": "[00:25:50]",
+          "seconds": 1550
+        }
+      ]
+    },
+    {
+      "end": 29218,
+      "excerpt": "[00:26:01] Gopi Rangan: Hopefully more in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29165,
+      "timestamps": [
+        {
+          "offset": 29165,
+          "raw": "[00:26:01]",
+          "seconds": 1561
+        }
+      ]
+    },
+    {
+      "end": 29584,
+      "excerpt": "[00:26:02] I'm looking forward to it. Stephen, thank you very much for spending time with me. Thank you for sharing nuggets of wisdom. Thank you for sharing specific examples on how founders can engage with a junior partner and your philosophy of investing, how you focus on mission-driven founders. I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29220,
+      "timestamps": [
+        {
+          "offset": 29220,
+          "raw": "[00:26:02]",
+          "seconds": 1562
+        }
+      ]
+    },
+    {
+      "end": 29652,
+      "excerpt": "[00:26:19] Stephen Wemple: Thank you for your time. Appreciate it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Stephen Wemple",
+      "start": 29586,
+      "timestamps": [
+        {
+          "offset": 29586,
+          "raw": "[00:26:19]",
+          "seconds": 1579
+        }
+      ]
+    },
+    {
+      "end": 29954,
+      "excerpt": "[00:26:23] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29654,
+      "timestamps": [
+        {
+          "offset": 29654,
+          "raw": "[00:26:23]",
+          "seconds": 1583
+        }
+      ]
+    },
+    {
+      "end": 30018,
+      "excerpt": "[00:26:38] I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29956,
+      "timestamps": [
+        {
+          "offset": 29956,
+          "raw": "[00:26:38]",
+          "seconds": 1598
+        }
+      ]
+    }
+  ],
+  "source_sha256": "5fc73688af15493c77cf459843c7343daa686c915fce7c3595427f423ba42d4e",
+  "text_sha256": "f34bd77dfc15398a64ea261ab0cb9e14f82146a28e955c859ee145bf6a3fc3ec"
+}

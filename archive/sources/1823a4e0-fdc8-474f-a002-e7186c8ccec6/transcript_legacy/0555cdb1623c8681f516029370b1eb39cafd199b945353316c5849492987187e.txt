@@ -1,0 +1,225 @@
+"We're looking for the earliest manifestations of exceptionalism; ability to break away and beat the norm." - Arjan Schutte
+
+[00:00:17] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. In this episode, my guest is Arjan Schutte. Arjan is the founder and managing partner at Core Innovation Capital.
+
+[00:00:49] Core Innovation is one of the pioneering fintech venture capital firms based in the Silicon Valley and in Los Angeles and also in New York. Arjan, welcome to The Sure Shot Entrepreneur.
+
+[00:01:00] Arjan Schutte: Thanks, Gopi. Excited to be here.
+
+[00:01:02] Gopi Rangan: Tell me about yourself, starting with your childhood, where you grew up.
+
+[00:01:06] Arjan Schutte: I grew up in Holland.
+
+[00:01:07] I'm the son of a Persian mom and a Dutch dad. Both my parents are artists. My first name actually is Ansel because my dad studied with Ansel Adams and named me after him. And my mom's an art therapist. My parents split up when I was seven and I moved around a lot. My mom was kind of inventing her career.
+
+[00:01:31] She had to work after my parents split up and I was with her. So we grew up pretty poor by Western standards for sure. And the persons out of my family moved to the Twin Cities in Minnesota. Occasionally we would come to the States and my most favorite human being was my uncle, lived in the Twin Cities.
+
+[00:01:51] My entire youth I aspired to move to the States, which I finally persuaded my parents to let me do when I was junior in high school. Since then I've been here and a convert to the ways of the U. S.
+
+[00:02:06] Gopi Rangan: How did you enter the financial services industry?
+
+[00:02:10] Arjan Schutte: Hugely indirectly. I basically right out of college fell into a startup.
+
+[00:02:15] I was in the education space, which turned out to be a very expensive MBA. And then I went to the media lab at MIT, trying to get out of the education space. And I fell right back into it. I joined an online university which went public. And then I joined another education software company, which we sold.
+
+[00:02:34] So that was all edtech. Everything up to that point was kind of a convergence of my obsession with technology, my interest in public sector problems and private sector solutions. And with that interest, someone gave me a book in 2002 about a guy named Muhammad Yunus, who'd started a financial institution called Grameen Bank, which I'd never heard of any of that stuff.
+
+[00:02:56] I read the book over the weekend and was a total convert. To me, basically the whole thing represented US-trained Bangladeshi who is looking for marketplace solutions to address poverty and invented this idea of a tiny little loan that's a tiny little small business loan, which had 1 percent default rates and amongst the poorest people on the planet. And that just struck me as incredible. So I was looking to, could I do something like that here in the US. I thought about going to Bangladesh, but as I mentioned, I'm already an immigrant. And at the time vice president Al Gore was doing his speech around global warming and India was telling him to go back home, right?
+
+[00:03:35] "Like, you come from the biggest polluter in the world. Why are you telling us to go green, clean up your own backyard?" And that really inspired me too. And I was like, "yeah, we should clean up our own backyard." Really kind of from then on, I was looking for solutions that could be financially empowering that involved more progressive and more emancipatory financial instruments. And that's really what pivoted me into that direction. So then I helped set up a think tank called the Center for Financial Services Innovation, now called Financial Health Network. And that led to Core, but it was really the story of Mohammed Yunus and Grameen bank that got me into this whole world.
+
+[00:04:14] Gopi Rangan: I visited Bangladesh in 2007 and I spent some time with Mohammad Yunus. I visited many villages where Grameen Bank had set up a lot of these businesses. It was fascinating. What he has done is just phenomenal. I know he won the Nobel Prize for Peace in 2007. But a lot of the innovation he has done actually touches economics.
+
+[00:04:35] And I wonder why he didn't get the Nobel Prize for Economics also.
+
+[00:04:38] Arjan Schutte: Yeah. What were some of your ahas when you actually got to see the stuff up close?
+
+[00:04:43] Gopi Rangan: See, for me, I grew up in such an environment. I grew up in India, in South India, in Chennai. It's urban, like big city, 11 million people, very crowded. My parents still live in the same two bedroom flat where I grew up.
+
+[00:04:56] On the street, on one end of the street was a slum, and on the other end of the street were these huge mansions. And I was right in the middle. The dichotomy was a reminder to me almost every day growing up. I still reflect on that and I try to see what we can do to bridge the two. And I've been finding ways to build my career towards that.
+
+[00:05:16] Finance is definitely one piece of it, but there's also a lot of other things like social fabrics and other things.
+
+[00:05:21] Arjan Schutte: What was it a reminder of when you say living in the middle between the slum and the high rises? Was it an aspirational thing or was it a seeing the injustice or seeing what, yeah, what, what was the reminder of?
+
+[00:05:35] Gopi Rangan: It was a reminder of the dichotomy. On one side, I would be jealous of the mansions and on the other side, I would feel very fortunate and sometimes even guilty that I have more than the folks in the slums. The one side, the folks in the slums were also involved in theft and those type of activities, and there were enough reasons to dislike them.
+
+[00:05:54] And on the other side, the folks in the mansions were doing great charitable activities that had an impact in the community. So there was something admirable there. So it was never a black and white, it was always a fuzzy of I liked certain qualities about one group, but didn't like certain other qualities about the group.
+
+[00:06:09] And I was always trying to reconcile the two.
+
+[00:06:12] Arjan Schutte: When you got to see some of the Grameen stuff, how did that influence you then or what caught your attention?
+
+[00:06:18] Gopi Rangan: There are many things that I still reflect on. In fact, I met him when he was here in the Silicon Valley. The part that I took away that really strongly resonated with me was I asked him, what is his challenge today?
+
+[00:06:29] And he said, the sons of the people who benefited from Grameen Bank in the early days, 20 years ago, they are now growing up, and these are all teenagers and 20 year olds. They are fortunate enough to go to college. When they come out of college, they hold this piece of paper in their hand, which is the degree certificate, and they say, "someone needs to give me a job."
+
+[00:06:48] And he's kind of perplexed that, okay, "what did I do here? When did someone tell you that your goal in life is to hold this piece of paper and someone needs to save you by giving you a job? Why can't you be an entrepreneur? Why can't you create jobs and your motivation for that, your inspiration for that is at home.
+
+[00:07:04] Look at your mom. She took a small loan up from Grameen Bank and that helped her establish her business. She started creating things that was valuable for local community and she sold those products and services whatever that was. And that's the motivation for you. So why can't you be like her instead of trying to look for a job." So that was one of his biggest challenges. And that really stuck with me well. I think that's relevant for everybody all around the world, including us. Instead of trying to get a job and hope for that illusion of a stable life, why can't we build something? And then when we have control over what we build, we can build meaningful things.
+
+[00:07:42] Arjan Schutte: Yeah, it's so hard, right? I feel like that's the immigrants dilemma too. The parents who scrape everything together to get their kids a better life and come to America or Canada or wherever they go. And then their kids have this entitlement and have lost in a way the beauty and the kind of the miracle of at all costs scrappiness that their parents had to exhibit and their parents fought for their ability not to need that is kind of the irony of it.
+
+[00:08:10] How have you reconciled that?
+
+[00:08:12] Gopi Rangan: What I found was on the two ends of the spectrum, people were more flamboyant. They were more fearless. And in the middle, I was where it was surrounded by fear, fear of making decisions, fear of failing, fear of losing things. And that kind of makes people stuck in that middle class.
+
+[00:08:30] And that's what I see with a lot of people who graduate out of one level of the social strata or economic strata and get to the next stage. Then they lose that spirit of adventure. This is actually one of the topics I talk about in my class when I teach MBA students. How can we get out of that fear and go pursue things that really make a difference in the world?
+
+[00:08:49] If we surrender our aspirations in the effort of generating a predictable salary, then we compromise on various other things that we don't see that has an impact in the world, like how we destroy the environment and how we take advantage of unfair situations, which we don't directly involve ourselves, but the company or the corporation that we work for uses that.
+
+[00:09:10] And that is one of the main root causes for lots of problems in the world. I'm curious to see, you mentioned your uncle in your story. What impact he had on you in helping you shape your thoughts and views around the world?
+
+[00:09:24] Arjan Schutte: A lot. He was one of those people that we're lucky to have in our lives, who both really inspired me as a kid.
+
+[00:09:33] He was like the cool adult. And he had the proximity of my parents, but the distance of not being a parent. If we have someone like that, who was both really relevant to me earlier in life and later in life. Earlier in life, even though he wasn't an American, he represented America to me and he was happy and cheerful and uninhibited in ways that people around me in Holland were not.
+
+[00:09:58] Later in life, he was the only person in business. I mentioned that both my parents are artists. I always really admired that he'd started his own company, did quite well. And further, the type of business he did really inspired me. He later in life ran a consulting firm that did strategic management consulting for government entities to help them adopt private sector solutions and to really think about their constituents as their customers and to measure things like NPS and to budget in ways that the way the private sector does. This idea of bringing private sector solutions to public sector is very much like in the way that I do, well, we do it very differently, came very much from him.
+
+[00:10:48] I really liked that kind of mashup. That was a part of his career in my own way I've folded it into mine.
+
+[00:10:55] Gopi Rangan: So you've had a variety of experiences starting with art and your uncle's influence and later when you worked at different organizations, how did all of this shape your thoughts when you started Core Innovation?
+
+[00:11:08] I
+
+[00:11:08] Arjan Schutte: mean, Core was really about a bigger idea that at the time seemed kind of crazy and heretical. The idea was, "we think we can make better than market returns by investing in stuff that are arguably philanthropic", which felt at the time like a very great oxymoron. And even in the very beginning, when I was pitching this, I remember a group at Goldman Sachs, who ultimately led our first close and our first fund, asked me, "this is all good and well, but how do I know this is not philanthropy?"
+
+[00:11:45] And I remember being so mad that that seemed like a false choice to me. But i completely understand why people are skeptical of that now. This started very much with the premise of "gosh! There's gotta be a way to get the startup scene to care about social problems to the same tune that those same people are not joining the public sector.
+
+[00:12:07] They're not joining charities. Is there a way to kind of have them look at the same problems with their tools? Is there a way that we can create an alignment of incentives so that they can build businesses that can solve big problems for people who don't lead easy lives and have them not need to make that choice between doing something that they cared about in the world that's bigger than themselves, and providing for themselves financially, even making a lot of money financially."
+
+[00:12:39] That was the experiment.
+
+[00:12:41] Gopi Rangan: Wow! How was the experiment going 10 years later? Great,
+
+[00:12:44] Arjan Schutte: but there's so much more to go. We've had the good fortune of working with incredible founders who have taken on incredible challenges and done exactly what we'd hoped. We've seen some real difficulties in this as well. Not everything goes swimmingly.
+
+[00:13:03] We've had some companies that have done great philanthropically, if you will, and not commercially. And we've had some companies that have done great commercially, so philanthropically, and we have a couple that we feel like are great exemplars. But all of this experiment has gotten me excited to 10X it.
+
+[00:13:21] I've really been focused recently on how can we take the approximately $45 billion of positive externalities of social impact of kind of savings that our portfolio companies have created over the last decade? How could we make that into a trillion dollars of externalities over the next decade plus?
+
+[00:13:40] And that's been a really exciting process to think about.
+
+[00:13:44] Gopi Rangan: You're a very different kind of venture capital firm, unlike other VC firms on Sand Hill Road, for example. How do you measure this impact when you say $45 billion of externalities that you're created and you're aiming for $1 trillion?
+
+[00:13:58] Arjan Schutte: Every deal we do, we ask the founders to sign a side letter and the side letter basically commits them to do right by their mission and to once a year give us data about these externalities.
+
+[00:14:14] And of course, we get their financial and operational metrics and a lot is right there. So a combination of all these reporting give us data by which we can see exactly how many customers are people serving, what income bands are those customers in, on the basis that the dollar saved by a millionaire is less valuable than a dollar saved by a poor person. And how much are we saving them relative to the next most common comp? We benchmark every company against the next most common application. That's one way that we look at the savings. Then we look at, are they bringing net new savings or investments? Are they helping people make that new income.
+
+[00:14:55] We look at the present day value of shocks protected. So if we're investing in something in the insurance space where someone would have been uninsured, you can look at what they would have been out of pocket if they hadn't been insured, in addition to looking at is this coverage cheaper than the coverage they would have gotten without this startup.
+
+[00:15:14] So there's a variety of means by which we measure it. And we believe that measuring it is incredibly important because it's so easy to pat yourself on the back for like having good intentions. But as we all know, not everyone with good intentions has equally great outcomes. Peter Drucker back in the day used to go around saying, what gets measured gets managed.
+
+[00:15:34] And we really believe that.
+
+[00:15:36] Gopi Rangan: Yeah. Sometimes there's a gap between intentions and actions. Even people with good intentions, their actions may not match those original intentions. What do you look for in entrepreneurs when you meet them?
+
+[00:15:47] Arjan Schutte: We look, like any VC, for people who have fortitude and grit, who have experience and the demonstrated ability of moving mountains. Additionally, we do look for people who clearly have exhibited caring about something bigger than themselves. We often find people who have chips on their shoulder, who were teased in school or whatnot as having the propensity or, yeah, to want to prove themselves.
+
+[00:16:24] So if people have done stuff that was about something bigger than themselves; often the founding story, we find that people who are successful in the businesses that we want to back the start in anger at some injustice that felt very true to them personally, you know, someone in their family, someone close to them that didn't lead a privileged life and they want to fix something.
+
+[00:16:52] We see that again and again, like what you're doing here, you're looking for authentic stories, real things that happened to real people we very much look to as well. And as I'm sure Kat told you at the beginnings of your Sure Shot Entrepreneur, any founder who's in our portfolio, I mean, we always ask people to start at their date of birth, not at their resume, which is the story that people are trained to tell us are they graduated Stanford with honors and moved to Pinterest and then moved to Credit Karma, blah, blah, blah.
+
+[00:17:22] And that's all fine and well and we care about those things. But so much is told about people, about really where they came from and to whom they were born and what their parents imprinted on them. I'm constantly shocked how important how we're raised is to who we ultimately become. And there's nothing that made that clear for me than parenting.
+
+[00:17:45] You think you're your own person in your early days, and you assert yourself as an individual. And then once you have parents, I realized how much I'm my parents unwittingly, not always in ways that I'm proud of. That also plays out in the entrepreneurial journey. So that's why we ask about those things.
+
+[00:18:03] Gopi Rangan: It's very interesting that you say that you started the date of birth, not the resume. The resume story is well rehearsed. There are highlights that they are ready to go and tell you. But the real human story starts with how they were born and how they were raised and where they grew up.
+
+[00:18:19] Arjan Schutte: Mm hmm. Their birth order, you know, tragedies in their lives.
+
+[00:18:23] It really shocks me how many founders have withstood tremendous tragedy. Understanding that really gives you a feel and helps you understand in a way that may not show up in the number of products you stood up as a product manager at Capital One or wherever you came from.
+
+[00:18:42] Gopi Rangan: That's right. Can you give an example of a story of an entrepreneur that you met?
+
+[00:18:47] And what was the message? What did you pick up from the first interactions? And especially if there were any stories from their life that really resonated with you?
+
+[00:18:57] Arjan Schutte: The one who pops up is Doug Rickett, although I don't know of tragedy in his life, his story did touch on a number of things I just mentioned.
+
+[00:19:05] He was a Google engineer, and he took time off to join the Peace Corps. He was stationed in Africa, and there he brushed up against some players in the solar finance space. And he discovered how the adoption of a solar stove was not nearly high enough, and he basically created a little bit of code that tied the payment stream to the functionality of the stove, basically making a pay as you go stove. If you stop making payments, it wouldn't work. Then you'd start making payments again. And commensurately, you wouldn't have to pay for it if you weren't using it. It was his Peace Corps experience, which said a lot about him about the choices he made in his life that turned into some ingenuity where he really connected with his engineering experience to make something better. Peace Corps mission over came back to the US and blended those two into page joy where he tied. That same idea of pay as you go into handsets. Now, they're a leading handset finance company that basically ties the cell phone to a similar lock where if you stop making payments your cell phone doesn't work or you call 911 or the equivalent of it and now they're even so far where they're making just cash loans and tying your cell phone to the payment stream. There's basically some sense of a security that's built into a loan like this, and they're growing like a weed.
+
+[00:20:35] Gopi Rangan: This is an authentic example of a business that is a manifestation of the founder's experience in life elsewhere.
+
+[00:20:44] Arjan Schutte: Yeah, on literally a philanthropic journey.
+
+[00:20:47] Gopi Rangan: Is this a common theme across your portfolio companies, the founders?
+
+[00:20:51] Arjan Schutte: I wouldn't say so. It really expresses it in so many voices. But it's not like we have a gaggle of Peace Corps founders at all. That would be cool. It would help our sourcing so much. But part of the delight is like in how many ways it shows up, right?
+
+[00:21:07] Like for someone it's their sister who had disabilities or their brother who never did that well and fell into payday lending, and they wanted to do better. Or a dad who passed away and they're determined to give pride to his legacy and what he taught them. It's in so many forms and i'm sure this is no news to a traditional entrepreneurial journey. And in many ways I feel like that's all we're doing also well. We make a big thing of our mission and the impact that we want. It's not to say that other startups aren't making a tremendous impact in the world in different ways. So in many ways, we are just investing in startups. What we might consider missionary, someone might not.
+
+[00:21:52] So it's a very individual pursuit and interpretation that I've learned to really not be judgmental about at all.
+
+[00:22:00] Gopi Rangan: What do you ask these entrepreneurs in the first few meetings? What are you looking to see?
+
+[00:22:06] Arjan Schutte: Well, we ask a lot about their company and such, and we want to understand what they're building.
+
+[00:22:10] We're looking for the earliest manifestations of exceptionalism. Kids ability to break away and beat the norm. Often people are starting stuff since they're 10 or 8 or teenager or started something in college, you know, way before their quote unquote official first venture backed startup. This was inspired by Angela Duckworthy's book, Grit.
+
+[00:22:34] I love to ask about people's high school extracurricular accomplishments. It's incredibly telling. Like the folks who had breakaway tennis careers, or debate careers, or chess championship careers, Again, who really excelled, even in random Littleville nowhere. It's incredibly correlative.
+
+[00:22:55] Gopi Rangan: I was the president of the astronomy club when I was in college and I still keep that part of fascination for me.
+
+[00:23:01] When I go out at night with my wife, I look up the sky and look at the stars and point her to Aldebaran and Betelgeuse and others. And the wonder of Space and astronomy is the search of who we are. It's very humbling to know that we are just a speck of a speck of a speck of a dirt in this vast universe.
+
+[00:23:22] So it's a very humbling way to think about where we really stand. And all our dreams and desires and all the conflict we have and all the accomplishments that we make, everything is encapsulated in this small piece of round planet floating in the vast ocean of the universe. So then a lot of the problems in life kind of disappear when you take that big picture.
+
+[00:23:44] Arjan Schutte: Yes, a small blue dot. Well, and it clearly still plays out in your curiosity, the humility with which you conduct yourself. So I'm glad that you had that spark. How about in high school? What were you doing in high school, Gopi?
+
+[00:23:58] Gopi Rangan: Oh, in high school, I had a different kind of experience. I was sick a lot. I was down with malaria like many, many times.
+
+[00:24:05] So I never really did anything. Well, I wanted to do, but I could never stick to something long enough where I could see it through, whether it was sport or any activity, because invariably I would have to drop out of it because I was not well. So I switched from one hobby to another hobby, do another hobby.
+
+[00:24:21] So I never really did high school trips with buddies. And I've always yearned for that community of being part of a team doing something fun. But eventually I got out of that malaria and thanks to a miracle drug that WHO administered and gave it away to a lot of people and that cured me out of malaria and I even ran a marathon to prove to myself that I'm no longer a physical weakling.
+
+[00:24:45] Arjan Schutte: Nice. That's awesome.
+
+[00:24:47] Gopi Rangan: I want to ask you about a couple of more examples of startups. Can we pick an example of a company that you saw the sparkle in the eyes of the entrepreneur, you saw the mission, and you were even more impressed as the story played out after you made the investment?
+
+[00:25:01] Arjan Schutte: Yeah, well, one was a long time ago when I was just getting started was a company called TIO networks, nothing written up anywhere in any Sandhill story. It was a Vancouver-based publicly traded penny stock by this young and tenacious sparkle-in-the-eye entrepreneur, Hamed Shahbazi, who had started this company like right out of college for some weird wrinkle in history, took it public at inception because that's the way he could get some capital basically.
+
+[00:25:36] It was like the opposite of a venture community around him. So it was his way to capitalize it. I met him at an ATMIA conference, one of the endless tiny niche like financial services edge corner conferences that I used to frequent where I really learned a lot. He was this incredibly curious, incredibly enthusiastic guy who kind of listened to the world a lot and was always at the front of the room taking notes.
+
+[00:26:06] The next most curious person to Hamed I know is Scott Cook, the founder of Intuit, who also similarly is always at the front of the room, always taking notes, always asking questions, never presumes he knows anything, and generally the richest guy in the room. So Hamed was like the young kid like that. He taught himself how to build a company and how to scale it and payments and then M& A.
+
+[00:26:31] We helped him do his first M& A where he took it from $20 million in revenue to $80 million in revenue and then a couple hundred million dollars in revenue and then an exit to PayPal, which was all not in the expected corners.
+
+[00:26:48] What made him successful?
+
+[00:26:49] His curiosity and his 'stick-with-it-ness'. He was a grinder.
+
+[00:26:53] He wasn't like, "Oh, my series A round went bad. You know, like I'm going to throw in the towel." Or, "Oh, I didn't get this valuation." and it was frustrating for him. He'd see these young kids who had done nothing comparatively have an idea and raise a bunch of money. Worth a lot and then fizzle out over the course of five years and he was still there grinding away.
+
+[00:27:13] So it was really his willingness to look for opportunities, always willing to do a deal. All of his M&A work were just patient relationship building, trust building, and looking for the right opportunity.
+
+[00:27:28] Gopi Rangan: It's refreshing to see entrepreneurs with that level of independent thinking and grit.
+
+[00:27:33] Arjan Schutte: Yeah, it's a rare story.
+
+[00:27:35] Gopi Rangan: What tips would you like to give to entrepreneurs who are exploring the idea of building a fintech startup?
+
+[00:27:42] Arjan Schutte: Solve a big problem. We see so many incremental, you know, small problems. Solve a big problem. Life's too short. Solve a problem that you have to solve, that there's no choice for failure. So tie it to your life, find the right partners, and that's both founder partners and capital partners. And especially on the capital side, people are typically so obsessed with their first markup, what they want the company to be worth and we'll take that again and again and again, over the right people around the table. I always encourage people, regardless of whether it's core dollars or not, to heat seek to the right person, the right GP partner for them, someone they can learn from someone they feel like will stick with them through thick and thin.
+
+[00:28:35] And founders let themselves fall into the trap that the VCs have the power way too easily. So it's the founder who asks us how we can add value and doesn't just look for a perfunctory answer, but really pushes on that, who really gains our attention. And that's what they should be heat seeking for. We often tell our founders, "figure out the companies you admire most and put the people who backed those companies try to get them on your team."
+
+[00:29:06] Gopi Rangan: There's the founder/market fit, and the market being huge is certainly helpful. There's also the founder/GP or founder/VC fit. That also creates magic. And that's often not well understood or spoken about very often. I want to switch to another part of our discussion and ask you about your community involvement.
+
+[00:29:26] I know you're involved in many interesting activities and very impactful activities. Can you pick one that you want to talk about? Which nonprofit organization are you passionate about?
+
+[00:29:36] Arjan Schutte: A friend of mine last year got me roped into a really exciting initiative in Compton. Compton is a city and has a young and vibrant and miraculous mayor, Mayor Asia Brown who has done incredible work to turn what is one of America's poorest cities and most diverse cities, most non white cities around and recently launched the largest basic income initiative in the United States in Compton. So I joined the board of her CDC, the Compton Community Development Corporation, where the Compton pledge is but one of a handful of really innovative solutions to try and create economic opportunity to a community that is poor and largely African American and hispanic and riddled with gang and crime, but bristling with entrepreneurial energy and a desire to make a name for themselves that is not about gangs and poverty, but it's about upward mobility. I'm a fly on the wall there. And I'm super excited about doing something that's local to me. It's close to where my kids are growing up and I wanted that. And that connects me to doing something around economic empowerment for black and brown people, which I really believe so much more needs to be done around the edges and something around basic income, which is something I'm so curious about; putting my tech brain on. It is not far fetched that the robots are going to take over all jobs not just in Compton, but anywhere. How are people going to pay for rent, but for basic income or something else? It's fun to be part of a testing initiative along those lines.
+
+[00:31:29] Gopi Rangan: Arjan, thank you so much for sharing many personal stories and real-life examples of startups that you've worked with and your mission for how you're planning to create an impact in the world.
+
+[00:31:41] I've really enjoyed working with you and Kat and the rest of your team at Core and I look forward to collaborating more.
+
+[00:31:47] Arjan Schutte: I hope so too, Gopi. And it's so fun to get to know you more and to build our relationship and hopefully if someone even gets one morsel that would be great and it'd be fun to connect the dots.
+
+[00:31:57] So if you do. ping either Gopi or me. I would love to hear about it.
+
+[00:32:02] Gopi Rangan: This is great. Thank you so much again. I'm looking forward to sharing your wisdom with the world.
+
+[00:32:07] Arjan Schutte: For what it's worth. Thanks, Gopi. Totally appreciate it.
+
+[00:32:12] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs.
+
+[00:32:21] Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.

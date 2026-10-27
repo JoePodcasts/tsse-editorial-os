@@ -1,0 +1,633 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 380,
+      "excerpt": "In my mind, venture capital is not only a great compliment for people's portfolio. But I think it's also one of the noblest purposes of finance. It's a positive sum game. It's not buying a stock and somebody wins and somebody loses. You're actually allocating resources to someone or something that's creating value out of nothing.It can even propel progress of a country forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 774,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Fernando Pontaza. He's the co-founder and managing general partner at Invariantes Fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 382,
+      "timestamps": []
+    },
+    {
+      "end": 1242,
+      "excerpt": "He's based in Guatemala and he invests directly into startups and also in venture capital funds. We're going to ask him about how he looks for these opportunities, what excites him, what kind of funds and startups are a good fit for his fund. I met Fernando in New York a few years ago and we've stayed in touch and I've learned a lot about how the market has evolved by watching Invariantes Fund and the kind of activities that they've made over the past few years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 776,
+      "timestamps": []
+    },
+    {
+      "end": 1368,
+      "excerpt": "I'm excited to have this conversation to learn more in more deeper detail. Fernando, welcome to the Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1244,
+      "timestamps": []
+    },
+    {
+      "end": 1512,
+      "excerpt": "Fernando Pontaza: Thank you for having me, Gopi. You have some great guests, very smart people, so I hope I do them and your podcast justice. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 1370,
+      "timestamps": []
+    },
+    {
+      "end": 1584,
+      "excerpt": "Gopi Rangan: I'm looking forward to a lot of deep conversations today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1514,
+      "timestamps": []
+    },
+    {
+      "end": 1667,
+      "excerpt": "Let's start with where you are. You are based in Guatemala and you invest where? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1586,
+      "timestamps": []
+    },
+    {
+      "end": 2012,
+      "excerpt": "Fernando Pontaza: Yeah, based in sunny Guatemala where I am right now, as a matter of fact. And we invest in multiple geographies, but mainly the US and Latin America. Within Latin America, the ecosystem where we're most active in is Mexico and whatever startups come from our very nascent ecosystem here in Central America and the Caribbean .",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 1669,
+      "timestamps": []
+    },
+    {
+      "end": 2130,
+      "excerpt": "Gopi Rangan: Okay. Let's talk about your background. How did you enter into the world of venture capital investing. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2014,
+      "timestamps": []
+    },
+    {
+      "end": 2329,
+      "excerpt": "Fernando Pontaza: It all started in college. I studied systems engineering, but I had the luck of going to a particular college here in Guatemala, which is anchored on Austrian economic principles.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 2132,
+      "timestamps": []
+    },
+    {
+      "end": 2689,
+      "excerpt": "So it's, uh, a rarity in the world, more so in Latin America that is now swinging in a very opposite direction in regards to governments and political macro economy. So there, my career taught me a little bit about systems, but also you were forced, if you will, to learn about economics and finance and it sparked my interest in finance and, and investing. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2331,
+      "timestamps": []
+    },
+    {
+      "end": 3842,
+      "excerpt": "So I came out of the college, tried to get a job at financial institutions. They wouldn't take me because they labeled me as a systems guy and they say, why do you wanna work here and there's no job for you here. So I was forced to get an MBA and I got an MBA in Madrid and that opened the doors for me to start working in the banking sector and by pure luck a head hunter where I had left my resume three years before, just as I came back from my master's degree, gave me a call and said, ah, a family office is looking for someone like to put here that you like stocks and bonds, eh, go have a talk. And it ended up being a serendipitous call at the precise moment and I ended up working in the multi-family office that's been operating in Guatemala for 25 years managing a multi-asset class portfolio. I got familiar with working with a lot of asset classes like stocks, bonds, real estate, and a lot of alternative investments. And we started in a conscientious effort, divesting from the more traditional asset classes and into alternatives, which put us in touch with a lot of managers of private equity and under private equity venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2691,
+      "timestamps": []
+    },
+    {
+      "end": 4285,
+      "excerpt": "As we were doing that in the family office, we realized there was a gap that needed to be filled in the local geography because a lot of people wanted access to the asset class and a lot of investors were knocking on our door looking for potential capital for their own projects. A lot of founders. So we said, \"okay, we can leverage on our knowledge and our relationships and startup venture capital fund so we can serve both parties well.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3844,
+      "timestamps": []
+    },
+    {
+      "end": 4626,
+      "excerpt": "Now, the imagination was sparked for founders and investors alike with success cases. For example, Luis von Ahn, who's a Guatemalan founder of Duo Lingo, which now trades publicly and everybody was like, oh, how can I capture the next Luis von Ahn? And founders saw that it was possible that one of our own could reach such heights, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4287,
+      "timestamps": []
+    },
+    {
+      "end": 5438,
+      "excerpt": "So we started toying around with the idea with the owner of the family. He's Juan de Dios Aguilar. He's my partner in the venture capital fund. We said, okay, \"let's go. Let's start a fund.\" And we started discussing the idea as well with the people from the college, my alma mater where I went, and the dean of the business school and the dean of the college itself, they were friends of, uh, Juan de Dios as well. And they had an entrepreneurship vertical where they try to push the entrepreneurship mindset to alumni and they said, \"huh, you know what? I'm a mentor in the Peter Thiel's Fellowship.\" So we jumped on a plane and went to a Thiel Summit in mid 2015 to see what it was all about, what practices we could incorporate and make our own and foster this ecosystem in Guatemala with their learnings. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4628,
+      "timestamps": []
+    },
+    {
+      "end": 5937,
+      "excerpt": "What ended up happening is that at that very moment in time, Mike Gibson and Daniels TrackMan, who ran the fellowship for his first four years were starting their own fund called 1517 Fund to invest in the product of that ecosystem because a lot of heavyweights have gone through the program and it was their starting point for projects such asal, veterans Ethereum, second largest cryptocurrency in the world, and Austin Russell, which started Luminar, which is a lidar sensor company now public.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5440,
+      "timestamps": []
+    },
+    {
+      "end": 6262,
+      "excerpt": "The founder of oil rooms in the Airbnb, so they were onto something and they were starting their fund at that very moment in time. I got to know them. We immediately clicked to the point where we were looking back on our emails. We were back and forth with Mike, quoting eighties movies and speaking Justin, a movies quote.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5939,
+      "timestamps": []
+    },
+    {
+      "end": 6872,
+      "excerpt": "I got to learn how they worked. I saw that they had a very particular niche that they were attacking, and they had a great eye for talent and for picking founders. So I came back to Guatemala, convinced with the idea that we had to invest in them and also do directs. And this is how the concept of Invariantes model, which is a hybrid model where we invest half of our capital in other funds and half in direct tickets, all early stage software or hardware with a software play sector agnostic was born. So that is the story of how I ended up starting with my partners Guatemala, first venture capital fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6264,
+      "timestamps": []
+    },
+    {
+      "end": 7338,
+      "excerpt": "Gopi Rangan: What an amazing story. Uh, you're a pioneer indeed. I see that your story, like many other venture capital investors, stories start with a serendipitous conversation where you steered into finance and venture capital investments and you doubled down on your interests, met a lot of founders and venture capital firms early on in the journey, experimented, got to know the ecosystem, and then you established your own investment division in Guatemala. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6874,
+      "timestamps": []
+    },
+    {
+      "end": 7494,
+      "excerpt": "What kind of investments excite you? What are the types of investments you look for at Invariantes, both venture fund investments and startup investments?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7340,
+      "timestamps": []
+    },
+    {
+      "end": 7534,
+      "excerpt": "Let's talk about venture funds first. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7496,
+      "timestamps": []
+    },
+    {
+      "end": 8729,
+      "excerpt": "Fernando Pontaza: Yeah, out of that first fund, which was our first vintage in 2015, it was a small amount of capital we had to deploy. So we ended up investing in two funds and 23 direct tickets. Now, we were testing out that model to see if it made sense. You know, we got some pushback with the fees because the funds charge fees and we as fund managers charge fees as well. But it ended up proving our concept that the value add that we get by investing in other funds in that sense, diversifying or dispersing the risk of 50% of the portfolio in hundreds of companies, in itself operates as an index fund representative for early stage and was a patched way to play VC and also opened up the doors for co-investment opportunities and for those managers to be a sounding board for our own due diligence process. And also it's a two-way street. We also send their way that comes from our particular vantage point in Latin America. So what we look for is emerging managers, mostly managers that we can collaborate with directly, not interested in a large fund where we're one of a thousand LPs and we're never gonna get a chance to develop a close-knit relationship with those fund managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 7536,
+      "timestamps": []
+    },
+    {
+      "end": 9268,
+      "excerpt": "So it's usually that and it's people with sound back office processes. A good fund administrator, preferably audited financials to know that the management of the fund is sound and that their focus is early-stage software companies. And we try to assemble a jigsaw puzzle, if you will, of funds. Right about the time we met, We were about to start to raise our second fund and we managed to raise a fund three times the the size of the first one, and that opened up the opportunity for us to invest in more than 10 venture capital funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8731,
+      "timestamps": []
+    },
+    {
+      "end": 9678,
+      "excerpt": "And the jigsaw puzzle that we assembled was, for example, 1517 investing in people operating outside the college system. But we also added on 500 startups Latin America, which invests in the product of their own accelerator program, all from Mexico, or throughout the Americas. We ended up investing in another fund called Hustle Fund that invests in execution speed, where they write over 125 small tickets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9270,
+      "timestamps": []
+    },
+    {
+      "end": 10113,
+      "excerpt": "They measure the execution speed in variables such as revenue, client acquisition margin, and so on. And then they graduate positions to a hedge position and ultimately to a core position with follow on tickets. Um, we ended up having the good fortune of also meeting Salil Deshpande who runs Uncorrelated, which invests in infrastructure software, which is yet another type of vertical. We wrote a ticket to Blockchain Capital Fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9680,
+      "timestamps": []
+    },
+    {
+      "end": 10428,
+      "excerpt": "So you see it's funds that complement each other, that give us visibility to a particular sector with a particular investment narrative or a different geography that complement each other, where there won't be one underlying company. That could mean that there's a lot of risk on that 50% that we invest in funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10115,
+      "timestamps": []
+    },
+    {
+      "end": 10662,
+      "excerpt": "And ultimately it's people that we like, that we know we can collaborate with. Cause it's gonna be a long-term relationship. And we invest in multiple vintages. And like Naval Rav says, we play long-term games with long-term people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10430,
+      "timestamps": []
+    },
+    {
+      "end": 11258,
+      "excerpt": "Gopi Rangan: You prefer to invest in emerging managers, typically in fund 1, 2, 3, when they're beginning their journey of establishing a long-term vision for a firm. You want to invest in a firm with the objective of building a relationship with the VCs, not just as a silent LP passive investor, writing them a check and waiting for returns. You actually want to help shape the firm and how they think about it, and you want to learn about the kind of investments they focus on. And you invest in the US but actively look for opportunities elsewhere in Latin America and other places as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10664,
+      "timestamps": []
+    },
+    {
+      "end": 11430,
+      "excerpt": "It's a very broad mandate. Can we pick an example of one investment? How did the conversation start? How did you meet the VC? What did you ask them in the first meeting? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11260,
+      "timestamps": []
+    },
+    {
+      "end": 11987,
+      "excerpt": "Fernando Pontaza: From that event where we met, which was when Angel is was launching their private capital network, from that event was where I got the opportunity to invest in Salil's fund, which was, it even preceded his official fund. It was a small, very small fund that he launched on Angel List. And you know, I got to learn about his track record and a little bit about how he operated. And I decided to pull the trigger on an investment in his fund as an individual, not even through our fund, but I say, wow, this is, this guy is really special.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 11432,
+      "timestamps": []
+    },
+    {
+      "end": 12844,
+      "excerpt": "Let's see where he's going with this. After writing that initial ticket myself, we went on a trip to San Francisco and he was really kind and open and received us in his office. He was still working in Bain's office cause he used to run the venture capital arm for Bain Capital and he was just going out on his own start dunk and he told us about the idea of the larger now official fund that he was building and we got hooked on the way he analyzed his deal memos, the particular niche that he was investing, which was a great compliment to the other funds that we already had in our rosters by that time. And he was also very flexible with that commitment ticket because in a sense he, he saw that we were bringing value at to the table. Eh, we even had a couple of investments in common with bank capital ventures that we were early stage investors in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11989,
+      "timestamps": []
+    },
+    {
+      "end": 12932,
+      "excerpt": "And that kind of facilitates the conversation cuz you're not just another passive LP. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12846,
+      "timestamps": []
+    },
+    {
+      "end": 13152,
+      "excerpt": "Gopi Rangan: What got you excited? You mentioned that how he analyzes the areas that he looks for infrastructure as a focus. All of those things were important, but what got you excited about the way he told the story?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12934,
+      "timestamps": []
+    },
+    {
+      "end": 13469,
+      "excerpt": "Fernando Pontaza: If you read his monthly newsletters, they have a way of making it approachable to read complex teams that are involved in infrastructure software and he has the technological know how to analyze these deals, the sectors, and even go within the structure of how these founders are writing the code.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 13154,
+      "timestamps": []
+    },
+    {
+      "end": 13912,
+      "excerpt": "And he has also a strong discipline about valuation and when he goes in and when he doesn't, and when he does a follow on and when he doesn't. And he has the capacity to distill that, not only in the meeting. Person that, that we had but as our relationship blossomed, and it comes through in every one of his quarterly reports and in every conversation we have, and he was also, you know, willing to collaborate in individual deals as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13471,
+      "timestamps": []
+    },
+    {
+      "end": 14356,
+      "excerpt": "And, uh, always open to a conversation, for a call, for a meeting, but his thought process and the very sound structure he had on the sector where, And work very much high up there. And, and you know, I guess that part of the, my trajectory through the family office, that we got to see hundreds of fun pitches a year, which kind of let you develop some pattern recognitions as to which managers are giving you a good pitch and which are not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13914,
+      "timestamps": []
+    },
+    {
+      "end": 14509,
+      "excerpt": "And you can kind of contrast that. And, you know, when we, when we met Salil, it was almost on the spot that we said, ah, we gotta commit to his fund. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14358,
+      "timestamps": []
+    },
+    {
+      "end": 14681,
+      "excerpt": "Gopi Rangan: So uncorrelated was truly uncorrelated to all the trends that you have seen that got you excited about the investment, and you decided to invest on the spot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14511,
+      "timestamps": []
+    },
+    {
+      "end": 14953,
+      "excerpt": "Many funds pitch to you, but you don't invest in all of them, and you're very selective about how you choose. What happens when you say no? Is it a no forever or no and come back later with the next fund or I wanna see a few things change? Does that happen quite often? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14683,
+      "timestamps": []
+    },
+    {
+      "end": 15210,
+      "excerpt": "Fernando Pontaza: It's a mix of things. I mean, in some cases it's a no straight up because maybe we already work with some other manager that has a similar thesis or the it's too sector specific, or maybe we just see something we don't like on the pitch.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 14955,
+      "timestamps": []
+    },
+    {
+      "end": 15527,
+      "excerpt": "But in other instances it's a no. For example, it's starting to happen to us now where we have just about already assembled the portfolio of what will be the fund side of things within our third vintage. You know, we already warehouse commitments about, uh, 15 venture capital funds and you start to recurrent that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15212,
+      "timestamps": []
+    },
+    {
+      "end": 15936,
+      "excerpt": "We say, oh, we really wanna work with. Fund manager, but we ran out of powder for this vintage, so it's a Please keep us posted. Eh, maybe. I mean, we're still open if we manage to raise a little bit more capital and exceed our target. Cause we already oversubscribed it. If we manage to exceed it a bit more, that unlocks a little bit more fresh powder and we can commit to those funds that we really like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15529,
+      "timestamps": []
+    },
+    {
+      "end": 16415,
+      "excerpt": "And in some cases it's also perhaps a fund called Empath Ventures that was investing in psychedelic industry, maybe his first vintage on that frontier specific. Them. We would like to see a second vintage and see how he manages his first vintage. So we keep the doors open and even if we don't commit, if it's a fund manager that we really like, we always keep that line of communication open to share deal flow, or we currently also maybe introduce him to other potential LPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15938,
+      "timestamps": []
+    },
+    {
+      "end": 16766,
+      "excerpt": "So if it's a relationship that we see that we can carry out, even if we're not lp, we make an effort to keep it open and to try to do something of value for that fund manager. I always joke that if I had a hundred million dollars in my bank account, I go crazy writing commitments to fund managers. Cause you meet a lot of them that you really like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16417,
+      "timestamps": []
+    },
+    {
+      "end": 16820,
+      "excerpt": "But regretfully, we have to be extremely selective. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16768,
+      "timestamps": []
+    },
+    {
+      "end": 17260,
+      "excerpt": "Gopi Rangan: There are so many good opportunities, but you cannot invest in all of them. You have to be very selective about choosing a few that you really care about. Similar to entrepreneurs, venture capital investors also, when they raise money, in the beginning it is a struggle, but at some point there is more capital available to VCs and they can only select and pick a few from all the available limited partners out in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16822,
+      "timestamps": []
+    },
+    {
+      "end": 17429,
+      "excerpt": "Do you regret not investing in certain funds where you took a little more time or paused for some time to evaluate a little longer, and then you miss the opportunity? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17262,
+      "timestamps": []
+    },
+    {
+      "end": 17719,
+      "excerpt": "Fernando Pontaza: Yeah, I regret not investing in some funds or maybe even not investing more in the funds that we did invest in, in some cases. But of course that is with the full benefit of hindsight. So you can't be too hard on yourself there. But, but yeah, that happens recurrently. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 17431,
+      "timestamps": []
+    },
+    {
+      "end": 18178,
+      "excerpt": "Gopi Rangan: In hindsight, as investors, we all feel that. Once we know which ones are successful, we have this feeling that, oh, I wish I had invested more when I had the opportunity and I would've fought to get more allocation. And that's a very normal feeling. I'm curious to understand what portfolio construction do you prefer or is that something that you let the VCs handle? Is there a preferred portfolio construction strategy that you like to see? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17721,
+      "timestamps": []
+    },
+    {
+      "end": 18521,
+      "excerpt": "Fernando Pontaza: We do leave that to each particular fund manager, but we prefer a larger number of tickets just because the, the nature of venture capital that power law distribution manifests itself and the more shots on goal that you have to get that outlier, the more likely it is that you indeed get a chance to invest in that outlier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 18180,
+      "timestamps": []
+    },
+    {
+      "end": 18844,
+      "excerpt": "So we don't like concentrated portfolios. We tend to shy away a little bit from e-commerce because we've been terrible pickers in that sense. So we kind of look for the fund managers that we invest in to also try to shy away from that sector. And you know, we like the fund to reserve some capital for follow-ons as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18523,
+      "timestamps": []
+    },
+    {
+      "end": 19182,
+      "excerpt": "Gopi Rangan: Let me challenge that a little bit. On one side, in hindsight we have this regret not investing more when we have the opportunity, but when a fund invests in more diversified portfolio of 35, 40, or 50 or 70 companies, the opportunity when we could invest more, we miss those opportunities and we take a smaller allocation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18846,
+      "timestamps": []
+    },
+    {
+      "end": 19366,
+      "excerpt": "That's how the diversified portfolio comes together. Wouldn't you want the VC to take more ownership so you don't have that regret, or at least reduce the amount of regret you have? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19184,
+      "timestamps": []
+    },
+    {
+      "end": 19738,
+      "excerpt": "Fernando Pontaza: Yeah, I guess the more shots on gold comes with a caveat that's also don't go crazy. Uh, you mentioned 50, 60, 70 tickets, and then that sense, each ticket doesn't really move the needle, but I guess a fund structure where one investment could be a fund returner and that ticket size would allow for that investment to be a fund returner, I don't know.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 19368,
+      "timestamps": []
+    },
+    {
+      "end": 20542,
+      "excerpt": "Let's using a math, and this is of course ticket with a grain of salt. Let's say it's a $30 million fund and you write $300,000. And you invest an initial valuation of $4 million. And so for each ticket to potentially return the fund, you need it to go a 100X. Well, if a company ends up achieving a 100X valuation from its $4 million starting point without taking an account dilution for the sake of simplicity, well that's the kind of mindframe that we like to see for each ticket that the fund manager writes and the ticket size. so you want as much tickets as possible, but within the realm of possibility that each ticket has the capacity to return the fund. And also like the capital reserve for follow-ons we've seen that play out very favorably in our experience with funds that we invested in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19740,
+      "timestamps": []
+    },
+    {
+      "end": 20946,
+      "excerpt": "To give you one particular example, in the case of Luminar, which was a 1517 Fund One's big success case, and where we were fortunate enough to co-invest with them as well, they made a number of investments across the year from the initial ticket to three follow ones, if I'm not mistaken, and even one more investment in the pipe before it went public through a SPAC back before everybody hated SPACS.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20544,
+      "timestamps": []
+    },
+    {
+      "end": 21411,
+      "excerpt": "And so you see how the dynamics play out that in follow ones, once you've had years to know how the founder operates, looking at all the mechanics internally, you can write a higher conviction and a higher dollar size ticket that maybe has a lower multiple potential, but it's very de-risked. So that's around where our mindset is when it comes to what we like to see in portfolio construction and what we employ in our own direct ticket side deployment strategy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20948,
+      "timestamps": []
+    },
+    {
+      "end": 21817,
+      "excerpt": "Gopi Rangan: Reserving for follow on. There are two schools of thought, especially for pre-seed and seed-stage funds. Some LPs have the philosophy that do not reserve anything for follow on, and some LPs are more traditional and they say, reserve for follow on because you have access to the winners. Why wouldn't you take the opportunity? I see that you favor the latter. You favor reserving follow on. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21413,
+      "timestamps": []
+    },
+    {
+      "end": 22120,
+      "excerpt": "You have seen hundreds of venture capital firms and you have invested in quite a few, and you have been a pioneer in Guatemala establishing a new venture capital firm. From your point of view, if there was one thing that you could change to make the venture capital industry better, what would you do?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21819,
+      "timestamps": []
+    },
+    {
+      "end": 22455,
+      "excerpt": "Fernando Pontaza: I would like to see the asset class itself being demystified and being more understandable by family offices and investors in general. Let's say take Latin America for example, the mindset that I see on a day-to-day basis, most people think: work hard, achieve some wealth or inherit it, and they want to deploy it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 22122,
+      "timestamps": []
+    },
+    {
+      "end": 22675,
+      "excerpt": "And venture capital is the last thing on their mind, if at all. And people absolutely love real estate and fixed income. You ask any of my friends or my parents friends or people around you, and that's what they want. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22457,
+      "timestamps": []
+    },
+    {
+      "end": 23543,
+      "excerpt": "Even if you are eroding the value of your money because inflation is high and the coupon isn't as high as inflation. Doesn't matter. And when I make the case for venture capital, you get a ton of pushback and part of it is because you know, some investors pull the trigger on one particular project and they don't know how to resize it, and it's too big, and they maybe they lose some money and then venture capital is tarnished forever in their mind. So I would like to see more education, more podcasts like yours and more people willing to understand that venture capital is not only a great compliment for people's portfolio, it's also one of the noblest purposes of finance. It's a positive sum game. It's not buying a stock and somebody wins and somebody loses. You're actually allocating resources to someone or something that's creating value out of nothing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22677,
+      "timestamps": []
+    },
+    {
+      "end": 23893,
+      "excerpt": "It can even propel progress of a country forward, you know, depending on who you ask. But in this. I think it's about 1% that of the GDP that gets invested into venture capital in general and venture backed companies that have matured produce about a quarter of the GDP in Latin America. That's not even 0.2% of the GDP invested in venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23545,
+      "timestamps": []
+    },
+    {
+      "end": 24181,
+      "excerpt": "And imagine the impact it would have in a region as Latin America that's hungry for progress if more capital was deployed there. So that's what I think I would want to change. I would like to see family offices and investors alike taking a chance, understanding the asset class better. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23895,
+      "timestamps": []
+    },
+    {
+      "end": 24402,
+      "excerpt": "I tell my dad what I do for a living, and he says, \"is my grandson gonna have money to go to college. I mean, what are you doing?\" Maybe he won't go to college. That's my answer. But maybe he'll become an entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24183,
+      "timestamps": []
+    },
+    {
+      "end": 24936,
+      "excerpt": "Gopi Rangan: This is very refreshing to see. It is very rare to find limited partners who are willing to share their journey. So thanks to you for sharing experiences and stories specifically from your journey over the years and being a pioneer in setting up a venture capital firm in Guatemala. This will demystify the asset class and invite more people to invest and take a look at this more seriously, encourage more young people to consider entrepreneurship as a career choice instead of taking up a job the traditional old way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24404,
+      "timestamps": []
+    },
+    {
+      "end": 25077,
+      "excerpt": "Those economies have changed and evolved, and we're going into a new world where technology's going to be a dominant portion of our lives. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24938,
+      "timestamps": []
+    },
+    {
+      "end": 25218,
+      "excerpt": "I wanna ask you one last question about your community involvement. Is there a nonprofit organization you are passionate about, which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25079,
+      "timestamps": []
+    },
+    {
+      "end": 25321,
+      "excerpt": "Fernando Pontaza: The organization that I most like and, and work closely with is the Volcano Summit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 25220,
+      "timestamps": []
+    },
+    {
+      "end": 25695,
+      "excerpt": "It's a summit that takes place every September here in Guatemala, mainly in Antigua, Guatemala, which is the old colonial capital of all Central America - a city that remains pretty much intact, like how it was in the 17th century surrounded by volcanoes. So the setting is spectacular. And every year they run a summit that brings managers, founders, and investors alike.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25323,
+      "timestamps": []
+    },
+    {
+      "end": 25982,
+      "excerpt": "It has evolved. It has become into a better and better version of itself. We had speakers from Singularity University, fund managers from New York, like Ryan Bloomer from K50, or the CEO of Hyperloop. There's also a pitching competition, then that takes place over the three day event.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25697,
+      "timestamps": []
+    },
+    {
+      "end": 26326,
+      "excerpt": "If anything, just getting people together, experiencing Guatemala, getting founders in front of potential fund managers or just founders looking at other founders that have achieved success makes it visible and tangible that it is possible. And I think that event alone does more for the Guatemala ecosystem than anything else I can think of.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25984,
+      "timestamps": []
+    },
+    {
+      "end": 26737,
+      "excerpt": "So we're proud sponsors of that event last year and we're gonna do repeat this year, and we bring a lot of our friends here as well, fund managers, and founders alike to. Become speakers, participate or to come over. So I'm extending that invitation to you as well. If you need an excuse to come to Guatemala and also anyone that's listening to the podcast, reach out to me and I'll gladly facilitate tickets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26328,
+      "timestamps": []
+    },
+    {
+      "end": 26924,
+      "excerpt": "Gopi Rangan: I look forward to attending a Volcano summit in the future. This sounds very exciting. I look forward to collaborating with you as well in more opportunities in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26739,
+      "timestamps": []
+    },
+    {
+      "end": 26957,
+      "excerpt": "Thank you very much, Fernando. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26926,
+      "timestamps": []
+    },
+    {
+      "end": 26995,
+      "excerpt": "Fernando Pontaza: Sure, sure. Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Fernando Pontaza",
+      "start": 26959,
+      "timestamps": []
+    },
+    {
+      "end": 27210,
+      "excerpt": "Thank you for listening to the Sure Shot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26997,
+      "timestamps": []
+    },
+    {
+      "end": 27326,
+      "excerpt": "Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27212,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "1d6be93e68a60f02b27f6eebdfd55aaee0e081efa1ad8ab61602559801241ce9",
+  "text_sha256": "cf2ac894e3a3fe83cf37d608bcb101e64403ed8ec17bc10e180cb4eb02e658a9"
+}

@@ -1,0 +1,883 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 716,
+      "excerpt": "Within the first meeting, I remember very clearly they laid out very clearly sort of, \"Hey, here are the things that we think are missing in the market today. Here is why they are missing and here's how we plan to in execute step by step to start to build a massive company.\" That sort of clarity of vision was there, even in these sort of, they are repeat entrepreneurs, but the previous companies were professional services companies and not product companies, but just seeing the crispness and clarity of what they want to build and how they want to reach this audience, it was stunning and you know, we kind of made the decision that we would want to work with them about 15 minutes after that meeting concluded.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 790,
+      "excerpt": "[00:00:41] Gopi Rangan: You are listening to The Sure Shot Entrepreneur,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 718,
+      "timestamps": [
+        {
+          "offset": 718,
+          "raw": "[00:00:41]",
+          "seconds": 41
+        }
+      ]
+    },
+    {
+      "end": 1139,
+      "excerpt": "a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. Today's guest is Sandeep Bhadra. He's a good friend of mine and a partner at Vertex Ventures, a Silicon Valley based VC firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 792,
+      "timestamps": []
+    },
+    {
+      "end": 1189,
+      "excerpt": "Sandeep, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1141,
+      "timestamps": []
+    },
+    {
+      "end": 1239,
+      "excerpt": "Sandeep Bhadra: Hi, Gopi. Thanks for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 1191,
+      "timestamps": []
+    },
+    {
+      "end": 1534,
+      "excerpt": "Gopi Rangan: You're welcome. I'm really excited to have this conversation with you. In this episode, Sandeep and I talk about his journey in venture capital. He gives specific examples of startups he's invested in. Sandeep has a unique way of looking at startups and forming investment thesis.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1241,
+      "timestamps": []
+    },
+    {
+      "end": 1866,
+      "excerpt": "He starts with a topic and goes deeper and deeper and he describes how he does that. He talks about trends in the venture capital sector and how things have changed since the time he joined and what are some positive things and what are some things that he doesn't like. Sandeep, tell us about yourself, starting with your career.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1536,
+      "timestamps": []
+    },
+    {
+      "end": 1904,
+      "excerpt": "How did you come to Silicon Valley? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1868,
+      "timestamps": []
+    },
+    {
+      "end": 2503,
+      "excerpt": "[00:01:59] Sandeep Bhadra: I am a partner, like you mentioned, at Vertex Ventures. We've been around about four and a half, five years now, investing in seed and Series A, primarily in B2B software and services companies. We're investing out of our second fund now. I grew up in India, trained as an engineer, moved to the States for graduate school, pursued a PhD and ended up working at Texas Instruments. where I helped spin a company out of Texas Instruments. That's kind of what led me to the exciting world of startups and to be able to make an impact into people's lives through technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 1906,
+      "timestamps": [
+        {
+          "offset": 1906,
+          "raw": "[00:01:59]",
+          "seconds": 119
+        }
+      ]
+    },
+    {
+      "end": 3324,
+      "excerpt": "I did not expect to be a venture capitalist, but it transpired that my second job after helping start this company was at Cisco's Corp dev team there. I kind of learned the ropes of what it means to be involved with software and enterprise infrastructure software and the exciting move to the cloud. I thought that I would perhaps start another company at that point, but ended up getting recruited by a couple of the partners at Menlo Ventures, which is truly where I learned the ropes of what it is to be a venture investor. A few years later, I joined up with my current partners In Sik and Jonathan, who were in the middle of fund one at Vertex. We raised fund two, and it's become a career to be a venture investor and a certain kind of venture investor in early stage ventures right for B2B software and services.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2505,
+      "timestamps": []
+    },
+    {
+      "end": 3642,
+      "excerpt": "[00:03:24] Gopi Rangan: Yeah, this is a very interesting. Entry into venture capital is usually unexpected or unplanned and for most people, and then it leads into a beautiful career for many years and looks like that's exactly what happened with you. Is there an event or someone that had an impact on your career? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3326,
+      "timestamps": [
+        {
+          "offset": 3326,
+          "raw": "[00:03:24]",
+          "seconds": 204
+        }
+      ]
+    },
+    {
+      "end": 3773,
+      "excerpt": "[00:03:43] Sandeep Bhadra: Yeah, I never thought of myself as somebody that would start a company or found a company necessarily.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 3644,
+      "timestamps": [
+        {
+          "offset": 3644,
+          "raw": "[00:03:43]",
+          "seconds": 223
+        }
+      ]
+    },
+    {
+      "end": 4547,
+      "excerpt": "It was actually around my third year at Texas Instruments that we had started working on this project for designing a chip for networking, effectively for data center networking, tied to all the exciting things that were happening in software defined networks and an open flow, et cetera. Despite the obvious commercial need for this product, which we assessed by speaking to customers and the cloud providers, et cetera, et ceter -- this is even back in 2010, 2011 timeframe -- Texas Instruments (TI) did not want to pursue and fund this project because of good reasons on their behalf, which is that TI had decided that they did not want to increase investments in digital semiconductors, but instead go into analog. Gopi, I know that you have a semi background as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3775,
+      "timestamps": []
+    },
+    {
+      "end": 4923,
+      "excerpt": "You'll just understand that like the digital semi business and the analog semi business are run very differently in terms of product cadence, investment, go to market, et cetera. And TI was deliberately taking a very, you know, for their strategy and their stock price, a very good move towards focusing only on analog, which means that my project was going to be abandoned.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4549,
+      "timestamps": []
+    },
+    {
+      "end": 5346,
+      "excerpt": "Seeing that a viable product cannot be built within a large company, despite there being demand for it, made me aware of why people start up. This was a small team based in Dallas, Texas, very far away from Silicon Valley. Even though we were on a plane pretty frequently between Dallas and San Jose, it just makes you aware of how interesting ideas and interesting products and interesting businesses can start anywhere.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4925,
+      "timestamps": []
+    },
+    {
+      "end": 5884,
+      "excerpt": "Oftentimes it just starts with this sense of frustration that if we don't make this happen, we'll have lost the opportunity of actually making an impact. And we'd have lost the opportunity of actually pushing the industry forward in this important manner. I carry that within me. Like, you know, when I meet founders who have almost a sense of desperation or frustration that if we don't build X product or Y service, somebody else is going to do it, or they might not do it in the right way, and we certainly have a point of view here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5348,
+      "timestamps": []
+    },
+    {
+      "end": 6179,
+      "excerpt": "We want to start a company that comes deeply within that need to fix something. And two, you know, my experience having to start doing this very out of the network sitting in Dallas, Texas also informs my view that I think this entrepreneurial origin, entrepreneurial talent exists everywhere.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5886,
+      "timestamps": []
+    },
+    {
+      "end": 6842,
+      "excerpt": "Even if the teams don't have the experience and don't have the expertise and don't necessarily have all of the tools in a great entrepreneur's toolbox to actually build an amazing company. I think this park and the desire exists everywhere. That's kind of the best part of being an early stage investor is that you identify that in people, and then you become sounding boards and resources to help them grow and build these businesses, so long as they demonstrate desire and the urge for growing into more than just being an engineer or growing into more than just being a salesperson or growing into more than just being a marketing person and actually become ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6181,
+      "timestamps": []
+    },
+    {
+      "end": 6883,
+      "excerpt": "[00:06:46] Gopi Rangan: entrepreneurs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6844,
+      "timestamps": [
+        {
+          "offset": 6844,
+          "raw": "[00:06:46]",
+          "seconds": 406
+        }
+      ]
+    },
+    {
+      "end": 6986,
+      "excerpt": "How many years of experience did you have when you went through that experience at Texas Instruments?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6885,
+      "timestamps": []
+    },
+    {
+      "end": 7648,
+      "excerpt": "[00:06:54] Sandeep Bhadra: TI was literally my first real full time job after grad school. I had interned at a few places, but I would say it was in my fourth year at Texas Instruments. And I was a pretty communicative engineer and I worked in cross functional teams with sales and with product marketing and with product management at the company, but by no means was I seasoned in any sense. I had the good fortune of working with people who were... like the other people involved in this project was the CTO of the organization who also had general management experience, but none of the people in that founding kernel had actually a ton of entrepreneurial ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 6988,
+      "timestamps": [
+        {
+          "offset": 6988,
+          "raw": "[00:06:54]",
+          "seconds": 414
+        }
+      ]
+    },
+    {
+      "end": 7692,
+      "excerpt": "[00:07:32] Gopi Rangan: experience, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7650,
+      "timestamps": [
+        {
+          "offset": 7650,
+          "raw": "[00:07:32]",
+          "seconds": 452
+        }
+      ]
+    },
+    {
+      "end": 7979,
+      "excerpt": "Engineers love to build things. So it must have been quite frustrating for you if you worked on a project, built the solution, and then the management team decided not to fund it any further, and they were going in a different strategy. That must have been really frustrating for you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7694,
+      "timestamps": []
+    },
+    {
+      "end": 8271,
+      "excerpt": "[00:07:49] Sandeep Bhadra: Yes, I took a very conscious choice after grad school to not be in academia, but be in industry so that I could build things and to build things, not just because things are fun to build, but build things that are relevant that other people would use effectively.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 7981,
+      "timestamps": [
+        {
+          "offset": 7981,
+          "raw": "[00:07:49]",
+          "seconds": 469
+        }
+      ]
+    },
+    {
+      "end": 8371,
+      "excerpt": "So it was frustrating to not be able to build something for which we had assessed demand already. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8273,
+      "timestamps": []
+    },
+    {
+      "end": 8561,
+      "excerpt": "[00:08:11] Gopi Rangan: In the early part of your career, you were in Dallas and then you move to Silicon Valley, right? Do entrepreneurs need to be in the Silicon Valley to be successful?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8373,
+      "timestamps": [
+        {
+          "offset": 8373,
+          "raw": "[00:08:11]",
+          "seconds": 491
+        }
+      ]
+    },
+    {
+      "end": 8592,
+      "excerpt": "It's a really good question. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8563,
+      "timestamps": []
+    },
+    {
+      "end": 8665,
+      "excerpt": "[00:08:22] Sandeep Bhadra: And we think about this along very actively.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 8594,
+      "timestamps": [
+        {
+          "offset": 8594,
+          "raw": "[00:08:22]",
+          "seconds": 502
+        }
+      ]
+    },
+    {
+      "end": 9003,
+      "excerpt": "I think that for the semiconductor business that we were in, a lot of the tools and processes are not fully cloud-based. And I think that the initial engineering and product team needs to work pretty closely. And for that purpose, I don't think it would be feasible to have a fully distributed company or a company with lots of centers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8667,
+      "timestamps": []
+    },
+    {
+      "end": 9404,
+      "excerpt": "I think that the cloud has completely changed that dynamic and that equation today, right? I think that like 10 years ago, I would have probably said, \"yes, it's a good idea to move to the Bay Area and actually start meeting customers here and start finding people with different job functions who are experts at sales or marketing or product management or scaling companies out here in the Valley.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9005,
+      "timestamps": []
+    },
+    {
+      "end": 9974,
+      "excerpt": "I think that is no longer true. Obviously, like the data bears it out given the number of interesting companies that are that are growing very rapidly and that are filling out all of these roles across the world. I would say that the expertise perhaps in the valley that is still very uniquely Silicon Valley's is knowing how processes and organization is created out of chaos in fast growing companies, I think that is almost a muscle that is orthogonal to the functional muscle of sales or the functional muscle of marketing or the functional muscle of engineering. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9406,
+      "timestamps": []
+    },
+    {
+      "end": 10022,
+      "excerpt": "[00:09:43] Gopi Rangan: Does that make sense? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9976,
+      "timestamps": [
+        {
+          "offset": 9976,
+          "raw": "[00:09:43]",
+          "seconds": 583
+        }
+      ]
+    },
+    {
+      "end": 10287,
+      "excerpt": "Yeah, I can see that like a lot of things have changed over the past 10 years. I remember a time when I looked at the CEO's employment contract and the VC had mentioned that you cannot move your home address or your headquarters beyond 25 miles from the zip code.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10024,
+      "timestamps": []
+    },
+    {
+      "end": 10490,
+      "excerpt": "And that zip code was somewhere in Palo Alto. But these days, companies are located everywhere. Entrepreneurs are everywhere. And it's a lot more democratized. They don't need to be in Silicon Valley. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10289,
+      "timestamps": []
+    },
+    {
+      "end": 10652,
+      "excerpt": "[00:10:09] Sandeep Bhadra: Absolutely. I do think though that Silicon Valley has a lot, a concentration of people who are very skilled at this breakneck growth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 10492,
+      "timestamps": [
+        {
+          "offset": 10492,
+          "raw": "[00:10:09]",
+          "seconds": 609
+        }
+      ]
+    },
+    {
+      "end": 10780,
+      "excerpt": "Once you hit breakneck growth, there's perhaps a wider array of talent here that is available to help you manage that growth. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10654,
+      "timestamps": []
+    },
+    {
+      "end": 10808,
+      "excerpt": "What kind of companies do ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10782,
+      "timestamps": []
+    },
+    {
+      "end": 10849,
+      "excerpt": "[00:10:28] Gopi Rangan: you invest in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10810,
+      "timestamps": [
+        {
+          "offset": 10810,
+          "raw": "[00:10:28]",
+          "seconds": 628
+        }
+      ]
+    },
+    {
+      "end": 11044,
+      "excerpt": "[00:10:29] Sandeep Bhadra: You know, as a firm, we invest in anything that is B2B software and services. I, in particular, tend to focus on two big themes which have emerged in the recent past.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 10851,
+      "timestamps": [
+        {
+          "offset": 10851,
+          "raw": "[00:10:29]",
+          "seconds": 629
+        }
+      ]
+    },
+    {
+      "end": 11499,
+      "excerpt": "One is, I spend a lot of my time looking at tools and software middleware for developers that takes the form of either open source software or it takes the form of tooling that makes software developers who are increasingly most valued and the fastest growing teams within any business today more productive, able to do their jobs in a much more secure fashion, able to do keep complex pieces of software up and running, scale those systems very easily.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11046,
+      "timestamps": []
+    },
+    {
+      "end": 11857,
+      "excerpt": "So I would say that's one bucket. And the other bucket is almost completely diverse from it, which is, I'm deeply interested in what is happening here with the unbundling of financial services and risk services like insurance when it comes to B2B FinTech as well as B2B InsurTech. So I would say those are the two buckets where I spend the bulk of my time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11501,
+      "timestamps": []
+    },
+    {
+      "end": 12212,
+      "excerpt": "[00:11:33] Gopi Rangan: You have a very different way of preparing every year, and I see that you pick a topic and then you go deep, you research, you meet a lot of people, and then you become an expert in that topic, then you make an investment in that area, maybe a few. Can you walk us through the approach? Like, how do you think about these topics?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11859,
+      "timestamps": [
+        {
+          "offset": 11859,
+          "raw": "[00:11:33]",
+          "seconds": 693
+        }
+      ]
+    },
+    {
+      "end": 12286,
+      "excerpt": "Maybe give examples of the kind of topics you've looked at in the past. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12214,
+      "timestamps": []
+    },
+    {
+      "end": 12565,
+      "excerpt": "[00:11:55] Sandeep Bhadra: Yeah, absolutely. So I wouldn't say that I become an expert. I think it's much better to actually get to know the experts in a topic. The process of researching a market or process of researching topic is, I guess, pretty, it's pretty organic for me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 12288,
+      "timestamps": [
+        {
+          "offset": 12288,
+          "raw": "[00:11:55]",
+          "seconds": 715
+        }
+      ]
+    },
+    {
+      "end": 12868,
+      "excerpt": "I think I'm naturally a curious person and I like thinking about emerging trends and emerging markets. Within those you almost always find, especially in B2B, you almost always find incumbents, so companies and firms that have been doing something in a particular way for the past 5, 10, 20, 30 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12567,
+      "timestamps": []
+    },
+    {
+      "end": 13501,
+      "excerpt": "You'll also find within these markets, people who have a ton of experience, but who are malcontent in the sense that they feel like things should be done differently because they are tired of the organizational inertia within these large incumbents. The fun part of this exercise is actually burrowing deep and trying to find these people within these communities and learning from them what has worked, why it has not worked, and trying to figure out people who they get excited about, who are kind of trying to solve the problems that the incumbents are not or cannot solve because they are constrained by the innovators dilemma.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12870,
+      "timestamps": []
+    },
+    {
+      "end": 13943,
+      "excerpt": "That's kind of the process. I wouldn't say it's a topic a year. It's probably more like, you know, a topic every 15 or 18 months. But yeah, we've definitely done deep dives into data security and governance. This was in 2014, 2015, just as the data lake business was getting started and we started hearing from financial services and healthcare organizations that this is pre GDPR, that governance and access control is going to become big.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13503,
+      "timestamps": []
+    },
+    {
+      "end": 14583,
+      "excerpt": "You start meeting the people who gripe about it. Also, sometimes those people talk about interesting people who are trying to solve the problem in interesting ways. We did the same thing for coordination of software and manufacturing. More recently, that led to our investments in Tulip. As a firm, we have done deep dives into construction, you know, which was led by my partner, Jonathan Heiliger. We've done deep dives into tooling for the emerging class of citizen data scientists who are proficient with tools like SQL, but won't probably write Python scripts themselves. How do you build a whole bunch of tools for people like that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13945,
+      "timestamps": []
+    },
+    {
+      "end": 15214,
+      "excerpt": "And we invested in this company called AppSolver. We've looked at SREs. We started seeing as more and more companies moving to the cloud where we kind of saw that many of them have this new IT ops team that is focused not on racking and stacking servers are getting VMs up and running, but really focused on things like observability and monitoring and incidents response. We made an investment in a company called OPS level against it. We More recently, you know, the reason why you and I have started talking about business over the course of the past year and a half, two years has been my interest in insurance and insurtech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14585,
+      "timestamps": []
+    },
+    {
+      "end": 15622,
+      "excerpt": "My general curiosity that it just feels like there is so many different ways in which data is available and can be instrumented and can perhaps be used to assess risk, but we are not seeing enough of the risk assessed data data products come out of the existing insurance industry. When you peel the layer back, you understand why because so much of their business relies on pretty outdated infrastructure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15216,
+      "timestamps": []
+    },
+    {
+      "end": 15968,
+      "excerpt": "And even as they think about modernizing it, that's a pretty long journey. There's obviously a lot of organizational inertia. And we started seeing these insurtechs who started building, you know, full products and an interesting ways of distributing these products to a new generation of customers that didn't want to be served in the old way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15624,
+      "timestamps": []
+    },
+    {
+      "end": 16307,
+      "excerpt": "[00:15:26] Gopi Rangan: I really like your methodical way of picking a topic, uncovering the high level details, building a network, a community around that topic, getting to know the nuances of the industry. And then finding the right kind of entrepreneurs to support. It's a very PhD style research type of approach to venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15970,
+      "timestamps": [
+        {
+          "offset": 15970,
+          "raw": "[00:15:26]",
+          "seconds": 926
+        }
+      ]
+    },
+    {
+      "end": 16463,
+      "excerpt": "Can you pick an example of a startup that you invested in? How did you meet the entrepreneur? How was the initial engagement? What questions did you ask? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16309,
+      "timestamps": []
+    },
+    {
+      "end": 16714,
+      "excerpt": "[00:15:56] Sandeep Bhadra: We can talk about Lease Lock, for instance, you know, where, where we invested between the Series A and the B. I had been digging into InsurTech and chatting with you almost for about a year before we made that investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 16465,
+      "timestamps": [
+        {
+          "offset": 16465,
+          "raw": "[00:15:56]",
+          "seconds": 956
+        }
+      ]
+    },
+    {
+      "end": 17067,
+      "excerpt": "And at the time, you know, I was still getting to learn about the insurance industry, but I did understand that there were wide pockets of risk and wide pockets of places where businesses don't productize that risk. There is nobody to do it. I felt that the lease insurance world was one particular market that was probably interesting in that regard.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16716,
+      "timestamps": []
+    },
+    {
+      "end": 17408,
+      "excerpt": "I heard about the company through a friend named Nathaniel Krasnoff, who is the founder right now, but he was an associate at another firm. He talked about this recent investment that he had made and why he had gotten very excited about it at that time. I knew nothing about multifamily real estate but I knew a little bit about insurance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17069,
+      "timestamps": []
+    },
+    {
+      "end": 17910,
+      "excerpt": "And what attracted me to the idea of the business, which is why I asked for an intro in the first place, was the idea that (A) they were building a new product by considering data sets around tenant behavior rather than tenants credit scores. They were selling in a completely new distribution channel, which is that they were selling not through the brokers and they were not selling through the internet and through ads, but they were actually selling B2B directly to property management companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17410,
+      "timestamps": []
+    },
+    {
+      "end": 18515,
+      "excerpt": "I felt that that combination of, unique product and unique distribution was kind of interesting. And when I went and met the founders, it was a coffee in Santa Monica. I remember very clearly, I kind of made my mind that I want to work with these guys in one way or the other, precisely because of what I said before, which is that, Reichen and Derek ended up starting this company because they felt that this was an injustice in the world that so many people have to put all of this money, you know, for deposits before renting, then that money actually just sits in escrow and nothing is done with it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17912,
+      "timestamps": []
+    },
+    {
+      "end": 18945,
+      "excerpt": "I felt that that was just an inefficiency in the world that needs to be cured. And they worked for years before actually getting all the actual data and convincing reinsurers to take on that risk. And that deep desire to create something new led to this new product. They also figured out this interesting new go to market motion that had all the things that I like to see in a great company in a project that I want to take on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18517,
+      "timestamps": []
+    },
+    {
+      "end": 19103,
+      "excerpt": "[00:18:11] Gopi Rangan: I see that you like geeking out on topics and going deep. In this case, it's Lease Lock. You had another example also on your mind. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18947,
+      "timestamps": [
+        {
+          "offset": 18947,
+          "raw": "[00:18:11]",
+          "seconds": 1091
+        }
+      ]
+    },
+    {
+      "end": 19395,
+      "excerpt": "[00:18:19] Sandeep Bhadra: Yeah, the other one is a company called Hasura, which is completely different. So it turns out that GraphQL, it's basically a data rich format for API access between front end, which is websites and apps and the backend, which is data systems or third party APIs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 19105,
+      "timestamps": [
+        {
+          "offset": 19105,
+          "raw": "[00:18:19]",
+          "seconds": 1099
+        }
+      ]
+    },
+    {
+      "end": 19834,
+      "excerpt": "It turns out that GraphQL is a much, much more efficient, from an engineering standpoint and efficient from an organizational standpoint, way of organizing API access. GraphQL was started in Facebook in response to Facebook's organizational need of having to move fast and break things and effectively to let the front end teams start developing apps without necessarily worrying about how the APIs were configured by the back end teams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19397,
+      "timestamps": []
+    },
+    {
+      "end": 20196,
+      "excerpt": "It solves this interesting organizational bottleneck and a number of like companies like Yelp and GitHub and Intuit and others started adopting GraphQL but with it came own set of engineering problems and scaling problems. We started seeing an emerging set of startups go after this opportunity of bringing GraphQL to the rest of the world -- democratizing it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19836,
+      "timestamps": []
+    },
+    {
+      "end": 21560,
+      "excerpt": "And there were three or four like emergent companies in the GraphQL ecosystem. And we found one set of founders, Tanmai and Rajoshi, who started the company (Hasura) in Bangalore in India. And in response to user demand when they were running a professional services company, decided to shut that thriving professional services business down and focus, put all their arrows in the GraphQL quiver and then build this tremendous open source community of hundreds of thousands of developers that are using and adopting their open source, completely community Hasura product for GraphQL. These are not founders who have built enterprise infrastructure software before they came from Bangalore and yet within the first meeting, I remember very clearly they laid out very clearly, \"hey, here are the things that we think are missing in the market today. Here is why they are missing. Here's how we plan to execute step by step to build a massive company.\" That clarity of vision was there. They are repeat entrepreneurs, but the previous companies were professional services companies and not product companies, but just seeing the crispness and clarity of what did they want to build and how they want to reach this audience was stunning and we kind of made the decision that we would want to work with them. I would say about 15 minutes after that meeting concluded.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20198,
+      "timestamps": []
+    },
+    {
+      "end": 21778,
+      "excerpt": "[00:20:45] Gopi Rangan: It's great to see specific examples of how you interacted with these entrepreneurs like the coffee meeting in Santa Monica and how you met the founders of Hasura. They were based in Bangalore.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21562,
+      "timestamps": [
+        {
+          "offset": 21562,
+          "raw": "[00:20:45]",
+          "seconds": 1245
+        }
+      ]
+    },
+    {
+      "end": 22105,
+      "excerpt": "But over the years since the time you came to Silicon Valley, you were at Cisco and then at Menlo Ventures and now at Vertex. A lot has changed in the seed landscape, the seed startups and venture capital investors. Are there some things that you like and are there some things that you don't like in the trends that you see?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21780,
+      "timestamps": []
+    },
+    {
+      "end": 22454,
+      "excerpt": "[00:21:14] Sandeep Bhadra: The thing that I like the most right now, I would say is that I think that starting a company and raising a small amount of money so that you can get off the \"I need to have a salary/job treadmill and I can start devoting my energy and time towards a project\", these has never perhaps been a better time for that, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 22107,
+      "timestamps": [
+        {
+          "offset": 22107,
+          "raw": "[00:21:14]",
+          "seconds": 1274
+        }
+      ]
+    },
+    {
+      "end": 22794,
+      "excerpt": "Given the number of seed and pre-seed funds that are out there today, really, really focused and great seed investors, such as yourself or people who have been operators who are now seed investing. I call this the formalization of angel investing almost. I think that that is unprecedented, and I'm super happy about it, obviously, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22456,
+      "timestamps": []
+    },
+    {
+      "end": 22931,
+      "excerpt": "Because it now offers the opportunity for many more people to realize entrepreneurship as a dream. And I think that that is important. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22796,
+      "timestamps": []
+    },
+    {
+      "end": 23043,
+      "excerpt": "[00:22:04] Gopi Rangan: Is there something that you don't like because of all the changes that have happened? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22933,
+      "timestamps": [
+        {
+          "offset": 22933,
+          "raw": "[00:22:04]",
+          "seconds": 1324
+        }
+      ]
+    },
+    {
+      "end": 24088,
+      "excerpt": "[00:22:07] Sandeep Bhadra: Yes, of course. I think that on the flip side, I think you alluded to this, which is that there are lots of people who have tons and tons of access to capital and many people who think of entrepreneurship as the next logical move to take after having had a successful career being a head of engineering or head of product at [insert successful company here] and oftentimes the motivation to start a company or the motivation to be an entrepreneur is guided by things which are different from, \"Hey, if I do not start a company to fix this problem, I will not have realized my life's mission.\" Because capital is so easily available and in some cases for well connected people they don't have to work super hard to raise massive amounts of money, we definitely see a lot of I would say behavior, which is short sighted in the sense we're seeing, $6m $10m seed rounds, 15, 20 investors in such a seed round, for instance, right? Candidly, it does not excite me as an investor to work in such a scenario, quite frankly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 23045,
+      "timestamps": [
+        {
+          "offset": 23045,
+          "raw": "[00:22:07]",
+          "seconds": 1327
+        }
+      ]
+    },
+    {
+      "end": 24443,
+      "excerpt": "You know, I think that founders are best served working with a small engaged team rather than like a like a bevy of people, especially if they want institutional funding. I think it's completely different for like pre-seed or angel where getting as much capital as possible to get started is great. And that's probably looks like 1 to 2 million dollars.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24090,
+      "timestamps": []
+    },
+    {
+      "end": 24783,
+      "excerpt": "It's our fashion not to invest in more than one to two companies or take on more than one to two board seats each year, because we think that it's pretty hard to actually understand what's going on in a business and going on in a market. We like investing with people who have similar depth and can devote similar time to their portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24445,
+      "timestamps": []
+    },
+    {
+      "end": 24994,
+      "excerpt": "We like investing in companies or working with founders and partnering with founders who want that insightful and in depth approach versus just placing a lot of bets and sort of hyping your winner's approach. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24785,
+      "timestamps": []
+    },
+    {
+      "end": 25221,
+      "excerpt": "[00:24:10] Gopi Rangan: This is a very thoughtful approach to venture capital. Good VCs do that. They don't make too many investments in a year and they're very selective about the one or two investments they make every year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24996,
+      "timestamps": [
+        {
+          "offset": 24996,
+          "raw": "[00:24:10]",
+          "seconds": 1450
+        }
+      ]
+    },
+    {
+      "end": 25462,
+      "excerpt": "They handhold the companies and support the entrepreneurs with a very committed approach. I want to switch to the next segment where I ask you about community involvement, is there a nonprofit organization that you're involved in and how? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25223,
+      "timestamps": []
+    },
+    {
+      "end": 26013,
+      "excerpt": "[00:24:37] Sandeep Bhadra: It's an organization called Lambda Legal and it was started in the early 70s at a time when LGBT people did not have a lot of rights in this country. Obviously we've made like massive strides and progress since then, but there are still tons of states and tons of scenarios in which there is discrimination and Lambda Legal basically Is it is a team of lawyers and legally minded people who work towards making sure that the people who are being discriminated against have a voice and can see their day in court if needed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 25464,
+      "timestamps": [
+        {
+          "offset": 25464,
+          "raw": "[00:24:37]",
+          "seconds": 1477
+        }
+      ]
+    },
+    {
+      "end": 26305,
+      "excerpt": "We spent a lot of time with them through my husband, obviously, you know, there's a ton of public policy work that comes out as well out of this organization. It's a national organization, and we're pretty excited and proud to be involved with them and to be able to further their mission. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26015,
+      "timestamps": []
+    },
+    {
+      "end": 26336,
+      "excerpt": "[00:25:28] Gopi Rangan: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26307,
+      "timestamps": [
+        {
+          "offset": 26307,
+          "raw": "[00:25:28]",
+          "seconds": 1528
+        }
+      ]
+    },
+    {
+      "end": 26668,
+      "excerpt": "Legal help can be a great need for people, especially in situations that they cannot afford it. So it's great to see that you're actively involved in supporting the community. Well, thank you so much, Sandeep. This has been incredible to hear so many stories from you about your investments and about your career and other things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26338,
+      "timestamps": []
+    },
+    {
+      "end": 26792,
+      "excerpt": "It's always been fun to work with you and I look forward to geeking out on any new topics that you pick up in the future. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26670,
+      "timestamps": []
+    },
+    {
+      "end": 26969,
+      "excerpt": "[00:25:54] Sandeep Bhadra: Absolutely. There is nothing that would make me more happy. So thanks a lot for inviting me to the podcast. I feel like I'm in August company here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 26794,
+      "timestamps": [
+        {
+          "offset": 26794,
+          "raw": "[00:25:54]",
+          "seconds": 1554
+        }
+      ]
+    },
+    {
+      "end": 27084,
+      "excerpt": "[00:26:01] Gopi Rangan: Oh, you're welcome. I'm looking forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26971,
+      "timestamps": [
+        {
+          "offset": 26971,
+          "raw": "[00:26:01]",
+          "seconds": 1561
+        }
+      ]
+    },
+    {
+      "end": 27097,
+      "excerpt": "Fantastic. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27086,
+      "timestamps": []
+    },
+    {
+      "end": 27140,
+      "excerpt": "[00:26:05] Sandeep Bhadra: Thanks a lot. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sandeep Bhadra",
+      "start": 27099,
+      "timestamps": [
+        {
+          "offset": 27099,
+          "raw": "[00:26:05]",
+          "seconds": 1565
+        }
+      ]
+    },
+    {
+      "end": 27494,
+      "excerpt": "[00:26:08] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27142,
+      "timestamps": [
+        {
+          "offset": 27142,
+          "raw": "[00:26:08]",
+          "seconds": 1568
+        }
+      ]
+    }
+  ],
+  "source_sha256": "ace02393c3b1bfee28b41f92bf6a4f4c050b88b10a80cbb2050904af05760a06",
+  "text_sha256": "20468b47f03aed2cc5f03b538bb6e3ac2059578f2d5bcb2847b363a0d466e6fb"
+}

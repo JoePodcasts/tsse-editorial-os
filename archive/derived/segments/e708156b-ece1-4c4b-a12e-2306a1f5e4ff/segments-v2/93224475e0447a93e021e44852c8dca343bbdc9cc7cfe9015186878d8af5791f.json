@@ -1,0 +1,1135 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 418,
+      "excerpt": "But if it's a first time founder working on a category that not everyone knows about, I think what I find really valuable is founders being able to build on their story a little bit. It's easy for me to say I worked on this and I need X amount of dollars for it and so forth. But actually, more compelling stories or pitches are where the founders say why they're solving that problem and why they're excited about it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 855,
+      "excerpt": "[00:00:25] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you how relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. Shruti Gandhi is the founder and managing partner at Array Ventures, an early-stage venture capital firm based in the Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 420,
+      "timestamps": [
+        {
+          "offset": 420,
+          "raw": "[00:00:25]",
+          "seconds": 25
+        }
+      ]
+    },
+    {
+      "end": 904,
+      "excerpt": "Shruti, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 857,
+      "timestamps": []
+    },
+    {
+      "end": 971,
+      "excerpt": "[00:01:04] Shruti Gandhi: Thank you so much for having me, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 906,
+      "timestamps": [
+        {
+          "offset": 906,
+          "raw": "[00:01:04]",
+          "seconds": 64
+        }
+      ]
+    },
+    {
+      "end": 1029,
+      "excerpt": "[00:01:06] Gopi Rangan: Tell us about yourself, Shruti. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 973,
+      "timestamps": [
+        {
+          "offset": 973,
+          "raw": "[00:01:06]",
+          "seconds": 66
+        }
+      ]
+    },
+    {
+      "end": 1247,
+      "excerpt": "[00:01:08] Shruti Gandhi: I'm Shruti. I run a fund called Array Ventures. And a little bit about me is I was an engineer for a decade. I became a founder and then I started my journey in venture in 2011/12 timeframe.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 1031,
+      "timestamps": [
+        {
+          "offset": 1031,
+          "raw": "[00:01:08]",
+          "seconds": 68
+        }
+      ]
+    },
+    {
+      "end": 1483,
+      "excerpt": "Since then, I've worked across various kinds of firms, corporate ventures, institutional firms and other models as well. But about four, five years ago, I started our fund, Array Ventures, focused on enterprise early stage investing. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1249,
+      "timestamps": []
+    },
+    {
+      "end": 1595,
+      "excerpt": "[00:01:40] Gopi Rangan: How did you frame your investment philosophy and how is it different from other firms?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1485,
+      "timestamps": [
+        {
+          "offset": 1485,
+          "raw": "[00:01:40]",
+          "seconds": 100
+        }
+      ]
+    },
+    {
+      "end": 2135,
+      "excerpt": "[00:01:45] Shruti Gandhi: When I was starting out our firm, I realized that while there are many investors in the market at various stages, there are very few real first check investors, especially in the enterprise world. Firms are generalist investors, but they don't have a deep understanding on how to evaluate enterprise companies at the pre-seed stage. So that is how we started out with wanting to solve for that problem and happy to share more about how exactly we do that. But that's what kind of led us to start Array Ventures. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 1597,
+      "timestamps": [
+        {
+          "offset": 1597,
+          "raw": "[00:01:45]",
+          "seconds": 105
+        }
+      ]
+    },
+    {
+      "end": 2292,
+      "excerpt": "[00:02:23] Gopi Rangan: Yeah, tell me more about the philosophy. I totally understand especially with enterprise infrastructure and those kind of startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2137,
+      "timestamps": [
+        {
+          "offset": 2137,
+          "raw": "[00:02:23]",
+          "seconds": 143
+        }
+      ]
+    },
+    {
+      "end": 2448,
+      "excerpt": "There are much larger firms at the earlier stages. It's quite challenging. How did you decide to focus on this and the kind of themes that you invest in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2294,
+      "timestamps": []
+    },
+    {
+      "end": 2859,
+      "excerpt": "[00:02:38] Shruti Gandhi: Well, that was easy. More just my background is in enterprise and I'd worked on enterprise products and tools also as an engineer. But I think it's more the idea of how do you invest in these companies without traction and understanding that these enterprise companies actually have a real J curve where it takes a long time to build a company and a go to market comes in much later.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 2450,
+      "timestamps": [
+        {
+          "offset": 2450,
+          "raw": "[00:02:38]",
+          "seconds": 158
+        }
+      ]
+    },
+    {
+      "end": 3260,
+      "excerpt": "So that's basically what you need to understand at the stages we invest in. And you're right. There are many firms at the later stages, like series A onwards, and they look at numbers and tractions to get to the point of making that decision. But at the stages we invest in, usually it's just founders and an idea and anything more beyond that is more like a icing on the cake for us as an investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2861,
+      "timestamps": []
+    },
+    {
+      "end": 3421,
+      "excerpt": "[00:03:30] Gopi Rangan: So what stage is the right, like sweet spot for you? Is there something that's too early for you or when does it get too late for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3262,
+      "timestamps": [
+        {
+          "offset": 3262,
+          "raw": "[00:03:30]",
+          "seconds": 210
+        }
+      ]
+    },
+    {
+      "end": 4373,
+      "excerpt": "[00:03:38] Shruti Gandhi: Good question. Yeah. The earliest is as early as founders thinking about starting something. And we've often led the rounds before any other investors participated. In some cases, founders didn't even have a bank account or hadn't even formed a company. So we helped them through all of that as well. What's late is anything beyond series A would be late for us. We'll do some series A checks where we don't lead, but we follow a firm we've worked with in the past and we and the founders all believe that there's still value a firm like ours can add at that stage. But usually we focus on pre-seed stage. We tend to not really focus a lot on the seed stage because we think That oftentimes a preset investor has already formed a real good bond with that firm and our value add could be minimal at that point. So we want to focus on high value add and anything we think we can't add value in would not be a good fit for us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 3423,
+      "timestamps": [
+        {
+          "offset": 3423,
+          "raw": "[00:03:38]",
+          "seconds": 218
+        }
+      ]
+    },
+    {
+      "end": 4883,
+      "excerpt": "[00:04:40] Gopi Rangan: So you prefer to go in as early as possible, sometimes even when entrepreneurs haven't formed their idea fully and they're still at their current job and they're going to leave soon. From that stage on up to a point where they might have something, maybe a slide deck, perhaps even some angel funding, but when it gets to a point where it's series A and they have hundreds of thousands of dollars of recurring revenue, that might be too late for you. Is that a good characterization? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4375,
+      "timestamps": [
+        {
+          "offset": 4375,
+          "raw": "[00:04:40]",
+          "seconds": 280
+        }
+      ]
+    },
+    {
+      "end": 4950,
+      "excerpt": "[00:05:06] Shruti Gandhi: We do anything up to series A as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 4885,
+      "timestamps": [
+        {
+          "offset": 4885,
+          "raw": "[00:05:06]",
+          "seconds": 306
+        }
+      ]
+    },
+    {
+      "end": 5002,
+      "excerpt": "[00:05:09] Gopi Rangan: Okay. Including series A. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4952,
+      "timestamps": [
+        {
+          "offset": 4952,
+          "raw": "[00:05:09]",
+          "seconds": 309
+        }
+      ]
+    },
+    {
+      "end": 5286,
+      "excerpt": "[00:05:11] Shruti Gandhi: Yes. So again, it's a method of terminology, but I'd like to say we'd like to do first round of fundings. Sometimes those fundings end up being Series A because they're larger. But that's the whole idea. But we don't really go and do anything beyond that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 5004,
+      "timestamps": [
+        {
+          "offset": 5004,
+          "raw": "[00:05:11]",
+          "seconds": 311
+        }
+      ]
+    },
+    {
+      "end": 5374,
+      "excerpt": "[00:05:27] Gopi Rangan: I know Series A was supposed to be the first round of funding.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5288,
+      "timestamps": [
+        {
+          "offset": 5288,
+          "raw": "[00:05:27]",
+          "seconds": 327
+        }
+      ]
+    },
+    {
+      "end": 5527,
+      "excerpt": "That's why it was called Series A. And now we've added so many different labels to it, and series A is sometimes the fourth or fifth round of funding. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5376,
+      "timestamps": []
+    },
+    {
+      "end": 5971,
+      "excerpt": "[00:05:38] Shruti Gandhi: Yeah, I know we have a company called Productiv and they raised $8 million first round, so they called it a series A, but they had a deck by that point when we invested. Excel led the round so we were the other investor in the company at that stage. It would not be called a pre-seed, but it's definitely the stage we're talking about; the company is just being formed, and when they think we could still add value. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 5529,
+      "timestamps": [
+        {
+          "offset": 5529,
+          "raw": "[00:05:38]",
+          "seconds": 338
+        }
+      ]
+    },
+    {
+      "end": 6033,
+      "excerpt": "[00:06:00] Gopi Rangan: What do you look for at that stage? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5973,
+      "timestamps": [
+        {
+          "offset": 5973,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 6097,
+      "excerpt": "[00:06:02] Shruti Gandhi: At series A stage or pre-seed stage?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 6035,
+      "timestamps": [
+        {
+          "offset": 6035,
+          "raw": "[00:06:02]",
+          "seconds": 362
+        }
+      ]
+    },
+    {
+      "end": 6102,
+      "excerpt": "At ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6099,
+      "timestamps": []
+    },
+    {
+      "end": 6203,
+      "excerpt": "[00:06:04] Gopi Rangan: this stage you, what, what is this, uh, the most comfortable spot for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6104,
+      "timestamps": [
+        {
+          "offset": 6104,
+          "raw": "[00:06:04]",
+          "seconds": 364
+        }
+      ]
+    },
+    {
+      "end": 6509,
+      "excerpt": "[00:06:10] Shruti Gandhi: Oh, definitely the first check in is the only comfortable spot for me. Anything beyond that is opportunistic. So for us, a founder solving problems in an area that they are very familiar with and also being able to kind of talk about how they came about working on that problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 6205,
+      "timestamps": [
+        {
+          "offset": 6205,
+          "raw": "[00:06:10]",
+          "seconds": 370
+        }
+      ]
+    },
+    {
+      "end": 6792,
+      "excerpt": "If they have any customers, that's great. Or if we can bring them any customers, that's great as well. So that's, that's the most ideal spot. When you call it angel, usually we also invest with the angels. So as I said, when I say early, truly means early and often in many cases. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6511,
+      "timestamps": []
+    },
+    {
+      "end": 6913,
+      "excerpt": "[00:06:49] Gopi Rangan: That could be the angel or precede or seed or even as long as, as long as it's the first check.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6794,
+      "timestamps": [
+        {
+          "offset": 6794,
+          "raw": "[00:06:49]",
+          "seconds": 409
+        }
+      ]
+    },
+    {
+      "end": 7085,
+      "excerpt": "[00:06:56] Shruti Gandhi: Exactly. That's why I don't actually call it pre-seed or seed. I just call it first round formation check, but then it gets complicated anyway. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 6915,
+      "timestamps": [
+        {
+          "offset": 6915,
+          "raw": "[00:06:56]",
+          "seconds": 416
+        }
+      ]
+    },
+    {
+      "end": 7252,
+      "excerpt": "[00:07:06] Gopi Rangan: So you mentioned founder with an idea that they are passionate about. Can we double click and maybe there are other things that you look for?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7087,
+      "timestamps": [
+        {
+          "offset": 7087,
+          "raw": "[00:07:06]",
+          "seconds": 426
+        }
+      ]
+    },
+    {
+      "end": 7346,
+      "excerpt": "What are some specific things that you get excited about when you see in the first meeting? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7254,
+      "timestamps": []
+    },
+    {
+      "end": 8006,
+      "excerpt": "[00:07:18] Shruti Gandhi: Yeah, I think I get excited when founders have, well, first of all, good excitement about their own problems that they're solving. If they've worked in that space and they're aware of it, that's even better. And just the market itself has to be somewhat that we're looking to invest in. While everyone's looking for big markets, that's good, but we're also looking for something that is more unique and more enterprise, which more enterprise the better. And what I mean by that is if it's cloud infrastructure, security, all of that, or it's great. We're faster across the stack, so it doesn't just have to be the application layer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 7348,
+      "timestamps": [
+        {
+          "offset": 7348,
+          "raw": "[00:07:18]",
+          "seconds": 438
+        }
+      ]
+    },
+    {
+      "end": 8214,
+      "excerpt": "But if it's an application layer focused on a particular industry vertical, we're excited about those as well, as long as we have not invested in that vertical in the past; to avoid competition, obviously. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8008,
+      "timestamps": []
+    },
+    {
+      "end": 8354,
+      "excerpt": "[00:08:12] Gopi Rangan: It's interesting that you say that you're looking for something unique, and the market size is not that important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8216,
+      "timestamps": [
+        {
+          "offset": 8216,
+          "raw": "[00:08:12]",
+          "seconds": 492
+        }
+      ]
+    },
+    {
+      "end": 8490,
+      "excerpt": "It's always great to have a big market size, but even if the market size is not well defined, the problem is more interesting to you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8356,
+      "timestamps": []
+    },
+    {
+      "end": 8745,
+      "excerpt": "[00:08:25] Shruti Gandhi: Yeah. If you end up investing, I don't mean by market size is not important, but what I mean is smart founders figure out a way to expand their markets. And if the market is just startups or something, I'm not investing, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 8492,
+      "timestamps": [
+        {
+          "offset": 8492,
+          "raw": "[00:08:25]",
+          "seconds": 505
+        }
+      ]
+    },
+    {
+      "end": 9298,
+      "excerpt": "But what I mean by is if you're doing something in let's say a manufacturing vertical, one of our company's Overview focused on manufacturing vertical, but they're focused on a small niche for manufacturing. We're open to investing there knowing that the overall manufacturing industry is large. And the founders are also smart enough to go from that industry into an adjacent other manufacturing industry. So that's what I mean by that. We're open to that instead of just saying \"I'm going to go just go transform the entire manufacturing industry.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8747,
+      "timestamps": []
+    },
+    {
+      "end": 9408,
+      "excerpt": "[00:09:14] Gopi Rangan: So this is a great starting point. What happens after that in the next few meetings?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9300,
+      "timestamps": [
+        {
+          "offset": 9300,
+          "raw": "[00:09:14]",
+          "seconds": 554
+        }
+      ]
+    },
+    {
+      "end": 9633,
+      "excerpt": "When you first meet the entrepreneur, you see that there's a problem that they're solving and you've seen that there's potential for this to scale. How do you spend the next few meetings before you form a strong conviction?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9410,
+      "timestamps": []
+    },
+    {
+      "end": 9727,
+      "excerpt": "[00:09:33] Shruti Gandhi: Yeah, we meet co-founders and meet other team members if possible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 9635,
+      "timestamps": [
+        {
+          "offset": 9635,
+          "raw": "[00:09:33]",
+          "seconds": 573
+        }
+      ]
+    },
+    {
+      "end": 10263,
+      "excerpt": "We also then involve other customers that are in our network to see if we can understand if we can help them down the road. That's what I keep talking about - the value add part. So oftentimes, even from our first meeting when we're diligencing, if we're actually serious about the company, and even if we have not made a decision about an investment, we'll still introduce the founders to a potential customer that we think they should be investing their time in, and the intro is valuable both ways for the founder and the customer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9729,
+      "timestamps": []
+    },
+    {
+      "end": 10411,
+      "excerpt": "So we will spend a bunch of time doing actual customer diligence, and that's what usually takes a chunk of our time before we make any decisions. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10265,
+      "timestamps": []
+    },
+    {
+      "end": 10535,
+      "excerpt": "[00:10:20] Gopi Rangan: So what I'm hearing is that the value add starts even before the investment closes in many cases. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10413,
+      "timestamps": [
+        {
+          "offset": 10413,
+          "raw": "[00:10:20]",
+          "seconds": 620
+        }
+      ]
+    },
+    {
+      "end": 10620,
+      "excerpt": "[00:10:25] Shruti Gandhi: Yes, I tell founders, \"you're seeing me at work already.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 10537,
+      "timestamps": [
+        {
+          "offset": 10537,
+          "raw": "[00:10:25]",
+          "seconds": 625
+        }
+      ]
+    },
+    {
+      "end": 10812,
+      "excerpt": "Because while there's a lot of checks out there, I find very few investors actually start adding value right away. So that's the kind of firm we're aspiring to build. And that's what we do. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10622,
+      "timestamps": []
+    },
+    {
+      "end": 10966,
+      "excerpt": "[00:10:40] Gopi Rangan: How long does the process take from start to closing an investment? From an entrepreneur's perspective, what should they expect?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10814,
+      "timestamps": [
+        {
+          "offset": 10814,
+          "raw": "[00:10:40]",
+          "seconds": 640
+        }
+      ]
+    },
+    {
+      "end": 11294,
+      "excerpt": "[00:10:48] Shruti Gandhi: Usually a couple of weeks. We've invested in one meeting. We try not to do that, but it doesn't take us that long to decide. We've invested over a weekend. Our last investment actually was over a Memorial Day weekend where we met the founders on a Friday and by Monday we told them we were investing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 10968,
+      "timestamps": [
+        {
+          "offset": 10968,
+          "raw": "[00:10:48]",
+          "seconds": 648
+        }
+      ]
+    },
+    {
+      "end": 11412,
+      "excerpt": "[00:11:10] Gopi Rangan: That is fast. Indeed. Yes. It's, uh, it's difficult to form conviction overnight like that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11296,
+      "timestamps": [
+        {
+          "offset": 11296,
+          "raw": "[00:11:10]",
+          "seconds": 670
+        }
+      ]
+    },
+    {
+      "end": 11743,
+      "excerpt": "[00:11:16] Shruti Gandhi: Well, I think it's usually it happens if the areas that you're investing in you know it well, which is in this case, it was a security investment. So it's something we know pretty well. We've had a couple of exits, but one of the recent ones was in a company called Simility that was acquired by PayPal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 11414,
+      "timestamps": [
+        {
+          "offset": 11414,
+          "raw": "[00:11:16]",
+          "seconds": 676
+        }
+      ]
+    },
+    {
+      "end": 12114,
+      "excerpt": "That was a fraud detection company. I've invested in other companies in the category. And my first job as an engineer was also in the security space. So security software developers. So that happens oftentimes as I'm sure companies come to you in a particular insurtech space, and I'm sure you're able to figure out an investment that you are excited about right away. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11745,
+      "timestamps": []
+    },
+    {
+      "end": 12499,
+      "excerpt": "[00:11:56] Gopi Rangan: That's true. A prepared mind is a lot easier to help us in decision making and we can make quick decisions. When we are not well prepared, I find myself spending time researching and learning about it and that takes some time. But when I've already done all the work and it's an area that I've looked at in the past, it's a lot faster to make those decisions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12116,
+      "timestamps": [
+        {
+          "offset": 12116,
+          "raw": "[00:11:56]",
+          "seconds": 716
+        }
+      ]
+    },
+    {
+      "end": 12539,
+      "excerpt": "It happens sometimes, but not always. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12501,
+      "timestamps": []
+    },
+    {
+      "end": 12576,
+      "excerpt": "[00:12:19] Shruti Gandhi: Exactly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 12541,
+      "timestamps": [
+        {
+          "offset": 12541,
+          "raw": "[00:12:19]",
+          "seconds": 739
+        }
+      ]
+    },
+    {
+      "end": 12760,
+      "excerpt": "[00:12:20] Gopi Rangan: Can you pick an example of a startup, kind of show the journey of how you met them and how the conversation progressed and what you discovered along the way? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12578,
+      "timestamps": [
+        {
+          "offset": 12578,
+          "raw": "[00:12:20]",
+          "seconds": 740
+        }
+      ]
+    },
+    {
+      "end": 13058,
+      "excerpt": "[00:12:31] Shruti Gandhi: Yeah. One of our recent investments is in a company called Uniform. They are in the JAMstack space, and they are a company that helps enterprises adopt this methodology called JAMstack, that helps first and foremost with faster websites, but also better personalization.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 12762,
+      "timestamps": [
+        {
+          "offset": 12762,
+          "raw": "[00:12:31]",
+          "seconds": 751
+        }
+      ]
+    },
+    {
+      "end": 13130,
+      "excerpt": "[00:12:52] Gopi Rangan: Can you give a quick description of JAMstack? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13060,
+      "timestamps": [
+        {
+          "offset": 13060,
+          "raw": "[00:12:52]",
+          "seconds": 772
+        }
+      ]
+    },
+    {
+      "end": 13264,
+      "excerpt": "[00:12:56] Shruti Gandhi: Yeah, JAMstack stands for JavaScript APIs and Markup. It's basically a new way to build websites and apps.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 13132,
+      "timestamps": [
+        {
+          "offset": 13132,
+          "raw": "[00:12:56]",
+          "seconds": 776
+        }
+      ]
+    },
+    {
+      "end": 13955,
+      "excerpt": "It's a new methodology in the marketing stack and it's up and coming and folks at companies like Netlify, Contentful, you know, especially Netlify made this category popular. And the company I've invested in called Uniform also works with these companies to be their enterprise partner. So one of our really close co investor we've invested with them a few times introduced us to that company. And they introduced the company to us because it was not in their sweet spot, but they kind of wanted to invest in the company. So we decided to look at the category, even though I've done investments in data, marketing stack and enterprise a lot, this is a new and emerging category, as I said.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13266,
+      "timestamps": []
+    },
+    {
+      "end": 14298,
+      "excerpt": "So for us, we also had to kind of get up to speed with it. The great thing was one of the founders are one of the most leading experts in the space. So they actually helped us form a point of view in addition to doing the diligence. And for us, we were able to, in parallel, connect them with a bunch of customers as well during the process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13957,
+      "timestamps": []
+    },
+    {
+      "end": 14601,
+      "excerpt": "So it kind of worked both ways. The founders knew we are technical, but we may not know specifically by JAMstack. That is okay sometimes when it's in your category. Because very few investors are actually well versed with it. In fact, very few engineers are well versed with it. So that's what we did.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14300,
+      "timestamps": []
+    },
+    {
+      "end": 14880,
+      "excerpt": "We got up to speed. It took about a month. As you said, in an area that you don't know that much about sometimes it takes a little bit longer. We took a month and we won that deal against a bunch of other investors and we were now helping them get to the next stage, basically.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14603,
+      "timestamps": []
+    },
+    {
+      "end": 15077,
+      "excerpt": "[00:14:57] Gopi Rangan: What are some things that the startups do to make it easy for you? And maybe in this case, are there things that the entrepreneurs did that made the process easy for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14882,
+      "timestamps": [
+        {
+          "offset": 14882,
+          "raw": "[00:14:57]",
+          "seconds": 897
+        }
+      ]
+    },
+    {
+      "end": 15220,
+      "excerpt": "[00:15:07] Shruti Gandhi: You know, that's a great question. It depends on the kind of company and how early and how proven the founders are.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 15079,
+      "timestamps": [
+        {
+          "offset": 15079,
+          "raw": "[00:15:07]",
+          "seconds": 907
+        }
+      ]
+    },
+    {
+      "end": 15535,
+      "excerpt": "So not everyone has to do this. But if it's a first time founder working on a category that not everyone knows about, I think what I find really valuable is founders being able to build on their story a little bit. It's easy for me to say, \"I've worked on this and I need X amount of dollars for it and so forth.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15222,
+      "timestamps": []
+    },
+    {
+      "end": 15840,
+      "excerpt": "But actually more compelling stories or pitches are where the founders say why they're solving that problem and why they're excited about it. Obviously the thought around them. 1 sharing their journey as to how many people they have talked to before they got to that conviction of building this company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15537,
+      "timestamps": []
+    },
+    {
+      "end": 16169,
+      "excerpt": "and 2 how fast they think they can grow. These kinds of thoughtful things that if the founders communicate that to you shows that they've done the work, even if the work is a little far off, sometimes it will guarantee a second meeting from me because I know the founders are taking the time and the effort to do the base work.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15842,
+      "timestamps": []
+    },
+    {
+      "end": 16606,
+      "excerpt": "And now all of us are as aware of the execution risk. So now it's all about figuring out if the execution risk is existing in the company or not based on all the other checklists we have to kind of follow through. But generally where I get excited about follow on meetings and investing in a founder if one they're passionate and two, there is like a real story as to how they got to the point of building the company where they're at.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16171,
+      "timestamps": []
+    },
+    {
+      "end": 16952,
+      "excerpt": "[00:16:42] Gopi Rangan: So you, you look for the why, which is like, do you have a deep rooted thesis on why this problem needs to be targeted and why this kind of solution is the right approach and when entrepreneurs have thought through it, you can have a deeper conversation with them, have second level, third level conversations with them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16608,
+      "timestamps": [
+        {
+          "offset": 16608,
+          "raw": "[00:16:42]",
+          "seconds": 1002
+        }
+      ]
+    },
+    {
+      "end": 17086,
+      "excerpt": "When they haven't really thought about it, then it becomes quite superficial and it's very hard for you to go deep in those topics. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16954,
+      "timestamps": []
+    },
+    {
+      "end": 17332,
+      "excerpt": "[00:17:07] Shruti Gandhi: Well, I find it's very hard for me to realize that a founder that hasn't thought about why in a deep way is going to be able to start a company with all the challenges that come around not having thought about the why.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 17088,
+      "timestamps": [
+        {
+          "offset": 17088,
+          "raw": "[00:17:07]",
+          "seconds": 1027
+        }
+      ]
+    },
+    {
+      "end": 17701,
+      "excerpt": "[00:17:21] Gopi Rangan: Yeah, I say that a lot of my investments, the founders had typos in their slide deck. Their presentations are not very polished, but the one hour meeting was fascinating. And at the end of it, my eyes open up to something totally new that I never thought of. Those are much more interesting. Looks like that's kind of what you're referring to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17334,
+      "timestamps": [
+        {
+          "offset": 17334,
+          "raw": "[00:17:21]",
+          "seconds": 1041
+        }
+      ]
+    },
+    {
+      "end": 17769,
+      "excerpt": "[00:17:42] Shruti Gandhi: You're more articulate than I am, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 17703,
+      "timestamps": [
+        {
+          "offset": 17703,
+          "raw": "[00:17:42]",
+          "seconds": 1062
+        }
+      ]
+    },
+    {
+      "end": 18141,
+      "excerpt": "[00:17:45] Gopi Rangan: I'm learning as well. I've seen this. This is one of the reasons why I started this podcast, that some of the best venture capital investors, we are not in the business of articulating things to the world. We are in the other side, we're on the buy side, which means that we evaluate things and help entrepreneurs and we are much better advisors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17771,
+      "timestamps": [
+        {
+          "offset": 17771,
+          "raw": "[00:17:45]",
+          "seconds": 1065
+        }
+      ]
+    },
+    {
+      "end": 18281,
+      "excerpt": "So it's perfectly okay if we have our style of doing things. And it's actually nice that your voice comes out in the way you describe it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18143,
+      "timestamps": []
+    },
+    {
+      "end": 18320,
+      "excerpt": "[00:18:13] Shruti Gandhi: Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 18283,
+      "timestamps": [
+        {
+          "offset": 18283,
+          "raw": "[00:18:13]",
+          "seconds": 1093
+        }
+      ]
+    },
+    {
+      "end": 18419,
+      "excerpt": "[00:18:14] Gopi Rangan: How many startups do you typically invest in or how often do you invest? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18322,
+      "timestamps": [
+        {
+          "offset": 18322,
+          "raw": "[00:18:14]",
+          "seconds": 1094
+        }
+      ]
+    },
+    {
+      "end": 18544,
+      "excerpt": "[00:18:19] Shruti Gandhi: Good question. We invest an average 9 to 10 startups a year. So we are two startups in this year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 18421,
+      "timestamps": [
+        {
+          "offset": 18421,
+          "raw": "[00:18:19]",
+          "seconds": 1099
+        }
+      ]
+    },
+    {
+      "end": 18574,
+      "excerpt": "So we have long ways to go. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18546,
+      "timestamps": []
+    },
+    {
+      "end": 18637,
+      "excerpt": "[00:18:27] Gopi Rangan: And this is your second fund, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18576,
+      "timestamps": [
+        {
+          "offset": 18576,
+          "raw": "[00:18:27]",
+          "seconds": 1107
+        }
+      ]
+    },
+    {
+      "end": 18670,
+      "excerpt": "[00:18:29] Shruti Gandhi: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 18639,
+      "timestamps": [
+        {
+          "offset": 18639,
+          "raw": "[00:18:29]",
+          "seconds": 1109
+        }
+      ]
+    },
+    {
+      "end": 18750,
+      "excerpt": "[00:18:30] Gopi Rangan: What is the typical size of investment that you make? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18672,
+      "timestamps": [
+        {
+          "offset": 18672,
+          "raw": "[00:18:30]",
+          "seconds": 1110
+        }
+      ]
+    },
+    {
+      "end": 18906,
+      "excerpt": "[00:18:33] Shruti Gandhi: We make half million to a million dollar checks depending on the round size and we co-lead or follow either either works for us ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 18752,
+      "timestamps": [
+        {
+          "offset": 18752,
+          "raw": "[00:18:33]",
+          "seconds": 1113
+        }
+      ]
+    },
+    {
+      "end": 19034,
+      "excerpt": "[00:18:41] Gopi Rangan: Do you have a preference for geography which location in the US, outside the US or even within the US?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18908,
+      "timestamps": [
+        {
+          "offset": 18908,
+          "raw": "[00:18:41]",
+          "seconds": 1121
+        }
+      ]
+    },
+    {
+      "end": 19209,
+      "excerpt": "[00:18:48] Shruti Gandhi: We like companies that are focused on either the US or the global markets, but they can be based anywhere. They have to just be a Delaware entity. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 19036,
+      "timestamps": [
+        {
+          "offset": 19036,
+          "raw": "[00:18:48]",
+          "seconds": 1128
+        }
+      ]
+    },
+    {
+      "end": 19541,
+      "excerpt": "[00:18:56] Gopi Rangan: This is very interesting. You've shared quite a bit. The message that you shared that really sticks with me is the why. Like if someone has deeply thought about it, it shows in the conversation when an entrepreneur is very passionate about it and when they, when they're committed to what they're building.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19211,
+      "timestamps": [
+        {
+          "offset": 19211,
+          "raw": "[00:18:56]",
+          "seconds": 1136
+        }
+      ]
+    },
+    {
+      "end": 19763,
+      "excerpt": "I want to switch to the last section, which is about community involvement. How are you involved in the community, especially in the startup ecosystem and in the venture capital sector? And what do you do to improve it? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19543,
+      "timestamps": []
+    },
+    {
+      "end": 19903,
+      "excerpt": "[00:19:25] Shruti Gandhi: A great question. I'm deeply passionate about investing in what I generally bucket as underrepresented founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 19765,
+      "timestamps": [
+        {
+          "offset": 19765,
+          "raw": "[00:19:25]",
+          "seconds": 1165
+        }
+      ]
+    },
+    {
+      "end": 20702,
+      "excerpt": "So I say that someone like me, when they're given the power to make decisions and capital, we will invest in people that don't just fit the \"normal pattern\" people are talking about in founders. So for us, we're an enterprise fund and while our big focus has not been focusing on underrepresented founders so far, we still have about quarter of our founders as women and over 50 percent of our founders are immigrants from all sorts of countries. So we have launched a program that is focused on another bucket of underrepresented founders, which is black and Latinx founders. And having really given it much thought, I've realized that being a woman personally, I've seen a lot of challenges around fundraising personally as a fund manager, but also from other women founders I work closely with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19905,
+      "timestamps": []
+    },
+    {
+      "end": 21089,
+      "excerpt": "The next step is even, is, is even more important, which is, you know, Having the black and Hispanic founders and increasing their numbers in the startup ecosystem. So we've launched about a million dollars that we want to allocate to these founders. And we've also launched office hours that we think we're hoping that we can find founders through these office hours that we can fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20704,
+      "timestamps": []
+    },
+    {
+      "end": 21191,
+      "excerpt": "We want to put our money where our mouth is. And that's what I've been mostly involved in recently. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21091,
+      "timestamps": []
+    },
+    {
+      "end": 21554,
+      "excerpt": "[00:21:12] Gopi Rangan: There is a lot of bias in the venture capital industry, both on the investment side, there are very few women and there are very few, very few people of color as investors. And on the other side, on the entrepreneurs, there are a lot of people with great ideas, but they don't get the support if they are not in the preferred categories.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21193,
+      "timestamps": [
+        {
+          "offset": 21193,
+          "raw": "[00:21:12]",
+          "seconds": 1272
+        }
+      ]
+    },
+    {
+      "end": 21847,
+      "excerpt": "And especially if far fewer women get funded and fewer black and Latinx founders get funded as well. So I'm glad to see that you're emphasizing on this and trying to make changes happen. Thank you so much for sharing your stories and I hope to find opportunities for us to collaborate more. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21556,
+      "timestamps": []
+    },
+    {
+      "end": 21921,
+      "excerpt": "[00:21:50] Shruti Gandhi: Yeah, I know. I'm looking forward to it, Gopi.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Shruti Gandhi",
+      "start": 21849,
+      "timestamps": [
+        {
+          "offset": 21849,
+          "raw": "[00:21:50]",
+          "seconds": 1310
+        }
+      ]
+    },
+    {
+      "end": 22286,
+      "excerpt": "[00:21:53] Gopi Rangan: Thank you. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21923,
+      "timestamps": [
+        {
+          "offset": 21923,
+          "raw": "[00:21:53]",
+          "seconds": 1313
+        }
+      ]
+    }
+  ],
+  "source_sha256": "93224475e0447a93e021e44852c8dca343bbdc9cc7cfe9015186878d8af5791f",
+  "text_sha256": "3da5920fde1048b7648c68aef6e979bddb6d9e8fed37c2ac1894ae24cc2c1e0e"
+}

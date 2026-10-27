@@ -1,0 +1,905 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 231,
+      "excerpt": "\"One thing that's different coming out of the global financial crisis was that all investments were sort of level set and everything kind of got reset at zero. Venture, going forward, became the best performing equity asset class.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 646,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is David York. He's the founder and managing director at Top Tier Capital Partners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 233,
+      "timestamps": []
+    },
+    {
+      "end": 1060,
+      "excerpt": "In the world of venture capital, there are entrepreneurs, there are venture capital investors, and there are investors who invest in venture capital firms. David is one of them. Top Tier Capital Partners is one of the most popular fund of funds. We're gonna talk to him about his journey, the venture capital ecosystem, the role of a fund of funds in this ecosystem, and what he sees happening in today's market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 648,
+      "timestamps": []
+    },
+    {
+      "end": 1171,
+      "excerpt": "How can you prepare? What can you learn about venture capital? David, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1062,
+      "timestamps": []
+    },
+    {
+      "end": 1246,
+      "excerpt": "David York: Hi. Thanks for having me. It's really a pleasure to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 1173,
+      "timestamps": []
+    },
+    {
+      "end": 1314,
+      "excerpt": "Gopi Rangan: Let's start with you. You grew up in Silicon Valley? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1248,
+      "timestamps": []
+    },
+    {
+      "end": 1716,
+      "excerpt": "David York: Well, I've spent most of my life here, b ut I was originally born in Idaho. My father's from that part of the world, and he was there helping his dad fix his family business and ultimately wound that down and my parents moved from Idaho back to San Francisco and took over actually my mother's father's family business. And so they've been running it ever since. My brothers run it today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 1316,
+      "timestamps": []
+    },
+    {
+      "end": 2790,
+      "excerpt": "I moved back down here when I was about three. And so I've been in the Bay area since that period of time. I went to school in Los Angeles at the University of Southern California, but it became enamored with Wall Street in the early eighties. If you go back in that period of time, we were dealing with inflation then. And if you remember, from 82 inflation at that time, right? Yeah. Sort of high double digits. I think treasury Bills, T-bills, so money market accounts got to 22% in 1982, but that was when interest rates rolled over and started essentially the beginning of what's been a long, prosperous bull market for equities going back actually through to this most recent period of time where we've finally had interest rates come back a little bit. That's what got me involved with Wall Street, got me involved with investing. I did spend a period of time going back to work with my father and realized that he probably was never gonna retire, and so I went back to Wall Street so I could work for myself and had an opportunity to build Top Tier as it is today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1718,
+      "timestamps": []
+    },
+    {
+      "end": 2860,
+      "excerpt": "Gopi Rangan: I wanna talk about that. How did Top Tier get started? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2792,
+      "timestamps": []
+    },
+    {
+      "end": 3505,
+      "excerpt": "David York: Well, the genesis was there was a firm here in Silicon Valley founded by a fellow by the name of Philip Paul. Phil really began his investment journey working for a family office in the eighties. In 1981 is when he joined the Hillman company and was the lead investor in many venture capital funds in Silicon Valley on behalf of that family office. In 1991, he had an opportunity to acquire some of the investments he had made through a secondary transaction, and that was a seminal moment for secondaries. It was the largest transaction of its kind ever at the time he did it, and that started a firm called Paul Capital Partners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 2862,
+      "timestamps": []
+    },
+    {
+      "end": 3808,
+      "excerpt": "But because Phil was the lead investor at many of the venture firms you know today in Silicon Valley, he got asked by a very large sovereign wealth fund in Southeast Asia if he would help them gain access to venture capital. And that started the journey of what is now today Top Tier Capital Partners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3507,
+      "timestamps": []
+    },
+    {
+      "end": 4197,
+      "excerpt": "I got recruited from an investment bank here in San Francisco, Hambrecht & Quist (H&Q). Many of you might not be aware of Hambrecht & Quist, but it was one of the original technology investment banks that were here in San Francisco and it's famous for underwriting lots of successful technology companies such as Adobe Software, apple Computer, Amazon, Netscape, Genentech, and the like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3810,
+      "timestamps": []
+    },
+    {
+      "end": 4913,
+      "excerpt": "I ran a business there that covered the venture capital community. So I was a very popular guy at H&Q during the nineties when the internet bubble was happening and companies could go public at $150 million pre-seed. We did a lot of work with venture firms both here and around the world to try to help them monetize their portfolios. And because of my clients, the venture firms, and Phil's newfound investor (the Sovereign Wealth Fund) trying to access venture capital managers, we decided to get together and build venture capital fund of funds business. That really got off the ground in 1999. I joined Phil in 2000 and then we started building out a firm, which today is now called Top Tier Capital Partners. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4199,
+      "timestamps": []
+    },
+    {
+      "end": 5146,
+      "excerpt": "Gopi Rangan: So you were initially enamored by Wall Street, and then you went to investment banking and you made your way to the venture capital world, and you've started top tier capital. Why is venture capital interesting to you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4915,
+      "timestamps": []
+    },
+    {
+      "end": 5757,
+      "excerpt": "David York: Well, you can do a lot of things as an investor. You can buy real estate, you can buy bonds. I find it really invigorating to invest at the very front end of innovation. Venture gives you that opportunity and then, 98% of what we do actually is improving what was done before; be it healthcare or technology or even most recently in climate. And I feel if you're gonna do investing, it's nice to have your money working in a positive way. So it's been an area for me to lever my relationships as well as my understanding of capital markets and help new firms and new companies get off the ground. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 5148,
+      "timestamps": []
+    },
+    {
+      "end": 5878,
+      "excerpt": "Gopi Rangan: Venture capital is the fuel for innovation, and I love working with entrepreneurs for that reason as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5759,
+      "timestamps": []
+    },
+    {
+      "end": 6385,
+      "excerpt": "David York: One of the other things that makes it kinda fun, even though it's kinda sounds ironic, but because technology kind of compounds on itself, you do get this rebirth of new ideas and new opportunities very regularly actually, if you kind of think about it. And the acceleration of that has kind of been amplified with what's going on with OpenAI and the like. You can see a world where we're gonna be all doing a lot of different things in the future as technology continues to improve our lives.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 5880,
+      "timestamps": []
+    },
+    {
+      "end": 6752,
+      "excerpt": "Gopi Rangan: Yeah, pretty much every aspect of our life is touched by technology in some way or the other, and it's only going to get more and more intense in the future. The startups are at the forefront of this and VCs support that innovation and you are behind the scenes. Fund of funds and LPs are quite low key. but that is the source of all of the resources. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6387,
+      "timestamps": []
+    },
+    {
+      "end": 6819,
+      "excerpt": "David York: I tell our friends where the money behind the money. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 6754,
+      "timestamps": []
+    },
+    {
+      "end": 6899,
+      "excerpt": "Gopi Rangan: Yes. Yeah. What's the role of a fund of funds in this ecosystem? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6821,
+      "timestamps": []
+    },
+    {
+      "end": 7081,
+      "excerpt": "David York: Well, to help people understand what we do, I try to explain to them how they buy venture capital. There's three ways that you could be active in the startup ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 6901,
+      "timestamps": []
+    },
+    {
+      "end": 7125,
+      "excerpt": "1. You could invest in companies directly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7083,
+      "timestamps": []
+    },
+    {
+      "end": 7302,
+      "excerpt": "With the Jobs Act that allowed people to put money to the tune of $25,000 into companies directly, which set up crowdfunding and the website AngelList is a byproduct of that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7127,
+      "timestamps": []
+    },
+    {
+      "end": 7332,
+      "excerpt": "2. Invest in a venture fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7304,
+      "timestamps": []
+    },
+    {
+      "end": 7733,
+      "excerpt": "That's a proper private placement. It requires a certain net worth; typically $200,000 to $300,000 of annual income. Those sorts of things qualify to purchase in a private placement. But a venture fund can give you a portfolio of startups, and so you diversify your risk and if you have a decent manager you can actually approve the rates of return opportunity for you versus the risk you're taking.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7334,
+      "timestamps": []
+    },
+    {
+      "end": 7763,
+      "excerpt": "3. Buy a portfolio of funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7735,
+      "timestamps": []
+    },
+    {
+      "end": 7961,
+      "excerpt": "I try to describe a portfolio of funds as a mutual fund of venture capital funds. Each fund has its own portfolio company, so I think it was a very diverse mutual fund of venture capital exposure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7765,
+      "timestamps": []
+    },
+    {
+      "end": 8197,
+      "excerpt": "The funds that we invest on average have somewhere between 20 and 25 managers. It's closer to 20. Each manager typically form somewhere between 30 and 60 companies who you can build out a portfolio of a thousand companies very easily.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7963,
+      "timestamps": []
+    },
+    {
+      "end": 8856,
+      "excerpt": "That's how I try to describe people what we do. The other thing we do is we provide access to the asset class that a lot of institutional investors struggle to access because they don't have the bandwidth and/or time to get to know the market in a way that allows them to invest appropriately. So, they'd rather outsource that problem to someone like ourselves, where we can provide them access, we can provide them a basket of exposure to the venture capital asset class, as well as returns that essentially, if we do our job right, should beat the benchmarks pretty meaningfully. I'll have to argue that we've done that over the last 20 years pretty well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8199,
+      "timestamps": []
+    },
+    {
+      "end": 9102,
+      "excerpt": "Gopi Rangan: I have a lot of questions on the role of fund of funds in today's market and why choosing venture capital firms and evaluating them is difficult. Sure. But before that, can you give a few examples of funds that you've invested in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8858,
+      "timestamps": []
+    },
+    {
+      "end": 9585,
+      "excerpt": "David York: Well, we've invested in quite a few branded firms. I mean, I think the best place to find that is on our website, but there are firms like Kleiner Perkins or Andreessen Horowitz. There are also firms in the life science space like Atlas Ventures or Abingworth. And then there's seed funds recently, we are active with Initialized with Garry Tan. We've been active with A.Capital and Ronny Conway's activities. So just around different, different segments of the market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 9104,
+      "timestamps": []
+    },
+    {
+      "end": 10030,
+      "excerpt": "In our history, we've invested over 600 different funds, represents about 185 different general partners. We have investments in China, we have investments in US and throughout Europe. We now a product that's focused exclusively on Europe as well as our US core product. And so what we're trying to do is build what we think is the best performing portfolio of managers in the venture capital universe globally across our different portfolios.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9587,
+      "timestamps": []
+    },
+    {
+      "end": 10694,
+      "excerpt": "We'll also buy those managers in the secondary market. It's a market where limited partners can sell their interest to another limited partner, and that's a fairly liquid market today. You have to get used to the liquidity discounts, but there is quite a bit of liquidity there. And so from time to time we'll find an opportunity that we think is too good to be true and, and so we'll add that to the portfolio. And then about 10% of what we do is invest directly in to later-stage companies that these managers have formed over their history and, and we have an opportunity to put money to work at what we think is interesting prices and interesting companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10032,
+      "timestamps": []
+    },
+    {
+      "end": 11017,
+      "excerpt": "Gopi Rangan: You've been an investor in many old established VC firms like CRV, Battery, and Accel and many others, and the new generation of VC firms like Haystack and B Capital and many others like that. You've seen the history play out over the past couple of decades perhaps. Why is it difficult to evaluate VC firms?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10696,
+      "timestamps": []
+    },
+    {
+      "end": 11389,
+      "excerpt": "David York: I think the hardest part about buying venture capital funds is every time you spend time with a manager, you kind think it's the neatest thing since sliced bread, and then you meet another one and then it's like, \"wow, that was neat too.\" And every once in a while you meet one that isn't quite so neat, and obviously, that's something you shouldn't pursue. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 11019,
+      "timestamps": []
+    },
+    {
+      "end": 12023,
+      "excerpt": "In general, venture capitalists are great salesmen. So, if you're just getting started in this business, you wanna spend your time meeting a lot of people and meeting a lot of managers and getting a very good feel for where you wanna put your money to work. That takes time. It also takes what I call just pattern recognition. We see 400 to 500 managers a year. For instance, I've already seen two today, and so it's part of our business to meet with managers. And then our other part of our business is to sort out who we think is differentiated and that differentiation is the hard and tricky bit, if you will, in venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11391,
+      "timestamps": []
+    },
+    {
+      "end": 12578,
+      "excerpt": "A branded firm could sound really interesting and very sexy to invest in but if you aren't spending a lot of time in this ecosystem, you might not know that maybe the partner that was probably the driver of a lot of their success is retiring, or the two managing partners are frankly gonna divorce and there's going to be some problems within the partnership. Or, frankly, their strategies changing and what they did in the past isn't really what they're gonna do going forward. If you're not inside the ecosystem like we are, it's hard to pick that up.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12025,
+      "timestamps": []
+    },
+    {
+      "end": 12865,
+      "excerpt": "What I find with new investors is they tend to chase brands and what I would call popular names, and they don't necessarily know all of the ins and outs of those actual franchises the way we do. So some of the firms that were popular aren't necessarily gonna be popular going forward. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12580,
+      "timestamps": []
+    },
+    {
+      "end": 13060,
+      "excerpt": "Gopi Rangan: What questions do you ask them? I see that it's not a straightforward, easy process. Yeah, it's quite involved. So what happens in the first set of meetings? What do you look for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12867,
+      "timestamps": []
+    },
+    {
+      "end": 13374,
+      "excerpt": "David York: Well, because we are very familiar with the asset class and also typically the people we meet with, what we're really trying to get our head around with a new offering is: the fund strategy, the firm's track record - either individuals or the firm itself - and then how track record + strategy marry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 13062,
+      "timestamps": []
+    },
+    {
+      "end": 13883,
+      "excerpt": "If both are very exciting, then we'll spend a lot of time sort of back channeling through our ecosystem and our networks on whether this is a credible opportunity or not. That includes spending time with entrepreneurs, spending time with our co-investors with that firm, spending times with limited partners. These are all done via reference calls and the like and this is all of the soft part of our business. We'll do 10 to 100 of those types of calls to try and get to a conclusion about what's going on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13376,
+      "timestamps": []
+    },
+    {
+      "end": 14251,
+      "excerpt": "What happens over time is you develop a reputation in the industry in a way that you're really being very picky on who you talk to, and they're being very picky on what they tell you. But the information flow there is at the highest level and therefore decision making becomes a lot easier and cleaner as it relates to sponsoring a fund versus not sponsoring a fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13885,
+      "timestamps": []
+    },
+    {
+      "end": 14358,
+      "excerpt": "Gopi Rangan: It sounds quite daunting, like 10 to 100 phone calls and reference checks before you decide.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14253,
+      "timestamps": []
+    },
+    {
+      "end": 14740,
+      "excerpt": "David York: You iterate. So think about dropping a pebble in the pond and the rings that it creates. So you kinda start on the inside and work your way out. But for every call there potentially is two or three more calls, and so you're trying to sort of exhaust those rings in a way that you have a very good view as to who you're sponsoring and how they will conduct themselves. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 14360,
+      "timestamps": []
+    },
+    {
+      "end": 15039,
+      "excerpt": "The other thing about venture capital people don't quite understand because they think, \"oh gosh! The performance is so good over there. Let's go put some money to work. It's a 10 to 15 year hold, and so you really have to find somebody that you think you can trust for that long a period of time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14742,
+      "timestamps": []
+    },
+    {
+      "end": 15496,
+      "excerpt": "What I tell our managers is that if we commit to you, you know, think of this as a lifetime relationship because if we do one fund, we'll probably do three funds. And if you stack each fund up, that's 30 years. So yes, it's longer than most people's careers. So we spend a lot of time really making sure we have the people piece right. And that's been interesting to watch change over time as we get involved with individuals being solo GPs and the like. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15041,
+      "timestamps": []
+    },
+    {
+      "end": 15706,
+      "excerpt": "Gopi Rangan: The relationship between a founder and a VC is already long, and the relationship between a VC and a limited partner is way longer, like you said. Yeah. It goes up to 30 years and perhaps longer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15498,
+      "timestamps": []
+    },
+    {
+      "end": 16330,
+      "excerpt": "You mentioned strategy and track record. For a new firm that is starting. Well, if we were to reflect on the strategy for Andreessen Horowitz, we now know what is the strategy and it's constantly evolving, but we are able to understand. But for a new firm that is forming, the strategy is still very nascent and the track record is also very early stages. It's not fully developed. And by the time you wait for track record and strategy to mature, isn't it too late? And in the absence of a mature strategy and a well-developed track record, what can you evaluate in the early stages, especially fund one, two, and three? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15708,
+      "timestamps": []
+    },
+    {
+      "end": 17032,
+      "excerpt": "David York: So we do one to two first-time funds per year on average, I think. We do a lot of funds 3 and 4, and they're similar, but different. So, usually the first fund is friends and family. The second fund is sort of the angel network that you've co-invested with, and so they're very small pools of capital and they help you essentially learn your skills. So as you start Gopi Partners, let's say for instance, you're gonna convince your wife that you're gonna go do this and explain to her cuz you've been doing it on the side for a while and now it's working. So, she's agreed to let you do this for two years and you go out and you ask your friends to help and you end up raising $3 million.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 16332,
+      "timestamps": []
+    },
+    {
+      "end": 17457,
+      "excerpt": "And you build a portfolio, it's maybe 25 companies, and that is kinda the start of the journey. You realize that you never had enough money, you don't have enough ownership. You're trying to figure out how to get this to scale. One of your companies morphs, it goes from $10 million pre to $300 million pre, and so that little $3 million is now worth $11 million. So you're like, \"okay, I think I might to turn something.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17034,
+      "timestamps": []
+    },
+    {
+      "end": 17747,
+      "excerpt": "So then you go to your angel network and you raise $10 million. That's fund 2. And you kind of repeat what you did with fund one, but now you have a little more ownership, a handful more companies. You can see that your selection ability and your network is really starting to bear fruit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17459,
+      "timestamps": []
+    },
+    {
+      "end": 18106,
+      "excerpt": "Then, fund three becomes your first institutional fund. And it varies on strategy. If you've decided, there's two of you now as opposed to one, but usually that fund is somewhere between $25 and $75 million. And some people get those things raised very fast because they have a great pedigree and they know a lot of people and some it takes a bunch of time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17749,
+      "timestamps": []
+    },
+    {
+      "end": 18492,
+      "excerpt": "But in that case, that first institution fund is for us, kind of our fund one in that relationship. And we've done that. We did that with Initialize. We did that with Bold Start. We've done it with a bunch of people, and it's been where we've been able to help them institutionalize their firm, but also help them get in front of the right investor base and a variety of other things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18108,
+      "timestamps": []
+    },
+    {
+      "end": 18826,
+      "excerpt": "We rely on your network through those reference calls. We call the entrepreneurs, we also call people in your network. We also rely on your investment ability with those first two funds as it relates to the strategies of fund three. Getting back to my earlier comment about strategy and and performance marry up for future activity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18494,
+      "timestamps": []
+    },
+    {
+      "end": 19301,
+      "excerpt": "So that's that fund three scenario. You know, three to four. Sometimes it's not. So fund three is not, you're gone for 25, you go to. 45 and that's a bigger, you know, re-up with friends and family. And then finally you raise an institutional fund. But it just varies. It's in that zip code usually where people start to look to raise institutional capital and decide they wanna make a lifestyle decision to be an investor as opposed to entrepreneur or something like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18828,
+      "timestamps": []
+    },
+    {
+      "end": 20004,
+      "excerpt": "With fund one programs, usually that individual has some prior relationship with us and certainly some prior track record. So we've done three recent fund ones where we knew the entrepreneur or the individual from our relationships with the firm that he used to work at, or investment activity that he was involved with. So, there's some track record that marries up with this individual and this individual is demonstrated to us over a period of time because of our prior history with them, that they're more than capable of building an institutional firm. Wesley Chan is a person that we helped early on, although we're not a meaningful part of his fund, we're certainly a big fan of what he's done.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19303,
+      "timestamps": []
+    },
+    {
+      "end": 20618,
+      "excerpt": "Steve Jang and Kanyi Maqubela at Kindred, or another group that we helped recently, way back in the day, I, you know, John, John Callahan and Phil Black and I, which they referred to me by somebody I trusted and we got to know each other and we helped True Ventures get off the ground. So it's something that we're pretty proud of some of the managers that we've helped and how they've evolved and it's usually has some pedigree of track record relationship before we commit capital, either by friends and family funds to turn into something and or personal relationships that'll evolve into actual institutions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20006,
+      "timestamps": []
+    },
+    {
+      "end": 20779,
+      "excerpt": "Gopi Rangan: Thank you for that deeply insightful response. There's a lot of information there that, how you think about this, how you think about the market. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20620,
+      "timestamps": []
+    },
+    {
+      "end": 21606,
+      "excerpt": "David York: Yeah. And for those people in your audience that want to start a venture fund. It's a journey. It took me 23 months to raise our first institutional fund for Top Tier. Now this was during the internet bubble's bursting. My first week on the road was September 11th in 2001. Ouch. We finished, we finished the fundraise. Now I had the benefit of Phil Paul and Paul Capital is a firm to stand behind. But the point is that all of us go through this journey of fundraising and if it comes too easy, then you haven't really experienced what it means to be an institutional investor. Because there's a grinder in there someplace where you question your abilities and, and the like. And so you just gotta keep pushing if you really believe. And that's really what converts investors is that belief and that conviction. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 20781,
+      "timestamps": []
+    },
+    {
+      "end": 22201,
+      "excerpt": "Gopi Rangan: So it's a very long journey. In that journey, the first fund, second fund, and third fund are more like proving that it works, the strategies in place, and the GPs commit that I actually like what I'm doing and this is what I wanna do for the rest of my life. Along the way, many GPs might give up or change their course and do something else in their career. Once that is passed, by the time they get to fund 3, 4, 5, they are ready to institutionalize their LP base. They bring. Institutional piece, like foundation, endowments and fund of funds, that is the sweet spot for you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21608,
+      "timestamps": []
+    },
+    {
+      "end": 22508,
+      "excerpt": "Although you do invest in fund one and two sometimes when there's strong signals that they came from another place with a strong track record or no references, or if you knew the GP earlier. Otherwise fund 3, 4, 5 would be the best time for Top Tier to invest. What's the role of fund of funds these days?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22203,
+      "timestamps": []
+    },
+    {
+      "end": 22862,
+      "excerpt": "What I have seen is in the 1990s and early 2000s, fund of funds played a very big role in the creation of VC firms. 80% of the capital for first fund, second fund came from fund of funds. But now that's a very small portion of the total capital base for a new fund. Family offices are playing a more important role, and they're going direct into funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22510,
+      "timestamps": []
+    },
+    {
+      "end": 22923,
+      "excerpt": "How do you see fund of funds playing in today's ecosystem? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22864,
+      "timestamps": []
+    },
+    {
+      "end": 23195,
+      "excerpt": "David York: Well, venture happens to be one of the few marketplaces where actually fund to fund strategy as economic value beyond trying to do it yourself. And the reason for that is that the market, like you talked about earlier, we've been describing is pretty opaque.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 22925,
+      "timestamps": []
+    },
+    {
+      "end": 23593,
+      "excerpt": "And so what we try to do is build a basket of managers that outperforms the benchmarks during the period that it was invested by a margin of 300 basis points. And we figured if we do that, then our. Essentially our overhead for the additional fees we charge for building that basket becomes more than justified because it relieves you the ability to do it on your own as well as the distraction. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23197,
+      "timestamps": []
+    },
+    {
+      "end": 24375,
+      "excerpt": "One of the rules of thumb that people say about private equities, it's 5% of my portfolio, 50% of my workload and 90% of my headache. And venture is kind of that on steroids because, especially if you're a large institution, because most institutions run their private equity portfolios with a handful of people. Venture portfolio itself takes a handful of people. And inside those institutions, they don't have the economics to support having a handful of people on venture and a handful of people on private equity. So they typically decide early on how they wanna divide and conquer. And a lot of times, because of their check writing ability, they actually decide venture capital is one of the areas that they'd rather outsource to an expert versus trying to do it themselves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23595,
+      "timestamps": []
+    },
+    {
+      "end": 24732,
+      "excerpt": "They figured the cost benefit is much greater to outsource than do it themselves. So, I kind of believe venture capital and especially our part of the venture capital ecosystem will continue to thrive, especially with all the managers that continue to come out and try and get started. We also think venture capital is a growing activity around the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24377,
+      "timestamps": []
+    },
+    {
+      "end": 24937,
+      "excerpt": "And so we see an opportunity to continue to apply our craft, if you will, to other parts of the world in which was the motivation that we had to set up business in Europe about four and a half years ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24734,
+      "timestamps": []
+    },
+    {
+      "end": 25281,
+      "excerpt": "Gopi Rangan: Now, VCs, as they progress in their profession, they get better at selling. So it becomes harder and harder to evaluate when the sales pitch is so good. It's better to trust a fund of funds and buy a basket of funds versus trying to pick one fund at a time. Do you regret not investing in a fund? Have you missed an opportunity? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24939,
+      "timestamps": []
+    },
+    {
+      "end": 25558,
+      "excerpt": "David York: Yeah, all the time. It's not, it's not uncommon. And you know, sometimes it's because you have silly rules internally or you just don't sync up, one thing leads to another and the fund gets raised without you. You know you should have been there and you weren't. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 25283,
+      "timestamps": []
+    },
+    {
+      "end": 25953,
+      "excerpt": "Or, the team that you started with isn't the team that actually drove the outcome. And by the time that's obvious, they're in funds three or four. And, and that ship has kind of sailed. And we've had that happen in a number of times. We have a saying, which we copied from Bondurant French at Adam Street, which is, \"you can't do every great deal, but every deal you've gotta do must be good.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25560,
+      "timestamps": []
+    },
+    {
+      "end": 26065,
+      "excerpt": "So if you're around the hoop enough and take that approach, you're gonna end up with a pretty good portfolio. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25955,
+      "timestamps": []
+    },
+    {
+      "end": 26427,
+      "excerpt": "Gopi Rangan: I want to ask more about this because this is such an important topic. As a VC, I look at so many companies and I, every time I say no, I worry that, am I missing out on the next big thing? What do you do when you do that, when you feel like you missed out on the opportunity? Do you stay in touch with them and try to get back into the next fund?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26067,
+      "timestamps": []
+    },
+    {
+      "end": 26686,
+      "excerpt": "David York: Well, we, we always think of no as really not now. And so I carry that little, little mantra when I raise money and somebody tells me no, I say \"that means not now.\" I also think the same thing with our managers and the people we meet every day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 26429,
+      "timestamps": []
+    },
+    {
+      "end": 27426,
+      "excerpt": "When we started the business back in 2000, we really thought that, There was a schism between capital and essentially business building, which is funds managers building a business or me building our fund of funds business. And so I took the approach. We had two class customers. We had a customer, which was our investor, and so investor customers, and one. Then we had investment customers, which were our managers, and we came up with kind of service equations for both those. Those clients and tried to execute on that consistently over time, early on and after the internet bubble burst. Most of the venture firms never really had the experience fundraising before because of how the internet bubble was working through the nineties.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26688,
+      "timestamps": []
+    },
+    {
+      "end": 27868,
+      "excerpt": "You know, if you put a shingle out and said you were a venture capitalist, you could raise money. And so we spent a lot of time in the early two thousands helping our managers learn how to raise money and how what it took to raise capital and what it took to fill out a due diligence questionnaire and the right spreadsheets on track record and those sorts of things. That became part of our mantra as we worked with managers going forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27428,
+      "timestamps": []
+    },
+    {
+      "end": 28223,
+      "excerpt": "We've been consistently involved in helping our managers and their capital formation and organizing their term sheets and the like. As far as their LPs are concerned, we're constantly helping them with market analysis and markets and those sorts of things and trying to essentially earn our trust with them in a way that we can ultimately land a client.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27870,
+      "timestamps": []
+    },
+    {
+      "end": 28564,
+      "excerpt": "We just recently won a mandate from a large public pension fund here in the US and I think there's a handful of us here that have worked on that account over the years and helped us build a, a relationship and amount of respect internally there that it became basically work to win the account as opposed to frustrating, miserable process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28225,
+      "timestamps": []
+    },
+    {
+      "end": 28757,
+      "excerpt": "But it just takes time. And we look at both as two client equations. I can tell you every manager that we don't reup with, we hope to have an opportunity to do so in the future or invest in. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28566,
+      "timestamps": []
+    },
+    {
+      "end": 29231,
+      "excerpt": "Gopi Rangan: You're in the middle between limited partners and VCs, and you're constantly building relationships with people on both sides. Yeah. So a no, it means not now. It's not a no forever. You are in a very, very critical position in capital formation. When you say yes, a lot of the good things happen. But over the past few decades, the venture ecosystem has evolved. Now there are solo GPs, there are sector-focused funds, and there are new geographies evolving.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28759,
+      "timestamps": []
+    },
+    {
+      "end": 29293,
+      "excerpt": "What are you excited about and what are you cautious about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29233,
+      "timestamps": []
+    },
+    {
+      "end": 30323,
+      "excerpt": "David York: So, I'll talk about the macro situation first. Cause what we saw with the internet bubble and we saw with the global financial crisis was coming outta the back of those two events. There was a new technology cycle forming and both were material investment opportunities. It wasn't as obvious with the internet bubble, but that really created social media and a lot of the social, sort of web two companies. The iPhone helped with creating businesses on a phone, which was kinda an extension of the web two companies. With the global financial crisis, we experienced the start of really the march towards open source software and SaaS and the cloud with the enterprises, as the enterprise essentially converted to where social media was, and both those things were great investment opportunities. The other thing that happened through both those periods is bandwidth became really ubiquitous in a way that that's facilitated those things. Today, what's happened is we've had a really radically quick price correction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 29295,
+      "timestamps": []
+    },
+    {
+      "end": 30644,
+      "excerpt": "If you think about where pricing is today versus where they were even a year ago. I mean, I, if you look at. The internet bubble took us about three years to get a similar price sort of price correction into portfolios that we have today. It's happened at about half the time. It took after the global financial crisis.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30325,
+      "timestamps": []
+    },
+    {
+      "end": 31087,
+      "excerpt": "So we've had this really quick price correction, and then we've had the start of some really, uh, material technology trends around artificial intelligence and machine learning as well as the blockchain. And so I think both those things are gonna radically change our lives in a lot of ways across major pieces of GDP, both domestically as well as globally. And a lot of that innovation is going to happen at the venture capital workstation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30646,
+      "timestamps": []
+    },
+    {
+      "end": 31815,
+      "excerpt": "So we're excited about the investment opportunity in front of us because of that. As far as how it's manifesting itself, what usually happens in corrections is you have kind of a reversion to the mean about where the source of truth is. And so I still think the major technology hubs benefit, but they're not just Silicon Valley. They're Silicon Valley, they're London because of FinTech. They're Tel Aviv because of cybersecurity. They're, you know, Asia is kind of a little bit confused because of what's going on in China, but I do think Singapore's gonna benefit enormously because of what's going on in China, and then countries like Korea and Japan actually have an opportunity again because of what's going on in China.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31089,
+      "timestamps": []
+    },
+    {
+      "end": 31980,
+      "excerpt": "So we think globalization of technology is upon us and we also think there's some material changes coming in a way that's great. Time to be putting money to work. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31817,
+      "timestamps": []
+    },
+    {
+      "end": 32112,
+      "excerpt": "Gopi Rangan: So if you were to change one thing about the venture capital ecosystem to make it better, what would you want to do? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31982,
+      "timestamps": []
+    },
+    {
+      "end": 32220,
+      "excerpt": "David York: It's a great question. I always have like three or four of these things every once in a while.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 32114,
+      "timestamps": []
+    },
+    {
+      "end": 32689,
+      "excerpt": "You know, I, I do think that we still need to figure out a mouse trap for structure about access to the venture space. And like I said earlier, AngelList has done a great job giving individuals access to companies and syndicates and skilled investors on an individual level. Institutions are kind of set in their ways around a limited partnership agreement, and I don't have a solution for that, but because if you, if you sort of peel back the onion there, it works.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32222,
+      "timestamps": []
+    },
+    {
+      "end": 33162,
+      "excerpt": "Across a lot of asset classes in a way that it's hard to change one for the other because our, the same limited partnership structures used in all kinds of industries, from oil and gas to infrastructure to buyouts and and the like. And so I do think just for what it's worth, that liquidity is becoming a lot less of a burden in the venture ecosystem because of secondary transactions that are available both, uh, at the company level as well as at the partnership level.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32691,
+      "timestamps": []
+    },
+    {
+      "end": 33533,
+      "excerpt": "And so that whole. The ecosystem is continuing to mature in a way that I suspect will have a very active gray market, very similar to what they have in Taiwan around private companies. It'll take some time and it'll be people that are super smart in that ca in category and some people that aren't. But I do think that it's gonna be, continue to be a bigger and bigger.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33164,
+      "timestamps": []
+    },
+    {
+      "end": 33822,
+      "excerpt": "Part of our ecosystem. So it kinda takes some of the taint off of limited partnership structure. So I, I haven't, I don't, I haven't really given you any sort of solid answer, but it, it's, those are some of the things that are going on that I think about as it relates to our business. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33535,
+      "timestamps": []
+    },
+    {
+      "end": 33954,
+      "excerpt": "Gopi Rangan: Yeah. As the cycle of innovation extends what used to 5, 6, 7 year cycle for a company from go from beginning to IPO.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33824,
+      "timestamps": []
+    },
+    {
+      "end": 34274,
+      "excerpt": "Now that has stretched out and companies stay private longer and longer. Series A used to be the first round, now it's like the fourth or fifth round of funding. So in the beginning stage it's already extended. And at the end stage, since companies don't go IPO; they stay private, that we have thousand plus unicorns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33956,
+      "timestamps": []
+    },
+    {
+      "end": 34613,
+      "excerpt": "David York: Wall Street has become a riskless place. A lot of that's been because of the ETFs of the world and those sorts of things, but it used to be companies could use public markets to finance their growth, and now they basically use them to finance their liquidity. And so that growth component is now moved to the private markets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 34276,
+      "timestamps": []
+    },
+    {
+      "end": 35231,
+      "excerpt": "Yeah, and that's the really the what's facilitated, the reason for these longer hold periods. I think a lot of that's regulation. I think a lot of it's tort law, and I think it's a lot of it is just, um, the riskless approach to life that the accountants and, and the bankers and lawyers have taken on as have tried to avoid tort law. So, it is byproduct of the market. Usually when markets get a little bit more liquid, people take a little more risks. That's why we saw so many IPOs over the last four or five years, and that led us to the SPAC market and a variety of other things, but they sort of self correct. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34615,
+      "timestamps": []
+    },
+    {
+      "end": 35472,
+      "excerpt": "So, getting back to my earlier comment about secondaries, I do think that gray market becomes a thing and it continues to get more and more prolific, especially as the mutual fund complexes get more comfortable with holding private assets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35233,
+      "timestamps": []
+    },
+    {
+      "end": 35780,
+      "excerpt": "Most of the mutual fund companies today have changed their threshold for private market exposure from 5% to somewhere between 10 and 15 and, and so I do think that ecosystem is gonna continue to kinda grow and become more commonplace. And so you'll have private desks doing investments inside mutual funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35474,
+      "timestamps": []
+    },
+    {
+      "end": 36040,
+      "excerpt": "A lot of the bigger ones already do that, but I just think that's gonna become more commonplace and it'll allow for this sort of private IPO activity that has gone on in the growth space to continue. That's really the material change over the last 20 years. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35782,
+      "timestamps": []
+    },
+    {
+      "end": 36144,
+      "excerpt": "Gopi Rangan: Venture capital will become a more and more attractive asset class as with that happens, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 36042,
+      "timestamps": []
+    },
+    {
+      "end": 36390,
+      "excerpt": "David York: I think liquidity will become a little bit more reliable and then investors will become a little bit more comfortable with the whole cause of the reliability of liquidity and that will. That will attract capital to the asset class. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 36146,
+      "timestamps": []
+    },
+    {
+      "end": 36912,
+      "excerpt": "The one thing that's different coming out the global financial crisis was that all investments were sort of level set and everything got reset at zero and venture therefore going forward became really the best performing equity asset class available. Because of that performance and then the institutionalization of it based on the things I mentioned earlier around liquidity, is that I think that will become a common allocation in asset allocation models in a way that it had gone away after the internet bubble burst.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36392,
+      "timestamps": []
+    },
+    {
+      "end": 37170,
+      "excerpt": "So, again, I do think capital's here to stay. It's not gonna go up and down as much as it has in the past, and it's gonna be more global and there are gonna be successful firms all over the world because of the liquidity profiling change in the ecosystem. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36914,
+      "timestamps": []
+    },
+    {
+      "end": 37270,
+      "excerpt": "Gopi Rangan: David, we're coming towards the end of our conversation and I have one last question.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37172,
+      "timestamps": []
+    },
+    {
+      "end": 37412,
+      "excerpt": "Do you have a nonprofit you are excited about? What about your community activity? How do you spend your time supporting local communities? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37272,
+      "timestamps": []
+    },
+    {
+      "end": 37871,
+      "excerpt": "David York: So I'm at the other end of Venture Capital with a firm called NESsT. It's a venture capital firm focused on the underserved in third world countries, and you can find it on my LinkedIn, but we have a couple of microloan programs. We help basically eastern European communities, primarily in Poland and Hungary, but recently have done some stuff in the Ukraine as well as people communities in South America, from Peru all the way down to Brazil.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 37414,
+      "timestamps": []
+    },
+    {
+      "end": 38165,
+      "excerpt": "Most of it's really around grants, but it's been fun to be involved with and watching the enthusiasm and success of entrepreneurs in those small towns and trying to start companies and employ people of minority descent and those sorts of things. And so it's been fun to be involved with that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37873,
+      "timestamps": []
+    },
+    {
+      "end": 38456,
+      "excerpt": "Gopi Rangan: David, thank you very much for spending time with me, sharing a lot of your wisdom, your practical experiences, managing investments at Top Tier, working directly with some of the leaders in the VC ecosystem. You've shared a lot of specific examples based on your experiences.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 38167,
+      "timestamps": []
+    },
+    {
+      "end": 38523,
+      "excerpt": "I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38458,
+      "timestamps": []
+    },
+    {
+      "end": 38612,
+      "excerpt": "David York: Thank you. Pleasure and it's great to see you again, Gopi. Thanks so much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David York",
+      "start": 38525,
+      "timestamps": []
+    },
+    {
+      "end": 38789,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 38614,
+      "timestamps": []
+    },
+    {
+      "end": 38956,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38791,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "4a47e42fb65122981e945a7b2f4c2794f52a5eec15e742520ccf85d68da3287a",
+  "text_sha256": "43b4ca6ff6b8dd98d0a2fe94908358a92c6fa718475162dd7d15176dcbd439cc"
+}

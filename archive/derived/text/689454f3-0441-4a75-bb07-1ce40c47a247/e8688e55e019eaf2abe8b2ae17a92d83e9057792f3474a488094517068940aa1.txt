@@ -1,0 +1,198 @@
+Julian Teicke: [00:00:00] The limitations of the seal are the limitations off your startup. And if you, as a CEO, don't work on resolving your own personal limitations, invest in yourself and really grow personally. And that's tough. It's hard, it's painful, but if you don't do it, you're limiting the potential. Success of your organization.
+
+Gopi Rangan: You are listening to the Sure shot entrepreneur podcast for founders, with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the sure shot entrepreneur today's guest is Julian Taika. He's the founder and CEO of we Fox and insure [00:01:00] tech company based in Germany.
+
+Julian, welcome to the short shot entrepreneur.
+
+Tell us about yourself, starting with your childhood and your German heritage. 
+
+Julian Teicke: I was born in Berlin to an American born mother. Actually, my mom was born in San Francisco and to German father and, um, my father has been an attorney. He's an entrepreneur herself. I quickly realized that I don't want to have anything to do with insurance ever, ever in my life.
+
+And the reason for that was so my mom's family, the American side of my family, most of them are pilots. Every time we were at these family parties, my uncle was standing there telling my family about these passionate stories about flying, and everybody was just glued to his lips and just was so fascinated by it.
+
+Then I saw my dad. Sitting there. And everybody was scared that he would sell them something. Right. I was like, okay. Insurance is not cool. Sign this. Cool. So I [00:02:00] was like, okay. Insurance is probably not for me, but when I went to university and realized, yeah, I do want to become an entrepreneur myself. I said, I want to launch businesses in areas where I can actually have an impact on many, many people's lives.
+
+With technology really, really fast. So I went into e-commerce. We build a company called Diane deal in Switzerland, which quickly became the fast growing startup of the country. Still today is one of the biggest e-commerce players. We sold it in 2015, just in the process of selling that business. We were thinking about, okay, what's going to be next.
+
+What's going to be the next business. And we knew we want to build something global. We want to build something more complex. And my co-founder one day approached me and said, Hey, we should do something in insurance. 2015, there was the term InsureTech didn't exist yet. There were a couple of like first models in Europe and model like it, for [00:03:00] example, we started by one of our former employees actually off our first startup and we saw these developments and he was like, we should get into insurance.
+
+It's huge. I was like, no, I'm not going to do anything with insurance. My dad has been in insurance. I actively decided not to go into insurance. And it was like, Hey, can you do me just one favor on Friday, this, this guy coming in who made a lot of money with them? And let's just sit with them for like half an hour and see how technology can impact insurance and disrupt insurance going forward.
+
+And let's make it a bit of a brainstorming. So I said, okay, half an hour away. On Friday Bulla comes into the office and we actually just have a tips out. We just exchanged ideas and all of a sudden Bulla says I'm in and Davi with my co-founder. He's a great sales guy was like, all right. 300 K for 10%.
+
+But one was like, I want more than 10%. I was like, that's the last offer? So they shook hands. I want all of the room. I was like, that'd be, what did you. And he was like, Hey, we just started a company. I was like, Hey, I didn't want [00:04:00] anything to do with insurance. So basically the way I interpreted the story is insurance is my destiny.
+
+I did not choose insurance insurance chose me, essentially. I really, I had to become passionate about it because I cannot do anything in life without really being passionate about it. And it was. Passionate about insurance at all. I really went down to pretty tough, like personal reflection journey on figuring out, okay, what is it that could get me excited about insurance?
+
+All of the associations I have with it are negative. There's just very few things that are actually positive. I made this pro and con list of basically saying what a positive associations, negative associations and the negative was around three times longer than the positive. It was about. Complexity was about inconvenience was about intransparent to the customer.
+
+Then on the positive there wasn't this term safety. I went on this journey of just figuring [00:05:00] out, okay, what does this abstract term safety actually mean? I met a couple of great people. One guy from a church organization called salmon. What they did was they provided support for families that had terrible, terrible tragedies happening in their life.
+
+And didn't have insurance. They supported them as if they were insured. I saw this one video about the Pickford family, uh, of a guy in his forties. One day, just having a brainstem stroke and going to the hospital. The doctor's telling his wife, we're going to have to turn off the life support machines.
+
+Your, your husband is never, ever going to make it. He's never going to have a beautiful life again. She said, no, I want him to live. The guy actually was the support of this charity organization fought his way back into life. Yes. It had a huge impact on the two of them, but I thought this video was so beautiful because the wife was talking about how now he's [00:06:00] he started to work again.
+
+How their relationship is starting to improve in quality and how they are planning to get married again, 10 years after the first marriage that just created so many emotions in me, where I just said, wow, this is such a beautiful product. It gives you back life. It gives you back health. It gives you back stability.
+
+It makes life worth living. I started building this vision around how technology can actually make people. Feel safe and be safe. How with a technology business. We could get the core of insurance, which is safety because this complexity, transparency, and convenience, this is all just stuff that was created because of the business model of insurance in the capitalistic world.
+
+It's not the core of insurance. The core of insurance is this beautiful term. This is really how I started getting excited around us, building a [00:07:00] vision on how we can put safety at the core of insurance. Again, using technology. This has been the starting point for we folks. We've been on the journey now for six years.
+
+Almost what we've done so far is essentially turned insurance from the very complex paper-based process into still a complex because it's insurance. But digital customer friendly process. And it's still not what I set out to do. It's much better. I would say what we've done so far is we made insurance suck a little bit less, but now with the size that we've created, so we're more than 600 employees.
+
+Additionally more than 700 salespeople. We're more than a hundred, a hundred million in revenues were growing very fast. We have great investors. So, and all with the size that we've created, actually we can really start acting on our vision, which is essentially preventing 30% of all of the bad things from happening in the world.
+
+[00:08:00] This makes me extremely excited and I'm, I was thrown into this adventure unwillingly, but I'm very happy that I now am disrupting insurance.
+
+Gopi Rangan:   Well, it's a very touching story. Insurance is indeed a noble industry, but it's very unsexy, uh, dinner table conversations. It's not something that people want to talk about.
+
+So how has it changed for you now if you bring up the Fox, are people interested in listening?
+
+Julian Teicke: I mean, it's not the most exciting topic still. Once we talk about what we're going to do, which is essentially become a life coach and tell people stories. For example, how me and my wife, just before the pandemic, we were in Cape town, South Africa, and we were meeting friends in a restaurant.
+
+We look at Google maps and we said, okay, we can walk. We started walking through really, really dodgy neighborhoods and we arrived. At the restaurant and the friend said, okay, how, how did you arrive? We said, we went by foot from there [00:09:00] to there. And they were like, all right, you went through the neighborhood that has the highest crime rates in the entire country, um, that you're here in life and not harmed.
+
+It's actually almost a wonder when I say these are the situations that we can prevent it with technology, because it would be so unnecessary. For you to actually be heard in such a situation, maybe suffer your entire life from it and we can prevent this. Then people can relate to it. They think it's going to become a significantly more important product in their life than it is today.
+
+Gopi Rangan: Yeah. This is a very deeply insightful story and there's a lot of personal reflection I see in your message, but I want to go back to that meeting the first meeting where you had a 30 minute brainstorming session, you got your first building. What was the message you discussed during that time and what got that first believer?
+
+Julian Teicke: I don't know if that's the best example, because basically we had no idea. We had no plan, we had [00:10:00] nothing, right. We didn't even want to launch a business. So I don't think we need to get him off. Like you probably saw something in our ISO or something, but we were completely clueless. Not sure why the guy invested.
+
+I think it's the best investment in this life. I'm not sure why, why invest a week? We probably need to.
+
+Gopi Rangan: What role does your father play with the Fox? Was he excited when you first told him about the idea or did you win him over what happened there
+
+Julian Teicke: as an entrepreneur and why he isn't insurance? He's a very creative, energetic, inspirational guy.
+
+Of course he's been a huge inspiration growing up, learning on how to take risks when we have said, okay, we're actually. I'm starting a business that in your turf. Right. And I have no clue about the industry. I need your support. He was extremely helpful. He was supporting us with building up the business in Germany.
+
+The collaboration with him was a huge learning for me as an [00:11:00] entrepreneur, because. One day, somebody came to me and we were already maybe a hundred employees and said, Julian, I can feel your family dynamic in the most distant part of the company, everywhere in the company. We can feel the problems that you have maybe with your family or your dad stopped using the company.
+
+As an instrument to dissolve your family dynamics. And I was like, whoa, that's crazy. And it's so true. I, and my father, we've grown up together and obviously we have unresolved. What I realized is that I have used the company. We have taken the company hostage with resolving our problems. What I learned.
+
+Yeah. Um, essentially is really that the limitations of the seal are the limitations. Off your startup. If you, as a CEO, don't work on resolving your own personal limitations, [00:12:00] invest in yourself and really grow personally. That's tough. That's hard. It's painful, but if you don't do it, you're limiting the potential success of your organization.
+
+You are the limit of your own organization. And if I understood with that statement, we have separated. We said, okay, we're going to stop working together. I realized that in order to serve my company as a CEO in the best possible manner, I have to work on myself. I have to realize where am I taking the company hostage with my own limiting beliefs.
+
+I have to eliminate this limiting belief.
+
+Gopi Rangan: This is a very personal story. Thank you so much for sharing that. It is true that as an entrepreneur, when you have a good day, the company has a good day. When you have a bad day, that company has a bad day. They're both so closely intertwined with each other.
+
+It's a very important moment when you begin to start reflecting on your personal development, which eventually turns into goodness for the company who are some other [00:13:00] early believers in the company, how did you convince them?
+
+Julian Teicke: I was not the CEO at the very beginning of the company. I was the COO at my former company.
+
+I was the CEO really taking care of technology and operations. I never ever had any contact to investors. And when we started the company again, I was not responsible for the fundraising, our former CEO at the previous company. Was also supposed to become CEO and we focused and he was saying, okay, basically we already have the funding.
+
+You don't have to worry about it. And at one point we realized we don't have the funding. It's not coming, but we had already invested a lot, all money and time. And also he, wasn't a really tough spot in his life and we realized he needs a break. So I realized I have to step up and I have to jump into the cold water and essentially change the wheel on the driving car and, and learn how to become a fundraiser or a company that's already, I don't know, 30, 40 people with cashflow every month [00:14:00] and, and really being under pressure to learn how to fundraising.
+
+I went out there. No network, no contact. I just reach out to hundreds and hundreds of investors. I have dozens of dozens of pitches and I received terrible feedback, really, really, really terrible feedback that was thrown out of the offices. It was very bad and it was very painful. Really. Essentially the company was about to go bust because it was so bad in front of me.
+
+Now that I think of it. It's a very similar story to how we got the initial 300 K, right. Because I got an invitation from mark Benioff, the CEO and founder of Salesforce. Because I had my previous startup, I did a lot of marketing for Salesforce. That is a cool solution for startups and so forth. I guess he just wanted to say, thank you, was visiting Berlin.
+
+So he invited me and I didn't even think about fundraising. I just thought, oh, it's amazing to meet this guy. So it's not just me at this dinner was a couple of people and there was his introduction, right? And I introduced myself and I was like, [00:15:00] mark, I mean your Salesforce time, but I want to tell you one thing, essentially, the substance is going to shift faster than any of us anticipated from these old dinosaurs to young EDS out startups.
+
+In all industries, I checked the numbers and Salesforce is making more than 95% of their revenues with old diamonds. Almost none with startups and you're, you're not cool in the startup world. You're called an overpriced CRM system. You're not at the core of value creation in startups. If you don't manage to get to the core of value creation as startups, you're, you're going to die.
+
+Just like the Beatles. You looked at me and I was like, who's this guy, like, what is he talking about? And it was trying to say how Salesforce and startups collaborate. And, and I kept on like, are you with them in front of all people? He turned around and he was. Are you looking for funding? Like completely random.
+
+I was like, actually, yeah. [00:16:00] Yeah. Then he invited me over to San Francisco. He led our seed round Salesforce, not our seed round. Again, I came without the intention of fundraising without a plan without even talking about the bills. You just said you, I invest in you without knowing anything about you. Just very similar to that initial situation with the 300 K so quite a lot of similarities there.
+
+So I don't know, probably mark saw something in me and put a bet on us
+
+Gopi Rangan: statements, your vision, not just for your company, but vision for how the world will be. That really captured the attention of me. 
+
+Julian Teicke:  Now that I think of it as an investor myself. Yes. What you want is you want to have someone who is special.
+
+You want to have someone who maybe not really ordinary, who is passionate, who is inspirational and who has something. I know Masa has this great interview. Oh, [00:17:00] I decided in the first three minutes of meeting someone, whether I'm going to invest in them or not, I make base my decision on the sparkle in.
+
+Now that I think of it as an investor, that's really what I'm looking for. If I try to rationalize it, I guess it's really about the size of the vision and the addressable market. You never want to have spent time on, on something. I don't want to spend time with something that can become a winner in a, in a niche market.
+
+So I want a vision that is bigger than life. On the other side, I want the founder. Well, I get the feeling that no matter how hard it will get, he will not give up. So ultimate resilience. These are the two things that always that I'm kind of looking for.
+
+Gopi Rangan: This is an interesting twist to the other side of your story as an angel investor, what kind of companies do you invest in?
+
+What stages do you like to meet these entrepreneurs? How many investments do you make as an angel investor? [00:18:00] So I'm
+
+Julian Teicke: not a typical engine investor, to be honest. So what we started is we launched a founders academy where we say, we want to attract people that have big dreams and ultimately resilience. We want to prepare them for launching their own businesses.
+
+Then we said, okay, so the next 15 years, the world is going to change drastically much more than the last 15 years. So the global dominating company. In 15 years today, I'm not even founded yet. Just like the big companies are today. Most of them weren't founded 30 years ago. So what we really have is a green field and that's just look at the largest industries or the largest areas of human demand and let's build one business in each one of them was the aim to become the global dominating force in 15 years from.
+
+With a founder that has ultimate resilience. And if you look at the largest areas of [00:19:00] human demand, we can, you get a hundred dollars from your employer. Then you spend $50 on Texas to the state. On average, then you spent $17 on living at $12 on mobility, $7 on Poot, $5 on insurance, $4 on healthcare, two on services and 210.
+
+And of course I personally was we focused on the $5 area in the church. How does ensure that the shooter looked like, and I'm trying to pave the way for all of the other entrepreneurs following me, we started a business for the $100 already. It's how does, how does the global dominating player in terms of.
+
+How an employer operates, like look like in 15 years and that's a company called Kenzo for example, or we've launched a company for the $4 health. How does healthcare in 15 years look like? And what's the [00:20:00] global dominating force. And we launched a company called Dr. Lee, and we also have a company for the $50 texts.
+
+We have a company for the $17 million by now. So, and that's our investment hypothesis. So it's not like I look for deal flow. And then I have founders that have great ideas. It's much more week started. We started them together. We develop the founders, we developed ideas together. We developed the vision together, and then we go on the venture team.
+
+Gopi Rangan: What do you ask the founders in the first few meetings? What do you look for?
+
+Julian Teicke: Well, when we started the company, we know each other for probably a year. But what I'm most interested in is this ability to change your beliefs, to change your thoughts, to change your behavior. Based on personal reflection, I do that by throwing the people into high pressure situations, because in high pressure situations, you can't.[00:21:00]
+
+I see how they react and this is nothing configure out in like a meeting or so this is something that I figured out, okay. Or a long period of time does this person have what it takes for me to really the CEO is the most important, because again, he is the driving force, enabling the company to succeed, but also limiting the company from its own potential.
+
+And that's why I spent most time with that CEO really on. Figuring out his ability to engage on a personal growth journey.
+
+Gopi Rangan: Can you give him example of one such company? You mentioned Dr. Lee earlier, maybe some others as well, and kind of walk through how your engagement is with these entrepreneurs. At what point do you say yes.
+
+I want to invest in this.
+
+Julian Teicke: So again, I'm always a founding investor. So basically we have an academy and then I see talent. I spend time with them, then we say, all right, let's develop a business together. So with the [00:22:00] example of Kendra, for example, I know David the CEO for a long time and we decided, okay, We want to launch a business together.
+
+And David, I think is a great example. So I know him for quite some time. He was actually in my first startup and he is a developer and he arrived at dine deal and ti was quite introverted. But I saw that sparkle in his eye. So I was like, okay, so what I'm gonna do, and do we have the sales floor, right.
+
+With all of these aggressive salespeople that see bucks in our system and they want these bucks solved right. Really fast because it costs revenue, custom commission. So I'm going to put him in a help desk on the Salesforce, where he with a combine board is working on solving the bug. Right with the sales that are screaming at him aggressively, because that would [00:23:00] be something that really gets them out of his comfort zone.
+
+And he was open to do it. He was performing amazingly much better than I had anticipated. You could feel this really uncommitted. But he did it. These are the type of things where I'm like, all right, this is a seal potential, essentially, over the years, he wasn't the founder academy. We realized we want to start this together.
+
+Of course, we don't know what's going to come. What we know is that we're always going to stick together. That I'm always there for him. No matter what happens. We built a very, very close relationship among building a very, very close trust relationship with all of the CEOs that I'm investing in and supporting, they know.
+
+That they can be so out of their vulnerability. Um, to me, if you look at David, I mean, now he's very successful. The company is performing like crazy in the HR tech space and they are amongst the very hottest companies in [00:24:00] Europe. But I, I remember, I always invite all of the founders and students from the academy into my living room and I have the founders talk about their experiences to inspire the future.
+
+I remember this one afternoon in my living room where David was really pale. And he was saying to all of the people, if you want to destroy your life, if you don't want to have friends or any fun, You should become a founder. He was really at the lowest low of his career ever. Right. I had a couple of like future founders come to me afterwards.
+
+I don't think that's for me. I don't think I want him to come and fonder. Right. He was really scared. Right. And the guy was absolutely at this limit a few weeks later, he exploded. He went out there, he came to me and he was like, Hey, Julian. There's all of these investors that all of a sudden want to invest in my business.
+
+I didn't even go with, and now, because I just [00:25:00] gave them like a bridge financing because they were almost dying and I gave them a bridge financing, I think at 4 million pre or something, a few weeks later, he came to me and said, there's offers coming in for 13, 14, 15 million something happened. He had a breakthrough and these are the amazing stories.
+
+These are the amazing stories that everything can change from one second to the next. The founder, figuring out something about himself and lying on the floor, getting back up and fighting harder than ever before
+
+Gopi Rangan: you pushed him out of his comfort zone and you tested his capabilities and he came out of it with flying colors.
+
+I see.
+
+Julian Teicke: Yes. That's the most beautiful part.
+
+Gopi Rangan: It's very fulfilling to see that when you unleash potential in someone and it, it really blooms. Absolutely. That's what I like about venture capital and the work I do. I want to switch to another part of a conversation here. I usually ask about community involvement.
+
+So I'm going to ask you, is that, um, a nonprofit organization that you are passionate about and which one? [00:26:00]
+
+Julian Teicke: Yeah, one of the organizations I'm passionate about is the Jewish museum in Berlin. So I'm part of the board and the reason I do it is on the one side personal, but then on the other side also it's about shaping society and also defining kind of the role of our generation and the responsibility of our generation and playing a small part of that.
+
+Um, so the, the personal side is I have a strong connection to Israel. I'm not Jewish myself, but my wife, for example, she was born. And I have a lot of Jewish friends. We actually had some Jewish dances at my, at my wedding. Of course, I'm German and I have a grandfather was part or on the German side. And I think the topic of antisemitism is a very, very important topic, but it's much more a symptom of a much deeper problem.
+
+That I'm really interested [00:27:00] and concerned about, which essentially is that the speed of development, the speed of change through technology. Creates the need for people to have some type of stability, to have answers in a world where there are no answers because it's very chaotic in a world where we're no politician can truthfully stand in front of the citizens and say, In 10 years, you're going to be able to have the life that you've always dreamed of and that you're working for right.
+
+To not have this any longer creates a huge danger to society. And this danger is essentially that people. Are looking for very simple answers and scapegoats that they can essentially blame for their feelings of insecurity. And unstability are showing a picture of a Mexican. And saying, this guy [00:28:00] here is responsible for your negative feelings or showing the Jewish person or showing essentially anyone and giving a simple answer is a huge risk because it's just going to get it.
+
+It's just, just going to get worse over the next couple of years, things are going to change faster. Existing structures are dissolving much faster. The stability that people want and need in their life is disappearing. The rise of simple answers is going to increase. That creates a huge risk for these vulnerable groups.
+
+From my perspective, the biggest topic that our generation needs to focus on, we have climate change and the time of change, which is a huge and very urgent topic. And when we think about it and we already see patients of what this could mean, we're going to see more of them over the next couple of years.
+
+But really when we talk about wellness, it's really serious. It's going to be. In, in a few [00:29:00] decades to come, we can make a change now, but the impact is, is to be filled in a few decades from now. But when we look at the issue of threats post to society through the irrelevance or the feeling of irrelevance of the masses, because.
+
+Of development of technology. We're looking at it significant more imminent risk and very, very dangerous, not on many people's radars because technology will replace humans in the workforce. And work is a very, very, very important part of people's lives and purpose. The feeling of irrelevance. Is more dangerous than the feeling of exploitation.
+
+I don't know the answer, but I say that's the most urgent topic for our generation to work on. And that's why I'm trying to somehow with [00:30:00] my activities, in terms of social engagement, trying to figure out what is the root cause and how can we solve it? We don't have a lot of time.
+
+Gopi Rangan: Julian. This is a fascinating conversation.
+
+You've touched on so many important topics, starting with your own personal life, how you started building we Fox and the important topics that you are focusing on today for the future of the world. Thank you so much for spending time with me on this podcast and sharing your insights.
+
+Julian Teicke: Thank you.
+
+Gopi Rangan: Thank you for listening to the shore shot entrepreneur.
+
+I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. .
+
