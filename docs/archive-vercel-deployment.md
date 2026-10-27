@@ -2,7 +2,7 @@
 
 ## Current result — 27 October 2026
 
-The existing product is packaged and locally validated for Vercel. **No Vercel Preview or Production deployment has been created or verified.** The connected Vercel account cannot access its default team, `dynamic-coworking-spaces` (`team_iECvjYETHSUBFFUipyTSPula`); the API returns 403 and requires the account owner to approve team access. There is no project ID, project link, production URL or DNS change yet. The GitHub repository is **private**. Its visibility must remain unchanged.
+The existing product is packaged and locally validated for Vercel. **No Vercel Preview or Production deployment has been created or verified.** The connected Vercel account cannot access the user-selected team, `joegakere-8265` (`team_rq5ezpuosc6oqLCUk87wamZq`); the project API returns 403, and the team authorization endpoint returns 404 for both the resolved team ID and slug. The Vercel connection must use an identity with access to this team before project creation can continue. There is no project ID, project link, production URL or DNS change yet. The GitHub repository is **private**. Its visibility must remain unchanged.
 
 The scheduled workflow is not active until the reviewed archive baseline and workflows reach `main`. Do not share the localhost address as a public product URL. Cloud routing, protection settings, actual cold starts, production-domain assignment and runtime freshness credentials still require the account steps below.
 
@@ -83,10 +83,10 @@ A no-change run uploads success artifacts, creates no content commit, and skips 
 
 ## Vercel/GitHub setup and first release
 
-1. Approve the Vercel connector's team-access request for `dynamic-coworking-spaces`, or sign in locally with `npx vercel@65.4.0 login`. Do not paste credentials into chat.
+1. Use a Vercel connector identity with access to `joegakere-8265` (the current identity cannot obtain a team-access link), or sign in locally with `npx vercel@65.4.0 login`. Do not paste credentials into chat.
 2. Create/select a Vercel project such as `tsse-content-archive` in that team. Set Framework **Other**, root **repository root**, Python **3.12**, Build Command `python3 -B archive_deploy.py build`, Output Directory `public`. There is no install/build frontend framework. Connect `JoePodcasts/tsse-editorial-os` only if the team's GitHub app has permission to that private repository. Confirm the team's plan permits this private organization repository; do not change repository visibility to bypass a plan restriction.
 3. Set Vercel `ARCHIVE_STATUS_TOKEN` for Preview and Production as described above. Use the public production access setting required for public review; retain protection on Preview if desired, supplying an automation bypass secret to the deployment smoke check. Public access/protection and the project itself have not been changed by this task.
-4. Link the reviewed checkout using `npx vercel@65.4.0 link --scope dynamic-coworking-spaces --project tsse-content-archive`. Record the returned `orgId`/`projectId`; they are not credentials. Do not invent them.
+4. Link the reviewed checkout using `npx vercel@65.4.0 link --scope joegakere-8265 --project tsse-content-archive`. Record the returned `orgId`/`projectId`; they are not credentials. Do not invent them.
 5. Validate a Preview before production. With Python 3.12, Node 20.12+ and `uv==0.9.25` installed, run:
 
    ```sh
