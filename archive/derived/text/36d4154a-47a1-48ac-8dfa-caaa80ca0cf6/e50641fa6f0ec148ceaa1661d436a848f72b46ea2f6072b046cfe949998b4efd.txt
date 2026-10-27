@@ -1,0 +1,272 @@
+Homan Yuen: [00:00:00] I don't understand why some DCS play such a short game. I understand, , you got to get quick wins, but this is a long game. It's a small Valley. There's no need to, you still got me. I understand. You have to go got to know, work for your interests, but sometimes you can try to find solutions that are good for more than just yourself.
+
+That are good. Long-term.
+
+Gopi Rangan: You are listening to the Sure shot entrepreneur podcast, ask for founders with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the show shot entrepreneur. Today's guest is Homan UN he's a partner at fusion fund Silicon Valley based venture capital firm fusion fund invests in very [00:01:00] early stage entrepreneurs in many different industries.
+
+Focusing on industrial enterprise healthcare applications. The DNA of the firm is rooted in technology and the team members have entrepreneurial background themselves. Homan. Welcome to the show shot entrepreneur.
+
+Homan Yuen:  Well, very nice to be here and, and chat with you today.
+
+Gopi Rangan: In this episode, Homan talks about his experience as an entrepreneur, before he became a venture capital investor, he gives specific examples about qualities he looks for in entrepreneurs.
+
+And what are some things that gives him conviction to form a thesis around an investment. He also talks about the need for diversity and what we can do to invite more. Diverse venture capital investors and more diverse entrepreneurs into the ecosystem. Homan, tell us about yourself, starting with where you come from and how you came to Silicon Valley.
+
+Homan Yuen: Yeah. So my parents were [00:02:00] immigrants to the United States. They came from Hong Kong and ended up in Indiana. So I was born in the Midwest. I'm in Midwestern boy, born in Northwest Indiana. And know I spent about 10 years of my life there growing up , small farm town. Had a really good childhood there.
+
+And then we came West to California and then for undergrad, I went to Berkeley in physics and then went to Stanford across the Bay in engineering to get my PhD in both electrical engineering and material science. So very technical background and was really thinking about doing academia or research as a career for most of my life.
+
+And then , some small aspects of my PhD research in Stanford and ended up being really interesting to forests basket at NDA. And that was around the NetSuite that I was in this clean tech was hot. I was working with lasers, but the same material that you can make the laser out of. Can also be used as a solar cell.
+
+And so we had some demonstrated some interesting results, but at that point I was kind of thinking about graduating and all that fun stuff, [00:03:00] but he approached my PhD advisor, Jim Harris at Stanford, and asked if I was interested in starting a startup company. , as I mentioned earlier, I was pretty much thinking just research industry, things like that.
+
+Didn't really want to do a startup, , heard how hard it was, how hard it was to be a founder, how hard it was to, , just running your own company. And to be honest, just didn't want to do it. So I actually turned NDA down several times and I think that the forest stand others than you probably thought I had offers from some other VC firm when it was really just me not wanting to do it.
+
+But then, , I thought more about it. Like, Hey, , this is a great opportunity. I have a good technology. , it's a great time in my life to embark on something like this. So yeah, jumped right in co-founded the company with two other group mates from my research group and bitches sadness.
+
+And yeah, that was the start of a seven and a half to eight years since running solar junction. So we developed the world's most efficient solar cells broke several world workers and have those solar cells installed throughout the world, as well as on some satellites floating [00:04:00] around space. So that was a really.
+
+I think fun journey building the company up from just the three of us all the way up to one point 50 people raised a lot of money and then commercialized some prototypes, a technology that, , we worked on in grad school. So that was a really good experience. And then ended up selling the company to the sovereign wealth fund of Saudi Arabia in 2014, , Saudi Arabia has always been interested in technologies as well as solar and clean tech.
+
+And so that was a good exit for the company and investors and. Yeah. About a year later when the lockup was ending for us as founders, , one of my co-founders went to any one of my other co-founders went to coastline. , I was thinking about, , whether VC could be interesting as well, , have some good offers, some from some other VC firms.
+
+And when you a good friend losing who is the founder of. You should find, I've known her since 2010 and she herself had her own medical device startup while she was in Stanford. So she has started fusion fund. So I was in 15 [00:05:00] and , I'm usually what she was doing. And she, she said, Hey, , why don't you come over and help me out at future fund?
+
+Sorry, came over. And , that was. Six years ago. So I am a full-time partner at fusion fund and joined her full-time in late 15, early 16. So we're the two partners, a fusion fund. And, , a future fund looks at companies that have some sort of core technical and data differentiation in the business model and industrial enterprise and healthcare sectors.
+
+So as you can see from the day and age, both the facts. Lou. And I are both former technical entrepreneurs who have started running solar on companies that really lends a lot to the DNA of the firm of, , what type of company we looked at. So we're currently investing out of our third fund, which would be a hundred million dollar fund.
+
+Have over 60 portfolio companies all around the United States, about 40% are actually outside Silicon Valley. And yeah, we have a seven person team and they're always looking at early stage. , we write checks up to a couple million dollars reserved to the rest of our fund for falling capital and always looking [00:06:00] to really help and back.
+
+Technical entrepreneurs, right? Because one of the reasons I think why Lou and I showed a very similar mindset and philosophy on early stage venture investing is, , when we were entrepreneurs, we didn't get a chance to meet that many VCs who are also technical and also had operating experience.
+
+And it was just hard to sometimes convey like what we thought our business was trying to do or, or, , what the technology itself was worth. And so we had always felt that, , software that was obviously a dominant business model in the 2000 tens, but we always felt that technology and part technology would come back.
+
+And so it clearly has, and I think, , we've been able to work with a lot of our founders to really. Give them a lot of the insights that a technical company, a technical entrepreneur need versus let's say an e-commerce company, a mobile app, for example. So yeah, that's fusion fund. That's what we're doing today.
+
+And always looking to help and support a great technical entrepreneurs.
+
+Gopi Rangan: Oh, this is great. A fascinating journey from the [00:07:00] Midwest with a stint in research, through your doctorate, you considered academia, but you switched to the business side. You shied away from venture capital, but eventually you started your own company.
+
+And then it came back to venture capital. This is a very interesting journey. I grew up in an academic household. My father is a professor, my uncle was a professor. So I understand some of the things that you had thought about. Previously, I actually realized that there's more useful research done in the industry, in the right places.
+
+I ended up publishing a bunch of patents and inventing many things which may not have happened if I had continued on the research track university.
+
+Homan Yuen: Yeah. I I'd hope some people like, even though my company was based off of one PhD thesis, I think just the sheer amount of technical work and research that we still have to do them to proper product was probably worth another 30 to 50 PhD thesis in that company.
+
+Which, , some of it is known and some of it is not known, but I agree with you. Like [00:08:00] it's not only in academia that really important technical work gets done.
+
+Gopi Rangan: I'm very curious. You've been an entrepreneur and you are now an investor. When you switch from one role to the other, how was your experience?
+
+What had to change for you?
+
+Homan Yuen: That is a great question. As you probably know, in, in research and academia, you tend to find a topic or an area to focus on and go really deep. And so, , like everything about that one area, but maybe not too much about everything else as an investor. I think one of the hardest things I had to do is going from a thinker to being an investor was you can't think that way anymore.
+
+You actually have to know basically everything as much as possible. And so. Having the change in mindset and even just how my neurons, I think we're wired on how to think about things, how to learn things like even just how much detailed do I need to know about something, learn as much as possible about something, but as you, and I know our time is very limited [00:09:00] and you just have to stop at some point.
+
+Okay. I know enough about this area. I have to move on to the next thing. So I think that was the biggest thing that I had to really adjust in my at least thinking.
+
+Gopi Rangan: Yeah, there's more variety in the type of topics that we review, even on a daily basis as an investor, you don't really have the time to go very, very deep and take the ownership like an entrepreneur does.
+
+That's a big difference, indeed. What do you look for? What stage do you invest in? What do you look for in entrepreneurs?
+
+Homan Yuen: Yeah. So we are mostly seed stage. I would say we also do some pre seed and early series area. I know the names are sometimes ambiguous, but , we're looking at companies that are definitely Prescale would like to see some customer interaction.
+
+Customer revenue is great, but the fact that you've actually talked to a customer to make sure your product actually has some fit. But maybe not full product market fit yet. Yeah. We'd like to see the core team has been built up and at least in the early stage. Yeah. I mean, that's kind of what we look for.
+
+We, like I mentioned, we look for companies that have some sort of core technical advantage, even [00:10:00] though the technical part is not really what makes a company, but gives you the first leg up.
+
+Gopi Rangan: Can you give an example? We'll have a start-up and tell us, like, how did you meet the founder? What was the first conversation?
+
+Like? What did you ask them? What impressed you.
+
+Homan Yuen: Yeah. I guess maybe one company that's on the top of my mind right now is a company called optimal dynamics. They have taken some technology out of Princeton in. A higher dimensional AI analysis. So as , in AI, it's very good at taking large amounts of training data and spitting out a model or an algorithm where it can accurately predict what you need to do.
+
+But in many places in life, you don't have like these large training sets of data. And it's not just a few variables. It could be thousands to tens of thousands of variables with very sparse data. So this is the technology that October the NYMEX is pulled out at Princeton and what they're applying to.
+
+Initially is the logistics sector. So it is a decision engine on how to take just thousands and thousands of inputs and how to figure [00:11:00] out how do you optimize your logistics chain? So for example, that I run a trucking fleet. , you can imagine that there's data like, , where the trailer is, where the truck is, where the loads are, where the drivers are.
+
+I need to have my driver home at the end of the day, , but this load from Arkansas is worth more than this load into the sea. And just like, where to put all the trucks and the visibility to do that. That's a very complicated algorithm. And as supply chain gets more and more complicated, particularly with the rise of e-commerce, , just in time delivery.
+
+These are all very complicated things that you can no longer do on pencil and paper and even Excel sheets. So this is where the product comes into play. And Daniel Powell, who is the CEO. I met him. Oh, I think it was an October in 2019, and we started racing for a seed round and, , got to know him over time, visited him in New York, as well as the other.
+
+Co-founder very strong technology. Very good CEO. , he definitely is on the younger side, but he's definitely shown to be very quick learner and very aggressive in what he's doing. So yeah, in glad to be his seed stage investor, and now helping [00:12:00] him raise further capital for some acceleration and scaling.
+
+Gopi Rangan: That's a great example of a deep technology startup. At what point did you feel like this company really has potential? Yeah.
+
+Homan Yuen: I mean, we were always very interested in it and market, and I think what the technology did, , I think one of the biggest questions was how fast customers would adopt this company's product.
+
+And I think either partially because of COVID or it's just where the industry was, we definitely saw the adoption just increase exponentially starting in the fall. And we were seeing dramatic growth in the month, over month revenue, as well as ARR. So. There is a lot of interest from trucking fleets to optimize their operations, for example.
+
+And I think that they realized they need technology. They need software and digital transformation is one of our themes, right? So this is an industry that typically has been pretty old school. And I think now they're realizing, Hey, we need software to at least help us figure out how to optimize our efficiencies.
+
+Gopi Rangan: Roughly, how many companies do you meet [00:13:00] in an average year and how many investments do you make? And really trying to understand the, the, the nuances of what makes an entrepreneur go from the first meeting to the second meeting, to the final meeting.
+
+Homan Yuen:  Yeah, great question. As a firm, we probably meet on the order of 5,000 companies a year.
+
+So I'll, maybe I'll tell you a little bit about the fusion fund process. And I'm always very open about this with our founders when I first meet them, just because when I was at a hundred, it was always, as you mentioned, sometimes a pig as to what the process was reached from. And like, what, the next steps were, someone from the team will meet the founder for a 15 to 30 minute meeting, , partially to make sure, , they fit our thesis, but more importantly, That our firm actually fits what they're looking for.
+
+So we kind of just learn more about them, , give an insurance for ourselves. Are they looking to raise where they're looking to raise and they give them any useless feedback. So if it looks like it's a fit on both sides, we'll discuss internally with our team. If there's interest in most of the rest of the firm.
+
+And if there is, we'll bring them in for a partner pitch to meet the whole firm. And then after that, assuming it thumbs up, we'll go into diligence. , [00:14:00] from the 5,000 a year, we ended up investing in about six to nine companies a year, so pretty selective process. And then we, , we probably go to diligence with about, , 50, to a hundred companies a year.
+
+Gopi Rangan: That's the world we live in. Right. We cannot invest in more than a handful of companies, but we do have to meet so many of these companies to get a feel for where the world is going and what the trends are.
+
+Homan Yuen: Exactly. And, and even for the ones we don't invest in, we do always try to be very helpful with feedback on where we think, , at least where our concerns were or what they could do.
+
+And if possible, try to connect it with other investors because, , as a former founder, I know how hard it is. And sometimes it's literally just timing. As , sometimes maybe a fund is not looking to invest in this area, but another fund is so. I do believe in the long game. I think some investors, unfortunately at VC don't play by those rules, but I do believe in long game, this is a small Valley and it's really always helpful to help other people.
+
+Gopi Rangan: Yeah, it is a small world and everybody knows everybody else in the end. So [00:15:00] it's good to be a thoughtful player. What are some things that entrepreneurs do that make you say, well, this is I'm not interested.
+
+Homan Yuen: Yeah. That's a great question. Yeah, I think there are a few things I understand the need to embellish and market yourself and the company, but there's, there's a fine line between doing that and just outright lying about what's going on.
+
+I mean, I understand like startups are messy, it's even messier in the earlier stages and , there's a lot more worse than there are shiny spots.
+
+Gopi Rangan: An example of not giving them names of companies that people, but anything specific that you can share, like what really ticked you off.
+
+Homan Yuen: Yeah. I mean, I think, I think mis-characterizing how much revenue a company has, , the differences between, , book, revenue, collective revenue, and just even interested in revenue.
+
+And to me, it's just, it's I understand it's an early stage company. Like you don't have to be perfect. I'm looking beyond like, , whether you're at 1 million ARR or not, for example. So I think, , Being dishonest about that type of information does not build [00:16:00] trust, right? Because it's through the diligence process.
+
+Aside from obviously learning about the company is I think building a relationship and trying to understand is this someone I can work with and trust, right? This, this is potentially going to be a five to 10 year relationship or more. And I've always told my founders, Hey, I don't care if it's good or bad news.
+
+Tell me and we'll deal with it. Never hide information from me. I never surprise me. Like I can't help you if you're surprised me as to like, and that's something actually for is to ask you to NDA told me very early on. I was like, Oh, I don't care if it's good news or bad years, just tell me right away, don't ever surprise me.
+
+And I think it's great advice. I can't help you if I don't know all the details. Right? So w with founders, I don't like it when, , I understand marketing is one thing, but don't tell me that, like, you've collected 3 million of revenue when it's really only like a hundred thousand dollars and the rest is just initial conversations.
+
+Gopi Rangan: Yeah, I empathize with founders. They have ambitious and they make bold claims and no it's understandable. They have very aggressive agenda to go out [00:17:00] and build great things. But often there are struggles along the way. So when they do fall short of those goals, they are embarrassed and they try to embellish and that doesn't help as an investor.
+
+You'd rather get the full story, the honest story. So you can actually help them. Exactly. It's a. It's in the interest of the entrepreneur, especially with, not with the whole world, but the few investors who actually believe in those teams, it's. Better to disclose the details and get help sooner than waiting for later.
+
+I see what you mean, the managing the pipeline and how you represent the pipeline. It has to be right.
+
+Homan Yuen: Exactly. And I've always told our founders that we invest in like, Hey, text, email, call me anytime, , 24 seven, right. Because I know emergencies can come up at any time. If these things, don't wait for like, , the, the sun rise or the, or the week starting to start.
+
+So that's just the life that we all live.
+
+Gopi Rangan: How have things changed for you because of COVID now that we're all working [00:18:00] from home and we don't really meet a lot more big portion of your work was about meeting people. And now that you're stuck behind the screen pretty much all day, how do you manage it?
+
+Homan Yuen: Yeah, that's a great question. I, I miss hanging out and working with our founders. I think that's been one thing I miss actually going to their companies and just seeing the energy as a former founder. That's just, what gets me energized is seeing all that happening as we talked about, in one sense, it's been more efficient because I can meet more people online, but it's hard if you haven't built that relationship already.
+
+And even then, if you been with the founder for several years, it's just. It's not the same, right? So there's this trade off between efficiency versus like building like a true relationship or a true foundation for that. But we do what we can. And , I think we also are trying to find to work with our founders and how they can improve that process to be as.
+
+, our founders have to go sell products and you're doing sales through zoom. So there's different ways of doing it and how to do it. And hopefully, yeah, hopefully this whole thing is over soon, maybe by summer or the [00:19:00] fall. But you guys, you just gotta adapt with the times.
+
+Gopi Rangan: What do you think is difficult for the founders now and how are you able to help them with this zoom selling process?
+
+Homan Yuen: Yeah. I think a lot of it is relationship, right? I think that's where as VCs, , one of our jobs to have a pretty broad and strong Rolodex, so. Pulling it out and opening up to the founders on whatever they need. , that's always a easier thing I think for us to do with, and for them.
+
+And now that you're not able to meet in person, , people are, are really leaning back onto their existing networks. And so for any entrepreneur, founder who doesn't have that, I understand how hard that can be. So definitely helping our founders, whether it's other VC intros, corporate connections , even just like.
+
+Basic things like debt providers or our vendors, , just helping them get to the right people.
+
+Gopi Rangan: Yeah, it's true. The first six to nine months during this whole COVID thing, we all relied on our old network existing network. [00:20:00] And I think we're getting to a point where we've exhausted that and we really need to refresh our network.
+
+And that's just the nature of business. And we have to rely on online methods to build relationships, get to know people and trust each other more without ever meeting. And that is going to be quite challenging. Yeah, I can imagine it can only be extremely challenging for founders who are starting new.
+
+Homan Yuen: Yeah. I mean, even for us, , we, we haven't invested in six companies last year. Most of which were during COVID, we have typically met all the founders that we've invested in. I mean, we either met some prior to COVID and went to COVID or, , we met them. Online, but, , they were either able to be in the barrier already, or they actually came to the barrier.
+
+And so we were able to meet them because, , there's just something about an in-person interaction that just gives you many different dimensions of feelings in terms of like, How are you able to work together? , what's their body language, , how did they feel about you all these different things?
+
+So while I, , some ways a fan of the [00:21:00] online method and zoom and all these things, because it does make things more efficient. I do think like there still has to be some component of in-person interaction.
+
+Gopi Rangan: So have you invested in startups without ever meeting the founders?
+
+Homan Yuen: Just one so far and they were already in the barrier.
+
+So we knew that we can meet them at some point. But yeah, I mean, I was still meeting people this year and last year it's called with labs. So there a remote collaboration software platform. We actually use it ourselves in the firm, but , the founders are based in a Tesla and SF, so it's pretty easy for us.
+
+, I joke, like I actually have two lawn chairs in my trunk and my car because I literally just drive to a parking lot and meet people there. So, , I think pre COVID meeting people on the parking lot was kind of sketchy. And that was kind of the coolest thing to do.
+
+Gopi Rangan: Yeah. It's like online dating was a, not a very popular thing when it first started, but now everybody meets on it. 
+
+Homan Yuen: 
+
+Yeah. But yeah, it's, it's been hard. I mean, like, , for example, I have one founder and Pittsburgh tendon at localization. They do autonomous trucking [00:22:00] and, and, , they've had a lot of good successes lately, but yeah, I mean, we, we do zoom, we do texting, , we do some. Yeah, zoom, beers, whatever.
+
+It's just, , I'm used to going to Pittsburgh and checking on his trucks and meeting his team. It's just not the same, but luckily we had that preexisting kind of relationship holds up that hopefully it can last for like a couple of years before we, , need to drink another beer in person again.
+
+Gopi Rangan: Yeah. That's kinda how I feel like we all rely on these network needs to be refreshed. There's a half-life to it. So we're, we're still hanging onto the network that was established before March of 2020. That is now fading away and we need to learn to build a new network. We'll see how that plays out in the rest of the year.
+
+Are there any pet peeves you don't, are there things you don't like about venture, about other VCs? The way they behave?
+
+Homan Yuen: Great question, one reason I think why my partner here and Lou and I bonded actually, when we were entrepreneurs is we've spent a lot of time complaining about other VCs.
+
+We still do, I think in different [00:23:00] ways, but maybe as we were. Founders versus entrepreneurs or investors. Yeah, I think I touched upon it earlier. Segment was. I don't understand why some VCs play such a short game. I understand, , you got to get quick wins, but this is a long game. It's a small Valley.
+
+There's no need to, you still got me. I understand. You have to go got to , work for your interests, but sometimes you can try to find solutions that are good for more than just yourself. That are good. Long-term. And so I think that's one thing that I don't quite understand how VCs operate in some ways.
+
+I also, I think have a similar feeling. Sometimes I meet some investors who act or think like they're the world's genius on how to operate companies. When, I mean, no offense to MBAs. I mean, So you're only a gods and MBA and then went to banking and then, , went to venture. It's not that they don't know anything.
+
+I mean, I clearly don't know a lot of the, I think the financial rigor that maybe they've gotten, but, , there's just something to having been in the trenches and knowing how to deal with, let's say. [00:24:00] Brilliant employees or how to deal with what I call like Holy shit moments and how to be a good investor.
+
+When, , things are just going really bad. Like there's no point piling on the founder, right. Help them find a solution or somebody just listen to them. It's a very lonely job sometimes. So I just, I just wish sometimes VCs would understand like what their strengths are and you don't need to be the, know it all and, and tell a founder exactly what to do at some point.
+
+Gopi Rangan: Yeah, the MBA investment banking route is a great for intellectual stimulation. The horsepower and the curiosity people have, and the hard work they do is incredible, but that alone is not sufficient as a venture capital investor or venture capital investors, more of a relationship business. You really want to take care of your founders and they will take care of the company.
+
+Yeah.
+
+Homan Yuen: And there's nothing, like I said, there's nothing wrong with people who, , have an MBA that went to banking right there. They know many things and they're very good at many things, but , trying to give some advice when you've never lived at yourself, sometimes it's difficult.
+
+Gopi Rangan: [00:25:00] That is true.
+
+Yes. Before we finish, I have a couple of more questions for you and feel free to give more start-up examples in your responses. What tips would you like to give an entrepreneur before they come to meet you?
+
+Homan Yuen: Yeah, I think there's some basic things. And I think on the point I talked about earlier, there's nothing wrong with being transparent about like, , what, just what your company is doing and the situation around it.
+
+, for example, many times founders come to me and they don't talk about their competitors or they didn't even tell me actually, Like, I know you're coming here for money. They don't tell me what the raising are, why they're raising the money. And so I expect you to tell me this, this is don't be shy.
+
+Right. So just lay out all the facts and totally be open with it. So, , for example, So neighbor very from HQ, they do a 5g AI combined ship. , he, he was a joy to kind of work with because, , he's had a lot of experience in industry. Obviously it works in corporate environments.
+
+You'd have to give all the information [00:26:00] and he was just very clear, like here's what I'm doing. Here's what I need. Here's how much money I needed. Here's how much money I need after you. It was very easy for me to see the vision and see, , what he's really gonna do with this 5g AI chip and what he's been doing very well, sign up a lot of large corporates and partnerships with organizations.
+
+And now we're happy to see him, hopefully over the next few months, make some big announcements.
+
+Gopi Rangan: Oh, this is very exciting. Well, good luck with the new investment. If you were to change one thing in venture, what would it be?
+
+Homan Yuen: I guess it wouldn't necessarily be adventure is maybe like one step up. It's a little bit more, I think, on the health piece side.
+
+Right. I, and this is in no way is criticizing LTS. I understand like they have a job to do, but , in discussions right now about, , diversity inclusion and things like that as a, as an LP, for example, like. You're you're judged by your performance, but at the same time, , there's all this stuff about trying to find diversity, but just privately, like, , there's all these diversity of [00:27:00] funds now, but , I've, I've been told like, Oh, well our LPs told us we should wholly invest in established managers first.
+
+But like that's the feeds the purpose. You're not funding new diverse managers. I'm trying to figure how to say this without pissing people off. 
+
+Gopi Rangan: Yeah, I think what you're saying is that in that value chain entrepreneurs take the highest risk and venture capital investors take risks, but not as much as the entrepreneur does and LPs take far less risk.
+
+And the paradigm is changing now where everybody's taking more risks and LPs need to be more open-minded so they can support new types of VCs coming into the market. You shouldn't say that. 
+
+Homan Yuen:  I don't want to say you said it very well. Okay. Yeah. , so I'm going back on the record. There's been a lot of discussion recently about how does venture capital help minorities diverse founders and things like that.
+
+I do think that most VCs do recognize the value in diversity, having diverse teams and having different thought processes. Right. , we at our [00:28:00] firm are really big on cognitive diversity and we understand that helps. You have different perspectives on things. So, , as you mentioned, mush mirrors are taking the most risks.
+
+, VCs are taking some level of risk and LPs tend to do too. I'm still risk in doing venture capital, but less risk than listen, entrepreneurial venture capitalists. But I think in order to help push that boundary even further, LPs also needs to be a little bit more proactive and really pushing funding, , diverse managers.
+
+New and emerging managers, as well as a combination of the two, because it doesn't, the things don't change. If you don't really change where you're putting your money. I understand LPs have a job to do, which is returning capital on capital, but at the same time, I do think that if you're funding a more diverse set of founders, You will grab better returns.
+
+I mean, if you look at the recent, I think unicorns that have informed since like 2016, 51% are minority and immigrants. I mean, you have to be targeting at these sectors to really [00:29:00] improve your returns. And so. If there's a, I think one thing I think that could be done better is it's not just a VCs, but also the LTS, right.
+
+Everyone needs to put more effort and a little bit more risk on finding these groups and people.
+
+Gopi Rangan: So this is the interesting topic. If any LPs listening to this podcast, I hope they become more open-minded and support diverse venture capital investors. Yes. Okay. I want to switch to the last segment of this conversation and ask you about your community involvement.
+
+Is there a nonprofit organization you are passionate about? Which one?
+
+Homan Yuen: Yeah. , I'm on the advisory council of a fund called the Asian Pacific fund. It is a nonprofit that helps support various Asian American and Pacific Islander groups around the Bay area. , there is definitely this , myths.
+
+, the model minority myth for Asians where everyone's successful, everyone's wealthy and well-to-do, I mean, they're, , Asian is means many things. So there's many different ethnic groups, very many different socioeconomic groups as well. And [00:30:00] so, , it's been very useful to help this, this organization because they really help fund and assist many of these smaller groups.
+
+, whether it's a certain ethnicity, a certain group, a certain. Type of community and especially more recently with the rise in hate crimes. And while as hate speech towards Asian Americans, they've really been able to step up and help fund these things. Like for example, they recently started something called a solidarity fund to help combat some of these issues that we're seeing, , We're considering about elderly Asians and the barrier I get attack randomly.
+
+It's just, it's horrible to hear. And this is just not, not how the United States should be operating. So yeah, I was very happy to join this organization a couple of years ago, Tom Cole, who used to be at TransLink. He's a good friend of mine. He introduced me to the organization. So yeah, happy to be part of what they're doing.
+
+Gopi Rangan: Shocking to see that in the news that Asian Americans being attacked on the street.
+
+Homan Yuen: To me it's even more shocking. I mean, not [00:31:00] that you would expect different things than other parts of the country, but you would hope that for example, the very which tends to be a much more diverse area than other parts of the country.
+
+Doesn't have to deal with this as much as other places. And it's very sad to see and. , like, it's just like, what's the point, right? I know everyone's frustrated with COVID and, and it's it's been a hard time for everyone in many different ways, but it's just not good to see it singling out one different ethnic group.
+
+Gopi Rangan: Yeah. That is true. But thank you very much, Homeland. This is very exciting. Thank you so much for sharing your insights and personal experiences in venture capital. I look forward to sharing your stories with the world.
+
+Homan Yuen: Oh, well, thank you for having me on, and this is a great service you're doing. I think I also hope VCs can also be more open to founders about how the industry works and how to help them be better entrepreneurs.
+
+Gopi Rangan: Thank you for listening to the shore shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast [00:32:00] and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. .
+

@@ -1,0 +1,30 @@
+{
+  "decision": "approved",
+  "reviewer": "User",
+  "authorization": "User replied Approved to final template refinement and complete-card review; final implementation commit authorized by prior approval sequence.",
+  "recorded_at": "2026-10-25T05:07:15.957602+00:00",
+  "scope": [
+    "Milestone 1 implementation",
+    "canonical quote-card template",
+    "complete-card visual appearance"
+  ],
+  "excluded": [
+    "publishing or delivery",
+    "reclassification of Pavel editorial paraphrase as a verified quote",
+    "Milestone 2"
+  ],
+  "reviewed_spec_sha256": "21cda443ed6479bd7bdd43398c965f66ad8f350116ce7e4d5ade963b079d80c5",
+  "approved_spec_sha256": "741dd478016d464a2631b9b81c89e7cde280b7fb10d88f3e8318ff6b683c2bd0",
+  "reviewed_outputs": {
+    "pavel": {
+      "reviewed_run_id": "1e06f2fabe8f5d2026f741bee88f9704b6356aed9c4eab5fbcd378250672f402",
+      "output_sha256": "e84f1fa3621034a8d9bc4fc56516b0737ed41ee6c8bb38a22192a0ad0d138b8e",
+      "classification": "editorial_paraphrase"
+    },
+    "patrick": {
+      "reviewed_run_id": "f058ce472748bfd9fac4feefa5eb6a6a5a03443e86a24116db21c445ecbbbfe8",
+      "output_sha256": "cb20087ef3425fae27b0f73ddf3882db522b47ffc287c2bd2221a137e9b0e427",
+      "classification": "verbatim"
+    }
+  }
+}

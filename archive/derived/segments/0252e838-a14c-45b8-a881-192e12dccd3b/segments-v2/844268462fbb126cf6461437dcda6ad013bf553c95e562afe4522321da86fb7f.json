@@ -1,0 +1,577 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 218,
+      "excerpt": "Mark Suster: Over time, these dots on the X-axis, higher or lower on the Y-axis, start to form a line. And that line is what I'm investing in. I'm investing in the trajectory of how I perceive you to perform over time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 505,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 220,
+      "timestamps": []
+    },
+    {
+      "end": 845,
+      "excerpt": "My guest today is Mark Suster, General Partner at Upfront Ventures. He's going to talk about his investments in startups, how he transitioned from being an entrepreneur to an investor, what he looks for in entrepreneurs now as an investor, and his views on the industry - the changing trends. Mark, welcome to The Sure Shot entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 507,
+      "timestamps": []
+    },
+    {
+      "end": 905,
+      "excerpt": "Mark Suster: Thanks for having me, Gopi. I appreciate it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 847,
+      "timestamps": []
+    },
+    {
+      "end": 997,
+      "excerpt": "Gopi Rangan: Tell us about yourself, starting with your childhood. Where did you grow up? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 907,
+      "timestamps": []
+    },
+    {
+      "end": 1482,
+      "excerpt": "Mark Suster: Yeah, I was born in Philadelphia, so anyone who follows me on Twitter, and my Twitter handle is just M S U S T E R, notices that occasionally I will talk about Philadelphia sports because I was actually born in Philadelphia to an immigrant father. He moved to the United States for medical school. My entire family rooted for Philly sports teams. But I actually grew up in Northern California in what I affectionately call the Midwest of California, which is Sacramento.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 999,
+      "timestamps": []
+    },
+    {
+      "end": 1951,
+      "excerpt": "Oh yeah. Yes, the capital. I grew up and I was in high school in the 1980s, from 82 to 86. And while today it's really common to be a software programmer, it was not so common in high school in the 80s, but I actually was a programmer in the 1980s. I had programming jobs all throughout college. I worked in a software store and I had a programming job in the career center at UC San Diego. When I graduated, my first job out of college was as a software programmer. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1484,
+      "timestamps": []
+    },
+    {
+      "end": 2019,
+      "excerpt": "Gopi Rangan: So, you were an early geek that embraced technology. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1953,
+      "timestamps": []
+    },
+    {
+      "end": 2792,
+      "excerpt": "Mark Suster: Somehow I was, but I was this weird kind of geek if you want to call it that, Gopi. I was also incredibly social. In high school, I started my own businesses. I had both a t-shirt business, which was my legal business, and I had keg parties, which was my less-than-legal business. In college, I was social chairman of my fraternity, eventually president of my fraternity. I learned a lot of leadership things through actually having to run a group of men who didn't actually want to pay and didn't want to do work. And I had to get them to pay and organize and do things together. So I was very social, but what I think it is about computers is my brain is wired for problem-solving. I like solving problems. That's what the outlet for computers was for me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 2021,
+      "timestamps": []
+    },
+    {
+      "end": 3012,
+      "excerpt": "Gopi Rangan: I see that the streak of entrepreneurship started quite early while you are still in school and it continued on later. How did the early days with software development shape your thinking about technology?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2794,
+      "timestamps": []
+    },
+    {
+      "end": 3591,
+      "excerpt": "Mark Suster: Well, I'd say to young people these days, I often tell them that there are two skillsets you should get when you're young in your career. One is learning to program. You don't have to be the best programmer. You don't even have to have a career in programming, but if you want to be able to have a vision for how to work within a technology company or within a company that leverages technology. If you don't have any tangible sense of the craft, if you can't play with the clay, I just think it's really hard to get your head around how to be an effective leader.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 3014,
+      "timestamps": []
+    },
+    {
+      "end": 3918,
+      "excerpt": "The second thing I tell people is to get sales experience...because the older you get, the less likely it is that you're going to go into sales as your job, but everything you do involves sales, whether it's raising capital, whether it's hiring people, whether it's doing business development or one day selling your company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3593,
+      "timestamps": []
+    },
+    {
+      "end": 4295,
+      "excerpt": "Those are the foundations that I think are critical to building a successful career today. There are others, but early in people's careers, that's what I tell people to do. In my first job, I learned how to program, I learned how to lead teams. I learned how to sell to clients because we had to actually sell work. I think that set me up for later, becoming an entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3920,
+      "timestamps": []
+    },
+    {
+      "end": 4452,
+      "excerpt": "Gopi Rangan: It's interesting that you say sales is important early in the journey of a career. Isn't building more important - the art of creating things?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4297,
+      "timestamps": []
+    },
+    {
+      "end": 5043,
+      "excerpt": "Mark Suster: I don't think so. I think that would be what a typical engineer would think or a typical product person would think. At the end of the day, if you build great stuff and no one buys it, you don't have a successful business. If you go out and try to sell stuff and the stuff you're selling, isn't high quality, you can sell stuff, but you're never going to do anything valuable. It's the juxtaposition of being able to build something that's truly valuable and interesting, and then being able to sell and persuade people that they should be using it that builds big businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 4454,
+      "timestamps": []
+    },
+    {
+      "end": 5358,
+      "excerpt": "Gopi Rangan: I am sold. I started out as a builder and I do feel the need to have that skill for selling now that I'm in the business world. How did your journey evolve to become an entrepreneur? The official entrepreneur legal businesses that you started later in your life - BuildOnline and Koral, got acquired.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5045,
+      "timestamps": []
+    },
+    {
+      "end": 5703,
+      "excerpt": "Mark Suster: Yeah. I had been a software developer, I then got an MBA at the University of Chicago. I started doing strategic advisory work. So, I would work with large telecommunication companies, large technology companies, advising them on how to set up internet business operations. This was 1995/96/97 before the internet was a big thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 5360,
+      "timestamps": []
+    },
+    {
+      "end": 6265,
+      "excerpt": "I just happened to have been technical and have business skills at a time when the internet took off. So, I was able to help them figure out what kind of offerings would resonate in the market. Eventually, I decided that I really should go do this for myself. In 1999, I quit my job, gave up a well-paid salary, and started my own company from scratch. I co-founded it with a friend of mine from business school. It was originally his idea for the market that we would target. I joined as founding CEO and went out and raised capital and was off to the races. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5705,
+      "timestamps": []
+    },
+    {
+      "end": 6451,
+      "excerpt": "Gopi Rangan: With that, we come to the dramatic turn in your career, where you became an investor. You joined Upfront Ventures as a partner. Why is venture capital interesting to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6267,
+      "timestamps": []
+    },
+    {
+      "end": 7933,
+      "excerpt": "Mark Suster: I always think that when you're young, there's nothing more exciting than creating your own company, building something, selling something, growing revenue, hiring a team, and trying to change something in the market that doesn't exist, and that you think you can do a good job. I did that for many years, in fact, almost a decade across two companies, but then I realized at some point if I can use a sports analogy for a moment Gopi, which is like, let's take basketball. At some point, you realize that the skills of the game change, like maybe three-point shots, become really important and you didn't grow up a three-point shooter. Or maybe you just realized that there's younger, more nimble people who run a little bit faster, jump a little bit higher, or wake up a little bit earlier to shoot a hoop, and you realize that the skills that you acquired playing the game are really good for mentoring younger people in the game. You can get as much enjoyment out of helping 10 teams and trying to give them advice and experiences that you learn as you can from building your own. So I just had a moment in my career where that's what I wanted to do. I wanted to work with young founders. It doesn't have to be young in age, but earlier in their journey, and help them get over some hurdles and not make the mistakes that I made and really help them get to the next level. I find fulfillment in that role as coach and mentor, necessarily more than being a player.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 6453,
+      "timestamps": []
+    },
+    {
+      "end": 8441,
+      "excerpt": "Gopi Rangan: Well, why is that exciting? I'm really curious to double-click on this because this gets to the crux of you as a VC. Why is it exciting that you like working with entrepreneurs at very early stages when there's so much chaos in their heads on how they want to build a business? They haven't figured out a lot of things. There's so much uncertainty. That stage is not easy to meet someone and build a partnership, but you'd do that on a consistent basis. You've done it for like 15-plus years. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7935,
+      "timestamps": []
+    },
+    {
+      "end": 9559,
+      "excerpt": "Mark Suster: If you think about the journey of any tech company, from coming up with an idea, figuring out what the features and functions should be, getting it built, raising capital, hiring a team, figuring out pricing and go-to-market, figuring out how to make sure the world knows you exist and then growing and scaling the business and raising downstream capital. That's my journey. That's what I enjoy doing. That's what I've done since high school. When businesses get bigger and let's say you're doing $100 million of revenue, $500 million in revenue, the skill sets needed to run that company and the skill sets needed for board members actually change. That job I think is incredibly well suited for, let's say maybe someone who's been at a big company as an operator, maybe been an investment banker, maybe deeply analytical, and wanting to crawl through financial statements. It's a different skill set. So, when I have companies that get that big, I'm really looking for a different kind of person to join the board with me because I know what my skillsets are and I know what skill sets I have missing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 8443,
+      "timestamps": []
+    },
+    {
+      "end": 9878,
+      "excerpt": "So I really looked at package them on the board, but where my heart and soul is, is in the 'let's figure out your product, your market, what products we should build, how we should price, how we create a defensive moat'. And I enjoy that part of the journey. It's just frankly, also what my skill sets are better at. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9561,
+      "timestamps": []
+    },
+    {
+      "end": 10080,
+      "excerpt": "Gopi Rangan: Well, it's also a time when you can build really meaningful relationships with the founders because you're catching them at the time that they're building their vision for the first time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9880,
+      "timestamps": []
+    },
+    {
+      "end": 10354,
+      "excerpt": "Mark Suster: Well, I hope to, but I think you can build relationships with founders at any stage because when they become a hundred million dollar company, they still need your help. It's just that a different kind of person is more useful and more helpful at that stage. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 10082,
+      "timestamps": []
+    },
+    {
+      "end": 10458,
+      "excerpt": "Gopi Rangan: What happens in that first meeting? What do you ask entrepreneurs? What do you look for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10356,
+      "timestamps": []
+    },
+    {
+      "end": 10877,
+      "excerpt": "Mark Suster: What I really want to understand is what unique insights do you have that other people don't have? What do you believe about a market that other people don't believe? What products do you believe you can actually build? If you built this, why would it be better as a user experience for the people who are ultimately going to use your product? And, how are you going to make something that's defensible? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 10460,
+      "timestamps": []
+    },
+    {
+      "end": 11195,
+      "excerpt": "I don't require you to have a completed product or to be in the market or to have data, but you have to bring something to the table. I'm looking for people who have unique insights that other people don't have or unique experiences that other people don't have because I think that's what it takes to be successful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10879,
+      "timestamps": []
+    },
+    {
+      "end": 11663,
+      "excerpt": "Gopi Rangan: Unique insights on the market, a description of how the product works and why it's necessary for the world, who would buy this, and how do you build a moat, these are all kinds of standard questions that many VCs ask. If we were to draw a thread across many founders that you've worked with in the past, is there a common theme, certain types of characteristics that gel well with you, there are founders that you like to work with. Is there a pattern? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11197,
+      "timestamps": []
+    },
+    {
+      "end": 12240,
+      "excerpt": "Mark Suster: I'd say so. Number one, authenticity. Why are you doing this? Did you just think this was a money-making opportunity or do you have some passion for the space? That matters to me. Somebody who's obsessive. It takes a strangely driven obsessive person to build this. From nothing to something valuable. And I'm looking for that. I'm looking for someone who's detail-oriented, someone who understands the competition, understands who came before you has done the work has done the research. I'm looking for someone with a bias towards action rather than analysis. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 11665,
+      "timestamps": []
+    },
+    {
+      "end": 13697,
+      "excerpt": "The characteristics of what it takes to make a good entrepreneur is somebody who, every time you meet them has already moved the ball forward more than you expected them to. There are two tells that I have for startup founders of whether you're going to succeed. Number one is your cadence and ability to hire talent. Number two is your cadence and ability to ship software code. And those are my two biggest tells. If you're someone who's always talking about who you're going to hire, but actually not hiring them, or if you're someone who's constantly saying what you're going to build, but can't show me evidence that you made progress, I think you're much less likely to succeed. So I have a bias towards action. I'm looking for people who are persuasive. I think fundamentally, Gopi, no startups should really exist. And you've got to persuade people to join you who shouldn't join you, to fund you, who shouldn't fund you to take the risk of doing a business development deal with you when you might not exist in six months. You've got to convince the press to want to write about you. You've got to convince people to let you get on stage and talk and amplify your company and all of those things that are unreasonable that people shouldn't be able to do. It's just that ability to persuade other people where the people who're thinking about joining your mission think to themselves, \"if I don't join this person, I'm always going to regret it.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12242,
+      "timestamps": []
+    },
+    {
+      "end": 14011,
+      "excerpt": "Gopi Rangan: Bias for action/ execution is far more important than just having ideas. Can you give an example of an entrepreneur that you met and you saw that early in the discussion that there was a very strong bias for action and they were able to ship code much more successfully than in many other companies?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13699,
+      "timestamps": []
+    },
+    {
+      "end": 14704,
+      "excerpt": "Mark Suster: Well, sometimes it's hardware, sometimes it's software. So, I don't want to say it's necessarily only expressed through code. But I backed up a founder named Andrew Farah. The company is called Density, and they take devices, which can either use LiDAR or RADAR to anonymously evaluate how people move through physical spaces. It turns out that in most companies, the most expensive thing inside the entire company is their people and their second most expensive is their real estate, in terms of whether it's lease costs or purchase costs. They (companies) don't control either of these things. They don't understand how their people use their space or how their space is used.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 14013,
+      "timestamps": []
+    },
+    {
+      "end": 15842,
+      "excerpt": "So, we provide analytics to help people better understand that. When I met the team, they had no capital. They had this little crappy device and it was using infrared and we gave them feedback that the problem with infrared is it's not accurate enough when multiple people are moving through a door, through ingress or egress of a door. By the next time we saw them, they had started to develop something called time of flight. And time of flight uses depth perception and through depth perception, you get a lot more accuracy of what it is you're looking at. I could see every time I met them, they had way more progress on the idea, and then they turned around and they hired a guy out of apple who had been sourcing and leading the bomb process for AppleWatch. He had been involved in figuring out how they were going to source the materials, package it together, and have a bill of materials that would hit a certain cost target. They didn't say, \"once we raised capital, we'll hire this guy\". They hired him and they said, \"here's this new guy we have on our team.\" I could just see that every time I met them, there was progress. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14706,
+      "timestamps": []
+    },
+    {
+      "end": 16061,
+      "excerpt": "Gopi Rangan: How long does it take for you to go through this process? I see that you observed quite a bit of detail with the company. How much of it was presented to you by the time you made the investment decision? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15844,
+      "timestamps": []
+    },
+    {
+      "end": 16445,
+      "excerpt": "Mark Suster: Listen, the market has changed. We're in 2022, very different than 2012, which was very different than 2007. In 2007/8/9/10, I could meet you seven times. I could talk to your customers. I could require you to finish your product before we talk. I could take my time and then I could write a $2 million check at a $6/7/8/9 million valuation. That doesn't exist anymore.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 16063,
+      "timestamps": []
+    },
+    {
+      "end": 16823,
+      "excerpt": "Yeah. Those days are gone. For me, I have to know you before you're probably even raising capital. I might even know at the last job you had. Incumbent VCs have a pretty big advantage because if I've known and worked with people across three companies or known and worked with you for 10 or 12 years, I can make that assessment a lot easier than if it's the first time we met.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16447,
+      "timestamps": []
+    },
+    {
+      "end": 18081,
+      "excerpt": "I'd say probably the thing I became best known for, Gopi, is a blog post I wrote more than 10 years ago. I called it lines and dots. So you imagine an X-axis. The X-axis is time and the Y-axis is the performance of some measure. Performance might be: were you persuasive when we met? Did you show me a product demo or evidence of success? Did you have some revenue? Did you hire someone new? It's like whatever I perceived of you. Obviously, the first time was a point somewhere. It was time and my perception of your performance. The next time we meet, time's passed. So it's further to the right on the X-axis. And I might think, wow, you made a lot of progress since the last time we met. So the performance dots would be higher. And then over time, maybe you have setbacks, maybe your co-founder quit. Maybe Google announced they were going to compete with you. Maybe Apple announced they don't want this category to exist anymore, and so you stepped back a little bit. But over time, these dots on the X-axis, higher or lower on the Y-axis, start to form a line. That line is what I'm investing in. I'm investing in the trajectory of how I perceive you to perform over time. The longer I know you, the easier it is for me to underwrite that decision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16825,
+      "timestamps": []
+    },
+    {
+      "end": 18540,
+      "excerpt": "The same should be true in reverse. Founders should be looking at their potential investors and saying, \"how have you performed over time?\" If I look at it, are you responsive to my emails? Do you offer me insights when we meet? Do you give me feedback, and is that feedback useful? If you said you were going to introduce me to someone, did you follow through? Also, if I can talk to other founders you work with, I want to know what those lines were like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18083,
+      "timestamps": []
+    },
+    {
+      "end": 18851,
+      "excerpt": "I know the companies you succeeded, of course, are going to say great things about you. What are the founders saying about your investors when they weren't successful. In the hardest moments, were you there for them on a weekend when their servers went down or when the press was writing bad stuff about them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18542,
+      "timestamps": []
+    },
+    {
+      "end": 19016,
+      "excerpt": "For some reason, founders are in such a rush to raise capital that they don't really spend the time to get to know their funders. And I think that's a big mistake.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18853,
+      "timestamps": []
+    },
+    {
+      "end": 19475,
+      "excerpt": "Gopi Rangan: As an established venture capital investor, you have an existing network, a sprawling network perhaps, where you have a lot of these connections built over many, many years. If we look at your portfolio, would it be fair to say that a lot of the founders that you backed by the time you made the decision to invest, you had spent time with them, got to know them and saw that performance dot line grow and then you made the investment decision?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19018,
+      "timestamps": []
+    },
+    {
+      "end": 20307,
+      "excerpt": "Mark Suster: I'd say that happens a lot. I would also say that sometimes I'm investing in one degree away from that firsthand experience. I backed a guy. In fact, his company is announcing on Monday. He was introduced to me by the CEO of another company. The CEO said to me, \"I've worked with a ton of people in this space, and this is someone I really value and really respect, and I think you should meet them.\" So I get the benefit of our referral because obviously, that person is hopefully saying good things about me. Or why is he referring someone to me? And I'm coming to that meeting leaning in expecting to hear interesting things. So I met with this founder five times before I wrote the check. Maybe I knew him for two and a half months, but it was on the foundation of someone I've worked with for six or seven years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 19477,
+      "timestamps": []
+    },
+    {
+      "end": 20455,
+      "excerpt": "Gopi Rangan: So someone you trust has tracked the dots and lines and they see the positive trend and their endorsement has a lot of value to you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20309,
+      "timestamps": []
+    },
+    {
+      "end": 20587,
+      "excerpt": "Mark Suster: And I think it's a two-way endorsement because they're endorsing the investor and they're endorsing the entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 20457,
+      "timestamps": []
+    },
+    {
+      "end": 20979,
+      "excerpt": "Gopi Rangan: Having worked with you, they know your style and they would suggest an entrepreneur that fits your style. I can see that. But I'm still struggling, Mark. Aren't you missing out on a whole bunch of entrepreneurs who don't know you or who don't exist in your network? I would argue that some of the best entrepreneurs might come from outside your network and you don't see them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20589,
+      "timestamps": []
+    },
+    {
+      "end": 21544,
+      "excerpt": "Mark Suster: My job is to constantly put myself out there and meet new people. And if the majority of people I meet are lines, that doesn't mean it's a hundred percent of the time. Sometimes I see people and after one or two meetings, I find that they are so insightful about a market and so thoughtful that I need and want to spend more time with them or fund them on a riskier investment. But my job is to put myself out there constantly and meet with people constantly and form opinions as quickly as I can. Sometimes I get it right. Sometimes I get it wrong. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 20981,
+      "timestamps": []
+    },
+    {
+      "end": 21665,
+      "excerpt": "Gopi Rangan: I like this debate. Sometimes those dots and lines can be formed faster. It doesn't take years to do that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21546,
+      "timestamps": []
+    },
+    {
+      "end": 22520,
+      "excerpt": "Mark Suster: Yeah. I think the quality of your decision is going to be higher if there are more data points and the quality of the founder's decision about you is going to be higher if there are more data points. If the market allowed me to wait, I would wait every time, but the market doesn't allow it. So sometimes I have to make faster judgment calls. But I will tell you this, and I tell founders this all the time, if I make a decision on two meetings, and you know enough about data to know that that line might be misleading, whereas if there are 12 data points probably, I can make better predictions about the trend line. If I get that wrong, it's okay. That's one of 10 investments I made and I have to take a $3 million write-off, but I have some other company worth half a billion dollars. I don't want to get it wrong, but I can afford to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 21667,
+      "timestamps": []
+    },
+    {
+      "end": 22892,
+      "excerpt": "Founders, you can't afford to get it wrong because if I pick the wrong lead, I've just bet my entire company on this person...because I don't get to kick them off my board. I don't get them to return the capital. So I always say, if you're a founder, there's no divorce clause for your lead investor. And so, it's incumbent upon the founder to want to slow things down. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22522,
+      "timestamps": []
+    },
+    {
+      "end": 23205,
+      "excerpt": "Gopi Rangan: As a VC, I see that our job is to connect those dots and lines and form opinions and that we have more time. More data points are better. But why don't founders do that? I agree with you that founders don't spend the time to evaluate VCs. Why don't they do that? What can we do to facilitate that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22894,
+      "timestamps": []
+    },
+    {
+      "end": 24054,
+      "excerpt": "Mark Suster: There is nothing you can do to facilitate it. The market is the market and human nature's human nature. In today's world, too many founders think that fundraising is something that I do every 18 to 24 months. And I want to do it for a shorter period of time as possible and get back to my day job, which is running my company. I always tell founders, raising money is part of your day job. If you think of your time allocation, you think of, \"I have to do product, I have to do marketing. I have to do sales. I have to do recruiting.\" well, one of the things you have to do is fundraise. You need a certain percentage of time that you're always lightweight meeting investors, trying to understand investors because that's the lifeblood of strengthening your balance sheet to allow you to make investments to grow faster in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 23207,
+      "timestamps": []
+    },
+    {
+      "end": 24230,
+      "excerpt": "But too many people view that as something not important enough. So they want to compress it and do it really quickly only when they need it. That's where you make mistakes. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24056,
+      "timestamps": []
+    },
+    {
+      "end": 24534,
+      "excerpt": "Gopi Rangan: I'm nodding my head. You can't see, but yeah, absolutely. I'm in complete agreement with you. I'm curious. How has your business changed in the past two years because of COVID? Everything went remote. Is your decision process different? What questions do you ask entrepreneurs these days? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24232,
+      "timestamps": []
+    },
+    {
+      "end": 25549,
+      "excerpt": "Mark Suster: Well, we weren't crazy during COVID. It was a period of time when a lot of people were writing a lot of checks really quickly at very high prices. I instructed my colleagues to say, \"let's keep the pace the same as pre-COVID. Let's keep valuation similar to pre-COVID. Let's be willing to miss momentum deals where we don't really know teams.\" For 6, 9, 12 months, that didn't feel so good because it seemed like everything was getting funded and everything was in uprun and everything was hyped. But if you look at the public market correction since Q4 of last year, where many of the best public companies are down 50%, you can rest assured that's going to cross over into the private markets. A lot of these overvalued companies are going to then struggle to raise their next round of capital. So nothing's really changed for us. We had our office shut like most people for a year -from March 2020 to April 2021. But we've been open since April 20, 21. I've been going into the office since April.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 24536,
+      "timestamps": []
+    },
+    {
+      "end": 25810,
+      "excerpt": "Gopi Rangan: The times have been quite volatile, especially in the recent few months. What is your advice to entrepreneurs? What do they make out of the public market changes that are happening right now? What can they do to prepare for the rest of the year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25551,
+      "timestamps": []
+    },
+    {
+      "end": 25963,
+      "excerpt": "Mark Suster: Nobody has a crystal ball. Will the prices of public tech companies fall another 50% or will they bounce back up to their previous levels?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 25812,
+      "timestamps": []
+    },
+    {
+      "end": 26679,
+      "excerpt": "I don't know the answer to that question. What I can tell you is whatever the answer to that question is is what will happen in private markets. If tech companies in public markets continue to be depressed or decline even further, there will be a resetting in the private market valuation, because ultimately there's a correlation between what happens in public and private markets. Right now, public market valuations are lower than private markets and it starts with later-stage financings. If you're funding things that are 6, 12, 18 months out from IPO, you can't afford to get that wrong. So then once those get repriced, then earlier-stage venture capital deals get repriced, and then funding becomes harder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25965,
+      "timestamps": []
+    },
+    {
+      "end": 27495,
+      "excerpt": "We're not there yet. I think people are still waiting to form their opinion about what's going to happen. None of that should really ultimately matter to founders. What I tell founders is to raise capital, put it on their balance sheet, make sure you have a long enough runway. I think it's never a good idea, if you can help it, to have less than a year's cash. Don't optimize for short-term valuation. You should raise at a reasonable price because you don't want to take on necessarily dilution. But pumping your valuation in short-term markets where everybody is massively paying up only means it's going to be that much harder if you have to raise money downstream. Inevitably, you're going to have to raise money downstream because everybody always ends up having to even if they think they're not going to. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26681,
+      "timestamps": []
+    },
+    {
+      "end": 27837,
+      "excerpt": "Gopi Rangan: Thank you very much for sharing thoughtful comments on the market. Little more philosophically, you've been a venture capital investor for 15 years. A lot of things have changed, some for the better or some for not so good. If you were to change one thing about venture capital to make this industry better, what would you do? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27497,
+      "timestamps": []
+    },
+    {
+      "end": 29317,
+      "excerpt": "Mark Suster: I think too much of our market has become stock pickers. There's a whole generation of VCs who think that the way to be a VC is just to write checks into as many companies as possible. ... I don't know if I want to say spray and pray because that has certain implications, but they believe my job is to write checks into founders and then quote, unquote, be helpful by providing introductions or whatever. But to build successful companies over the long haul requires corporate governance. It requires a board of directors, reviewing financial plans, figuring out the right level of risk, the right level of spending, whether you should be raising capital. We spend a lot more time trying to resolve founder to founder conflict and adjudicate when there are problems. The role of board members and corporate governance is incredibly important. The skillset, going back to an earlier topic we discussed persuasion, is you've got to now be able to persuade your other board members of what a company should be doing and to get them on board to get the votes. That kind of collaborative environment in which investors talk to investors, investors talk to an independent board member, independent board members and investors talk to management, and there's the creative tension between the conflicts between what management thinks, what investors think, what independents think, that creates better solutions. It's incredibly important to the development of companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 27839,
+      "timestamps": []
+    },
+    {
+      "end": 30189,
+      "excerpt": "We're in a market where there's so much capital that some founders value having no oversight and many investors prefer to write checks and not actually have to do work. They perceive that doing work is just providing introductions. That's the easiest part of my job. Reviewing your pricing strategy or going through your sales efficiency or working on executive compensation or helping you with legal battles when other companies are suing you or figuring out how to position yourself publicly and the press, helping you with recruiting, helping you understand when you need to upgrade team members or sometimes, honestly Gopi, it's helping you understand when you need a boss. That's like the critical thing. Rolling up your sleeves over a decade-plus with one individual company. It doesn't get written up in the press cause it's not the sexy stuff, but it's the job. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29319,
+      "timestamps": []
+    },
+    {
+      "end": 30744,
+      "excerpt": "Gopi Rangan: We're building for the long-term. I'm more of a traditional venture capital investor, much like you. I believe in George Dorio's principles of investing and following up with support. I see that many entrepreneurs choose some money because it's fast and that pollutes the entire ecosystem. I hope some more discipline comes into the ecosystem so good companies thrive. I want to switch to the final part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30191,
+      "timestamps": []
+    },
+    {
+      "end": 31293,
+      "excerpt": "Mark Suster: I'd say not at the moment. I have worked with many nonprofits over time. I spent a bunch of time with an initiative called Defy Ventures, which was taking people into prisons and meeting people who have been incarcerated for 20 years or more and helping people who are going to get out of prison just get a basic understanding of what it means to be an entrepreneur and create your own business so that if you could help people get jobs, you would decrease recidivism. I spent some time over the years working with that organization. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 30746,
+      "timestamps": []
+    },
+    {
+      "end": 31632,
+      "excerpt": "I also try to be a grassroots advocate for things that are important. Right now, I'm spending a lot of time with emerging fund managers. Often it's people who come from underrepresented backgrounds and helping them figure out how to get access to capital, how to build a fund, how to hire a team, how to do all the things you need to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31295,
+      "timestamps": []
+    },
+    {
+      "end": 31648,
+      "excerpt": "I know you've ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31634,
+      "timestamps": []
+    },
+    {
+      "end": 31948,
+      "excerpt": "Gopi Rangan: been a great mentor to many emerging managers. Capital formation is an important point in time in the life of a new VC. And it's one of the most challenging things to do. I'm really delighted that you're devoting your time and efforts to support new managers coming into the ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31650,
+      "timestamps": []
+    },
+    {
+      "end": 32213,
+      "excerpt": "Thank you so much for sharing your nuggets of wisdom. You've shared practical examples based on your experiences, how you work with entrepreneurs, and advice to entrepreneurs on how they can prepare before they come to meet someone like you. Thank you very much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31950,
+      "timestamps": []
+    },
+    {
+      "end": 32245,
+      "excerpt": "Mark Suster: Sure. Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Mark Suster",
+      "start": 32215,
+      "timestamps": []
+    },
+    {
+      "end": 32314,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32247,
+      "timestamps": []
+    },
+    {
+      "end": 32588,
+      "excerpt": "I hope you enjoy listening to real-life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32316,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "844268462fbb126cf6461437dcda6ad013bf553c95e562afe4522321da86fb7f",
+  "text_sha256": "7702f5e729ebc236c55bbbbb96a3ad25e7630dc937024711b0946886dc298e45"
+}

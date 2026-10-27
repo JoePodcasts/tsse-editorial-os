@@ -1,0 +1,104 @@
+name: Deploy TSSE Archive
+
+on:
+  workflow_call:
+    inputs:
+      revision:
+        required: true
+        type: string
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'archive/**'
+      - 'archive_*.py'
+      - 'episode_discovery.py'
+      - 'web/**'
+      - 'api/**'
+      - 'vercel.json'
+      - '.python-version'
+      - '.vercelignore'
+      - '.github/workflows/archive-deploy.yml'
+      - 'tests/deployment/**'
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: tsse-archive-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment: production
+    env:
+      VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ vars.VERCEL_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          ref: ${{ inputs.revision || github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-python@83679a892e2d95755f2dac6acb0bfd1e9ac5d548 # v6.1.0
+        with:
+          python-version: '3.12'
+      - name: Check project configuration
+        run: |
+          test -n "$VERCEL_ORG_ID"
+          test -n "$VERCEL_PROJECT_ID"
+      - name: Install pinned deployment tool
+        run: |
+          npm install --global vercel@65.4.0
+          python3 -m pip install uv==0.9.25
+      - name: Pull production project configuration
+        run: vercel pull --yes --environment=production
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      - name: Build and validate immutable deployment
+        env:
+          ARCHIVE_STATUS_TOKEN: ${{ github.token }}
+        run: |
+          python3 -B -m unittest discover -s tests/deployment -v
+          vercel build --prod
+          python3 -B -m unittest discover -s tests/deployment -p 'test_runtime.py' -v
+      - name: Verify the production runtime can read later status-only updates
+        run: node tests/deployment/check-status-credentials.mjs
+      - name: Stage production build without assigning domains
+        id: stage
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          vercel deploy --prebuilt --prod --skip-domain > /tmp/archive-deployment-url
+          python3 - <<'PY'
+          import os
+          from urllib.parse import urlsplit
+          value = open('/tmp/archive-deployment-url').read().strip()
+          url = urlsplit(value)
+          assert url.scheme == 'https' and url.hostname.endswith('.vercel.app') and url.path == '' and not url.query and not url.username
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write('url=' + value + '\n')
+          PY
+      - name: Verify staged deployment
+        env:
+          DEPLOYMENT_URL: ${{ steps.stage.outputs.url }}
+          VERCEL_AUTOMATION_BYPASS_SECRET: ${{ secrets.VERCEL_AUTOMATION_BYPASS_SECRET }}
+        run: python3 -B tests/deployment/smoke.py "$DEPLOYMENT_URL" --output /tmp/archive-deployment-checks.json
+      - name: Prevent an older queued build from replacing newer main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          current="$(gh api repos/JoePodcasts/tsse-editorial-os/commits/main --jq .sha)"
+          test "$current" = "$(git rev-parse HEAD)"
+      - name: Promote exactly the verified build
+        env:
+          DEPLOYMENT_URL: ${{ steps.stage.outputs.url }}
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: vercel promote "$DEPLOYMENT_URL" --yes
+      - name: Deployment summary
+        env:
+          DEPLOYMENT_URL: ${{ steps.stage.outputs.url }}
+        run: printf 'Validated and promoted %s\n' "$DEPLOYMENT_URL" >> "$GITHUB_STEP_SUMMARY"

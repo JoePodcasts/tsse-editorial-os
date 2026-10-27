@@ -1,0 +1,489 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 328,
+      "excerpt": "Paige Doherty: We'll go through sort of this Socratic discussion about different investments. And there've been some instances where either here I was like relatively hesitant. And then through that Socratic discussion of the market, the entrepreneur, the opportunity we have come over that hill to make the investment together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 460,
+      "excerpt": "I think it's been really helpful to have a business partner with whom I can discuss those things from a first-principles approach.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 330,
+      "timestamps": []
+    },
+    {
+      "end": 708,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 462,
+      "timestamps": []
+    },
+    {
+      "end": 1029,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. My guest today is Paige Doherty. She's the founding partner at Behind Genius Ventures based in San Diego. We'll talk to her about the kind of entrepreneurs she invests in, what she looks for in those founders, what gets that excited. Paige, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 710,
+      "timestamps": []
+    },
+    {
+      "end": 1089,
+      "excerpt": "Paige Doherty: Thank you so much. I'm excited to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 1031,
+      "timestamps": []
+    },
+    {
+      "end": 1338,
+      "excerpt": "Gopi Rangan: Tell me about yourself. You are one of the youngest venture capital investors in the world, and you jumped into this world very quickly. You started your career as an engineer. You have a bachelor's degree in computer science. Right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1091,
+      "timestamps": []
+    },
+    {
+      "end": 1663,
+      "excerpt": "Paige Doherty: Sure. I would say I'm a very curious person. From the time I was younger, I always loved deconstructing systems, whether that was mechanical systems like soldering a speaker in my car with my dad or computer science systems, where I would look to see how music was made and try to alter it with Python codes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 1340,
+      "timestamps": []
+    },
+    {
+      "end": 2391,
+      "excerpt": "But one of the things I was most interested in is businesses. I always felt an entrepreneurial spark but didn't know what business I wanted to start, and then when I got introduced to venture during my junior year at San Diego State University, I fell in love. It's all the aspects that I was interested in having to do with kind of taking a systems engineering approach to things, and I devoured every single bit of information I could find about venture capital, which wasn't much. I've found that most venture capitalists were relatively quiet about their work and didn't talk much about how they made their investments, why they chose to work with certain entrepreneurs, and even how the business of venture capital works.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1665,
+      "timestamps": []
+    },
+    {
+      "end": 2781,
+      "excerpt": "So, as I was learning, I started writing about my experience and what I was learning. That blossomed into growing a Twitter community, writing an illustrated children's book for adults on venture capital, and finally founding a venture firm Behind Genius Ventures. It's been quite a journey so far following my curiosity and getting to work with really great founders and investors alike.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2393,
+      "timestamps": []
+    },
+    {
+      "end": 3054,
+      "excerpt": "Gopi Rangan: What do you like about venture capital? It was just such an amazing journey you've had in such a short time in your career. And it's great to see that you have your own firm. I'm very curious to understand what's exciting for you when you work with founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2783,
+      "timestamps": []
+    },
+    {
+      "end": 4066,
+      "excerpt": "Paige Doherty: I've always been a huge reader, looking at a pile of books on my floor, sacked about 40 high. And I think storytelling is a common thread that's been really interesting to me. One of the things I look for when I talk to founders is their ease of translation. When you're building a business, you're looking internally and your timeframe is narrowed. So that two to four week period, both in the past and the future and communicating to investors, I noticed based on my experience, you know, raising for Behind Genius Ventures requires you to zoom out and look at how far you've come and also what your 10-year goal in the future is. The ability to translate that, synthesize information, share your larger vision is something that gets me really excited when I talk to entrepreneurs that they have the ability to zoom out and give the 30,000-foot view of the business and the, where do they want to take their larger mission? I also love working with entrepreneurs who are very customer-centric.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 3056,
+      "timestamps": []
+    },
+    {
+      "end": 4693,
+      "excerpt": "It's one of the questions I'll often ask when I'm talking to entrepreneurs is: How many customer calls have you done this week or this month? And I love hearing about entrepreneurs who are just so obsessed with the customer demographic that they're working with. They're often on five to 10 customer calls a week and just rapidly testing different hypotheses around what that customer demographic wants and what they need, and not being emotionally married to a solution too early on. At the earliest stage, things change rapidly. Constant contact with your customer demographic allows you to make those shifts in real-time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4068,
+      "timestamps": []
+    },
+    {
+      "end": 5241,
+      "excerpt": "The third thing is grit and hustle. I went to a state school and there wasn't a huge venture capital ecosystem where I was. I sent hundreds of cold emails to other venture capitalists to learn more about what their days were like and what they did and why they loved what they did. I have taken a strong liking to people who have had similar entrances into the space. So I really enjoy investing in founders who have a high build velocity. They work really quickly towards a massive goal and continue to pivot and keep pushing towards that goal. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4695,
+      "timestamps": []
+    },
+    {
+      "end": 5591,
+      "excerpt": "Gopi Rangan: This is very interesting. You have a very thoughtful approach to working with founders. I have a lot more questions for you on how you engage with founders, but I want to talk about the book and your podcast before we jump into more details. You are the author of this book, Seed to Harvest. You also have a podcast with the same name.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5243,
+      "timestamps": []
+    },
+    {
+      "end": 5661,
+      "excerpt": "Tell us about what is the book about, and what's the podcast about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5593,
+      "timestamps": []
+    },
+    {
+      "end": 6598,
+      "excerpt": "Paige Doherty: I originally wrote Seed to Harvest so I could explain to my parents what venture was and I was tweeting about my journey writing it. So it started off as a doodled page and I asked around 80 people for feedback and people wrote back with pages and pages of feedback. While I was exploring venture capital, there wasn't a great primer. Venture Deals is an incredible book about the business of venture capital. It's also 300 pages, and Brad Feld went through an incredible journey writing that. But I wanted something simpler. So the format of a children's book was important to me to be able to give people who are interested in venture or entrepreneurs, aspiring investors, a quick peek into the world of venture, what it is, why it matters and how it works. There's not a lot of people who talk about things like capital calls or follow-on funding. That's not something that's usually talked about in the conversation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 5663,
+      "timestamps": []
+    },
+    {
+      "end": 6983,
+      "excerpt": "That was how it started. I was right out of college. This was my nights and weekends project while I was working at WorkOS. And I remember sitting in the Forbes photoshoot looking down at the book and just the sound of that, how far it had brought me this little project that I started in my tiny apartment in San Diego, to the photoshoot in Detroit, to founding my own venture firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6600,
+      "timestamps": []
+    },
+    {
+      "end": 7745,
+      "excerpt": "And it was how I met the founder that I first invested in. It was how I met my business partner, Josh. It was how I connected with many investors for Behind Genius Ventures. It's just been a really incredible journey that has had so many unexpected synchronicities and the podcast, which has the same name I was originally going to call it a 'billionaire girls club', But the podcast I started because I wanted to have the conversations I was having behind closed doors with these incredible venture capitalists, many of whom are my investors and blossomed into talking about different stories from their past, their broader missions, the tactics that they use to structure their day and evaluate companies and just something different than what I was hearing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6985,
+      "timestamps": []
+    },
+    {
+      "end": 8109,
+      "excerpt": "So that's how that got started. I've really enjoyed working with Stripe as my founding sponsor for that podcast, and just continuing to interview a diverse array of investors, founders, and creators. One of my favorite episodes I recently recorded was one with founding partner, Heather Hartnett at Human Ventures and award-winning film producer, Sianna Oberman.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7747,
+      "timestamps": []
+    },
+    {
+      "end": 8419,
+      "excerpt": "That was really interesting to tie together the similarities and differences between film producing and venture capital, and really enjoy having those cross-cultural moments where people get really excited by the parallels in what they're doing in a very different side of the world. So it's been really fun.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8111,
+      "timestamps": []
+    },
+    {
+      "end": 8806,
+      "excerpt": "Gopi Rangan: I wish this book existed when I started in venture capital. It would have saved me years of making mistakes and learning from torturing other people. It's really difficult to understand what is venture capital. Even people who are in the industry don't understand the nuances of the business. It takes many years for people to really get a grasp of what this is all about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8421,
+      "timestamps": []
+    },
+    {
+      "end": 9144,
+      "excerpt": "I'm glad that you wrote this book to simplify. I can relate to the nerdy side of you getting very curious to learn about different things, but I think you've taken it to the next level where you've simplified complicated concepts, distilled them into cartoon stick figures that explain what is venture capital. So thanks for doing that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8808,
+      "timestamps": []
+    },
+    {
+      "end": 9580,
+      "excerpt": "Paige Doherty: Absolutely. I think that's a very unique characteristic of investors. A lot of our job is to simplify complicated information and synthesize it and see trends and patterns across different industries and markets. So there are two aspects of it. One is consuming a vast array of information, and the second is creating something new with what you've learned. That's something I carry across a lot of the work that I do. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 9146,
+      "timestamps": []
+    },
+    {
+      "end": 9692,
+      "excerpt": "Gopi Rangan: Were you always like that, or is that something that you developed along the way over the years? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9582,
+      "timestamps": []
+    },
+    {
+      "end": 10983,
+      "excerpt": "Paige Doherty: It's been a process. It was something I was interested in. When people ask if I wanted to be a venture capitalist when I grew up, I often laugh because what eight-year-old girl is thinking about that? But I had always wanted to be an author and I would come home from the library holding a stack of books up to my chin, struggling to push the button to open the library door and reading 15 to 20 bucks every couple of weeks when I was younger. I wanted to write my own books. That was what I wanted to do. It feels interesting that this was the first manifestation of that, but I was always very interested in that synthesis of information. I read a lot. I would say I retain not that much, but I was reading this really great book by Murikami, 'Norwegian Wood' and he talks about as humans go through the grieving process, it's curious what memories stick with us. Oftentimes many things will fade away, but when those memories fade away, you're left with the essence of someone. My approach to reading and synthesizing information is very similar. I'm not reading to retain as much knowledge as possible, but I'm reading to retain the essence of what I'm reading. And I seek to write in a similar fashion. So connecting the essences of the other pieces that I'm consuming.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 9694,
+      "timestamps": []
+    },
+    {
+      "end": 11243,
+      "excerpt": "Gopi Rangan: Oh, there's a lot of wisdom here. I see you think quite deeply about topics when you embrace things. I want to jump into the founder's side of the story. Let's start with the Behind Genius Ventures. How did you get started? What was the genesis?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10985,
+      "timestamps": []
+    },
+    {
+      "end": 12972,
+      "excerpt": "Paige Doherty: The genesis of Behind Genius Ventures was a handful of things. I was introduced to my business partner, Josh, through someone who's now an LP and our fund. We had met when I was going through my first syndicate deal and it was in a company called Pallet. At the time I had this table-thumping enthusiasm about what the founder Kai Han was building and really wanted to be involved. I had started making introductions to various venture capitalists, but this one felt special and I wanted my name and this to be a part of my track record. So I asked for allocation in the deal and got 50K in allocation. And I was like, I guess I got to go find 50K cause it's definitely not in my bank account. The same week I was introduced to Josh who had gone through a similar process for a deal he had recently done. Josh helped walk me through the steps of what it was to set up a syndicate deal and what software to use and was just really helpful. I remember getting off the call and just thinking this is someone that I really want to work with in the future. He has such a thoughtfulness around the way that he teaches and really has his heart in the right place. I had been nurturing that thought over the past couple of months, and he had been approached by Arjun Sethi at Tribe Capital and Sumeet Gajri, who's the former CSO at Carta to start his own fund. In December, we got together, sat six feet apart with masks on talking about what the future of Behind Genius Ventures would look like. At the end of that day, we had summarized. We wanted to raise around a $5 million venture fund focusing on products like growth and the future of work and future of play - two themes that resonated strongly with both of us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 11245,
+      "timestamps": []
+    },
+    {
+      "end": 13260,
+      "excerpt": "In March, we set out to fundraise for BGV. And over the next nine months, we ended up raising a bit over $5 million from great investors like Tribe Capital, Bain Capital Ventures, Bonfire Ventures, over 50 plus GPs from firms like Andreessen Horowitz, Union Square Ventures, BlackRock. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12974,
+      "timestamps": []
+    },
+    {
+      "end": 14529,
+      "excerpt": "It's been such an incredible journey so far to think back to sitting six feet apart and scribbling furiously in our notebooks about what we wanted the future to look like, and a year in the future, the future has arrived. Now we're almost halfway through deploying fund one, and we've both grown so much as people and learned a lot about investing. When you make investments as a syndicate investor, you're pitching individual people on a specific product or specific business. When you're raising a fund, there's a process of unfolding and self-discovery. You have to connect what makes you unique as a person/ what makes you unique as a partnership with the companies and founders that you want to invest in. That takes time to mature that thought process. My mentor, Andy Weissman, who's also an investor in our fund, always told me the investment process is just that: the process. He's been investing for decades and he says, \"I'm still iterating. I'm still trying to find out what works, and it's a really long feedback process in venture.\" He encouraged me to take my time on making decisions and dig into the fact that the investment process is not going to be perfect, but in striving for perfection, you develop a deep appreciation for the craft of venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13262,
+      "timestamps": []
+    },
+    {
+      "end": 14665,
+      "excerpt": "Gopi Rangan: Well, congratulations. What an amazing story, how you got started and you got more than 50 investors in your first fund. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14531,
+      "timestamps": []
+    },
+    {
+      "end": 14707,
+      "excerpt": "Paige Doherty: Oh! Yeah, It's like 120. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 14667,
+      "timestamps": []
+    },
+    {
+      "end": 15249,
+      "excerpt": "Gopi Rangan: Okay. There's a remarkable difference between how you manage an SPV, a single entity where you invest in a company, versus, raising money for a fund. Investors who put money into a fund are investing in a blind pool. They have no idea what companies you would invest it. So, it becomes harder to raise a venture fund compared to an SPV. So congratulations on getting your first fund done. And I'm glad to see that it's off and running. I want to hear about the kind of companies you want to invest in. What's the focus for BGV?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14709,
+      "timestamps": []
+    },
+    {
+      "end": 16428,
+      "excerpt": "Paige Doherty: Sure. I'll break it down into a couple of different areas. One is stage. We like to invest in pre-seed and seed-stage startups. The sectors that we focus on are the future of work and the future of play. At the future of work, we look to invest in API-first tools, dev tools, FinTech, more of like the B2B SaaS version of things. At the future of play, we focus on things like the creator ecosystem, wellness, and gaming. We've made 15 core investments in those spaces. I joke that as we've continued to invest, my investment taste has become a lot like my interior design taste - very eclectic. We have a broad range of portfolio companies from a glass board for creators called FYPM to Aviron, which is like Peloton for rowing, building gaming infrastructure for connected fitness machines, to Pallet, a community-oriented job board. Seeing the different learnings that those founders have had as we've grown with them over the past nine months has been really incredible and has helped us further develop our investment process on what matters to us and the founders that we're investing in and how people have continued to grow after that initial investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 15251,
+      "timestamps": []
+    },
+    {
+      "end": 16698,
+      "excerpt": "As for check size, we write a bunch of $100k checks and $200k checks. We're leaning more towards the $200k checks now. As we look towards building the firm, we want to start writing larger checks as future funds come up. And so, we have back-loaded those $200k checks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16430,
+      "timestamps": []
+    },
+    {
+      "end": 17026,
+      "excerpt": "We want to become an institutional-style venture firm. The discipline around investing is really important to us. We look for around 1% target ownership in companies. We invest at valuations anywhere from around like $6 million to flexing up to around $30 million. We've done some outliers, but that's our average check size. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16700,
+      "timestamps": []
+    },
+    {
+      "end": 17321,
+      "excerpt": "Products like growth are very important to us. We love working with founders that are very community-first, building evangelical users of their products that have a high viral coefficient. So those are some of the things that we look for when we're investing in different teams and companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17028,
+      "timestamps": []
+    },
+    {
+      "end": 17420,
+      "excerpt": "Gopi Rangan: You've clearly described what you're looking for in the areas you get excited about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17323,
+      "timestamps": []
+    },
+    {
+      "end": 17715,
+      "excerpt": "I like the way you described your investment style is very similar to your interior design. It's a very eclectic collection of different things. What happens in the first meeting and the second meeting? When you meet an entrepreneur for the first time, what do you ask them? What are you for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17422,
+      "timestamps": []
+    },
+    {
+      "end": 18394,
+      "excerpt": "Paige Doherty: Yeah, absolutely. I'll talk about a company called Drivly. We got introduced to Drivly by one of our investors, Taylor at Konvoy Ventures. He sent over this company. It's a really interesting API-first play in the auto space, which was not an industry we had previously looked at but when we went into the first meeting, there were a couple of things that I wanted to learn more about. One was the market. I didn't know as much about the auto market. Two, I wanted to get a feeling what were the specific go-to-market strategies for their API-first platform? I think there are lots of ways that you can market API tools and the clarity there is really important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 17717,
+      "timestamps": []
+    },
+    {
+      "end": 18811,
+      "excerpt": "So our investment process usually looks like meeting with myself or Josh is the initial meeting. We might have some asynchronous due diligence questions over email. Then, we'll introduce the company that we're speaking with to the respective partner, either myself or Josh, and then our third call is usually our decision. So, end to end can be anywhere from a month or we've made investments in the span of a week.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18396,
+      "timestamps": []
+    },
+    {
+      "end": 19039,
+      "excerpt": "As we're going through that process, we'll often back channel with other people in the ecosystem that we know are connected with that company or different LPs that have experience in the area that that founder is building in. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18813,
+      "timestamps": []
+    },
+    {
+      "end": 19755,
+      "excerpt": "For Drivly, I took the first call, and I was blown away by the lack of centralization of data in the auto space. To put it in perspective, 20% of retail sales in the US are autos car purchases, but only 2% of those purchases are made online today. What I learned from the Jubilee founders is that a lot of that is because of the lack of centralization of data. So, brokers are working totally separately from each other. It's difficult to collaborate with other folks who might have certain cars that customers are looking for. And so they [Drivly] had built this API that essentially connects a ton of data within the auto space and their broader mission is to empower the next 10 auto unicorns in the auto space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19041,
+      "timestamps": []
+    },
+    {
+      "end": 20175,
+      "excerpt": "I thought that that was a really incredible mission and the way that they were marketing was really interesting. They had spun up a ton of side projects. I would call them drops. So these drops were utilizations of their core API and they allowed people to do things like spin up their own e-commerce platform that was fully customizable and integrated with different website builders to sell customizable cars online.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19757,
+      "timestamps": []
+    },
+    {
+      "end": 21055,
+      "excerpt": "One of the really interesting proof points that we heard is there's a high trust coefficient involved with making such large purchases online. That was a risk we were thinking about. And one of the ways that we thought this risk was mitigated is they had already sold a Lamborghini through the platform. If you can sell a Lamborghini through the platform, you've definitely gotten to that trust coefficient level. The other is the complexity of finding a car that matches the client's tastes. Through this e-commerce API, someone had reached out and said, \"Hey mate, my wife is terminally ill and she's looking for this specific car with this specific detailing. Can you find it for us?\" They were able to locate this terminally ill woman's car within 48 hours and I thought that was such an incredible testament to the power of the centralization of data within the auto space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20177,
+      "timestamps": []
+    },
+    {
+      "end": 21367,
+      "excerpt": "I came out of that call being incredibly wild by, first of all, the size of the market was massive. There was a lot of greenfield space. And then, the founders were so thoughtful about their storytelling. We invested in their pre-seed and it's been really interesting to watch them grow and develop the vision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21057,
+      "timestamps": []
+    },
+    {
+      "end": 21705,
+      "excerpt": "Gopi Rangan: Thank you for sharing a real-life example of how you manage from the beginning to the time when you decided to make the investment. I see that you are blown away in the first meeting. What happens if you're not blown away in the first meeting? Is it a no? Is there a situation where an entrepreneur has had a second chance?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21369,
+      "timestamps": []
+    },
+    {
+      "end": 22750,
+      "excerpt": "Paige Doherty: That's a good question. I think there've been a handful of folks that I haven't been blown away by, and then Josh will be blown away by them, and then we'll go through sort of the Socratic discussion about different investors. There've been some instances where either he or I was relatively hesitant and through that Socratic discussion of the market, entrepreneur, the opportunity, we have come over that hill to make the investment together. I think it's been really helpful to have a business partner that I can discuss those things with from a very first principles approach, and then often we'll hop on a third call. It's less that we're not blown away but we might have a significant concern. So, we'll do the third call together and try and get to the core of what that concern is, communicate it clearly to the entrepreneur and see what their reaction to it is. There have definitely been instances in which one or the other of us had the conviction to pull the other person across the line in that investment decision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 21707,
+      "timestamps": []
+    },
+    {
+      "end": 22960,
+      "excerpt": "Gopi Rangan: You and your partner collaborate on making these decisions. You debate with each other. You find areas where you may need to double click and go deeper in a third conversation if it's necessary. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22752,
+      "timestamps": []
+    },
+    {
+      "end": 22991,
+      "excerpt": "Paige Doherty: Yes. Exactly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 22962,
+      "timestamps": []
+    },
+    {
+      "end": 23048,
+      "excerpt": "Gopi Rangan: What's your most common reason to say no? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22993,
+      "timestamps": []
+    },
+    {
+      "end": 23380,
+      "excerpt": "Paige Doherty: One of the most common reasons that we say no is the stage. If people apply and it's either too late of a stage or sometimes folks can apply a bit too early. We've invested pre-product pre-revenue, but we do like to see a pretty deep interview process of their chosen customer demographics. That's really important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 23050,
+      "timestamps": []
+    },
+    {
+      "end": 23776,
+      "excerpt": "So, say folks apply with an idea but not any backup in terms of that customer demographic and conversations that they've had. That's usually one of our most common passes. And some entrepreneurs have come back and been like, \"Hey, thank you so much for the feedback. And I went through all of these different questions with customer demographic and we've been continuing to track those folks.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23382,
+      "timestamps": []
+    },
+    {
+      "end": 24167,
+      "excerpt": "Sometimes things just like aren't in our areas of interest, like crowded markets like the HR space or a bit hard for Josh and myself to gain a conviction on because it's a massive market, there's a lot of companies out there and neither of us has deep experience in it. So it's hard for us to see who would be a clear winner. We'll often stay away from making investments in those spaces. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23778,
+      "timestamps": []
+    },
+    {
+      "end": 24445,
+      "excerpt": "Gopi Rangan: You're candidly sharing what works and what doesn't work for you. I really appreciate that. I want to switch to the next part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24169,
+      "timestamps": []
+    },
+    {
+      "end": 24841,
+      "excerpt": "Paige Doherty: All Raise is a nonprofit organization that I am really excited about. Their mission is to increase the number of both women investors and women entrepreneurs in the venture space. One of the founding members of All Raise, Jenny Lefcourt, is one of our investors and she's just been an incredible help through our process. And I think that is a cause that is very inspiring to me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Paige Doherty",
+      "start": 24447,
+      "timestamps": []
+    },
+    {
+      "end": 25468,
+      "excerpt": "Also, I'm really excited by financial literacy, and so I collaborate with a lot of other folks in the venture ecosystem on making this space more transparent and available to entrepreneurs or investors that are interested in this space. I would say a lot of my giving back has been related to spending like eight to 10 hours on a content piece where a bunch of people have asked about it or I've seen it come up and no one's really answered that question definitively for them. That's where I spend a lot of my time giving back. I also volunteer as a coach for the San Diego State venture capital investment competition team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24843,
+      "timestamps": []
+    },
+    {
+      "end": 25863,
+      "excerpt": "Gopi Rangan: Oh, this is great. I'm glad that you were able to share a lot of experiences based on your journey over the years of building a venture firm, specific examples of startups that you invested in, what you look for in entrepreneurs and what are some things that entrepreneurs do that don't work for you. That's very candid and very thoughtful of you to share those examples as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25470,
+      "timestamps": []
+    },
+    {
+      "end": 25973,
+      "excerpt": "Thank you very much for sharing your wisdom with me. I look forward to sharing those nuggets with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25865,
+      "timestamps": []
+    },
+    {
+      "end": 26137,
+      "excerpt": "Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25975,
+      "timestamps": []
+    },
+    {
+      "end": 26304,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26139,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "45c024d3de10d96c75ef9221350f5ee20e588c892fea37dfa636164d7e1edbfa",
+  "text_sha256": "20788620243285fdf575c6d05dcae5649eae4251b6e5f601fcf7d5a40634f1ef"
+}

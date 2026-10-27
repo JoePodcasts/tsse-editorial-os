@@ -31,3 +31,22 @@ data/temp/
 
 # Windows
 Thumbs.db
+# Quote-card builds and locally licensed fonts/large source assets
+outputs/quote_cards/
+data/publishing/local/
+publishing/local-fonts/
+# Isolated local portrait processing runtime, models and review builds
+.venv-portraits/
+outputs/portraits/
+# Archive writer recovery state stays outside the accepted archive.
+/.archive*.lock
+/.archive-*-checkpoints/
+/.archive*-failure.json
+/.archive-production-*/
+/.archive-stage-*/
+/.archive-ingest-*/
+# Generated public deployment and provider-local project configuration.
+/public/
+/vercel_runtime/
+/.vercel/
+/.archive-deploy-*/

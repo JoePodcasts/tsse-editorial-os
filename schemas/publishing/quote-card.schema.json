@@ -1,0 +1,360 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TSSE quote-card input",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "episode": {
+      "type": "object",
+      "properties": {
+        "number": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "guest": {
+          "type": "string",
+          "minLength": 1
+        },
+        "record_path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "record_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      },
+      "required": [
+        "number",
+        "guest",
+        "record_path",
+        "record_sha256"
+      ],
+      "additionalProperties": false
+    },
+    "quote_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "quote": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "classification": {
+          "type": "string",
+          "enum": [
+            "verbatim",
+            "lightly_cleaned",
+            "editorial_paraphrase"
+          ]
+        },
+        "source": {
+          "type": "object",
+          "properties": {
+            "path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "url": {
+              "type": "string"
+            },
+            "speaker": {
+              "type": "string",
+              "minLength": 1
+            },
+            "start": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "end": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "excerpt": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "path",
+            "sha256",
+            "url",
+            "speaker",
+            "start",
+            "end",
+            "excerpt"
+          ],
+          "additionalProperties": false
+        },
+        "editorial_note": {
+          "type": "string"
+        },
+        "emphasis": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "start": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "end": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "required": [
+              "start",
+              "end"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "lines": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "review_status": {
+          "type": "string",
+          "enum": [
+            "candidate",
+            "approved"
+          ]
+        },
+        "paragraph_starts": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        }
+      },
+      "required": [
+        "text",
+        "classification",
+        "source",
+        "editorial_note",
+        "emphasis",
+        "lines",
+        "review_status"
+      ],
+      "additionalProperties": false
+    },
+    "attribution": {
+      "type": "object",
+      "properties": {
+        "role": {
+          "type": "string",
+          "minLength": 1
+        },
+        "company": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "role",
+        "company"
+      ],
+      "additionalProperties": false
+    },
+    "portrait": {
+      "type": "object",
+      "properties": {
+        "original": {
+          "type": "object",
+          "properties": {
+            "path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "source": {
+              "type": "string",
+              "minLength": 1
+            },
+            "status": {
+              "type": "string",
+              "enum": [
+                "candidate",
+                "approved"
+              ]
+            }
+          },
+          "required": [
+            "path",
+            "sha256",
+            "source",
+            "status"
+          ],
+          "additionalProperties": false
+        },
+        "cutout": {
+          "type": "object",
+          "properties": {
+            "path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "source": {
+              "type": "string",
+              "minLength": 1
+            },
+            "status": {
+              "type": "string",
+              "enum": [
+                "candidate",
+                "approved"
+              ]
+            }
+          },
+          "required": [
+            "path",
+            "sha256",
+            "source",
+            "status"
+          ],
+          "additionalProperties": false
+        },
+        "recipe": {
+          "type": "string",
+          "minLength": 1
+        },
+        "x": {
+          "type": "number"
+        },
+        "y": {
+          "type": "number"
+        },
+        "width": {
+          "type": "number"
+        },
+        "approval_candidate": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "original",
+        "cutout",
+        "recipe",
+        "x",
+        "y",
+        "width",
+        "approval_candidate"
+      ],
+      "additionalProperties": false
+    },
+    "fonts": {
+      "type": "object",
+      "properties": {
+        "bold": {
+          "type": "object",
+          "properties": {
+            "path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "family": {
+              "type": "string",
+              "minLength": 1
+            },
+            "status": {
+              "type": "string",
+              "enum": [
+                "provisional",
+                "confirmed"
+              ]
+            }
+          },
+          "required": [
+            "path",
+            "sha256",
+            "family",
+            "status"
+          ],
+          "additionalProperties": false
+        },
+        "regular": {
+          "type": "object",
+          "properties": {
+            "path": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "family": {
+              "type": "string",
+              "minLength": 1
+            },
+            "status": {
+              "type": "string",
+              "enum": [
+                "provisional",
+                "confirmed"
+              ]
+            }
+          },
+          "required": [
+            "path",
+            "sha256",
+            "family",
+            "status"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "bold",
+        "regular"
+      ],
+      "additionalProperties": false
+    },
+    "profile": {
+      "type": "string",
+      "enum": [
+        "auto",
+        "short",
+        "medium",
+        "long"
+      ]
+    }
+  },
+  "required": [
+    "schema_version",
+    "episode",
+    "quote_number",
+    "quote",
+    "attribution",
+    "portrait",
+    "fonts",
+    "profile"
+  ],
+  "additionalProperties": false
+}

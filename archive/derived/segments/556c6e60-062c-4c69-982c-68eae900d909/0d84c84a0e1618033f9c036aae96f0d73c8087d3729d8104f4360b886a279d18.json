@@ -1,0 +1,2613 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 359,
+      "excerpt": "[00:00:00] Michael Gibson: I go down there and I, I throw on the 1517 shirt and I get on stage and I'm talking like, we exist. And it really hit with the audience 'cause it was like I was coming after the Microsoft guy who's like, oh, you might get an internship to work on, I don't know, Azure. But then I'm up there and I'm like, let's go follow your dream.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 0,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 501,
+      "excerpt": "[00:00:20] We're giving out grants, we're making investments, and, and it worked. And so people would ask me about 1517, so we went with it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 361,
+      "timestamps": [
+        {
+          "offset": 361,
+          "raw": "[00:00:20]",
+          "seconds": 20
+        }
+      ]
+    },
+    {
+      "end": 911,
+      "excerpt": "[00:00:31] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. I am with two very special investors today, Danielle Strachman and Michael Gibson.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 503,
+      "timestamps": [
+        {
+          "offset": 503,
+          "raw": "[00:00:31]",
+          "seconds": 31
+        }
+      ]
+    },
+    {
+      "end": 1264,
+      "excerpt": "[00:01:03] They are both founders and general partners at 1517 Fund. The name itself is quite intriguing. We're gonna talk about that and what kind of founders do they invest in? They invest in founders who drop out of colleges and universities to start a company. Crazy. We're gonna find out why they do that and what's interesting about that cohort.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 913,
+      "timestamps": [
+        {
+          "offset": 913,
+          "raw": "[00:01:03]",
+          "seconds": 63
+        }
+      ]
+    },
+    {
+      "end": 1387,
+      "excerpt": "[00:01:26] And before we do all of that, let's welcome them and ask them who they are. Welcome Danielle. Welcome Michael.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1266,
+      "timestamps": [
+        {
+          "offset": 1266,
+          "raw": "[00:01:26]",
+          "seconds": 86
+        }
+      ]
+    },
+    {
+      "end": 1442,
+      "excerpt": "[00:01:32]  Danielle Strachman: Thanks for having us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 1389,
+      "timestamps": [
+        {
+          "offset": 1389,
+          "raw": "[00:01:32]",
+          "seconds": 92
+        }
+      ]
+    },
+    {
+      "end": 1516,
+      "excerpt": "[00:01:33] Michael Gibson: Yeah, thanks for having us. Great to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 1444,
+      "timestamps": [
+        {
+          "offset": 1444,
+          "raw": "[00:01:33]",
+          "seconds": 93
+        }
+      ]
+    },
+    {
+      "end": 1629,
+      "excerpt": "[00:01:36] Gopi Rangan: Let's start with you. Where are you from? Where'd you grow up? And where are you today?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1518,
+      "timestamps": [
+        {
+          "offset": 1518,
+          "raw": "[00:01:36]",
+          "seconds": 96
+        }
+      ]
+    },
+    {
+      "end": 1712,
+      "excerpt": "[00:01:41] Michael Gibson: I grew up in Connecticut on the shores of Long Island.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 1631,
+      "timestamps": [
+        {
+          "offset": 1631,
+          "raw": "[00:01:41]",
+          "seconds": 101
+        }
+      ]
+    },
+    {
+      "end": 2072,
+      "excerpt": "[00:01:44] Sound very beautiful, but boring town. Rich people in my hometown join country clubs and yachting clubs and maybe play golf. That's the life they look forward to. And I just remember I being so excited by the dreamers of California when I moved out. It's like rich people in California are building rockets and electric cars and other crazy stuff.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1714,
+      "timestamps": [
+        {
+          "offset": 1714,
+          "raw": "[00:01:44]",
+          "seconds": 104
+        }
+      ]
+    },
+    {
+      "end": 2141,
+      "excerpt": "[00:02:05] So I'm born on the East coast. I'm West Coast by spirit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2074,
+      "timestamps": [
+        {
+          "offset": 2074,
+          "raw": "[00:02:05]",
+          "seconds": 125
+        }
+      ]
+    },
+    {
+      "end": 2191,
+      "excerpt": "[00:02:10] Gopi Rangan: How about you, Danielle?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2143,
+      "timestamps": [
+        {
+          "offset": 2143,
+          "raw": "[00:02:10]",
+          "seconds": 130
+        }
+      ]
+    },
+    {
+      "end": 3131,
+      "excerpt": "[00:02:11]  Danielle Strachman: Kind of similar in the coastal attitudes, but I grew up outside of Boston in a little town called Needham. It was a suburb and I've been on the west coast now for 24 years. So sometimes I tell people I'm east coast on the inside, but West coast on the outside, and I think, for me in particular, I feel like my East Coast New England sensibilities have actually served me really well in my career and as a fund manager but at the same time, it's been really wonderful. I remember as soon as I moved to California, I was like, wow, people here literally talk about the future and where I'm from there's a lot of past history about things, which is really beautiful. But it also, like in my experience, it meant a majority of the time was spent talking about the past and not where we were going. So I remember when I first moved to California, I was like, wow, this feels so great. Like these are my people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 2193,
+      "timestamps": [
+        {
+          "offset": 2193,
+          "raw": "[00:02:11]",
+          "seconds": 131
+        }
+      ]
+    },
+    {
+      "end": 3253,
+      "excerpt": "[00:03:03] But yeah, some of the sensibilities from the east coast I think have also played really well into what we do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3133,
+      "timestamps": [
+        {
+          "offset": 3133,
+          "raw": "[00:03:03]",
+          "seconds": 183
+        }
+      ]
+    },
+    {
+      "end": 3351,
+      "excerpt": "[00:03:08] Gopi Rangan: I usually say my hardware is Indian and my operating system is American.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3255,
+      "timestamps": [
+        {
+          "offset": 3255,
+          "raw": "[00:03:08]",
+          "seconds": 188
+        }
+      ]
+    },
+    {
+      "end": 3395,
+      "excerpt": "[00:03:12]  Danielle Strachman: I love it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 3353,
+      "timestamps": [
+        {
+          "offset": 3353,
+          "raw": "[00:03:12]",
+          "seconds": 192
+        }
+      ]
+    },
+    {
+      "end": 3501,
+      "excerpt": "[00:03:12] Gopi Rangan: Funny. My, my thoughts are in the cloud and I have APIs to connect with anybody.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3397,
+      "timestamps": [
+        {
+          "offset": 3397,
+          "raw": "[00:03:12]",
+          "seconds": 192
+        }
+      ]
+    },
+    {
+      "end": 3567,
+      "excerpt": "[00:03:18]  Danielle Strachman: I love that. That's really good.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 3503,
+      "timestamps": [
+        {
+          "offset": 3503,
+          "raw": "[00:03:18]",
+          "seconds": 198
+        }
+      ]
+    },
+    {
+      "end": 3586,
+      "excerpt": "[00:03:19] That's",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3569,
+      "timestamps": [
+        {
+          "offset": 3569,
+          "raw": "[00:03:19]",
+          "seconds": 199
+        }
+      ]
+    },
+    {
+      "end": 3623,
+      "excerpt": "[00:03:19] Michael Gibson: awesome.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 3588,
+      "timestamps": [
+        {
+          "offset": 3588,
+          "raw": "[00:03:19]",
+          "seconds": 199
+        }
+      ]
+    },
+    {
+      "end": 3789,
+      "excerpt": "[00:03:21] Gopi Rangan: Well, it's really nice to see that you came from a very, very different background and both of you are at the Thiel Foundation at one point.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3625,
+      "timestamps": [
+        {
+          "offset": 3625,
+          "raw": "[00:03:21]",
+          "seconds": 201
+        }
+      ]
+    },
+    {
+      "end": 3825,
+      "excerpt": "[00:03:28] Michael Gibson: Mm-hmm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 3791,
+      "timestamps": [
+        {
+          "offset": 3791,
+          "raw": "[00:03:28]",
+          "seconds": 208
+        }
+      ]
+    },
+    {
+      "end": 3898,
+      "excerpt": "[00:03:29] Gopi Rangan: And now you run a VC firm. How did that happen?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3827,
+      "timestamps": [
+        {
+          "offset": 3827,
+          "raw": "[00:03:29]",
+          "seconds": 209
+        }
+      ]
+    },
+    {
+      "end": 4052,
+      "excerpt": "[00:03:32] Michael Gibson: Oh man. Crazy unlikely sequence of events. So I came into Peter Thiel's orbit. I had been a journalist for MIT's Tech Review.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 3900,
+      "timestamps": [
+        {
+          "offset": 3900,
+          "raw": "[00:03:32]",
+          "seconds": 212
+        }
+      ]
+    },
+    {
+      "end": 4431,
+      "excerpt": "[00:03:43] I had volunteered for the Seasteading Institute. This is a group of people possessed by the radical notion that maybe we should try to build land at sea, so like floating platforms to enable new forms of community. Way ahead of its time. The sea is a harsh mistress. There were no platforms built at sea, but it brought together a really interesting group of people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4054,
+      "timestamps": [
+        {
+          "offset": 4054,
+          "raw": "[00:03:43]",
+          "seconds": 223
+        }
+      ]
+    },
+    {
+      "end": 4825,
+      "excerpt": "[00:04:07] It was through that that I met some people that worked for Peter Thiel. They mentioned there was a job opening and they needed a writer, researcher and 'cause Peter, this is back in 2010, Peter didn't have the profile he has now, but he was still an interesting character. So I interviewed, he hired me to help him teach a class at Stanford Law School on Philosophy and technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4433,
+      "timestamps": [
+        {
+          "offset": 4433,
+          "raw": "[00:04:07]",
+          "seconds": 247
+        }
+      ]
+    },
+    {
+      "end": 4877,
+      "excerpt": "[00:04:27] Gopi Rangan: Philosophy and technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4827,
+      "timestamps": [
+        {
+          "offset": 4827,
+          "raw": "[00:04:27]",
+          "seconds": 267
+        }
+      ]
+    },
+    {
+      "end": 5931,
+      "excerpt": "[00:04:29] Michael Gibson: Wow. Yeah. The, the title of the class was sovereignty, globalization and technological change. And we had 18 classes. Each class had a focus and I was in charge of putting that all together. What's kind of interesting is I learned in time, Peter does this as a way to develop his ideas, so he's went on to teach more classes. Another class at Stanford became zero to one. I just was in Cambridge, UK last month and Peter was giving lectures on some new ideas. So I think it's kinda interesting it's his way of generating new ideas. But anyway, yeah, I got roped into that. And then I showed up to work the first day and it turned out the night before Peter, Jim O'Neill, Luke Ick, they had been talking about The Social Network, the movie, so this is 2010, September 27th, and that Friday The Social Network was set to come out. Now it was clear that the movie was gonna portray Zuckerberg negatively and to counter that Zuckerberg, you might recall donated a hundred million dollars to public schools in Newark, New Jersey.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 4879,
+      "timestamps": [
+        {
+          "offset": 4879,
+          "raw": "[00:04:29]",
+          "seconds": 269
+        }
+      ]
+    },
+    {
+      "end": 6217,
+      "excerpt": "[00:05:32] Now Thiel being the cunning mischief maker, decided instead to spend $2 million paying people to drop outta school. So, showed up to work the first day and we announced this program to the world on the fly, but Peter's talking about it in the present tense and we were off.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5933,
+      "timestamps": [
+        {
+          "offset": 5933,
+          "raw": "[00:05:32]",
+          "seconds": 332
+        }
+      ]
+    },
+    {
+      "end": 6329,
+      "excerpt": "[00:05:49] And, and Danielle, she was in these circles as well, and I'll let you take it from there, Danielle.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6219,
+      "timestamps": [
+        {
+          "offset": 6219,
+          "raw": "[00:05:49]",
+          "seconds": 349
+        }
+      ]
+    },
+    {
+      "end": 6510,
+      "excerpt": "[00:05:55]  Danielle Strachman: Sure. Going back to moving to California in my early twenties, I was really fortunate to get involved with some very like techno optimistic groups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 6331,
+      "timestamps": [
+        {
+          "offset": 6331,
+          "raw": "[00:05:55]",
+          "seconds": 355
+        }
+      ]
+    },
+    {
+      "end": 6818,
+      "excerpt": "[00:06:05] There was a group called the Accelerating Change Group that spun out the California Futurist Society that it doesn't really exist anymore, but when I was in my twenties, there were these different groups that would get together usually at a bookstore, at a library to talk about different ideas.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6512,
+      "timestamps": [
+        {
+          "offset": 6512,
+          "raw": "[00:06:05]",
+          "seconds": 365
+        }
+      ]
+    },
+    {
+      "end": 7492,
+      "excerpt": "[00:06:22] Sometimes we would have sci-fi authors come and talk, like Werner Vinje came and gave us talk to our group once. And I remember this group was always thinking about the cutting edge and like what was coming up in the future. And I always found those conversations really stimulating. I had been working in alternative education. I had worked with homeschoolers for a long time, and then took those learnings from working with homeschoolers and started a charter school called Innovations Academy in San Diego. We are celebrating our 20th year of founding this year, actually, and in two years we'll celebrate our 20 years of operating, which is really exciting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6820,
+      "timestamps": [
+        {
+          "offset": 6820,
+          "raw": "[00:06:22]",
+          "seconds": 382
+        }
+      ]
+    },
+    {
+      "end": 7534,
+      "excerpt": "[00:06:52] Gopi Rangan: Congratulations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7494,
+      "timestamps": [
+        {
+          "offset": 7494,
+          "raw": "[00:06:52]",
+          "seconds": 412
+        }
+      ]
+    },
+    {
+      "end": 7887,
+      "excerpt": "[00:06:53]  Danielle Strachman: Yeah, it's been really amazing and really amazing too to see. You get to see not only technological progress over time, but you get to see cultural progress over time. Amazing. So really amazing to see those changes over time. But yeah, I had been in alternative education for a long time and I had moved up to the bay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 7536,
+      "timestamps": [
+        {
+          "offset": 7536,
+          "raw": "[00:06:53]",
+          "seconds": 413
+        }
+      ]
+    },
+    {
+      "end": 8223,
+      "excerpt": "[00:07:11] I started my school in San Diego, California. I had moved up to the bay. I was kind of decompressing from being a school principal 'cause I learned, like I loved founding the school and I loved operating it for the first two years. But I also learned that operating it as a school administrator was probably not my calling.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7889,
+      "timestamps": [
+        {
+          "offset": 7889,
+          "raw": "[00:07:11]",
+          "seconds": 431
+        }
+      ]
+    },
+    {
+      "end": 8688,
+      "excerpt": "[00:07:26] And I got a crazy phone call from Lindy Fishburne who worked at the Thiel Foundation. Lindy's a very practical person. She's like, \"the foundation has lost their minds. They're starting this new program. You have to get over here.\" And I had seen the interview that Michael was just talking about with Peter and Sarah Lacey, and he's talking about everything in the present tense, and they've got mentors and they've got this and that, and the program.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8225,
+      "timestamps": [
+        {
+          "offset": 8225,
+          "raw": "[00:07:26]",
+          "seconds": 446
+        }
+      ]
+    },
+    {
+      "end": 9001,
+      "excerpt": "[00:07:46] Michael and I got to work with those first groups of Thiel Fellows for the first five years and build the program from scratch, which was super exciting. So really amazing to take like that pedagogy and homeschooling philosophy and be able to embed it in not only the Thiel Fellowship, but also 1517.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8690,
+      "timestamps": [
+        {
+          "offset": 8690,
+          "raw": "[00:07:46]",
+          "seconds": 466
+        }
+      ]
+    },
+    {
+      "end": 9131,
+      "excerpt": "[00:08:02] Sometimes we say we homeschool CEOs and we really mean that. It sounds funny and cheeky, but it really is what we do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9003,
+      "timestamps": [
+        {
+          "offset": 9003,
+          "raw": "[00:08:02]",
+          "seconds": 482
+        }
+      ]
+    },
+    {
+      "end": 9414,
+      "excerpt": "[00:08:08] Michael Gibson: Oh, well, John, yeah. Okay, wait. One last bit is to get to 1517. So we ran the Thiel Fellowship. We started co-founded, helped launch the Thiel Fellowship, and during five years we were able to work with some extraordinary people and, and learned a lot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 9133,
+      "timestamps": [
+        {
+          "offset": 9133,
+          "raw": "[00:08:08]",
+          "seconds": 488
+        }
+      ]
+    },
+    {
+      "end": 9436,
+      "excerpt": "[00:08:24] So during",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9416,
+      "timestamps": [
+        {
+          "offset": 9416,
+          "raw": "[00:08:24]",
+          "seconds": 504
+        }
+      ]
+    },
+    {
+      "end": 9541,
+      "excerpt": "[00:08:24] Gopi Rangan: the five years at Thiel fellowship, how many people came through the Fellowship",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9438,
+      "timestamps": [
+        {
+          "offset": 9438,
+          "raw": "[00:08:24]",
+          "seconds": 504
+        }
+      ]
+    },
+    {
+      "end": 9642,
+      "excerpt": "[00:08:28] Michael Gibson: program? 20 per year. About, so. About 500 people, hundred give or take.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 9543,
+      "timestamps": [
+        {
+          "offset": 9543,
+          "raw": "[00:08:28]",
+          "seconds": 508
+        }
+      ]
+    },
+    {
+      "end": 9740,
+      "excerpt": "[00:08:34] Gopi Rangan: A lot of illustrious characters, many people who have shaped the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9644,
+      "timestamps": [
+        {
+          "offset": 9644,
+          "raw": "[00:08:34]",
+          "seconds": 514
+        }
+      ]
+    },
+    {
+      "end": 9843,
+      "excerpt": "[00:08:37] Michael Gibson: Yeah, like the big ones are Dylan Field. We helped him with Figma in 2012.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 9742,
+      "timestamps": [
+        {
+          "offset": 9742,
+          "raw": "[00:08:37]",
+          "seconds": 517
+        }
+      ]
+    },
+    {
+      "end": 10032,
+      "excerpt": "[00:08:42] Ritesh Agarwal started Oil OYO Rooms in India is quite big. We helped launch Ethereum in 2014 and there are some more, but that's pretty extraordinary group of people for sure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9845,
+      "timestamps": [
+        {
+          "offset": 9845,
+          "raw": "[00:08:42]",
+          "seconds": 522
+        }
+      ]
+    },
+    {
+      "end": 10221,
+      "excerpt": "[00:08:53]  Danielle Strachman: And actually there's the long tail that we find really interesting from like a community peer group bringing people to a saturated city like San Francisco.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 10034,
+      "timestamps": [
+        {
+          "offset": 10034,
+          "raw": "[00:08:53]",
+          "seconds": 533
+        }
+      ]
+    },
+    {
+      "end": 10543,
+      "excerpt": "[00:09:02] So another founder who, you know what, what we used to say about the fellowship was this is a two year program with a 10 year timeline. 'cause this is really about taking a pretty sharp turn in the road and like seeing what happens. And one of our old Thiel fellows was Chris Ola, who came in as a researcher.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10223,
+      "timestamps": [
+        {
+          "offset": 10223,
+          "raw": "[00:09:02]",
+          "seconds": 542
+        }
+      ]
+    },
+    {
+      "end": 11010,
+      "excerpt": "[00:09:18] In fact, he was really interested in 3D printing. And then he was very early to like the ML, AI research and was doing a lot of his own work. And now he's one of the co-founders of Anthropic. And so it's really amazing to see. I think he was in the second batch of fellows. So something like 13 years later, like what a program can have, have an effect on someone in taking a very different direction with their future than maybe they originally thought.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10545,
+      "timestamps": [
+        {
+          "offset": 10545,
+          "raw": "[00:09:18]",
+          "seconds": 558
+        }
+      ]
+    },
+    {
+      "end": 11253,
+      "excerpt": "[00:09:46] Gopi Rangan: The brilliant people go on to do great things, even if the current thing doesn't really pan out, eventually they do great things anyway. What an amazing, illustrious group of people you brought together. So from there",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11012,
+      "timestamps": [
+        {
+          "offset": 11012,
+          "raw": "[00:09:46]",
+          "seconds": 586
+        }
+      ]
+    },
+    {
+      "end": 11847,
+      "excerpt": "[00:09:59] Michael Gibson: So we developed a model of what the type of person is who has a chance to go on to build such a big thing like Figma or Ethereum we received hundred, to thousands of applications, hundreds of interviews really, and then getting to work up close with people like that, it gave us a sense of, the character traits, the personality types. The creativity that's required to do these really extraordinary things. So we believe in character driven greatness. That's what we saw in the fellowship, and we took that understanding of making predictions, we predict outcomes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 11255,
+      "timestamps": [
+        {
+          "offset": 11255,
+          "raw": "[00:09:59]",
+          "seconds": 599
+        }
+      ]
+    },
+    {
+      "end": 12533,
+      "excerpt": "[00:10:38] And when we decided, it's like, wow, we're giving these fellowships and then they go on to do these great things, we could be making investments. And so we're making predictions when we make investments about these eventual outcomes, but we're doing it when it's like two people in a coffee table or a prototype. To be able to understand there are all these different elements you might use to try to make those predictions, I understand some investors will look at the market sizing, some will look at the current state of the technology. But for us, it's very much about that character that we saw in the Thiel Fellows and now with the founders at 1517 that we invest in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11849,
+      "timestamps": [
+        {
+          "offset": 11849,
+          "raw": "[00:10:38]",
+          "seconds": 638
+        }
+      ]
+    },
+    {
+      "end": 12863,
+      "excerpt": "[00:11:15]  Danielle Strachman: And one thing I'll add is that there's a lot of lip service given to pattern recognition, but I'm not sure that everyone who uses that term really gets the depth of it. And so I feel like we were so fortunate in that we were doing the application reviewing as a very small team at the fellowship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 12535,
+      "timestamps": [
+        {
+          "offset": 12535,
+          "raw": "[00:11:15]",
+          "seconds": 675
+        }
+      ]
+    },
+    {
+      "end": 13241,
+      "excerpt": "[00:11:33] So we were reviewing those thousands of applications that came through. We were interviewing those hundreds of people. We were doing in-person finalist rounds with like top 40, 50 people for years. And we were getting to see not only the outcomes of the people that we had backed, but also the people we hadn't backed, and then working with them directly over time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12865,
+      "timestamps": [
+        {
+          "offset": 12865,
+          "raw": "[00:11:33]",
+          "seconds": 693
+        }
+      ]
+    },
+    {
+      "end": 14052,
+      "excerpt": "[00:11:54] So we weren't just building up this pattern recognition of what looks good, but we were also building up pattern recognition around what doesn't work. It's important to have both of those sides. And I think, a lot of programs today I notice like I'm really into fellowships. I wanna see a thousand fellowships bloom, but two off and I see that the people who are directing the program are kind of figureheads of a program and they have a reviewing team and they then they have a program team. And and I get it, like you need more people to operate the program, but I think people are really missing out on the opportunities to do the deep dive on the character side of what makes someone great not only in the now, but in the long term that we were able to harness because we were doing everything.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13243,
+      "timestamps": [
+        {
+          "offset": 13243,
+          "raw": "[00:11:54]",
+          "seconds": 714
+        }
+      ]
+    },
+    {
+      "end": 14143,
+      "excerpt": "[00:12:38] Gopi Rangan: It's not only the a hundred people that came through the program.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14054,
+      "timestamps": [
+        {
+          "offset": 14054,
+          "raw": "[00:12:38]",
+          "seconds": 758
+        }
+      ]
+    },
+    {
+      "end": 14192,
+      "excerpt": "[00:12:42]  Danielle Strachman: Right, exactly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 14145,
+      "timestamps": [
+        {
+          "offset": 14145,
+          "raw": "[00:12:42]",
+          "seconds": 762
+        }
+      ]
+    },
+    {
+      "end": 14487,
+      "excerpt": "[00:12:42] Gopi Rangan: That are the next 500 people also have great potential and they have ability to do great things. And also you've seen many hundreds of applications that does not fit. And they just just claim that they would do great things and they will not be able to do great things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14194,
+      "timestamps": [
+        {
+          "offset": 14194,
+          "raw": "[00:12:42]",
+          "seconds": 762
+        }
+      ]
+    },
+    {
+      "end": 14982,
+      "excerpt": "[00:12:55]  Danielle Strachman: Or people who looked great on paper and then you meet in person and you're like, oh no, they don't have it. Yes. And that's a great point. And it's a reason why we started the fund too. At 1517, what we say is it's the pairing of like great people with great ideas and resources and we only got to do that at the fellowship with 20 people each year. And it would just like sort of pain us like, okay, we know there's more people that we could give resources to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 14489,
+      "timestamps": [
+        {
+          "offset": 14489,
+          "raw": "[00:12:55]",
+          "seconds": 775
+        }
+      ]
+    },
+    {
+      "end": 15776,
+      "excerpt": "[00:13:18] Maybe they don't need a hundred K though. Maybe they need a small amount of money to get started and we can see them play in the field over time and then strike with a larger check later. And that's what we set up with 1517. Was this a way of working to pair people with those resources earlier and more of them so then we could really do a full training run, if you will, with people instead of it just being like, okay, we've gotta make this 100k investment into this person having read like their application and doing a review process, maybe meeting them in person a couple of times. But what we learned over time, Michael says this really well, which is an application is like fruit. It's real ripe when you first get it, but literally like the next day it starts going stale.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14984,
+      "timestamps": [
+        {
+          "offset": 14984,
+          "raw": "[00:13:18]",
+          "seconds": 798
+        }
+      ]
+    },
+    {
+      "end": 16293,
+      "excerpt": "[00:14:01] And we've seen this so much, especially with founders, especially with young people. In a two week period, everything can change and they're not even working on the thing they applied with anymore. So we knew that not only were we developing this assessment that we could take with us post Thiel Fellowship, but also this like way of working with people that was like much more fast and nimble and being able to pair people with resources faster so that we could really see how do they play in the field.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15778,
+      "timestamps": [
+        {
+          "offset": 15778,
+          "raw": "[00:14:01]",
+          "seconds": 841
+        }
+      ]
+    },
+    {
+      "end": 16473,
+      "excerpt": "[00:14:27] Gopi Rangan: The Silicon Valley side of me, the maverick in me feels like, wow, this is so amazing. You are catching talent before they get polluted by the real world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16295,
+      "timestamps": [
+        {
+          "offset": 16295,
+          "raw": "[00:14:27]",
+          "seconds": 867
+        }
+      ]
+    },
+    {
+      "end": 16512,
+      "excerpt": "[00:14:35]  Danielle Strachman: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 16475,
+      "timestamps": [
+        {
+          "offset": 16475,
+          "raw": "[00:14:35]",
+          "seconds": 875
+        }
+      ]
+    },
+    {
+      "end": 16751,
+      "excerpt": "[00:14:36] Gopi Rangan: But the, the South Indian immigrant side of me is like how is this going to work with those conservative families that prioritize education and they sacrifice so much to make sure that the kids go to good schools?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16514,
+      "timestamps": [
+        {
+          "offset": 16514,
+          "raw": "[00:14:36]",
+          "seconds": 876
+        }
+      ]
+    },
+    {
+      "end": 17356,
+      "excerpt": "[00:14:52] Michael Gibson: It's true. We encountered that right away. Actually, we had some Chinese families and Indian families that expected their children to move on to the professions or graduate school and, fortunately Danielle is a great parent whisperer who's able to allay some of their concerns. But it is true culturally that, those pressures are there. The flip side of that though is like, one of the things, there's this trait we look for, sometimes we call it insider outsider. You're strange, but not a stranger. It's like this person who's in between two worlds on the borders of things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 16753,
+      "timestamps": [
+        {
+          "offset": 16753,
+          "raw": "[00:14:52]",
+          "seconds": 892
+        }
+      ]
+    },
+    {
+      "end": 17919,
+      "excerpt": "[00:15:25] They tend to have a lot of generative insights and immigrants in particular, whether first generation, next generation, that they just seem to have that because it's like with one foot in the US and maybe one foot out gives them a perspective that I think someone who's just drinking the water doesn't have. There are motivational components of that too, I think, because they're worried about what their parents are gonna think, maybe they try even harder. It's really powerful that what we've seen come from people who are new to America basically.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17358,
+      "timestamps": [
+        {
+          "offset": 17358,
+          "raw": "[00:15:25]",
+          "seconds": 925
+        }
+      ]
+    },
+    {
+      "end": 18126,
+      "excerpt": "[00:15:57] Gopi Rangan: I'm already kind of blown my mind is blown that you're looking for people who drop out. The renegades. The misfits who don't have the discipline to stay in school to finish. No, no,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17921,
+      "timestamps": [
+        {
+          "offset": 17921,
+          "raw": "[00:15:57]",
+          "seconds": 957
+        }
+      ]
+    },
+    {
+      "end": 18686,
+      "excerpt": "[00:16:08]  Danielle Strachman: no, no, no, no, no, no. Hold on. We gotta, we gotta scrub that programming. So it's that, not that they don't have the discipline to stay in school, it's that they're so driven by the thing that they are working on that they need all that time back. Like they can't be spending it in the classroom 'cause they're like, I gotta go do this thing. So it's about being really incredibly mutantly driven, like nobody has been driven before. And that taking time for other things is really getting in the way of moving that forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 18128,
+      "timestamps": [
+        {
+          "offset": 18128,
+          "raw": "[00:16:08]",
+          "seconds": 968
+        }
+      ]
+    },
+    {
+      "end": 19036,
+      "excerpt": "[00:16:40] Michael Gibson: What what is true is they're not always the best students. The grades aren't always the best. Sometimes they're just bored with their coursework, and that's why their grades aren't great. But on the area of focus that they care about, that curiosity is so powerful that, they can speak eye to eye with an industry expert.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 18688,
+      "timestamps": [
+        {
+          "offset": 18688,
+          "raw": "[00:16:40]",
+          "seconds": 1000
+        }
+      ]
+    },
+    {
+      "end": 19989,
+      "excerpt": "[00:16:58] And then the piece is like for us, it was a filter in a way is one of the most important elements of our evaluation or even from, the founder's side is like, why are you doing this? What's the motivation? And if you're willing to forego that conventional, socially approved path, you know the path your parents might want you to be on, the path all your friends are taking and you're gonna let that go to work on something different, well then that speaks volumes about how much you believe in it and how committed you are to push through when times are tough, when the dark night of the soul comes, and it will come. In order to get through that, you need to have a deep, profound sense of mission. And so If you are leaving school, there is something to that. It's like, Hey, I, I just have better things to do, more important things to do. The tag we used originally was like, some ideas can't wait, and I still think that's really good.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19038,
+      "timestamps": [
+        {
+          "offset": 19038,
+          "raw": "[00:16:58]",
+          "seconds": 1018
+        }
+      ]
+    },
+    {
+      "end": 20326,
+      "excerpt": "[00:17:52] Gopi Rangan: That's a good way to describe it. If early in life someone gets the message that this is their life's work and it can't wait, and they don't want to go through the peer pressure and the social norms of trying to fit in and make it happen, and then try to work on their passion project, now is the time to do it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19991,
+      "timestamps": [
+        {
+          "offset": 19991,
+          "raw": "[00:17:52]",
+          "seconds": 1072
+        }
+      ]
+    },
+    {
+      "end": 20494,
+      "excerpt": "[00:18:15] The person that comes to mind. The example that I would give to all the conservative South Indian parents is Srinivasa Ramanujan, the genius mathematician.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20328,
+      "timestamps": [
+        {
+          "offset": 20328,
+          "raw": "[00:18:15]",
+          "seconds": 1095
+        }
+      ]
+    },
+    {
+      "end": 20537,
+      "excerpt": "[00:18:24] Michael Gibson: Oh yeah, sure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 20496,
+      "timestamps": [
+        {
+          "offset": 20496,
+          "raw": "[00:18:24]",
+          "seconds": 1104
+        }
+      ]
+    },
+    {
+      "end": 20739,
+      "excerpt": "[00:18:25] Gopi Rangan: He dropped outta college. His grades were terrible, but he was a genius in math. Mm. And a hundred years later, we're still working to prove some of the theorems that he wrote.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20539,
+      "timestamps": [
+        {
+          "offset": 20539,
+          "raw": "[00:18:25]",
+          "seconds": 1105
+        }
+      ]
+    },
+    {
+      "end": 20814,
+      "excerpt": "[00:18:34] Yeah. If he hadn't done that, we wouldn't have seen the magic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20741,
+      "timestamps": [
+        {
+          "offset": 20741,
+          "raw": "[00:18:34]",
+          "seconds": 1114
+        }
+      ]
+    },
+    {
+      "end": 20885,
+      "excerpt": "[00:18:37] Michael Gibson: Our name 1517 is somewhat inspired by him.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 20816,
+      "timestamps": [
+        {
+          "offset": 20816,
+          "raw": "[00:18:37]",
+          "seconds": 1117
+        }
+      ]
+    },
+    {
+      "end": 20931,
+      "excerpt": "[00:18:40] Gopi Rangan: So what is the name?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20887,
+      "timestamps": [
+        {
+          "offset": 20887,
+          "raw": "[00:18:40]",
+          "seconds": 1120
+        }
+      ]
+    },
+    {
+      "end": 21095,
+      "excerpt": "[00:18:41] Michael Gibson: Well, so 1729 was the famous number when  Ramanujan was sick in bed and the mathematician Hardy came to visit him. I guess the smallest",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 20933,
+      "timestamps": [
+        {
+          "offset": 20933,
+          "raw": "[00:18:41]",
+          "seconds": 1121
+        }
+      ]
+    },
+    {
+      "end": 21149,
+      "excerpt": "[00:18:52] Gopi Rangan: number that can be expressed",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21097,
+      "timestamps": [
+        {
+          "offset": 21097,
+          "raw": "[00:18:52]",
+          "seconds": 1132
+        }
+      ]
+    },
+    {
+      "end": 21195,
+      "excerpt": "[00:18:54] Michael Gibson: in the fall Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 21151,
+      "timestamps": [
+        {
+          "offset": 21151,
+          "raw": "[00:18:54]",
+          "seconds": 1134
+        }
+      ]
+    },
+    {
+      "end": 21260,
+      "excerpt": "[00:18:54] Is the sum of two cubes cubes in two different ways.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21197,
+      "timestamps": [
+        {
+          "offset": 21197,
+          "raw": "[00:18:54]",
+          "seconds": 1134
+        }
+      ]
+    },
+    {
+      "end": 21290,
+      "excerpt": "[00:18:57] Gopi Rangan: Yes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21262,
+      "timestamps": [
+        {
+          "offset": 21262,
+          "raw": "[00:18:57]",
+          "seconds": 1137
+        }
+      ]
+    },
+    {
+      "end": 21500,
+      "excerpt": "[00:18:57] Michael Gibson: And so that number, a buddy of mine was like playing around with that number. He had this idea that maybe you could put out math problems over cell phones and try to recruit people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 21292,
+      "timestamps": [
+        {
+          "offset": 21292,
+          "raw": "[00:18:57]",
+          "seconds": 1137
+        }
+      ]
+    },
+    {
+      "end": 21627,
+      "excerpt": "[00:19:07]  Danielle Strachman: Well, you're saying, you're saying a buddy of yours. That's kind of funny to say it that way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 21502,
+      "timestamps": [
+        {
+          "offset": 21502,
+          "raw": "[00:19:07]",
+          "seconds": 1147
+        }
+      ]
+    },
+    {
+      "end": 21687,
+      "excerpt": "[00:19:11] Michael Gibson: Alright, so I'm talking about B",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 21629,
+      "timestamps": [
+        {
+          "offset": 21629,
+          "raw": "[00:19:11]",
+          "seconds": 1151
+        }
+      ]
+    },
+    {
+      "end": 21735,
+      "excerpt": "[00:19:13]  Danielle Strachman: Yeah, exactly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 21689,
+      "timestamps": [
+        {
+          "offset": 21689,
+          "raw": "[00:19:13]",
+          "seconds": 1153
+        }
+      ]
+    },
+    {
+      "end": 21800,
+      "excerpt": "[00:19:14] Michael Gibson: CTO of Coinbase. Founder of council.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 21737,
+      "timestamps": [
+        {
+          "offset": 21737,
+          "raw": "[00:19:14]",
+          "seconds": 1154
+        }
+      ]
+    },
+    {
+      "end": 21849,
+      "excerpt": "[00:19:17]  Danielle Strachman: Just some dude.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 21802,
+      "timestamps": [
+        {
+          "offset": 21802,
+          "raw": "[00:19:17]",
+          "seconds": 1157
+        }
+      ]
+    },
+    {
+      "end": 22137,
+      "excerpt": "[00:19:18] Michael Gibson: Yeah. So yeah, that's where I noticed the, the, there's a sort of, at that time there was a. A mesmerism or a attention grabbing quality about a number. And Danielle tells a story like she came into the office one day and I was like, scribbling like a madman.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 21851,
+      "timestamps": [
+        {
+          "offset": 21851,
+          "raw": "[00:19:18]",
+          "seconds": 1158
+        }
+      ]
+    },
+    {
+      "end": 22599,
+      "excerpt": "[00:19:34] Yes, you were on paper. Just the number 1517. So yeah. So I had been thinking about, what are numbers? Why do people think they're important? 1517 is a date in history. So, as you can tell, we don't think diplomas are important. We think our society puts way too much weight on the diploma. It's not clear what this thing even signals anymore, but it costs a Fortune, $93,000 at these elite private schools, and we see that as the modern indulgence.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22139,
+      "timestamps": [
+        {
+          "offset": 22139,
+          "raw": "[00:19:34]",
+          "seconds": 1174
+        }
+      ]
+    },
+    {
+      "end": 22909,
+      "excerpt": "[00:20:00] So the indulgence was this piece of paper you could buy from the church in 1516 and it would, it would save you from purgatory or hell. But we think that that's BS. You don't need a diploma either. So we thought 1517, the number worked. So the way we test things, we ate our own dog food in a way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22601,
+      "timestamps": [
+        {
+          "offset": 22601,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 23212,
+      "excerpt": "[00:20:18] We gave advice to founders for years, like, test ideas out on the cheap. And Danielle was, we were hanging out one day and I was supposed to go to a hackathon at UCLA for the Thiel Fellowship. And she was like, why don't you wear a 1517 T-shirt and pretend you're 1517 when you're on stage?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22911,
+      "timestamps": [
+        {
+          "offset": 22911,
+          "raw": "[00:20:18]",
+          "seconds": 1218
+        }
+      ]
+    },
+    {
+      "end": 23259,
+      "excerpt": "[00:20:35]  Danielle Strachman: I won't mind.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 23214,
+      "timestamps": [
+        {
+          "offset": 23214,
+          "raw": "[00:20:35]",
+          "seconds": 1235
+        }
+      ]
+    },
+    {
+      "end": 23631,
+      "excerpt": "[00:20:36] Michael Gibson: Yeah. So I go, I go down there and I throw on the 1517 shirt and I get on stage and I'm talking like we exist. And it really hit with the audience 'cause it was like I was coming after the Microsoft guy who's like, oh, you might get an internship to work on, I don't know, Azure. But then I'm up there and I'm like, let's go follow your dream.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 23261,
+      "timestamps": [
+        {
+          "offset": 23261,
+          "raw": "[00:20:36]",
+          "seconds": 1236
+        }
+      ]
+    },
+    {
+      "end": 23994,
+      "excerpt": "[00:20:55] We're giving out grants, we're making investments and it worked. And so people would ask me about 1517, so we went with it. What's kind of funny is like in the years that followed there have been a proliferation of other funds with numbers now. There's like 2048, 1776. I don't know. They're all out there, but but I think we're one of the originals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23633,
+      "timestamps": [
+        {
+          "offset": 23633,
+          "raw": "[00:20:55]",
+          "seconds": 1255
+        }
+      ]
+    },
+    {
+      "end": 24495,
+      "excerpt": "[00:21:14]  Danielle Strachman: There's an article I read recently that is about accelerated education and oftentimes accelerated education is talked about in sort of like gifted education circles about like, Hey should you accelerate this child in math or reading or like whatever subject, or a whole grade or whatever. And sometimes I think people really get stuck on this. Like, oh, they're dropping out. Another way of thinking about that is they're accelerating, they're skipping a grade. Yeah,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 23996,
+      "timestamps": [
+        {
+          "offset": 23996,
+          "raw": "[00:21:14]",
+          "seconds": 1274
+        }
+      ]
+    },
+    {
+      "end": 24530,
+      "excerpt": "[00:21:39] Michael Gibson: right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 24497,
+      "timestamps": [
+        {
+          "offset": 24497,
+          "raw": "[00:21:39]",
+          "seconds": 1299
+        }
+      ]
+    },
+    {
+      "end": 26529,
+      "excerpt": "[00:21:39]  Danielle Strachman: You know what I mean? Like, and here's the part about. A friend wrote this essay. His name's John Boyle, and actually he's from our old Thiel Summit communities, so I've known him a long time and he sent me this article recently about accelerating children and one of the things that he's writing about is also some research to say that when children don't get accelerated into a peer group that is like meaningfully as capable as they are in a subject, it stunts their emotional growth. Like it actually holds them back because if you're multiple standard deviations above your peers in a subject area, but then you have to like stay back in that subject, one, you're not getting to develop that like brilliance that you have in that area, but you're also stifling this ability of like when you took children and accelerated them into upper grades where they were a little younger. Well, they also had to sort of maturate a little bit more to be able to match with their peers. And it turns out that this is a real positive. And so it's given me, and I read this article like a month ago and I can't stop thinking about it, but it makes me think a lot about the founders and the people we work with and that they're accelerating past what like is normal or what is acceptable for their peer group so that they can be part of the peer group they are supposed to be with of these other people who are really hungry, hyper, hyper driven and also super deep in their topic area. And I think there's something about being able to do that that really puts you, think about like, driving stick shift. Like they are shifting the gears of the car and they are making it go instead of being like, no, you just have to sit in this automatic and like your parents driving you, you're not even getting to drive. And so I don't think of it so much as like, oh, they're dropping out, but they are just skipping grades. They're accelerating, they're moving into the future sooner.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 24532,
+      "timestamps": [
+        {
+          "offset": 24532,
+          "raw": "[00:21:39]",
+          "seconds": 1299
+        }
+      ]
+    },
+    {
+      "end": 26637,
+      "excerpt": "[00:23:29] Gopi Rangan: Let's talk about 1517 Fund. We've established very clearly you invest in dropouts.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26531,
+      "timestamps": [
+        {
+          "offset": 26531,
+          "raw": "[00:23:29]",
+          "seconds": 1409
+        }
+      ]
+    },
+    {
+      "end": 26780,
+      "excerpt": "[00:23:34] What stage do you invest in? What kind of topics do you get excited about? How many companies do you invest in on an average year?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26639,
+      "timestamps": [
+        {
+          "offset": 26639,
+          "raw": "[00:23:34]",
+          "seconds": 1414
+        }
+      ]
+    },
+    {
+      "end": 26980,
+      "excerpt": "[00:23:42]  Danielle Strachman: Yeah, so we are often the very first check into a company. That's what we prefer even. And sometimes we'll know people from when they were teenagers in our community.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 26782,
+      "timestamps": [
+        {
+          "offset": 26782,
+          "raw": "[00:23:42]",
+          "seconds": 1422
+        }
+      ]
+    },
+    {
+      "end": 27328,
+      "excerpt": "[00:23:51] Sometimes we'll have given them a grant to work on something like, I think about, Ethan from Mock Industries. Michael offered him a grant when he was in high school to start just experimenting in his garage. And then we ended up writing him a hundred K check, which has turned into his defense tech company and very early first backer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26982,
+      "timestamps": [
+        {
+          "offset": 26982,
+          "raw": "[00:23:51]",
+          "seconds": 1431
+        }
+      ]
+    },
+    {
+      "end": 27847,
+      "excerpt": "[00:24:12] We're looking at those character traits that Michael talked about and sort of doing that assessment over time. We will write up to like a million dollar entry check, depending on the stage of the company but typically before a founder has raised 2 million bucks is where we wanna talk to them. And then additionally, we've talked about our dropouts a lot, but we also noticed these crazy scientists would come to talk to us and they would come talk to us, I think because of our time in the Thiel Universe.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27330,
+      "timestamps": [
+        {
+          "offset": 27330,
+          "raw": "[00:24:12]",
+          "seconds": 1452
+        }
+      ]
+    },
+    {
+      "end": 28161,
+      "excerpt": "[00:24:37] And they're like, Hey, these people will actually listen to me and not just think I'm crazy. And so we have a carve out where we will work with someone who has a degree or a PhD, but only if they're working at the frontier of knowledge somewhere. So they really have to be doing cutting edge R&D work.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27849,
+      "timestamps": [
+        {
+          "offset": 27849,
+          "raw": "[00:24:37]",
+          "seconds": 1477
+        }
+      ]
+    },
+    {
+      "end": 28508,
+      "excerpt": "[00:24:54] And those people have been equally fun to work with because they have a lot of pent up capacity because oftentimes they have been in the system for a long time. And a lot of what we do with 1517 is we're like unleashing that. Sometimes we talk about founders dog on a leash energy of like, does this person feel like a dog on a leash?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28163,
+      "timestamps": [
+        {
+          "offset": 28163,
+          "raw": "[00:24:54]",
+          "seconds": 1494
+        }
+      ]
+    },
+    {
+      "end": 28695,
+      "excerpt": "[00:25:12] But a dog on a leash needs is not more food or water that they need the leash to be cut and to just be able to move forward. So yeah, very early. We're here to cut the leash.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28510,
+      "timestamps": [
+        {
+          "offset": 28510,
+          "raw": "[00:25:12]",
+          "seconds": 1512
+        }
+      ]
+    },
+    {
+      "end": 28757,
+      "excerpt": "[00:25:21] Gopi Rangan: How many companies do you invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28697,
+      "timestamps": [
+        {
+          "offset": 28697,
+          "raw": "[00:25:21]",
+          "seconds": 1521
+        }
+      ]
+    },
+    {
+      "end": 28877,
+      "excerpt": "[00:25:23] Michael Gibson: At that million dollar level, maybe about one a month. Then there's like 1517 angel checks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 28759,
+      "timestamps": [
+        {
+          "offset": 28759,
+          "raw": "[00:25:23]",
+          "seconds": 1523
+        }
+      ]
+    },
+    {
+      "end": 29209,
+      "excerpt": "[00:25:29] We do for a hundred K, 150 K. That will typically be a person or a couple people who want to hit some milestone in two to three months. Some experiment they wanna run to prove a concept out. That could be like another 15 or so per year on that. And some of those people graduate into those bigger checks, sometimes not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28879,
+      "timestamps": [
+        {
+          "offset": 28879,
+          "raw": "[00:25:29]",
+          "seconds": 1529
+        }
+      ]
+    },
+    {
+      "end": 29495,
+      "excerpt": "[00:25:52] Sometimes we just, write a million dollar check if, if that's where the team's at. But beyond that, it's like we won't do seed stage or Series A first time investments. There is something when it comes to the types of things we invest in. There are some things we won't do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29211,
+      "timestamps": [
+        {
+          "offset": 29211,
+          "raw": "[00:25:52]",
+          "seconds": 1552
+        }
+      ]
+    },
+    {
+      "end": 29844,
+      "excerpt": "[00:26:05] We don't do ad tech, we don't do gambling, we don't do, I don't know. We've seen there, there are types of situations where if it's like a business CEO type founder who's pursuing like a really businessy type idea, that's something we haven't seen really work out well. But the things that really get us going are like alien technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29497,
+      "timestamps": [
+        {
+          "offset": 29497,
+          "raw": "[00:26:05]",
+          "seconds": 1565
+        }
+      ]
+    },
+    {
+      "end": 30241,
+      "excerpt": "[00:26:24] Now we, we say sci-fi, we say alien. It's gotta be something that is so far into the future that it kind of brings a sense of wonder and awe to us when someone's talking about it. And so there is some mix. And when we talk about people, it's like they have ambition. They want to do great things. The expectation is to do great things, but to do it by shaping and building the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29846,
+      "timestamps": [
+        {
+          "offset": 29846,
+          "raw": "[00:26:24]",
+          "seconds": 1584
+        }
+      ]
+    },
+    {
+      "end": 30858,
+      "excerpt": "[00:26:46] I think that's one of the key cultural components of Silicon Valley. When I think back to Thiel Fellows like Chris Ola, it's like this guy hated the idea that startups could change the world or put a dent in the universe, or any of this kind of rhetoric and exaggeration that got tossed around. But nevertheless, he absorbed it against his own will almost that the expectation in Silicon Valley is to do great things. To do it by building the future. I think, the founders that we meet that most excite us are sharing some sort of story or vision about the future in a really compelling, charismatic way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30243,
+      "timestamps": [
+        {
+          "offset": 30243,
+          "raw": "[00:26:46]",
+          "seconds": 1606
+        }
+      ]
+    },
+    {
+      "end": 31073,
+      "excerpt": "[00:27:22] There are like sectors we could talk energy, we could talk space, we could talk curing cancer of course, but sometimes we just never know what's gonna come over the transom and someone will surprise us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30860,
+      "timestamps": [
+        {
+          "offset": 30860,
+          "raw": "[00:27:22]",
+          "seconds": 1642
+        }
+      ]
+    },
+    {
+      "end": 31190,
+      "excerpt": "[00:27:33]  Danielle Strachman: But still, one of the hardest pitches we ever heard was about deploying Kubernetes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 31075,
+      "timestamps": [
+        {
+          "offset": 31075,
+          "raw": "[00:27:33]",
+          "seconds": 1653
+        }
+      ]
+    },
+    {
+      "end": 31509,
+      "excerpt": "[00:27:38] Michael Gibson: Oh my God, that's so funny. It's like, well, well someone could explain us how to cure cancer and we'll, we'll understand it like, we'll, quantum. Quantum. Quantum computing. Quantum computing, sure. Entanglement es spooky action outta distance. No problem. But when it comes to Kubernetes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 31192,
+      "timestamps": [
+        {
+          "offset": 31192,
+          "raw": "[00:27:38]",
+          "seconds": 1658
+        }
+      ]
+    },
+    {
+      "end": 31593,
+      "excerpt": "[00:27:55]  Danielle Strachman: It took about eight meetings to figure it out. But",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 31511,
+      "timestamps": [
+        {
+          "offset": 31511,
+          "raw": "[00:27:55]",
+          "seconds": 1675
+        }
+      ]
+    },
+    {
+      "end": 31751,
+      "excerpt": "[00:27:57] Michael Gibson: yeah. But that speaks to another, one of the key traits we look for, that we talk about a lot is something we call hyper fluency.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 31595,
+      "timestamps": [
+        {
+          "offset": 31595,
+          "raw": "[00:27:57]",
+          "seconds": 1677
+        }
+      ]
+    },
+    {
+      "end": 32232,
+      "excerpt": "[00:28:04] And that's the ability of someone to speak clearly with directness and concision about what they're working on. They can communicate it to idiots like Danielle and me who have no idea what they're talking about, but they can also scaffold up and talk to an industry expert and get in the weeds. That ability to communicate and teach is really important because we just see it play out in the way they talk to customers or employees or express their ideas to the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31753,
+      "timestamps": [
+        {
+          "offset": 31753,
+          "raw": "[00:28:04]",
+          "seconds": 1684
+        }
+      ]
+    },
+    {
+      "end": 32545,
+      "excerpt": "[00:28:32] And we always come back to this as a trait we look for because it really is about the phenomenology, meaning like how Danielle and I feel when we're hearing this person talk. We hear the excitement in the voice. We hear the curiosity searching every blind alley in the maze that they've gone through.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32234,
+      "timestamps": [
+        {
+          "offset": 32234,
+          "raw": "[00:28:32]",
+          "seconds": 1712
+        }
+      ]
+    },
+    {
+      "end": 32688,
+      "excerpt": "[00:28:47] And you know it when you see it. I could keep trying to describe it, but it's like we know the fastball and the mint when it hits.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32547,
+      "timestamps": [
+        {
+          "offset": 32547,
+          "raw": "[00:28:47]",
+          "seconds": 1727
+        }
+      ]
+    },
+    {
+      "end": 33466,
+      "excerpt": "[00:28:53] Gopi Rangan: Now, I am more of the mainstream. Let me understand what this business is. I mean, that's the kind of investments I do. Out of all my investments there's one investment that's kind of research out there. It's a cybersecurity company called Rigor, and they're trying to build the modern cybersecurity solution for the next few decades perhaps. And they're in the early stages of that. And it took me a while to get my head around, okay, do I really wanna get behind something like this that's like so bizarre and different. Yes, you do. Why can't it? It's a lot easier for me to talk to a B2B software company that's built in built infrastructure for old industries. But I understand what you're saying. It's very, very exciting to get behind something.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32690,
+      "timestamps": [
+        {
+          "offset": 32690,
+          "raw": "[00:28:53]",
+          "seconds": 1733
+        }
+      ]
+    },
+    {
+      "end": 33516,
+      "excerpt": "[00:29:37] Michael Gibson: And Danielle and I, I",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 33468,
+      "timestamps": [
+        {
+          "offset": 33468,
+          "raw": "[00:29:37]",
+          "seconds": 1777
+        }
+      ]
+    },
+    {
+      "end": 33553,
+      "excerpt": "[00:29:38] Gopi Rangan: outlandish,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33518,
+      "timestamps": [
+        {
+          "offset": 33518,
+          "raw": "[00:29:38]",
+          "seconds": 1778
+        }
+      ]
+    },
+    {
+      "end": 34401,
+      "excerpt": "[00:29:39] Michael Gibson: you heard a little bit about our backgrounds and we don't, we're not experts on these things. And some people, when we pitch investors, they think that's a negative. They think, well, how could you possibly diligence a quantum computer company, but in fact now I push back and I say it's actually an advantage. Because Danielle and I have a familiarity with different fields, but we're not immersed in them we therefore aren't committed to certain theories about the world, and I think that is one of the bottlenecks and obstacles and slowing progress is that there are high status prestigious people who dominate our understanding of some physical phenomenon or whatever, and so they won't back a 22-year-old working on a different idea for fusion, but because Danielle and I have no horse in this race, we don't care.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 33555,
+      "timestamps": [
+        {
+          "offset": 33555,
+          "raw": "[00:29:39]",
+          "seconds": 1779
+        }
+      ]
+    },
+    {
+      "end": 34535,
+      "excerpt": "[00:30:26] It's like, alright, just tell us what you're working on. I think that's actually one of our key advantages at this point.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34403,
+      "timestamps": [
+        {
+          "offset": 34403,
+          "raw": "[00:30:26]",
+          "seconds": 1826
+        }
+      ]
+    },
+    {
+      "end": 34710,
+      "excerpt": "[00:30:31] Gopi Rangan: I'm really curious what happens in that first meeting, second meeting with a founder. What kind of questions do you ask? How do you get to know them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34537,
+      "timestamps": [
+        {
+          "offset": 34537,
+          "raw": "[00:30:31]",
+          "seconds": 1831
+        }
+      ]
+    },
+    {
+      "end": 34854,
+      "excerpt": "[00:30:40]  Danielle Strachman: Well, so the, so first, yeah, we think the worst way to get to know a founder is in a first or second meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 34712,
+      "timestamps": [
+        {
+          "offset": 34712,
+          "raw": "[00:30:40]",
+          "seconds": 1840
+        }
+      ]
+    },
+    {
+      "end": 35196,
+      "excerpt": "[00:30:46] So we really like to get to know people over time, and we like to get to know them outside of the pitching environment. So it's like, we'll meet someone typically before they're a founder, when they're more of a maker. Sometimes they're even a teenager and it's like, Hey, come to some of our events. Let's go on a walk and talk.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34856,
+      "timestamps": [
+        {
+          "offset": 34856,
+          "raw": "[00:30:46]",
+          "seconds": 1846
+        }
+      ]
+    },
+    {
+      "end": 35542,
+      "excerpt": "[00:31:04] Let's have dinner over barbecue. There's a lot that you get out of being in unstructured environments with people and like you see how they act in the real world. That's really, really important. Oftentimes those people will then come to us and say, Hey, I'm working on something. Like, yeah, like we've been waiting for this moment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35198,
+      "timestamps": [
+        {
+          "offset": 35198,
+          "raw": "[00:31:04]",
+          "seconds": 1864
+        }
+      ]
+    },
+    {
+      "end": 35941,
+      "excerpt": "[00:31:24] And then we will have that more traditional pitch meeting where we do wanna hear that pitch. One of the most important things we wanna hear, though, before the pitch even starts is the backstory. Why are you doing this? This is really important. We have a founder named Olivia, who is working on a material science company, and her first product is a embedded bandage for wound healing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35544,
+      "timestamps": [
+        {
+          "offset": 35544,
+          "raw": "[00:31:24]",
+          "seconds": 1884
+        }
+      ]
+    },
+    {
+      "end": 36689,
+      "excerpt": "[00:31:45] We were at dinner with her, I guess it was about a year ago at this point, and she said, \"Danielle, you guys are the only people who have asked me why I'm doing what I'm doing. No one else asked about that. Everybody else just wanted to go through the pitch deck or just hear about the product.\" But she's building her company because she took care of her grandfather who had wounds from surgeries, and she was like, this is absurd. This is completely ridiculous that my job is to stuff my grandfather with gauze, and that's the best we can do right now. And that got her to start her company. And so oftentimes we're talking about that why are you doing this? And putting more weight in that than even what the actual pitch is itself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35943,
+      "timestamps": [
+        {
+          "offset": 35943,
+          "raw": "[00:31:45]",
+          "seconds": 1905
+        }
+      ]
+    },
+    {
+      "end": 37000,
+      "excerpt": "[00:32:27] And then typically, because we're an early check writer, other meetings might be introducing them to someone who certainly has a lot more knowledge in the space and seeing how do they geek out with this person. Sometimes it's us asking clarifying questions and then making that investment decision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36691,
+      "timestamps": [
+        {
+          "offset": 36691,
+          "raw": "[00:32:27]",
+          "seconds": 1947
+        }
+      ]
+    },
+    {
+      "end": 37228,
+      "excerpt": "[00:32:43] But generally it's over the course of time. Most often we've known a founder for months or even sometimes years before we've invested in them. So we have a real sense of that character that Michael is talking about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37002,
+      "timestamps": [
+        {
+          "offset": 37002,
+          "raw": "[00:32:43]",
+          "seconds": 1963
+        }
+      ]
+    },
+    {
+      "end": 37557,
+      "excerpt": "[00:32:54] Michael Gibson: It's funny, We just made an offer to make an investment in a, a young man working on actuators for robots on Friday. We visit lots of different cities, university towns. Sometimes we just want to bring people together. So we go to Toronto, we'll host an ice cream social. Danielle loves ice cream for",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 37230,
+      "timestamps": [
+        {
+          "offset": 37230,
+          "raw": "[00:32:54]",
+          "seconds": 1974
+        }
+      ]
+    },
+    {
+      "end": 37590,
+      "excerpt": "[00:33:11] Gopi Rangan: dinner.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37559,
+      "timestamps": [
+        {
+          "offset": 37559,
+          "raw": "[00:33:11]",
+          "seconds": 1991
+        }
+      ]
+    },
+    {
+      "end": 37636,
+      "excerpt": "[00:33:12] Michael Gibson: I love ice cream.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 37592,
+      "timestamps": [
+        {
+          "offset": 37592,
+          "raw": "[00:33:12]",
+          "seconds": 1992
+        }
+      ]
+    },
+    {
+      "end": 37694,
+      "excerpt": "[00:33:12] Gopi Rangan: We also love ice cream. Come on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37638,
+      "timestamps": [
+        {
+          "offset": 37638,
+          "raw": "[00:33:12]",
+          "seconds": 1992
+        }
+      ]
+    },
+    {
+      "end": 37785,
+      "excerpt": "[00:33:15] Michael Gibson: I love ice cream. We'll like do a ice cream social in Toronto.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 37696,
+      "timestamps": [
+        {
+          "offset": 37696,
+          "raw": "[00:33:15]",
+          "seconds": 1995
+        }
+      ]
+    },
+    {
+      "end": 38204,
+      "excerpt": "[00:33:18] And then the MIT of Canada is in Waterloo. It's about, I dunno, hour and 20 minutes away. And so it's so funny is like this young guy. He'd come to the ice cream social in Toronto, and I think twice he asked us for a ride from Toronto to Waterloo. So it's like we've spent like three hours in a car with this guy, and then two years later he comes back and gives us an update on something he is working on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37787,
+      "timestamps": [
+        {
+          "offset": 37787,
+          "raw": "[00:33:18]",
+          "seconds": 1998
+        }
+      ]
+    },
+    {
+      "end": 38347,
+      "excerpt": "[00:33:41] So it's like I feel strongest in those situations because there's more evidence that's accumulated about the type of person he is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38206,
+      "timestamps": [
+        {
+          "offset": 38206,
+          "raw": "[00:33:41]",
+          "seconds": 2021
+        }
+      ]
+    },
+    {
+      "end": 38611,
+      "excerpt": "[00:33:48]  Danielle Strachman: This particular young man, we gave him a grant a few years ago to work on other types of projects. And it's just amazing to be able to, again, watch someone play in the field and see what they do and how they execute on something.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 38349,
+      "timestamps": [
+        {
+          "offset": 38349,
+          "raw": "[00:33:48]",
+          "seconds": 2028
+        }
+      ]
+    },
+    {
+      "end": 39004,
+      "excerpt": "[00:33:59] And just because the thing they were working on with a grant or like a past thing that they were working on didn't like pan out into some huge company, doesn't mean they're not headed in that direction. It's about like right time, right fit. All of that. So it was so exciting. We had this call on Friday. We made him an offer that day. We're like, okay, cool. Let's go 250 k. And",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38613,
+      "timestamps": [
+        {
+          "offset": 38613,
+          "raw": "[00:33:59]",
+          "seconds": 2039
+        }
+      ]
+    },
+    {
+      "end": 39069,
+      "excerpt": "[00:34:19] Michael Gibson: and we'll see what happens tomorrow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 39006,
+      "timestamps": [
+        {
+          "offset": 39006,
+          "raw": "[00:34:19]",
+          "seconds": 2059
+        }
+      ]
+    },
+    {
+      "end": 39131,
+      "excerpt": "[00:34:20]  Danielle Strachman: What happens. Yeah, exactly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 39071,
+      "timestamps": [
+        {
+          "offset": 39071,
+          "raw": "[00:34:20]",
+          "seconds": 2060
+        }
+      ]
+    },
+    {
+      "end": 39367,
+      "excerpt": "[00:34:22] Michael Gibson: there are all these different analogies I'm always trying to use. The sports analogy is really powerful, I think. There are different sports where you're trying to evaluate the expected outcome of something.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 39133,
+      "timestamps": [
+        {
+          "offset": 39133,
+          "raw": "[00:34:22]",
+          "seconds": 2062
+        }
+      ]
+    },
+    {
+      "end": 40157,
+      "excerpt": "[00:34:32] And like in soccer someone is kicking a shot to goal and they're in that zone that's like, within 20 meters of the goal, well the likelihood of it going in is just like way higher. And that to me is like, okay, if we're thinking of expected exits, that's like series C, series D, you're like right up in the goal. Where we are is like how do we make a judgment about the past that is the past to the past to the past that makes it to the goal? So it's like we're evaluating the expected outcome. Of some action many years in advance, and we're doing it based on the style of play at that moment. Like there's a style of being in the world that we see in people, and I don't know, it's just wild how that translates into something that happens downfield five, seven years later.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39369,
+      "timestamps": [
+        {
+          "offset": 39369,
+          "raw": "[00:34:32]",
+          "seconds": 2072
+        }
+      ]
+    },
+    {
+      "end": 40295,
+      "excerpt": "[00:35:17] Gopi Rangan: What's the best way for some of these teenagers or founders to fall into your orbit? What's your advice to them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 40159,
+      "timestamps": [
+        {
+          "offset": 40159,
+          "raw": "[00:35:17]",
+          "seconds": 2117
+        }
+      ]
+    },
+    {
+      "end": 40364,
+      "excerpt": "[00:35:24] Michael Gibson: Have ice cream with us in Toronto. Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 40297,
+      "timestamps": [
+        {
+          "offset": 40297,
+          "raw": "[00:35:24]",
+          "seconds": 2124
+        }
+      ]
+    },
+    {
+      "end": 40909,
+      "excerpt": "[00:35:28]  Danielle Strachman: Have ice cream with us anywhere. Yeah, I mean, one of the things that we've found is that few people give opportunity for that talent to walk in the front door. We answer a majority of the contact forms that come into us. If people interact with us over Twitter, I give my email out all time. Danielle, at 1517 fun.com doesn't take a genius to guess what Michaels is. And we love to hear from people and we especially love to hear from teenagers about the types of wiley things that they're building and making.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 40366,
+      "timestamps": [
+        {
+          "offset": 40366,
+          "raw": "[00:35:28]",
+          "seconds": 2128
+        }
+      ]
+    },
+    {
+      "end": 41317,
+      "excerpt": "[00:35:56] And then we have a community that we keep, and our community is almost 7,000 young people. And we've been building this community from the Thiel Fellowship days, all the way through 1517. And what's really amazing is to watch the previous young people in that group, they're matriculating over time and they stay in the community and then they come back and they mentor the new people coming in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40911,
+      "timestamps": [
+        {
+          "offset": 40911,
+          "raw": "[00:35:56]",
+          "seconds": 2156
+        }
+      ]
+    },
+    {
+      "end": 41733,
+      "excerpt": "[00:36:15] So that's been really amazing. Right before this. I was having lunch with Kevin Wang, who's an old Thiel fellow and founder of Fossa. And we were talking about it. He's like, \"you know what? I really wanna get involved and I really wanna help the next set of people. And I'm thinking about, maybe moving into a deep tech company in the future, and I'd love to like see more of what you guys are seeing.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41319,
+      "timestamps": [
+        {
+          "offset": 41319,
+          "raw": "[00:36:15]",
+          "seconds": 2175
+        }
+      ]
+    },
+    {
+      "end": 42108,
+      "excerpt": "[00:36:33] And it's like, that's amazing. Like, that's incredible. And of course, he's been in that seat of being a young maker and a young founder and building a team and building a real company. And so of course I want that institutional knowledge to come back through. So any teenagers listening or actually, we get a lot of referrals from parents, which is fascinating.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41735,
+      "timestamps": [
+        {
+          "offset": 41735,
+          "raw": "[00:36:33]",
+          "seconds": 2193
+        }
+      ]
+    },
+    {
+      "end": 42536,
+      "excerpt": "[00:36:51] I was talking to a young man from Kazakhstan last week and I said, \"how did you hear about 1517?\" He said, \"my dad told me about it.\" And I was like, amazing. I was like, amazing. So, yeah, it's a funny marketing channel for us. We'd certainly get a lot of referrals from founders. But apparently we're getting referrals from parents because it's like, sometimes I like to say your parents are your first investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42110,
+      "timestamps": [
+        {
+          "offset": 42110,
+          "raw": "[00:36:51]",
+          "seconds": 2211
+        }
+      ]
+    },
+    {
+      "end": 42755,
+      "excerpt": "[00:37:13] I just wanna be your second. But we love hearing from teens and we have programming specifically for teens as well. So I'd really urge any teen to reach out or urge a parent to tell their teen to reach out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42538,
+      "timestamps": [
+        {
+          "offset": 42538,
+          "raw": "[00:37:13]",
+          "seconds": 2233
+        }
+      ]
+    },
+    {
+      "end": 42832,
+      "excerpt": "[00:37:24] Gopi Rangan: And parents get involved, that's a sign of success.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 42757,
+      "timestamps": [
+        {
+          "offset": 42757,
+          "raw": "[00:37:24]",
+          "seconds": 2244
+        }
+      ]
+    },
+    {
+      "end": 42871,
+      "excerpt": "[00:37:26]  Danielle Strachman: Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 42834,
+      "timestamps": [
+        {
+          "offset": 42834,
+          "raw": "[00:37:26]",
+          "seconds": 2246
+        }
+      ]
+    },
+    {
+      "end": 42939,
+      "excerpt": "[00:37:27] Gopi Rangan: Who is this not for? Who is not a good fit",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 42873,
+      "timestamps": [
+        {
+          "offset": 42873,
+          "raw": "[00:37:27]",
+          "seconds": 2247
+        }
+      ]
+    },
+    {
+      "end": 43048,
+      "excerpt": "[00:37:30] Michael Gibson: I would say first and foremost is like, don't just do a startup to do a startup.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 42941,
+      "timestamps": [
+        {
+          "offset": 42941,
+          "raw": "[00:37:30]",
+          "seconds": 2250
+        }
+      ]
+    },
+    {
+      "end": 43450,
+      "excerpt": "[00:37:34] There's this like entrepreneur playing startup thing and people get, it's funny, it's like they can get really knowledgeable on startups and VC Twitter and just understanding the gossip of Silicon Valley and, and maybe there's something to like, okay, being surrounded by it. But, absolutely by no means should you, like, drop out just to drop out without any plan or any goal or whatever.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43050,
+      "timestamps": [
+        {
+          "offset": 43050,
+          "raw": "[00:37:34]",
+          "seconds": 2254
+        }
+      ]
+    },
+    {
+      "end": 43937,
+      "excerpt": "[00:37:54] So for people who don't have that calling, I would say maybe, take the time to explore. It's gonna be expensive in college, but you should really try to find your passion what calls you. I think that's important. I think there's a distribution of willingness to take on risk and do unconventional things. And if you want to be a doctor or a lawyer. Okay, great. Go for it. Or, or maybe you wanna work for McKinsey. There, there are people out there where that could be true.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43452,
+      "timestamps": [
+        {
+          "offset": 43452,
+          "raw": "[00:37:54]",
+          "seconds": 2274
+        }
+      ]
+    },
+    {
+      "end": 44042,
+      "excerpt": "[00:38:21]  Danielle Strachman: Actually, Mike, you got, you gotta tell the story. The guy we just met.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 43939,
+      "timestamps": [
+        {
+          "offset": 43939,
+          "raw": "[00:38:21]",
+          "seconds": 2301
+        }
+      ]
+    },
+    {
+      "end": 44297,
+      "excerpt": "[00:38:25] Michael Gibson: Okay. So we were in Atlanta as A team, as a fund. We got five full-time people and we meet every quarter. And we just picked Atlanta. 'cause we have some companies there. One does it's really cool. It's like Topgolf for poker.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 44044,
+      "timestamps": [
+        {
+          "offset": 44044,
+          "raw": "[00:38:25]",
+          "seconds": 2305
+        }
+      ]
+    },
+    {
+      "end": 44687,
+      "excerpt": "[00:38:40] Another company is working on genetically editing plants. So it was like we wanted to come to to Atlanta and we're just getting dinner. I've got Rainmaker technology, schwag on t-shirt on at this dinner at this restaurant, and this guy's sitting at another table. So Augustus Dico, if you've, he's this like charismatic guy with a Lion's mane mullet who's very loud on Twitter.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44299,
+      "timestamps": [
+        {
+          "offset": 44299,
+          "raw": "[00:38:40]",
+          "seconds": 2320
+        }
+      ]
+    },
+    {
+      "end": 45017,
+      "excerpt": "[00:39:04] And so Rainmaker has gets a lot of attention. So this guy knew Rainmaker, he saw it on my shirt and he had to come over and, and he's like, oh, do you know Rainmaker? I was like explain we're investors and he is like, oh, that's so cool. I wish I could know that company. I was like, well, I'm happy to introduce you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44689,
+      "timestamps": [
+        {
+          "offset": 44689,
+          "raw": "[00:39:04]",
+          "seconds": 2344
+        }
+      ]
+    },
+    {
+      "end": 45300,
+      "excerpt": "[00:39:18] And he says, oh, I work at Deloitte. And you could feel the energy at the table, just like, and he saw it on our faces you know, there's some niceties exchanged or whatever, and he leaves. But like two minutes pass and he comes running back in Danielle, what did he say?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 45019,
+      "timestamps": [
+        {
+          "offset": 45019,
+          "raw": "[00:39:18]",
+          "seconds": 2358
+        }
+      ]
+    },
+    {
+      "end": 45491,
+      "excerpt": "[00:39:36]  Danielle Strachman: What he said when he came back is he is like, I am really committed just starting something very real in the future. I just need to pay off my student loans.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 45302,
+      "timestamps": [
+        {
+          "offset": 45302,
+          "raw": "[00:39:36]",
+          "seconds": 2376
+        }
+      ]
+    },
+    {
+      "end": 45695,
+      "excerpt": "[00:39:44] No, that's right. Yeah. That's why I'm here. He is like, I'm not one of them. Like, it was hilarious. I was like, oh my gosh. And then we had him come to a couple of our events. Yeah. He came",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 45493,
+      "timestamps": [
+        {
+          "offset": 45493,
+          "raw": "[00:39:44]",
+          "seconds": 2384
+        }
+      ]
+    },
+    {
+      "end": 45766,
+      "excerpt": "[00:39:52] Michael Gibson: and played poker at the poker place. Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 45697,
+      "timestamps": [
+        {
+          "offset": 45697,
+          "raw": "[00:39:52]",
+          "seconds": 2392
+        }
+      ]
+    },
+    {
+      "end": 46028,
+      "excerpt": "[00:39:54]  Danielle Strachman: Yeah. I got him into the Deep Tech New York event because he'd love to be in startups and in VC at some point, and actually he was told by another VC that that VC wouldn't hire him because he didn't have enough of a network yet.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 45768,
+      "timestamps": [
+        {
+          "offset": 45768,
+          "raw": "[00:39:54]",
+          "seconds": 2394
+        }
+      ]
+    },
+    {
+      "end": 46203,
+      "excerpt": "[00:40:07] This guy was like 22. And then of course he randomly meets us and we just start swirling him into all our stuff, even though he is a graduate and he is at way, he",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 46030,
+      "timestamps": [
+        {
+          "offset": 46030,
+          "raw": "[00:40:07]",
+          "seconds": 2407
+        }
+      ]
+    },
+    {
+      "end": 46269,
+      "excerpt": "[00:40:17] Michael Gibson: also caught a ride with us back from.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 46205,
+      "timestamps": [
+        {
+          "offset": 46205,
+          "raw": "[00:40:17]",
+          "seconds": 2417
+        }
+      ]
+    },
+    {
+      "end": 46402,
+      "excerpt": "[00:40:19]  Danielle Strachman: Oh my God, yes. Yeah. Actually that's a great way to get to know 1517 is hop with us. We'll do BU A",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 46271,
+      "timestamps": [
+        {
+          "offset": 46271,
+          "raw": "[00:40:19]",
+          "seconds": 2419
+        }
+      ]
+    },
+    {
+      "end": 46442,
+      "excerpt": "[00:40:24] Gopi Rangan: Ride from you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 46404,
+      "timestamps": [
+        {
+          "offset": 46404,
+          "raw": "[00:40:24]",
+          "seconds": 2424
+        }
+      ]
+    },
+    {
+      "end": 46646,
+      "excerpt": "[00:40:25] Great. Exactly. We're coming towards the end of our conversation and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 46444,
+      "timestamps": [
+        {
+          "offset": 46444,
+          "raw": "[00:40:25]",
+          "seconds": 2425
+        }
+      ]
+    },
+    {
+      "end": 46825,
+      "excerpt": "[00:40:36] Michael Gibson: Institute for Justice is a libertarian law. Nonprofit, they undertake cases on behalf of people to protect property rights and the rights of contract.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 46648,
+      "timestamps": [
+        {
+          "offset": 46648,
+          "raw": "[00:40:36]",
+          "seconds": 2436
+        }
+      ]
+    },
+    {
+      "end": 47143,
+      "excerpt": "[00:40:47] So they've done some great work over eminent domain seizure. They've got a case that's trying to overthrow rent control in New York, I wish 'em luck. I'm a radical libertarian anarchist type and, there are different organizations out there, but Institute for Justice lately has been doing some great work.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 46827,
+      "timestamps": [
+        {
+          "offset": 46827,
+          "raw": "[00:40:47]",
+          "seconds": 2447
+        }
+      ]
+    },
+    {
+      "end": 47803,
+      "excerpt": "[00:41:05]  Danielle Strachman: I was gonna say especially in line with what we've been talking today about technological progress I love the Foresight Institute. So Foresight turns 40 years old this year. And they were actually really like a huge influence on me growing up actually, because when I moved to the Bay, I went to Foresight Institute events. And at the time it was all like nanotech focused, but they've broadened the focus significantly over the last, I'd say 10 years. And I love their programs. They're doing more with young people. They have a fellowship program. They have incredible talks both online and offline. And they're a nonprofit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 47145,
+      "timestamps": [
+        {
+          "offset": 47145,
+          "raw": "[00:41:05]",
+          "seconds": 2465
+        }
+      ]
+    },
+    {
+      "end": 47949,
+      "excerpt": "[00:41:39] And I really, really love what they do and would urge people to get involved because I mean, they're like, they're like the og, like,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 47805,
+      "timestamps": [
+        {
+          "offset": 47805,
+          "raw": "[00:41:39]",
+          "seconds": 2499
+        }
+      ]
+    },
+    {
+      "end": 48109,
+      "excerpt": "[00:41:46] Michael Gibson: yeah, Christine Peterson is like one of her claim to fame is, I think she invented or coined the phrase open source. Is that right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 47951,
+      "timestamps": [
+        {
+          "offset": 47951,
+          "raw": "[00:41:46]",
+          "seconds": 2506
+        }
+      ]
+    },
+    {
+      "end": 48170,
+      "excerpt": "[00:41:52]  Danielle Strachman: Yeah, that's correct. Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Danielle Strachman",
+      "start": 48111,
+      "timestamps": [
+        {
+          "offset": 48111,
+          "raw": "[00:41:52]",
+          "seconds": 2512
+        }
+      ]
+    },
+    {
+      "end": 48244,
+      "excerpt": "[00:41:54] Yeah, exactly. She's an og. Cool. Christine's amazing. Really",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 48172,
+      "timestamps": [
+        {
+          "offset": 48172,
+          "raw": "[00:41:54]",
+          "seconds": 2514
+        }
+      ]
+    },
+    {
+      "end": 48551,
+      "excerpt": "[00:41:58] Gopi Rangan: cool. Danielle and Michael, thank you so much for spending time with me today. Thank you for sharing your candid thoughts and real life experiences based on the kind of things you do, the crazy things you do at 1517. I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 48246,
+      "timestamps": [
+        {
+          "offset": 48246,
+          "raw": "[00:41:58]",
+          "seconds": 2518
+        }
+      ]
+    },
+    {
+      "end": 48610,
+      "excerpt": "[00:42:14] Michael Gibson: Okay. Thanks for having us on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Michael Gibson",
+      "start": 48553,
+      "timestamps": [
+        {
+          "offset": 48553,
+          "raw": "[00:42:14]",
+          "seconds": 2534
+        }
+      ]
+    },
+    {
+      "end": 48912,
+      "excerpt": "[00:42:18] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 48612,
+      "timestamps": [
+        {
+          "offset": 48612,
+          "raw": "[00:42:18]",
+          "seconds": 2538
+        }
+      ]
+    },
+    {
+      "end": 48976,
+      "excerpt": "[00:42:33] I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 48914,
+      "timestamps": [
+        {
+          "offset": 48914,
+          "raw": "[00:42:33]",
+          "seconds": 2553
+        }
+      ]
+    }
+  ],
+  "source_sha256": "0d84c84a0e1618033f9c036aae96f0d73c8087d3729d8104f4360b886a279d18",
+  "text_sha256": "5a57d19bbcfc65163dcf460a2d29f3b4d346c6e8f6fde1af73cc29f53997585b"
+}

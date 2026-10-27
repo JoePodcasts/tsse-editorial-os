@@ -1,0 +1,497 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 164,
+      "excerpt": "Edward Suh: The other thing that I try to do is not have a one-size-fits-all approach or one universal model that every company has to fit. I have a series of them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 412,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 166,
+      "timestamps": []
+    },
+    {
+      "end": 974,
+      "excerpt": "Welcome to another episode of The Sure Shot Entrepreneur. I'm your host Gopi Rangan. I'm here with Edward Suh. He's the founding partner at Alpine Venture Capital. We're gonna talk to Ed about his new firm, what kind of startups he likes to invest in, how he looks for diversity in the ecosystem and underprivileged  and overlooked entrepreneurs. We're also going to talk to him about specific stories that get him excited, including some stories that may not resonate well with him and why it does happen sometimes. Ed, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 414,
+      "timestamps": []
+    },
+    {
+      "end": 1042,
+      "excerpt": "Edward Suh: Thank you Gopi for having me. I'm excited to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 976,
+      "timestamps": []
+    },
+    {
+      "end": 1248,
+      "excerpt": "Gopi Rangan: Tell us about yourself. You spent many years in venture capital, previously at Goodwater and Redpoint, and you are also a graduate from Stanford. How did you enter the venture capital world? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1044,
+      "timestamps": []
+    },
+    {
+      "end": 1935,
+      "excerpt": "Edward Suh: Sure. Happy to share more on that. I grew up on the east coast of the US, so wasn't born and raised in Silicon valley, but I had an early fascination with the internet and technology at an early age. I made it my life's mission to come out west at some. I was lucky enough to get into Stanford for undergrad. So I went to Stanford for college, got two degrees in computer science and while I was there had a few formative internships. One was at Facebook back in 2008. I was an engineer on the original growth team. I got to see a lot of the early innings of consumer growth and internationalization and some of the really novel things that we developed at the time there. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 1250,
+      "timestamps": []
+    },
+    {
+      "end": 1996,
+      "excerpt": "Gopi Rangan: That was soon after Facebook launched. Right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1937,
+      "timestamps": []
+    },
+    {
+      "end": 2367,
+      "excerpt": "Edward Suh: It was a few years after we launched. That summer, we were the number two social network in the US after MySpace. T he biggest mission that we had at the time, our number one goal was to be the number one social network. It was still relatively early days. It was about few employees had just joined. Maybe a growth-stage startup is what it would be today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 1998,
+      "timestamps": []
+    },
+    {
+      "end": 2408,
+      "excerpt": "Gopi Rangan: Still very early, indeed. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2369,
+      "timestamps": []
+    },
+    {
+      "end": 2948,
+      "excerpt": "Edward Suh: That's right. So, I was at Facebook for a summer. I was also at a firm called Citadel for a summer as well, which is a large hedge fund based in Chicago. For those who aren't familiar with it, it's a large quant hedge fund. I've invested a lot into software engineering and applying data and software to run a lot of sophisticated analysis to do public market investments. While I was there, I got to see the power of how much data and software could really transform how an investment firm operates, which is very formative. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 2410,
+      "timestamps": []
+    },
+    {
+      "end": 3900,
+      "excerpt": "Coming out of school, I had a few different roles that were in and around technology companies, but more on the later stage side. The first was in investment banking at Merrill Lynch. I was part of the tech M&A group based in Palo Alto. We worked with mostly growth-stage startups as well as large-cap technology companies on buy side and sell side M&A. After that, I had an operating stint at a company called Stitcher, which is one of the leading podcasting streaming service. It was actually the first app that developed streaming technology on mobile for podcasts back in or so. I was there from 2011 until 2013 and headed business operations. I essentially worked side by side with the CEO to help run all of the business functions internally at the company, which included finance, sales, marketing, business development, et cetera. I ran that for a few years and then we sold the company. In 2013 is when we started a sales process to sell it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2950,
+      "timestamps": []
+    },
+    {
+      "end": 4325,
+      "excerpt": "Then I went to venture from there. My motivation there was, I love that experience of working closely with an early-stage entrepreneur and figuring out, every single day, what I could do to help that entrepreneur build a successful company. Whether that was helping think through a revenue model and pricing or thinking through marketing and growth or helping with a funding round or eventually helping to sell the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3902,
+      "timestamps": []
+    },
+    {
+      "end": 4958,
+      "excerpt": "I got see firsthand all of the struggles that an early-stage entrepreneur would go through and I wanted to do that in a more scaled out capacity. So, in 2013, I entered the venture world. I started at a firm called Redpoint, which is a very established venture fund. It's been around for, I believe over 25 at this point. Redpoint is technology-focused, mostly in enterprise software. They're notable for being early investors in companies like Snowflake, Looker, Stripe, et cetera. I was a member of the early stage investment team for a couple years. I was a generalist who looked at everything from enterprise SaaS to consumer. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4327,
+      "timestamps": []
+    },
+    {
+      "end": 5261,
+      "excerpt": "As time went on, I got more and more excited about consumer internet for a few reasons. One is consumer products are products that have mass market appeal and adoption potential. Our friends and family, my parents, my siblings, my friends, you know, all understand and are users of consumer products. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4960,
+      "timestamps": []
+    },
+    {
+      "end": 6453,
+      "excerpt": "The second is that consumer products, because they're so wide-reaching, they can influence culture and social trends in a way that enterprise software really doesn't do. The amount of influence that a company like Facebook or Uber or Snapchat has on the world is really powerful. So, I wanted to be a part of that world. I started to specialize more in consumer, and then in 2015 I had the opportunity to help start and build up a new venture firm called Goodwater Capital. Goodwater is a consumer-only fund. It started out as a early-stage fund but it's now a very large multi-stage practice spanning the globe, investing in the US as well as internationally from series A to growth. I was a key part of helping that firm scale up. So, while I was there, I got to work on several dozen different investments across all different parts of consumer tech from FinTech companies like Stash, Monzo, Toss, et cetera, to healthcare companies like Everlywell, which is one of the leading at-home diagnostics companies, to social media, et cetera, and had a really great run. I was there for about six and a half years and then in late 2021 decided to spin out and start my own firm called Alpine. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5263,
+      "timestamps": []
+    },
+    {
+      "end": 6794,
+      "excerpt": "Gopi Rangan: I want to ask you about Alpine and what Alpine stands for and your philosophy of investment, but I'm still curious: why venture capital? What is exciting for you in venture capital having spent time at Redpoint and Goodwater? What's the lifestyle of a VC that excites you to wake up in the morning and say, I want to be a VC. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6455,
+      "timestamps": []
+    },
+    {
+      "end": 7175,
+      "excerpt": "Edward Suh: Yeah, there are two things about venture capital that I really love. One is that you get to be at the forefront of witnessing innovation at a very early stage. You get to be in the early innings of watching transformative companies get born and get built over time. It's really exciting to see that at a very early stage and be involved and influence those companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 6796,
+      "timestamps": []
+    },
+    {
+      "end": 7812,
+      "excerpt": "The other part that I really love about VC is that ultimately, it's a career that is service-oriented. I think of myself as a very service-oriented person. I like working for people, helping people to achieve their goals and achieve my goals in conjunction with helping others. The career naturally appealed to me in the sense that, I think of the role as constantly in service of entrepreneurs doing whatever I can to help them achieve their goals. So, from a mission perspective, and then how much involved you can be with witnessing innovation, those things really drive me. I found venture to be this magical combination of those..",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7177,
+      "timestamps": []
+    },
+    {
+      "end": 8212,
+      "excerpt": "Gopi Rangan: Yeah, I think of VC as a service business as well. It just happens to have capital attached to it. And, we get a chance to meet founders or building innovative solutions that has the potential to transform the world. We get a chance to see that very early on. It's very exciting, indeed. So let's talk about Alpine. How is Alpine different from other VC firms? What's your philosophy? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7814,
+      "timestamps": []
+    },
+    {
+      "end": 8550,
+      "excerpt": "Edward Suh: Yeah. In a nutshell, Alpine is a seed-focused fund that predominantly invests in consumer as well as consumerized enterprise companies. From a stage and sector perspective, there's a lot of focus there, but the core part of Alpine that's really different and really unique is in how I find companies and how I evaluate them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 8214,
+      "timestamps": []
+    },
+    {
+      "end": 9387,
+      "excerpt": "It's a very data-oriented approach, which is quite unique at seed. One thing I've done that isn't well published is I built an internal data platform. I actually built one at Redpoint as an experiment, and then at Goodwater built one internally as well, that helps to identify and flag companies on the basis of their metrics. It's a purely quantitative method. It's very objective. The way it works is I employ a bunch of data crawlers that go out and look and assess different metrics related to products - from things like mobile apps to web traction to social media traction, et cetera, and flag companies that have outsized growth or outsized engagement. So, I built a system that's able to do this around the world and in doing so is able to identify entrepreneurs that are either unknown today or are overlooked by other firms. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8552,
+      "timestamps": []
+    },
+    {
+      "end": 9821,
+      "excerpt": "Gopi Rangan: Very interesting. It's a data driven approach in the world where it's about service to entrepreneurs, but at the beginning of this conversation starts with that breakout story that you pick up much before anybody else does. Can you talk about the model that you have built? What goes into the model? How do you think about gathering data? What are the sources of this data without revealing the secret sauce of course. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9389,
+      "timestamps": []
+    },
+    {
+      "end": 11070,
+      "excerpt": "Edward Suh: Yeah, exactly. Without going too much into the details of it, the methodology that I employ is one that is product-based. I assess metrics around the products that the companies build and distribute to the world. It's not one that subjects to biases around founders or in backgrounds or pedigrees the way that many other firms would have. It's also independent of network in the sense that I don't only look for companies where I can get a referral from someone I know, or I expect them to get a referral to me from someone we know in common. In that sense, it's a much broader aperture of the types of entrepreneurs I look at. In terms of some of the things that I look for and assess there are metrics around growth. So, looking at things like, if it's a mobile app, how many downloads it's getting, how that's been trending over time, how many active users that particular product has, how engaged that user base is in terms of time spent on that product, the retention, the demographics of that particular product, and all of these are available through different third party sources in various forums that have different methods for how they approach that, whether it's panel based or some kind of machine learning-based estimate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 9823,
+      "timestamps": []
+    },
+    {
+      "end": 11413,
+      "excerpt": "I've worked with a variety of vendors around the world that are really good at this. I've structured deals with the best of them and programmatically capture that data in a systematic fashion, and then build my own machine learning models on top that are able to flag companies that have patterns that are likely to lead to outsized returns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11072,
+      "timestamps": []
+    },
+    {
+      "end": 12148,
+      "excerpt": "Gopi Rangan: So you're building a quant venture capital firm which allows you to learn about these companies, watch their traction well before they come to the first meeting. This also means that founders who launch the product in the market, and if the product is good, they have traction, the numbers show the metrics that you're expecting. That's sufficient for you to get interested versus looking for pedigree or biases or who introduces them to you. They need to find avenues to get to you. And that depends on how privileged they are and how well networked they are. That doesn't matter as much to you. What really matters to you is these metrics and you're on top of those metrics well, before most of the other VC firms are.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11415,
+      "timestamps": []
+    },
+    {
+      "end": 12176,
+      "excerpt": "Edward Suh: That's right. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 12150,
+      "timestamps": []
+    },
+    {
+      "end": 12249,
+      "excerpt": "Gopi Rangan: What happens in that first meeting? What do you ask them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12178,
+      "timestamps": []
+    },
+    {
+      "end": 12600,
+      "excerpt": "Edward Suh: The first thing I ask and what I try to get a sense of is to validate those metrics, because some of these come from third party sources that are based on estimates or panels. So, first and foremost, I wanna make sure that what I'm estimating is accurate and so I take a very metrics-driven approach to how I evaluate companies as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 12251,
+      "timestamps": []
+    },
+    {
+      "end": 13097,
+      "excerpt": "But I also care a lot about the founders. To be fair, I don't want to come across as a VC that doesn't care about a founder's potential or their capabilities. I just don't care as much about their background and pedigree, but I do spend a lot of time in the first meeting and beyond assessing the founders, really for execution potential, vision, integrity, some of these soft things that don't come across necessarily in metrics, but that are still really important to figure out and to assess.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12602,
+      "timestamps": []
+    },
+    {
+      "end": 13132,
+      "excerpt": "Gopi Rangan: How do you do that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13099,
+      "timestamps": []
+    },
+    {
+      "end": 13495,
+      "excerpt": "Edward Suh: I try to spend a lot of time interviewing them and relating what has happened with the product to what I can figure out about them personally. One thing that I look for, as an example, are entrepreneurs that are resourceful, scrappy, and resilient. How this may come across in the metrics is a company that is highly efficient at a very early stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 13134,
+      "timestamps": []
+    },
+    {
+      "end": 13921,
+      "excerpt": "There are a few companies that I've seen, which is very rare, where even at seed stage they're profitable or close to profitability. This only happens because these founders are ones that aren't used to seeing an abundance of capital available to them. They're forced to build a business that can generate revenue from day one that has good margins that has solid economics, that could be a profitable, sustainable business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13497,
+      "timestamps": []
+    },
+    {
+      "end": 14122,
+      "excerpt": "That comes across in what they say when I talk to them and how they talk about how they've overcome adversity, how they've overcome barriers, and still been able to build a big business as a result. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13923,
+      "timestamps": []
+    },
+    {
+      "end": 14337,
+      "excerpt": "Gopi Rangan: This is very interesting. You start with metrics and you want to make sure that you can validate the assumptions that gave you the initial thumbs up saying this product is worth investigating further.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14124,
+      "timestamps": []
+    },
+    {
+      "end": 14703,
+      "excerpt": "Once you validate the numbers with the founders, then you ask them qualitative questions about the journey of building the product. How did the team come together? What was the initial idea? How did they evolve that idea over the period of time when they built the product? Then you go into more of the qualitative side to understand the founders at a human level.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14339,
+      "timestamps": []
+    },
+    {
+      "end": 15081,
+      "excerpt": "If I'm a founder, would I be concerned or does this come up in your conversations where I build something, the traction numbers show that there is something here for you to look at, but one size doesn't fit all the way you look at one consumer product may be different from another consumer product. And the way one app can show metrics can be very different from another app.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14705,
+      "timestamps": []
+    },
+    {
+      "end": 15456,
+      "excerpt": "The model that you've built may or may not be able to adapt, to show the highlights of the best products, the way I built as a founder. Does that come up to founders, ask you like, \"Hey, that's not the way to look at the metrics for my product and here's a new way of looking at it. It would be unfair to judge the success of my product based on metrics of other products.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15083,
+      "timestamps": []
+    },
+    {
+      "end": 15877,
+      "excerpt": "Edward Suh: Absolutely. The way that I try to solve for that is one, the models that I employ are dynamic over time. So, it's not a static view of the world or a static set of rules around what makes a great company. It's constantly evolving and so as industries change, as new data points come up, as new types of models get built, that all gets incorporated back into the assessment of what makes a company stand out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 15458,
+      "timestamps": []
+    },
+    {
+      "end": 16568,
+      "excerpt": "The other thing that I try to do is not have this, like you said, one size fits all approach of one universal model that every company has to fit. I have a series of them. Much like how a traditional investment firm would look at different sectors differently, whether you're looking at FinTech or healthcare or education or productivity tools, the metrics that you look for, what carries weight and what is good versus what's not, is more on a relative basis for that category. So, much like that, I look at different categories and the models are built to look at different categories differently. An entrepreneur will only compared against truly comparable companies in that same space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15879,
+      "timestamps": []
+    },
+    {
+      "end": 16911,
+      "excerpt": "Gopi Rangan: You have a very refreshing new approach to venture capital. Not many VC firms think this way. I can see how founders who are overlooked by other VC firms can come to you and you can see the advantages in their product that it's not evident for the rest of the world to see. What's your most common reason to say no to a founder?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16570,
+      "timestamps": []
+    },
+    {
+      "end": 17540,
+      "excerpt": "Edward Suh: Yeah, my most common reason to say no, even if the metrics look good today, if I don't have confidence that they can continue to scale and to build a big company on top of it. So I would say the most common thing that I see that's a false positive are companies that have built one very narrow product or very narrow feature that's getting early growth, but the market potential is either very small or it's hard to see that evolving into a multiproduct company that can be really big over time. I'd say the most common reason I pass would be if I believe that a product today has a pretty tapped market potential. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 16913,
+      "timestamps": []
+    },
+    {
+      "end": 17991,
+      "excerpt": "Gopi Rangan: So you can't be a one hit wonder. The first product showing signs of success is a strong positive, but you also want to see that can be repeated with multiple products and you can build a business over time with a collection of products that can go into the market and sustain for a long time. If you don't see that, that's a reason for you to say, \"you know, this product is great, but I'm not really sure if you can build a business.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17542,
+      "timestamps": []
+    },
+    {
+      "end": 18516,
+      "excerpt": "Edward Suh: It's not necessarily that I have to see a multi-product path, but that I have to see at least one core product that can scale to become huge in mass market over time, versus, there are a lot of niche products that have good usage and good growth at a very early stage, but then they tap out very quickly because there's a market segment that's very small or it's not monetizable in that sense. That's the number one thing that I see. A lot of these early products tend to flame out after a little bit of growth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 17993,
+      "timestamps": []
+    },
+    {
+      "end": 18655,
+      "excerpt": "Gopi Rangan: Okay. Can you give an example of a company that showed that promise to you, and it actually played out the way you expected?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18518,
+      "timestamps": []
+    },
+    {
+      "end": 19586,
+      "excerpt": "Edward Suh: Yeah. One very prominent example, a company I was involved with for a number of years now at this point, is a company called Photomath. If you ask anyone in middle school, high school or college, I'm sure that they've either heard about this app or they are actively using it. It's one of the most popular education apps in the world. It's a math solving and math learner tool that applies AI and machine learning, image recognition to scan any problem on your phone and solve it step by step algorithmically. It's a fascinating tool, very technically sophisticated. It was started by an entrepreneur based in Croatia. For the first few years, even though it was one of the most popular education apps in the world, it didn't receive any interest from traditional US venture funds I think simply because of the fact that it was in a non-core geography, with an entrepreneur that also had a non-traditional background.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 18657,
+      "timestamps": []
+    },
+    {
+      "end": 20338,
+      "excerpt": "I was willing to overlook all those factors because the product-market fit was so strong. I saw the potential of this math learning tool becoming a huge business that could be built around math learning, around helping kids around the world become better at math outside of the classroom. It's executing very well in that vision. They launched a premium subscription service in the past few years that it's been scaling up really, really well. Every school year, it's the most dominant education app and continues to grow every single year. I think they have a few hundred people now at this point, both in the US and in Croatia. It's successfully internationalized across the world. So, it's in the US and Europe and Asia and it's doing really well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19588,
+      "timestamps": []
+    },
+    {
+      "end": 20514,
+      "excerpt": "That's one example I point to as a company that was largely overlooked in the early days by US firms, but had an incredible product that was loved by people around the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20340,
+      "timestamps": []
+    },
+    {
+      "end": 20958,
+      "excerpt": "Gopi Rangan: This is exciting. You found a hidden gem, indeed. We've talked about the world from your perspective. What you look for, what is Alpine, how is it different from other VC firms? What gets you excited? What questions you ask in the first meetings and what makes you say no? Can we turn the conversation to the other side? What advice would you give founders before they come to meet you? How can they make that meeting effective? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20516,
+      "timestamps": []
+    },
+    {
+      "end": 21115,
+      "excerpt": "Edward Suh: Yeah. I would have two general pieces of advice and this is not just for me specifically, but broadly applies to most VCs, at least in the US. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 20960,
+      "timestamps": []
+    },
+    {
+      "end": 21484,
+      "excerpt": "The first is to have a very solid command of your metrics. A lot of entrepreneurs at an early stage don't track metrics very closely, don't really look at it and can't tell you sometimes some of the basic metrics that a VC would expect to see around engagement, around retention, around cohorts, et cetera. Having an early command of those is a really positive sign. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21117,
+      "timestamps": []
+    },
+    {
+      "end": 22067,
+      "excerpt": "The second is to have a very compelling vision for what the company becomes over time and how it becomes a huge business. At seed-stage, oftentimes I see entrepreneurs that don't have that early on. There's a very specific product that's very focused on a niche, but there isn't this compelling vision or clear path to how that turns into a multibillion dollar business over. The path can change and you don't have to be wedded to a particular path, but having a strong point of view early on for what it can become, and what it takes to get there, goes a long way with investors. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21486,
+      "timestamps": []
+    },
+    {
+      "end": 22314,
+      "excerpt": "Gopi Rangan: Clarity in synthesizing the metrics and knowing the numbers behind the numbers is important, indeed. If you were to change one thing in venture capital, what would you do? What would you change about the industry to make it better? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22069,
+      "timestamps": []
+    },
+    {
+      "end": 23379,
+      "excerpt": "Edward Suh: That's a really great question. Especially at an early stage, at pre-seed and seed stages, when companies are so early, a lot of the founders that attract the most capital early on, and the most attention, are not necessarily the ones with the best products or with the most traction. They're simply the ones that have the best access to capital at that early of a stage. That's why you see statistics like only 2% or so of venture funding goes to women. I think it's an almost equally low percentage that goes to black founders, et cetera. The main reason why those numbers are so low is because of the network driven nature of the industry that's pervasive even today where most VCs only want to or bias towards investing in people that are one degree away from them and come from a trusted referral. So, the industry keeps perpetuating the same biases and the same barriers to access that have made it really hard for entrepreneurs outside of that. Now, it's changing. I think it's slowly changing, but I wish that that change was happening faster.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 22316,
+      "timestamps": []
+    },
+    {
+      "end": 23655,
+      "excerpt": "Part of my mission for Alpine is to help accelerate that change by going directly data, by looking directly at products and hopefully finding those next set of entrepreneurs that are building great companies, who don't that access, but I can help give that access early on. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23381,
+      "timestamps": []
+    },
+    {
+      "end": 23912,
+      "excerpt": "Gopi Rangan: We need that change indeed. The industry's waiting for it. I'm glad you highlighted that. We're coming to the end of our conversation. I'm going to ask you one last question. Do you have a favorite nonprofit you like working with. Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23657,
+      "timestamps": []
+    },
+    {
+      "end": 24548,
+      "excerpt": "Edward Suh: Yes. There's an organization called Gold House. Gold House, for those who don't know, is one of the leading organizations oriented towards the AAPI communities [Asian and Pacific Islander]. It's a very broad community that involves not only people in tech and venture capital, but people in media. A lot of celebrities, actors, actresses, directors, Asian-American leaders around the world are part of that organization. It's an incredible organization. They just started a new program that is a $30-million venture fund oriented towards companies that are started and led by Asian and Pacific Islander founders and teams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 23914,
+      "timestamps": []
+    },
+    {
+      "end": 24784,
+      "excerpt": "It's an organization that I love to be involved with. I hope to co-invest with in founders like that and it's one that if you're part of the community or want to support that community, I would highly recommend getting involved with. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24550,
+      "timestamps": []
+    },
+    {
+      "end": 25202,
+      "excerpt": "Gopi Rangan: Ed, thank you very much for spending time with me today. You've shared nuggets of wisdom from your journey. You've shared specific examples of what gets you excited, what happens in that first meeting, second meeting, specific things that you look for in your conversations with founders and your focus on how to make the venture capital world better by focusing on metrics and data and removing biases.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24786,
+      "timestamps": []
+    },
+    {
+      "end": 25413,
+      "excerpt": "I'm with you on many of these ideas and I'm looking forward to collaborating with you more in the future. Thank you very much for sharing your nuggets of wisdom. I look forward to sharing them with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25204,
+      "timestamps": []
+    },
+    {
+      "end": 25525,
+      "excerpt": "Edward Suh: Thank you so much, Gopi. It was great to be on and I love this podcast. Thank you for doing this. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Edward Suh",
+      "start": 25415,
+      "timestamps": []
+    },
+    {
+      "end": 25868,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25527,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "301e1dbb6ff59509009772dce945e50d4f003aad1576ca2967749f6519595dce",
+  "text_sha256": "a6cff045696dab9a6ea3f23d812128b19d03dece95d939deebdaf0ae2a8778a5"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "tsse-quote-card-v1",
+  "status": "approved",
+  "canvas": [
+    940,
+    788
+  ],
+  "export": [
+    1880,
+    1576
+  ],
+  "colors": {
+    "background_top": "#001F30",
+    "background_bottom": "#002235",
+    "cyan": "#50DDF5",
+    "white": "#FFFFFF",
+    "disc_top": "#002337",
+    "disc_bottom": "#002337",
+    "footer_top": "#38D4F4",
+    "footer_bottom": "#62E1FF"
+  },
+  "quote": {
+    "x": 73,
+    "y": 165,
+    "width": 440,
+    "bottom": 502
+  },
+  "profiles": {
+    "short": {
+      "size": 58.5,
+      "leading": 63,
+      "max_lines": 4,
+      "tracking": -0.5,
+      "paragraph_gap": 15,
+      "max_height": 245,
+      "alignment": "center",
+      "balance_bottom": 470,
+      "divider_y": 499
+    },
+    "medium": {
+      "size": 58.5,
+      "leading": 63,
+      "max_lines": 5,
+      "tracking": -0.5,
+      "paragraph_gap": 15,
+      "max_height": 310,
+      "alignment": "top",
+      "divider_y": 499
+    },
+    "long": {
+      "size": 43.25,
+      "leading": 46,
+      "max_lines": 7,
+      "tracking": -0.55,
+      "paragraph_gap": 15,
+      "max_height": 337,
+      "alignment": "top",
+      "divider_y": 516
+    }
+  },
+  "portrait": {
+    "x_min": 405,
+    "x_max": 545,
+    "y_min": 90,
+    "y_max": 135,
+    "width_min": 540,
+    "width_max": 820
+  },
+  "rule": [
+    191,
+    95,
+    498,
+    96.5
+  ],
+  "disc": [
+    514,
+    128,
+    1060,
+    674
+  ],
+  "dots": {
+    "step": 14.5,
+    "radius": 1.15,
+    "center": [
+      850,
+      330
+    ],
+    "radius_outer": 410,
+    "radius_inner": 240,
+    "outer_fade": 40,
+    "inner_fade": 65,
+    "vertical_fade": [
+      380,
+      570
+    ]
+  },
+  "marks": {
+    "x": 70,
+    "y": 56,
+    "width": 99,
+    "height": 73
+  },
+  "attribution": {
+    "gap": 16,
+    "divider_width": 49,
+    "divider_height": 4,
+    "name_gap": 19,
+    "name_size": 26.5,
+    "role_size": 22.5,
+    "role_leading": 24,
+    "bottom": 625,
+    "name_tracking": 0.6,
+    "role_tracking": 0,
+    "role_gap": 32
+  },
+  "logo": {
+    "x": 73,
+    "y": 657,
+    "width": 166,
+    "max_height": 80,
+    "path": "publishing/templates/quote-card/v1/assets/tsse-logo.png",
+    "sha256": "ca90f928cea7ec4d9d4822a07ec2df7974d454936608128ca429be276f72988e",
+    "source": "User supplied Desktop/TSSE-Logo-No-Bg.png, 2026-10-24"
+  },
+  "footer": [
+    [
+      0,
+      781
+    ],
+    [
+      940,
+      664
+    ],
+    [
+      940,
+      788
+    ],
+    [
+      0,
+      788
+    ]
+  ],
+  "unresolved": [],
+  "typography": {
+    "family": "Source Sans Pro",
+    "release": "2.045R-ro/1.095R-it",
+    "quote_weight": 700,
+    "attribution_weight": 700,
+    "role_weight": 400,
+    "status": "approved",
+    "license": "fonts/LICENSE.txt"
+  },
+  "background_glows": [
+    {
+      "center": [
+        280,
+        150
+      ],
+      "radius": [
+        500,
+        650
+      ],
+      "color": "#00354D",
+      "strength": 0.55
+    }
+  ],
+  "disc_glow": {
+    "center": [
+      880,
+      220
+    ],
+    "radius": [
+      300,
+      255
+    ],
+    "color": "#0098D5",
+    "strength": 1
+  },
+  "footer_gradient_region": [
+    664,
+    788
+  ]
+}

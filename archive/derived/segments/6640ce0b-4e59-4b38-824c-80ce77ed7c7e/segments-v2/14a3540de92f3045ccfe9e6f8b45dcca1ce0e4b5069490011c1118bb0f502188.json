@@ -1,0 +1,1095 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 348,
+      "excerpt": "We have to stop doing these massive party rounds where no one's incentivized to wanna help out with the company. I think we have to have the big VCs leave room for the smaller guys to help out and be an owner in the business just as much as they are, but not with the same size check, obviously not with a full same size ownership, but leave space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 512,
+      "excerpt": "Don't take air outta the room. The third thing is what we had happen in 2021, ideally never happens again. And what I mean by that is I call it flag rock capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 350,
+      "timestamps": []
+    },
+    {
+      "end": 908,
+      "excerpt": "[00:00:35] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I am your host, Gopi Rangan. My guest today is Brian. Brian is a general partner at FTW Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 514,
+      "timestamps": [
+        {
+          "offset": 514,
+          "raw": "[00:00:35]",
+          "seconds": 35
+        }
+      ]
+    },
+    {
+      "end": 1243,
+      "excerpt": "FTW Ventures invests in founders to focus mainly on the food system for the next generation. What does that mean? What are some areas that Brian's excited about? What are trends that are exciting for founders to know about and some advice to founders who are building in this space. We're gonna talk to him about all of these topics.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 910,
+      "timestamps": []
+    },
+    {
+      "end": 1291,
+      "excerpt": "Brian, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1245,
+      "timestamps": []
+    },
+    {
+      "end": 1345,
+      "excerpt": "[00:01:34] Brian Frank: Thanks for having me, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 1293,
+      "timestamps": [
+        {
+          "offset": 1293,
+          "raw": "[00:01:34]",
+          "seconds": 94
+        }
+      ]
+    },
+    {
+      "end": 1413,
+      "excerpt": "[00:01:36] Gopi Rangan: Let's start with you. Where are you from? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1347,
+      "timestamps": [
+        {
+          "offset": 1347,
+          "raw": "[00:01:36]",
+          "seconds": 96
+        }
+      ]
+    },
+    {
+      "end": 1584,
+      "excerpt": "[00:01:39] Brian Frank: I'm actually from the East coast, so I'm from the suburbs of Philadelphia. I grew up just outside the city where I lived a typical suburban life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 1415,
+      "timestamps": [
+        {
+          "offset": 1415,
+          "raw": "[00:01:39]",
+          "seconds": 99
+        }
+      ]
+    },
+    {
+      "end": 2693,
+      "excerpt": "My mother and father both worked. My mother was the consummate home cook. She cooked all the main meals. My dad cooked the specialty meals. He had traveled all around Europe and learned to make things like grapes and soufflés. And so I grew up in a house that really, you know, we lived to eat rather than eat to live. And it became just a staple of my time growing up. I then ended up going to school at Cornell University. It's a great technical school, but it's also an amazing school in food and agriculture. And so I got indoctrinated while completing my CS degree with all the things that the natural world can provide to us in food and agriculture. I eventually made my way out to Silicon Valley, lived 23 years in Silicon Valley. I moved to Los Angeles about three years ago for personal reasons, but venture capital, it's a distributed business. We have to meet founders and see technologies from all over the world. And so it doesn't really matter where I am, as long as I can get to the founders and get to the places I need to be to see them and, explore their innovations. That's what matters. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1586,
+      "timestamps": []
+    },
+    {
+      "end": 3519,
+      "excerpt": "[00:02:43] Gopi Rangan: I play a very similar role to your dad in my household. My wife is the one who puts food on the table on a daily basis. I'm the one that attempts creative cuisines and new types of dishes. As a result, my failures are forgiven, but my successes are remembered for a long time. When someone has a really nice butternut squash soup, they remember for a long time, and we talk about it as if I do it all the time. I don't. I really do it once a while, but I get a lot of credit for it. But failure is not forgiven for my wife because she feels really bad when something's burnt or screwed up. It's a very unfair world between the two of us, but I really enjoy food as well. Yeah, I can imagine how growing up in a household like that had food on your mind and now it's become your career for the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2695,
+      "timestamps": [
+        {
+          "offset": 2695,
+          "raw": "[00:02:43]",
+          "seconds": 163
+        }
+      ]
+    },
+    {
+      "end": 3599,
+      "excerpt": "Very exciting. What brought you to the world of startups and venture capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3521,
+      "timestamps": []
+    },
+    {
+      "end": 3853,
+      "excerpt": "[00:03:35] Brian Frank: So the funny story is that in college I had done some internships at illustrious places back in the day, like Intel and Microsoft. I had made my way back to college for my senior year, and another entrepreneur had sought me out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 3601,
+      "timestamps": [
+        {
+          "offset": 3601,
+          "raw": "[00:03:35]",
+          "seconds": 215
+        }
+      ]
+    },
+    {
+      "end": 4260,
+      "excerpt": "He had been started one business already right off the college campus and was starting his second business. He said, \"I've got a couple of computer scientists hold off building this new technology that we wanna release in the world, but we don't know where to take it. We need someone to help us put a product around it, help it go to market, help talk to partners that we need to kinda launch this with.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3855,
+      "timestamps": []
+    },
+    {
+      "end": 4698,
+      "excerpt": "So I came in and I started helping him with his startup. We ended up building a product and taking it to market and getting it out into customer's hands and became so successful he ended up taking the company and selling it to Microsoft. And so I got bit by the startup. Bug even while at college, like my last senior year, and if you remember what was happening, this was the late nineties, this was as the internet boom was happening.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4262,
+      "timestamps": []
+    },
+    {
+      "end": 4967,
+      "excerpt": "Literally, I'm at Cornell and the year before I was my senior year, the globe.com had gone public and was the highest, rising stock on the stock exchange at the time. We knew those guys. They were just down the hall from us and we're like, well, we could do that too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4700,
+      "timestamps": []
+    },
+    {
+      "end": 5288,
+      "excerpt": "And so we were the next internet entrepreneurs. That founder of that startup was a guy by the name of Bill Trenchard, who's now a general partner at First Round Capital. So Bill and I had started his second company, my first company, together in kind of this little kind of cabinet office space with a couple engineers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4969,
+      "timestamps": []
+    },
+    {
+      "end": 5693,
+      "excerpt": "And I really got bit by the startup bug by that. I was like, oh, two guys or girls in a dorm room could actually change the world. The other funny story is some of my other classmates were the founders of Wayfair, the furniture purchasing site. And so like we had this amazing community being built at Cornell in the late nineties of all these startup entrepreneurs and everybody was changing the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5290,
+      "timestamps": []
+    },
+    {
+      "end": 6013,
+      "excerpt": "I then left Cornell and did a number of both successful and unsuccessful startups in my 25 year career in entrepreneurship. But I never lost that passion of a couple people can just change the world if they have the right idea and the right technical capabilities. And so that's what kept me coming back to this space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5695,
+      "timestamps": []
+    },
+    {
+      "end": 6264,
+      "excerpt": "[00:05:40] Gopi Rangan: You had a very successful career as a builder and also as a founder. But then eventually you switched to the other side of the table as an investor. Why is that exciting for you? What about being a VC is interesting for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6015,
+      "timestamps": [
+        {
+          "offset": 6015,
+          "raw": "[00:05:40]",
+          "seconds": 340
+        }
+      ]
+    },
+    {
+      "end": 7770,
+      "excerpt": "[00:05:54] Brian Frank: As an entrepreneur and founder, you are myopically focused on one problem or one general area that you need to go fix, and you have this passion to go fix that. As I was getting on in my years of being a founder, I found I had multiple different like passions and interests, and I wanted to go explore them. And it's hard to do that as an entrepreneur because if you're taking venture capital money, they want you to be focused. They want you to deliver, they want you to hire a great team, they want you to do all these things. Down this one very narrow path. And I said, but that's not the extent of my capabilities. And so after having done seven startups myself, I decided it was time to get off that rat race and go, I have more capabilities that I can give to the next generation of founders. I can help them think through the problems that I've run in. I like to say to all my founders, I've stepped on every landmine, so you don't have to, and that's my job is to help you get around the things that I've seen and done in my career. And then I want to be able to be on the cutting edge of a lot of different areas that actually move the world, not just one area. And I feel like I can express all my passions by looking at a broad area, like the food system, which includes food and supply chain and agriculture and restaurants and consumer health. And so it gives me a lot of space to explore the world, but also make amazing impact and work with a ton of great founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 6266,
+      "timestamps": [
+        {
+          "offset": 6266,
+          "raw": "[00:05:54]",
+          "seconds": 354
+        }
+      ]
+    },
+    {
+      "end": 7982,
+      "excerpt": "And so that's really how my career has evolved into being singularly myopically focused to now being able to solve a lot of the world's problems, but to have great founders that do the work and I support them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7772,
+      "timestamps": []
+    },
+    {
+      "end": 8507,
+      "excerpt": "[00:07:27] Gopi Rangan: That's something I like about being a VC as well. You get exposed to so many interesting problems and founders paint a story of how the world would be if their assumptions came true. And it's so fascinating to listen to those stories, paint the picture of the future. And having the luxury of dabbling in multiple such ideas in parallel at the same time is very fulfilling. I really enjoy doing that as well. You touched on food already, but I want to ask you about FTW first. What's with the name? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7984,
+      "timestamps": [
+        {
+          "offset": 7984,
+          "raw": "[00:07:27]",
+          "seconds": 447
+        }
+      ]
+    },
+    {
+      "end": 9785,
+      "excerpt": "[00:07:59] Brian Frank: Well, it's a funny story. Originally when I started it was Food for Thought Worldwide. We were trying to change the way that we thought about the food system, but I had all of my younger founders coming to me and going for the win. That's awesome. I love that name. I had also gotten lucky enough to get a three letter domain name, ftw.vc, and I was like, well that's really easy to remember, easy to pass on. So it's all about marketing and branding. I have since come to realize that for the win actually does encompass what we're trying to do. And the way that I frame it is we are investing for profits people and planet. And there used to be a game show back in the seventies and eighties called Hollywood Squares. And what you would do is you'd line up in three people, either Xs or Os, and you would always say the last square for the win. And so in my old age, I remember that as for the win. But all the gamers and all the people that use it now is like, it's something great is happening. And I. I'm doing it and I'm getting a lot of benefit out of it. So we like to say, if we can do it for people, profit and planet, you're for the win. You make that kind of triple bottom line as a lot of people like to say. So it now stands for the win. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 8509,
+      "timestamps": [
+        {
+          "offset": 8509,
+          "raw": "[00:07:59]",
+          "seconds": 479
+        }
+      ]
+    },
+    {
+      "end": 10049,
+      "excerpt": "[00:09:04] Gopi Rangan: That's a very cool story indeed. That's a fascinating name. I remember talking to you when you came up with the name and the early days of creating the new firm. Now, what is exciting in the food world and why is this space relevant now? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9787,
+      "timestamps": [
+        {
+          "offset": 9787,
+          "raw": "[00:09:04]",
+          "seconds": 544
+        }
+      ]
+    },
+    {
+      "end": 10133,
+      "excerpt": "[00:09:18] Brian Frank: Let me start with the second part. Why is it relevant now?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 10051,
+      "timestamps": [
+        {
+          "offset": 10051,
+          "raw": "[00:09:18]",
+          "seconds": 558
+        }
+      ]
+    },
+    {
+      "end": 10492,
+      "excerpt": "We have some big existential crises in the world that are going on. Minor of those is the climate change situation. I like to say crops can't pick themselves up and move themselves to a new location when it's getting hotter or drier in the regions. We have to play an active part in figuring out how the agricultural system will work in all this disruption.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10135,
+      "timestamps": []
+    },
+    {
+      "end": 11021,
+      "excerpt": "You also obviously have a supply chain that is both at the same time, very constrained and very decentralized. It's very constrained in the fact that things like a COVID epidemic can cause massive supply chain problems because there's only so many companies and it's distribution centers and places that people are getting their food from today. If you look at a graph of where all, like in the majority of food products in your grocery store come from, it comes from a majority of 12 companies basically at the end of the day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10494,
+      "timestamps": []
+    },
+    {
+      "end": 11753,
+      "excerpt": "And so we're seeing this kind of centralized food system being a hindrance to the growth of the world. And when you have these disruptions to supply lines, they can really hurt national security and national safety. And I'll give you a good example, Singapore, a little peninsula country, imports close to 95% of their food from overseas. So when the COVID epidemic hits or a supply line gets cut, you put your whole country at risk. And so they create a program 30 by 30 where they would reduce the amount of exported products by 30% by 2030 because that gives them more security and safety. It's decentralized in that we get a lot of products from overseas, and as you see things like war, they directly affect our supply lines.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11023,
+      "timestamps": []
+    },
+    {
+      "end": 11965,
+      "excerpt": "So one of the largest suppliers of wheat in the world is the Ukraine. Now that there's a war in Ukraine, the ports are closed or blocked off, prices will start to rise and you start to see this happen all over.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11755,
+      "timestamps": []
+    },
+    {
+      "end": 12274,
+      "excerpt": "We also have a trade war, right? As taxes and tariffs are levied on the imports and exports of goods, then they change the economics for us as the home consumer, as well as the food manufacturers that then the need to raise their prices. There's all these things that can massively disrupt the supply chain.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11967,
+      "timestamps": []
+    },
+    {
+      "end": 12665,
+      "excerpt": "The final reason I think that there's a big opportunity here is what we eat directly affects our health. And if you look at the top 10 reasons for early mortality, seven out of those 10 are directly related to our diet and our lifestyle. And so if we change the way that we behave if we understood more about our diet, if we ate better things, we may be able to lower our healthcare costs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12276,
+      "timestamps": []
+    },
+    {
+      "end": 13002,
+      "excerpt": "And so you're looking at healthcare industry, a $24 trillion industry, is propped up on the idea of solving the symptoms, not the pains. Let's focus on the pains themselves and what's actually causing actual health outcomes. So those are just some of the major reasons that I find solving problems in the food system very fascinating. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12667,
+      "timestamps": []
+    },
+    {
+      "end": 13374,
+      "excerpt": "[00:12:00] Gopi Rangan: I understand the macro threads on this. It's very interesting. The supply chain part of it, food independence and reliance on the various different sources, distributed sources, and the quality of life depends on what we eat. What we eat turns into energy and everything that's in our body, and how do we improve quality of life by eating better.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13004,
+      "timestamps": [
+        {
+          "offset": 13004,
+          "raw": "[00:12:00]",
+          "seconds": 720
+        }
+      ]
+    },
+    {
+      "end": 13414,
+      "excerpt": "[00:12:21] Brian Frank: That's right. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 13376,
+      "timestamps": [
+        {
+          "offset": 13376,
+          "raw": "[00:12:21]",
+          "seconds": 741
+        }
+      ]
+    },
+    {
+      "end": 13620,
+      "excerpt": "[00:12:22] Gopi Rangan: I see the macro trends here. What are some themes that you're excited about for your investments? What kind of things do you focus on, especially in this space, in the food space? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13416,
+      "timestamps": [
+        {
+          "offset": 13416,
+          "raw": "[00:12:22]",
+          "seconds": 742
+        }
+      ]
+    },
+    {
+      "end": 13772,
+      "excerpt": "[00:12:33] Brian Frank: Yeah, so we focus heavily on a couple different categories of technologies. One being bio technologies and advanced chemistry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 13622,
+      "timestamps": [
+        {
+          "offset": 13622,
+          "raw": "[00:12:33]",
+          "seconds": 753
+        }
+      ]
+    },
+    {
+      "end": 14479,
+      "excerpt": "So how do we solve at the lowest level that you need to go grow a crop, which is a biological product in a soil which is biologics with inputs that are also biologics. Like how do you put all these things together to make the optimum outcome? And the reality is with climate change, the soil is being degraded and eroded, the crop itself is struggling to grow to its proper height, size, density of fruit or vegetable. How do we optimize all of that? And so we've been doing a lot of investing in crop genetics, both on the AI data science side, as well as the actual modification using genetic engineering tools of crops to improve their performance under the new conditions that they're gonna be facing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13774,
+      "timestamps": []
+    },
+    {
+      "end": 14820,
+      "excerpt": "If you've read anything about the breakthroughs in CRISPR technology, which have been a big boon to the human health side and the drugs and therapeutic side, it's now just started being brought into the food and agricultural sector, which the founders of CRISPR had theorized, could be a big market and opportunity for genetic engineering.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14481,
+      "timestamps": []
+    },
+    {
+      "end": 15016,
+      "excerpt": "And so we're heavily into things like designing better crops using artificial intelligence to identify traits that we need to amp up or amp down, and then actually making the edits to get there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14822,
+      "timestamps": []
+    },
+    {
+      "end": 15455,
+      "excerpt": "However, we also gotta recognize that there's only so much crop land and only so much natural fresh water that we have access to and it's getting harder to find those things and harder to maintain them. So we've also invested down the biomanufacturing side, which is using microorganisms, these little bugs called yeast or bacteria. You feed them generally sugar and they spit out a substance that you can tell them and train them to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15018,
+      "timestamps": []
+    },
+    {
+      "end": 15685,
+      "excerpt": "There's a lot of innovation happening in biomanufacturing. Again, primarily have been focused on drugs and therapeutic, now it's being brought down to the price, consistency and quality that the food industry can start doing it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15457,
+      "timestamps": []
+    },
+    {
+      "end": 16703,
+      "excerpt": "Let me give you a good example of that. One of our biomanufacturing companies, a company called Debut Biotech outta San Diego, has pioneered continuous cell-free manufacturing of high value compounds for the personal care in the food and ag world. And they just announced a stable red colorant that can be used both in cosmetics but also can be made food grade. And if you know where we get red colorants from, it's either chemical red dyes which are going to be outlawed in the United States thanks to the Maha movement, or they come from crushed up bugs, which is not really easy way to reproduce and get more of them. And so they've created a manufacturing pipeline and process that will be able to constantly churn out this compound at a reasonable price that all the players within the food, personal care and material space can take advantage of. We're seeing a lot of really big innovation in biomanufacturing as a way to get commodity goods into market in a more natural way. That's on the agricultural side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15687,
+      "timestamps": []
+    },
+    {
+      "end": 17139,
+      "excerpt": "We also see the pervasiveness of artificial intelligence technology changing every aspect of the food and agricultural world, we're all familiar with, ChatGPT, OpenAI, Claude, Perplexity, and how that's gonna change the internet search. But when you start applying these technologies to the physical world, you actually see the market for that is probably 10 times or a hundred times more powerful than just doing it in digital alone.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16705,
+      "timestamps": []
+    },
+    {
+      "end": 17937,
+      "excerpt": "So as you start thinking about how do I use data to inform a farmer to do better practices that'll replenish the soil, grow the crops larger, more abundant, using less resources. That's gonna be a huge transformation. And we're currently looking at artificial intelligence for things like ag financing and ag lending, where you're like, I need to plan or predict how this farmer is going to grow their crops over the long haul so I can give them a good rate, I can give them the lending that they need, the financial package they need? All of that is gonna be transformed by artificial intelligence in the future. It's a job that's easily handled by machines and humans can be the relationship builder, but they don't have to encompass all the data and write the reports on how to do these loans.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17141,
+      "timestamps": []
+    },
+    {
+      "end": 18106,
+      "excerpt": "So artificial intelligence as a foundation for everything in the physical world is going to be an amazing kind of unlock. So bio technologies, artificial intelligence.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17939,
+      "timestamps": []
+    },
+    {
+      "end": 18921,
+      "excerpt": "The other areas that we look up are traditional software and SaaS, B2B SaaS for the food and ag world. But what we're really excited about is the idea that you can use automation within these processes, right? And you can use tools and techniques to help optimize the flow of things like water or nutrients or goods that are going through a processing line. Good example of this, like I said, water is scarce. So shouldn't we have more discreet flow controls on all the irrigation systems in the world to basically control what gets water when based on sensors and data that we take outta the soil or from the crop that tell us that it needs it so that we can optimize the use of these things, so we're not wasting our precious resources. So software tied in with hardware components that create a dynamic system.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18108,
+      "timestamps": []
+    },
+    {
+      "end": 19593,
+      "excerpt": "We all want the world where there's a autonomous farm or an autonomous kind of supply line that you can just press a button and everything just happens without you having to do so much physical labor. The reason that's so important, labor is becoming more expensive and more scarce and hard to find. We're having trouble getting people into our fields, into our factories, places that there needs to be people today, but in the future, ideally they're going to be optimized so that people are doing the important critical thinking work, but they're not doing the rote, dangerous, oftentimes hazardous work of working in these environments that food and agriculture live.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18923,
+      "timestamps": []
+    },
+    {
+      "end": 19821,
+      "excerpt": "So those are just some of the areas. We invest in things like sustainable materials, which goes into the packaging that goes into our food products. And so we've made a number of investments in the sustainable packaging space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19595,
+      "timestamps": []
+    },
+    {
+      "end": 20255,
+      "excerpt": "Restaurants and retail are going to be optimized through technology, utilizing AI, using hardware and automation, utilizing software and SaaS packages. And finally, the last area is food as medicine or human health. So how do we understand how your body processes both macro and micronutrients, how do we deliver those in a convenient format and package such that your body processes them well and you live a happy and healthy life?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19823,
+      "timestamps": []
+    },
+    {
+      "end": 20708,
+      "excerpt": "And how do we reverse things like ischemic heart disease and diabetes? And one of the things that I've gotten really passionate about lately is the gut brain access. The idea that what we feed ourselves can actually stave off dementia and Alzheimer's because there's this relationship between what we eat and how our brain kind of functions and grows and processes things. And so we see all of these things as being unlocked to a massive opportunity. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20257,
+      "timestamps": []
+    },
+    {
+      "end": 21105,
+      "excerpt": "[00:19:18] Gopi Rangan: Those are some broad topics all the way from biotechnology to agriculture, to artificial intelligence to food as medicine. This is very different from most other VCs who primarily invest in software, including me. You actually touch the real world from end to end from how food is getting produced to how it's getting consumed and how it has an impact on people's lives. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20710,
+      "timestamps": [
+        {
+          "offset": 20710,
+          "raw": "[00:19:18]",
+          "seconds": 1158
+        }
+      ]
+    },
+    {
+      "end": 21312,
+      "excerpt": "[00:19:40] Brian Frank: We call it problem based investing rather than technology based investing. If you focus on the problems and you can bring any and all technology to bear, it's probably a good thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 21107,
+      "timestamps": [
+        {
+          "offset": 21107,
+          "raw": "[00:19:40]",
+          "seconds": 1180
+        }
+      ]
+    },
+    {
+      "end": 21382,
+      "excerpt": "And so we, call ourselves technology agnostic, but problem focused. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21314,
+      "timestamps": []
+    },
+    {
+      "end": 21862,
+      "excerpt": "[00:19:56] Gopi Rangan: Yeah. There are two philosophies here. One is if you build, they will come. Just build something, which is what we've seen over many decades in Silicon Valley, that you just create something, you're not targeting a specific problem to solve. You build because there's pleasure in building, and there's a lot of innovation that comes out of it. And then you figure out later how to use it or how to monetize it and how to build a business model around it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21384,
+      "timestamps": [
+        {
+          "offset": 21384,
+          "raw": "[00:19:56]",
+          "seconds": 1196
+        }
+      ]
+    },
+    {
+      "end": 22226,
+      "excerpt": "The other philosophy is, start with the problem. Show me a problem, show me a large market and let's fall in love with the problem. Let's go find a solution that works for them. And I see that you are in the latter camp where you want tangible, defined problems and you get excited about it, and you go solve the problem by investing in companies in that space. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21864,
+      "timestamps": []
+    },
+    {
+      "end": 22332,
+      "excerpt": "[00:20:38] Brian Frank: It's the difference in my mind between missionary and mercenary founders, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 22228,
+      "timestamps": [
+        {
+          "offset": 22228,
+          "raw": "[00:20:38]",
+          "seconds": 1238
+        }
+      ]
+    },
+    {
+      "end": 22642,
+      "excerpt": "Missionary founders have a problem in mind. They don't have a prescribed way that they're gonna solve it. Mercenary founders are using innate knowledge, a tool to solve something, but they like the tool. They like the process of building that thing. They don't think of the broader context in which it lives.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22334,
+      "timestamps": []
+    },
+    {
+      "end": 22934,
+      "excerpt": "And yes, I think you can make great businesses both ways. I think the longevity of businesses that are mission driven is much higher and likelihood of big outcomes than being a mercenary all the time. That said, one of the reasons that we do this is the way that we've constructed the fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22644,
+      "timestamps": []
+    },
+    {
+      "end": 23276,
+      "excerpt": "Our LPs, a lot of them are very strategic and they have problems, and so it's easy for me to talk to one of our LPs, and I'll give you a good example. One of our LPs is Kraft Heinz, one of the largest food companies in the world. They go, we have these problems in our supply line, in making our product and putting our packaging out there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22936,
+      "timestamps": []
+    },
+    {
+      "end": 23619,
+      "excerpt": "And then I can go and hard target companies that are solving those very specific problems because I know A, there's gonna be money there from a company like Kraft Heinz, and B, we're not architecting down a path that needs. That doesn't have customers right away. I know I have some innate interest and demand within the people that we know.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23278,
+      "timestamps": []
+    },
+    {
+      "end": 24068,
+      "excerpt": "And so it's very important for me for the founders to be focused on real world problems with potential big outcomes, with partners that actually matter and can move the industry. And that's what we try and build. We like to say we're not just capital. We're capital plus our time to help you figure it out, plus the network that we're gonna bring to bear. And so that kind of keeps us ahead of the game, for most other kind of just technology VCs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23621,
+      "timestamps": []
+    },
+    {
+      "end": 24382,
+      "excerpt": "[00:22:20] Gopi Rangan: Some of the people in your network are already investors in the fund and they are searching for solutions through your help. What is your advice to founders who are building in this space? It's hard enough to build a startup, and this space is different from the regular software company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24070,
+      "timestamps": [
+        {
+          "offset": 24070,
+          "raw": "[00:22:20]",
+          "seconds": 1340
+        }
+      ]
+    },
+    {
+      "end": 24683,
+      "excerpt": "I'm sure there is a part of it where you focus on AI and software that is similar to the rest of the world of startups. When founders try to solve problems in this space maybe you pick an example and if you could give advice to founders, what are some two or three things that they need to remember?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24384,
+      "timestamps": []
+    },
+    {
+      "end": 24825,
+      "excerpt": "[00:22:50] Brian Frank: Yeah, I'll boil it down to a couple, two or three that I think are most essential when you're looking at this space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 24685,
+      "timestamps": [
+        {
+          "offset": 24685,
+          "raw": "[00:22:50]",
+          "seconds": 1370
+        }
+      ]
+    },
+    {
+      "end": 25688,
+      "excerpt": "If you're coming in from outside the food and agricultural system, I find that to be very difficult as a founder because you don't know what you don't know about this space. There's a lot of complexity to working within supply chain distributors and with farmers or whoever your customer or partners are going to be. The networks are very old school. And so that's the first thing you gotta recognize is this isn't your modern environment. You're not selling a product to someone that knows that they need innovation or technology. They've been doing something for a hundred years and you're asking them to change their practices or processes to integrate a technology or use a new tool. And I think a lot of founders from the outside don't recognize how difficult that is to get over the mindset. The inertia that exists traditionally in the food and ag world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24827,
+      "timestamps": []
+    },
+    {
+      "end": 26441,
+      "excerpt": "My first question to anybody that comes in from outside of Food and ag world was, why would you do this? Like, why would you come to the food and ag world? It's one of the harder markets to come to if you've never been in it or experienced it. You have to have a passion or interest or a drive that's gonna keep you beyond the first year or two of trying to figure out how this system works. The second thing I like to tell founders is the speed at which these companies or the system changes is incredibly slow compared to other industries. If you're in an enterprise or industrial sale, you have to be in for fairly long sales cycles when you first get started. Most people like in the AI space are like, I can close customers in like a week or two.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25690,
+      "timestamps": []
+    },
+    {
+      "end": 26991,
+      "excerpt": "I'm like, if you can close customers in a month or two, I'll be like ecstatic. It's gonna be six or nine months for some of these accounts. It may be a couple years before you see some of these accounts materialize. The first customers are really hard. They take a long time. You have to have fortitude. As a lot of VCs like to say, you have to be a cockroach. You can't go away, right? You can't die at the first second of disaster or pain. You have to always be around and keep coming back to these people and you need to keep showing them value.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26443,
+      "timestamps": []
+    },
+    {
+      "end": 27939,
+      "excerpt": "The other thing I like to say is there is a world of possibilities out there that are governed by a number of different factors that you need to understand. In some cases in the US there are regulatory requirements about what we put in our body, and so you better understand if you're building an ingredient today, it's really hard to get approval to put that ingredient into someone's hands to go eat it. We have a thing called the FDA, which has what's called generally regarded as safe rules about ingredients and you have to file a whole bunch of paperwork and get what's called a no comment back from them to even get started selling your product and putting it into market. This is where a lot of the founders that have done what are called cultivated meat or lab grown meat spend four, five years building their process, defining it just so they can get to that one point where the FDA says, \"Nope, we have no comments. You can sell that.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26993,
+      "timestamps": []
+    },
+    {
+      "end": 28414,
+      "excerpt": "I have been watching that market since 2015 develop, and we're just now starting to see the first products like enter the human mouth. So 10 years I've been watching it and we're finally starting to see these things show up on menus internationally and now more so in the US and so you have to recognize that there are these gates and points within the food world that are critical for you to succeed and get market share and dominance and customers or enterprise accounts.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27941,
+      "timestamps": []
+    },
+    {
+      "end": 28661,
+      "excerpt": "The reality is you have so many people in this industry aligned to keep it the way it is. You really have to be a force for change and a force for good, and you have to align everybody within the ecosystem to think that the same way that you do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28416,
+      "timestamps": []
+    },
+    {
+      "end": 29103,
+      "excerpt": "And that's a really hard prospect, right? I can't just launch a website, a spin service website, a neobank, and then just go get clients, right? They do have regulatory things. But it's not like going through some of these archaic regulatory processes that we have today. My big hope is that any founder that's coming to space recognizes it's hard, it's slow, but in the counter to all that, it's worth it, and there's big money to be made.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28663,
+      "timestamps": []
+    },
+    {
+      "end": 29703,
+      "excerpt": "Lemme give you a good example of that. One of our LPs is a co-founder of the Toast POS system. This company went public for $20 billion because all they said was, Hey, current POS system companies at restaurants, all of it lives locally. We wanna move it into the cloud so people can build tools and services on top of it so it can be backed up at the end of the night. You can do a whole lot of analytics. They built that company and in a very short period of time, had tens of thousands, if not hundreds of thousands of customers nationwide, we're able to take this company public at $20 billion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29105,
+      "timestamps": []
+    },
+    {
+      "end": 30147,
+      "excerpt": "And they're maintaining and increasing their market app, even in this tumultuous environment and financial space that we're in. Because it's such a necessary tool in every single restaurant. And so I tell all the founders, I'm like, if you hit it, you're gonna hit it big because everybody in the world that can use technology around food will want it, whether it's grocery stores, food manufacturers, farmers, but you just gotta keep at it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29705,
+      "timestamps": []
+    },
+    {
+      "end": 30432,
+      "excerpt": "[00:27:49] Gopi Rangan: It's a conservative industry. Things don't change overnight. It takes time. So founders need to have patience and they need to have respect for regulations, but at the same time, they have to bring an innovative solution that changes the way status quo works.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30149,
+      "timestamps": [
+        {
+          "offset": 30149,
+          "raw": "[00:27:49]",
+          "seconds": 1669
+        }
+      ]
+    },
+    {
+      "end": 30516,
+      "excerpt": "It's a tricky problem indeed and it's worth it in the end when you make a change. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30434,
+      "timestamps": []
+    },
+    {
+      "end": 30855,
+      "excerpt": "[00:28:07] Brian Frank: And by the way, like different markets operate differently. So like when we talk to founders that are operating in like, seafood, we say, look, the US is one of the smallest markets for seafood consumption. You should look at places like Asia where more of their diet is seafood based and specifically fish based.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 30518,
+      "timestamps": [
+        {
+          "offset": 30518,
+          "raw": "[00:28:07]",
+          "seconds": 1687
+        }
+      ]
+    },
+    {
+      "end": 31205,
+      "excerpt": "And so we don't eat a lot of fresh fish at home, right? Most fresh fish is consumed at restaurants in America. That's gonna be a challenge if you're trying to do some aquaculture. So look at these markets and look at these opportunities. But when you look at those markets and opportunities the fresh fish market is hundreds of billions of dollars.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30857,
+      "timestamps": []
+    },
+    {
+      "end": 32013,
+      "excerpt": "I mean, these are not small markets, and this is the thing that kills me is traditional VCs love operating on what they consider to be big markets. And big markets to them are, tens of billions of dollars worth of market value could be created if done perfectly. Our markets are hundreds of billions of dollars, if not trillions of dollars when you talk about some of the things like commodity goods, like coffee, like soybean and corn. Like if you could move these massive industries, you're talking about hundreds of billions of dollars of money that you could move, not small businesses. And so, like you say, if you stick at it, if you are persistent and you have truly innovative technology that you can get in the hands of your customers, you can hit it really big in the food and agriculture system.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31207,
+      "timestamps": []
+    },
+    {
+      "end": 32752,
+      "excerpt": "The other thing that I think is big for entrepreneurs to realize is most businesses like a Facebook, other than a hosting solution, you can go it alone. You can write a website. You can put it online. You don't need a lot of support from anybody else. You just need to get out there and go grab customers. The food world doesn't work like that, right? The food world, if I'm gonna go build the next, let's say plant-based meat product, which a lot of people tried. You need people to buy in and you need people to accept your technology. You need grocers to buy in. You may need contract manufacturers to be able to manufacture your product. You may need factories to build your product if contract manufacturers can't make your product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32015,
+      "timestamps": []
+    },
+    {
+      "end": 33390,
+      "excerpt": "There's all of these people that need to be involved if you're in the food system that you don't have to do if you're just doing a traditional digital business. And that's why the network and support is so essential from VCs, from strategic partners, from elements that will help you be successful in this industry. And so again I don't downplay that. To my founders I go, \"You are one piece in a very big picture. And how does your piece transform the industry by working together, not working against the industry?\" And we've seen this time and time again, people have come in and said, well, I'm gonna completely change the industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32754,
+      "timestamps": []
+    },
+    {
+      "end": 33600,
+      "excerpt": "The industry is gonna do it my way. And like you said, there's inertia, there's hundreds of years experience. Why fight that? Why not use that and to redirect it into a more, sustainable and innovative path. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33392,
+      "timestamps": []
+    },
+    {
+      "end": 33755,
+      "excerpt": "[00:30:43] Gopi Rangan: Who has done this well? Can you give an example of a founder that exhibited these qualities in the first meeting, second meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33602,
+      "timestamps": [
+        {
+          "offset": 33602,
+          "raw": "[00:30:43]",
+          "seconds": 1843
+        }
+      ]
+    },
+    {
+      "end": 34049,
+      "excerpt": "You've already given me an example of debutbiotech.com and how Joshua Britton he's a rare combination of expertise in the scientific space, and he also has a lot of experience in the business world. That's right. Can you give an example of how you assess these qualities in the first meeting?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33757,
+      "timestamps": []
+    },
+    {
+      "end": 34122,
+      "excerpt": "What questions do you ask to know that yes, this founder will make it? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34051,
+      "timestamps": []
+    },
+    {
+      "end": 34482,
+      "excerpt": "[00:31:13] Brian Frank: I'll give you a great story. Another one of my VC friends had introduced me to a founder who was an immigrant moving from the Netherlands to the States, and he used to be a commodity trader, so he used to be a finance guy, trading big commodities and understanding how to make a market for them and set the price and things like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 34124,
+      "timestamps": [
+        {
+          "offset": 34124,
+          "raw": "[00:31:13]",
+          "seconds": 1873
+        }
+      ]
+    },
+    {
+      "end": 35447,
+      "excerpt": "What he recognized was there was gonna be a big gap in protein production between the amount of soy that we produce and consume and the amount of traditional meats and other proteins and eggs. He said if the population keeps growing the way it's growing, we're gonna need more protein. And some people can't eat soy because of the allergens or it's not culturally appropriate, and then there's people that are trying to. Augment their protein beyond just traditional meats. He's not saying replace, right? Like there are people that are like, I need more protein in my diet 'cause it's healthy. It helps me feel full more. And so I can live a happier and healthy life. And so I found a plant called lemna or duckweed that has more protein per volume than any other plant on the planet. And he said, if I could extract that protein and I can deliver that in a way that food manufacturers can use it as a replacement for soy, I should have a big market opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34484,
+      "timestamps": []
+    },
+    {
+      "end": 36605,
+      "excerpt": "This guy's name was Tony Martens. And so Tony and his friend Marits moved from the Netherlands, bought a scuttled algae farm in suburban San Diego, almost rural San Diego, and started cultivating this product. And they came to me in 2018 and I'll never forget this meeting, and I said, \" I understand what you're trying to do. I don't understand why anybody would buy this, right? We have all this abundance of soy, the abundance of traditional meats, mushrooms and cultivated meat, like all these options. Why would this one product be essential?\" He gave me a story. He said, \"look, you need to go talk to some food manufacturers and find out their interest in this space.\" I went around and I talked to all my friends in the industry. One of the influential meetings was with the chief strategy Officer at Impossible Foods, and this was before Impossible Foods was even out on the market. He said, \"our founder, Pat Brown, has said publicly, that the Impossible Burger would've been based off of the protein that comes outta this plant lemna, if he had it in abundance, but no one had been harvesting it in abundance. It has all these great properties.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35449,
+      "timestamps": []
+    },
+    {
+      "end": 37153,
+      "excerpt": "And so the thing that stood out, and why I tell the story is Tony was telling me a story that was easy to verify with people I trusted in the market that were building very big businesses in food. And so as a founder, you need to tell a really compelling story, but it needs to be able to be validated, verified, right? It can't just be you if you are the only one saying it. Hey, are you crazy or are you just way ahead of your time, right? You don't know. And so the second that I can get that validity, it's a great like proving point for him.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36607,
+      "timestamps": []
+    },
+    {
+      "end": 37768,
+      "excerpt": "The second thing that made me want to invest in Tony was they just did it. They didn't ask permission. They didn't wait until someone gave them money. There's too many founders out there waiting to you, hand me a $2 million check. I'll go do this. Tony was like, I don't need your money. Like I could go do this. I'm gonna go do this. You want to come along for the ride. And it's not a FOMO inducing thing, it's more like, no, I've got a mission. I'm going down this path. If it's not you, it's gonna be someone else. And either you get on the train or you don't. You'll still be my friend at the end of the day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37155,
+      "timestamps": []
+    },
+    {
+      "end": 38213,
+      "excerpt": "So I had passed on him at that first round and then he came back around to me and I'm like, look, I'm ready now. Like I've done all my validation, I've talked to experts, I see what you're doing. I understand the technology now. I had actually gone down to the farm to visit him. So you know, for any founder, it's tell a story that could be easily validated with even just the cursory kind of outreach to some of the best people in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37770,
+      "timestamps": []
+    },
+    {
+      "end": 38978,
+      "excerpt": "Two, just do it. Like, at the end of the day, if you really have a passion for it, don't wait for someone to hand you a check. Get in there, start messing it up, start making change, and then the right people will find you as a result of that. And then the third thing I'll say about what Tony did that showed me that he really was the kind of guy to back, which is when I would bring new investors or new food people into the mix, people immediately love this guy and wanted to work with him. The best founders bring the best people around them, and they continually just get people into their gravitational pull. Elon Musk is a great example of this. Crazy smart guy, and crazy smart people wanna work for him because he's just really good at pulling people in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38215,
+      "timestamps": []
+    },
+    {
+      "end": 39204,
+      "excerpt": "And so Tony had that same kind of aura, which is if I give him money, not only is he gonna do this and do it well, he's gonna withstand the test of time 'cause it's his mission and he's gonna be able to pull in great people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38980,
+      "timestamps": []
+    },
+    {
+      "end": 39635,
+      "excerpt": "Now the postscript to all this is they just raised their series B end of last year, I believe it was like a $30 million series B. We were in the pre-seed round. It's you know, one of our highest markups in our portfolio right now. They are just turning the switch on to ship their product to over tens of millions of dollars of pre-orders of people that want this product with some of the biggest food manufacturers in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39206,
+      "timestamps": []
+    },
+    {
+      "end": 39803,
+      "excerpt": "And again, having put money into him five, six years ago, I dreamt of this day and it's now happening and it's because he told me a story that turned out to be true. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39637,
+      "timestamps": []
+    },
+    {
+      "end": 40009,
+      "excerpt": "[00:36:29] Gopi Rangan: What an amazing story! This founder showed commitment, perseverance, and he followed through on the things that he said he would do and came back to you and you joined the journey.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 39805,
+      "timestamps": [
+        {
+          "offset": 39805,
+          "raw": "[00:36:29]",
+          "seconds": 2189
+        }
+      ]
+    },
+    {
+      "end": 40398,
+      "excerpt": "We could talk a lot more about many more examples like this, but I wanna get to the point of how you would change the way venture capital works so we can support more founders like this. Most of venture capital is still focused on software and you are building something different. You are a new VC firm. What would you like to change in the venture capital ecosystem to make it better? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40011,
+      "timestamps": []
+    },
+    {
+      "end": 40893,
+      "excerpt": "[00:37:05] Brian Frank: Yeah. I think the one thing that irks me in a lot of the emerging managers is this winner take all attitude that some of the bigger VC funds have, which is I have to be the biggest check in the room. I have to take all the space air outta the room. Like it has to be all about me. I. When by partnering with a lot of different firms, you can actually shore up a lot of the holes that a business may have in terms of its network, its capabilities, its access to capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 40400,
+      "timestamps": [
+        {
+          "offset": 40400,
+          "raw": "[00:37:05]",
+          "seconds": 2225
+        }
+      ]
+    },
+    {
+      "end": 41291,
+      "excerpt": "Don't get me wrong, I have worked with some very big firms up and down Sandhill Road. I think that they're all great people, but by limiting yourself as a founder with only one big guy on the cap table and minimizing everybody else, while that may make great returns for those big firms, it doesn't give you the best shot at succeeding 'cause you don't have all the great people around the table.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40895,
+      "timestamps": []
+    },
+    {
+      "end": 41852,
+      "excerpt": "The other side of that is the party rounds where no one has enough ownership and no one's willing to stick their neck out for a company if the times are hard. Look, all of us that were entrepreneurs before we were VCs know there's no straight line to success in a startup world, right? You're gonna hit hard times, and if you can't have people show up when you know the customer account is going down and the revenues aren't looking good, and you can't figure out how to get outta that with the right help and right advice, that's the depth nail of a company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41293,
+      "timestamps": []
+    },
+    {
+      "end": 42248,
+      "excerpt": "And so I think we have to stop doing these massive party rounds where no one's incentivized to wanna help out with company. I think we have to have the big VCs leave room for the smaller guys to help out and be a, an owner in the business just as much as they are, but not with the same size check obviously not with the full same size ownership, but leave space. Don't take air outta the room.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41854,
+      "timestamps": []
+    },
+    {
+      "end": 42783,
+      "excerpt": "The third thing is what we had happened in 2021 ideally never happens again. And what I mean by that is, I call it flag rock capital, so apologies for the food pun, but people stuff, these businesses full of capital that they didn't need, couldn't use, didn't have a plan for, because they're like, the company with the biggest treasure chest will win in this space. And it broke all the rules around financing a business to get to milestones because you gave them almost unlimited capital, but they were gonna find ways to spend it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42250,
+      "timestamps": []
+    },
+    {
+      "end": 42959,
+      "excerpt": "I'll never forget one of my mentors a guy by the name of Sat Patel at Home Brew said to me, he's like, whatever you give a startup they will find a way to spend in 18 months.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42785,
+      "timestamps": []
+    },
+    {
+      "end": 44161,
+      "excerpt": "So if you give 'em $15 million, they'll find a way to spend $15 million. If you give 'em 5 million, they'll spend it, but they'll find more conservative ways to spend it and they will be more diligent about use of that capital. Why give these companies $100 million, $200 million when they don't have product market fit, right? Maybe you see something that's not there. But now we're in the downside of that, which is there's too many companies, still high of expectations, aren't delivering to any meaningful milestones, and now they're being recapped or going out of business. And so I think those are all the symptoms of a VC world that has extended beyond its capabilities and now we need to come back to the reality is you're building businesses that'll hopefully be a hundred year businesses. You are finding ways to exit your capital along that path in the 10, maybe 12, maybe 15 year kind of time horizon for those companies. How do we get them to meaningful volume that's actually defendable either in a private market or in a public market right at the end of the day? Versus being so overblown that there's just no way they could ever achieve the exit velocity to get the right money back.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42961,
+      "timestamps": []
+    },
+    {
+      "end": 45008,
+      "excerpt": "The last thing I'll say about how we rethink the VC world is it's all about partnerships. And so the good thing about me and our fund, we can partner with any technology driven vc. We can partner with any food driven VC because we add value on the other side of what they do. If you're a tech VC and you wanna be in the food world, we're a great additive, in that round to help you understand and round out the capabilities of the people on the cap table. If you're a food guy, we're also tech capable, so we can help you understand how the technology's gonna develop. I hope that in the future the VC world looks at, it's all about the partnerships I can build within my cap table, not just about the pure singular returns for my own fund, because it gives the likelihood of success for that startup. It just increases it at the end of the day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44163,
+      "timestamps": []
+    },
+    {
+      "end": 45275,
+      "excerpt": "[00:41:13] Gopi Rangan: Very valuable perspectives based on, real life experience for you. We're coming towards the end of our conversation, and I have a question on your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 45010,
+      "timestamps": [
+        {
+          "offset": 45010,
+          "raw": "[00:41:13]",
+          "seconds": 2473
+        }
+      ]
+    },
+    {
+      "end": 45380,
+      "excerpt": "[00:41:27] Brian Frank: The one that I'm most passionate about is a group called World Central Kitchen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 45277,
+      "timestamps": [
+        {
+          "offset": 45277,
+          "raw": "[00:41:27]",
+          "seconds": 2487
+        }
+      ]
+    },
+    {
+      "end": 45773,
+      "excerpt": "I'm happy to say that World Central Kitchen now has fed over 500 million people (served 500 million meals) in some of the most disaster torn areas, including Gaza, the Ukraine, Haiti, Puerto Rico, here in Southern California when we had the fires, and it's now grown to be one of the most influential humanitarian organizations in the world that's uplifting people through the power of food.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 45382,
+      "timestamps": []
+    },
+    {
+      "end": 45974,
+      "excerpt": "[00:41:53] Gopi Rangan: Brian, it's fascinating to talk to you about food, how you've channeled your entire professional career in this space and the exciting trends that are happening in this space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 45775,
+      "timestamps": [
+        {
+          "offset": 45775,
+          "raw": "[00:41:53]",
+          "seconds": 2513
+        }
+      ]
+    },
+    {
+      "end": 46109,
+      "excerpt": "Thank you very much for sharing examples from your own experiences. I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 45976,
+      "timestamps": []
+    },
+    {
+      "end": 46171,
+      "excerpt": "[00:42:10] Brian Frank: Thank you, Gopi. It was my pleasure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Brian Frank",
+      "start": 46111,
+      "timestamps": [
+        {
+          "offset": 46111,
+          "raw": "[00:42:10]",
+          "seconds": 2530
+        }
+      ]
+    },
+    {
+      "end": 46525,
+      "excerpt": "[00:42:14] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 46173,
+      "timestamps": [
+        {
+          "offset": 46173,
+          "raw": "[00:42:14]",
+          "seconds": 2534
+        }
+      ]
+    }
+  ],
+  "source_sha256": "14a3540de92f3045ccfe9e6f8b45dcca1ce0e4b5069490011c1118bb0f502188",
+  "text_sha256": "1875ff8233c371dd371ead55311d9d5a03d2a951981a81808897eeabc46a08bd"
+}

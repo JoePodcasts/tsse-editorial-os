@@ -1,0 +1,1025 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 291,
+      "excerpt": "Sunil Nagaraj:  Earlier I mentioned about 10 years in venture capital. So that's about 10,000 pitches I've heard and I've detected a few common themes that persist to this bay. The first one is that you should just say what you do in really simple words in the first 30-seconds of the pitch.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 664,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur podcast for founders with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the shore shot, entrepreneur today's guest. So Neil Nagaraj is the founder and managing partner at ubiquity ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 293,
+      "timestamps": []
+    },
+    {
+      "end": 964,
+      "excerpt": "A seed-stage venture capital firm with a focus on software beyond the screen. Let's find out what that means and how software. Transformed many real-world physical problems and made it possible for us to go into the future with new Greenfield markets. So now welcome to the short shot entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 666,
+      "timestamps": []
+    },
+    {
+      "end": 1011,
+      "excerpt": "Sunil Nagaraj:  Gopi thank you for having me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 966,
+      "timestamps": []
+    },
+    {
+      "end": 1125,
+      "excerpt": "Gopi Rangan: Tell me about yourself, starting with your childhood and what kind of nerdy things you geek out on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1013,
+      "timestamps": []
+    },
+    {
+      "end": 1381,
+      "excerpt": "Sunil Nagaraj: That's a great question. I like to think of ubiquity as a nerdy and early venture capital firm. And I mean that to be clear, I think of someone nerdy as somebody who's just so deeply obsessed with something that they know everything about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 1127,
+      "timestamps": []
+    },
+    {
+      "end": 1707,
+      "excerpt": "And they have to share it with the world. So with regard to my childhood, I grew up in Raleigh, North Carolina, childish two immigrants, my older brother, younger sister. What that meant was we were always tinkering with things, playing with things, exploring things. There was a lot of technology floating around the house.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1383,
+      "timestamps": []
+    },
+    {
+      "end": 2019,
+      "excerpt": "In the mid-eighties, they were always poking around on the computers, fiddling around with basic and terrible Pascal and other programming languages. And my older brother was always farther advanced, but always great. Teaching me and some of my father. So from a young age, I don't know, five, seven years old.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1709,
+      "timestamps": []
+    },
+    {
+      "end": 2323,
+      "excerpt": "We were fiddling with computers and programming, and that's played a huge role in how I look at the world. Now, as you briefly touched on this idea that software can now run everywhere in the real world, can understand the real-world navigate the real world is an idea that's been cooking for 30 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2021,
+      "timestamps": []
+    },
+    {
+      "end": 2646,
+      "excerpt": "Now that that software has been taking on bigger and bigger problems. My brother and I had a lawnmowing business. So a long time ago we made a lawnmower. Software management platform. So we can manage our business with our customers. When I was preparing for the sat, I made a flashcard program to study vocabulary words.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2325,
+      "timestamps": []
+    },
+    {
+      "end": 2767,
+      "excerpt": "So I've always tried to solve problems with software, wherever I could. And often that was software I wrote for myself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2648,
+      "timestamps": []
+    },
+    {
+      "end": 2891,
+      "excerpt": "Gopi Rangan: Interesting. How did that translate to venture capital? What got you excited about the venture capital world?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2769,
+      "timestamps": []
+    },
+    {
+      "end": 3014,
+      "excerpt": "Sunil Nagaraj:  I first heard that venture capital existed. In 2004,  probably I had just started my first full-time job.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 2893,
+      "timestamps": []
+    },
+    {
+      "end": 3385,
+      "excerpt": "I graduated from the University of North Carolina at chapel hill with a degree in computer science in 2004. And I moved to Atlanta in Georgia to work at Bain and company. This is a management consulting firm, and actually, it didn't have very much to do with technology. It just had to do with beefing up business skills and nights and weekends because I missed coding.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3016,
+      "timestamps": []
+    },
+    {
+      "end": 3801,
+      "excerpt": "When I came home from my business job at Bain. I turn on the computer and start coding. I did a bunch of different independent projects to try to stay sharp, to try to keep my coding skills sharp. It was along the way there that I was reading tech crunch and just started to learn the venture capital was a job that there are people who get to throw darts at the board and decide or guess where the world is going.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3387,
+      "timestamps": []
+    },
+    {
+      "end": 4152,
+      "excerpt": "And if it works, they get to be part of a great success story and make a lot of money along the way. That's just sounded like a dream job. It would be. What is it? Seven years later that I would get into venture capital. I dabbled with trying to get into venture capital earlier along the way, but it wasn't until 2011 when I joined venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3803,
+      "timestamps": []
+    },
+    {
+      "end": 4536,
+      "excerpt": "And even when I joined venture capital in the interim, it was three years at Bain, two years at Harvard getting my MBA. And then two years as a founder that brings you to 2011. And that's when I got into venture capital. And it was at that period. I think having that curiosity for nerdy new technology paired with a strong business foundation was I think what allowed me to get in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4154,
+      "timestamps": []
+    },
+    {
+      "end": 4585,
+      "excerpt": "So it has echoed my childhood technical period.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4538,
+      "timestamps": []
+    },
+    {
+      "end": 4842,
+      "excerpt": "Gopi Rangan: So you were born as a geek and you played with software pretty much throughout your childhood. When you moved into the business world, you kept that part and you were building things on the side, and eventually, you decided to start ubiquity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4587,
+      "timestamps": []
+    },
+    {
+      "end": 4946,
+      "excerpt": "What's the Genesis of that. Why did you decide to start your ubiquity and what was the origin of this?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4844,
+      "timestamps": []
+    },
+    {
+      "end": 5166,
+      "excerpt": "Sunil Nagaraj: That's a great question. I'll start by tying it to my childhood. I just remembered one other element. There was a TV show. Some of your listeners, they may remember called beyond tomorrow or beyond 2000.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 4948,
+      "timestamps": []
+    },
+    {
+      "end": 5503,
+      "excerpt": "It was on the discovery channel, I think. And it was the show that just featured new technologies. I remember watching it when I was 10 years old, five years old, 15 years veteran for a long time. And it was always featuring the new technologies that are going to be changing our world. And I always found that so fascinating as a kid.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5168,
+      "timestamps": []
+    },
+    {
+      "end": 5819,
+      "excerpt": "And now with day-to-day as a venture capitalist, you may agree as well, but a lot of the day is spent. Cool new technologies from passionate people about Genesis, the actual Genesis of ubiquity. So I joined venture capital in 2011, just over 10 years. Last month was my 10th anniversary of joining venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5505,
+      "timestamps": []
+    },
+    {
+      "end": 6135,
+      "excerpt": "I joined Bessemer venture partners and I was at Bessemer for six years. During that time at Bessemer, I learned two things. One is how to do venture capital. And number two is what I learned. You start to identify nascent trends and catch them at the right time. One of the trends I saw is what led to your equity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5821,
+      "timestamps": []
+    },
+    {
+      "end": 6519,
+      "excerpt": "During those six years of Bessemer as is 2011 to 2017, I was working with a few partners at Bessemer, primarily David Cohen. And we did a little bit more of the deep tech investing, a little bit more of the non-traditional investing lists included. A metal 3d printer, Velo 3d. It included a rocket that goes to space called rocket lab and included a satellite company called Spire.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6137,
+      "timestamps": []
+    },
+    {
+      "end": 6845,
+      "excerpt": "It also included more traditional companies that have done really well. So off zero was a developer tool for security that I seeded and led the series they just sold this month, actually for six and a half-billion dollars. So there was a good balance of a handed Twitch, their first term sheet, the series, and at the first.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6521,
+      "timestamps": []
+    },
+    {
+      "end": 7161,
+      "excerpt": "After they pivoted from Justin TV, there was a pivot of balance of mainstream investments, as well as Intrepid investments. Out of some of those Intrepid investments. I started to see a recurring theme, which is that areas that felt very different from mainstream software were starting to behave in software life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6847,
+      "timestamps": []
+    },
+    {
+      "end": 7488,
+      "excerpt": "When you go to a 3d printing company, a metal 3d company, below, 3d, they have a laser that melts powder to put it really simply. Now, the way that they work through, is they're not so focused on the mechanical parts of the metal 3d printer. Almost all of their work is in C plus. They talk about two weeks sprints and agile.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7163,
+      "timestamps": []
+    },
+    {
+      "end": 7832,
+      "excerpt": "They talk about analytics and closing the feedback loop and having over-the-air updates. These are the same ways that people talk about angry birds, the software or Facebook, or email. So I was starting to see these parallels between how the real world was built, how real physical things were being built, and how they weren't as monolithic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7490,
+      "timestamps": []
+    },
+    {
+      "end": 8300,
+      "excerpt": "Or slow-moving as many investors. I know thought they were so as an investor, I'm always looking for great opportunities, but most importantly, I'm looking for great opportunities where other people haven't realized it yet. And this is what led to ubiquity. This notion that software that's really powerful that we can build really effectively software can now leap off of the computer screen and land in the real physical world, far away from a computer or a mouse.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7834,
+      "timestamps": []
+    },
+    {
+      "end": 8607,
+      "excerpt": "What that means is when you get into your car, we now actually take this for granted. We're using the software. When a Tesla can suddenly go zero to 60 half a second, faster with an over-the-air update and your car has to reboot. Your book has to reboot. These are crazy things to have said just 10 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8302,
+      "timestamps": []
+    },
+    {
+      "end": 8916,
+      "excerpt": "Right. That would have sounded like complete nonsense. More of the world is becoming software, like, and it was informed by some of those investments. In another one from Bessemer, that is a relevant tile, right? The little piece of plastic you put on different things, you want to make sure you never lose.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8609,
+      "timestamps": []
+    },
+    {
+      "end": 9285,
+      "excerpt": "I have many of them in my life was another investment I invested in the seed round or tile watching these companies that were right on the edge of software, where I was starting to see. A lot of open green space for more opportunities. And the ability for venture capital funding timelines to finally fall in line with these companies presented a massive opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8918,
+      "timestamps": []
+    },
+    {
+      "end": 9605,
+      "excerpt": "So Ubiquiti is now four years old and all that companies, I back really our software beyond the screen companies. They take a real-world physical problem, and they transform it into the software. Now, why would you want to transform something into a software problem is because it becomes a lot cheaper, a lot quicker.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9287,
+      "timestamps": []
+    },
+    {
+      "end": 9912,
+      "excerpt": "And the solution you develop is a lot more flexible that's in terms of solving a customer's problem in terms of growing a big business, these kinds of businesses can ramp really quickly and they secure attractive evaluations because they have recurring revenue. They have an ongoing customer relationship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9607,
+      "timestamps": []
+    },
+    {
+      "end": 10247,
+      "excerpt": "This is pretty different than selling hardware. If you imagine the television, you buy, you buy it for $500. You buy a one-center story. There's a lot of television manufacturers. So margins are low. The opposite of that would be a business where you, you sign up, you're paying a monthly fee. It's a recurring, ongoing relationship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9914,
+      "timestamps": []
+    },
+    {
+      "end": 10631,
+      "excerpt": "You're having the ability to get updates and additional features over time. The majority of businesses that I back have some element to that. Now all of them are not hardware. About half of the companies. You've equities. I have an element of hardware half, do not have any hardware, but they're all tied to pushing software into more areas of our world, besides just on a computer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10249,
+      "timestamps": []
+    },
+    {
+      "end": 11033,
+      "excerpt": "Gopi Rangan: The Silicon valley ecosystem started with deep tech hardware companies like Fairchild all the way to Intel and Broadcom. And many others were started with that as the foundation. But over the years, the VC investment process has shied away from touching anything to do with hardware, anything that has to do with inventories, or anything that has capital investment, but you are not shy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10633,
+      "timestamps": []
+    },
+    {
+      "end": 11228,
+      "excerpt": "And is that because of you? Feel like we're going back into a new area where hardware will become important or are you looking at it because no one else is looking at it. It's a neglected area.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11035,
+      "timestamps": []
+    },
+    {
+      "end": 11452,
+      "excerpt": "Sunil Nagaraj:  That's a great question. I think it's more the latter, right? In any investment, I'm trying to find opportunities. And that could be thought of as somewhere where no one else is looking, but very important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 11230,
+      "timestamps": []
+    },
+    {
+      "end": 11831,
+      "excerpt": "They will be looking soon, right? There's this Wayne Gretzky quote about skate, where the puck is going. So I want to be skating to an empty spot on the ice because no one else is there, but I want to know that I'm doing that because the pocket's heading there. That's an important piece of the puzzle. I think the comparison to the invention of the transistor and things like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11454,
+      "timestamps": []
+    },
+    {
+      "end": 12295,
+      "excerpt": "It's interesting, but I'm not, I'm actually fairly careful not to invest in, in fundamental science or long lead projects or the majority of investments that I choose to make, usually use a million-dollar or $2 million seed round to go from just starting the company to having production. Right. So that actually lops off a lot of deep tech in the traditional sense, it's a company that needs $50 million or needs major university research to get off the ground.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11833,
+      "timestamps": []
+    },
+    {
+      "end": 12647,
+      "excerpt": "Those kinds of companies are probably not in scope. So I think there are different flavors of deep tech today. Deepak is a pretty broad word, but anything that doesn't sound. Instagram or Salesforce or something like that, you can lump into deep tech. But I think that there's, a flitter of deep tech that has the capital characteristics of software.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12297,
+      "timestamps": []
+    },
+    {
+      "end": 13007,
+      "excerpt": "And that's where I'm focusing on. There are other venture capitalists who invest in a new molecule, a new type of spider cell, or a new kind of solar panel, these kinds of fundamental, deeper innovations. And I'm not, I'm investing in that person. Because of the size of my venture capital fund that, but $30 million fund one in about a $50 million fund too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12649,
+      "timestamps": []
+    },
+    {
+      "end": 13336,
+      "excerpt": "So I'm talking to these companies where a million or $2 million will really move the ball forward. I tend to be terrified of these really large swings where a billion dollars or half a billion dollars. And you finally know if the technology is going to work, I'm thinking about companies like magic leap or something like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13009,
+      "timestamps": []
+    },
+    {
+      "end": 13503,
+      "excerpt": "That just seems very scary to me. So I'm really focused on agile  iteration, but having some familiarity with software that can run in more places than the computer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13338,
+      "timestamps": []
+    },
+    {
+      "end": 13664,
+      "excerpt": "Gopi Rangan: Can you give an example of one or two companies? How do you find them? What do you ask in the first one or two meetings? What are you looking for?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13505,
+      "timestamps": []
+    },
+    {
+      "end": 14013,
+      "excerpt": "Sunil Nagaraj: So I'll start with a simple framework for what runs through my mind when I'm hearing a pitch. What I don't ask myself is. What might be obvious is this cool? Would I use it? I never use either of those questions. There are three questions. I ask myself during a pitch, I do about a thousand pitches a year for 30 minutes or an hour.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 13666,
+      "timestamps": []
+    },
+    {
+      "end": 14321,
+      "excerpt": "I ask myself these three questions. Does anyone want it? Are there a lot of those people? And can this entrepreneur find those people? Great. So does anybody want this product? Are there a lot of people who want this product and can they be found and these three questions correspond to product-market fit?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14015,
+      "timestamps": []
+    },
+    {
+      "end": 14695,
+      "excerpt": "Like does anyone want its product-market fit? Are there a lot of those people that correspond to the addressable market? And then can you find them corresponds to unit economics? So at the seed stage, most of my investments in companies have one or two or three employees. They're zero months old. A third of my investments I invested the day the company was incorporated.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14323,
+      "timestamps": []
+    },
+    {
+      "end": 15012,
+      "excerpt": "Sometimes they're six months old. These companies typically don't need to ask that last question. The unit economics, it's a little bit too premature for that. So I'm mostly focusing my energy on, does anyone want this product, right? And there's actually a bonus question. Deeper tech, which is, does it even work?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14697,
+      "timestamps": []
+    },
+    {
+      "end": 15329,
+      "excerpt": "Right? So question zero. I know I'm cheating a little bit, but question zero is, does it work? Question one is, is anyone wanted to question two is. That's where I'm spending a lot of my energy on a pitch and what I'm listening for. I'm on the, does it work is someone who is deeply fluent in this technical domain.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15014,
+      "timestamps": []
+    },
+    {
+      "end": 15718,
+      "excerpt": "And this is where I call ubiquity and nerdy and early firm. I think of myself as a nerd that can follow a lot of technical concepts. I also have a nerd crew called the extended team that helps me too. Decipher, whether different people in different technologies are legit. If I don't want to be sold on snake oil, if that makes sense, I don't want to go off the deep end with technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15331,
+      "timestamps": []
+    },
+    {
+      "end": 16038,
+      "excerpt": "That's going to take too long to develop a technology that's not really working. So when I think about, does it work really the first question I asked during a pitch, and the first question, I'm trying to answer. I'm listening often for if somebody is fluent in their area and that's actually a little more settled in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15720,
+      "timestamps": []
+    },
+    {
+      "end": 16510,
+      "excerpt": "Every domain has its own small manners of speaking, but I'll give you a concrete example. If someone said that they were coding HTML last night, It's a hundred percent chance. They don't know what they're talking about. Right? No one codes HTML, you write HTML and that's just a tiny little detail, but if you don't know this domain, you'd be, you know, I'd say code and I learned how to code HTML and you just know immediately the person isn't accurate in the same way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16040,
+      "timestamps": []
+    },
+    {
+      "end": 16844,
+      "excerpt": "There are a million different ways to look for a little tells like that, that I'm listening to. In addition to what's shown on the beautiful slides to assess if this person has the technical chops. If they have the background, if they speak with fluency about their technical domain, then the other half of my energy is spent on it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16512,
+      "timestamps": []
+    },
+    {
+      "end": 17191,
+      "excerpt": "Does anyone want it? That sounds like a simple idea, but sussing out a signal with high integrity, high fidelity that people really do want is a tricky thing. Not only do I want to know that there are people that an entrepreneur doesn't know, right. So it can't be your brother or your professor or your best friend, someone that you don't know.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16846,
+      "timestamps": []
+    },
+    {
+      "end": 17510,
+      "excerpt": "Is jumping out of their seat. When you describe this product, that's the signal I'm looking for, right? It's not that you have already had millions in revenue because then you'll raise a series. It's also not that, you know, this is the way the world's going to work, but having faith is not sufficient for me either.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17193,
+      "timestamps": []
+    },
+    {
+      "end": 17858,
+      "excerpt": "I want to see the first twinkle in a potential customer's eye that says, wow, I've been in this industry for a long time. I've never heard anything like this. If this person built it, I would love to. That's what I'm looking for addressing this spark, that the dream of an entrepreneur has actually made first contact with the potential customer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17512,
+      "timestamps": []
+    },
+    {
+      "end": 18183,
+      "excerpt": "And it actually sat while that generated some interest. So I would say those are the primary things, and this has been true for many of the investments I've made, whether it be investments in companies that put software on cows earlier. You mentioned a few examples. There's a portfolio company of Ubiquity's called halter.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17860,
+      "timestamps": []
+    },
+    {
+      "end": 18532,
+      "excerpt": "That turns cows into the software. We jokingly call this technology Calgary rhythms. And the idea is that with a small piece of smart hardware, you can have a collar that goes around the neck of a dairy cow. And once your dairy cows are on a pasture, I'll have this halter collar. You now have the ability to monitor and move these cows with soft.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18185,
+      "timestamps": []
+    },
+    {
+      "end": 18902,
+      "excerpt": "Moving involves the use of sound and vibration to coerce these cows to move in any direction you want forward, left-back or right with those two basic primitives. Do you use coding speak here with those primitives? You can now construct any functional code or conditional code on top of that. That means you can say every day at 6:00 AM, bring all my cows to the milk.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18534,
+      "timestamps": []
+    },
+    {
+      "end": 19230,
+      "excerpt": "You can do it again, coding speak, you got to have a Cron job, a nightly timer, or a daily timer every day at noon. Make sure that you would bundle that with conditional code too. So you can read telemetry off the cows. You can construct conditional code. So you could say every day at noon, a process triggered that Cron job.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18904,
+      "timestamps": []
+    },
+    {
+      "end": 19538,
+      "excerpt": "You can then say. Check and see if any of my cows have eaten less than this amount of food. If so, then send them to the next patch of grass, the next paddock first. So this notion of software control, the software-driven farm. I don't think anyone will disagree. That is probably the way the world should.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19232,
+      "timestamps": []
+    },
+    {
+      "end": 19904,
+      "excerpt": "And when I heard this pitch, I felt the same way, but then I wanted to validate with real farmers, real dairy farmers that they agreed with this. So it helps in this instance that Craig picket, the CEO grew up on a dairy farm. His family still runs a dairy farm. He is intimately connected with the problem, but he was able to also apply deep tech to the solution.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19540,
+      "timestamps": []
+    },
+    {
+      "end": 20043,
+      "excerpt": "Those are the signals I'm looking for. When I hear a pitch is this elegant combination of technical depth and first perspective festival.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19906,
+      "timestamps": []
+    },
+    {
+      "end": 20229,
+      "excerpt": "Gopi Rangan: How good are the sounds really cool. I see that you're looking for a few specific things, and you're very clear about your filters, who are the people who would want this?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20045,
+      "timestamps": []
+    },
+    {
+      "end": 20602,
+      "excerpt": "Where are they in? Can you find them and sell them to them? Those are pretty pointed questions that you are looking for answers to. When you talk to these companies, are there challenges that these entrepreneurs face when they tell the story to you? Would you like to give them a few tips on how to prepare before they meet a venture capital investor to tell their story?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20231,
+      "timestamps": []
+    },
+    {
+      "end": 20618,
+      "excerpt": "Sunil Nagaraj:",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 20604,
+      "timestamps": []
+    },
+    {
+      "end": 20965,
+      "excerpt": "Yeah, I would be happy. Again, earlier, I mentioned about 10 years of venture capital. So that's about 10,000 pitches I've heard and I've detected a few common themes that persist to this day. The first one is that you should just say what you do in really simple words. 30 seconds of a pitch. That probably sounds like a very obvious statement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20620,
+      "timestamps": []
+    },
+    {
+      "end": 21277,
+      "excerpt": "Maybe even remedial, but say what you do in the first 30 seconds. I would say over 50% of the pitches I take do not do this. They don't do it even for 30 minutes. I think there's a natural temptation to want to tell a beautiful, elegant story and build up the context and have a big reveal about 30 minutes in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20967,
+      "timestamps": []
+    },
+    {
+      "end": 21628,
+      "excerpt": "But in most cases, it's easy to lose an audience if you don't just spit out what it is. When I say describing what it is, there are fancy ways to describe something synergistic platform for collaboration. That doesn't mean anything to me. If you notice the way I describe halter, I said, it's a collar that goes on a cow that helps you move the cap.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21279,
+      "timestamps": []
+    },
+    {
+      "end": 22333,
+      "excerpt": "Now there's a much broader way to describe this. It's a dairy farming productivity-boosting platform, right. But I like, and I think most VCs would appreciate a clear, straightforward description of a company early on. And there is the tension of trying to convey a big picture and the long-term vision. So I would encourage most entrepreneurs to include both, but to get that out really quickly, just to anchor is something really important when I coach entrepreneurs IBAX so I backseat entrepreneurs after 12 or 18 months, they go on to raise Series-A rounds when they do so when I back an entrepreneur, they raise a series, and at double, the industry average 91% of my seed companies raise a series.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21630,
+      "timestamps": []
+    },
+    {
+      "end": 22760,
+      "excerpt": "Part of that is telling the story properly and I push all of them to do this afternoon. Helping to draft a series, a pitch deck. I always want slide one to just say what it is, how much you've raised, how many people and not like hide any of that, or try to bring it up in a beautiful narrative that I think really what under what belies this, maybe the soapbox of mine is that often storytelling can get in the way of basic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22335,
+      "timestamps": []
+    },
+    {
+      "end": 23157,
+      "excerpt": "Sorry. I wrote a blog post. You could look it up. It's about the hierarchy of pitching. I'm comparing it to Maslow's hierarchy. Before you can feel actualized, you need to have warmth and food in your belly and a warm place to sleep at night in the same way during a pitch before you can get excited about the future of a product in a Euro pitch, you just have to understand what the product is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22762,
+      "timestamps": []
+    },
+    {
+      "end": 23496,
+      "excerpt": "If I can only tell him was one thing, it's just to communicate what the product is and as quickly as possible, the second thing I would share as advice is to. As quickly as possible position your product through a customer's eyes. That's also a much more helpful narrative. It's tricky because most entrepreneurs arrive at their product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23159,
+      "timestamps": []
+    },
+    {
+      "end": 23856,
+      "excerpt": "They build a product from their perspective and there are reasons that they do. So I'm asking them to then flip it around and speak in terms of a customer here's a potential customer. Here's what they were doing today. Before I met. Here's how it would meet them. Here's how they might use my product that can contextualize a product in a really helpful way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23498,
+      "timestamps": []
+    },
+    {
+      "end": 24075,
+      "excerpt": "Telling a story for a seed-stage company is a really tricky element, right? You can't answer questions like revenue or acquisition costs. You have to build up to the product, but doing so with that lens can be really.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23858,
+      "timestamps": []
+    },
+    {
+      "end": 24187,
+      "excerpt": "Gopi Rangan: When you meet these entrepreneurs, not every one of these conversations turns into an investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24077,
+      "timestamps": []
+    },
+    {
+      "end": 24371,
+      "excerpt": "In fact, a very, very small portion of them turn into an investment and you've met thousands of companies over the years. What can they get out of the one-hour conversation with you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24189,
+      "timestamps": []
+    },
+    {
+      "end": 24809,
+      "excerpt": "Sunil Nagaraj: I'm glad you're phrasing it that way. Gopi. I think it's an unfortunate data point, right? One that folks should internalize 99% of pitches are not going to result in investment, perhaps it's 99.8%. So having another. The goal to get out of the meeting beyond capitalism is really helpful. I agree. It is useful to think of it that way. I would say VCs, categorically or all VCs are going to be pretty good at two things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 24373,
+      "timestamps": []
+    },
+    {
+      "end": 25211,
+      "excerpt": "They're not good at that many things are definitely not good at. Companies ourselves. That's what we back entrepreneurs, but we aren't good at hearing about a lot of things. So we have incredible landscape awareness that most entrepreneurs won't have. We will have heard of 20 other companies in your adjacent space that just isn't on your radar because you're too focused on working on your product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24811,
+      "timestamps": []
+    },
+    {
+      "end": 25520,
+      "excerpt": "And one of the things you can get out of a VC. The meeting is to understand the landscape of other adjacent companies that have been out there pitching that are out in the market. And even whether it's right or not. You now understand as an author, you can understand how other VCs perceive your technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25213,
+      "timestamps": []
+    },
+    {
+      "end": 25831,
+      "excerpt": "What else is nearby? The second thing that VCs can often do is to. Just still a one-hour meeting until like five seconds. So go be you and I have invested together for example, and you or I might make a pitch for an hour. Hear a really beautiful, thoughtful, interesting pitch from a thoughtful, smart person.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25522,
+      "timestamps": []
+    },
+    {
+      "end": 26158,
+      "excerpt": "And you can take that one hour. That's a pretty 600 seconds and turn it into 10 seconds. For me, that is a very hard thing to do in general to synthesize something. But more importantly, it's very hard for an entrepreneur to turn everything they do into just 10 seconds. It's painful. I was an entrepreneur from 2009 to 2011.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25833,
+      "timestamps": []
+    },
+    {
+      "end": 26475,
+      "excerpt": "I could never pitch my company in five seconds or 10 seconds. I, you would need a minute or I would need 20 minutes. If you're in a VC pitch, you can hear how they're describing your idea back to you. So you understand. Simple ways to position your product. I actually find this as helpful with journalists as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26160,
+      "timestamps": []
+    },
+    {
+      "end": 26787,
+      "excerpt": "If you ever pushed for getting press as an entrepreneur, you'll see journalists are really good at writing about your company in a way that's interesting to more people and it cuts to the essence a bit more than from the entrepreneur's perspective. So I would encourage folks to try to get as much as possible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26477,
+      "timestamps": []
+    },
+    {
+      "end": 26827,
+      "excerpt": "Those two areas, landscape and simple.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26789,
+      "timestamps": []
+    },
+    {
+      "end": 27123,
+      "excerpt": "Gopi Rangan: Yeah. I like to get that ten-second version of the story so I can intelligently talk about the entrepreneur elsewhere. So I become an ambassador when I mentioned that Hawaiian, I did speak to that company and this is what they do. Hopefully, if it's accurate, it helps the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26829,
+      "timestamps": []
+    },
+    {
+      "end": 27347,
+      "excerpt": "And if I don't catch onto it right away, if they don't dumb it down enough for someone coming in for the first time to hear the story and. It's difficult for me to intelligently relay that information to the world outside.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27125,
+      "timestamps": []
+    },
+    {
+      "end": 27443,
+      "excerpt": "Sunil Nagaraj: It's way more important to communicate to you what it is as opposed to impress.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 27349,
+      "timestamps": []
+    },
+    {
+      "end": 27854,
+      "excerpt": "Right. Like as a VC, entrepreneurs can think they need to wow. Me with their pitch, but I won't go anywhere until I understand the basics that soundbite that ten-second sound bite. I would encourage entrepreneurs after a meeting, you should, especially for most entrepreneurs will meet a VC that's in a larger organization or ubiquity as a one-person VC firm, but most entrepreneurs will meet an entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27445,
+      "timestamps": []
+    },
+    {
+      "end": 28196,
+      "excerpt": "That's part of a 10 person investor. That'll meet this VC and its part of a 10 person investing team that VC will have to build consensus around this potential investment. So an entrepreneur I really want to do is arm the person you're talking to with his man, any sound bites as possible for them to build consensus around this investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27856,
+      "timestamps": []
+    },
+    {
+      "end": 28541,
+      "excerpt": "So that means that right after the meeting, You should, right after, within a minute, right after a meeting, you should send that VC a really short email with those two or three sound bites. It was a pleasure talking to you today. I'm glad we talked about my million-dollar financing round to turn on smart farm tractors that can autonomously.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28198,
+      "timestamps": []
+    },
+    {
+      "end": 28891,
+      "excerpt": "I'd be happy to show you more, but I look forward to hearing from you soon, and that way you anchor what your description is in someone's mind, as opposed to them taking away their own description, probably butchering it along the way and then losing some steam all the way. I think about this, I think OPU and I also have to raise our own capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28543,
+      "timestamps": []
+    },
+    {
+      "end": 29337,
+      "excerpt": "So we also do our own pitching. I don't think we talk about it a lot, but I do the same thing. After every time I pitch ubiquity events. To an investor in a VC firm, they're called LPs. When I pitch you make what you do and LPI always follow up right afterward with a few simple ways to think about ubiquity that roll off the tongue that can be socialized within teams and committees to make sure that I don't lose momentum with regard to this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28893,
+      "timestamps": []
+    },
+    {
+      "end": 29543,
+      "excerpt": "Gopi Rangan: Yeah. The insider world of venture capitalists that people don't understand VC is pitched to LPs and VC is pitched to LPs with far less success rate compared to entrepreneurs between the VCs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29339,
+      "timestamps": []
+    },
+    {
+      "end": 29771,
+      "excerpt": "Sunil Nagaraj: That's right. But nobody wants to hear a VC complain about that, but it is, it is a tricky animal I'm pitching a VC firm usually means you're asking for money without any specifics about where the money's going.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 29545,
+      "timestamps": []
+    },
+    {
+      "end": 30123,
+      "excerpt": "An entrepreneur. Well, when they pitched me, I know exactly where the money is going. I know which people are going into. I know what idea is going into, but general partners, you and me, we seek capital that will eventually be put into companies. But we can't say with exact specificity, which ones are just yet at the core, it's a trickier problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29773,
+      "timestamps": []
+    },
+    {
+      "end": 30520,
+      "excerpt": "Gopi Rangan: We got into a lot of details about what you're looking for, the filters you use, the questions you ask and how can entrepreneurs make it easy for you to understand all of this takes time. How much time do you spend with an entrepreneur before you form a conviction? Can it happen in one meeting or does it happen over multiple meetings over many weeks or months? What's the process?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30125,
+      "timestamps": []
+    },
+    {
+      "end": 30820,
+      "excerpt": "Sunil Nagaraj: Because of how I work as a one-person VC firm without colleagues like associates or partners. And because I operate a one-person for an in-house operator and say a one-focus from a single-focus. I aim to be very well-versed in the technologies I'm investing in. Before I take a pill.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 30522,
+      "timestamps": []
+    },
+    {
+      "end": 31167,
+      "excerpt": "So usually within a single meeting, I can get to like a 99% confidence that I'm going to do an investment. And that can be in the first hour. I may not share that in the first hour, in case my mind changes or I get additional information, but with many of my most successful investments, I knew in the first 20 minutes, this was a Ubiquiti deal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30822,
+      "timestamps": []
+    },
+    {
+      "end": 31518,
+      "excerpt": "And that's because I have a really tight description and a tight feeling of what a ubiquity deal looks like more precisely though. It's usually within 10 days. After the first meeting that I can commit, write a term sheet, and have it signed for a million-dollar investment from ubiquity. Again, it hearkens to having a really tight, specific focus.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31169,
+      "timestamps": []
+    },
+    {
+      "end": 31744,
+      "excerpt": "I don't follow that many technical areas. I follow a small number, but I go very deep in those areas. And that's turned out to be very helpful for having a better conversation in the first pits, but also building conviction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31520,
+      "timestamps": []
+    },
+    {
+      "end": 31927,
+      "excerpt": "Gopi Rangan: Well, this is very helpful. You've given a lot of real-life examples and specific stories from your past, but over the past 10 years, venture capital has changed a lot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31746,
+      "timestamps": []
+    },
+    {
+      "end": 32068,
+      "excerpt": "What is different for you? And how do you see the VC world and the startup world compared to how it was 10 years? That's a  great question.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31929,
+      "timestamps": []
+    },
+    {
+      "end": 32304,
+      "excerpt": "Sunil Nagaraj: In the last 10 years, you've seen a lot more technology. Startups emerge a lot more venture capital firms emerged. It's a much more robust ecosystem. What that's done in the mainstream is its elevated valuations, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 32070,
+      "timestamps": []
+    },
+    {
+      "end": 32630,
+      "excerpt": "The average valuation for any stage is dramatically higher. That's probably a cyclical thing, but we're at a high point in the cycle. Another element though, and this is a bit of a pet peeve is you see folks. That is manipulating the words for these different financing rounds to adjust the traction hurdle that's necessary.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32306,
+      "timestamps": []
+    },
+    {
+      "end": 32956,
+      "excerpt": "So when I raised money, I raised money for my machine learning-powered online dating startup. In 2010, I raised a seed round. It was a $750,000 seed round. That was very normal today. People with a straight face will say that they raised a $10 million seed round. Now, to me, that seems ridiculous. So 10 million are around.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32632,
+      "timestamps": []
+    },
+    {
+      "end": 33328,
+      "excerpt": "You used to be a series B. I could say it's ridiculous. Or I could say this is the new world we live in that a seed round is 10 million, a series a is 20 and a series B is 30. But actually, I think what's happening is that people are raising the same kinds of capital at about the same kinds of time. We just have new labels on it and the labels are a little bit tricky.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32958,
+      "timestamps": []
+    },
+    {
+      "end": 33664,
+      "excerpt": "It's very similar to having a six-year-old playing soccer. Wanting to squeeze them into the five-year-old league so that they're compared against their five-year-old peers. So in this case, people will raise a friends-and -amily and then a pre-seed and then a pre-seed plus, and then a pre-seed extension, and then a $10 million seat.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33330,
+      "timestamps": []
+    },
+    {
+      "end": 34033,
+      "excerpt": "Now, really, you should just name those what they are, which was a Seed, a Series-A and a Series-B. That's a funny thing. I actually suspect I have a strong suspicion that will disappear when there's a downturn. I don't know when that'll occur. But the fundamental bifurcation of financing is a great idea because you can have specialists and more sources of capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33666,
+      "timestamps": []
+    },
+    {
+      "end": 34135,
+      "excerpt": "But I think the nicknaming, the rounds to manipulate people's first  impressions is, is a detriment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34035,
+      "timestamps": []
+    },
+    {
+      "end": 34450,
+      "excerpt": "Gopi Rangan: That trend has. Gone too far CDs. They used to be the first round of funding. That's why it was called CDs. A now it's often the fourth or fifth round of funding. Everybody wants to call their round the series eight and therefore others have to rename that round so that they can be prepared for CDs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34137,
+      "timestamps": []
+    },
+    {
+      "end": 34797,
+      "excerpt": "Sunil Nagaraj: Yeah, it's a, it's a spiral. If you don't play along, then you get into a tricky spot. I've run into this issue a few times. Cause again, I partnered with seed companies. I joined their board, we grow the company and we would come up for air at the series a to go out and try to raise and often just the level of quirky signaling.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 34452,
+      "timestamps": []
+    },
+    {
+      "end": 35170,
+      "excerpt": "So if we wanted to. Let's say raise a $7 million series a what can often happen is people who I will follow VCs. I know, I will say, Hey, my company's raising a $7 million series. A, their first reaction is, oh, is something wrong? Why aren't they raising a normal $12 million series? And so you have this just whiplash back and forth as to which direction you should go.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34799,
+      "timestamps": []
+    },
+    {
+      "end": 35488,
+      "excerpt": "Should you raise the 12, even though you don't need 12, should you go ahead and aim for that? Or can you raise the amount you want and still use those words? Or will you be judged? I mean, underneath all this. Heavily superficial. Right? We should call that out. This, the real game here is to build a great product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35172,
+      "timestamps": []
+    },
+    {
+      "end": 35920,
+      "excerpt": "Customers are happy, generate lots of revenue, and have a great path. This is all icing, but it is critical to have that oxygen to grow and weird perception. Quirks are actually pretty important to getting your foot in the door. So I'm constantly tracking it as well to figure out what are the right words to use for each round and what is the right financing path and what is the hurdle that unlocks future financing for my seat?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35490,
+      "timestamps": []
+    },
+    {
+      "end": 36094,
+      "excerpt": "Gopi Rangan: I want to switch to the next part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 35922,
+      "timestamps": []
+    },
+    {
+      "end": 36220,
+      "excerpt": "Sunil Nagaraj: The non-profit that I'm involved with, I just became president of is the astronomical society of the Pacific.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sunil Nagaraj",
+      "start": 36096,
+      "timestamps": []
+    },
+    {
+      "end": 36578,
+      "excerpt": "This is the world's largest astronomy education society. That's focusing on bridging the worlds between professional astronomers, amateur astronomers, and the public to share excitement about astronomy, to share excitement for looking up. But one of the things, for example, that we worked on at the ASP is the creation of a girl scout badge for astronomy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36222,
+      "timestamps": []
+    },
+    {
+      "end": 37088,
+      "excerpt": "So, which is. I don't know this is a good expression to use, but I'll use it anyway. A good, a good gateway drug, right? Just how folks get into astronomy as a gateway into science. It's just fantastic. It's also great to get into astronomy, to stay in astronomy, but I think everyone at the ASP and myself included don't think that every single person on earth will spend their lives in astronomy, but it is a great way to connect the real natural physical world with the conceptual math physics, chemistry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36580,
+      "timestamps": []
+    },
+    {
+      "end": 37435,
+      "excerpt": "It incorporates all the disciplines. And so this non-profit is one that I've been on the board. Four years now and just became president last week. It's an endeavor to pull more people into this nerdy topic and have them experience something that we find. So in chanting magical, and yet grounded in science and math as a fellow stargazing geek.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37090,
+      "timestamps": []
+    },
+    {
+      "end": 37449,
+      "excerpt": "Gopi Rangan:",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37437,
+      "timestamps": []
+    },
+    {
+      "end": 37904,
+      "excerpt": "I love this. I do agree with you that astronomy is probably one of the friendliest parts of sciences, which. Easy for people to relate to, easy to get attracted to. So I'm delighted to see that you're using your efforts to bring science forward. Thank you very much for spending time with me today and sharing a lot of very, very interesting stories, personal stories, and specific anecdotes on what works and what doesn't work in the startup ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37451,
+      "timestamps": []
+    },
+    {
+      "end": 38067,
+      "excerpt": "Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoy listening to real-life stories about early believers supporting ambitious entrepreneurs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37906,
+      "timestamps": []
+    },
+    {
+      "end": 38234,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38069,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "8162c2693cc608e4480a14dcdf9d7c33420734733f626fc06ad786774c47c1dc",
+  "text_sha256": "2f958584aeb0d6edb1d32abe6c87dc52a5ffdb28ec1bbf375d23331529b326f0"
+}

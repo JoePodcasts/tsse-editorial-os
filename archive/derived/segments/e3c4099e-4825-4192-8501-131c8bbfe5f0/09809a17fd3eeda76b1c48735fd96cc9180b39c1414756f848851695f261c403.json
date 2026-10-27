@@ -1,0 +1,839 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 227,
+      "excerpt": "The same Kleiner Perkins fund that had Google in it had Segway in it, but no one gives a flip that Segway was in that fund because Google returned 10000X. And that's a dramatic example, but that's more or less how it plays out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 611,
+      "excerpt": "[00:00:17] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. Today's guest is Ian Roundtree, the founder of Cantos VC.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 229,
+      "timestamps": [
+        {
+          "offset": 229,
+          "raw": "[00:00:17]",
+          "seconds": 17
+        }
+      ]
+    },
+    {
+      "end": 994,
+      "excerpt": "Cantos is an early-stage venture capital firm focused on frontier technologies. In today's discussions, we will hear from Ian about his journey into venture capital through FinTech. We will talk about opportunities for frontier technologies to transform legacy industries. We will specifically talk about details investors like Ian look for at early stage deep technology startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 613,
+      "timestamps": []
+    },
+    {
+      "end": 1040,
+      "excerpt": "Ian, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 996,
+      "timestamps": []
+    },
+    {
+      "end": 1150,
+      "excerpt": "[00:01:18] Ian Rountree: Yeah, great to be here. I'm glad you're doing this. It's going to be a lot of fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 1042,
+      "timestamps": [
+        {
+          "offset": 1042,
+          "raw": "[00:01:18]",
+          "seconds": 78
+        }
+      ]
+    },
+    {
+      "end": 1199,
+      "excerpt": "[00:01:21] Gopi Rangan: Tell us about yourself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1152,
+      "timestamps": [
+        {
+          "offset": 1152,
+          "raw": "[00:01:21]",
+          "seconds": 81
+        }
+      ]
+    },
+    {
+      "end": 1410,
+      "excerpt": "[00:01:23] Ian Rountree: So I, I'm originally from Florida. Grew up in South Florida, the son of a single mother. My dad passed away when I was young. He was from North Carolina, so I have deep southern roots.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 1201,
+      "timestamps": [
+        {
+          "offset": 1201,
+          "raw": "[00:01:23]",
+          "seconds": 83
+        }
+      ]
+    },
+    {
+      "end": 2030,
+      "excerpt": "My mother, however, grew up in the Philippines, Tokyo and the Bay Area. Her family's mostly up here. So I, grew up the child of a mother working in the public school district in a low income neighborhood and my father was a Marine and of course had passed away earlier, not in combat. But my aunt had married a very successful venture capitalist out here and so I grew up kind of between these two worlds, spending my summers with them in San Francisco and getting some exposure to the tech world and then spending most of the school year in that solidly middle class family in South Florida, so a child of two coasts.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1412,
+      "timestamps": []
+    },
+    {
+      "end": 2248,
+      "excerpt": "And then I went to school in Tennessee, lived there for 10 years, worked in healthcare consulting and at a non profit before I moved out west. So we can go into how I got into tech, but that's kind of the high level.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2032,
+      "timestamps": []
+    },
+    {
+      "end": 2394,
+      "excerpt": "[00:02:23] Gopi Rangan: Oh, that's great. Looks like, uh, although you grew up in South Florida, you always had this loyalty for the West Coast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2250,
+      "timestamps": [
+        {
+          "offset": 2250,
+          "raw": "[00:02:23]",
+          "seconds": 143
+        }
+      ]
+    },
+    {
+      "end": 2543,
+      "excerpt": "[00:02:30] Ian Rountree: I did. Absolutely. Yeah. Although my 10 years in Tennessee gave me enough of a twang that that is frequently pointed out. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 2396,
+      "timestamps": [
+        {
+          "offset": 2396,
+          "raw": "[00:02:30]",
+          "seconds": 150
+        }
+      ]
+    },
+    {
+      "end": 2605,
+      "excerpt": "[00:02:37] Gopi Rangan: How did tech come into the picture? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2545,
+      "timestamps": [
+        {
+          "offset": 2545,
+          "raw": "[00:02:37]",
+          "seconds": 157
+        }
+      ]
+    },
+    {
+      "end": 3048,
+      "excerpt": "[00:02:40] Ian Rountree: So I have always been motivated, I think, because I was exposed to the top, you know, 0.1 percent out here by way of that part of my family, but grew up with kids who were getting in trouble or doing bad things or not doing bad things and getting blamed for it; hard circumstances. I was always driven to bridge those two worlds and more broadly by creating a positive change with my limited time here on the planet.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 2607,
+      "timestamps": [
+        {
+          "offset": 2607,
+          "raw": "[00:02:40]",
+          "seconds": 160
+        }
+      ]
+    },
+    {
+      "end": 3941,
+      "excerpt": "And so I originally thought I was going to be a doctor, started pre med and then was just too ADD to focus on the individual problems and wanted to think a bit more high level just because my thinking's a bit more gestalt and moved to political science, specifically international relations, thinking I'd go on to work at the UN or WHO or something, but ended up getting frustrated by how slow moving those organizations are, mostly by my own fault. I'm just too impatient for it. And so I ended up working for a nonprofit after school, became frustrated there because of the limited scale. And came to understand incentives a little better, understood then that if you could solve problems in a cashflow positive manner, then you can act quickly, have scalability, and maybe people make money along the way, in which case you recycle it to the next thing and create this positive resonance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3050,
+      "timestamps": []
+    },
+    {
+      "end": 4446,
+      "excerpt": "And so, I became very interested in social enterprise and impact investing, knew then that I needed some exposure to the for profit world. Ended up getting a consulting job in healthcare back in Nashville where I had gone to school, and was there for about two years where we were a hybrid of management consulting and software implementation. I realized that though our staff reflected a focus on the former, the impact was largely derived by the latter, which was a smaller team of software engineers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3943,
+      "timestamps": []
+    },
+    {
+      "end": 5106,
+      "excerpt": "And then a couple of us on the project would specialize on that. And I said, \" Gosh, this is where a few lines of code can create so much value in a very important industry. I want to spend more time on that.\" Not being an engineer, I knew that it was going to be more on the support side and ended up through my cousin getting connected to the first employee at what was then called Social Finance Inc., now better known as SoFi, and ended up joining them part time while I was still in consulting. And then just going all in, I quit my consulting job and moved in with my uncle in their guest bedroom eight years ago and ended up working full time at SoFi.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4448,
+      "timestamps": []
+    },
+    {
+      "end": 5187,
+      "excerpt": "[00:05:07] Gopi Rangan: And where was that? Uh, was that in the Silicon Valley?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5108,
+      "timestamps": [
+        {
+          "offset": 5108,
+          "raw": "[00:05:07]",
+          "seconds": 307
+        }
+      ]
+    },
+    {
+      "end": 5494,
+      "excerpt": "[00:05:10] Ian Rountree: It was San Francisco. Yeah. So if I was still in the Presidio and we worked from a little office, there are about 12 of us originally. And so it's surreal to me to see the billboards and the new Rams Chargers Stadium is going to be SoFi Stadium, which I can still hardly believe. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 5189,
+      "timestamps": [
+        {
+          "offset": 5189,
+          "raw": "[00:05:10]",
+          "seconds": 310
+        }
+      ]
+    },
+    {
+      "end": 5834,
+      "excerpt": "[00:05:26] Gopi Rangan: It's fascinating to hear the story all the way from Florida, Tennessee, and as you experimented different things, political science and other things, and eventually you came to Silicon Valley. Giving out loans, student loans, that's one area. How did you bridge from there to frontier technology, deep technology. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5496,
+      "timestamps": [
+        {
+          "offset": 5496,
+          "raw": "[00:05:26]",
+          "seconds": 326
+        }
+      ]
+    },
+    {
+      "end": 6523,
+      "excerpt": "[00:05:44] Ian Rountree: That's a good question. So I knew that experiencing SoFi from 10 to 100 people and wanting to get into investing, which I started doing in very small increments when I was at SoFi, you know, meeting all the interesting entrepreneurs. My family wanted me to go to business school but I said, \"well, look, I'm refinancing business school loans. I can tell you the value prop is a little different than when you went, you know, 30 years ago. It's much more expensive. I'm here in the thick of things. If I know I'm interested in Metro Capital, then why don't I just take my savings that I was going to put toward business school and make 10 small angel investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 5836,
+      "timestamps": [
+        {
+          "offset": 5836,
+          "raw": "[00:05:44]",
+          "seconds": 344
+        }
+      ]
+    },
+    {
+      "end": 6905,
+      "excerpt": "And I'll blow through all my savings, but it will be one third the cost of going to business school. I can keep generating income, and I'll learn specifically about what I want to learn. And I'll probably, even worst case scenario, if I lose it all, which I probably will because I didn't really know what I was doing, and I didn't have a big enough portfolio to cast a broad net,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6525,
+      "timestamps": []
+    },
+    {
+      "end": 7073,
+      "excerpt": "I'd probably still be a different kind of applicant when I try and get an associate gig at a VC job.\" It made sense to me, although my family was not happy about it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6907,
+      "timestamps": []
+    },
+    {
+      "end": 7145,
+      "excerpt": "[00:06:44] Gopi Rangan: That's a clever way to think about education. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7075,
+      "timestamps": [
+        {
+          "offset": 7075,
+          "raw": "[00:06:44]",
+          "seconds": 404
+        }
+      ]
+    },
+    {
+      "end": 7235,
+      "excerpt": "[00:06:47] Ian Rountree: I mean, we have to rethink education, but that's another topic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 7147,
+      "timestamps": [
+        {
+          "offset": 7147,
+          "raw": "[00:06:47]",
+          "seconds": 407
+        }
+      ]
+    },
+    {
+      "end": 7853,
+      "excerpt": "Again, my mother's an educator. So that's part of my background too. But I knew getting into investing that I could do one of two things. I could either follow fintech downstream or I could continue seed investing, in which case I might make some fintech investments, but I also needed to keep looking for that new new thing technology wise. I chose the latter, mostly because that's what I'm interested in, but also because it meant I could start with a smaller fund and as I was angel investing or I say cherub investing because they were tiny checks, let me tell you, I couldn't participate in these later rounds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7237,
+      "timestamps": []
+    },
+    {
+      "end": 8019,
+      "excerpt": "I mean, as soon as a company took seed funding from an institutional VC, it was out of my league and they wouldn't take my $10000 checks I was writing at the time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7855,
+      "timestamps": []
+    },
+    {
+      "end": 8115,
+      "excerpt": "[00:07:32] Gopi Rangan: What types of topics do you focus on these days for your investments? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8021,
+      "timestamps": [
+        {
+          "offset": 8021,
+          "raw": "[00:07:32]",
+          "seconds": 452
+        }
+      ]
+    },
+    {
+      "end": 8259,
+      "excerpt": "[00:07:36] Ian Rountree: If you look at my portfolio page, it seems all over the place, but we're gonna rework that to paint it in a timeline.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 8117,
+      "timestamps": [
+        {
+          "offset": 8117,
+          "raw": "[00:07:36]",
+          "seconds": 456
+        }
+      ]
+    },
+    {
+      "end": 8691,
+      "excerpt": "And there you'll see that I began investing in FinTech and then I moved to these other verticals and SaaS. And then I started saying, \"okay, once we've juiced most of what's available in those industries based on this technology, we have to start looking out at the frontier of the innovation curve because innovation and economic progress tends to happen in fits and spurts or if you will, a step curve or maybe even an S curve.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8261,
+      "timestamps": []
+    },
+    {
+      "end": 9113,
+      "excerpt": "And I think of that in terms of these infrastructure jumps and then application layers. And you can trace this all the way back to the printing press, if you want. But in more modern terms, if we think about the integrated circuit and network computing, and then the internet and the World Wide Web, and then AWS and cloud and mobile; going forward, we might get more advances along that information technology timeline.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8693,
+      "timestamps": []
+    },
+    {
+      "end": 9424,
+      "excerpt": "I began to look broader in what those infrastructure changes might look like, not just in advanced computing. So there you've got maybe quantum computing or even DNA-based computing of a company called Catalog that's working on that. Crypto is interesting because it's along that information technology curve.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9115,
+      "timestamps": []
+    },
+    {
+      "end": 9739,
+      "excerpt": "But I'm very interested in what's happening alongside that in biology and new materials and energy. Triangulating that with an economic view that makes sense is the difficulty, which I can go into. But I've now zoomed out a bit, cast a broader net. And so I have investments in therapeutics as well as in fintech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9426,
+      "timestamps": []
+    },
+    {
+      "end": 10122,
+      "excerpt": "[00:09:18] Gopi Rangan: So I see that over the years you've made more than 40 investments in startups. Especially in frontier technology and deep technology, it's very difficult to raise the first round of funding when there's so much needs to be proven in terms of technology product itself. And most people don't understand these type of technologies that are so forward looking.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9741,
+      "timestamps": [
+        {
+          "offset": 9741,
+          "raw": "[00:09:18]",
+          "seconds": 558
+        }
+      ]
+    },
+    {
+      "end": 10282,
+      "excerpt": "How do you make decisions? Maybe you could give one example and kind of walk through your thought process on how you made the decision to make an investment. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10124,
+      "timestamps": []
+    },
+    {
+      "end": 10478,
+      "excerpt": "[00:09:47] Ian Rountree: Yeah. It's always evolving. If you're not learning, you're dead, you know. So it is different today. And I'll describe that because I think it's, it's a bit more useful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 10284,
+      "timestamps": [
+        {
+          "offset": 10284,
+          "raw": "[00:09:47]",
+          "seconds": 587
+        }
+      ]
+    },
+    {
+      "end": 10794,
+      "excerpt": "If we zoom out in terms of economics in business building and investing in those businesses, you have to think of businesses at their core as organizations whose purpose is to produce returns above their cost of capital or that new technology allows you to have network economies, network effects in your business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10480,
+      "timestamps": []
+    },
+    {
+      "end": 11350,
+      "excerpt": "And once that flywheel spins, it's very hard for a competitor to catch up. So that's why technology is important. But it's only important to the extent it gives you an ability to produce returns above your cost of capital and defend that over time. So I've seen this maybe most electrically in a portfolio company of ours called Solugen, which is using synthetic biology to produce enzymes that are making hydrogen peroxide and a couple other chemicals, soon many more chemicals from plant waste, from corn syrup essentially, that we make from oil today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10796,
+      "timestamps": []
+    },
+    {
+      "end": 11684,
+      "excerpt": "Now, they can make those chemicals at a lower cost than the petrochemical plants can. Not to mention they're also bio based, but you know, let's pretend that's beside the point again going back to the economic value equation. They can make those chemicals in a miniaturized bioreactor that could fit in, you know, a small warehouse.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11352,
+      "timestamps": []
+    },
+    {
+      "end": 12092,
+      "excerpt": "Whereas their competitors, the petrochemical plants, are these 100 to 500 million dollar facilities, and so this miniaturization allows them to have a more disparate production base, thus lowering their logistics costs. And that technology is not only better at the unit basis, but it enables a new distribution model that the incumbents can't compete with just because they can't miniaturize their plants.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11686,
+      "timestamps": []
+    },
+    {
+      "end": 12540,
+      "excerpt": "And so that technology that creates a new business model makes them doubly valuable. And those are the types of \"deep tech\" or frontier tech startups that I'm most interested in. Is not just the technology or technology sake, but technology allows a new business model, or perhaps it creates some network effects that make that company much more valuable in the long run, because investors are willing to pay a lot more for that type of business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12094,
+      "timestamps": []
+    },
+    {
+      "end": 12777,
+      "excerpt": "[00:12:13] Gopi Rangan: So decarbonizing the chemical industry, that's a big mission. That's a very bold mission. How do you evaluate an opportunity like this? Like, what stage do you meet companies like Solugen? What do you look for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12542,
+      "timestamps": [
+        {
+          "offset": 12542,
+          "raw": "[00:12:13]",
+          "seconds": 733
+        }
+      ]
+    },
+    {
+      "end": 13359,
+      "excerpt": "[00:12:26] Ian Rountree: Oh, as early as possible, because I think if you're playing the early stage game appropriately it is in large part probabilistic. The reality of venture returns across time is that the vast majority of the returns are produced by a very small percentage of the companies. That is the power law of venture capital returns. But I learned this viscerally because in my angel portfolio of 11 companies going back to 2012, now 8 years later, seven of those companies are dead, two have continued to raise funding and are kind of moving along at maybe 2X or 3X.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 12779,
+      "timestamps": [
+        {
+          "offset": 12779,
+          "raw": "[00:12:26]",
+          "seconds": 746
+        }
+      ]
+    },
+    {
+      "end": 13647,
+      "excerpt": "The 10th one is sitting about 4X or 5X and about to achieve profitability. And I'm very optimistic about maybe it returns most of the portfolio. The 11th is sitting at close to 100X. It's profitable doing $50 million in revenue and growing two and a half, three times a year every year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13361,
+      "timestamps": []
+    },
+    {
+      "end": 14036,
+      "excerpt": "So it doesn't really matter what the other 10 were. That is across time in the top performing venture capital portfolios, there's some effect that looks like that. The same Kleiner Perkins fund that had Google in it had Segway in it. But no one gives a flip that Segway was in that fund because Google returned 10000X. That's a dramatic example, but that's more or less how it plays out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13649,
+      "timestamps": []
+    },
+    {
+      "end": 15268,
+      "excerpt": "And so you have to embrace that and lean into the risk and instead ask: what happens if everything's right? Can this produce a type of return such that it trivializes every other company in the portfolio? And that is the hard truth of venture capital returns because it means at times an entrepreneur might know that a venture capitalist doesn't maybe care as much about their business as the one that's starting to take off. The good venture capitalists will distribute their time proportionally across the portfolio and that's a covenant between the investor and the entrepreneur that has to be settled on and I very much believe in, but the reality is that the returns are going to be produced by very small subset of the companies. And so I look for the potential upside, which is where is their technology that is ideally itself proprietary, but not necessarily because the proprietary technology hopefully enables that new business model or enables network effects that makes that company defensible over time, or as Hamilton Helmer puts it, has power that sustains that value over time and is operating in a market big enough that value is wildly disproportionate to the average cost of the investment across the portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "And so you have to embrace that and lean into the risk and instead ask",
+      "start": 14038,
+      "timestamps": []
+    },
+    {
+      "end": 15388,
+      "excerpt": "The goal being that that single, each single company could potentially return one and a half times the fund at least. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15270,
+      "timestamps": []
+    },
+    {
+      "end": 15852,
+      "excerpt": "[00:15:08] Gopi Rangan: So when you meet say a hundred companies, you pick a subset of them to invest in. Like, let's say you pick okay one and a half percent. So let's say you meet 500 companies and you choose to invest in 5 to 10 companies. Among the 10 companies, you expect one of them to really make it and compensate for any losses in the other nine of them. But all the 500 of them look quite similar, at least the top 100 of them will look quite similar.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15390,
+      "timestamps": [
+        {
+          "offset": 15390,
+          "raw": "[00:15:08]",
+          "seconds": 908
+        }
+      ]
+    },
+    {
+      "end": 15964,
+      "excerpt": "And even the top 10 that you choose to invest in look quite similar. How do you choose the 10 out of the 500? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15854,
+      "timestamps": []
+    },
+    {
+      "end": 16172,
+      "excerpt": "[00:15:45] Ian Rountree: Yeah, and again, I should point out that it's not TAM as it exists today. You have to think what the addressable market is going to be that might even be created by this technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 15966,
+      "timestamps": [
+        {
+          "offset": 15966,
+          "raw": "[00:15:45]",
+          "seconds": 945
+        }
+      ]
+    },
+    {
+      "end": 17025,
+      "excerpt": "The TAM today might be zero, as it is for let's say quantum computing, but you have to project that forward. And so it's the future revenue opportunity times defensibility, which is driven by the technology. And so I'll diligence the technology. But I also have to believe that the team is capable of building that future of executing on that vision. And if they have the most mind blowing proprietary technology I've ever seen and the market's huge, but I get the sense that the entrepreneur is not going to be able to hire, fundraise and sell, then it's effectively dead in the water. This is where venture capitalists will tell you it's all about the team. It's all about the team after you've answered those first couple of questions on market size and eventual defensibility. That's a nuance that is, the art of venture capital is reading people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16174,
+      "timestamps": []
+    },
+    {
+      "end": 17355,
+      "excerpt": "[00:16:43] Gopi Rangan: So I hear a few things here all need to culminate. The first thing is of course, defensible technology, something proprietary. And the second thing is the future projection of the market. And you look for a large market where this product or solution can be viable and large future market, future market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17027,
+      "timestamps": [
+        {
+          "offset": 17027,
+          "raw": "[00:16:43]",
+          "seconds": 1003
+        }
+      ]
+    },
+    {
+      "end": 17664,
+      "excerpt": "It may not exist today. Like quantum computing is a good example. People aren't buying quantum computers today, but you project that sometime in the future, there will be a huge demand. And then once you check these two, then you go to the third one, which is what a lot of people talk about, which is team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17357,
+      "timestamps": []
+    },
+    {
+      "end": 17829,
+      "excerpt": "Can this team execute and build a business? It's a combination of art and science. Has your thought process evolved in the past few years, ever since you started? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17666,
+      "timestamps": []
+    },
+    {
+      "end": 17895,
+      "excerpt": "[00:17:31] Ian Rountree: You betcha. I, um, there's maybe a lot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 17831,
+      "timestamps": [
+        {
+          "offset": 17831,
+          "raw": "[00:17:31]",
+          "seconds": 1051
+        }
+      ]
+    },
+    {
+      "end": 18033,
+      "excerpt": "[00:17:34] Gopi Rangan: I've made a lot of mistakes. Like I, if I look back my own time in the past 10 years, I learned a lot from that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17897,
+      "timestamps": [
+        {
+          "offset": 17897,
+          "raw": "[00:17:34]",
+          "seconds": 1054
+        }
+      ]
+    },
+    {
+      "end": 18305,
+      "excerpt": "And I'm very thankful to the entrepreneurs that work with me. They were very patient. I'm glad that I have great relationships with all of them, but I'm always curious to learn how your thought process and other investors like me, who have been in the game for a while. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18035,
+      "timestamps": []
+    },
+    {
+      "end": 18748,
+      "excerpt": "[00:17:53] Ian Rountree: Some of what I'm articulating actually came from a process of asking why I made certain investments maybe I shouldn't have or why I didn't make some I should have. The errors of commission that is the companies I invested in that have struggled are largely attributable to my miss read of the team's execution ability. That often correlates to whether or not it's their first time running a business, but not always.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 18307,
+      "timestamps": [
+        {
+          "offset": 18307,
+          "raw": "[00:17:53]",
+          "seconds": 1073
+        }
+      ]
+    },
+    {
+      "end": 18926,
+      "excerpt": "That is only corollary. And the data will tell you that second time entrepreneurs values are about higher proportional to their performance. And so it's more or less priced in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18750,
+      "timestamps": []
+    },
+    {
+      "end": 20307,
+      "excerpt": "It's very much true that you make a lot of mistakes the first time around. Just as I have through my investing career, entrepreneurs are running their first business. They're going to make mistakes that entrepreneurs running their second business might not, assuming they have a propensity to learn. There's plenty of people who repeat mistakes and we try and avoid those. Those are easier to see. A first-time entrepreneur is a little bit harder to judge. So I think you have to do that by assessing their thought processes, how they reason their business from first principles, how they set objectives, what key results they're looking for, how they manage their team and how they press on hard questions, how they admit failures and seek to correct those. I think a lot of that kind of strategic thinking and team building is distilled nicely through a finance lens and Ray Dalio's principles book which I'd highly recommend to founders. But then once i've maybe learned to correct for some of those errors of commission in venture capital going back to the power law often your bigger mistakes are the errors of omission which ones did you not invest in. And some of those for me are depression inducing. I mean, there's just something that I completely missed. And if I look to the attribution of those errors of omission of mine, they're almost always due to sticker shock.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18928,
+      "timestamps": []
+    },
+    {
+      "end": 20915,
+      "excerpt": "There was some valuation even at the seed round that I thought was crazy, but I thought it was crazy relative to my fixed perception of what a seed stage valuation should be. Not to the potential upside of the business. That's where I started asking this question of how can I better project the potential for a business early on such that I can flex the valuation I'm willing to pay when I see something really special rather than just drawing an arbitrary line valuation wise and say I'm not going to invest in anything over that. Because look, if you had invested in Shopify at the IPO, you'd be up 50X.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20309,
+      "timestamps": []
+    },
+    {
+      "end": 21218,
+      "excerpt": "And that's better than most venture capital returns, but you would have bought 0. 001 percent of the company or whatever, and you would have gotten crap from your LPs or other investors for not having enough ownership. Ownership doesn't really matter. It's just a proxy. It's something we can control.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20917,
+      "timestamps": []
+    },
+    {
+      "end": 21386,
+      "excerpt": "And so people tend to fixate on it. So I'm trying to control a bit more for how big can the company be, which goes back to this value equals TAM times defensibility. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21220,
+      "timestamps": []
+    },
+    {
+      "end": 21389,
+      "excerpt": " ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21388,
+      "timestamps": []
+    },
+    {
+      "end": 21609,
+      "excerpt": "[00:20:52] Gopi Rangan: And that's the difficult part about venture capital. On one side, you have fear of missing out, but you don't want to have a herd mentality where you follow everybody else in the same direction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21391,
+      "timestamps": [
+        {
+          "offset": 21391,
+          "raw": "[00:20:52]",
+          "seconds": 1252
+        }
+      ]
+    },
+    {
+      "end": 21774,
+      "excerpt": "[00:21:02] Ian Rountree: Absolutely. Yeah. Going back to Howard Morgan's matrix of Consensus, Non-consensus, Right, Wrong, you want to be right and non-consensus. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 21611,
+      "timestamps": [
+        {
+          "offset": 21611,
+          "raw": "[00:21:02]",
+          "seconds": 1262
+        }
+      ]
+    },
+    {
+      "end": 21991,
+      "excerpt": "[00:21:11] Gopi Rangan: Well, we've covered a lot of territory today. I think if we keep talking, we'll uncover a lot more things. There's so much happening, and there's so many interesting topics for us to discuss.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21776,
+      "timestamps": [
+        {
+          "offset": 21776,
+          "raw": "[00:21:11]",
+          "seconds": 1271
+        }
+      ]
+    },
+    {
+      "end": 22027,
+      "excerpt": "This has been fun for me as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21993,
+      "timestamps": []
+    },
+    {
+      "end": 22133,
+      "excerpt": "[00:21:23] Ian Rountree: Absolutely. Yeah, you distilled it. That's, that's the playbook. I can retire. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 22029,
+      "timestamps": [
+        {
+          "offset": 22029,
+          "raw": "[00:21:23]",
+          "seconds": 1283
+        }
+      ]
+    },
+    {
+      "end": 22293,
+      "excerpt": "[00:21:29] Gopi Rangan: Yeah, that's your formula. And I bet that next time we talk, your formula has refined. And I see that evolution in your story as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22135,
+      "timestamps": [
+        {
+          "offset": 22135,
+          "raw": "[00:21:29]",
+          "seconds": 1289
+        }
+      ]
+    },
+    {
+      "end": 22328,
+      "excerpt": "I ask about community leadership.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22295,
+      "timestamps": []
+    },
+    {
+      "end": 22433,
+      "excerpt": "What is an activity that you're passionate about; a nonprofit organization or some community activity? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22330,
+      "timestamps": []
+    },
+    {
+      "end": 22756,
+      "excerpt": "[00:21:45] Ian Rountree: One of the most multiplicative value creators on the nonprofit side that I've been exposed to, and I have a heck of a lot to learn, this is not my job, I should caveat, it's just an interest of mine, is legal aid. Low-income people, families, communities don't have access to civil legal defense.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ian Rountree",
+      "start": 22435,
+      "timestamps": [
+        {
+          "offset": 22435,
+          "raw": "[00:21:45]",
+          "seconds": 1305
+        }
+      ]
+    },
+    {
+      "end": 23153,
+      "excerpt": "Our laws provide a public defender for criminal offenses, but they do not for civil offenses, right? So if you're being evicted or there is a divorce case or a child custody case, if you're poor, you're S. O. L. because we don't provide you with a defender in those cases. There's some data that I'd love to see more of that implies the return to those communities of legal aid is about 21 to 1.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22758,
+      "timestamps": []
+    },
+    {
+      "end": 23447,
+      "excerpt": "So for 1 put into legal aid, you get 21 created in that community or for that family. That is extremely compelling to me and it's leveraged further because I believe in using these non profits to solve political holes and prove maybe to our regulators that that should be a public initiative.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23155,
+      "timestamps": []
+    },
+    {
+      "end": 23793,
+      "excerpt": "So it's already 21 to one, but if we can show maybe in one community, and there's a nonprofit called Open Door Legal down in Bayview here in San Francisco that works on this. And if we could prove that it works there, maybe then state legislatures and the Congress eventually pass civil defense as they do public defenders for criminal defense.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23449,
+      "timestamps": []
+    },
+    {
+      "end": 24041,
+      "excerpt": "And you've got a far more multiplicative effort. That's the type of thing that really interests me. And I want to learn more about it. If people know more about that, I'll talk to them. Open Door Legal in Bayview is one that I've kept my eye on. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23795,
+      "timestamps": []
+    },
+    {
+      "end": 24134,
+      "excerpt": "[00:23:38] Gopi Rangan: All right, this is great, Ian. Thank you so much for spending time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24043,
+      "timestamps": [
+        {
+          "offset": 24043,
+          "raw": "[00:23:38]",
+          "seconds": 1418
+        }
+      ]
+    },
+    {
+      "end": 24299,
+      "excerpt": "I've really enjoyed this discussion. I think we could have gone for at least another hour and geek out on so many different topics, technology and venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24136,
+      "timestamps": []
+    },
+    {
+      "end": 24629,
+      "excerpt": "Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24301,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "09809a17fd3eeda76b1c48735fd96cc9180b39c1414756f848851695f261c403",
+  "text_sha256": "249eedf60588b2e6d64bdc94930e9e21a40c006c391b391315d7fdc5e3c8194d"
+}

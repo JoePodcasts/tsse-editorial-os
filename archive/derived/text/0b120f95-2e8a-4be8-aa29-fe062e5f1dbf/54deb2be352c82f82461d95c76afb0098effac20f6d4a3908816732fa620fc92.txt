@@ -1,0 +1,152 @@
+And then reality checked. Once they went public, you had analysts that went like, oh, I've been covering insurance for 252 years. This is bullshit. Your combined ratio, this is, by the way, how we measure insurance, right? How much money you are freaking losing to this loss ratio. This, the combined ratio is for the insurance companies, the carriers, and on the expenses and how much money they're losing. So you want it to be below a hundred. - Gilad Shai
+
+[00:00:39] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Gilad Shai. He's a managing director at BMI Capital International.
+
+[00:01:13] We're gonna talk to him about the behind the scenes of the startup world, how transactions get done, how funding gets done, how acquisitions get done, what are trends that are interesting, and we're gonna talk about podcasts as well. Gilad is a avid podcast listener and maker, so we're gonna talk to him about his experience starting with that.
+
+[00:01:33] Gilad, welcome to The Sure Shot Entrepreneur. Let's start with the podcast. The Insurtech Talk podcast.
+
+[00:01:39] Gilad Shai: Yeah, it's InsurTech Talk. Well, InsurTech LA started many, many, many moons ago when I was still with the Farmers insurance. Once I got into Farmers I was like, oh, wow. I can't believe that this is how insurance operates, and said, "yeah, this is my kind of ahead us in enterprise world until I will launch my next startup." But no one knows about insurance. We need to have co-conspirators in the space. So I launched a meetup. That's how in InsurTech LA started 10 people, 12 people, 50 people, 12 people again.
+
+[00:02:15] Gopi Rangan: When was this?
+
+[00:02:16] Gilad Shai: So that was 2015.
+
+[00:02:19] Gopi Rangan: Okay. It was early in the days of in InsurTech.
+
+[00:02:21] Gilad Shai: Oh yeah. It's kind of at the same time. Lemonade just launched kind of a thing.
+
+[00:02:26] Gopi Rangan: That's right. Yeah. Sequoia invested in Lemonade around that time. 2015.
+
+[00:02:31] Gilad Shai: Yeah, they were the pebble, more of a rock uh, that was thrown into the lake and created all the ripples that kind of launched things up and disturbed everything. But actually answering the question so we used to do once a month, once every two months meeting, usually fireside chats in the different locations in Santa Monica, LA. We try to figure out the location, the cool venue and everything. It's a challenge. Unlike San Francisco and the Bay La quite a challenge. It's all about density and traffic. People can walk or drive and sometimes five miles can take you two hours. So COVID hits. From in-person meetings, it's like, how do we keep having conversations, bringing the community together and podcast it is. And that's how we started Insurtech LA also hosting the InsurTech Talk podcast.
+
+[00:03:26] Gopi Rangan: It's been almost 10 years now. The InsurTech community has grown a lot. There are, it has large conferences and lots of venture capital funding, hundreds of InsurTech startups and many VC firms as well that focus on insurance.
+
+[00:03:42] Gilad Shai: Well, it fluctuated. 2022 was the highlight of VCs. If you can find a VC that managed to find fresh LPs in 2023 or close a fund, you go on tap him on the back and go, "wow! Well done bud."
+
+[00:04:00] Since 2023, raising a VC fund, second, even third fund have forget emerging managers. That's very impressive. Very impressive. And with that, that's also impacted in InsurTech and FinTech. FinTech is the big Brother. InsurTech is still big industry. However, the InsurTech itself is still try to find it's footing and without the capital players and many VCs, right? I think that entrepreneurs, especially the early stage entrepreneurs or first time entrepreneurs, don't understand that VCs their fiduciary responsibility is not for their entrepreneurs, not for the portfolio companies, it's for the LPs.
+
+[00:04:43] And with that, it really depends on the LP and their mandate. It's a little bit tricky and you need to understand who you face and what's their pain point. And in the past few years, most of my conversation with VCs, it's been helping their portfolio companies. I don't want to call it liquidation event, but let's see if we give a little bit of love to our investors. Maybe secondaries, maybe something else, help us to look good.
+
+[00:05:11] Gopi Rangan: DPI is important Cash on cash returns.
+
+[00:05:15] Gilad Shai: Yes.
+
+[00:05:16] Gopi Rangan: The ecosystem has evolved a lot. How was it? How would you describe the early days, like 10 years ago when you started in InsurTech LA and the in InsurTech Talk podcast around that time?
+
+[00:05:26] Gilad Shai: The podcast started much later COVID. So like six years now maybe? Everything is a mesh nowadays. It changed tremendously. We've seen a few waves in terms of the industry, the sector and the maturity of the investors, the buyers, the insurance companies, the carriers, et cetera, and the type of investors. So if earlier we touch about, oh, we have the vc, we have the CVCs, all kinds of institutions, those who invested out of balance sheet and needless to say, those from dedicated funds. Now even within the VCs you had those who are actually experts in insurance and among them you had one LP that would be an insurance company. Later on we see others that have a few insurance companies and LPs, and there will be also LPs in other specialized funds. But over the time things matured. At the beginning, it's like if it moves, it breeds insurance. Let's throw money at it without really understanding what and how. Again, the majority start.
+
+[00:06:36] So you had a few trends in terms of the startups and the result, the type of capital that help them. " How are we going to do aggregation?" It's like, okay, cool, the zebras of the world or what was it ever quote that we're running our, and basically it's like if you put in a dollar, hopefully Google will be cheap enough and enough SEO so we can get $1.02 back and you know, that will be kind of the business model always running after more capital debt or equity. But you had a lot of leads.
+
+[00:07:11] Then you have those who wanted a little bit more of the money off the risk, or basically becoming agents so they can take the commission, so they need to be licensed. And then you add those that we talked about, Lemonade, Hippo, et cetera, where like, "oh. We are here to disrupt. We are here to take out the intermediary. No more agents, no more brokers." Which need us to say that in the past few years, everyone is like, "I am empowering the agents. I'm all about the agents. I have AI, especially for the agents" because you realize quickly that it's super hard to sell insurance. It's like or that you must have it or that you don't think that you need it because, well, you know, irrational thinking. As individuals, we dunno how to assess risk in the proper way. If we knew, eh, we all be, I dunno, rich or at least content.
+
+[00:08:11] So things change. We saw at the beginning, let's disrupt, then let's empower. Today we almost circle back, but more mature investments into platforms and infrastructure. So going back to the risk taking.
+
+[00:08:30] And as a result we also say the, VC is kind of stepping back. You don't have too much later stages. They will now, there are a few more programs who are dealing with the early stage, couple of them that are trying to do all kinds of flaps for the MGAs, MGA means basically, it's a super agent that can actually write his own programs, his own insurance products. And then they have a few levels of that. The more you go up the chain of how much risk you take yourself, and by risk I'm talking about well insurance policy on, let's say a house, well, will the house burn down? It's like that's the risk. If you think about it, it's a one-sided contract. This is why so many regulation, but then you can think about it's a one-sided contract of a bond against your house, right? It burns. Great. You get the money, it doesn't burn. Yeah, you keep paying the premium. And from there we can go to ILSs (insurance-linked securities). And this is basically how at the end of the day you the retail investor investing in insurance or invests on his own insurance policy.
+
+[00:09:39] Gopi Rangan: I'm going to try and synthesize what I've learned in the past few minutes of your answers. During the past like 10 plus years of the evolution of the InsurTech ecosystem, we went from anything in insurance gets funded because it's such a cool topic and everybody wants to jump in. So some startups even tried to replicate what worked in the e-commerce world or other sectors and just did it in the insurance industry and that was good enough. But over time the sector matured.
+
+[00:10:10] Gilad Shai: Mm-hmm.
+
+[00:10:10] Gopi Rangan: More good players came in, more good founders. Yep. Came in more good seasoned investors came in and they started investing in companies that became quite successful. A lot of IPOs came out of the ecosystem as well. And now we're getting to a point where we're looking at the infrastructure, platform companies that are changing how the infrastructure should be built for the future of the insurance industry. Very seasoned entrepreneurs are looking at the insurance space seriously. There's many different types of insurance focused investors early stage investors, corporate investors, growth stage investors, institutional large VC firms that invest in Seed and series A stage.
+
+[00:10:50] There are so many different types of investors that have also entered the ecosystem. Would you say we have reached peak or would you say it's still early days of InsurTech?
+
+[00:11:02] Gilad Shai: Great question. There is no straight answer because we had a few picks, so kind of hinted about the waves or different flavors. The industry matures, the investments, the entrepreneurs as well. And like everything else, there is new innovation, new opportunities every day. You just need to recognize them and it's not easy to find, especially if you are coming from the outside. Like myself at the beginning it was like, yeah, you know, I finished my time at Yahoo. I was part-time CTO to a few cool startups. Eh, I knew I'm leaving New York, moving somewhere. We ended up in LA 'cause my wife finished her PhD and then we didn't know where she's going to be a professor at. So we landed Los Angeles and so coming from startups, enterprise engineer, manager, CTO, you know, I'm a hammer, so everything is a nail, which is the wrong approach because you also need to understand that insurance, and we keep talking about insurance, but there are so many, so many other cool industries out there.
+
+[00:12:10] There is so much behind it. So, so much, and every day I still, 11 years in this industry, still learning new things or things that I forgot that I'm relearning again. What most of us are exposed to is the retailer. As a person I need insurance for my home, for my car, maybe different insurance to cover risk for my business. No broker actually understand what the hell the best startup is and software and dealing with that. And then they give you a questionnaire, oh man, if I just solve this problem or here is an ai, all my podcasts recently, sadly I started to say. Let's talk in a few months because if you are yet another AI company, sorry, I had so many AI companies, let's wait for a while. I'll bring other speakers that we're not going to talk about AI.
+
+[00:13:05] Gopi Rangan: See, on one side, the industry has nearly no innovation, no r and d invested so far.
+
+[00:13:13] Gilad Shai: It's the different type. So kind of when you are coming in as an entrepreneur who wants to change the industry, you need to understand the industry itself. And this is why sometimes truly, although it's interview agents and brokers or adjusters or other folks underwriters, uh, all kinds of different folks who are not just I'm the founder or I'm the GP of, because those are the people moving the they part of the beast.
+
+[00:13:43] They are the cogs, they are the whatever that the gear shift. They make the beast move. The beast, the machine, whatever. And because we are not really exposed especially when you're coming from outside the Insurtech and you have this, oh yeah, I spent, I dunno 10 years in meta, five years in at X or SpaceX. And it's like you always think that you are the stupidest person or everyone is smarter than you in my case, it was true, and then you go to other industry and go like, I can run laps around these guys. It's like mediocricy at best. And they've no really motivation to do anything, which is a lie.
+
+[00:14:25] It's an illusion. They have a lot of motivation, but it's not the motivation that you are familiar with. And the same thing is the innovation and the r and d and the product that they launch.
+
+[00:14:36] When I joined Farmers, it kind of struck me, I was talking to an executive from Zurich. Zurich Insurance is like the owner of Farmers Insurance Management while they, the exchange is in part of the combination of the structure of how it worked. And I was like coming in with tech and the startup attitude. It's like, yeah, you know, we're going to run and every two weeks we're going to do Z and we're going to release part of the product here and do that.
+
+[00:15:01] And it is like, why are you trying to push all these changes? 'Cause back then, the reason I was hired is let's have website, let's have mobile application, all the different things. Like yeah, sure, no problem. Then you realize that it is a problem because you cannot connect to a mainframe. Creating the UI is it's nonsense. The backend, that's the challenge, especially when they shut it down over the weekend. Most of the people don't have time for insurance during the week.
+
+[00:15:27] The only time that they have will be during the weekend unless they're pulled over and they need to show proof of insurance. Then you meet another hurdle. You need to submit it, to file it with the different regulators. Each state has a different regulator, so 50 and it costs money, so it's already an expense. Let me finish the Zurich story, blah, blah, blah. Why the hell are you trying to push products? And I was like, for me, it was like, if I'm not going to introduce some sort of a change, my competitor will introduce a change and then another competitor. We are a $28 billion company or 22. I don't remember. It's fluctuated. Aren't we supposed to be competitive and take care of our users and what they want, otherwise they will move to our competitors?
+
+[00:16:14] The executive was like, no, no, no. No need to make change. If it's there is a risk that it may break something because your client doesn't know that a change is coming, so why would you want to send him a change if you didn't truly make sure that the change is needed or something like that? Some sort of a philosophy that make a change once a year at best, and make sure that you have a hold of QA going through it.
+
+[00:16:42] You're like, yeah, that's not going to move the needle anywhere.
+
+[00:16:47] But that was the approach back then. Today, when you think about innovation and insurance. It's new product, new coverage for different risks. Today, most of the things that we look at are still kind of superficial. They're not touching the insurance itself, right?
+
+[00:17:04] They're touching how do we process data? How can we automate things? Most of the conversation I mentioned earlier about ai, right? It's like, is it ai? Is it robotic processing? Just you know, there are things that are super simple. Then there are things that are a little bit too complex. So, and I'll give you yet another example.
+
+[00:17:29] In one day I will allow you to ask me another question. So I left Farmers to Launch Bound. Bound was the first embedded insurance API. It was a platform. They are, you know, let us deal with different dockets, whatever. We know how to deal with the different insurance companies on one side, on the other side with the affiliates, the agents that want to have real time aPI driven, iframe driven, whatever driven, putting binding capabilities. Now, needless to say, it was 2017 or 18? Because I knew many, many, many carriers, decision makers in the industry, it was easy to start rolling the ball. And I remember that one of my failures there as a CEO founder and the technical at that time, was that I tried to boil the ocean.
+
+[00:18:25] It's a full feature platform, and that was only the MVP with all the different connections and the mapping and then the relationship. And one of the features was risk appetite. Different insurance companies want to disseminate to the different brokers. This is our risk appetite. This is what we want. If you are going to write us some sort of a business outside of this risk appetite, don't send it to us. We don't want it. This is what we want. This is less what we want. You know, from one to five. They used to send it as PDFs. Excel sheets or just an email with a list of like hundreds of different, Nike Source, SAD code so it could, you know, 6, 5, 4, 5, 6 different code for the different industries.
+
+[00:19:13] For me, it was like a small feature just to filter. So if you asking for a quote, it'll bring you the right carrier and you'll represent that. There was a startup by the name of as Kodiak based from Boston, that was the entire startup let us process and as simulate the risk appetite.
+
+[00:19:34] That's it. They built it I think two or three years later. They exited a small amount, but it, there was a nice exit. There was a success.
+
+[00:19:43] Gopi Rangan: What's your advice to founders today building an InsurTech solution, an InsurTech business? How should they think about, uh, building a business that can be successful? Like the top two or three pieces of advice?
+
+[00:19:56] Gilad Shai: Understand the business, understand the industry. Make sure that the numbers make sense. It's almost like everything else. The complexity when it comes to insurance, finance. Pick something else that is highly regulated, that there is much more underneath at the surface that you need to understand and how it's going to be impacted.
+
+[00:20:16] Gopi Rangan: How can they do that? How can they better understand?
+
+[00:20:18] Gilad Shai: They need to bring an insider o r to interview or to bring an insider that understand the solution. The biggest challenge, do you have the need, right? And the other thing is like, if it's pure technology, can it work in other industries?
+
+[00:20:33] Insurance is big. However, most of it, if you are focusing on the carriers, insurance companies, it's an enterprise sell. You need to understand that it's going to be a very, very, very long procurement process if at all, right? Too many fall into the POC and the pilot trap, and they do that and they never manage to surface because they don't have the river guide.
+
+[00:20:57] They don't understand that inside a company there are a bunch of individuals, some of them will be or champions, and they have no cloth. Others will see and say, "oh my God, this is amazing. However, I don't have the political capital that I want to invest in it, but now I'm getting a little bit too much into how do you sell to big companies?
+
+[00:21:18] You can decide that you go, you do A B2B, so instead of B two E. B2B go for the different agencies. It's a larger number, however, and the decision making is quicker. However, they don't have that much money, and these guys are, let me sell, sell, sell, sell insurance. And then you can be a little bit more sophisticated. Go up the chain, look at the different reinsurers, or in between them MGAs. Then we kind of talked about ILSs and one of the latest startup frauds that was what, like two years ago, maybe three years ago that were like "We are creating capacity for insurance. We end connecting it to ILSs and adding the liquidity." And there were a couple of shady. Things still under investigations as far as I know.
+
+[00:22:07] So like any other industry, you need to understand the small nuances and the context of it. And remember that if it's software, everything is AI and everything is disrupted by AI, and yeah.
+
+[00:22:26] Gopi Rangan: Insurance is a complicated world. Like you said, almost everybody has some kind of insurance product. Nobody buys Nvidia chips or those kind of like higher the complicated infrastructure solutions on a consumer basis. But most people have insurance products, so there's a chance that people think that yeah, I know what insurance is. But that experience that people have is only at the top layer, the tip of the iceberg. But behind the scenes, there's so much that goes on in making the product and serving the product and managing data behind the scenes, and that's far more complicated for entrepreneurs to understand.
+
+[00:23:05] How do you see the m and a market and how you see the IPO market shaping up? In the first seven, eight years of InsurTech from 2015 to, let's say, the early 2020 21, around the time a bunch of companies went IPO and many of them flopped.
+
+[00:23:24] Yeah. And the, some of them that are still in the public market, they're coming back, but it's not been a blockbuster success yet. They continue to grow and partly because of macro changes, 2021/2022, the hype cycle, the zero interest rate world ended. So a lot of things changed. But since then, the IPO market has dried up for many sectors and certainly including insurance in InsurTech. How do you see the next, let's say five years? Do you see the InsurTech wave coming back with more IPOs and more unicorns?
+
+[00:23:59] Gilad Shai: First of all, it's a great question. Let's start with IPOs. So, insurance IPOs, they were wrong. One did a spec merger. A few went out to the market. The biggest challenge, they were misvalued. The multiples were based on software because that's how the founders of most of the companies, except from one that were a little bit more mature, kind of positioned themselves and then reality checked. Once they went public. You had analysts that went like, oh, I've been covering insurance for 252 years. This is bullshit. Your combined ratio, this is by the way, how we measure insurance, right? How much money you are losing to this loss ratio. This, the combined ratio is for the insurance companies, the carriers, and on the expenses and how much money they're losing. So you want it to be below a hundred. If it's above a hundred, you are losing so and so dollars on every cent. And most of them lost $5 on every dollar that they made. And as a result, the public market reacted accordingly. So they lost 90% of the value. Later on, a few of them managed to recover. I had one of them that I had a personal investment that I saw like, oh, finally they have something that showing a improvement. They're now just losing $4 on a dollar instead of $5 on a dollar. So hopefully the stock will start going up and they will only lose $2 on a dollar. And that was a good personal investment. But that's on the IPO, so a few of them hit the pause button. Uh, I think a company by the name of Kin if memory serves me right. There are all kinds of interesting structures there. Actually, Kin is one of the more interesting be in terms of how they operate in their insurance and the reciprocal and all the stuff. That's something that is very interesting. I always find in terms of the small nuances of how you play with the money and capacity in the insurance industry.
+
+[00:26:14] But going back to this, IPOs, great money public boom burst, starting to recover like a normal company. And now there is a question of the m and a. M and A is super active all the time in insurance. Most of the insurance growth comes from buying other companies if it's new products or getting into a new territory. That's for insurance companies. Same goes for the big brokers. So you have Brown and Brown, U SI, all the different ones, big names. You'll have the Aon, gallagher, you have all kinds. So the multi-billion ones they buy, they want vertical integration, horizontal integration, new products, that kind of thing.
+
+[00:27:00] And then you have the small brokers and small agencies right up to a hundred million in gross written premium. So they will keep between 10 to 15% at best. Most of the time what they will do, they will buy more and more local agencies. Simple as that. If it's a good agency or a brokerage, depends on what they're looking for. If they have a good book of business: book of business mean how many policies, how many clients we serve, what is the potential upsell cross sale? Is is the risk and the assets, and let's call them the assets under management, although it's not an asset under management, is it a good risk for me to hold?
+
+[00:27:40] If you are somewhere in a dodgy neighborhood and you are selling coinsurance for the majority are DUI, eh, that's a bad risk. Why? Because you don't want claims. A good risk is less claims as possible, many premiums as possible. This is where kind of the quality of the book of business comes into action.
+
+[00:28:01] So I tried to cover in my weekly report the m and a, and then I saw that I can go into so many details and I was like, okay, first of all, we'll move the m and a report on to once a month. This is something that I do outside of BMI kind of a, I do a weekly report on investments, PE and vc, and then like a monthly report on m and a: who is buying who and why?
+
+[00:28:25] The biggest question is the context. Why, why are they buying them? What, what's the point? Who is the competition? What's the bottom line you hold? M and a will just grow.
+
+[00:28:32] Gopi Rangan: The m and a side of things is, mm-hmm, it is active, but not as active as I would've expected because there are so many cash rich buyers, many large insurance companies that need access to new solutions, innovative ideas that exist in the startup world.
+
+[00:28:52] And there are now hundreds of startups building many creative solutions for the industry. But the, a side of the market is still not as. Thriving as I would've expected it to be.
+
+[00:29:05] Gilad Shai: In that case. Let me sharpen my answer here, because m and a very, very, very active all the time. It's super active. Even under the previous administration, which was kind of a anti MNA, anti IPO kind of attitude, that was the vibe, right?
+
+[00:29:24] And I'm sure that in the Valley you felt that very strongly. Or if you're listening to the All In podcast, most definitely. In insurance, it's super active when buying other insurance companies or agencies. However, when it comes to startups, and that's what I feel, that's your question about the exits of startups. It's a completely different ballgame. That's the challenge because most of them, especially those who started at the beginning, reached the purgatory of startups. They're stuck. They are kind of a zombie because they're like, yeah, we raised a pre-seed, a seed maybe. Now we have 2 million, maybe 5 million.
+
+[00:30:07] Well, actually if they have 5 million, I have a buyer for them. But anyone below 5 million. Software, right? Not insurance, no risk taking or intermediary. If they're just software below 5 million, they are stuck and there is no one who will buy them because who will buy them?
+
+[00:30:26] The insurance companies who are not going to buy them, it's outside of their DNA. Insurance companies buying other insurance companies sometimes they will do some sort of an acquisition and they kind of serves the bigger ecosystem and they benefit of it.
+
+[00:30:40] It's not a good fit for an insurance company to buy a technology company. Another technology company to buy technology company. Yes. One of my own portfolio companies where like, it's like another company wanted to buy them and sadly, they paid the advancement and then their share price drop by 30% and it was off. But you know, it's part of life.
+
+[00:31:05] Gopi Rangan: I'm excited to see how the next phase evolves. There are many new startups that got funded in the past five years since the financial crisis and everything mm-hmm. Is back to normal. There are a lot of companies, insurance startups, InsurTech startups, maturing, both insurance companies that build products and also software companies that build infrastructure.
+
+[00:31:27] We're coming towards the end of our conversation and I wanna ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?
+
+[00:31:37] Gilad Shai: Great question. There is one, which it's the Gift of Life, which sadly I'm not involved as much or almost at all. And that's basically bone marrow. They do a simple test and they test if there is a cancer patient that you are a good match and they have facilities in Florida and they will make sure take out the the donation and basically implant it in the cancer patient the bone marrow implant or I'm not really sure what's the right jargon in that one.
+
+[00:32:13] Gopi Rangan: Gilad, thank you very much for spending time with me. Thank you for sharing insightful nuggets on what's happening in the industry and your pioneering work, I would say in the in InsurTech sector, especially when you started in InsurTech LA in 2016, and you started a podcast as well a few years later.
+
+[00:32:31] I look forward to sharing your nuggets of wisdom with the world.
+
+[00:32:35] Gilad Shai: Thank you. Gopi. It was a pleasure.
+
+[00:32:39] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.
+
+[00:32:51] Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.
+

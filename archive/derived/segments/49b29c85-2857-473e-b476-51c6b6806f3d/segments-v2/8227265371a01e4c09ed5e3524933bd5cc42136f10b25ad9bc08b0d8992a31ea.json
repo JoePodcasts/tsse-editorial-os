@@ -1,0 +1,787 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 461,
+      "excerpt": "Well, we've had this moment post COVID, post the unfortunate killing of George Floyd, Breonna Taylor. And now Jacob Blake and his incident, we've had this enlightenment period. It seems just based on the conversations that I have had, there is a willingness to address what I have known and others have known has been going on for decades, centuries, but decades within venture capital, which is just to have an opportunity to compete on the same playing field.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 719,
+      "excerpt": "[00:00:34] Gopi Rangan: you are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 463,
+      "timestamps": [
+        {
+          "offset": 463,
+          "raw": "[00:00:34]",
+          "seconds": 34
+        }
+      ]
+    },
+    {
+      "end": 1337,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. Our guest for this episode is Lo Toney, founding managing partner of Plexo Capital, which incubated and spun out from GV, previously Google Ventures. Plexo Capital is a hybrid venture capital firm based in the Silicon Valley, investing both in emerging venture capital funds and in early stage startups. Prior to founding Plexo Capital, Lo was a partner on the investing team at GV and a partner with Comcast Ventures. In this episode Lo and I talk about behind the scenes in venture capital. Limited partners are investors in venture capital funds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 721,
+      "timestamps": []
+    },
+    {
+      "end": 1668,
+      "excerpt": "How do limited partners behave? What do they look for, and what is Plexo Capital doing differently? We talk about an important topic in venture capital, which is diversity. What can we do to change the status quo? How can we encourage new and different types of venture capital firms and entrepreneurs to come into the ecosystem?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1339,
+      "timestamps": []
+    },
+    {
+      "end": 2048,
+      "excerpt": "Lo specifically talks about the flywheel effects of his work at Plexo Capital starting at the top. He gives examples based on his experience investing in 20 different venture capital firms, five of them he spun out from GV to start Plexo Capital. Welcome to The Sure Shot Entrepreneur, Lo. Tell us about yourself, starting with where you were born and where you went to college.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1670,
+      "timestamps": []
+    },
+    {
+      "end": 2558,
+      "excerpt": "[00:02:27] Lo Toney: Well, first, thanks so much for having me. Super excited to do this. I'll talk a little bit about myself. I was born in Oakland and went to Hampton University, a historically black college in Virginia. Came back to the Bay to go to graduate school at Cal. And worked in operating roles at companies such as eBay, Nike, Zynga, and then was able to make the transition into venture capital initially with Comcast Ventures and then was recruited over to Google Ventures now rebranded as GV.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 2050,
+      "timestamps": [
+        {
+          "offset": 2050,
+          "raw": "[00:02:27]",
+          "seconds": 147
+        }
+      ]
+    },
+    {
+      "end": 3270,
+      "excerpt": "And while I was at GV, I saw a lot of interesting things. GV is an amazing place to see venture capital in action because of the access to the deal flow, super high quality, some great brand names, but also an amazing partnership that really opened my eyes to thinking about venture a different way. One of the interesting things is that there was an initiative to get access to more deal flow by investing as an LP, as a limited partner, the investors into venture funds. So GV wanted access to more deal flow and invested as an LP into seed stage venture funds led by black GPs. Did five of those, it gave us great access to deals and I thought that could be scaled up. That was the genesis of Plexo Capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2560,
+      "timestamps": []
+    },
+    {
+      "end": 3630,
+      "excerpt": "So I was able to incubate that at GV for a year and a half and spun out in March of 2018. And as your opening indicated, we are a little different in that we invest both as an LP. Again, in the seed stage funds, I expanded it from black GPs to also include other people of color and females. And then we source our deal flow from the portfolios of those GPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3272,
+      "timestamps": []
+    },
+    {
+      "end": 3875,
+      "excerpt": "[00:04:19] Gopi Rangan: That's a very interesting model. But before we go into more of those details, I'm really curious, how did you get into venture capital? Did you always want to be a VC or is this something accidental? What was the path? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3632,
+      "timestamps": [
+        {
+          "offset": 3632,
+          "raw": "[00:04:19]",
+          "seconds": 259
+        }
+      ]
+    },
+    {
+      "end": 4053,
+      "excerpt": "[00:04:32] Lo Toney: The path for me was once I was able to get into Cal, we were fortunate that there were a lot of VCs and entrepreneurs that were coming through the program.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 3877,
+      "timestamps": [
+        {
+          "offset": 3877,
+          "raw": "[00:04:32]",
+          "seconds": 272
+        }
+      ]
+    },
+    {
+      "end": 4422,
+      "excerpt": "And I had not had that much exposure to venture capital; understood what it was, but just had never had an opportunity to interact with a number of VCs. I actually wanted to go into investment banking and I'll date myself. But at the time, the big investment banks that were taking tech companies public were Hambrick and Quist and Robertson Stevenson, so Alex Brown.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4055,
+      "timestamps": []
+    },
+    {
+      "end": 4800,
+      "excerpt": "So those were some of the bigger name firms. And that's what I wanted to do. But then once I got exposed to a lot of the VCs that came through, I was able to really get another look or a different lens into the creation of companies and value. And I actually, maybe it's partially because of my background, but I got more excited about the earlier stages than the later stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4424,
+      "timestamps": []
+    },
+    {
+      "end": 4940,
+      "excerpt": "I thought it was really interesting to have an opportunity to work with super smart entrepreneurs that were basically shaping the future. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4802,
+      "timestamps": []
+    },
+    {
+      "end": 5114,
+      "excerpt": "[00:05:45] Gopi Rangan: What's the one thing that you really, really like about venture capital? And what's the one thing that you really don't like about venture capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4942,
+      "timestamps": [
+        {
+          "offset": 4942,
+          "raw": "[00:05:45]",
+          "seconds": 345
+        }
+      ]
+    },
+    {
+      "end": 5822,
+      "excerpt": "[00:05:51] Lo Toney: Well, the thing that I like is what I alluded to before, which is the ability to work with super smart people passionate about what their goal or mission is around their company, the problem they're solving, the market opportunity. Those things are really interesting. To see an entrepreneur in action and actually watch as they dream becomes true, they are able to scale their company, provide great leadership, hire amazing people, get to the product/market fit stage, and then raise the additional financing and ultimately realize liquidity event. I mean, those are some of the things that make it super exciting to be able to provide that capital and support for the entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 5116,
+      "timestamps": [
+        {
+          "offset": 5116,
+          "raw": "[00:05:51]",
+          "seconds": 351
+        }
+      ]
+    },
+    {
+      "end": 6409,
+      "excerpt": "So that's the part that I like a lot. The part that I don't like is simple. We see a lot of great entrepreneurs. We see a lot of great GPs as well. The hardest part of the job is saying no, because there are just so many great opportunities, so many passionate people. But at the end of the day, we need to remain disciplined in our approach and the criteria that we use to make our selection and evaluation, so that we can provide the returns to our limited partners in a way that we've told them that we would. We need to remain focused on our strategy and not drift away very much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5824,
+      "timestamps": []
+    },
+    {
+      "end": 6778,
+      "excerpt": "[00:07:11] Gopi Rangan: Yeah, that's always challenging for me too. It's really hard to say no. There are a lot of good opportunities, but even when I say no, it's sometimes lands on a really good entrepreneur with a great idea. And I just can't fit into everything that I do. But often what I've seen is the no answer goes to well deserving people for wrong reasons.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6411,
+      "timestamps": [
+        {
+          "offset": 6411,
+          "raw": "[00:07:11]",
+          "seconds": 431
+        }
+      ]
+    },
+    {
+      "end": 7113,
+      "excerpt": "Maybe because they didn't know the right people or they didn't have the same kind of background and they didn't play in the same golf club. Yeah. There's the affinity part that really separates good entrepreneurs from getting funding. And that feeds into a lot of the important topic that you address quite often, which is diversity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6780,
+      "timestamps": []
+    },
+    {
+      "end": 7146,
+      "excerpt": "What can we do to change that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7115,
+      "timestamps": []
+    },
+    {
+      "end": 8489,
+      "excerpt": "[00:07:50] Lo Toney: Well, I think we've had this moment post COVID, post the unfortunate killing of George Floyd, Breonna Taylor, and now Jacob Blake and his incident. We've had this enlightenment period. It seems just based on the conversations that I have had with a number of my colleagues that are not black in the venture capital industry, and this has been shared with, with some of the other folks that I'm close with as well, just the number of conversations that have happened where it feels different this time, it feels like there is a, a willingness to address what I have known and others have known has been going on for decades, centuries, but decades within venture capital, which is just to have a, an opportunity to compete on the same playing field. So I think right now we're seeing good indications that people are willing to take meetings, are seeking out deals from entrepreneurs that are black or of color and even trying to identify ways to recruit talent into the larger firms that have historically, based on the numbers, struggled to be able to have diversity within their ranks. So I will say it feels like we've lost a little bit of momentum. But I did see some progress and I do want to recognize that progress. But hopefully that will translate to more dollars going to the black entrepreneurs in particular.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 7148,
+      "timestamps": [
+        {
+          "offset": 7148,
+          "raw": "[00:07:50]",
+          "seconds": 470
+        }
+      ]
+    },
+    {
+      "end": 8885,
+      "excerpt": "[00:09:24] Gopi Rangan: The numbers are just abysmal. The number of startups with female founders is 15, 17%. The number of partners at venture capital funds who have the check writing capacity, That's very, very low. It's in the single digit percentage. Number of, black VCs, number of Latinx VCs, number of black and Latinx entrepreneurs who are CEOs, all of these numbers are so bad, so low.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8491,
+      "timestamps": [
+        {
+          "offset": 8491,
+          "raw": "[00:09:24]",
+          "seconds": 564
+        }
+      ]
+    },
+    {
+      "end": 9019,
+      "excerpt": "And it's been that way for quite a while. And what gives you hope that now that enlightment period is happening and it's different? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8887,
+      "timestamps": []
+    },
+    {
+      "end": 9709,
+      "excerpt": "[00:09:59] Lo Toney: Well, our approach has always been to to really focus at the top and work from the top of the capital stack all the way down. And what I mean by that is to really look at the limited partners that are making the investments into the general partners, the people that lead the venture capital funds, because what we know is that when there is a diverse set of investors around the table, what the data shows us is that there ends up being diversity in those portfolios. And so it's really important to be able to get capital into the hands of black GPs, LatinX GPs, because that will have an effect of providing capital to black entrepreneurs and LatinX entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 9021,
+      "timestamps": [
+        {
+          "offset": 9021,
+          "raw": "[00:09:59]",
+          "seconds": 599
+        }
+      ]
+    },
+    {
+      "end": 10053,
+      "excerpt": "And this is somewhat based off of networks. So when we look at the networks that people have, in particular, the insight at Google Ventures (GV) was that black GPs have this indirect path into venture and end up with really different networks than typical VCs. There's overlap. Black GPs have a lot of the same relationships as non Black GPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9711,
+      "timestamps": []
+    },
+    {
+      "end": 10356,
+      "excerpt": "But there's also a different aspect to the network. And that typically includes more black entrepreneurs, more latinx entrepreneurs. And so if we can start at the limited partner level and get capital into the hands of diverse GPs, then we'll be able to increase diversity just based on those numbers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10055,
+      "timestamps": []
+    },
+    {
+      "end": 10721,
+      "excerpt": "And I think one of the challenges is that the larger institutional LPs have pretty strict and defined set of criteria that often has the effect of excluding a lot of GPs that are black, Latinx, even female GPs. The ability to have a track record for seven to eight years with true attribution from a prior firm or a lot of LPs that are at the institutional level.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10358,
+      "timestamps": []
+    },
+    {
+      "end": 11167,
+      "excerpt": "And when I speak about institutional LPs, I mean the public pension funds, the endowments of the larger universities, the large foundations, and the big fund of funds. Those institutions typically are looking for long track records. They're looking for fund 2, or beyond they're looking for multiple GPs, not solo GPs, they're looking for larger funds so that a large check can be written that will not end up being a high percentage of a fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10723,
+      "timestamps": []
+    },
+    {
+      "end": 11511,
+      "excerpt": "And so taking all those things into account, sometimes it's tough for black GPs, Latinx females to be able to kind of hit that bar. So I think part of the challenge is just kind of thinking differently about how to select a GP and then, for us, how to provide support for those GPs that have demonstrated their ability to be a great investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11169,
+      "timestamps": []
+    },
+    {
+      "end": 11861,
+      "excerpt": "But then how do we support them to make the transition to being a great fund manager that is capable of being institutional grade and then meeting the criteria of those institutional LPs? Cause if we can do that, then we can get more capital to those GPs and then those GPs will end up funding entrepreneurs that are diverse, black, Latinx, female.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11513,
+      "timestamps": []
+    },
+    {
+      "end": 12530,
+      "excerpt": "And then once liquidity events happen, the founders will go down the path for wealth generation. Data also shows us that these founders that are diverse hire diverse teams, especially at the senior level. Those senior level folks will then have the financial backstop to be able to do something like start a company or write angel checks. T hat helps the ecosystem and then capital will be returned to the GPS from a liquidity event. And then those GPS begin to go down the wealth creation path. Those GPs pass capital back to their LPs at the top of the stack. And the LPs say, \"wow, this is great. Let's do it again. And let's double down this time or triple down.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11863,
+      "timestamps": []
+    },
+    {
+      "end": 12692,
+      "excerpt": "And so that's the impact that we want to see happen is that flywheel effect of starting at the top: LPs to GPs to the entrepreneurs, and then rinse and repeat. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12532,
+      "timestamps": []
+    },
+    {
+      "end": 12927,
+      "excerpt": "[00:14:23] Gopi Rangan: You're taking a very long term view here. We all know that entrepreneurs tend to be the most creative and innovative people, but creativity kind of declines as you go up the chain to VCs and eventually to LPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12694,
+      "timestamps": [
+        {
+          "offset": 12694,
+          "raw": "[00:14:23]",
+          "seconds": 863
+        }
+      ]
+    },
+    {
+      "end": 13288,
+      "excerpt": "LPs tend to be the least creative and they use the same ways that they've been doing business for years and decades. You are targeting that space, and you want to trickle down from the top, and I see that. Can you give examples of maybe one or two VCs and even startups; how you engage with them, what you look for in them, and how is your approach different?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12929,
+      "timestamps": []
+    },
+    {
+      "end": 13610,
+      "excerpt": "[00:14:55] Lo Toney: Yes. So we have 20 LP commitments that we've made, and five of those came from Google Ventures, from the program that we had there. Once I spun out with Plexo Capital in March of 2018, as part of my deal, I brought those five commitments with me, the capital accounts and Alphabet anchored our fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 13290,
+      "timestamps": [
+        {
+          "offset": 13290,
+          "raw": "[00:14:55]",
+          "seconds": 895
+        }
+      ]
+    },
+    {
+      "end": 13908,
+      "excerpt": "Alphabet is the holding company of Google as well as Google Ventures (GV). So one of the GPs I identified and brought in for those original GV5, as we call them. And that was Precursor Ventures led by Charles Hudson. So Charles is absolutely amazing. He has an excellent background, track record.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13612,
+      "timestamps": []
+    },
+    {
+      "end": 14278,
+      "excerpt": "He was a partner with Jeff Clavier and Stephanie at SoftTech, now rebranded to Uncork. So he brought the, the credibility, the track record. Charles has also been an entrepreneur and worked for large companies as well. So he also brings the operator experience and an understanding of product, which is perfect because Precursor Ventures focuses at the pre-seed stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13910,
+      "timestamps": []
+    },
+    {
+      "end": 14702,
+      "excerpt": "So we have a seat on the LPAC (Limited Partner Advisory Committee) for Precursor. In some sense, it's like an advanced board of advisors or like a mini board of directors. Charles really doesn't need a lot of help. He's been able to build an amazing franchise, has hired a great team. But where we do help with Charles is just he likes to ask questions around his strategy, give feedback and we can provide feedback there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14280,
+      "timestamps": []
+    },
+    {
+      "end": 15071,
+      "excerpt": "Obviously we provide capital. That's very important. And just talking about his desire to build a franchise that's going to last. So I think in some sense, I offer just feedback and advice, very similar to how someone on the board would behave. Not trying to be too prescriptive, not rolling up my sleeves and kind of hopping in and diving into the details with them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14704,
+      "timestamps": []
+    },
+    {
+      "end": 15389,
+      "excerpt": "Just more of kind of taking a step back and being able to ask questions that allow him to either refine his thinking around topics that have already been contemplated on his end, or bring up new questions that allow him to have a different vector of perspective into an issue to maybe think about it a different way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15073,
+      "timestamps": []
+    },
+    {
+      "end": 15761,
+      "excerpt": "So that's one way that we help our GPs. Another way that we help them, and I referenced this a little bit earlier, is that that notion around moving from being a great investor to a great fund manager. And that actually is a big jump depending on the past of a GP, maybe they were at a large firm, but did not need to participate in the fundraising process, for example.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15391,
+      "timestamps": []
+    },
+    {
+      "end": 17065,
+      "excerpt": "So understanding how to run a fundraise process, how to have a go-to-market strategy around taking the concept of a fund to present to institutional investors; who are the institutional investors that could be most attracted to the type of fund; who are the institutional investors that may not invest in fund one, but the relationships need to be established now so that they can be prepared to present to those investors at fund two, as opposed to waiting to fund two and then having to wait until fund three to actually be an attractive opportunity for those LPs; how to negotiate a limited partner agreement, the document that contractually binds a limited partner or an investor into venture funds, how to think about the different levers and knobs that can be used to negotiate something that's favorable and balanced on both sides; how to provide the right communication to the LPs after the fund has been closed. The investor relations piece is really important. And one of the things that we've learned is kind of all those things, all those elements of a successful fund manager to allow them to be considered institutional grade. What's interesting because in talking with a lot of LPs, anecdotally, what we've learned is that it's rare that an LP will churn out a GP because of performance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15763,
+      "timestamps": []
+    },
+    {
+      "end": 17374,
+      "excerpt": "That does happen as well, but actually what ends up happening quite often is the LP churning out a GP because they were not prepared to be institutional grade to have the right ability to respond to the LPs questions, drifting away from strategy. So those are the things that are actually important as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17067,
+      "timestamps": []
+    },
+    {
+      "end": 17622,
+      "excerpt": "We try to really help GPs make that transition. And in fact, we feel it's so important that we're now working on a program that I've been labeling as YC for GPs, to kind of help make that transition from a great investor to a great fund manager. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17376,
+      "timestamps": []
+    },
+    {
+      "end": 17709,
+      "excerpt": "[00:19:52] Gopi Rangan: Oh, that'd be great. YC4 GPs is exactly what the world needs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17624,
+      "timestamps": [
+        {
+          "offset": 17624,
+          "raw": "[00:19:52]",
+          "seconds": 1192
+        }
+      ]
+    },
+    {
+      "end": 18023,
+      "excerpt": "The LP world tends to be, it's limited partners. So their engagement with GPs tend to be quite limited compared to how a VC interacts with an entrepreneur. It's a lot more involved. There's a lot more active engagement between the VC and the GP, VC and the entrepreneur, and that's not the case with LPs and GPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17711,
+      "timestamps": []
+    },
+    {
+      "end": 18363,
+      "excerpt": "And I think that will make a big difference if seasoned LPs can coach general partners and new VCs on how to build a firm. I've really enjoyed working with Charles Hudson, and we've co invested on a handful of opportunities in the past. When you, you described how you work with a VC firm, do you also make direct investments in startups?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18025,
+      "timestamps": []
+    },
+    {
+      "end": 18533,
+      "excerpt": "And you, do you, you mentioned earlier that you usually look for those opportunities through the venture funds portfolio. Is that how you usually source opportunities? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18365,
+      "timestamps": []
+    },
+    {
+      "end": 18783,
+      "excerpt": "[00:20:42] Lo Toney: That's how we source the majority of our opportunities. And the strategy is we have amazing GPs building great franchises. Really focusing on looking at tens of thousands of companies and narrowing that down to their portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 18535,
+      "timestamps": [
+        {
+          "offset": 18535,
+          "raw": "[00:20:42]",
+          "seconds": 1242
+        }
+      ]
+    },
+    {
+      "end": 19151,
+      "excerpt": "So in essence, they've curated the best that they've seen. And then we have an opportunity to work closely with our GPs and we're, we're knowledgeable about which companies are doing well, which companies could benefit from a relationship with Plexo capital. And also which companies might be able to benefit from relationships with some of the LPs of Plexo Capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18785,
+      "timestamps": []
+    },
+    {
+      "end": 19534,
+      "excerpt": "Especially since a lot of our LPs also invest downstream, in addition to to Alphabet, where we work closely with, with GB still, we have Intel Capital, Cisco Investments, the World Bank of Canada, Kapor Capital as LPs. So all of those institutions or entities are also looking forward for great deal flow. So that's, that's one thing that we look for and where we try to add value.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19153,
+      "timestamps": []
+    },
+    {
+      "end": 19898,
+      "excerpt": "I think. When I look at myself, obviously, since I started on the GP side, I still get a lot of deal flow. And what I'll do is I'll identify which of the Plexo Capital GPs are best suited to, to evaluate the opportunity that might be interested and I'll pass it along there. Typically we're investing after Plexo Capital is investing after our GPs have invested.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19536,
+      "timestamps": []
+    },
+    {
+      "end": 20276,
+      "excerpt": "And that means that we might end up investing in the same round as they do, or sometimes our GPs are smaller funds. And so we might be investing at around this later where they're not following on. Or sometimes we might get a deal that will come through and then to Plexo Capital, we like the deal and then we'll invest alongside at the same point of entry for one of our GPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19900,
+      "timestamps": []
+    },
+    {
+      "end": 20426,
+      "excerpt": "So that's, that's kind of how we, think about it. I mentioned that we have 20 LP commitments and we have an active portfolio of about 17 companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20278,
+      "timestamps": []
+    },
+    {
+      "end": 20588,
+      "excerpt": "[00:22:54] Gopi Rangan: You're active in many different ways. You're directly involved with the VC firms and also you're fielding all these startup discussions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20428,
+      "timestamps": [
+        {
+          "offset": 20428,
+          "raw": "[00:22:54]",
+          "seconds": 1374
+        }
+      ]
+    },
+    {
+      "end": 20627,
+      "excerpt": "That's a lot to handle for one firm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20590,
+      "timestamps": []
+    },
+    {
+      "end": 20963,
+      "excerpt": "[00:23:03] Lo Toney: Yeah. Especially for the majority of fund one, it was just me. How did you do that? It was, it was pretty nuts. We're fortunate to have a team now. I mean, look, I think of myself more as an entrepreneur. I'm flexing way more entrepreneurial muscle than at least the VC muscle that I used when I was at GV, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 20629,
+      "timestamps": [
+        {
+          "offset": 20629,
+          "raw": "[00:23:03]",
+          "seconds": 1383
+        }
+      ]
+    },
+    {
+      "end": 21996,
+      "excerpt": "GV is a large, established firm. The sole LP is Alphabet, right? It has a GP/LP structure, but the sole LP is alphabet. There is an extensive back office team, legal, administrative. There's operating partners. So the GPs have the ability to really focus on, investing and providing the best advice for the companies in the portfolio. For myself and most of the Plexo Capital GPs, for most emerging managers in general that are investing out of sub hundred million dollar funds - fund 1's or fund 2's - we're entrepreneurs. We're building a company the same way that our entrepreneurs that we invest into build companies. In fact, I think that's one of the elements that might differentiate a lot of these emerging managers is the ability to have empathy across the table from the entrepreneur for what they're going through, because we're facing a lot of the same challenges. We have to go out and fundraise. We have to build teams. We have ups and downs and everyone thinks that the world of venture capital is a great lifestyle.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20965,
+      "timestamps": []
+    },
+    {
+      "end": 22326,
+      "excerpt": "I think that might be the case once someone builds a firm and is able to have multiple billions of dollars in AUM. But look, even those folks, they still hustle. They just hustle in a different way. And the way that we hustle in the emerging manager space, is we have to hustle to do all those things, source deals, raise money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21998,
+      "timestamps": []
+    },
+    {
+      "end": 22502,
+      "excerpt": "But we also have to hustle in the sense that we're building a firm. Hopefully we're building a franchise that's built to last beyond ourselves. And that takes a lot of work. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22328,
+      "timestamps": []
+    },
+    {
+      "end": 22751,
+      "excerpt": "[00:25:09] Gopi Rangan: There's no doubt you're an entrepreneur yourself while you're building Plexo Capital. What can entrepreneurs do to make it easy for you to understand what they do and make a decision on whether to make an investment or not?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22504,
+      "timestamps": [
+        {
+          "offset": 22504,
+          "raw": "[00:25:09]",
+          "seconds": 1509
+        }
+      ]
+    },
+    {
+      "end": 23094,
+      "excerpt": "[00:25:22] Lo Toney: So the way that we think about the world is very similar to how I got my start in venture capital. I was told at an early stage in my career, if I wanted to work in venture capital, go be a product manager and a CEO, ultimately. The reason being is that a product manager has to really understand the market opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 22753,
+      "timestamps": [
+        {
+          "offset": 22753,
+          "raw": "[00:25:22]",
+          "seconds": 1522
+        }
+      ]
+    },
+    {
+      "end": 23499,
+      "excerpt": "What's the problem that needs to be solved? How is that solving that problem going to lead to a differentiated product or service relative to the other methods that a customer could use to solve that problem? How to make money, how to sell, how to position - all those things come together in a playbook for product management. And the product manager is kind of like the mini CEO in a lot of instances.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23096,
+      "timestamps": []
+    },
+    {
+      "end": 24222,
+      "excerpt": "That same playbook, I argue, is very similar to early-stage venture capital. In the absence of a lot of data, it's really important at the early stage, even later, to really have that similar mindset that a product manager uses to evaluate opportunities. So that's the same playbook that we use here and yeah, I think what we also look for is we like to see the what's the moral compass of the entrepreneur? Is the entrepreneur a leader? Are they going to be able to assemble a great team to be able to execute on the product itself? So those are the things that we like to think about. We focus in on the areas that, where we have expertise, we focus in on what our investors in the Plexo Capital are also interested in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23501,
+      "timestamps": []
+    },
+    {
+      "end": 24517,
+      "excerpt": "And it means that we typically are going after on the GP side, we're looking at generalists that focus on enterprise marketplaces and a little bit of tech-enabled consumer. And the other thing that we're very interested in is kind of this power law distributions of returns at the early stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24224,
+      "timestamps": []
+    },
+    {
+      "end": 24836,
+      "excerpt": "So we've spent a lot of time just thinking about where the best returns happen to be able to support our model. Because with our model, we do have this additional layer of fees, but with the power law distribution of returns happening at the pre-seed, seed, and smaller series A's, those are the GPs that we focus on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24519,
+      "timestamps": []
+    },
+    {
+      "end": 25276,
+      "excerpt": "What we've done is we've constructed a portfolio construction model. It kind of brings the best of the insights and the networks that come from a diverse set of GPs with the distribution of returns that are available at the early stage. And we really try to focus on going after GPs that either lead deals or have the ability to select deals from other geographies, such that we minimize the overlap in the underlying portfolio companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24838,
+      "timestamps": []
+    },
+    {
+      "end": 25966,
+      "excerpt": "And that lets us cast as wide a net as we possibly can to be able to capture as many of these outliers as possible so we can deliver our returns. And again, it's also a way for us to be able to identify great companies that we can invest into directly. So we've kind of got this combination of, you can almost think of it as investors in Plexo Capital are getting this basket of early stage venture without having to make the decisions on, well, which manager should I select? So they're able to get a basket of the best of early stage venture capital in addition to some exposure directly to some of the best companies that we're surfacing and identifying from our portfolios of our GPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25278,
+      "timestamps": []
+    },
+    {
+      "end": 26810,
+      "excerpt": "And then, oh, by the way, we're also surfacing those to our limited partners of Plexo Capital that like to invest directly. So we feel it's an interesting model. It's definitely geared towards financial returns. That said, an important by product of our model is what we talked about earlier, which is this ability to help with the diversification of the entire ecosystem. So that piece is something that's super important to me. I'm very passionate about it. And I could not be more blessed to have the ability to kind of do something that I enjoy doing that gives me a nice employment. I like it in terms of what it does for me mentally, the stimulation of working with smart GPs and smart entrepreneurs. And it gets to address something that's very important to me, which is increasing the diversity and inclusion of the startup ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25968,
+      "timestamps": []
+    },
+    {
+      "end": 27246,
+      "excerpt": "[00:30:11] Gopi Rangan: You are truly innovating in the venture capital world, which has been waiting for new energy and new type of thinking. So you're bringing all of that and the focus on diversity is absolutely important and necessary. I'm so happy that we've had a chance to talk. You covered a lot of territory starting from when you were born in Oakland and how you went to Hampton University and came back to Berkeley for MBA.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26812,
+      "timestamps": [
+        {
+          "offset": 26812,
+          "raw": "[00:30:11]",
+          "seconds": 1811
+        }
+      ]
+    },
+    {
+      "end": 27604,
+      "excerpt": "And how you built your career in venture capital; you incubated the program at GV before spinning it out and turning it into Plexo Capital. You gave specific examples with Charles Hudson and other startups that you've invested in. Now I want to ask you about your community leadership activities. Is there a nonprofit organization you are passionate about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27248,
+      "timestamps": []
+    },
+    {
+      "end": 28006,
+      "excerpt": "[00:30:56] Lo Toney: Well, so my passion is around hampton University and HBCUs in general, historically black colleges and universities in general. So I went to Hampton and one of the things that I believe is really important is the ability to continue the legacy of our HBCUs. The HBCUs are probably no more than, HBCU grads represent no more than 10 percent of probably all black collegiate grads.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 27606,
+      "timestamps": [
+        {
+          "offset": 27606,
+          "raw": "[00:30:56]",
+          "seconds": 1856
+        }
+      ]
+    },
+    {
+      "end": 28652,
+      "excerpt": "But when one looks at the leadership positions, that's where the numbers really start to jump out. When you look at the, I think probably a quarter of all the black. GPs went to HBCUs, probably 40 percent of attorneys, I think half of state and local judges went to HBCUs. I think it's 25 to 30 percent of PhDs went to HBCUs. So the HBCUs play an important part in developing black leaders. And when one looks at the size of the endowments, they're microscopic compared to the larger endowments of some of the Ivy league schools. Yale has a $30 billion endowment. At Hampton University, our endowment is probably just under $300 million, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28008,
+      "timestamps": []
+    },
+    {
+      "end": 28994,
+      "excerpt": "So that's a significant difference. And I always say that an institution like Yale, you know, obviously it's a great institution with $30 billion. I mean, literally they could never have another donation and have just mediocre performance on the endowment. And that institution is still going to live in perpetuity or until the end of time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28654,
+      "timestamps": []
+    },
+    {
+      "end": 29885,
+      "excerpt": "And that's not necessarily the case with the HBCUs. So we've been working on some programs with other folks to try and increase the endowment by, you know, trying to identify opportunities for high net worth individuals to make donations to HBCUs, even if they didn't go to them. We're seeing a lot of that happen, especially post George Floyd and Breonna Taylor. And then also trying to work with some of the top tier venture capital firms where the data tells us that their performance persists, those opportunities to be able to invest as a limited partner into those funds, you know, they just don't happen. People are lined up to be able to invest in those funds. So we're trying to identify a way to work with some of these larger funds, such that the ability to get in is unlocked and then see if we can bring together the people that are kind of making these large scale donations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28996,
+      "timestamps": []
+    },
+    {
+      "end": 30203,
+      "excerpt": "So maybe have some of that go to openings in those large venture funds to begin to grow the endowments of the HBCUs. Again, this is a long term game. Some of the short term opportunities that we see are trying to also work with individuals to set up scholarship programs for HBCU students interested in STEM careers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29887,
+      "timestamps": []
+    },
+    {
+      "end": 30561,
+      "excerpt": "And then at some of these venture funds, they're going to unlock or another way that they can help and contribute is with internships at their firms or encouraging their portfolio companies to make internships available for HBCU students as well. So those are some of the things that we're working on and some of the things that I'm super passionate about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30205,
+      "timestamps": []
+    },
+    {
+      "end": 30961,
+      "excerpt": "[00:34:18] Gopi Rangan: Well, this is very interesting. I see the flywheel effect in everything that you get involved in. You want to attack one thing, which leads to many more things and democratize wealth creation and touch people's lives that are usually underserved. So I'm excited that we had a chance to talk today and I hope we can continue these conversations and collaborate in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30563,
+      "timestamps": [
+        {
+          "offset": 30563,
+          "raw": "[00:34:18]",
+          "seconds": 2058
+        }
+      ]
+    },
+    {
+      "end": 31092,
+      "excerpt": "[00:34:39] Lo Toney: Absolutely. Thanks so much for having me on your show and keep up the great work with all the great guests. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Lo Toney",
+      "start": 30963,
+      "timestamps": [
+        {
+          "offset": 30963,
+          "raw": "[00:34:39]",
+          "seconds": 2079
+        }
+      ]
+    },
+    {
+      "end": 31374,
+      "excerpt": "[00:34:45] Gopi Rangan: Thank you very much. I'm looking forward to sharing your wisdom and knowledge with the world. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31094,
+      "timestamps": [
+        {
+          "offset": 31094,
+          "raw": "[00:34:45]",
+          "seconds": 2085
+        }
+      ]
+    },
+    {
+      "end": 31541,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31376,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "8227265371a01e4c09ed5e3524933bd5cc42136f10b25ad9bc08b0d8992a31ea",
+  "text_sha256": "fafe0d7842141e24df2544f6caf155c5060003e557c5eb7ad295059de8749e9a"
+}

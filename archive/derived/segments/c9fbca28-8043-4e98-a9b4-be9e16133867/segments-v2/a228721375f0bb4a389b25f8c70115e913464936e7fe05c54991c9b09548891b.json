@@ -1,0 +1,1143 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 276,
+      "excerpt": "Jason Best: [00:00:00] You can go. You can go to Vegas and put it all on black, on a roulette table and lose it. All that you can't invest in a startup. The rules about investing in the United States were written before most people had a landline telephone in their own house.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 12,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 658,
+      "excerpt": "Gopi Rangan: You are listening to the Sure shot entrepreneur podcast for founders with ambitious ideas, venture capital investors. And other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the short shot entrepreneur today's guest is Jason Best. Jason Best is the managing partner and co-founder of vector FinTech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 278,
+      "timestamps": []
+    },
+    {
+      "end": 971,
+      "excerpt": "He's based in the San Francisco bay area. And he was also previously instrumental in shaping the jobs act. And we're going to talk about that soon [00:01:00] prior to becoming a VC. Jason was an entrepreneur twice and he had two successful healthcare startup exits Jason, welcome to the short shot entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 660,
+      "timestamps": [
+        {
+          "offset": 807,
+          "raw": "[00:01:00]",
+          "seconds": 60
+        }
+      ]
+    },
+    {
+      "end": 1023,
+      "excerpt": "Jason Best: Thank you. It's a pleasure to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 973,
+      "timestamps": []
+    },
+    {
+      "end": 1109,
+      "excerpt": "Gopi Rangan: Tell me about yourself, starting with, how did you come to the Silicon?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1025,
+      "timestamps": []
+    },
+    {
+      "end": 1412,
+      "excerpt": "Jason Best: I came after grad school, I was doing a consulting job on the east coast. I was miserable. I had a bunch of friends who were working in tech, in the bay area, from friends from grad school. And one day they had an intervention with me and said, you need to quit your job and move out here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 1111,
+      "timestamps": []
+    },
+    {
+      "end": 1778,
+      "excerpt": "It's the gold rush to get a job. I did. I packed up my car. I drove across country and never looked back and was able to take my health care experience, which I had been doing prior to moving out to the bay area and applied to healthcare tech companies. But that's the kind of operator, business person experience that I brought to bear in the.com area and beyond.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1414,
+      "timestamps": []
+    },
+    {
+      "end": 1885,
+      "excerpt": "Gopi Rangan: When was that? And how was your [00:02:00] experience in the first few years in the Silicon?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1780,
+      "timestamps": [
+        {
+          "offset": 1825,
+          "raw": "[00:02:00]",
+          "seconds": 120
+        }
+      ]
+    },
+    {
+      "end": 2136,
+      "excerpt": "Jason Best: I arrived April 1st, 1998. I was here for the boom. I was here for the crash. I have all the scars on my back to show for it and learned a lot about the building, the bus cycle. It's been certainly very instructive in the next companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 1887,
+      "timestamps": []
+    },
+    {
+      "end": 2182,
+      "excerpt": "I was a part of and then also in my career. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2138,
+      "timestamps": []
+    },
+    {
+      "end": 2359,
+      "excerpt": "Gopi Rangan: Oh, this is very interesting. Since that time, a lot of things have changed in the Silicon valley. How has your journey evolved? What were some of the highlights?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2184,
+      "timestamps": []
+    },
+    {
+      "end": 2539,
+      "excerpt": "Jason Best: I got really lucky. I joined a small company that was okay. Acquired by shortly after I joined by Jim Clark's company, the founder of Netscape, but called healthy on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 2361,
+      "timestamps": []
+    },
+    {
+      "end": 2860,
+      "excerpt": "And then that merged with web MD and was then when we went, went public and during the.com era, the other kind of operator experience that I had a good outcome with was a company called Kinnser software. Right. Join that a friend of mine was a founder and he asked me to come in and help grow the business and scale it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2541,
+      "timestamps": []
+    },
+    {
+      "end": 3221,
+      "excerpt": "And we were able to [00:03:00] bootstrap it up to a 20 million in ARR, before we sold it to a Georgia state, to a private equity firm. I got our chance to really help on all the growth kind of functions around marketing and tech implementation and UX, UI design, BD, and partnerships. And then after that, that's when I really started working on the jobs act.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2862,
+      "timestamps": [
+        {
+          "offset": 2882,
+          "raw": "[00:03:00]",
+          "seconds": 180
+        }
+      ]
+    },
+    {
+      "end": 3398,
+      "excerpt": "I started out, frankly, as a, just a conversation I had at a friend's house. And turned into a 460 day adventure in legalizing equity and debt crowdfunding, the United States.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3223,
+      "timestamps": []
+    },
+    {
+      "end": 3597,
+      "excerpt": "Gopi Rangan: Tell me about that. Well, how was the world at that time before you started thinking about the jobs act as a legislation, what was the situation at that time for equity, crowd funding?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3400,
+      "timestamps": []
+    },
+    {
+      "end": 3640,
+      "excerpt": "What was prevalent? What was the problem?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3599,
+      "timestamps": []
+    },
+    {
+      "end": 4017,
+      "excerpt": "Jason Best: Equity crowd funding was illegal in the United States because of laws written in the 1930s. Those laws were put there to protect retail investors from what was happening in the 1930s, which is people going literally door to door, selling fake stock certificates, [00:04:00] to unsuspecting people with no understanding of the stock market in the great depression.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 3642,
+      "timestamps": [
+        {
+          "offset": 3917,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 4338,
+      "excerpt": "They put these laws in place that basically said, unless you were really rich, which in the, in the 1930s was Hey out a $1 million net worth fabric. I like billionaire today. You were unable to buy and sell private securities. So that law was the law of gravity at the sec in the United States and never, never changed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4019,
+      "timestamps": []
+    },
+    {
+      "end": 4667,
+      "excerpt": "And it was the impossible thing to change. In January, 2011, when we started working on this kind of concept called regulation crowdfunding, which we had created this frame policy framework for all of the attorneys we spoke with laughed and said, there's no way that's ever going to change the sec because it never has changed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4340,
+      "timestamps": []
+    },
+    {
+      "end": 4991,
+      "excerpt": "And then we went to the sec and we said, here's this great idea for helping to create jobs, innovation and entrepreneurship in the United States that does not cost any extra taxpayer money. And they also said, well, we're not going to make that kind of a change only way we're going to do that as if it an act of Congress.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4669,
+      "timestamps": []
+    },
+    {
+      "end": 5042,
+      "excerpt": "That's what they sent us. And that's what we did.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4993,
+      "timestamps": []
+    },
+    {
+      "end": 5322,
+      "excerpt": "Gopi Rangan: Yeah, the definition of [00:05:00] accredited investor and the numbers that qualify all of those things, haven't really evolved perhaps since 1930s, while the market has evolved and people have become a lot more knowledgeable and there's more access to information.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5044,
+      "timestamps": [
+        {
+          "offset": 5081,
+          "raw": "[00:05:00]",
+          "seconds": 300
+        }
+      ]
+    },
+    {
+      "end": 5493,
+      "excerpt": "People are more aware of how to make investments, but yet in the other side, you can still buy lottery tickets and lose money. There are no regulations to prevent people",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5324,
+      "timestamps": []
+    },
+    {
+      "end": 5663,
+      "excerpt": "Jason Best: from you can go, you can go to Vegas and put it all on black, on a roulette table and lose it. But, but you can't invest in, you couldn't invest in a store.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 5495,
+      "timestamps": []
+    },
+    {
+      "end": 5978,
+      "excerpt": "The rules about investing in the United States were written before most people had a landline telephone in their own house. Our argument was, look, this is live. We're living in the age of Facebook and Twitter, which back in 2011, where new things and social media, we should be able to use those tools to market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5665,
+      "timestamps": []
+    },
+    {
+      "end": 6249,
+      "excerpt": "Our companies provide proper due diligence and disclosure information have limits on the amount of money that retail investors can invest. So they won't lose their life savings and people will do it prudently. And over the last few years, we've definitely seen that. So",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5980,
+      "timestamps": []
+    },
+    {
+      "end": 6357,
+      "excerpt": "Gopi Rangan: I'm sure you faced a lot of [00:06:00] challenges while you were approaching this initiative.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6251,
+      "timestamps": [
+        {
+          "offset": 6292,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 6414,
+      "excerpt": "What were the challenges and how did you overcome them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6359,
+      "timestamps": []
+    },
+    {
+      "end": 6848,
+      "excerpt": "Jason Best: And our close friend of mine from grad school, sherbet niece, we worked on this journey together. And neither of us had any experience with lobbying in Washington, DC, but we were able to find other people along the way, who were willing to invest their time and their energy in helping us to advance this conversation because they believed in the concept and they believed in us on our own dime with no outside support.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 6416,
+      "timestamps": []
+    },
+    {
+      "end": 7213,
+      "excerpt": "We did this ourselves and we lobbied Congress. We testified in front of the house. And Senate five times we won one of the hearings, someone who was a director in the white house office of science technology policy was in the audience, emailed us and asked for a call. We of course thought when we saw the white house on the email, that it was one of our friends.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6850,
+      "timestamps": []
+    },
+    {
+      "end": 7560,
+      "excerpt": "But it wasn't, it was actually a real person. We had the chance to start working closely with the Obama white house on that. When it passed finally, after [00:07:00] 460 days of work, we were in the rose garden of the white house when president Obama signed it into law, but it was an incredible experience of helping the sausage get made in DC.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7215,
+      "timestamps": [
+        {
+          "offset": 7370,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 7931,
+      "excerpt": "That the process wasn't over them because you pass the law, then it goes through the end, see you, then you have to make rules. And the rulemaking took four additional years before it was fully implement. And then still spending some time on this ever since in trying to help advocate for or increasing the amounts of money you can invest in receive from all investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7562,
+      "timestamps": []
+    },
+    {
+      "end": 8254,
+      "excerpt": "Gopi Rangan: So it's been a few years since your work has now manifested into practice and in business, is the impact the way you anticipated when you first started, are startups able to raise money much more easily, or investors able to access opportunities and invest in startups much more easily, the way you expected.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7933,
+      "timestamps": []
+    },
+    {
+      "end": 8615,
+      "excerpt": "Jason Best: So regulation, crowdfunding or equity based crowdfunding did not begin in the United States until the middle of 2016. So just less than five years. And since that time, almost a billion dollars has been invested by [00:08:00] over half a million investors into 4,000 companies. And those companies are in over 1100 cities across the United States.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 8256,
+      "timestamps": [
+        {
+          "offset": 8483,
+          "raw": "[00:08:00]",
+          "seconds": 480
+        }
+      ]
+    },
+    {
+      "end": 9029,
+      "excerpt": "And over 40% of the founding teams of those companies include women and minorities, 40%. That's a very different number than what VC is in there. It it's created tens of thousands of jobs. And because of the recent changes in the amounts of money, you can raise from different types of online investing where I believe we'll see close to 1.5 billion over the next 12 months that are invested through these views.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8617,
+      "timestamps": []
+    },
+    {
+      "end": 9236,
+      "excerpt": "Gopi Rangan: Wow. This is a substantial change in deed. This one act alone has probably brought far more diversity into the venture capital ecosystem compared to maybe decades of work that people have done",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9031,
+      "timestamps": []
+    },
+    {
+      "end": 9355,
+      "excerpt": "Jason Best: the new limits. Everybody should be aware of this because it's important as of the 15th of March of 2021.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 9238,
+      "timestamps": []
+    },
+    {
+      "end": 9746,
+      "excerpt": "Startups and small businesses can now raise up to $5 million from retail investors in a, in a round. It used to be 1 million. Now it's 5 million, so you can raise a proper seed [00:09:00] round online. And then there's another provision of jobs that called regulation, a plus, which allows you to raise a growth round up to $75 million from both a credit dinner, retail investors publicly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9357,
+      "timestamps": [
+        {
+          "offset": 9534,
+          "raw": "[00:09:00]",
+          "seconds": 540
+        }
+      ]
+    },
+    {
+      "end": 10114,
+      "excerpt": "These are massive changes. They will have massive impact over the next five to 10 years. And really opening up the private capital markets, probably one of the most successful. And well-known raises that occurred in the last two weeks. Since the rules changed was Gumroad Satya was able to Gumroad was able to raise $5 million in 24 hours from about 7,000 investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9748,
+      "timestamps": []
+    },
+    {
+      "end": 10121,
+      "excerpt": "Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10116,
+      "timestamps": []
+    },
+    {
+      "end": 10217,
+      "excerpt": "Gopi Rangan: That's a phenomenal event. Indeed. It's a big milestone for the entire committee.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10123,
+      "timestamps": []
+    },
+    {
+      "end": 10343,
+      "excerpt": "Jason Best: Yeah. And we funder just posted 40. Why see companies who are passed through YC, who are now raising crowd from.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 10219,
+      "timestamps": []
+    },
+    {
+      "end": 10516,
+      "excerpt": "Gopi Rangan: Wow. We've come a long way. Since that a conversation you had at the wedding. Yeah. How did you choose to be a VC in the FinTech space and what attracted you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10345,
+      "timestamps": []
+    },
+    {
+      "end": 11072,
+      "excerpt": "Jason Best: So I moved from healthcare to FinTech [00:10:00] with the jobs act. Then we started doing a lot of, I started doing before I got into DC. I started doing a lot of advisory work with governments and regulators around the world. I've worked with where I've worked in over 40 countries around the world with regulators, with government agencies and ministries, uh, with central banks, with FinTech entrepreneurs and financial institutions, really helping to think about how do you create FinTech policy and regulation that achieves three things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 10518,
+      "timestamps": [
+        {
+          "offset": 10568,
+          "raw": "[00:10:00]",
+          "seconds": 600
+        }
+      ]
+    },
+    {
+      "end": 11432,
+      "excerpt": "That achieves job creation, innovation and entrepreneurship, because for many countries, it, the financial laws are what's holding back economic development, but that just got me into this world of financial services, regulation, FinTech. And then I was very lucky because one of my speaking engagements in Hong Kong met my now partners with vector ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11074,
+      "timestamps": []
+    },
+    {
+      "end": 11883,
+      "excerpt": "They were just putting together the vector ventures one fund. This is in 2014 and I was very fortunate in them asking me to join them as a veteran. Helping them to look at FinTech deals for their sector agnostic strategy. That's how it got in. And then because of the performance of the, [00:11:00] our FinTech portfolio in that fund one, we decided it made sense to put a dedicated public capital and a full-time effort behind the FinTech strategy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11434,
+      "timestamps": [
+        {
+          "offset": 11722,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 11936,
+      "excerpt": "And we'd, we'd launched that fund in October, 2019.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11885,
+      "timestamps": []
+    },
+    {
+      "end": 12056,
+      "excerpt": "Gopi Rangan: So what kind of companies do you focus on for your investments? What stage, what sectors do you focus on?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11938,
+      "timestamps": []
+    },
+    {
+      "end": 12295,
+      "excerpt": "Jason Best:  So we look at seed and series a companies. And we look really in three areas, we actually do Mo mostly B2B and B2B to C business models. That's because that's where myself and my other co-manager partner have our experience.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 12058,
+      "timestamps": []
+    },
+    {
+      "end": 12707,
+      "excerpt": "And in three categories, infrastructure, all the backend connectivity, API APIs, rails, and rules. Number two is private capital markets. Think of that really broadly, trying to make the public private markets moving them online. I mean, go fish. It's always annoying when people are still passing around PDFs for printing and signing with the deals we do, how do we make these deals more efficient, effective?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12297,
+      "timestamps": []
+    },
+    {
+      "end": 12838,
+      "excerpt": "And then the third category is AI, blockchain and quantum opportunities [00:12:00] in the financial services and insurance space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12709,
+      "timestamps": [
+        {
+          "offset": 12781,
+          "raw": "[00:12:00]",
+          "seconds": 720
+        }
+      ]
+    },
+    {
+      "end": 13014,
+      "excerpt": "Gopi Rangan: So, can you give me an example of a company you met and how was the conversation? What was the context? What did you ask? What got you excited about the company?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12840,
+      "timestamps": []
+    },
+    {
+      "end": 13485,
+      "excerpt": "Jason Best:  Yeah, there's this one company in our first one that pops to mind is a company called. They're a no code AI platform for financial services and insurance firms. The verticalized AI and trained all their models really to deliver fast value in kind of the time to value is exponentially better than the traditional larger AI providers to things that attracted me or the founders expertise, the depth that the team brought to their experience in data science.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 13016,
+      "timestamps": []
+    },
+    {
+      "end": 13870,
+      "excerpt": "Number two, they had, by the time we invested in them where they were at the series, a, they had been through the ups and downs of the seed stage and they were incredibly resilient and incredibly focused. They took feedback really well. And my job is to provide feedback and their job [00:13:00] is to make the decision and move forward with whatever they think the best decision is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13487,
+      "timestamps": [
+        {
+          "offset": 13772,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 14039,
+      "excerpt": "And then just their ability to achieve the milestones over time that they said they would really, really proud of what they've done and really excited to be a part of.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13872,
+      "timestamps": []
+    },
+    {
+      "end": 14122,
+      "excerpt": "Gopi Rangan: How's the company doing today. Did it play out the way you expected?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14041,
+      "timestamps": []
+    },
+    {
+      "end": 14272,
+      "excerpt": "Jason Best: They're doing great. They had five X net revenue increase over the last 12 months raising a series B and they're hiring incredible team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 14124,
+      "timestamps": []
+    },
+    {
+      "end": 14384,
+      "excerpt": "They really they're really are beginning to scale into that kind of series B level. It's super exciting to see",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14274,
+      "timestamps": []
+    },
+    {
+      "end": 14529,
+      "excerpt": "Gopi Rangan: what I'm hearing is have a plan. Describe it very clearly, execute on the plan and show that things are working and that gets you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14386,
+      "timestamps": []
+    },
+    {
+      "end": 14618,
+      "excerpt": "Jason Best: Yeah, that's right. We look for founder market fit a lot. That's something.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 14531,
+      "timestamps": []
+    },
+    {
+      "end": 14959,
+      "excerpt": "Should we certainly look. And we look at trying to understand how people think about things. We look at the ability to build teams, the ability to think deeply about the problem. I want to learn something about the problem and the market you're in, in our first couple of [00:14:00] meetings. I should not know more about this than you do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14620,
+      "timestamps": [
+        {
+          "offset": 14892,
+          "raw": "[00:14:00]",
+          "seconds": 840
+        }
+      ]
+    },
+    {
+      "end": 15137,
+      "excerpt": "I should, I should be the student in the conversation helping to help out where I help out, but that's really, what's exciting to me is learning something new in every company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14961,
+      "timestamps": []
+    },
+    {
+      "end": 15320,
+      "excerpt": "Gopi Rangan: Roughly, how many companies do you invest in an average year? How frequent do you make these investments? And what's the typical geography that you prefer to invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15139,
+      "timestamps": []
+    },
+    {
+      "end": 15772,
+      "excerpt": "Jason Best:  So we've been around for a year and a half in this, in this current fund. We've made 10 investments, five in north America and five and Asia. Those are our two kind of primary geographies. We've been because of my work in the middle east over the last few years. And my network there. Really spending some time there as well, because of some of the major changes taking place in the region and are super excited about a lot of ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 15322,
+      "timestamps": []
+    },
+    {
+      "end": 16101,
+      "excerpt": "Gopi Rangan: How has COVID changed in the past year? And how has your work changed? You mentioned that you'd like to be the student in the conversation. It has it become an easy for you to be a student or has it become more difficult for [00:15:00] you in certain ways as a student in this conversation with an entrepreneurial.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15774,
+      "timestamps": [
+        {
+          "offset": 16012,
+          "raw": "[00:15:00]",
+          "seconds": 900
+        }
+      ]
+    },
+    {
+      "end": 16560,
+      "excerpt": "Jason Best: I mean, the biggest change with COVID for me has been my passport sits dusty in a drawer, and I'm not traveling nearly as much as I used to. I used to be on the road 60 to 70% of the time was that ability to be out in the world. And face-to-face with people. I miss that a lot and looking forward to some that returning to my life in some form human beings are highly adaptable when, when they need to be, we've all sort of gotten accustomed to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 16103,
+      "timestamps": []
+    },
+    {
+      "end": 16916,
+      "excerpt": "Treating zoom as a real conversation. And there's obviously differences in that. And we all, many of us, I guess I would say we I'll speak for myself, me. I missed the ability to have face to face. And I look forward to getting back to that, but we have not slowed down our meetings. We've continued to invest during COVID and we will continue to invest.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16562,
+      "timestamps": []
+    },
+    {
+      "end": 16948,
+      "excerpt": "It's our LPs, depending on us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16918,
+      "timestamps": []
+    },
+    {
+      "end": 17274,
+      "excerpt": "Gopi Rangan: This business is definitely not relationship focused business. It's really hard to build those relationships when [00:16:00] you're sitting at a desk and your passport is not being used. That's a challenge. I'm curious if the entrepreneurs have adapted and they have changed so that they make it easier for you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16950,
+      "timestamps": [
+        {
+          "offset": 17077,
+          "raw": "[00:16:00]",
+          "seconds": 960
+        }
+      ]
+    },
+    {
+      "end": 17341,
+      "excerpt": "Can you give examples of entrepreneurs that have done well? Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17276,
+      "timestamps": []
+    },
+    {
+      "end": 17738,
+      "excerpt": "Jason Best:  I mean, some of the stuff sounds super basic, but it bears repeating because there a lot of people that don't do the basic things, right. Number one is send me the deck or something in advance of them. The first. It's shocking to me, the number of founders who don't send me anything in advance, probably because you're thinking whatever it is they have is so super soft top secret.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 17343,
+      "timestamps": []
+    },
+    {
+      "end": 18056,
+      "excerpt": "They don't want it to leak onto the world. And the thing that I've told entrepreneurs literally all over the world is that your idea is worth nothing. Would it be becomes valuable as your execution of your idea? And that's what is truly unique in the world is your ability to execute on this thing that you've heard.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17740,
+      "timestamps": []
+    },
+    {
+      "end": 18521,
+      "excerpt": "That's what creates value. That's what creates a company and the ability to exit send me something you don't have to send me your crown jewels or the top secret files, but send me something [00:17:00] so that I can orient myself for the call, because I'm going to be a better student. If I have a good sense of who you are, what you're doing, why you're doing it, how you're doing it, because then I can spend 20 minutes per for the call reviewing your materials.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18058,
+      "timestamps": [
+        {
+          "offset": 18248,
+          "raw": "[00:17:00]",
+          "seconds": 1020
+        }
+      ]
+    },
+    {
+      "end": 18635,
+      "excerpt": "Preparing myself. And then instead of you presenting your slides for the 700th time, we can have a conversation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18523,
+      "timestamps": []
+    },
+    {
+      "end": 18723,
+      "excerpt": "Gopi Rangan: Have you made any investments without meeting the entrepreneur in person?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18637,
+      "timestamps": []
+    },
+    {
+      "end": 18933,
+      "excerpt": "Jason Best:  I have ones in the bay area. One's in the Pacific Northwest. Neither are publicly announced. What I'll say though is just, they were both warm referrals from people that I knew in the real world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 18725,
+      "timestamps": []
+    },
+    {
+      "end": 19273,
+      "excerpt": "And they both were just incredibly compelling founders who were just rock solid in their experience who had taken time and energy to deeply understand the problem they're trying to solve, who knew far more about each [00:18:00] problem than I knew and had done a lot of work to build the business as far as they could before raising cash.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18935,
+      "timestamps": [
+        {
+          "offset": 19152,
+          "raw": "[00:18:00]",
+          "seconds": 1080
+        }
+      ]
+    },
+    {
+      "end": 19604,
+      "excerpt": "They, it wasn't just, I've got a PowerPoint and now I'm going to see if I can fish for cash and see what happens. But they had done a lot of work over a period of time, put some of their own cash in as well as sweat equity and had really logical rational plans for how they're gonna build it up. So you see that in their message.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19275,
+      "timestamps": []
+    },
+    {
+      "end": 19934,
+      "excerpt": "Gopi Rangan: This goes beyond the PowerPoint slide deck, the effort that they put in the risk that they've taken people they've convinced co-founders or no other vendors and others that shows in their story, that they've put the effort in taking the company to a point where they could independently. And now is the time for it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19606,
+      "timestamps": []
+    },
+    {
+      "end": 20278,
+      "excerpt": "Jason Best: Yeah. And I mean, also, I'm sure you've experienced this too, but it's just nice when people have put together a well-organized data room, again, it sounds like super basic, but I shouldn't have to ask you for it. And you shouldn't sending me a couple of random spreadsheets. What [00:19:00] about all the incorporation documents?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 19936,
+      "timestamps": [
+        {
+          "offset": 20229,
+          "raw": "[00:19:00]",
+          "seconds": 1140
+        }
+      ]
+    },
+    {
+      "end": 20718,
+      "excerpt": "What about your fast statements at the seed stage? I'm not expecting to have expertly delivered five years of finished statements, but I want to see what the next 12 months. I want to understand how you're thinking about growing business and half the numbers will end up being wrong 12 months from now, but, but really a lot of the exercise is about understanding how you're thinking about the business and how you're planning to execute.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20280,
+      "timestamps": []
+    },
+    {
+      "end": 21034,
+      "excerpt": "So a couple of other examples of entrepreneurs we've invested in and what we've met at different points in the journey, and it doesn't matter where you've met. There are many different ways to meet people, both of the two other companies I just described or. Warm intros from people that we, that we, that we knew.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20720,
+      "timestamps": []
+    },
+    {
+      "end": 21414,
+      "excerpt": "Well, and then another example was from a founder that we've invested in. We met because he was one of the people that came up to me after a speaking engagement, we've all done these speaking engagements. And there's typically a line of people who want to talk to you after you finish. And they all say they're going to follow up and almost [00:20:00] none do the gentleman did.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21036,
+      "timestamps": [
+        {
+          "offset": 21377,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 21763,
+      "excerpt": "He said, can I come see you to March office? I said, He was in from New York, I'm in San Francisco, his name's Anon gums. He's a founder of paradigm, which is a crypto derivative platform for institutional investors. We met five years ago. We began having conversations five years ago, but this idea he had for revolutionizing the OTC commodities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21416,
+      "timestamps": []
+    },
+    {
+      "end": 22190,
+      "excerpt": "He did not know about startups, but he knew a lot about commodity markets and the OTC markets and how broken their work and how much they needed technology over the course of the first three years of us knowing each other, it was really just talking every month or two, helping him to form his thinking to, to shape what he wanted it to do to follow his progress, to be supportive, where I could with information and network.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21765,
+      "timestamps": []
+    },
+    {
+      "end": 22623,
+      "excerpt": "Then after three years, he was ready to raise money and I was the first institutional check. And because yeah, we knew each other extremely well. I was credibly impressed by his work ethic and his deep understanding of the [00:21:00] problem and his ability to build a huge network in that space. And now he's over the last nine months, he's done over 26 billion in transaction flow with this product among institutional investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22192,
+      "timestamps": [
+        {
+          "offset": 22415,
+          "raw": "[00:21:00]",
+          "seconds": 1260
+        }
+      ]
+    },
+    {
+      "end": 22789,
+      "excerpt": "But it's amazing what he's done built a team of almost 30 and they're just doing incredibly incredibly well. So I was super focused, super disciplined entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22625,
+      "timestamps": []
+    },
+    {
+      "end": 22952,
+      "excerpt": "Gopi Rangan: This is a great story of how an entrepreneur met you without knowing you before and met you at a public event and followed up, built a relationship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22791,
+      "timestamps": []
+    },
+    {
+      "end": 23125,
+      "excerpt": "And then you got very impressed by how they were building the business and you invested in the company. It looks like the company is doing really well. Yeah, they're doing",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22954,
+      "timestamps": []
+    },
+    {
+      "end": 23282,
+      "excerpt": "Jason Best: great. We're just incredibly honored to be a PA on the team of that company as well. It was our first outside check in, in the, in the FinTech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 23127,
+      "timestamps": []
+    },
+    {
+      "end": 23617,
+      "excerpt": "We're excited about where they're headed and then a different experiences, a company that was in Taiwan and Hong Kong, which is called E M Q. They are across border money solution. You could think of them as replacing swift. What's incredible about them is they are the pipes [00:22:00] for Alli pay. We chat, pay, and PayPal across.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23284,
+      "timestamps": [
+        {
+          "offset": 23560,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 24118,
+      "excerpt": "They are actually the ones who moved the money. They are in almost 90 countries today in the BA oh, they'll be at over 150 countries by the end of 2021. And they are incredibly successful at what they do and do some stuff in some really unique ways and are a B2B solution for that. We met them through one of our partners, family, friends, through a social interaction with someone that had been friend of a friend we've known each other for a long time, completely unrelated to tech or, or FinTech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23619,
+      "timestamps": []
+    },
+    {
+      "end": 24459,
+      "excerpt": "But over the course of some period of time, got to know the, the founders and, and that's another way that things kind of come in. I mean, I don't know about you Gobi, but I mean, the amount of serendipity that's occurred in my life was pretty busted. Well, it's just like the thing, one of things I've definitely learned in this business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24120,
+      "timestamps": []
+    },
+    {
+      "end": 24684,
+      "excerpt": "And then it's just an entrepreneurship generally is say yes, say yes, as often as you can to things, because that's how you build your network. That's how you build your understanding. That's how you create success. Yeah, I",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24461,
+      "timestamps": []
+    },
+    {
+      "end": 24826,
+      "excerpt": "Gopi Rangan: feel [00:23:00] the best way to be successful in venture capital is to have a prepared mind and wait for the right opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24686,
+      "timestamps": [
+        {
+          "offset": 24704,
+          "raw": "[00:23:00]",
+          "seconds": 1380
+        }
+      ]
+    },
+    {
+      "end": 24851,
+      "excerpt": "And then magic happens.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24828,
+      "timestamps": []
+    },
+    {
+      "end": 25044,
+      "excerpt": "Jason Best: Yeah. I definitely err, on the side of taking more meetings, not less because I'd rather as long as I'm learning something and I'm trying to add value to the conversation. Is that",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 24853,
+      "timestamps": []
+    },
+    {
+      "end": 25146,
+      "excerpt": "Gopi Rangan: an example of a company where things didn't pan out the way you expected, what happened",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25046,
+      "timestamps": []
+    },
+    {
+      "end": 25230,
+      "excerpt": "Jason Best: is I can tell you about one of my, one of my entrepreneurial failures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 25148,
+      "timestamps": []
+    },
+    {
+      "end": 25596,
+      "excerpt": "Back in 2001, we thought we had this great idea to build physician, patient communication online. What that looked like was kind of a websites for doctors and hospitals layering on secure email that doctors could get paid for them. And then layering on top of that medication compliance and adherence, which is a massive, massive problem in healthcare for decades.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25232,
+      "timestamps": []
+    },
+    {
+      "end": 25928,
+      "excerpt": "We tried to do it in 2001 in 2002. What I can tell you is that that was a terrible idea because we're at least a decade too. That experience really taught me a lot about market timing and market timing risk. And for me, personally, of all [00:24:00] the risks that we look at as DCS, that's the one I have the least tolerance for.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25598,
+      "timestamps": [
+        {
+          "offset": 25837,
+          "raw": "[00:24:00]",
+          "seconds": 1440
+        }
+      ]
+    },
+    {
+      "end": 25990,
+      "excerpt": "And my least bill of my least willingness to risk is market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25930,
+      "timestamps": []
+    },
+    {
+      "end": 26290,
+      "excerpt": "Gopi Rangan: Yeah. That's one of the hardest things to predict. Will the market arrive if you build, will they come? Yeah, this is a very fascinating composition that you're giving me lots of examples of real life stories here. If you were to change one thing in venture capital, what would you do?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25992,
+      "timestamps": []
+    },
+    {
+      "end": 26511,
+      "excerpt": "What would you change? We already talked about jobs act and you've already made the change happen, which has benefited hundreds of thousands of people. But if there's one more thing that you could do, what would you do?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26292,
+      "timestamps": []
+    },
+    {
+      "end": 26734,
+      "excerpt": "Jason Best: The next thing, that that is going to be happening in the private capital markets. And I, I don't know exactly how it's going to happen or when, but I will, and I'm ready to do whatever I can to be helpful in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 26513,
+      "timestamps": []
+    },
+    {
+      "end": 27351,
+      "excerpt": "It is creating secondary liquidity for private secure. That's something that's been, people have taken a run out many times. Obviously, if you had pre IPO, Uber, Airbnb, or Facebook [00:25:00] shares, there was a market for those. And you could liquidate, but for most people in most companies, that's more difficult for a whole bunch of reasons, but that the changes we're seeing in the financial markets broadly, if you look at the decline in the number of public companies, which has brought around, but because of the cost of the time involved in the pricing concerns that brought down the rise of direct lists.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26736,
+      "timestamps": [
+        {
+          "offset": 26918,
+          "raw": "[00:25:00]",
+          "seconds": 1500
+        }
+      ]
+    },
+    {
+      "end": 27694,
+      "excerpt": "That's brought about the rise of SPACs backs are a good thing for the market. It's obviously is probably too many of them right now, but that doesn't mean they're all bad. It will turn to a level of normalcy in that spec market, but that that's here to stay and it's a good tool at the right time for the right company, like anything, right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27353,
+      "timestamps": []
+    },
+    {
+      "end": 27785,
+      "excerpt": "It's not always right for everything, but it's that secondary equity is really important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27696,
+      "timestamps": []
+    },
+    {
+      "end": 28083,
+      "excerpt": "Gopi Rangan: Getting access to capital for founders when they're raising money is one part of the equation. But the other part of the equation is can you generate liquidity and a robust secondary market where early investors and founders can have access to liquidity events would be very healthy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27787,
+      "timestamps": []
+    },
+    {
+      "end": 28090,
+      "excerpt": "Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28085,
+      "timestamps": []
+    },
+    {
+      "end": 28519,
+      "excerpt": "Jason Best: I'm sorry, just to give you a [00:26:00] data point. There are now more companies that have raised crowdfunding. Then are on the NASDAQ that is, and that will continue to grow as there are more companies and those companies grow as companies become more successful, they will become a market for that. It will probably take a few years to get there, but there's going to be over the next five years that will occur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 28092,
+      "timestamps": [
+        {
+          "offset": 28134,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 28843,
+      "excerpt": "Gopi Rangan: Well, let's hope that happens. That future would open up lots of opportunities for people who are in participating in this asset class. I'm looking forward to that. I want to switch to the next part of our conversation and ask you about your community involvement. Is there an organization you are passionate?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28521,
+      "timestamps": []
+    },
+    {
+      "end": 29301,
+      "excerpt": "Jason Best: The thing that I'm passionate about it. And I spent a lot of time on a pro bono basis working on. Entrepreneurship. I would say the closest thing that entrepreneurs have to a lobbyist in Washington DC is the small business and entrepreneurship council and Karen Kerrigan who runs that organization. She was instrumental in us getting the jobs act passed, and she had been a passionate supporter of entrepreneurs [00:27:00] for over two decades.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 28845,
+      "timestamps": [
+        {
+          "offset": 29269,
+          "raw": "[00:27:00]",
+          "seconds": 1620
+        }
+      ]
+    },
+    {
+      "end": 29653,
+      "excerpt": "And another center that I've worked with on this is the Berkeley center for entrepreneurship and technology. That's in the college of engineering at UC Berkeley. And some of the work that they're doing there was really fascinating. Yeah. One of the programs. They have a super cool is focused on training engineers to be entrepreneurs and they do it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29303,
+      "timestamps": []
+    },
+    {
+      "end": 29983,
+      "excerpt": "So these are people who've probably never made a B in their lives who are incredibly smart, but probably I've never failed pushing them into failure situations. And teaching them resilience in those moments is a really powerful and high impact exercise. But that plus a whole lot of other work that they do is super interesting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29655,
+      "timestamps": []
+    },
+    {
+      "end": 30359,
+      "excerpt": "Gopi Rangan: Well, this is great. Thank you so much for joining me and sharing so many of your or stories, especially starting with your jobs act initiative, how you plowed through various bureaucratic processes to make it happen. And it's now had an impact on how many startups and many investors who have now access to equity, crowdfunding that was previously unavailable.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29985,
+      "timestamps": []
+    },
+    {
+      "end": 30682,
+      "excerpt": "The many examples that you gave [00:28:00] about startups and what you look for in these entrepreneurs, how you make these investments and how those stories play out. That's also really fascinating to hear. Well, thank you very much for sharing your stories and insights. I look forward to sharing your nuggets of wisdom.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30361,
+      "timestamps": [
+        {
+          "offset": 30393,
+          "raw": "[00:28:00]",
+          "seconds": 1680
+        }
+      ]
+    },
+    {
+      "end": 30714,
+      "excerpt": "Jason Best: Thank you so much.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Jason Best",
+      "start": 30684,
+      "timestamps": []
+    },
+    {
+      "end": 31059,
+      "excerpt": "Gopi Rangan: Thank you for listening to the shore shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30716,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "a228721375f0bb4a389b25f8c70115e913464936e7fe05c54991c9b09548891b",
+  "text_sha256": "1c8759f957f6e409440e0826d92e6d49fea172ab7ad2d69ebe94f0643e6fefd1"
+}

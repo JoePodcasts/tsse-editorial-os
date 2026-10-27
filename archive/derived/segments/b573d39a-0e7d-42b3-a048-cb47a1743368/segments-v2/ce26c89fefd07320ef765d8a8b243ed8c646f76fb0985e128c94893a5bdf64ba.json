@@ -1,0 +1,545 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 269,
+      "excerpt": "Charles Hudson: My view is that for product-market fit, finding a million dollars for most companies is sufficient. It doesn't mean you're going to get all the way there, but it's enough money for us to get the indication as to whether or not you're on the right track.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 517,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 271,
+      "timestamps": []
+    },
+    {
+      "end": 940,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm here with Charles Hudson. He's the Managing Partner and Founder of Precursor Ventures. He invests in early-stage startups, preferably pre-seed investments and he looks at various different metropolitan regions like San Francisco Bay Area, New York, and Toronto. Let's talk to Charles to find out what he looks for in startups. What are his preferences and what gets him excited?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 519,
+      "timestamps": []
+    },
+    {
+      "end": 990,
+      "excerpt": "Charles, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 942,
+      "timestamps": []
+    },
+    {
+      "end": 1041,
+      "excerpt": "Charles Hudson: Thank you so much for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 992,
+      "timestamps": []
+    },
+    {
+      "end": 1286,
+      "excerpt": "Gopi Rangan: Let's start the conversation with your childhood. I know you grew up in Michigan and then you came to the Bay Area more than 20 years ago. Tell us about your childhood. Where did you grow up and how did you come to Silicon Valley?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1043,
+      "timestamps": []
+    },
+    {
+      "end": 1948,
+      "excerpt": "Charles Hudson: I was born in Michigan. I lived there till I was 18 years old. And when it was time to go to college, I looked all over. I had thought I would go to an East Coast or Midwest school being a good Michigander. I came out to visit Stanford kind of on a lark. I had not spent much time in California. I think the only time I'd been to California before was for my cousin's graduation from the Marines. We were down in San Diego for that. Other than that, I was basically a California newbie. And I came to Stanford and just fell in love with the campus and the students and the energy and the vibe and decided to move across the country for college.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 1288,
+      "timestamps": []
+    },
+    {
+      "end": 2295,
+      "excerpt": "I had one cousin who lived in Oakland, no other real family in California. And I'd never really spent a meaningful amount of time outside of Michigan and in a lot of ways that set me off on my career path. I graduated from undergrad right into the tail end of Web 1.0 and really honestly fell in love with the internet and technology businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1950,
+      "timestamps": []
+    },
+    {
+      "end": 2831,
+      "excerpt": "My mom was an attorney and my dad worked in the auto industry. I didn't come from a household that was technology-focused. I wasn't one of these kids that were programming at age eight. I was a business person and I just saw tremendous potential with the internet. I thought it was going to be one of the most important forces in my lifetime. Ever since then, I've been working either as an executive or operator on the tech side or as an investor in companies that are building the next great thing in terms of software or hardware. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2297,
+      "timestamps": []
+    },
+    {
+      "end": 3236,
+      "excerpt": "Gopi Rangan: So, you joined the revolution of the tech revolution at the tail end of Web 1.0 in 2001. That's when you started your career. I did as well. I started in 1999, and soon after that, the dot-com crash happened. I don't think we cost it, but that lines up. Do you feel like you're now a California resident full and full, have you changed your loyalty away from the Midwest to the West Coast? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2833,
+      "timestamps": []
+    },
+    {
+      "end": 3636,
+      "excerpt": "Charles Hudson: I still think of myself as a Michigander living in California. Um, I feel like most of the formative things in my life happened to me in Michigan and I think a lot of my sensibilities and instincts and early life experiences that have informed who I am come from living in Michigan. The funny thing is my son is a Californian. He has very little connection to the state of Michigan.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 3238,
+      "timestamps": []
+    },
+    {
+      "end": 3781,
+      "excerpt": "So I watch him grow up as a Californian and it is different, but I'm very happy living in the Bay Area, very proud to be a California resident.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3638,
+      "timestamps": []
+    },
+    {
+      "end": 3930,
+      "excerpt": "Gopi Rangan: So you went back to Stanford for master's. You got an MBA from there. Why did you go to MBA and how was that helpful for your career? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3783,
+      "timestamps": []
+    },
+    {
+      "end": 5032,
+      "excerpt": "Charles Hudson: I worked at In-Q-Tel out of undergrad. In-Q-Tel is the CIA's venture capital group. It was an amazing job. I learned a ton. The interesting thing, though, is being a venture capitalist right out of undergrad, you don't actually have any practical work experience. I didn't know what it meant to be a product manager. I didn't know what it meant to be a salesperson. I didn't know what it meant to be in marketing. I knew what it meant to be a junior venture capitalist. After doing that for a few years, I started to feel like I wanted to have a career in startups. Investing was great but candidly, at 23, 24 years old, I had some questions about how much I had to offer a startup as someone with limited work experience. And I was like, I really want to go get some real work and learn a thing or two. But I didn't really know what role would make the best use of my skills and talents. I felt like business school would be a good place to go to get a real survey of all the things I could be doing. So I went back to the business school really to figure out what I was meant to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 3932,
+      "timestamps": []
+    },
+    {
+      "end": 5947,
+      "excerpt": "I learned in business school a couple of things that were really helpful. One is, I learned that I gravitated more towards the organizational design [organizational behavior/ the people side of business] than I did the numbers side of the business. I also learned that I was an okay student at ops, but I wasn't going to be like the operations guru compared to the people in my class. And I also learned that I liked leadership. I liked being a decision-maker. I liked being the person responsible for making tough calls and decisions. And I took all of that knowledge and said I want to get back into venture capital at some point and along the way, I want to try to have a good career in sales or BD, but also in general management. I tried product management, tried BD, tried startups and big companies, and realized at the end of the day that I liked being on the revenue/ partnership/ sales side of startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5034,
+      "timestamps": []
+    },
+    {
+      "end": 6143,
+      "excerpt": "Gopi Rangan: And right after your MBA, you did many stints at startups and started your own companies. How did you manage your career until the point when you decided to start your own VC firm? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5949,
+      "timestamps": []
+    },
+    {
+      "end": 6925,
+      "excerpt": "Charles Hudson: It's really funny. One of my mentors told me, \"Don't worry about the road while you're on it. It'll all make sense in retrospect.\" I didn't know what he meant until maybe 10 years ago when I was like, oh, I can now connect the dots between what at the time felt like a bit of a random walk of just saying, hey, this job sounds interesting. I'm going to take it. Then I'll take another job. And when I reconnected the dots, I could tell now in my early career, a lot of what I was doing was searching for fit. In a weird way, it was like the personal equivalent of product-market fit. There are all these dimensions I have to figure out. What size company should I be a part of...a big company, a small company? What role should I have? How senior do I want to be? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 6145,
+      "timestamps": []
+    },
+    {
+      "end": 8078,
+      "excerpt": "If I look at my time at IronPort Systems, I tried my hand at product management. I don't candidly think I was great at it. I was okay at it, but not great. And I worked with some people on our team who were excellent at it. It was really for me, eye-opening to be on a team where there were a handful of people doing the work who were truly great. I always thought of my career as part of the goal is to either find the thing that you're really good at doing and if you can't do that along the way, eliminate the things where you're either not interested or not good at doing them. At one point I thought I really wanted to be a product marketing manager. I spent some time with my friends who were PMMs and they were like, \"We don't think this is the right job for you. The things we do don't seem to come naturally to you and don't seem to be of greatest interest to you.\" And finally, I realized that the partnerships, BD, and strategy work were really interesting to me and the investing work was interesting to me. It took me a while to just go through enough career experiences to feel comfortable that I'd found the thing that was right for me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6927,
+      "timestamps": []
+    },
+    {
+      "end": 8323,
+      "excerpt": "Gopi Rangan: And you came back to venture capital. You joined Uncork Capital. It was called SoftTech VC at that time. Jeff Clavier was the founder. You spent many years there, eight years at SoftTech before you decided to start your own firm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8080,
+      "timestamps": []
+    },
+    {
+      "end": 8988,
+      "excerpt": "Charles Hudson: I did. And I can tell you there'd be no Precursor without the time I spent at Uncork. It was very formative for me because when I joined Uncork, it was just Jeff. He was running the whole thing by himself. He didn't have an assistant. He didn't have an ops person. He was picking the companies, negotiating the deals, closing the deals, supporting the companies post-investment, doing audit...there's a lot that goes into running a fund. He was doing all that by himself and still investing in 40 to 50 companies per fund. It was really amazing to watch and I didn't fully appreciate how much work goes into running a fund until I started my own. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 8325,
+      "timestamps": []
+    },
+    {
+      "end": 9032,
+      "excerpt": "Gopi Rangan: What was the genesis of that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8990,
+      "timestamps": []
+    },
+    {
+      "end": 9513,
+      "excerpt": "Charles Hudson: When I joined Uncork, it was Jeff and then Jeff and me. The first fund I joined that Jeff raised was 55 million bucks, which for two partners was a good amount of capital. It's funny, Gopi, the things that we called seed rounds back then would be called pre-seed rounds today. We were doing these million-dollar rounds. We were writing a $400,000 check into the round to work with the founder and try to help them get product-market fit and scale it to series A. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 9034,
+      "timestamps": []
+    },
+    {
+      "end": 10082,
+      "excerpt": "What I found is that we had a fair amount of success at Uncork and the more success we had, the bigger fund we raised the next time out, and the bigger fund we raised the harder it was to invest in the kind of companies that were interesting to me. It was hard to write a million-dollar check to two people we didn't know well who were pre-product-market fit. I felt like the work that spoke to me most was writing checks to people who had very little in the way of product-market fit and trying to be an excellent partner to them. That's really what I wanted to do. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9515,
+      "timestamps": []
+    },
+    {
+      "end": 10156,
+      "excerpt": "Gopi Rangan: So you wanted to go back to the early stages of investing. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10084,
+      "timestamps": []
+    },
+    {
+      "end": 10786,
+      "excerpt": "Charles Hudson: Exactly. The other macro thing that was happening was all of the other seed funds that I admired that we co-invested with a lot at Uncork were going through the same maturation cycle that we were. They were getting larger. They were raising more money, becoming more concentrated and they wanted to do more money into fewer companies. And I was like, gosh, I just want to find great people before they have evidence invest early and be right. That's more risk capital that was looking for new people with new ideas. Pre-traction, I felt like that was drying up as the people who used to provide it were maturing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 10158,
+      "timestamps": []
+    },
+    {
+      "end": 10894,
+      "excerpt": "Gopi Rangan: So how has Precursor different from other VC firms investing at the pre-seed and seed stage? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10788,
+      "timestamps": []
+    },
+    {
+      "end": 11191,
+      "excerpt": "Charles Hudson: I think there are actually relatively few venture capital firms out there that will lead a pre-seed round of a million dollars or less for a founder that is not in their immediate social or professional network, and that founder also doesn't have any product-market fit traction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 10896,
+      "timestamps": []
+    },
+    {
+      "end": 11978,
+      "excerpt": "And the reason it's unique is if I relaxed those conditions. So if I just said, okay, are there funds that will lead million-dollar pre-seed rounds for founders that are in their social network? Yes, there totally are lots of funds that will do that. If you have a professional or social network that has a lot of VCs in it, your option set for whose money you take looks different. Also, there are people that will give money to founders they don't know very well who are out of network but have traction. And they'll use that traction and progress as a proxy for trustworthiness or suitability. But I'd argue there are very few funds, besides us, whose focal business model is: Let's give money to people that we don't know that well, who we think have great ideas but lack traction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11193,
+      "timestamps": []
+    },
+    {
+      "end": 12031,
+      "excerpt": "Pairing those two things together makes us unique. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11980,
+      "timestamps": []
+    },
+    {
+      "end": 12508,
+      "excerpt": "Gopi Rangan: And the purpose of this podcast is to help entrepreneurs who do not have an existing network and are unprivileged so that they can use the podcast as an avenue to find people like you, me, and other VCs. And also get to know us as people, before they even come to the meeting. Hopefully, it's an advantage and it gives entrepreneurs the edge that they lack today compared to other privileged entrepreneurs. So thanks for making that the main focus of your fund. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12033,
+      "timestamps": []
+    },
+    {
+      "end": 12537,
+      "excerpt": "Charles Hudson: Of course. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 12510,
+      "timestamps": []
+    },
+    {
+      "end": 12695,
+      "excerpt": "Gopi Rangan: Charles, what advice would you give entrepreneurs raising pre-seed around the funding? These are the entrepreneurs you meet on a regular basis.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12539,
+      "timestamps": []
+    },
+    {
+      "end": 12780,
+      "excerpt": "You can feel free to give examples from your portfolio and how you supported them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12697,
+      "timestamps": []
+    },
+    {
+      "end": 13564,
+      "excerpt": "Charles Hudson: The one thing I remind people of all the time is that a million dollars can go really quickly if you're spending $50,000 a month in burn, which is not uncommon in our portfolio, 18 months of runway give or take. So the number one thing I encourage founders to do is to have a really clear articulation of what your product is and what it does, which I know Gopi sounds really basic, but I'd argue maybe 20 to 25% of the pitches that I hear, 10, 15 minutes into the pitch I'm still unclear on what the product is and how it works and why it matters. And I find as an investor, I can't really engage with the founder and start asking questions to get my arms around the business until I understand what the product actually is and what it purports to do, and for whom.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 12782,
+      "timestamps": []
+    },
+    {
+      "end": 14289,
+      "excerpt": "So I'd say step one is to get really, really clear on what your product does and why it matters. And to whom it matters. Second, it's to just be cognizant that you're going to likely get, at least in our case, a pre-seed round of a million dollars. And my general framework for pre-seed investing is the million-dollar pre-seed round is not for company building as much as it is for product-market fit finding. I tend to believe that the real question is, is a million dollars going to help you discover whether you're on the right track with the product that you wanna build? Is there going to be enough money for us to know that the basic outlines and construct of what you want to build is headed in the right direction?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13566,
+      "timestamps": []
+    },
+    {
+      "end": 14775,
+      "excerpt": "And there are some things I've met where I'm like, \"Hey, you need $5 million to $10 million to prove out that, like there are some hardware things I've seen. Where you need more than a million dollars to get to a meaningful proof point and discover whether or not you have product-market fit. So those are probably the two things I really focus on: this clarity of what is it you want to build and then the appropriateness of the fundraise relative to the work that needs to be done. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14291,
+      "timestamps": []
+    },
+    {
+      "end": 15049,
+      "excerpt": "Gopi Rangan: This is very interesting. We're getting into the meat of the discussion. Can you give an example of a founder who did that well, who explained their business, what it is about very clearly, and also was ready to go on that journey to find product-market fit? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14777,
+      "timestamps": []
+    },
+    {
+      "end": 16508,
+      "excerpt": "Charles Hudson: Wow! There are so many people who have done that well. If I were to pick a relatively recent one, I would pick Helen from Nomad Homes, which is a company where we were a seed investor and they recently announced their series A round. From the beginning, Helen came to me with a really simple hypothesis and she said, \"Listen, home buying in our target market, which is the Middle East, is a broken process. And here are the reasons why it's broken.\" She laid out a really strong case about the way that listing services work in the Middle East or don't work and how home purchases work. And she did what I think always works great, you describe a problem that you understand really well. You describe it in really clear terms and then you propose a solution that ties back to the problem that you outlined. And she outlined the challenges in home buying and was pretty upfront with me and just said, \"Hey, we think we've got a formula for how we can make home buying in the Middle East and eventually in Africa and in parts of Europe, we can make it much more seamless for the buyer. And we can make this process simpler using technology and modern FinTech.\" The whole story just really hung together nicely. And I'm happy to say that that company has done exceptionally well already in the early days of going from an idea with a really strong team to a product that works and it's more than an idea with a really excellent team behind it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 15051,
+      "timestamps": []
+    },
+    {
+      "end": 16557,
+      "excerpt": "Gopi Rangan: Did they find product-market fit? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16510,
+      "timestamps": []
+    },
+    {
+      "end": 16596,
+      "excerpt": "Charles Hudson: I believe they have. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 16559,
+      "timestamps": []
+    },
+    {
+      "end": 16879,
+      "excerpt": "Gopi Rangan: Great. I want to ask you about the amount of money that is appropriate to raise at pre-seed. You were one of the early investors in the pre-seed stage many years ago, but the world has evolved. In today's world, what is the right amount of money to raise at pre-seed? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16598,
+      "timestamps": []
+    },
+    {
+      "end": 17208,
+      "excerpt": "Charles Hudson: It's funny. I have people who are like, we raised a $5 billion pre-seed. I'm like, well, that's not a precinct. Like I don't think that's a pre-seed round. So we have a pretty strict construct here at Precursor. My view is that for product-market fit, finding a million dollars for most companies is sufficient.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 16881,
+      "timestamps": []
+    },
+    {
+      "end": 17651,
+      "excerpt": "It doesn't mean you're going to get all the way there, but it's enough money for us to get an indication as to whether or not you're on the right track. If you're building something in the physical world or a hardware product, a million dollars might be insufficient. For software companies, that's 12 to 18 months to build something and get customers using it and showing that they like it and feel confident that you're on the right track.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17210,
+      "timestamps": []
+    },
+    {
+      "end": 17706,
+      "excerpt": "I generally think that's enough for most categories. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17653,
+      "timestamps": []
+    },
+    {
+      "end": 18003,
+      "excerpt": "Gopi Rangan: What's your view on bridge funding? Do you participate in bridge funding? Do you encourage entrepreneurs to raise? What if they say, \"well, I can raise a million dollars. I got like $800,000 and I want to get started and I'll raise another million dollars like nine months from now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17708,
+      "timestamps": []
+    },
+    {
+      "end": 18314,
+      "excerpt": "Charles Hudson: We're probably one of the more bridge-friendly firms out there. My general view is whether or not to participate in a bridge has less to do with the bridge, whether it's a bridge or a note or how it's being structured, and more to do with your subjective assessment of how the company's doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 18005,
+      "timestamps": []
+    },
+    {
+      "end": 18589,
+      "excerpt": "So we do a lot of bridges and extensions at Precursor, and I'm honestly happy to do a bridge or an extension for a company where the performance is good but maybe the broader financial markets don't understand the company for its merits. I actually don't mind that at all. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18316,
+      "timestamps": []
+    },
+    {
+      "end": 18677,
+      "excerpt": "Gopi Rangan: So you want to make sure that this is a bridge to somewhere, not nowhere.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18591,
+      "timestamps": []
+    },
+    {
+      "end": 19536,
+      "excerpt": "Charles Hudson: That's totally correct. And I always just come back to \"what do we know about the company?\" And I think for a lot of the companies we invest in, I split it into like, what do we know about the company that's public information? Like there's sometimes stats or data about the landscape, market share, things that we could know without knowing anything special about the company. But way more importantly, what do we know that's not public or not widely known about the company that we know because we're investors and we have insight into how the founders are thinking about problems? In those cases where we have high confidence that the founders will be able to solve the problem, we invest a little bit in the cases where I have reservations, and in the cases where I'm pretty sure the founders won't figure it out, we don't invest at all.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 18679,
+      "timestamps": []
+    },
+    {
+      "end": 19721,
+      "excerpt": "Gopi Rangan: So you get to a black and white kind of clarity at the end of the discussion. That helps you make the decision instead of stringing along the discussion for many months. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19538,
+      "timestamps": []
+    },
+    {
+      "end": 20015,
+      "excerpt": "Charles Hudson: And one of the nice things about being a pre-seed early-stage founder is you end up spending a bunch of time with these companies in the early days before there's a lot of data. By the time there's a lot of data about how the company's doing, you already know what you think. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 19723,
+      "timestamps": []
+    },
+    {
+      "end": 20191,
+      "excerpt": "Gopi Rangan: You have that advantage of tracking them from the early days onward. How many investments do you make roughly in a year? How often do you make these investments?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20017,
+      "timestamps": []
+    },
+    {
+      "end": 20318,
+      "excerpt": "Charles Hudson: In a normal year, we'll do 30 to 40 brand new investments and we'll do almost an equal number of follow-ons. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 20193,
+      "timestamps": []
+    },
+    {
+      "end": 20393,
+      "excerpt": "Gopi Rangan: So, every week is a transaction week at Precursor Ventures. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20320,
+      "timestamps": []
+    },
+    {
+      "end": 20430,
+      "excerpt": "Charles Hudson: It feels that way. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 20395,
+      "timestamps": []
+    },
+    {
+      "end": 20845,
+      "excerpt": "Gopi Rangan: That is quite busy, indeed. If you were to change one thing about venture capital, you started your career in venture capital. It was a different world at that time. Then you spent many years with Jeff Clavier and that was a different world. And now we're in a different world. You've seen a lot. The venture world has evolved quite a bit, but if you were to change one thing, what would you change? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20432,
+      "timestamps": []
+    },
+    {
+      "end": 21479,
+      "excerpt": "Charles Hudson: There's this balance in the business between learning and doing everything you have to do to be successful as an investor. And also the learning that only happens by check writing. Sometimes as an industry, we place so much experience on the preparation piece of the work. \"Did you work at one of these five or ten startups? Did you go to one of this relatively little number of schools? And then have you sourced eight or ten great investments before?\" We give people the ability to pick companies. There's something to be said about giving people the ability to demonstrate selection skill earlier in their lives. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 20847,
+      "timestamps": []
+    },
+    {
+      "end": 21670,
+      "excerpt": "Gopi Rangan: That experience is like an apprenticeship business. You have to learn on the job, it cannot be taught in a classroom, or you can't watch someone and learn from that experience.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21481,
+      "timestamps": []
+    },
+    {
+      "end": 21965,
+      "excerpt": "And you have to write checks to make those decisions. Your palms need to be sweaty when you make those decisions. Like I'm not really sure, but I think this could be great. And let me support the entrepreneur. Those things have to happen for you to get seasoned as a venture capital investor. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21672,
+      "timestamps": []
+    },
+    {
+      "end": 22066,
+      "excerpt": "I want to switch to the last part of our conversation and ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21967,
+      "timestamps": []
+    },
+    {
+      "end": 22140,
+      "excerpt": "Is there a non-profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22068,
+      "timestamps": []
+    },
+    {
+      "end": 22422,
+      "excerpt": "Charles Hudson: There's a number of them that I'm really passionate about. If I were to say one that I really care about and where I, especially pre-pandemic spent time volunteering, it's the San Francisco-Marin Food Bank, which does an amazing job feeding people in the Bay Area.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 22142,
+      "timestamps": []
+    },
+    {
+      "end": 22596,
+      "excerpt": "We live in such a prosperous country. Food insecurity, shouldn't be a thing in Northern California, but it is. It's a charity that I know does great work in that category. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22424,
+      "timestamps": []
+    },
+    {
+      "end": 22907,
+      "excerpt": "Gopi Rangan: Charles, thank you so much for sharing candid stories, real-life examples of startups you've invested in, and your philosophy on how venture should be and including the example of how you like to spend your time and resources to support the community. Thanks a lot for sharing nuggets of wisdom. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22598,
+      "timestamps": []
+    },
+    {
+      "end": 22979,
+      "excerpt": "Charles Hudson: Thank you so much for having me. I really enjoyed it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Charles Hudson",
+      "start": 22909,
+      "timestamps": []
+    },
+    {
+      "end": 23156,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22981,
+      "timestamps": []
+    },
+    {
+      "end": 23325,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. .",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23158,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "ce26c89fefd07320ef765d8a8b243ed8c646f76fb0985e128c94893a5bdf64ba",
+  "text_sha256": "9f839029955e24d6a4500ac52cd315f093882835d4a9cd9536db79ff2a5917bc"
+}

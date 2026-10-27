@@ -1,0 +1,481 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 319,
+      "excerpt": "Bringing healthcare to the people is a really important trend. I think a lot of healthcare professionals perhaps don't like that because it seems to them that you're taking away the important, difficult topics of healthcare and giving the patient and the person at the end of that too much agency to dictate their care.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 735,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host Gopi Rangan. I'm here with Ayush Jain. Ayush Jain is a senior associate at Revolution's Rise of the Rest Seed Fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 321,
+      "timestamps": []
+    },
+    {
+      "end": 1097,
+      "excerpt": "He started as an engineer early in his career, switched to product management, and later to venture capital investing. We're going to talk to him about what he looks for in entrepreneurs, his specific areas of interest related to healthcare and medical devices, and those types of topics. But let's start with you Ayush. Welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 737,
+      "timestamps": []
+    },
+    {
+      "end": 1194,
+      "excerpt": "Ayush Jain: Thank you so much, Gopi. It's great to be here. I really appreciate you having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 1099,
+      "timestamps": []
+    },
+    {
+      "end": 1470,
+      "excerpt": "Gopi Rangan: Tell us about yourself, starting with where you grew up. You grew up in Sunnyvale in Silicon Valley, but you no longer live here. You now live on the east coast away from the center of venture capital but you are a venture capital investor. How did that happen?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1196,
+      "timestamps": []
+    },
+    {
+      "end": 2070,
+      "excerpt": "Ayush Jain: Yeah, I think it's an interesting story for one, being a Bay Area kid, I've always been in the environment of innovation and heard amazing stories of new ideas blossoming into companies. Sometimes it's just as easy as walking outside and looking around and seeing these amazing companies being built. That was pretty inspiring as a kid. But it actually all starts with my family. I'm a son of an immigrant and my grandparents really started the journey. They came to the United States in the 1960s after the Civil Rights Act had passed and which really opened up immigration from India.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 1472,
+      "timestamps": []
+    },
+    {
+      "end": 2427,
+      "excerpt": "When they arrived here, they had nothing and were very entrepreneurial. My grandmother worked in a factory to take care of her family and help make money. Eventually, she had the idea to start her own business and started from the bottom and really built up her own small business out of her basement, which gave her the chance to live the American dream.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2072,
+      "timestamps": []
+    },
+    {
+      "end": 2706,
+      "excerpt": "So, growing up, I always was surrounded by that entrepreneurial spirit from her and she was someone who did it in Youngstown, Ohio, a place I don't think a lot of folks might know about, but it's a place where she started her business and found great success as a new American.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2429,
+      "timestamps": []
+    },
+    {
+      "end": 3190,
+      "excerpt": "My father is a serial entrepreneur in the bay area. So, growing up every day at the dinner table, I got to hear amazing stories and became a student of the entrepreneurial experience by talking to my grandmother and my father and hearing those stories. I think that was a big motivation for me to end up here, on this side of the table as an investor, just because I find it incredibly compelling to try to find more people like them, who I can help support and help bridge the gap.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2708,
+      "timestamps": []
+    },
+    {
+      "end": 3396,
+      "excerpt": "Gopi Rangan: I see that entrepreneurship runs in your family and you were inspired by your grandmother initially. How did you decide to become a venture capital investor and pursue a career in investing? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3192,
+      "timestamps": []
+    },
+    {
+      "end": 3837,
+      "excerpt": "Ayush Jain: Yeah, that's a great question. I think one part of it is, that I started my career with a medical device company called Johnson Johnson. I worked in their cardiovascular division and was an engineer for a while and tried a couple of different roles in the medical device and medical technology space. Something I was always looking for was just new ideas and solving problems beyond maybe what I was experiencing at the moment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 3398,
+      "timestamps": []
+    },
+    {
+      "end": 4639,
+      "excerpt": "Healthcare is a really fascinating industry and there are a lot of different ways to solve problems. I think I was in the niche of the niche all the way down into the arteries of the body. I was just looking for an opportunity to expand my horizons and do something new where I could engage with innovators across all kinds of industries and talk to entrepreneurs from every background and every location, and really learn a lot about new kinds of fields of innovation. So much of that, again, stems from my experiences with my family and the journey they had, and the challenges they overcame. I saw an opportunity for me to hopefully provide value to entrepreneurs. So, this was a natural fit, I think from some of the stories I learned as a kid and some of my experiences in the healthcare space. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3839,
+      "timestamps": []
+    },
+    {
+      "end": 4751,
+      "excerpt": "Gopi Rangan: I see the motivation for you as an investor is to find a role to support ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4641,
+      "timestamps": []
+    },
+    {
+      "end": 5210,
+      "excerpt": "Ayush Jain: Yeah, absolutely. I think that really should be the goal of every investor, right? You're partnering with an entrepreneur on their journey. You're not just there necessarily to provide capital, but you're there to be helpful. You're there to provide them with support in any way they need. There's no more rewarding experience than that in my opinion. I've been really lucky to have the chance to experience that with several entrepreneurs now. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 4753,
+      "timestamps": []
+    },
+    {
+      "end": 5339,
+      "excerpt": "Gopi Rangan: Tell me a little more about Revolution and Rise of The Rest. What kind of entrepreneurs do you like to invest in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5212,
+      "timestamps": []
+    },
+    {
+      "end": 6141,
+      "excerpt": "Ayush Jain: Revolution is a venture capital firm that's based in Washington, DC, and it was founded by the founder of AOL, Steve Case. It's been a really fascinating journey for that firm. After Steve exited AOL in the early 2000s, he decided he wanted to back more entrepreneurs like himself. He started that company in Washington DC when it definitely was not known as a place where you can build a great technology company and he did it and he created a strong tempo in the community that helps create incredible opportunities for entrepreneurs over the last couple of decades to start their own companies. Now we're seeing the fruits of that labor, with companies like Amazon building their next headquarters in the DC area, and so many new venture capitalists coming here to invest in companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 5341,
+      "timestamps": []
+    },
+    {
+      "end": 6344,
+      "excerpt": "It's been a really interesting journey seeing the Revolution story from afar and now being part of the firm and specifically an investor on the Rise of The Rest seed fund, which is part of Revolution. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6143,
+      "timestamps": []
+    },
+    {
+      "end": 6688,
+      "excerpt": "A big part of Steve's journey was about, you know, he's a kid from Hawaii who started a company in Washington DC, really, as non-traditional as you can get to start, I think a what we now call the web 1.0 com. And it's a journey he hopes to emulate by investing in companies across the country, outside of San Francisco, Boston, and New York.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6346,
+      "timestamps": []
+    },
+    {
+      "end": 7163,
+      "excerpt": "That's our core thesis on the Rise of The Rest seed fund. We only look for entrepreneurs that are outside the traditional tech hubs, and we believe that not only does that provide an opportunity for economic empowerment and really unique innovation, but we also believe that there is a plethora of talent and opportunity is not always accessible, but talent is everywhere. So, we're just hoping to help move the needle to get more capital to fund entrepreneurs everywhere. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6690,
+      "timestamps": []
+    },
+    {
+      "end": 7405,
+      "excerpt": "Gopi Rangan: AOL was one of the original internet companies. It's great to see that Steve Case's vision to bring technology to the world still thrives in the form of Revolution. Are there any specific areas you focus on at Rise of The Rest?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7165,
+      "timestamps": []
+    },
+    {
+      "end": 7795,
+      "excerpt": "Ayush Jain: Yeah, we're a generalist fund. We're at now $300 million under management. We've invested in companies in 39 states to over 175 companies today. I like to joke. We've invested in everything from a swimsuit company to a labor marketplace, to a company building FinTech software for truckers, to a healthcare company trying to solve really important challenges around fertility.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 7407,
+      "timestamps": []
+    },
+    {
+      "end": 8594,
+      "excerpt": "One of the joys of being here is being able to talk to founders not only from all backgrounds and locations, but people who are trying to solve problems in every conceivable industry you can imagine. That's been really an enjoyable process, but as far as my particular investment thesis, I do come from healthcare. So, I'm passionate about space and the immense challenges we still have to solve there around access and affordability. But I also think there's huge challenges that we're seeing in energy. We're seeing in the financial industry, and there's a lot of ways to make an impact. I'm trying to make investments in places where I really believe they're pushing the needle on access and affordability, whether that's in healthcare or in the future of work or in cleantech and climate tech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7797,
+      "timestamps": []
+    },
+    {
+      "end": 8859,
+      "excerpt": "Gopi Rangan: I know we have co-invested in a few companies. For example, Insurerate is a startup that we invested in recently. I'm curious to understand what happens in the first meeting. What do you look for in the first few conversations with the entrepreneur? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8596,
+      "timestamps": []
+    },
+    {
+      "end": 9026,
+      "excerpt": "Ayush Jain: Yeah, that's a great question. I think in our first meeting, I know a lot of people have used this example before, but it's kind of like going on a date.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 8861,
+      "timestamps": []
+    },
+    {
+      "end": 9163,
+      "excerpt": "You're trying to find the chemistry between yourself and the founder because it's more than just an investment. Like I talked about... ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9028,
+      "timestamps": []
+    },
+    {
+      "end": 9273,
+      "excerpt": "Gopi Rangan: Interesting. You say going on a date. Okay. I'm really curious now. What happens on this date? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9165,
+      "timestamps": []
+    },
+    {
+      "end": 9735,
+      "excerpt": "Ayush Jain: Yeah. It's really about seeing if there is a shared vision for a future together. When you talk to a founder and if you can see the chemistry, their passion, and their conviction for the problem they're solving, as an investor, you really need to find your way to that place with them. If you can, it's grounding for an amazing relationship where you can really help them and support them as they build their company and make their dream come true.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 9275,
+      "timestamps": []
+    },
+    {
+      "end": 10100,
+      "excerpt": "There are always times where maybe there's not that alignment on whether it's a personality thing or something else. Even if the company's building something that's really interesting, so much of a successful partnership between an investor and a founder stems from an underlying foundation of trust and belief in each other and a desire to work closely together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9737,
+      "timestamps": []
+    },
+    {
+      "end": 10834,
+      "excerpt": "So, that's one aspect of what I really look for in establishing a relationship with someone during the pitch meeting and in future meetings. To get more specific, what I really look for in an investment is someone who I believe is solving a problem that should be solved and it's a problem in an area that they understand deeply. That doesn't always mean that they have to have some sort of traditional perfect background that allows them to build something. In fact, I think companies are easier to start today than they've ever been before because of amazing tools and software that allow an entrepreneur to spin up an idea on a napkin and turn it into an MVP (Minimum Viable Product) and launch a product pretty quickly nowadays.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10102,
+      "timestamps": []
+    },
+    {
+      "end": 11180,
+      "excerpt": "It's much more about a founder or a CEO who has lived experience with the problem and who can see a path through to a solution. I'll give you a really good example. There's a fascinating story in our portfolio around a company called Medzoomer, which is a Tampa Bay company that is trying to bridge the last mile for prescription drug delivery.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10836,
+      "timestamps": []
+    },
+    {
+      "end": 11669,
+      "excerpt": "This company is founded actually by an ex-NFL player whose career was cut short because of back injuries, and he experienced a lack of access to prescription drugs that he really needed to heal and get better. That failure of the system to provide him with what he needed was the impetus behind starting the company. It's a fascinating company in a fascinating space. They're doing really well and growing quickly. I think so much of that is his vision and lived experience that he had. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11182,
+      "timestamps": []
+    },
+    {
+      "end": 11869,
+      "excerpt": "Gopi Rangan: What happened in that first meeting with the founder, an NFL player turned into healthcare professional. What was the first meeting like? Were you in the meeting? What did you ask him? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11671,
+      "timestamps": []
+    },
+    {
+      "end": 12116,
+      "excerpt": "Ayush Jain: Yeah, Marvin, the CEO, said he was an ex-NFL player and that's the genesis of his understanding of the problem and he actually started the company during COVID. So, there were so many fascinating storylines that he was talking about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 11871,
+      "timestamps": []
+    },
+    {
+      "end": 12728,
+      "excerpt": "What really connected with me was that he didn't want to wait to try to solve this problem. He felt like he needed to figure out how to just find a team and pull people together. He did it in November of 2020 and started building and started launching and just went with the flow. That attitude of building first and managing any challenges as they come, I think really inspiring and a quality that is essential for an entrepreneur. I'm a big Patriots fan, and we talked about the NFL a little bit. I was geeking out just as a fan of the game, but of course, it quickly turned to the important problem-solving.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12118,
+      "timestamps": []
+    },
+    {
+      "end": 13062,
+      "excerpt": "Gopi Rangan: Passionate and motivated entrepreneurs don't wait. They are impatient and they want to jump in and take action. They don't let a lack of skill or experience prevent them from moving forward. You can pick up all of those things along the way. I can see that that came through in the first meeting when you talked to him.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12730,
+      "timestamps": []
+    },
+    {
+      "end": 13349,
+      "excerpt": "Ayush Jain: Yes, that's it exactly. I think you nailed it. Entrepreneurs, when they experienced a problem that they believe they can solve, they don't wait. They get right into it. What's interesting is there's often a mantra that people ascribe to entrepreneurship about failing fast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 13064,
+      "timestamps": []
+    },
+    {
+      "end": 13885,
+      "excerpt": "Try something quickly and move on to the next thing. People sometimes mistake that to mean to just move on quickly to the next idea or to the next startup. Just look for failure and as soon as you see failure, just move on to the next thing. But actually, I don't agree with that. I think it's more about finding the conviction to stick out your process towards finding a solution than it is about looking to fail quickly. I know that might be splitting hairs a little bit, but I'll give you an example of why I think it's important. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13351,
+      "timestamps": []
+    },
+    {
+      "end": 14807,
+      "excerpt": "A lot of people talk about the hockey stick style growth that a venture capital investor looks for in a potential investment. If you think about what that hockey stick growth looks like, the curve, it's sort of a flat line. Then there's an inflection point where the company really takes off and there's incredible growth, and it's almost a straight vertical line upward. Well, that flat line before that inflection point is a period of time where the entrepreneur could give up. Maybe it's hard to see the light at the end of the tunnel, but I think the best entrepreneurs are people who persist along that flat line. Eventually, they find a path toward that inflection point. So, it's really, for me, about persistence and the will to execute. Maybe when it's not as clear that there's going to be a successful outcome right away. But I think that's a really essential piece to building a successful company, I think. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13887,
+      "timestamps": []
+    },
+    {
+      "end": 15229,
+      "excerpt": "Gopi Rangan: How can they do that? It's a very powerful force when perseverance prevails. Entrepreneurs can stick it out, execute, don't just accept failure and pivot and keep pivoting. If they stick to the course and see it through, learn from some other blips along the way, that's a great way to see the mission of their business and see the day of light. But how do you do that? What's your advice to entrepreneurs? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14809,
+      "timestamps": []
+    },
+    {
+      "end": 16219,
+      "excerpt": "Ayush Jain: It's a few things. One aspect of perseverance really stems from conviction in a problem you're solving. I'll give you an example of a company that I think has persevered tremendously and has found its way to hockey stick-style growth. By no means was it an easy path, but it's because of the founder's conviction that they were bringing a really important problem to bear and finding a solution for it. The company is called Quick. They're based in Phoenix, Arizona, and they are creating a labor marketplace for people in the food and beverage and service industry to allow them to have more flexibility in their work life to be able to find jobs when they need; to be able to find the balance that they need in their lives while they work. It's a really important industry that serves a massive population in this country, and it's something that is really challenging for a lot of people because it is often very difficult to find the jobs that you need when you need them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 15231,
+      "timestamps": []
+    },
+    {
+      "end": 16838,
+      "excerpt": "This company was just trying to solve that problem more effectively. One thing that I'm sure you're thinking about is being in a global pandemic over the last couple of years, we've seen the service industry undergo probably the greatest challenges it's ever faced. A company like Qwick the entrepreneur behind it, Jamie Baxter, decided to persevere because he truly believed he was bringing value to people and to small businesses. The way he did that is, there are the traditional things like he cut burn, he reassessed some of the business models. He found ways to find value in the market and other creative ways.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16221,
+      "timestamps": []
+    },
+    {
+      "end": 17383,
+      "excerpt": "I think what really allowed him to persevere through the pandemic and through a major overhaul and serious challenges that the service industry faced was the conviction that he was going to provide value to people's lives and there would be a place for a platform like that post-pandemic, and he's been proven right. Sometimes it's just about sticking it out. You're on that flat line and you really believe that what you're building can help make an impact. You see it through and now hopefully you do find your way to that inflection point. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16840,
+      "timestamps": []
+    },
+    {
+      "end": 17715,
+      "excerpt": "Gopi Rangan: Very interesting. Building a business is already hard enough and doing it in the middle of COVID is much more difficult. I can see the need for a solution like this in the world today. I want to ask you more about health care and med tech. What are some interesting trends? What is exciting for you in these sectors? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17385,
+      "timestamps": []
+    },
+    {
+      "end": 18181,
+      "excerpt": "Ayush Jain: Oh! I'm so glad you asked. There's just so much happening. A lot of people talk about the fundamentally broken system that I think we have in healthcare and they're right. There's a lack of access to healthcare in many ways. There's a lack of affordability. There are huge barriers to successfully getting perhaps a new diagnostic or therapeutic to market it for good reason, I think on the regulatory side, but also just barriers to acquiring capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 17717,
+      "timestamps": []
+    },
+    {
+      "end": 19175,
+      "excerpt": "These are challenges that really need to be overcome in the healthcare industry if we're going to be able to improve people's lives. A few trends that I'm really excited about in healthcare are the advent of new material science and tissue engineering to really push the envelope for faster healing, organ transplants, and all kinds of interesting use cases. I invested in a company called Dimension Inx in Chicago that's trying to build a platform based on 3D printing to really allow for tissue regeneration. I don't think it will be too long in the future before we start to see companies like Dimension be able to 3D print organs on demand for a patient. It sounds like fantasy and sci-fi, and that's what's really interesting about it, but we're closer than we think to hope that future. The organ transplant list today is extremely long, and there's a lack of access for people to be able to get the organ that they need. There are companies that are trying to push the envelope there. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18183,
+      "timestamps": []
+    },
+    {
+      "end": 19671,
+      "excerpt": "Another trend that I think is really fascinating in healthcare is the importance of data security. There are obviously laws like HIPAA compliant laws that dictate how companies and health systems manage patient data. So another interesting area of healthcare that I think a lot of people get wrong is around data security. In healthcare, we see laws like HIPAA compliance that a lot of companies try to navigate around by anonymizing data and de-identifying data to basically conduct analysis. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19177,
+      "timestamps": []
+    },
+    {
+      "end": 20152,
+      "excerpt": "Another trend in healthcare, which I think by a lot of people is seen as a bad thing is the consumerization of healthcare. Consumerization of healthcare is the idea that today patients and people everywhere are taking their healthcare into their own hands through the use of new technology and tools. For example, the Apple watch at its most basic level, allows people to understand maybe their heart rate and it allows people to better categorize their workout or their fitness.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19673,
+      "timestamps": []
+    },
+    {
+      "end": 20904,
+      "excerpt": "There are a lot of tools like that that are enabling people to really pay attention to their health. Another example is the advent of telehealth, especially during COVID, which has really transformed the landscape for people to talk to a doctor from wherever they are. They don't necessarily have to go into a practice or go into a hospital. Now they can talk to a physician or a nurse practitioner from anywhere. That consumerization of healthcare, bringing healthcare to the people, is a really important trend. I think a lot of healthcare professionals perhaps don't like that because it seems to them that you're taking away the important difficult topics of healthcare and giving the patient and the person too much agency to dictate their care.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20154,
+      "timestamps": []
+    },
+    {
+      "end": 21220,
+      "excerpt": "The consumerization of healthcare allows people to take ownership of their health in a way that was never possible before. Ownership is a good thing. It means that patients can find a path that works for them towards taking care of their bodies and taking care of their livelihoods and taking care of their health.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20906,
+      "timestamps": []
+    },
+    {
+      "end": 21610,
+      "excerpt": "I have so many examples of people who see a doctor maybe every decade and really only when something goes wrong. I think the advent of remote monitoring technology and really innovative telehealth platforms are giving people a chance to talk to a doctor and to learn more about their health in a way that is empowering them to really make a change in their life. That's a positive thing. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21222,
+      "timestamps": []
+    },
+    {
+      "end": 22008,
+      "excerpt": "Gopi Rangan: These are big trends indeed. The quantified self, the amount of data available using sensors all around us today, and access to providers through telehealth facilities certainly give the consumer more power more information today so they can make more informed decisions. I'm excited to see what comes up in the future with entrepreneurs who build innovative solutions in this space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21612,
+      "timestamps": []
+    },
+    {
+      "end": 22178,
+      "excerpt": "I want to switch to the next part of our conversation and ask you about your community activity. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22010,
+      "timestamps": []
+    },
+    {
+      "end": 22724,
+      "excerpt": "Ayush Jain: Oh, yeah. Thank you for asking. I'm very passionate about mentorship as a concept. I've been really lucky to be mentored by amazing individuals throughout my life and my career. So, I decided I wanted to find a way to serve that mission more broadly. Several years ago, I served as the co-president of a nonprofit called Minds Matter San Francisco. They provide mentorship and guidance and resources to high schoolers across the country who come from low-income backgrounds but are high achieving and want to find a path to college.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 22180,
+      "timestamps": []
+    },
+    {
+      "end": 23106,
+      "excerpt": "It's something I really believe in because college changed the course of my family's life and it changed my life too. One of the challenges with a lot of low-income households and students who come from those households is the ability to access good advice for what they should do next and how they should apply to college and how they should make their way into higher education.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22726,
+      "timestamps": []
+    },
+    {
+      "end": 23560,
+      "excerpt": "That advice and that support and that guidance from my own experience, seeing it happen and play out in this non-profit has been really a delightful, amazing experience. One of the students that I mentored now has gotten to be the valedictorian of her university. And I think just moments like that where you realize that there's so much potential that perhaps just needs a little bit of guidance to really find the path, that's really exciting to me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23108,
+      "timestamps": []
+    },
+    {
+      "end": 23960,
+      "excerpt": "Gopi Rangan: Timely advice from someone knowledgeable can have a transformative impact on people's lives and careers. Ayush, thank you so much for spending time with me sharing practical insights and real-life wisdom based on your experiences, and your interactions with entrepreneurs. Thanks a lot for your advice to founders. I look forward to finding ways to collaborate more and more with you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23562,
+      "timestamps": []
+    },
+    {
+      "end": 24031,
+      "excerpt": "Ayush Jain: Thank you so much, Gopi. I really appreciate being here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ayush Jain",
+      "start": 23962,
+      "timestamps": []
+    },
+    {
+      "end": 24195,
+      "excerpt": "Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24033,
+      "timestamps": []
+    },
+    {
+      "end": 24362,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24197,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "88a1cc4bc84846022d56cabb45fcdfe8f4db75f26759c93e64102df0c87f9e62",
+  "text_sha256": "5d8afcd86700860e430162e02106896af1cebfba71834679c9827e3d518a213f"
+}

@@ -1,0 +1,1101 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 511,
+      "excerpt": "Hans Morris: [00:00:00] How you handle data is essential. And yet there is no set standard globally. I'd say the standard is something like don't be creepy, but it's getting more and more creepy. And I think that the fact that there's not really a clear. Framework around to evaluate it to me, that's something that we need because otherwise there could be some great disasters coming and companies that think they're operating in a way that is fair, but that society may decide that the line is someplace else.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 13,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 974,
+      "excerpt": "Gopi Rangan: You are listening to the sure shot entrepreneur podcast for founders with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the shore [00:01:00] shot. In this episode, my guest is Hans Morris is the founder and managing partner at Nika partners. Nika is one of the earliest FinTech venture capital firms and he's based in New York.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 513,
+      "timestamps": [
+        {
+          "offset": 777,
+          "raw": "[00:01:00]",
+          "seconds": 60
+        }
+      ]
+    },
+    {
+      "end": 1086,
+      "excerpt": "He also has a presence in the Silicon valley in San Fran, Cisco, Hans, welcome to the shore shot entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 976,
+      "timestamps": []
+    },
+    {
+      "end": 1139,
+      "excerpt": "Hans Morris: Thank you Gobi. It's nice to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 1088,
+      "timestamps": []
+    },
+    {
+      "end": 1256,
+      "excerpt": "Gopi Rangan: Tell me about yourself, starting with your career through financial services in many different roles. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1141,
+      "timestamps": []
+    },
+    {
+      "end": 1457,
+      "excerpt": "Hans Morris: Okay. Well, I started at investment banking right out of college, and I worked originally in public finance, working with state governments in housing and student loan finance, actually.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 1258,
+      "timestamps": []
+    },
+    {
+      "end": 1804,
+      "excerpt": "And then I ended up going into asset finance and I headed the groupers co-head of the group at Smith Barney, where I worked. After a couple of years at Smith point, it was bought by Sandy. And Jamie diamond was a very young and remarkably talented CFO at that point. And there was a lot of other great executives who came to work at Smith party.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1459,
+      "timestamps": []
+    },
+    {
+      "end": 2164,
+      "excerpt": "Many [00:02:00] of whom I learned a lot from, and I was made head of the financial institutions group when I was very young. And I ran that group for 12 years, I guess in the meantime we acquired lots of other companies. We bought travelers insurance and we bought Shearson and we were, we bought Solomon brothers and then we merged with Citi Citibank in 98.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1806,
+      "timestamps": [
+        {
+          "offset": 1811,
+          "raw": "[00:02:00]",
+          "seconds": 120
+        }
+      ]
+    },
+    {
+      "end": 2500,
+      "excerpt": "After that I got into ministrative type of jobs. So one was, I was the chief operating officer of the investment bank for a couple of years. And then I have a CFO and head of operations and technology for the institutional businesses city, which was a huge business and very complicated. And I often say some problem every single day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2166,
+      "timestamps": []
+    },
+    {
+      "end": 2855,
+      "excerpt": "And I learned a lot. My career therefore has eight years working in early securitizations back when that was the technologies almost being developed. And then 12 years working with financial services companies, some of which I did a lot of work personally in payments and market structure and other areas, which are relevant to [00:03:00] FinTech today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2502,
+      "timestamps": [
+        {
+          "offset": 2830,
+          "raw": "[00:03:00]",
+          "seconds": 180
+        }
+      ]
+    },
+    {
+      "end": 3253,
+      "excerpt": "And then. Seven years in very complex operational jobs, understanding just how hard it is to change a lot of the courses. And then I left and went to visa and was appointed president during the restructuring of visa and IPO visa. After that I left because I didn't get the CEO job. And I went to general Atlantic as a partner in heading their financial services group and learned a lot there too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2857,
+      "timestamps": []
+    },
+    {
+      "end": 3553,
+      "excerpt": "So I'd say that'll lead to the decision to start Nika, which was basically that I felt that there was an explosion. Of early stage FinTech companies, many of which though they needed more help on understanding the financial system. And that's what I felt we could create. So the start started 2014.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3255,
+      "timestamps": []
+    },
+    {
+      "end": 3690,
+      "excerpt": "Gopi Rangan: You come from the fin part of FinTech. How did the venture capital attract you? What do you really like about venture cap?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3555,
+      "timestamps": []
+    },
+    {
+      "end": 3930,
+      "excerpt": "Hans Morris: Well, I'd say at all those companies, really, if you think about it at Citi, and if he's a, and a lot of the companies I [00:04:00] worked with, the technology was key part of competitive advantage and something I focused on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 3692,
+      "timestamps": [
+        {
+          "offset": 3826,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 4422,
+      "excerpt": "So I would say I've been on the. Tech part of sin for, for a couple of decades. It actually gives me a big advantage because I have the understanding the historical context in terms of why things are the way they are. But I also say I really was changed dramatically from my exposure to Silicon valley, which started really when I moved to San Francisco to start working at visa, I just met a whole group of people that I didn't know at all and understood better how startups actually work.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3932,
+      "timestamps": []
+    },
+    {
+      "end": 4476,
+      "excerpt": "I didn't really have any idea how that worked until.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4424,
+      "timestamps": []
+    },
+    {
+      "end": 4650,
+      "excerpt": "Gopi Rangan: You started Nika in 2014. And you were one of the earliest venture capital investors in FinTech. What was your expectation then? What was your vision for Nika?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4478,
+      "timestamps": []
+    },
+    {
+      "end": 4951,
+      "excerpt": "Hans Morris: Sorry, it was, I thought there was this big gap that there were a lot of there too. There's some VCs that were extraordinarily successful investors in financial services, going back to, you know, whether PayPal [00:05:00] or square or Stripe or, or lending club or many other companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 4652,
+      "timestamps": [
+        {
+          "offset": 4876,
+          "raw": "[00:05:00]",
+          "seconds": 300
+        }
+      ]
+    },
+    {
+      "end": 5300,
+      "excerpt": "But even the most successful, even the really smart, very gifted investors at that point did not know that much about the financial stuff. What I felt is we could help guide the entrepreneurs to faster ways of getting things done. So focus on the right problem if we did that, we could help the entrepreneurs be more successful and avoid mistakes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4953,
+      "timestamps": []
+    },
+    {
+      "end": 5696,
+      "excerpt": "So I really thought of ourselves as we would be collaborative with the other leading investors, we'd have a small fund. We could just collaborate. And I had no idea that the whole area would explode to be as large and significant as it is today. And I also felt that some of the ideas that people were talking about were truly transformational were really big ideas and made significant impact.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5302,
+      "timestamps": []
+    },
+    {
+      "end": 5740,
+      "excerpt": "So it was just exciting to be part of it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5698,
+      "timestamps": []
+    },
+    {
+      "end": 5925,
+      "excerpt": "Gopi Rangan: So over the past seven years, Nika has become one of the leading FinTech focused venture capital firms. How has your [00:06:00] thinking evolved in the past seven years? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5742,
+      "timestamps": [
+        {
+          "offset": 5872,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 6080,
+      "excerpt": "Hans Morris: I felt from the beginning that there were big ideas, but we also were acutely aware of the difficulties of achieving some of those outcomes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 5927,
+      "timestamps": []
+    },
+    {
+      "end": 6531,
+      "excerpt": "I was, it was really hard to change an ecosystem. You know, the financial system is very complex as lots of participants and you can't really disrupt the whole. Probably at the beginning, we were too risk averse, too aware of the problems and complexities and not giving enough credit that just some entrepreneurs who just figure this out and just make it happen through, in some cases, just sheer force of personality and their ability to persuade.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6082,
+      "timestamps": []
+    },
+    {
+      "end": 6954,
+      "excerpt": "Others to inspire investors. So to be able to raise a lot of money at evaluations, which enabled them to make these big investments, and also that they'd be able to attract incredible talent and they'd be able to build things and solve problems very quickly. So that's one mistake. I think we made. We there's a lot of great examples that you could look at Coinbase [00:07:00] or ripple or Marketa or chime or Robin hood.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6533,
+      "timestamps": [
+        {
+          "offset": 6899,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 7370,
+      "excerpt": "You know, those are all really great entrepreneurs and we could have invested in, but we saw more of, well evaluation's too high or there's this problem with that problem. And so that's something I've learned acutely. The other thing is that it's still really hard to change an ecosystem, but as the larger ecosystem evolves, I could see circumstances that could lead to some really major changes to the ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6956,
+      "timestamps": []
+    },
+    {
+      "end": 7567,
+      "excerpt": "The conditions precedent are happening. Crypto and CB central bank digital currencies is as an example of that or securities clearing. I mean, there's lots of things which I think fall into that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7372,
+      "timestamps": []
+    },
+    {
+      "end": 7717,
+      "excerpt": "Gopi Rangan: Hunter. You're the, one of the first VCs that leads the conversation with an anti-portfolio startups that you wish you had invested in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7569,
+      "timestamps": []
+    },
+    {
+      "end": 8144,
+      "excerpt": "Hans Morris: Yes. I often say we had the best anti-portfolio in the business because I think it's true. Sometimes we were right. I mean, the CFO of hippos and other ones where [00:08:00] I thought he was, you know, crazily talented, but I thought his idea. Well, it was going to be, I thought like crack, she creating a full-stack insurance company and getting licensed and everything was just going to be a much longer haul.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 7719,
+      "timestamps": [
+        {
+          "offset": 7895,
+          "raw": "[00:08:00]",
+          "seconds": 480
+        }
+      ]
+    },
+    {
+      "end": 8325,
+      "excerpt": "So anyway, he was right. He's amazing guy, but he was amazing, you know, I thought he was amazing when we met him. It's just that I thought it was going to take too much capital. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8146,
+      "timestamps": []
+    },
+    {
+      "end": 8535,
+      "excerpt": "Gopi Rangan: But what do you for in startups when you meet, especially the first couple of conversations, are you looking for certain characteristics, certain trends, certain behaviors, and the founding team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8327,
+      "timestamps": []
+    },
+    {
+      "end": 8878,
+      "excerpt": "Hans Morris: To me, it's important. That they really understand the problem that they are trying to attack with sophistication. That's probably another mistake we've made, but I also think it's served us well like that they have a good, that they can describe the problem with precision and that their, their way of attacking it is credible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 8537,
+      "timestamps": []
+    },
+    {
+      "end": 9221,
+      "excerpt": "That's something we can help them with, you know, help them sort some [00:09:00] of that out. But I think the best founders have a. Real clear perspective on that and know how to do it. And they're very, very, you know, credible and convincing and, and not just to us, but to others too, because they're going to be able to then raise money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8880,
+      "timestamps": [
+        {
+          "offset": 8950,
+          "raw": "[00:09:00]",
+          "seconds": 540
+        }
+      ]
+    },
+    {
+      "end": 9577,
+      "excerpt": "The one big fact is your persuasiveness is important because it helps you. Not just raise money and track the other people to come work with you. But also it's like how you convince some big company to trust your software. And, you know, even though you're a small startup, they will use your software in some critical application and financial services.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9223,
+      "timestamps": []
+    },
+    {
+      "end": 9965,
+      "excerpt": "And then the other thing which I think is also true is why are some founders good? At establishing emotional connections with consumers or small businesses when they are [00:10:00] really, you know, they're just a startup. Why, why are they able to get that catch the lightning in a bottle and make it compelling so that people really believe in their product in a, in an emotional way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9579,
+      "timestamps": [
+        {
+          "offset": 9749,
+          "raw": "[00:10:00]",
+          "seconds": 600
+        }
+      ]
+    },
+    {
+      "end": 10339,
+      "excerpt": "I think that's a fascinating aspect of the last learning last 10 years or so. Is that. Some entrepreneurs are able to do that. And others who have an equally good product and equally good go to market, and yet they don't capture that emotional connection with consumers that caused them to, you know, really get significant take-up of when they're you know, a tiny little.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9967,
+      "timestamps": []
+    },
+    {
+      "end": 10695,
+      "excerpt": "Gopi Rangan: Yeah, some founders are able to do that. They're able to latch onto something that others have totally missed and they truly connect with the consumers. Now it could even be a B2B customer, or it could be a B to C consumer. Sometimes they are even able to change the behavior of these consumers. With their new solution, which is remarkable.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10341,
+      "timestamps": []
+    },
+    {
+      "end": 10992,
+      "excerpt": "And it's really hard [00:11:00] to see how all of that will have an impact. In the first couple of meetings, we can tell the story from the rear view mirror, after all the success has happened, but it's really hard to pick that up in the early stages at the beginning, you have no data to go on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10697,
+      "timestamps": [
+        {
+          "offset": 10718,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 11050,
+      "excerpt": "Hans Morris:  So it's a pure bed on the enterprise side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 10994,
+      "timestamps": []
+    },
+    {
+      "end": 11466,
+      "excerpt": "It's not a straightforward set of characteristics because you could have. Someone who is very buttoned up and professional and really understanding. The customers that well, but they may not be as compelling or persuasive as someone who is much less like the typical enterprise vendor, you know, you can have someone who's got a real like zany personality and yet they can get big company executives to trust them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11052,
+      "timestamps": []
+    },
+    {
+      "end": 11872,
+      "excerpt": "But I do think that no matter how outrageous someone may come across the successful ones really do understand exactly. What the circumstances are with that let's say bank or [00:12:00] insurance company that they're selling to, but they use that, that outrageousness to be convincing and to fit maybe the stereotype that that big institution has about what you a really great tech entrepreneur acts like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11468,
+      "timestamps": [
+        {
+          "offset": 11642,
+          "raw": "[00:12:00]",
+          "seconds": 720
+        }
+      ]
+    },
+    {
+      "end": 11903,
+      "excerpt": "So it's a great act when you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11874,
+      "timestamps": []
+    },
+    {
+      "end": 12208,
+      "excerpt": "Gopi Rangan: I'm really curious to go a little deeper on this. Can you give an example of a story, a success story, where you saw the entrepreneur, you saw the magic happen and you picked up on these capabilities early on, and then you saw how the story played out. Is there one that you can talk about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11905,
+      "timestamps": []
+    },
+    {
+      "end": 12549,
+      "excerpt": "Hans Morris: Well, Jack Dorsey, to some extent, I would say, you know, getting visa and JP Morgan chase. To support square. And actually w w it was so critical at the beginning of square, because at the, at the time, you know, there was a Verifone, the CEO of Verifone made a video that was. Challenging the fundamental security of square.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 12210,
+      "timestamps": []
+    },
+    {
+      "end": 12902,
+      "excerpt": "Having visa and chase as backers, I think was an essential [00:13:00] thing at that moment Jack was not a traditional, he was a a very unusual. Type of entrepreneur for a, for a bank or an enterprise, but he was persuasive and he got people to really believe in what he was doing to trust them. So that's one example, I think NEMA gum, sorry at blend.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12551,
+      "timestamps": [
+        {
+          "offset": 12610,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 13350,
+      "excerpt": "Was just incredible as a very effective, I mean, he got first Republic to be, I think they were the very first major customer. They got Wells Fargo to be customer and anemia is not, yeah, they're not outrageous, but they, but he definitely would, you know, would not go in dressed like an enterprise sales person he'd go into, I don't think he was wearing flip flops when he visited Wells Fargo, but he was close to it, but he also was extremely.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12904,
+      "timestamps": []
+    },
+    {
+      "end": 13608,
+      "excerpt": "Credible in terms of his understanding of what the problem was, his ability to defend the way they designed things. And he was just, I'd say, had a predator, natural [00:14:00] maturity about him and was very, you know, inspired a lot of confidence, right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13352,
+      "timestamps": [
+        {
+          "offset": 13518,
+          "raw": "[00:14:00]",
+          "seconds": 840
+        }
+      ]
+    },
+    {
+      "end": 13688,
+      "excerpt": "Gopi Rangan: Since when you started in FinTech, it was kind of a niche sector.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13610,
+      "timestamps": []
+    },
+    {
+      "end": 14058,
+      "excerpt": "There were not too many startups in that space, but now Fintech's kind of become mainstream and so many startups and pretty much every startup we see today has some kind of FinTech angle to it. What is interesting about FinTech? What's easy to build in FinTech and what's also challenging. And what would you caution entrepreneurs to think about before they jump into.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13690,
+      "timestamps": []
+    },
+    {
+      "end": 14599,
+      "excerpt": "Hans Morris: Well, I'd say that there's a lot of ideas are now very well-developed. So there's infrastructure too. Implement your ideas faster. That includes everything from API connectivity, which didn't really exist 10 years ago. And now it's easy to connect through plat or other companies. Even this bank is a service and insurances service that there's sometimes just pure infrastructure that you can rely upon getting [00:15:00] bank partners to be if you're, if you need balance sheet or a lending license or something, you now can.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 14060,
+      "timestamps": [
+        {
+          "offset": 14484,
+          "raw": "[00:15:00]",
+          "seconds": 900
+        }
+      ]
+    },
+    {
+      "end": 14946,
+      "excerpt": "You know, find bank partners. You could do an RFP for bank partners, which, you know what don't take a year before. Now at least people know what you're understand the vocabulary and the basic approaches. And so it's much more straightforward to do that. There's payment infrastructure, all the large legacy companies now have innovation groups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14601,
+      "timestamps": []
+    },
+    {
+      "end": 15268,
+      "excerpt": "In many cases, multiple groups dealing with all different areas of finance to help entrepreneurs get access to the right people. So that's. I'd say manifestly simpler than it was 10 years ago. The thing that when we look at entrepreneurs, you also want to know, okay, well, how there's often lots of competitors already.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14948,
+      "timestamps": []
+    },
+    {
+      "end": 15624,
+      "excerpt": "So if you come in with an idea, pick anything, almost seek, there'll be many, many, many existing competitors and many FinTech, a better, it's not just legacy company. For the entrepreneur, to me, it's like, how well can you with precision outline that opportunity? What the gap is in the market and [00:16:00] how you're going to be able to attack that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15270,
+      "timestamps": [
+        {
+          "offset": 15570,
+          "raw": "[00:16:00]",
+          "seconds": 960
+        }
+      ]
+    },
+    {
+      "end": 15749,
+      "excerpt": "And why is a big opportunity? And what about you and your team and your technology you developed is going to be successful?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15626,
+      "timestamps": []
+    },
+    {
+      "end": 15955,
+      "excerpt": "Gopi Rangan: It has come a long way. I recognize many of the trends that you meant. There's more than a hundred billion dollars of venture capital funding. There are tens of unicorns in the FinTech space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15751,
+      "timestamps": []
+    },
+    {
+      "end": 16016,
+      "excerpt": "Have you reached the peak of FinTech? Are we just starting?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15957,
+      "timestamps": []
+    },
+    {
+      "end": 16394,
+      "excerpt": "Hans Morris: You can imagine infrastructure, these very, very hard problems now making progress against them. It's because certain ideas suddenly. Take on your past the tipping point and no one will think it's crazy to envision some profound changes where again, five years ago, some of those problems were just unlikely to be solved by a single company or group of companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 16018,
+      "timestamps": []
+    },
+    {
+      "end": 16646,
+      "excerpt": "So yeah, every week we see like 20 or 25 inbound, maybe more now, somewhere between 20 and 30 inbound companies per week. [00:17:00] Some are just ideas we've seen and don't stand out, but some are really profound. We get impressed every single week.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16396,
+      "timestamps": [
+        {
+          "offset": 16518,
+          "raw": "[00:17:00]",
+          "seconds": 1020
+        }
+      ]
+    },
+    {
+      "end": 16809,
+      "excerpt": "Gopi Rangan: I see what you mean that the outlandish ideas that were dismissed seven or eight years ago now have a chance because it's much more well understood.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16648,
+      "timestamps": []
+    },
+    {
+      "end": 17136,
+      "excerpt": "And the infrastructure is ready for those kinds of companies. Is that a change in your strategy on how you find entrepreneurs and what kind of entrepreneurs you invest in? Do you prefer entrepreneurs with financial services background, or do you prefer someone who is more of a brilliant entrepreneur and we'll figure it out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16811,
+      "timestamps": []
+    },
+    {
+      "end": 17172,
+      "excerpt": "The financial services part later.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17138,
+      "timestamps": []
+    },
+    {
+      "end": 17583,
+      "excerpt": "Hans Morris: Yeah, I don't think they necessarily have to have a funny social services background. They have to have a clear understanding of the problem that they're attacking and why their approach can solve it, even if they still need help on figuring that out. I think that there's many examples where we've met an entrepreneur and they just have a basic game plan, but there's a lot more work to be done.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 17174,
+      "timestamps": []
+    },
+    {
+      "end": 17933,
+      "excerpt": "And usually some [00:18:00] of those people turn out to be remarkable. Thought machine talks about how he sold his company to Google, which was a linguistics translation company. He and his team just felt, they were asked about creating an effective core processor and system of record. And their view was like, well, how complicated could this be?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17585,
+      "timestamps": [
+        {
+          "offset": 17602,
+          "raw": "[00:18:00]",
+          "seconds": 1080
+        }
+      ]
+    },
+    {
+      "end": 18191,
+      "excerpt": "This is how we should be able to figure out this is simple problem. They learn that it's a lot more complicated than they thought, but they assembled, they were right in the fact that we have incredible engineering talent. You can figure out most probably.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17935,
+      "timestamps": []
+    },
+    {
+      "end": 18326,
+      "excerpt": "Gopi Rangan: So domain expertise is not necessary. It's good to have, but deep domain expertise is not necessarily right off the bat.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18193,
+      "timestamps": []
+    },
+    {
+      "end": 18658,
+      "excerpt": "Hans Morris: Yeah. I mean, though, I would say if you have the combination of someone who is a great leader, great skill and persuasion, strong technical talent they have around or around them and domain expertise. That's a very strong combination, but you don't need all those. You can be successful without all those characters.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 18328,
+      "timestamps": []
+    },
+    {
+      "end": 18785,
+      "excerpt": "Gopi Rangan: So you meet [00:19:00] more than 20, 30 companies per week. I don't always meet them and we will get proposals. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18660,
+      "timestamps": [
+        {
+          "offset": 18685,
+          "raw": "[00:19:00]",
+          "seconds": 1140
+        }
+      ]
+    },
+    {
+      "end": 18991,
+      "excerpt": "Hans Morris: We had stuff sent to us or people want to introduce someone I'd say every single week, it's 20 to 30, but we don't, we don't end up meeting all, you know, we don't meet 1500 companies a year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 18787,
+      "timestamps": []
+    },
+    {
+      "end": 19075,
+      "excerpt": "Gopi Rangan: So you get inbound interest from more than 20, 30 companies per week.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18993,
+      "timestamps": []
+    },
+    {
+      "end": 19172,
+      "excerpt": "How many of them do you end up meeting and how many of them do you end up investing in a year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19077,
+      "timestamps": []
+    },
+    {
+      "end": 19356,
+      "excerpt": "Hans Morris:  We invest in probably 12 or 14 companies per year, and we'd probably meet with 300 or so. I think we've probably meet on average between five and 10 companies per week.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 19174,
+      "timestamps": []
+    },
+    {
+      "end": 19497,
+      "excerpt": "Gopi Rangan: Well, how long does it take from the first meeting to the point where you say, yeah, I want to invest that varies quite a bit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19358,
+      "timestamps": []
+    },
+    {
+      "end": 19512,
+      "excerpt": "Hans Morris: ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 19499,
+      "timestamps": []
+    },
+    {
+      "end": 19918,
+      "excerpt": "I actually liked the idea of just meeting someone before their fundraising, where it's less of a pitch and more a discussion of the, the issue and the problem. And then you get to know. That entrepreneur over a series [00:20:00] of sessions, because it's a long haul. If you're investing early stage, it's going to be six to 10 years before you exit and you better like each other and respect each other.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19514,
+      "timestamps": [
+        {
+          "offset": 19732,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 20331,
+      "excerpt": "Therefore it's not something that should be rushed into. I think it's much better if you have an organic. Give and take. And sometimes that will take the case. We'll, we'll decide an idea is early, but we like that entrepreneur. And it's very interesting to see them again a year later, or to just get periodic updates and see what's changed how their thinking as evolved, what sort of traction they're getting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19920,
+      "timestamps": []
+    },
+    {
+      "end": 20768,
+      "excerpt": "But sometimes we will also meet someone. And particularly if it's an area that we've been focused on and we know this is an area we want to make an investment. It's something that we've got a strong hypothesis about. We've met lots of other companies and you'll sometimes meet someone or a team and just decide, this is the group that this is very clear and it becomes immediately clear that they're better than anyone else you've met.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20333,
+      "timestamps": []
+    },
+    {
+      "end": 20970,
+      "excerpt": "So that happens. [00:21:00] But anyway, I'd say normal process might be somewhere between four weeks start to finish or something, but it could also be several months and then it might be over a year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20770,
+      "timestamps": [
+        {
+          "offset": 20787,
+          "raw": "[00:21:00]",
+          "seconds": 1260
+        }
+      ]
+    },
+    {
+      "end": 21216,
+      "excerpt": "Gopi Rangan: Yeah, these relationships are long lasting. Sometimes even last beyond the life of the company, into the second company in the future to, to very important, to form that chemistry early on, it's really hard to develop a formula on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20972,
+      "timestamps": []
+    },
+    {
+      "end": 21284,
+      "excerpt": "Can you do this in a few hours or a few weeks? A few months. Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21218,
+      "timestamps": []
+    },
+    {
+      "end": 21583,
+      "excerpt": "Hans Morris: And I really don't like that. I recognize that sometimes we have to respond quickly because it's a very competitive process and there's a lot to like, but I must say it's to me, it's not really in the interest of. The investor or the entrepreneur, how has COVID changed your business?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 21286,
+      "timestamps": []
+    },
+    {
+      "end": 21598,
+      "excerpt": "Gopi Rangan: ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21585,
+      "timestamps": []
+    },
+    {
+      "end": 21721,
+      "excerpt": "Has it had an impact on how you meet entrepreneurs, how much time you spend or how you manage your due diligence process?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21600,
+      "timestamps": []
+    },
+    {
+      "end": 21939,
+      "excerpt": "Hans Morris: First, we felt that you couldn't invest in a company if you hadn't met the entrepreneur, but then we've definitely invested in a [00:22:00] bunch of, we've never met them and you've just done zoom calls.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 21723,
+      "timestamps": [
+        {
+          "offset": 21865,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 22335,
+      "excerpt": "And I think several of those have worked out just fine. I do think though, it's always better to meet in person for us and for the entrepreneur because it's a more relaxed. Way of talking about things, you know, the discussions sometimes go deeper and they also sometimes go in a less direct route to get to a good discussion about an issue or a problem, and really see each other more clearly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21941,
+      "timestamps": []
+    },
+    {
+      "end": 22666,
+      "excerpt": "And there's one company I can think of this year that I was ready to. I was pretty skeptical and ready to pass. And one of my colleagues felt we really ought to meet in person and we met in person and I was persuaded at that time. Now that people are vaccinated and you could walk outside, we're tending to meet people in person.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22337,
+      "timestamps": []
+    },
+    {
+      "end": 22686,
+      "excerpt": "Most of the time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22668,
+      "timestamps": []
+    },
+    {
+      "end": 22898,
+      "excerpt": "Gopi Rangan: Yeah, it can never be replaced meeting people in person. And that personal interaction is still far more valuable than any amount of remote work. Although there are some advantages to remote work. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22688,
+      "timestamps": []
+    },
+    {
+      "end": 23045,
+      "excerpt": "Hans Morris: Well, definitely we would, you know, you're not thinking people [00:23:00] fly across the country to come to your partner's meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 22900,
+      "timestamps": [
+        {
+          "offset": 22977,
+          "raw": "[00:23:00]",
+          "seconds": 1380
+        }
+      ]
+    },
+    {
+      "end": 23296,
+      "excerpt": "For example. Maybe good, but it's become perfectly acceptable to do that on zoom. If I was advising an entrepreneur, I would say, look, you're going into a marriage here. Take your time. Make sure you really understand the personality of your party.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23047,
+      "timestamps": []
+    },
+    {
+      "end": 23430,
+      "excerpt": "Gopi Rangan: So, did you make a dozen investments and the pace of investments was the, was it the same compared to the years before?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23298,
+      "timestamps": []
+    },
+    {
+      "end": 23724,
+      "excerpt": "Hans Morris: Yeah, it was actually in some ways, I'd say for the first couple of months, we didn't make any investments until probably June, July, maybe we made our first and then, so in some ways we compressed more into a shorter period of time because for a couple months we didn't make it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 23432,
+      "timestamps": []
+    },
+    {
+      "end": 23822,
+      "excerpt": "Gopi Rangan: Okay. Did you make any investments without ever meeting the entrepreneur in person?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23726,
+      "timestamps": []
+    },
+    {
+      "end": 24001,
+      "excerpt": "Hans Morris: Yeah. Several soft machine was one we never met. I still haven't met them and GoCardless. I haven't met them either. They're both in London, probably half of them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 23824,
+      "timestamps": []
+    },
+    {
+      "end": 24162,
+      "excerpt": "Gopi Rangan: We haven't met in person. Would you like to give to entrepreneurs before they come to meet you? [00:24:00] What can they do to prepare themselves?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24003,
+      "timestamps": [
+        {
+          "offset": 24112,
+          "raw": "[00:24:00]",
+          "seconds": 1440
+        }
+      ]
+    },
+    {
+      "end": 24250,
+      "excerpt": "Hans Morris: The questions I like to ask are we've really covered them, which is okay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 24164,
+      "timestamps": []
+    },
+    {
+      "end": 24649,
+      "excerpt": "Define the problem with precision, including what the other competitors are doing and why, what are the weaknesses of those different approaches? And then a key thing which I care about is how much capital will it take to implement your business model, including operating a business model, because in financial services, the degree of risk you have in the business, the risk potentially you have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24252,
+      "timestamps": []
+    },
+    {
+      "end": 25145,
+      "excerpt": "Determines how much capital you need to run that business, not just capital to build it up to scale, but also to operate even at scale. That model affects the exit a lot. That's a topic that's extremely important to me. Many entrepreneurs haven't really thought that through completely. And so that doesn't mean that to me, that's, it's something to talk about a right wrong answer, but that's something I certainly think about when I'm thinking about various business models and entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24651,
+      "timestamps": []
+    },
+    {
+      "end": 25573,
+      "excerpt": "If it's a direct to consumer [00:25:00] product, what is about them and their team that makes them ideally suited better than anybody else at attracting those customers and forging those relationships that we were talking. How can you build software that will create emotional connectivity? And that's hard to do because millions of people try and very few that succeed, but those that succeed are two great, great businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25147,
+      "timestamps": [
+        {
+          "offset": 25176,
+          "raw": "[00:25:00]",
+          "seconds": 1500
+        }
+      ]
+    },
+    {
+      "end": 25887,
+      "excerpt": "Gopi Rangan: Thank you for those tips. They are certainly useful. They're based on your real life practical experiences. Now FinTech has evolved. Venture capital has evolved over the past few years. There's still more to go and the industry is not perfect. If there was one thing that you were allowed to change.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25575,
+      "timestamps": []
+    },
+    {
+      "end": 26067,
+      "excerpt": "Hans Morris: Well, I think it's probably one of the most important areas for governments and society to figure out which is what is the relationship of data and fair use of data.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 25889,
+      "timestamps": []
+    },
+    {
+      "end": 26485,
+      "excerpt": "And so data is obviously fundamental. Almost every financial services company, frankly, because even [00:26:00] legacy companies have competitive advantage of data in many ways. And almost every FinTech model involves using data in a way derive competitive advantage, whether you're lending money or assessing risk of fraud or dealing with better solutions inside legacy businesses, how you handle data is essential.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26069,
+      "timestamps": [
+        {
+          "offset": 26170,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 26923,
+      "excerpt": "And yet there is no. Set standard globally. I'd say the standard is something like don't be creepy, but it's getting more and more creepy. The fact that there's not really a clear framework around to evaluate it to me, that's something that we need because otherwise there could be some great disasters coming and companies that think they're operating in a way that is fair, but that society may decide that the line is someplace else.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26487,
+      "timestamps": []
+    },
+    {
+      "end": 27169,
+      "excerpt": "You draw the line in a different way and it can have real devastating impact on your business. It also could create other spouses which protect consumers and companies more effectively. So that's this big murky area that needs to be cleared up.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26925,
+      "timestamps": []
+    },
+    {
+      "end": 27264,
+      "excerpt": "Gopi Rangan: [00:27:00] Yeah. Now we are only scratching at the tip of the iceberg right now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27171,
+      "timestamps": [
+        {
+          "offset": 27184,
+          "raw": "[00:27:00]",
+          "seconds": 1620
+        }
+      ]
+    },
+    {
+      "end": 27609,
+      "excerpt": "And there's a tsunami of data waiting to be on leased over the next few years and decades. We need to start thinking about how we manage that data who owns that data who has rights to use that data. What are we allowed to do? What are some creepy things that we should not be allowed to do? And some nefarious activities that can be prevented?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27266,
+      "timestamps": []
+    },
+    {
+      "end": 27826,
+      "excerpt": "Hans Morris: Yeah. And it's playing out governments around the world are talking about it. There's no standard yet. And so it's very hard to predict. And in financial services, except standards would be very useful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 27611,
+      "timestamps": []
+    },
+    {
+      "end": 27944,
+      "excerpt": "Gopi Rangan: I want to switch to the last segment of this conversation and ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27828,
+      "timestamps": []
+    },
+    {
+      "end": 28005,
+      "excerpt": "Is there a nonprofit organization you are passionate about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27946,
+      "timestamps": []
+    },
+    {
+      "end": 28298,
+      "excerpt": "Hans Morris: I was on the board and chairman of the board for many years at mass MOCA, which is the arts and performing arts space in Western, Massachusetts, it was a startup. It was like a big audacious idea, which is take a, a factory that [00:28:00] had gone bankrupt in the mid eighties.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Hans Morris",
+      "start": 28007,
+      "timestamps": [
+        {
+          "offset": 28249,
+          "raw": "[00:28:00]",
+          "seconds": 1680
+        }
+      ]
+    },
+    {
+      "end": 28613,
+      "excerpt": "And it really defined a community. And you see this all around the world where there's manufacturing processes changed just as something you're left in a community, which. Completely identified with that business suddenly is it loses part of its self worth and it has devastating economic and social consequences.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28300,
+      "timestamps": []
+    },
+    {
+      "end": 28833,
+      "excerpt": "So mass MOCA, which was a Sprague electric became this art museum is now the largest art museum in the world, but it's so cool. And it's really revive this community in north Adams mass in a way that no one could have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28615,
+      "timestamps": []
+    },
+    {
+      "end": 28951,
+      "excerpt": "Gopi Rangan: Hans. Thank you very much for sharing your deep insights and the history of venture capital in FinTech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28835,
+      "timestamps": []
+    },
+    {
+      "end": 29248,
+      "excerpt": "You're one of the early leaders in this space and your contributions in so many different areas in the startup ecosystem. And also outside of that, in the art space. It's fascinating to hear your stories. Thank you very much for coming onto the show and chatting your personal journey.[00:29:00]",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28953,
+      "timestamps": [
+        {
+          "offset": 29238,
+          "raw": "[00:29:00]",
+          "seconds": 1740
+        }
+      ]
+    },
+    {
+      "end": 29580,
+      "excerpt": "Thank you for listening to the sure shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29250,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "9f91bfaa1bd574a9116fabffa8566434d6b400c73267b553dfba4b482c600f2f",
+  "text_sha256": "48176a6174ffd071a2d2999b3cb2b248b8e51dd214366807e294144a8f2663be"
+}

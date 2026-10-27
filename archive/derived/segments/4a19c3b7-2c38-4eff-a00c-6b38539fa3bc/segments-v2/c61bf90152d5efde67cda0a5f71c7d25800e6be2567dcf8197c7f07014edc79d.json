@@ -1,0 +1,831 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 538,
+      "excerpt": "In the 90s, when I was doing a startup, early 90s, there were only very few, you know, non-Caucasian CEOs who had done their own startup. But in Silicon Valley, clearly none of those stigmas, challenges, shortage of money exist today. You have the best system in the world in terms of both getting the advice, whether it's legal advice, whether it's startup advice, you have so many entrepreneurs who have succeeded that the chances of you knowing a few of them are way too high today than it used to be at the time I did those companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 966,
+      "excerpt": "[00:00:41] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. In this episode, I talk to Rajeev Madhavan. Rajeev and his partner Chris Rust founded Clear Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 540,
+      "timestamps": [
+        {
+          "offset": 540,
+          "raw": "[00:00:41]",
+          "seconds": 41
+        }
+      ]
+    },
+    {
+      "end": 1319,
+      "excerpt": "I've worked with them on many occasions over the years. It is a pleasure to have Rajeev on the podcast. In today's episode, we will talk to Rajeev about his journey as a successful serial entrepreneur and how he transitioned to the venture capital sector. His last company, he started as a startup in the Silicon Valley and took it all the way to IPO.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 968,
+      "timestamps": []
+    },
+    {
+      "end": 1654,
+      "excerpt": "He has been an angel investor, an active angel investor for many years, and then eventually decided to start a new venture capital firm, Clear Ventures. We will specifically talk about how entrepreneurs have just one chance to win the support of VCs. Rajeev talks to us about how a negative opinion he held was changed in 20 minutes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1321,
+      "timestamps": []
+    },
+    {
+      "end": 1727,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur, Rajeev. Tell us about yourself. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1656,
+      "timestamps": []
+    },
+    {
+      "end": 2052,
+      "excerpt": "[00:02:03] Rajeev Madhavan: Well, I've been one of the lucky few who have come to do my grad school in North America, came to Canada, and then came to Silicon Valley. And, you know, at the very beginning and offset of Silicon Valley within a year, year and a half of me working in Silicon Valley, I moved to doing startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 1729,
+      "timestamps": [
+        {
+          "offset": 1729,
+          "raw": "[00:02:03]",
+          "seconds": 123
+        }
+      ]
+    },
+    {
+      "end": 2441,
+      "excerpt": "So since 1991, I have done three startups. The first was a company in chip design. Second and third was a chip design software company. Two of them went IPOs and one was a good success exit with Cadence as well. So, you know, I grew in the [ ] of Silicon Valley doing startups. I enjoyed the fact that only in this place can you find this kind of talent, this kind of diverse population.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2054,
+      "timestamps": []
+    },
+    {
+      "end": 2845,
+      "excerpt": "This kind of combination of venture capital, combination of great angels and great people who actually give you the advice you need at the right time. Obviously you have experience of getting the other side as well, which is part and parcel of what you need to do, which is, you know, people who are more about themselves rather than about the company and about forming and letting the company succeed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2443,
+      "timestamps": []
+    },
+    {
+      "end": 3151,
+      "excerpt": "But it's been a great experience since '91 to now. It's been a great experience with lots of downturns. And interestingly, almost all my startups that have succeeded have happened right after the downturn. So I'm out looking for one right now, because I know this is the time for me, no doubt about that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2847,
+      "timestamps": []
+    },
+    {
+      "end": 3471,
+      "excerpt": "[00:03:35] Gopi Rangan: It's great that you see that opportunity. I understand that it's not an easy time for a lot of people right now, but hopefully this creates new opportunities for all of us. I want to ask you a question about an event or a time or someone that had a huge impact on you. And how did that happen? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3153,
+      "timestamps": [
+        {
+          "offset": 3153,
+          "raw": "[00:03:35]",
+          "seconds": 215
+        }
+      ]
+    },
+    {
+      "end": 3578,
+      "excerpt": "[00:03:51] Rajeev Madhavan: So to me, you know, there are three people who have actually done that to me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 3473,
+      "timestamps": [
+        {
+          "offset": 3473,
+          "raw": "[00:03:51]",
+          "seconds": 231
+        }
+      ]
+    },
+    {
+      "end": 4002,
+      "excerpt": "My dad is obviously the one person who obviously believed that I could never do anything wrong. We have no DNA of a startup experience or wanting to do startups in my life. And my mom was actually a pessimist and a tunnel pessimist in me trying to do a startup, et cetera. When I left Bell Northern Research (BNR) for Cadence, she called me and said, \"why are you changing jobs from a 10000- person company to 800 people?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3580,
+      "timestamps": []
+    },
+    {
+      "end": 4327,
+      "excerpt": "And then I joined by myself, a company called LogicVission, she told everybody that \"he doesn't know how to keep a job, right? I mean, he just can't keep a job.\" That's what she had told everybody. And at that time, my dad was suddenly the counter influence of saying, \"look, uh, if you believe in it, go for it and do it.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4004,
+      "timestamps": []
+    },
+    {
+      "end": 4691,
+      "excerpt": "So after my third, uh, company Magma went public, when there was an article, uh, which is published in India, that was when she called me and said, \"okay, you've done something in your life.\" You know, that's how much entrepreneurial DNA we had in our family. We had absolutely none whatsoever. So having somebody who was giving that encouragement was important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4329,
+      "timestamps": []
+    },
+    {
+      "end": 5129,
+      "excerpt": "My second person in my life was a professor that I had in my third going to fourth year. I was one of those students who coasted in life, never studied hard, just did what is necessary to get to the next level. And here was somebody who set my expectations differently. He told me I should do GRE, told me I should do this, that, and, you know, threw me out of the class, but, you know, asked me to come back and explain certain things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4693,
+      "timestamps": []
+    },
+    {
+      "end": 5465,
+      "excerpt": "So it's, it is having a professor like that; uh, his name was Dr. Subbanna Bhatt. Just completely changed my life in terms of in the fourth year, having someone redirect you in an engineering school was timely for me. And then in my first job, I had a manager at Wapney who was tough on me again, you know, I would coast back to life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5131,
+      "timestamps": []
+    },
+    {
+      "end": 6212,
+      "excerpt": "I was having fun and got my first job and then bought all this stereo equipment, a car and all those kind of things. And was doing my work, but not doing anything super heavy duty. And, you know, during an April Fool's joke that was played, um, in BNR, you know, everybody used to turn down your VAX VMS systems and you know, my machines were stoned, my account was stoned. Then everybody would come and say, Happy April Fool's Day to you. I wanted to respond to everybody. I broke into the Unix system and brought essentially the whole system down. And Ed called me into his office and he told me, \"You know, I don't see the same Rajeev Madhavan at work, uh, you know, Rajeev Madhavan who has that zest to want to attack back and want to work.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5467,
+      "timestamps": []
+    },
+    {
+      "end": 6541,
+      "excerpt": "And it sent me a real clear message and having him there redirect me. Uh, these are all people in your life that if you think about it changed you quite dramatically. And lastly, there was somebody else who did it, but that was more coincidental, the founder of Cadence Design Systems, James Solomon. I was on a plane with him.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6214,
+      "timestamps": []
+    },
+    {
+      "end": 6864,
+      "excerpt": "I was working on a new product. He called me to come to the first class of my first class trip that I had; one of my first customers in Florida. And I asked him, you know, what would he have done differently at Cadence? And he said, \"this new analog product you're working on, I probably would have done it as a startup.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6543,
+      "timestamps": []
+    },
+    {
+      "end": 7522,
+      "excerpt": "And what went through my mind was, why am I here at Cadence? Why am I not doing a startup? But sort of set a wave of thought process in me. And then the clock would not be turned back. Basically that is what made me leave. I had no other entrepreneurial DNA, as I told you. So that was the last portion of the journey, but that was more an incidental experience rather than somebody wanting to do that. He spoke too much and it kind of made me realize I should be doing a startup and that's what made me leave and do a startup. So these are the people who I would say have been incidental in making career decisions that kind of led me into doing startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6866,
+      "timestamps": []
+    },
+    {
+      "end": 8106,
+      "excerpt": "[00:07:48] Gopi Rangan: Fascinating. I see the right place, right time, right question that provokes your thought and sets you on a path. But I also see the professor and the manager that they seem to be people who believed in you and saw a lot more potential and helped you realize that. Very interestingly, your dad and mom, the dynamics between the two of them; your dad seems to have been this eternal optimist who believed in you that you could do anything, and your mom was this opposite. She brought this different kind of perspective. And I understand where she comes from. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7524,
+      "timestamps": [
+        {
+          "offset": 7524,
+          "raw": "[00:07:48]",
+          "seconds": 468
+        }
+      ]
+    },
+    {
+      "end": 8655,
+      "excerpt": "[00:08:19] Rajeev Madhavan: Interestingly, she's the one who had any capability of managing money, frankly speaking, as a startup, because she was like a landlord at apartments that she had given at home. Right. My dad basically used to be the guy who spends. If you ask him for money, you will get it, my mom, you won't get any money. You know, I sort of sit back and I think of it and I go back and I say, it's more of her experience of being frugal, stingy, and managing money that I clearly needed in the latter half of my startup life, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 8108,
+      "timestamps": [
+        {
+          "offset": 8108,
+          "raw": "[00:08:19]",
+          "seconds": 499
+        }
+      ]
+    },
+    {
+      "end": 9108,
+      "excerpt": "Then that's when you realize why some of the things that she did, they are absolutely essential. And I had no idea of that at that point. Right. I mean, it was like, uh, obviously go to dad to try to get something and my mother was a no go fly zone for getting anything in my life, right? So, but, you know, as you sit back and you think about it, she was the reason why we could have a life in some sense, because she was the one who saved the money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8657,
+      "timestamps": []
+    },
+    {
+      "end": 9237,
+      "excerpt": "I mean, my dad gave every check to her. And she managed it and did a fantastic job of managing it through her life, basically. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9110,
+      "timestamps": []
+    },
+    {
+      "end": 9445,
+      "excerpt": "[00:09:24] Gopi Rangan: So she was the practical person. You made a transition yourself. Like, you were a successful entrepreneur. Three startups, all successful. You took all the way from beginning to IPO.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9239,
+      "timestamps": [
+        {
+          "offset": 9239,
+          "raw": "[00:09:24]",
+          "seconds": 564
+        }
+      ]
+    },
+    {
+      "end": 9804,
+      "excerpt": "And you were the public company CEO for many, many years. And then you switched to the venture side. Although you did have a lot of investment experiences, and you've made many investments, Clear Ventures was the firm that you formed and you're the founder of the firm. How was the transition from switching from an entrepreneur to venture capital investor?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9447,
+      "timestamps": []
+    },
+    {
+      "end": 10191,
+      "excerpt": "[00:09:52] Rajeev Madhavan: So this is sort of in 1998 when I had my first exit, I started investing in startups as an angel. I did 28 investments between 98 and 2012. And part of why I did those investments was not because of, uh, you know, like I really, uh, wanted to become a VC or an investor. Part of it was because I loved hearing those technical pitches from the entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 9806,
+      "timestamps": [
+        {
+          "offset": 9806,
+          "raw": "[00:09:52]",
+          "seconds": 592
+        }
+      ]
+    },
+    {
+      "end": 10503,
+      "excerpt": "And today, I mean, as a VC, learning from the best people in a particular field is the best part of this job as a VC. I mean, you cannot have anybody better than the persons we are meeting with educate you on what a particular field is all about, right? I mean, so that is the best and the most happiest thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10193,
+      "timestamps": []
+    },
+    {
+      "end": 10849,
+      "excerpt": "And I needed that while I was doing Magma mainly because, you know, as a public company, uh, with lawyers, accountants, and we also had some big lawsuits, et cetera, I was spending time with people who are not the most fun, uh, you know, what are the most eternal pessimists in the world. And you need to meet these optimists to counterbalance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10505,
+      "timestamps": []
+    },
+    {
+      "end": 11254,
+      "excerpt": "So I used to spend Saturdays spending time with startups as a way to rejuvenate myself. Like, you know, I mean, essentially have these founders come home, I would meet one or two of them every week and spend some time if I'm in town. If I'm in customer sites, I can't, but if I'm in town, end up spending time more as a distraction from my day to day pessimistic surrounding people that you end up with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10851,
+      "timestamps": []
+    },
+    {
+      "end": 11620,
+      "excerpt": "I mean, your engineering organizations, I made sure at Magma was not that way, but the rest of the organizations tend to be that way, especially for the amount of legal and past IPO, the Sarbanes Oxley, et cetera, the lawyers and accountants, all of them are doing a very qualified job, but nonetheless is always a pessimistic job that their world is operating on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11256,
+      "timestamps": []
+    },
+    {
+      "end": 12406,
+      "excerpt": "So this was a balance for me, and I've done a lot of investment. As I moved to VC, I can tell you the best thing to me is learning from the best technologists that can explain a particular technology to you. And in many cases you do find technologists who are driven to a particular passion to execute in a particular product or a particular idea and their passion drives energy to you and hopefully your energy and trying to give them advice drives them in the right direction too. There are lots of great things. There are a lot of bad things as well. But fundamentally, it is one of those businesses where the ability to learn certain new things from the best in the world in that particular field is a super exciting experience that you cannot get in anything but venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11622,
+      "timestamps": []
+    },
+    {
+      "end": 13054,
+      "excerpt": "[00:12:34] Gopi Rangan: Is it challenging for you sometimes when you see that your portfolio company founders, CEOs, and the executive management team, you know exactly what they need to do. And if you were in their shoes, you knew you would do certain things, a few steps that you would take. As an entrepreneur, I can imagine that you have the urge to tell them what to do or even roll up your sleeves and get into the game. And you love being in the middle of the arena and you've done that for so many years. How do you hold back? And is it a challenge for you to hold back and let them play the game while you're the coach on the sidelines? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12408,
+      "timestamps": [
+        {
+          "offset": 12408,
+          "raw": "[00:12:34]",
+          "seconds": 754
+        }
+      ]
+    },
+    {
+      "end": 13213,
+      "excerpt": "[00:13:07] Rajeev Madhavan: So in the first two, three years, the kind of entrepreneurs I picked versus the entrepreneur I picked today are vastly different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 13056,
+      "timestamps": [
+        {
+          "offset": 13056,
+          "raw": "[00:13:07]",
+          "seconds": 787
+        }
+      ]
+    },
+    {
+      "end": 13505,
+      "excerpt": "In the first two, three years, I always give this example: it's almost like a new professor being minted at a particular school. He's got a few PhDs. They look for the super coolest technical idea loans where technology dominated 80 percent of the market, not the team or the market, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13215,
+      "timestamps": []
+    },
+    {
+      "end": 13850,
+      "excerpt": "The technology and just the market was the decision point that I had made much of my decision on. You assume that the technologist will put his heart and soul, you assume that he'll work hard, and you assume that he has some business acumen in himself. And all three of those assumptions have been not true in probably 60 percent of the cases.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13507,
+      "timestamps": []
+    },
+    {
+      "end": 14170,
+      "excerpt": "So essentially, I morphed myself to understand that 40 percent of the decision is about the person at the stage of seed and series A investments. Uh, obviously the market is not right. And if you don't believe in the market, it could be the most superman technologist, superman executioner. He or she is going to fail.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13852,
+      "timestamps": []
+    },
+    {
+      "end": 14499,
+      "excerpt": "So market is number one and technologist is number two, and it probably was technology number one and market as a secondary play that I used to look at. So I have morphed myself and this morphing is because very quickly you realize in the VC business that much as you feel like you could do some things, you cannot do anything.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14172,
+      "timestamps": []
+    },
+    {
+      "end": 15284,
+      "excerpt": "You are just a coach. You can tell them what it is and you see them make mistakes and the blood pressure just keeps going up for you. It never really has anything that you can do. You can just tell them and keep telling them. You need founders who are willing to look at opposing viewpoints to understand what are the issues and to learn from these issues. And I absolutely want people who tell me that, Hey \"you're full of it, and you really don't understand it.\" I absolutely enjoy working with those people, but the fundamental thing that needs to happen in a startup is you need an entrepreneur who's very super excited about his idea, but also has the technical acumen and the business acumen to be able to execute it or to bring in the right people into the team to execute it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14501,
+      "timestamps": []
+    },
+    {
+      "end": 15512,
+      "excerpt": "So I think I was less of a coach earlier on than today. I mean, today it's 100 percent coaching job. But picking the right players is all a coach can do right to the very beginning. That's the single best decision I can make. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15286,
+      "timestamps": []
+    },
+    {
+      "end": 15792,
+      "excerpt": "[00:15:32] Gopi Rangan: When you look at an opportunity, let's take an example of a startup that you decided to back. At a moment when no one else believes in the idea, how do you choose to get behind the entrepreneur and support them? Can you give an example of one situation? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15514,
+      "timestamps": [
+        {
+          "offset": 15514,
+          "raw": "[00:15:32]",
+          "seconds": 932
+        }
+      ]
+    },
+    {
+      "end": 16337,
+      "excerpt": "[00:15:47] Rajeev Madhavan: So I will give you one where I actually did the opposite. I mean, I met with a company called Atmosic. It's a bluetooth chip company. David and Masoud are known to me previously. I know they also knew a lawyer that I knew well, but Masoud was at Qualcomm and Atheros before that. And as an EDA vendor, we have talked to these people before. So I met with them and the first line I told them is, \"more than likely, I'm not going to invest in your company because I'm not currently looking at semiconductor startups.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 15794,
+      "timestamps": [
+        {
+          "offset": 15794,
+          "raw": "[00:15:47]",
+          "seconds": 947
+        }
+      ]
+    },
+    {
+      "end": 16380,
+      "excerpt": "And boy, 45 minutes later, I was a fool. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16339,
+      "timestamps": []
+    },
+    {
+      "end": 16426,
+      "excerpt": "[00:16:18] Gopi Rangan: What convinced you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16382,
+      "timestamps": [
+        {
+          "offset": 16382,
+          "raw": "[00:16:18]",
+          "seconds": 978
+        }
+      ]
+    },
+    {
+      "end": 16729,
+      "excerpt": "[00:16:20] Rajeev Madhavan: I think the market is phenomenal. The team basically had, I think the first 20 people of Atheros are here. So getting the chip done was not an uncertainty for me, right? It'll get done. There was no questions whatsoever about that, but team, the quality was never an issue.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 16428,
+      "timestamps": [
+        {
+          "offset": 16428,
+          "raw": "[00:16:20]",
+          "seconds": 980
+        }
+      ]
+    },
+    {
+      "end": 17145,
+      "excerpt": "The ability to get it done was not an issue. The market in terms of the IOT markets, uh, the headphones, uh, you know, like I'm using an AirPod today, right? You need to put it into this charging device and plug the charging device in. Here I don't need that. You can charge it with a with RF. I can just leave it on my table and it's getting charged, you know. Fundamentally changing the way we look at batteries.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16731,
+      "timestamps": []
+    },
+    {
+      "end": 17456,
+      "excerpt": "It was crystal clear to me so I did the round. We wanted to lead it but you know somebody else jumped on it the next day. I met with them the previous week gave them a term sheet. Then it became kind of a fist fight of trying to get our way back into it. But we managed to do that with David and we funded it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17147,
+      "timestamps": []
+    },
+    {
+      "end": 17676,
+      "excerpt": "So this is where meeting those kinds of founders who can explain the technology and move you is one of the very unique things that happens in the sphere. You know, I thought I would not fund it going into that meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17458,
+      "timestamps": []
+    },
+    {
+      "end": 17918,
+      "excerpt": "[00:17:34] Gopi Rangan: So in this case, it looks like you knew the founders, you had a lot of respect for them, but you had a negative disposition even before going into the meeting and you didn't think that you were going to move forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17678,
+      "timestamps": [
+        {
+          "offset": 17678,
+          "raw": "[00:17:34]",
+          "seconds": 1054
+        }
+      ]
+    },
+    {
+      "end": 18029,
+      "excerpt": "During that meeting, they changed your mind and they converted a non-believer to a believer. Is that common? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17920,
+      "timestamps": []
+    },
+    {
+      "end": 18278,
+      "excerpt": "[00:17:53] Rajeev Madhavan: It's not necessarily 100 percent common, but out of the 18 companies we have done, three were decisions like that, where, you know, 20, 30 minutes into it, you're looking at it and you're saying, God, we got to do this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 18031,
+      "timestamps": [
+        {
+          "offset": 18031,
+          "raw": "[00:17:53]",
+          "seconds": 1073
+        }
+      ]
+    },
+    {
+      "end": 18617,
+      "excerpt": "And these are for a seed stage company where all this is ideas on a, on a person said, sometimes there is not even a good, PowerPoint slide. It is just them explaining it to you on a whiteboard. And for me, that is paradise. That I thoroughly enjoy. I know a lot of VCs on Sandhill Road goes down the, how beautiful a presentation it is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18280,
+      "timestamps": []
+    },
+    {
+      "end": 19189,
+      "excerpt": "I, on the other hand, you know, want the technologist to show me why he or she can build a team, build a product. And obviously the market is something that we have to do our diligence on, uh, and make sure that the market exists. So this is sort of the only two things you can look at at the seed stage. At the seed stage, all you can look at, uh, which is where, you know, 95 percent of our investments are, all you have is the technologists and some aspects of the market definition that we can conjure ourselves and get the drive to conviction to do the investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18619,
+      "timestamps": []
+    },
+    {
+      "end": 19192,
+      "excerpt": " ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19191,
+      "timestamps": []
+    },
+    {
+      "end": 19458,
+      "excerpt": "[00:19:06] Gopi Rangan: I see a thread here. What you say is that you're open to new ideas and you want to be challenged, and it's okay to prove you wrong, and you really enjoy the process. Are there situations where it takes more than one meeting to convince you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19194,
+      "timestamps": [
+        {
+          "offset": 19194,
+          "raw": "[00:19:06]",
+          "seconds": 1146
+        }
+      ]
+    },
+    {
+      "end": 19826,
+      "excerpt": "[00:19:21] Rajeev Madhavan: Oh, even if, uh, you know, 45 minutes we decided we want to do, there is obviously subsequent work that is done, which is, you know, making sure you're doing the references on the people, what skeletons do they have? And I'm not worried about having some skeletons, but you know, you do need to do the diligence that that needs to happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 19460,
+      "timestamps": [
+        {
+          "offset": 19460,
+          "raw": "[00:19:21]",
+          "seconds": 1161
+        }
+      ]
+    },
+    {
+      "end": 20189,
+      "excerpt": "You need to check the market. You need to realize that there may be others who are already beginning to do. So there's work to be done, but more than ever, then it's just making sure that your conviction is right and that this is a right probable market direction that this company could take to be successful is what you're trying to prove during that process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19828,
+      "timestamps": []
+    },
+    {
+      "end": 20343,
+      "excerpt": "[00:20:00] Gopi Rangan: So the spark was lit, but you still needed to fan the spark, build the flame and see if there was a clear potential before you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20191,
+      "timestamps": [
+        {
+          "offset": 20191,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 20537,
+      "excerpt": "[00:20:07] Rajeev Madhavan: Yeah, it doesn't take a long effort after that, but it does nonetheless take an effort of a lot of meetings and spending time with the founders to make that happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 20345,
+      "timestamps": [
+        {
+          "offset": 20345,
+          "raw": "[00:20:07]",
+          "seconds": 1207
+        }
+      ]
+    },
+    {
+      "end": 20664,
+      "excerpt": "[00:20:17] Gopi Rangan: What if the spark doesn't happen in the first meeting? Do you typically walk away or what do you do? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20539,
+      "timestamps": [
+        {
+          "offset": 20539,
+          "raw": "[00:20:17]",
+          "seconds": 1217
+        }
+      ]
+    },
+    {
+      "end": 20956,
+      "excerpt": "[00:20:22] Rajeev Madhavan: I think that's quite unlikely that you will get a second chance because the reality is this: we see in a lot of companies in Silicon Valley, right? So if you're going to take the number of companies we have seen, the first meeting is very, very important, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 20666,
+      "timestamps": [
+        {
+          "offset": 20666,
+          "raw": "[00:20:22]",
+          "seconds": 1222
+        }
+      ]
+    },
+    {
+      "end": 21559,
+      "excerpt": "I mean, so going through that meeting and understanding it, if there is no spark at that time, and you're not bought into the market, chances are very low that you would actually come around to liking it in subsequent meetings. This, by the way, it's not just me. I think, you know, when pitched to most VCs, if you're not having a first meeting, which is very successful, it runs on you where they may come back and do it in subsequent round because you've executed. But in that same round, it is actually much more difficult to get the ball moving. In my case, it's very, very difficult to do that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20958,
+      "timestamps": []
+    },
+    {
+      "end": 21666,
+      "excerpt": "[00:21:12] Gopi Rangan: So entrepreneurs have one chance to make a good impression on the first meeting. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21561,
+      "timestamps": [
+        {
+          "offset": 21561,
+          "raw": "[00:21:12]",
+          "seconds": 1272
+        }
+      ]
+    },
+    {
+      "end": 21807,
+      "excerpt": "I don't think it's a stress on them on the first meeting as much as, you know, the, the technology that is, and is the right market, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21668,
+      "timestamps": []
+    },
+    {
+      "end": 22209,
+      "excerpt": "[00:21:24] Rajeev Madhavan: They just have to go. But having said that, I have to tell you, I mean, there are people who have come with different ideas to me after six months and said, \"yeah, you pointed out these issues. We didn't believe it. We tried it and now we are doing something new.\" And there is no penalty for somebody trying something this that actually shows that you're an entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 21809,
+      "timestamps": [
+        {
+          "offset": 21809,
+          "raw": "[00:21:24]",
+          "seconds": 1284
+        }
+      ]
+    },
+    {
+      "end": 22580,
+      "excerpt": "You have to keep doing that until you succeed. So you have to know which is right and you have to take the input of the market. And if the market has spoken, you know, the ability of the entrepreneur to be able to read a little bit into it will be nice. In my own second company, I had, you know, 35 venture firms on Sandhill Road said no to me at Ambit Design Systems.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22211,
+      "timestamps": []
+    },
+    {
+      "end": 22895,
+      "excerpt": "And, uh, you know, I did not listen, I raised $750k from 50 private investors. That is what Ambit was all about, right? It was all sorts of private investors with $10000, $15000 investment into it. And we created a technology. So I have to give that advice to the founders that, you know, go with your conviction,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22582,
+      "timestamps": []
+    },
+    {
+      "end": 23082,
+      "excerpt": "and if you are absolutely believing in it, any of us on Sandhill Road who believes we are good investors are all idiots when it comes to it in front of your conviction and your skills. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22897,
+      "timestamps": []
+    },
+    {
+      "end": 23231,
+      "excerpt": "[00:22:40] Gopi Rangan: It takes a lot of fortitude to keep pitching to investors like you did. You like to see that resilience in an entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23084,
+      "timestamps": [
+        {
+          "offset": 23084,
+          "raw": "[00:22:40]",
+          "seconds": 1360
+        }
+      ]
+    },
+    {
+      "end": 23732,
+      "excerpt": "[00:22:49] Rajeev Madhavan: Yeah, in the case of Ambit, because I had Gordon Bell on my board of directors, you know, Gordon was the founder of Vax, PDP Tech, and at DEC, and obviously DEC was the king of computing at that time, and he had just left DEC. I could get meetings everywhere. I mean, he would send an email to XYZ on Sandhill road and just for deference for Gordon, they would take the meeting and we were going up against Synopsis an entrenched market leader which had just done an IPO.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 23233,
+      "timestamps": [
+        {
+          "offset": 23233,
+          "raw": "[00:22:49]",
+          "seconds": 1369
+        }
+      ]
+    },
+    {
+      "end": 24105,
+      "excerpt": "And here is a bunch of guys coming in and saying we'll be 10 to 100 times faster than Synopsis. And fund us, right? It was a 2, 000 person company. So it was David versus Goliath to the extreme. But this is where Sandhill really did not understand that that market really needed somebody who could make a chip design a time compound by 10 to 20x, which is what Ambit did.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23734,
+      "timestamps": []
+    },
+    {
+      "end": 24869,
+      "excerpt": "Literally got acquired for $280 million a year and a half after that stage of trying to raise money, right? I mean, the first one and a half years was creating the technology, but after we had a demo and a product, you know, it was pretty quick in terms of what we could achieve. But, you know, conveying such technology capabilities and market potential was very, very difficult to Sandhill Road. That is part and parcel of what needs to be done by an entrepreneur. But again, classic example of a team which stood by, did not take salary, et cetera, but had a conviction and stayed and won against the Goliath, essentially, uh, delivering on something that seemed impossible at the very beginning, and hence helped them, uh, win very quickly to an exit, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24107,
+      "timestamps": []
+    },
+    {
+      "end": 25255,
+      "excerpt": "So, whatever we say on Sandhill Road doesn't really matter. At the end of it, it's the conviction of the entrepreneur. If you believe in it and are willing to take in the right trade off. Uh, and that is where life is difficult, right? Taking those trade offs requires family support because I was not taking any money while at Ambit, I was putting money and was on a second mortgage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24871,
+      "timestamps": []
+    },
+    {
+      "end": 25349,
+      "excerpt": "So that is a level of conviction which is over the top of what needs to be achieved. Right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25257,
+      "timestamps": []
+    },
+    {
+      "end": 26231,
+      "excerpt": "[00:25:00] Gopi Rangan: You had extreme devotion to your startup. You shared quite a bit of topics here. You started with people who influenced you and unleashed a lot of potential in you, starting with your dad, your mom, professor, your manager, the founder of Cadence, and you talked about transition from being an entrepreneur, angel investor to a full time venture capital investor, and you drilled down on specific things that you look for in an entrepreneur, especially people who can prove you wrong in a short period of time, possibly in one meeting, maybe not more than that. That process of opening your eyes to something new, you really enjoy going through that process with an entrepreneur. And you do have a lot of faith in these entrepreneurs because they are the masters of their field and they know a lot, a lot more than anybody else on the planet on that topic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25351,
+      "timestamps": [
+        {
+          "offset": 25351,
+          "raw": "[00:25:00]",
+          "seconds": 1500
+        }
+      ]
+    },
+    {
+      "end": 26542,
+      "excerpt": "This is a lot to cover. I'm sure we can spend a lot more time. We can keep talking about it. And that's why I keep coming back to you. And I learn a lot from your experience. Let's switch to what you do outside of work. Can you talk about your involvement in a community activity that you're passionate about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26233,
+      "timestamps": []
+    },
+    {
+      "end": 27204,
+      "excerpt": "[00:26:04] Rajeev Madhavan: I've involved myself in three community activities, but one of them which I'm very proud of what I've done is, for example, Akshaya Patra, which feeds several million kids a day in India. These are impoverished kids who come to school only for their food, and they bring their sisters and everyone, and the the meal program that the government has put in India does not meet any requirement of a nutritious meal for the kids, right? So this is a system which has built automated kitchens. I think, you know, if you look at Akshaya Patra, you look at their kitchens on YouTube, you'd be blown away. Using science to solve the issues.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Rajeev Madhavan",
+      "start": 26544,
+      "timestamps": [
+        {
+          "offset": 26544,
+          "raw": "[00:26:04]",
+          "seconds": 1564
+        }
+      ]
+    },
+    {
+      "end": 27635,
+      "excerpt": "Those have a particularly soft interest for a lot of entrepreneurs, I'm sure, in Silicon Valley. So they have done great. So there are a couple of these programs that I and my wife does get involved. I was involved with UCLA when the university had to make a transition, was on the board for a while, when we had to make a transition from, you know, purely funded by Uncle Sam to having to raise endowments to actually get there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27206,
+      "timestamps": []
+    },
+    {
+      "end": 27852,
+      "excerpt": "So there are a couple of social and charitable programs. I'm probably 10 years away from co opting something on my own and running and doing it full time. 10 to 15 years from now I could see myself just doing that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27637,
+      "timestamps": []
+    },
+    {
+      "end": 28048,
+      "excerpt": "[00:27:23] Gopi Rangan: It's great to see that you make time for these activities. I'm going to stay close and watch to see what you unleash in 10 to 15 years when you're ready for that venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27854,
+      "timestamps": [
+        {
+          "offset": 27854,
+          "raw": "[00:27:23]",
+          "seconds": 1643
+        }
+      ]
+    },
+    {
+      "end": 28378,
+      "excerpt": "Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28050,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "c61bf90152d5efde67cda0a5f71c7d25800e6be2567dcf8197c7f07014edc79d",
+  "text_sha256": "fc85a7e5ff8f0f830507d910529401c4adc97d0dd52e5b3550e92098a815549d"
+}

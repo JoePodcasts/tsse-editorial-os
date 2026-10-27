@@ -1,0 +1,953 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 326,
+      "excerpt": "Galym Imanbayev: First of all, I would even say the term needs to be changed. Why healthcare? Why not health? When you say health care, it often implies there's gotta be something caring. There's an entity caring. And oftentimes it's these massive labor pools of medical assistants, nurses, hospital systems that have to care.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 490,
+      "excerpt": "So, I think the first thing that we need to do, and the first thing where the industry is going to be absolutely heading to is just going to take time. Is health.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 328,
+      "timestamps": []
+    },
+    {
+      "end": 553,
+      "excerpt": "Gopi Rangan: You are listening to the Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 492,
+      "timestamps": []
+    },
+    {
+      "end": 908,
+      "excerpt": "A podcast for founders, with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the Sure Shot Entrepreneur. My guest today is Galym Imanbayev. He's a venture capital investor at Lightspeed. He focuses on investments in the health sector.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 555,
+      "timestamps": []
+    },
+    {
+      "end": 956,
+      "excerpt": "Galym, welcome to the Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 910,
+      "timestamps": []
+    },
+    {
+      "end": 1039,
+      "excerpt": "Galym Imanbayev: Thank you very much Gopi. It's an absolute pleasure to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 958,
+      "timestamps": []
+    },
+    {
+      "end": 1145,
+      "excerpt": "Gopi Rangan: Tell me about yourself, starting with where you grew up. You grew up in Kazakhstan, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1041,
+      "timestamps": []
+    },
+    {
+      "end": 1627,
+      "excerpt": "Galym Imanbayev: That's correct. I was born in Kazakhstan and frankly, I didn't even know that the rest of the world existed until 1998 when my family left Kazakhstan. I grew up in Kazakhstan in one of the biggest cities there. My father was involved in health care infrastructure in Kazakhstan. But as you know, the post-Soviet time for many of these republics was very turbulent, my father was working on a lot of reforms that were in some ways going against the powers that be.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 1147,
+      "timestamps": []
+    },
+    {
+      "end": 1819,
+      "excerpt": "And when you do that, oftentimes you either win or you have to leave due to safety reasons. For our family, we had to flee, and we came to the United States as political asylum back in '98. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1629,
+      "timestamps": []
+    },
+    {
+      "end": 2036,
+      "excerpt": "Gopi Rangan: Wow, what a story. And you are now at the venture capital firm, Lightspeed Ventures. Tell us about the story, you studied at Stanford, and you did spend some time at other venture capital firms as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1821,
+      "timestamps": []
+    },
+    {
+      "end": 2108,
+      "excerpt": "I'm curious to understand your journey and how you got to Lightspeed. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2038,
+      "timestamps": []
+    },
+    {
+      "end": 2426,
+      "excerpt": "Galym Imanbayev: When I first came to Stanford, I was your classic premed kid. I looked to go to undergrad and my entire path as an immigrant child of immigrant parents. I very much bit the bug to go into medicine and not just because it's a good career and could play well, right as you're starting in this country.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 2110,
+      "timestamps": []
+    },
+    {
+      "end": 2886,
+      "excerpt": "But really because I loved medicine, I had researched medicine during high school, and thankfully I had the opportunity to publish a few papers in high school. But when I came to Stanford, that was where the momentum was for me. I spend most of my undergrad experience in bench-side research. There are some cell biology and others, but interestingly, I did decide to major in economics during undergrad, primarily because it was an academic interest for me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2428,
+      "timestamps": []
+    },
+    {
+      "end": 3552,
+      "excerpt": "I knew that to get to med school, you didn't have to major necessarily in the sciences. And I thought, “Hey  if I was going to be in medicine for the rest of my life, might as well use at least a couple of years of undergrad experience to major in something different.” That was the first point of pivot where I started the parallel paths of my passion, both in the business and economic side, and then the healthcare realm. As I finished that up, my friends convinced me to take a gap year and in med schools these days, it is extremely competitive. So, most people do take a gap year, a couple of years to do something, either in research or something different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2888,
+      "timestamps": []
+    },
+    {
+      "end": 3881,
+      "excerpt": "And for me, I decided to use my econ background and I went and did consulting for about 10 months. It was at the consulting firm that I finally actually learned about all the industry reports and everything that we were drafting. I started to question, who's reading these reports, who are reading these market research papers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3554,
+      "timestamps": []
+    },
+    {
+      "end": 4336,
+      "excerpt": "I just looked at the address list and I saw all these venture firms, private equity firms. And the more I learned about it, the more I realized, hey, I want to get at least a summer experience here. Byquip, the consulting gig, joined a small fund here in Palo Alto. This was a non-paid early summer experienced with no guarantee of getting anything, but I worked my butt off and eventually asked for a full-time job and they thankfully took a bet on me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3883,
+      "timestamps": []
+    },
+    {
+      "end": 4463,
+      "excerpt": "Galym Imanbayev: I ended up spending two years there before eventually going back to med school, but let me just pause here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 4338,
+      "timestamps": []
+    },
+    {
+      "end": 4745,
+      "excerpt": "Gopi Rangan: Yeah. I started in venture capital in a very similar way with an unpaid internship during my MBA as well at Irish Car. At that time, it was the first for-profit social impact, metro capital firm. And I learned the enormous impact entrepreneurship can have on society.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4465,
+      "timestamps": []
+    },
+    {
+      "end": 4850,
+      "excerpt": "It looks like you had a very similar experience and the bug of venture capital bit you and you stayed. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4747,
+      "timestamps": []
+    },
+    {
+      "end": 5120,
+      "excerpt": "Galym Imanbayev: Well, yeah, it's certainly those two years at the firm that I was with, it was called Capricorn Healthcare. Now it's called Martis Capital. It was right at the heart of Silicon Valley. We are making investments across diagnostics, healthcare payments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 4852,
+      "timestamps": []
+    },
+    {
+      "end": 5435,
+      "excerpt": "We're doing investments into healthcare services, living facilities, electronic medical records. When you're 24, 25 years old, to have the experience to invest across many sectors within an industry, does set a really solid foundation, and my boss and mentor the managing director there at the time, Barry Uphoff.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5122,
+      "timestamps": []
+    },
+    {
+      "end": 5773,
+      "excerpt": "Well, he still is there as well, but he comes from this Midwest hardworking attitude and hard work ethic, ethos. And I am just grateful to have that opportunity to start off in something very fundamentally built, where you know how to write memos, how to evaluate businesses on their fundamentals. And then after that move into venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5437,
+      "timestamps": []
+    },
+    {
+      "end": 5924,
+      "excerpt": "Gopi Rangan: What areas do you invest in at Lightspeed? What kind of startups do you look for? Are there specific sectors or stages that you prefer? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5775,
+      "timestamps": []
+    },
+    {
+      "end": 6693,
+      "excerpt": "Galym Imanbayev: Yeah, it's a global venture firm that focuses on multi-stage investments, enterprise consumers, and now more recently health sectors. Interestingly for Lightspeed, the story begins way back in 2009. The firm's fundamental foundation was enterprise software and as they understood the fundamental first principles of how much data was being created in healthcare, they started moving into bioinformatics in 2009. Then after that into diagnostics and with the addition of Jonathan McWhinney, who is an incredible investor and operator in the life sciences end, they entered the therapeutic space and the returns from those investments have been very solid. With that in 2019, 2020, they really decided to go ahead and make a dedicated effort in health.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 5926,
+      "timestamps": []
+    },
+    {
+      "end": 7193,
+      "excerpt": "I was part of the team that essentially got ramped up. There's also Shelly Chu, who comes from a very strong life sciences and therapeutics background, Lang Wong as well. And together we are a small but mighty team and we're investing in health across sectors within health, and also across stages. We invest anything from seed and early-stage, first money in, all the way towards growth, even pipes though, we don't do as many late-stage investments, but we certainly have the capability to do so.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6695,
+      "timestamps": []
+    },
+    {
+      "end": 7458,
+      "excerpt": "Gopi Rangan: This is a broad mandate, indeed. And I'm glad to see that health has become an important sector for Lightspeed. Specifically for you, what kind of entrepreneurs do you look for? Do you look for very early stages or do you invest across the spectrum? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7195,
+      "timestamps": []
+    },
+    {
+      "end": 7887,
+      "excerpt": "Galym Imanbayev: I would say we are intentionally keeping our aperture very wide. In healthcare today, in 2021, it's important to understand that the opportunity sets and the best interesting companies are being formed in areas that are not traditionally where they are expected. But if you look at healthcare from just an overall standpoint, I view it as a Venn diagram, a complex Venn diagram of four different Venn diagrams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 7460,
+      "timestamps": []
+    },
+    {
+      "end": 8239,
+      "excerpt": "You've got the patient, payers, pharma, and then, of course, you've got the provider. These four P's before the 2010s operated almost in siloed areas. Entrepreneurs came in these silos and they innovated in these silos. Today, fast forward, these four Venn diagrams are shifting like tectonic plates and ramming into each other at their intersection.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7889,
+      "timestamps": []
+    },
+    {
+      "end": 8723,
+      "excerpt": "You're starting to see the most interesting opportunities. They're not that easy to anticipate, anyone who says they know exactly when the next one's coming either is brilliant or maybe oversimplifying. This is a fifth of the U.S. economy that is operating in a very dynamic moment right now. Because of that, we at Lightspeed formed a team that is able to look across life sciences and digital health, biotech, and health tech that should be able to cover most of the sectors here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8241,
+      "timestamps": []
+    },
+    {
+      "end": 9045,
+      "excerpt": "Gopi Rangan: Yeah, this is a huge portion of the economy, indeed. And these four Venn diagram pieces that you talked about, the patient, the payer, the pharma, and provider, often the incentives are not aligned to support each other. Sometimes the incentives are wrongly aligned where one benefits and the other doesn't.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8725,
+      "timestamps": []
+    },
+    {
+      "end": 9136,
+      "excerpt": "What are you excited about with founders? Why do you like working with startup founders? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9047,
+      "timestamps": []
+    },
+    {
+      "end": 9467,
+      "excerpt": "Galym Imanbayev: Yeah, it's a combination of things. There's an altruistic reason. And there's a selfish reason. I would say the altruistic reason is when you're operating in the healthcare sector and most of the innovation will be in some ways, going to be improving either health of individuals or is going to be cutting waste.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 9138,
+      "timestamps": []
+    },
+    {
+      "end": 9954,
+      "excerpt": "Obviously, this was not the same, but for most of the innovators today, the field has become sophisticated enough that you have to win either by improving patient lives, drastically, reducing costs, drastically. Ideally, if you can do both, you’re onto something very special. The third part I must say is improving empathy for both the patients and the providers, because we know how difficult it is for providers these days, especially as we've seen that highlighted by the pandemic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9469,
+      "timestamps": []
+    },
+    {
+      "end": 10259,
+      "excerpt": "My family comes from healthcare. I have grown up in it. It always just feels incredible that you're able to scale your impact. And I'll eventually go back to why I chose not to practice medicine as a physician, but it’s to have that impact on a mass scale rather than on a one-on-one. That's altruistic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9956,
+      "timestamps": []
+    },
+    {
+      "end": 10605,
+      "excerpt": "The selfish reason I would say is because it is an incredibly dynamic career and you are constantly learning. If you surround yourself with the top investors, I just feel like I never have a boring day. It just energizes me. Knowing that I want to dedicate my career to the field. It's the energy and the passion of the entrepreneurs that come.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10261,
+      "timestamps": []
+    },
+    {
+      "end": 10964,
+      "excerpt": "Also, they are various stories. For example, we've got a company called Soda Health, S O D A health, and it's focused on pretty much enabling and improving the payment infrastructure and the technology infrastructure necessary for the deployment of programs meant for social determinants of health. We know social determinants of health are critical issues.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10607,
+      "timestamps": []
+    },
+    {
+      "end": 11269,
+      "excerpt": "Whether it's food access, education, housing, this company is focusing primarily on the supplemental benefits space, largely around food. And the founder was originally a social worker and I've worked in the hospital and the social workers are the angels in the field. They don't get appreciated enough.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10966,
+      "timestamps": []
+    },
+    {
+      "end": 11713,
+      "excerpt": "They don't get paid enough for all the value they create. When I see a founder that is able to come from a perspective that oftentimes not a lot of founders come from that field because it's just a very difficult space. And then they're able to translate the insights, not just tactical insights for company creation and opportunity sizing, but also the perspective of the compassion that's necessary to understand who is being impacted here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11271,
+      "timestamps": []
+    },
+    {
+      "end": 12020,
+      "excerpt": "When those two things align as they did in this case, you start to see the magic happen and you just get excited. What keeps me excited and constantly motivated by various founders is every story is different. I love YC companies, but for example, in every batch, I'll get this inundation of YC companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11715,
+      "timestamps": []
+    },
+    {
+      "end": 12343,
+      "excerpt": "They're all presenting the same way. They're all learning from each other, how to pitch the best way. And that's all good. But if you're not part of that stream, if you didn't get the right advice right, make sure your application hits the right, heuristics that the judges are looking for. You're just going to miss out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12022,
+      "timestamps": []
+    },
+    {
+      "end": 12756,
+      "excerpt": "I am always leaving a big chunk of my mind to share for the opportunities that are not in there. For example, this one is public. This is in the mental healthcare space. It's called the Free Spirit. The idea for this company was actually born out of the founder's wife, who was participating in a Stanford research study, particularly looking at how to diagnose and treat patients with repetitive panic attacks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12345,
+      "timestamps": []
+    },
+    {
+      "end": 13154,
+      "excerpt": "The person who funded this, Russ Siegelman, a well-known venture capitalist from Kleiner, and out doing a lot of things himself. He funded a lot of this work and certain areas in healthcare don't have this trajectory that you would expect. SAS. You've got ARR, you hit 1 million ARR time to raise the A, you hit 5 million times to raise the B. Certain stories in healthcare particular takes time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12758,
+      "timestamps": []
+    },
+    {
+      "end": 13596,
+      "excerpt": "They germinate, whether it's in the product development or whether it's in the adoption phase of a company. It's not a linear trajectory towards value creation. So I look at opportunities like that, where something took a lot of time. It took an almost philanthropic type of effort in the beginning. Eventually, when the time is right, most funds will not even look at these because they think, oh, that's a lot of history, what's going on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13156,
+      "timestamps": []
+    },
+    {
+      "end": 13767,
+      "excerpt": "But at Lightspeed, we keep our aperture wide, not just wide by stages, but keep it extra wide to the stories of which the founders got their companies to where they are.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13598,
+      "timestamps": []
+    },
+    {
+      "end": 13972,
+      "excerpt": "Gopi Rangan: Yeah, mental health is a very important topic and it's not the area where many VCs invest in. I'm glad to hear a very contrarian story here. When you met the founders, what did you ask them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13769,
+      "timestamps": []
+    },
+    {
+      "end": 14007,
+      "excerpt": "What did you see in their story? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13974,
+      "timestamps": []
+    },
+    {
+      "end": 14340,
+      "excerpt": "Galym Imanbayev: It's interesting. When I meet founders, I take a play and I use a very similar approach as I was taught in medical school. Even though I'm not going to residency the way you go about interviewing and working with a patient, I, in many ways, in part it to how I speak to and how I approach my founder conversations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 14009,
+      "timestamps": []
+    },
+    {
+      "end": 14744,
+      "excerpt": "The first thing at Stanford medicine that they teach you is to meet the patient where they are at. What does that mean? That means you have to be absolutely empathetic to the journey that got them there. First, demonstrate empathy. Eventually, I get into a groove, almost a framework of going through the story of the founder and the company that helps me decide whether I need to spend more time here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14342,
+      "timestamps": []
+    },
+    {
+      "end": 15046,
+      "excerpt": "Oftentimes our meetings have to be 30 minutes only just because we simply don't have the bandwidth to do hour-long meetings most of the time. And interestingly enough, when I was a medical student, I would spend about 30 minutes with patients. What is it first? I'll draw a little bit of a corollary.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14746,
+      "timestamps": []
+    },
+    {
+      "end": 15367,
+      "excerpt": "You start with empathy, obviously. Then you go with chief complaints, usually, you know some kind of ailment, in this case, it's what is the founder trying to solve? Then you go into past medical history. The corollary here is what's the history of the company. What were the symptoms? How do they treat those symptoms?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15048,
+      "timestamps": []
+    },
+    {
+      "end": 15750,
+      "excerpt": "How do they overcome these issues? And go to family and social history, which is essentially what is the market and the peers that around you and how do they influence you. Goes the physical exam, which is, let's see the demo. Let's talk to the founders to make sure are they the right type? You get the physical and the auditory response of whether this is the right founder type.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15369,
+      "timestamps": []
+    },
+    {
+      "end": 15940,
+      "excerpt": "Eventually, you go to the assessment of the plan, which is, here's the problem issue. Here's how I'm going to attack it. It's funny, but I really feel like the corollary here is very apt. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15752,
+      "timestamps": []
+    },
+    {
+      "end": 16102,
+      "excerpt": "Gopi Rangan: I like the way you draw a parallel between startups and your patients. I see the parallel at every stage between the two. This is very interesting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15942,
+      "timestamps": []
+    },
+    {
+      "end": 16210,
+      "excerpt": "What happens during the 30 minutes, when do you feel like this is fantastic? I really want to dig deeper. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16104,
+      "timestamps": []
+    },
+    {
+      "end": 16554,
+      "excerpt": "Galym Imanbayev: Yeah. Usually, within the first five minutes, I can tell whether the founder is more of a salesman or whether the founder is more of an introvert in terms of how they present themselves. Neither, I bet each one absolutely has a strength, but its level sets me in terms of how I start interpreting the rest of the information.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 16212,
+      "timestamps": []
+    },
+    {
+      "end": 17219,
+      "excerpt": "Also, level sets me how much I need to be digging in here. That sets the dynamic at the beginning of the first five minutes. After that, I really, in the first meetings I like to put in my mind the benefit of the doubt on certain sections, where are the variables that I need to be the actual skeptic on. In our team, we've got skeptics and we've got optimists, like any dynamic team in terms of the decision-making process, how we come to investment decisions should have that, but when you're by yourself, you almost have to recreate that mindset in myself. So I'll say, okay, these are the variables, I'm just absolutely going to give the benefit of the doubt,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16556,
+      "timestamps": []
+    },
+    {
+      "end": 17555,
+      "excerpt": "I'll test them later. Because I just can't handle all of that in the 30 minutes. Distill what are the three main metrics that the founder's presented and what are the assumptions he's making in even presenting why they're important. That's what I try to focus on, because anything beyond that, you just can't fit it within 30 minutes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17221,
+      "timestamps": []
+    },
+    {
+      "end": 17637,
+      "excerpt": "If you feel like you've got some interesting signals, you schedule the next one.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17557,
+      "timestamps": []
+    },
+    {
+      "end": 17779,
+      "excerpt": "Gopi Rangan: How long does it take for you from the first five minutes to get to the point where you would make a recommendation to invest. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17639,
+      "timestamps": []
+    },
+    {
+      "end": 17898,
+      "excerpt": "Galym Imanbayev: If it's something very technical and very early, we generally have a little bit more time to digest.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 17781,
+      "timestamps": []
+    },
+    {
+      "end": 18265,
+      "excerpt": "I like to take almost another two meetings to really understanding this and doing my own work before I go to my team. Our decision-making process at Lightspeed is generally consensus-based. So, you really want to have enough material to convince others. Other firms are not consensus-based; each partner has their own ability to write checks up to a certain amount.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17900,
+      "timestamps": []
+    },
+    {
+      "end": 18660,
+      "excerpt": "They don't have to necessarily do that. In our case, we do and that's an important element. However, having said that these market deals get preempted. The pace at which diligence has to be done is so fast that sometimes it can be a week that's given to you to make the decision internally that are we going to pursue this. A week to a few weeks, depending on the urgency of the deal dynamics.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18267,
+      "timestamps": []
+    },
+    {
+      "end": 19055,
+      "excerpt": "Gopi Rangan: You mentioned that the decisions are made by consensus and there's a team of people asking different questions from perspectives that they come from and eventually you come to a conclusion as a team. But you also mentioned that the topic of mental health and especially what free spirit focuses on is not something that other investors in other firms necessarily pay attention to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18662,
+      "timestamps": []
+    },
+    {
+      "end": 19471,
+      "excerpt": "And this is so out there that most investors would ignore it. If you get to a point with an entrepreneur where you and the entrepreneur are aligned and you see the vision for the company, isn't it difficult to expect consensus from your peers? It's possible that some of them don't endorse the idea. How do you manage that? And how do you manage the relationship with the entrepreneur so you can set expectations? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19057,
+      "timestamps": []
+    },
+    {
+      "end": 19735,
+      "excerpt": "Galym Imanbayev: Yeah, absolutely, that's a great question and that is one of the challenges of an approach that does have a consensus-based approach to it. Where you have to build a coalition almost that all folks are onboard. They feel comfortable and move on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 19473,
+      "timestamps": []
+    },
+    {
+      "end": 20059,
+      "excerpt": "It's a double-edged sword, but net-net, it comes out positive. There's a company that we're pursuing. It was at the intersection of computational hard tech combined with very traditional healthcare, go-to-market motion. And in that situation, we got very close to the opportunity. The founder was excited. We were excited.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19737,
+      "timestamps": []
+    },
+    {
+      "end": 20716,
+      "excerpt": "It was competitive too, but we felt that we were in the right position to essentially make the deal. But as we were digging in and finding out more, there did come feedback that from other folks who just look at, let's say the enterprise that looks at the technology side view, certain variables heavier than we would view them on the healthcare team for example. When you've got people viewing certain variables in different weights, it really is onto the deal team, which is me or whoever's working with the entrepreneur to either get the other folks comfortable with that. Hey, while this variable may not be ideal for you, here's how this compensates.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20061,
+      "timestamps": []
+    },
+    {
+      "end": 21055,
+      "excerpt": "It's a deal-by-deal basis, whether it's market size, that compensates or is the gross margin that compensates for certain areas, all in all, it needs to come on the positive. And most of the time here at Lightspeed and I've only been here about a year, year and a half almost. And it's never been like a negatively confrontational thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20718,
+      "timestamps": []
+    },
+    {
+      "end": 21327,
+      "excerpt": "If there are disagreements, they are very valid and it's just about how people weigh different variables differently. But I must say we've been very fortunate. We've done almost 12 investments in the last 12 months. We can get to our decision-making pretty effectively. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21057,
+      "timestamps": []
+    },
+    {
+      "end": 21759,
+      "excerpt": "Gopi Rangan: It's great to see very structured process at your firm. I expect that a lot of your startup meetings, these 30-minute conversations do not result in a second meeting. And even if they do, they probably don't resolve an investment. Many of them fall into this category. What can an entrepreneur gain from the interactions with you and the rest of your team during those meetings? Even if they don't get an investment. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21329,
+      "timestamps": []
+    },
+    {
+      "end": 22078,
+      "excerpt": "Galym Imanbayev: Yeah. The first thing I would say is that entrepreneurs because they spend so much time in their businesses, it is easy to get to develop the proverbial blinders. And my encouragement would be for the entrepreneurs, if whichever way the meeting's going utilize the perspective that the VC likely has.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 21761,
+      "timestamps": []
+    },
+    {
+      "end": 22425,
+      "excerpt": "If the VC is an expert in a particular technical area, ask them those technical questions. Go deep, because it really shows the VC that you are an expert in your area, but you're also just generating market intelligence. We see so many companies don't be afraid to straight up ask the VC. I really have no idea why founders don't do this enough.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22080,
+      "timestamps": []
+    },
+    {
+      "end": 22786,
+      "excerpt": "Obviously, they'll talk about the competitive landscape, but they'll talk about it from their perspective. They won't ask me. I know more about their competitors, maybe a third to half of the time, than they do just because I've literally seen the decks. I know a lot of what's going on. And I would say entrepreneurs, ask me, ask you the VC is in this field.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22427,
+      "timestamps": []
+    },
+    {
+      "end": 22987,
+      "excerpt": "What are you finding that's most compelling in those other companies? And why did you not invest in them? What are the top two metrics or strategies that you're looking for? Don't be shy about that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22788,
+      "timestamps": []
+    },
+    {
+      "end": 23131,
+      "excerpt": "Gopi Rangan: This is very interesting. It is true that as venture capital investors, our job is to meet a lot of different types of companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22989,
+      "timestamps": []
+    },
+    {
+      "end": 23451,
+      "excerpt": "And we tend to have more insights on the competition, the landscape of the market than any other place where you can get research. You won't get this information in Gartner or research reports published. We do have a lot of that information, not just the facts, but also we have interacted with many of those founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23133,
+      "timestamps": []
+    },
+    {
+      "end": 23639,
+      "excerpt": "A lot of entrepreneurs don't take advantage of that during that meeting, by asking the question, what do you think about competition? I think that makes a very interesting conversation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23453,
+      "timestamps": []
+    },
+    {
+      "end": 23821,
+      "excerpt": "Galym Imanbayev: Absolutely. And the other thing I would say is after the meeting, let's say, you'll get that tough email that says, hey, we've passed or whatever, the way it goes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 23641,
+      "timestamps": []
+    },
+    {
+      "end": 24144,
+      "excerpt": "Definitely, there's nothing wrong with asking a few follow-up questions. I wouldn't go overboard with it, but say, if you could just share what are the key areas you'd want our business to focus on? Or the key areas that need to be de-risked in order for this to continue to be as part of your tracking list of companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23823,
+      "timestamps": []
+    },
+    {
+      "end": 24483,
+      "excerpt": "Do it. Not only does it engage the VC, but you like to do it for selfish reasons. You will get a perspective. Obviously don't oversteer. If you don't like the VC or the VC, it doesn't have the right approach, but you'll continue to build those data points. Right now, particularly the environment is that it is the entrepreneur's market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24146,
+      "timestamps": []
+    },
+    {
+      "end": 24554,
+      "excerpt": "And VCs are attuned to it now. They will oblige more often than not. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24485,
+      "timestamps": []
+    },
+    {
+      "end": 24839,
+      "excerpt": "Gopi Rangan: This is a great way to keep the door open for future communication between the investor and the entrepreneur. Usually, I get disappointed when I see a trained physician who decides not to practice and instead goes to become a lawyer or a consultant, or a businessperson.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24556,
+      "timestamps": []
+    },
+    {
+      "end": 25191,
+      "excerpt": "In your case, it's a very unique situation. The world will benefit from the wisdom that you have accumulated in the healthcare world and applying it to the business side, especially with startups where founders are building ambitious businesses. I'm really curious, what is your view on healthcare? Where is the world going? Where are opportunities? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24841,
+      "timestamps": []
+    },
+    {
+      "end": 25896,
+      "excerpt": "Galym Imanbayev: First of all, the term needs to be changed. Why healthcare? Why not health? When you say healthcare, it often implies there's gotta be something caring. There's an entity caring. And oftentimes it's these massive labor pools of medical assistants, nurses, hospital systems that have to care. The first thing that we need to do and the first thing where the industry is going to be absolutely heading to is just going to take time, is health. Focus is going to be on, obviously on the preventive aspects, defining what health even means. Does health mean that you're just not going to the doctor often or does health mean that you are a more productive member of society at a lower cost?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 25193,
+      "timestamps": []
+    },
+    {
+      "end": 26397,
+      "excerpt": "What does that mean? For example, many developed nations have social programs that help people with food and things that help preserve at least some floor in terms of the health of their nation. And the United States, we actually haven't done that very well due to political reasons and impasses, but interestingly, all these social programs and all these ways to promote health care now being pushed through the medical infrastructure of things like Medicare and Medicaid and things of that nature.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25898,
+      "timestamps": []
+    },
+    {
+      "end": 27016,
+      "excerpt": "This focus on what health is and how you define it is going to be a big part of what's going to shape which companies are going to do well, which markets are not going to do well. That's one and that's more on the services space. The other big portion of it is just the bio-side, pure life sciences innovation. The rate of pace of how quickly new drugs are being developed and more so how new technologies are going to be fueling that drug development, whether it's computational, whether it's different synthetic biology screening mechanisms, there are more tools now to advance truly life-saving curative treatment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26399,
+      "timestamps": []
+    },
+    {
+      "end": 27350,
+      "excerpt": "For the next decade or two, a lot of the gains in health are going to be gained primarily from the life sciences perspective. It is our job on the other side of the realm of the health tech world to simply start cutting out the waste, there will be some value creation, but it'll be more about value capture on the health tech side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27018,
+      "timestamps": []
+    },
+    {
+      "end": 27478,
+      "excerpt": "Whereas on the biotech side it's truly going to be new value creation because we are making things that never existed before. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27352,
+      "timestamps": []
+    },
+    {
+      "end": 27689,
+      "excerpt": "Gopi Rangan: This is such a huge sector, and I'm really glad that you define it as the health sector, not the healthcare sector. That's a very careful way of wording that describes what this business is about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27480,
+      "timestamps": []
+    },
+    {
+      "end": 27860,
+      "excerpt": "How is building a business in the health sector, different from other sectors? Do entrepreneurs need to do something different? Are there some common pitfalls to avoid? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27691,
+      "timestamps": []
+    },
+    {
+      "end": 28200,
+      "excerpt": "Galym Imanbayev: That's a great question. This might be a little bit of a hot take, but some of our peers will use phrases like software eats the world. Well, unfortunately, the software does not eat the world when it's patients' life is on the line and there are key regulatory and key institutional systems in place to protect patients.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 27862,
+      "timestamps": []
+    },
+    {
+      "end": 28545,
+      "excerpt": "It's important to not apply heuristics that were successful in certain industries and to blindly, or even with a stroke of a hand, apply them to such a complex sector as in health where it's not just complex, it's also incredibly sensitive. This is our data, and this is literally our lives on the line, our parents, our brothers, our sisters.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28202,
+      "timestamps": []
+    },
+    {
+      "end": 28905,
+      "excerpt": "Where that same “break things and go out there”, “build and fail fast,” well, the problem is when you fail fast and you fail it for something, that's a software tool and someone is not able to book their ticket efficiently. That's one thing. But when you fail fast and someone gets an immune reaction to new gene therapy, those are two very different things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28547,
+      "timestamps": []
+    },
+    {
+      "end": 29319,
+      "excerpt": "I really appreciate when founders are able to communicate that ethos. Without that ethos, we're going to be going into dangerous territory. At the same time, I love when there are people outside of the field, moving in. Sometimes our healthcare silo folks who have been in healthcare for a long time, will be like, no, these barbarians at the gate type of thing, they're coming in, they're taking our innovation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28907,
+      "timestamps": []
+    },
+    {
+      "end": 29705,
+      "excerpt": "But hey, look, we were given our chance. A lot of our people within healthcare were given a chance and now they're learning. But let outside thinkers come in and employ different strategies as long as they very much keep that ethos, that we're not going to go into this thing with a mindset of break things fast and fail fast, but we're going to take it really as a systemic approach.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29321,
+      "timestamps": []
+    },
+    {
+      "end": 30019,
+      "excerpt": "The other thing I will say about healthcare is that's different than other sectors. Is that again, the value creation curve of healthcare companies is more like a stepwise, almost erratic function, still, hopefully going up, but it's stepwise. There are no monthly recurring revenues on often on these companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29707,
+      "timestamps": []
+    },
+    {
+      "end": 30478,
+      "excerpt": "Sometimes you won't get a step up until two years down the line. I will not advise the silent part on entrepreneurs is depending on what your company is and the KPIs that are associated, make sure to choose the investors that fit that temperament. Really, it's temperament cause some VCs, if they don't see evidence and tracking and KPIs within a year, they either get scared or they just don't pay that much attention to you as a portfolio company anymore.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30021,
+      "timestamps": []
+    },
+    {
+      "end": 30803,
+      "excerpt": "That's the saddest part, choose VCs that know that your value creation curve is different, that our patient, and are there for the long run. And I chose Lightspeed, particularly because not only do we have the right team that has that ethos, but also, we have the capital stack to go from first money in all the way to IPO.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30480,
+      "timestamps": []
+    },
+    {
+      "end": 31120,
+      "excerpt": "As long as the venture story maintains, and we are the insiders and we know, we will support the company. In fact, we support a company called Personalis. We first came in in 2011. My first deal at Lightspeed was a growth investment into the company in 2020 that's nine years later, not every investor will do that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30805,
+      "timestamps": []
+    },
+    {
+      "end": 31287,
+      "excerpt": "And that's very important to match the business you're building and the value trajectory that could be there with the investor, a mindset that will align with that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31122,
+      "timestamps": []
+    },
+    {
+      "end": 31897,
+      "excerpt": "Gopi Rangan: I've had problems with the hacker mentality of build fast, fail fast, and break things. I come from the hardware world and that's where I started my career where when you build something, it has to last. It cannot be buggy out there and you can hope to fix it later with patches. That does not work in the health sector for sure when patients' lives are at stake. This concept of building a software solution, just throw it out there and iterate. It's not going to work in healthcare and I can see the ethos of having a thoughtful approach to building a business is very important in healthcare.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31289,
+      "timestamps": []
+    },
+    {
+      "end": 32531,
+      "excerpt": "I can also appreciate the need for patient capital. These businesses sometimes take time and there are fluctuations along the way on when you can unlock value. Sometimes it takes nine years, and you will unlock the value eventually. You cannot have an impatient mentality where in 18 months, can you hit certain ARR numbers and that's not the approach investors should take. Entrepreneurs should be very careful about choosing investors who are aligned with their ethos and their values. When you came to venture capital a few years ago, you had some expectations and you did an unpaid internship, which turned into a full-time job.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31899,
+      "timestamps": []
+    },
+    {
+      "end": 32663,
+      "excerpt": "And now it's been a few years. What is different? How do you view entrepreneurs today compared to how you did in the early years? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32533,
+      "timestamps": []
+    },
+    {
+      "end": 32935,
+      "excerpt": "Galym Imanbayev: When I first entered the field back in 2013 as an analyst and associate there at Capricorn. At that time, we looked at companies that there were folks who were a little bit later stage in the career, this is more of a middle-market, private equity firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 32665,
+      "timestamps": []
+    },
+    {
+      "end": 33344,
+      "excerpt": "initially set my impression of what entrepreneurs are. These are folks who have done it before done it for a long time, been successful in their industries, and kept along that path. As I was doing my MD MBA at Stanford. I had an opportunity to work with Scott Barkley at DCVC and he was absolutely instrumental in helping me broaden the way I view entrepreneurs and the heuristics that I view them through.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32937,
+      "timestamps": []
+    },
+    {
+      "end": 33852,
+      "excerpt": "Before I even started the internship with Scott at DCVC, he sent me a list of books to read, and that's when I knew this guy is special and you will go and he's going to teach me a few things. One of the books you sent me was thinking fast and slow about the economy. And I was like, man, do I really need to read this? This seems more just like a book about thinking rather than an industry, I was ready to do some market reports, all this stuff, but honestly, I'm so thankful that Scott recommended that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33346,
+      "timestamps": []
+    },
+    {
+      "end": 34580,
+      "excerpt": "And anyone who speaks to him will know how in tune a good investor has to be with their own limitations of their own mind and to be aware of their own biases. You can't eliminate all of them, but things like recency bias, selection bias in terms of who you're seeing. And then heuristics that you applied to one industry and we're moving on to the next. Incorporating all of that and the lessons that I learned from Scott at DCVC, helped me view entrepreneurs in a different way. I could no longer just bias them to, okay, this person comes from this background. They're going to push this company to go this way. You can no longer make those prejudiced judgments. The key challenge for us as investors is what is the balance?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33854,
+      "timestamps": []
+    },
+    {
+      "end": 34883,
+      "excerpt": "If you are so objective about not using any heuristics or not using any of your past pattern matchings, you become extremely inefficient because pattern matching is an important part of human activity, human life. But if you oversteer and your pattern match the entire time, you're going to miss out. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34582,
+      "timestamps": []
+    },
+    {
+      "end": 35348,
+      "excerpt": "What's that balance? That is a lifelong quest for any investor and I'm definitely on it and trying to balance that. So, I think through that lens of that spectrum, how much should I employ what I know about the field and how much should I be open-minded about a particular space to believe, and to dream with the founder? I definitely allow myself to dream with the founders now a little bit more than I probably should, but over time, I'll find the right amount.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34885,
+      "timestamps": []
+    },
+    {
+      "end": 35624,
+      "excerpt": "Gopi Rangan: Beautifully articulated and Scott is a very wise man, indeed. He's a good friend of mine. I want to switch to the next part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 35350,
+      "timestamps": []
+    },
+    {
+      "end": 35742,
+      "excerpt": "Galym Imanbayev: Yeah. Currently, I serve on the board of Gaia global health that's global aids interfaith Alliance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 35626,
+      "timestamps": []
+    },
+    {
+      "end": 36977,
+      "excerpt": "This organization is primarily operating in Malawi but has a very interesting origin story. In 2000 and fiscal, pretty stubble rank, and Ben, a renowned neurosurgeon, Dr. Charlie Wilson. They launched this organization to focus on health equity globally, and they'll bring life-saving treatment to various countries that are impacted by the aids epidemic. And to this organization, they have now to date enabled Malawi to be one of the first African countries to meet the UN aids 90, 90, 90 treatment targets. Basically, treatment, how many targets, how many tested and they've trained almost 10% of the entire country's nursing staff. Interestingly, I chose to join this one, not only to learn and be a mentor by folks like Jonathan and Laurie, but also to understand how an efficiently run non-profit organization works because someday and I really hope someday, and this comes sooner than later is to use some of the learnings from my father and myself and this to start a similar program, maybe on different conditions within Kazakhstan and Central Asia. As you know, there is a lot of issues with that, with Afghanistan and a lot of the issues in central Asia, that area I'm very passionate about as my home place in Kazakhstan.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35744,
+      "timestamps": []
+    },
+    {
+      "end": 37138,
+      "excerpt": "There's a lot of issues happening in Northwest China as well. I want to build an organization in time that will be able to service the underserved population. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36979,
+      "timestamps": []
+    },
+    {
+      "end": 37359,
+      "excerpt": "Gopi Rangan: Galym, thank you very much for sharing a lot of detailed stories, real-life, examples, and hard takes on how you view the industry, including your last example of how you want to create impact in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37140,
+      "timestamps": []
+    },
+    {
+      "end": 37470,
+      "excerpt": "Thank you so much for sharing your nuggets of wisdom. I look forward to sharing your stories with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37361,
+      "timestamps": []
+    },
+    {
+      "end": 37538,
+      "excerpt": "Galym Imanbayev: Thank you very much Gopi, I really appreciate it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Galym Imanbayev",
+      "start": 37472,
+      "timestamps": []
+    },
+    {
+      "end": 37716,
+      "excerpt": "Gopi Rangan: Thank you for listening to the Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers, supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37540,
+      "timestamps": []
+    },
+    {
+      "end": 37884,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37718,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "1cee1f98b2ddc4aff77f358bb1068c70faca41a0d841aff6abfba5a8bd24d57f",
+  "text_sha256": "4da376bca6227d645ec586d919fa8b880bc082ba45997bc6e8789c20b8fcfe7d"
+}

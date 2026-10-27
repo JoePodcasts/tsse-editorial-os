@@ -1,0 +1,1655 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 359,
+      "excerpt": "\"If you're working with the odds and then you're adding value on top of that, I think your ability to create an enduring fund is higher, and that's going to benefit founders. I would think that as we, from an LP perspective is the same way. I mean, we think about it in the same light like we want to back GPs that are gonna build enduring firms.\" - Steve Kim",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 1045,
+      "excerpt": "[00:00:29] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Steve Kim. He's a partner at Verdis Investment Management. Steve has a very refreshing point of view on venture capital. He invests in venture capital funds, but he has a different take on how to go about it. There is a traditional way of investing in venture capital. There is a new way based on data and analysis that Steve follows. We've had healthy debates on this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 361,
+      "timestamps": [
+        {
+          "offset": 361,
+          "raw": "[00:00:29]",
+          "seconds": 29
+        }
+      ]
+    },
+    {
+      "end": 1278,
+      "excerpt": "[00:01:18] There are some things I understand, some things I don't, and I'm curious to learn more. So today's gonna be a juicy discussion, very interesting, and we're gonna learn a lot. Steve, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1047,
+      "timestamps": [
+        {
+          "offset": 1047,
+          "raw": "[00:01:18]",
+          "seconds": 78
+        }
+      ]
+    },
+    {
+      "end": 1358,
+      "excerpt": "[00:01:29] Steve Kim: Thanks Gopi for inviting me. It's a pleasure to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 1280,
+      "timestamps": [
+        {
+          "offset": 1280,
+          "raw": "[00:01:29]",
+          "seconds": 89
+        }
+      ]
+    },
+    {
+      "end": 1425,
+      "excerpt": "[00:01:32] Gopi Rangan: Let's start with you. You are from Korea.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1360,
+      "timestamps": [
+        {
+          "offset": 1360,
+          "raw": "[00:01:32]",
+          "seconds": 92
+        }
+      ]
+    },
+    {
+      "end": 1754,
+      "excerpt": "[00:01:36] You were born there in Seoul, and you moved to the US. You're part of the Generation 1.5, and then you built your career here in the US. You held many leadership roles in companies like Alcatel and Clear Communications and many other firms like that. Then eventually you switch to investment side about 20 years ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1427,
+      "timestamps": [
+        {
+          "offset": 1427,
+          "raw": "[00:01:36]",
+          "seconds": 96
+        }
+      ]
+    },
+    {
+      "end": 1880,
+      "excerpt": "[00:01:54] But let's start with you, where you grew up and now how all of this started. Please share some details about you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1756,
+      "timestamps": [
+        {
+          "offset": 1756,
+          "raw": "[00:01:54]",
+          "seconds": 114
+        }
+      ]
+    },
+    {
+      "end": 2297,
+      "excerpt": "[00:02:01] Steve Kim: Yeah, so I was born in Seoul, South Korea. I was actually five when I came to the States, and I have a younger brother who is only two. The fortunate thing from my perspective is that my father was an executive at Korean Airlines, so he got to travel all over the world and see the world outside of Korea, and that was the inspiration that he actually wanted to immigrate to the United States.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 1882,
+      "timestamps": [
+        {
+          "offset": 1882,
+          "raw": "[00:02:01]",
+          "seconds": 121
+        }
+      ]
+    },
+    {
+      "end": 2674,
+      "excerpt": "[00:02:25] And it's really an interesting story. My first step in the US was San Francisco. We flew there and it was actually without my father, my brother and I, I was five and he was two. We actually flew together without my parents to San Francisco. Interesting. And yeah, and the crazy story about that is when we arrived at the airport, they needed to check our luggage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2299,
+      "timestamps": [
+        {
+          "offset": 2299,
+          "raw": "[00:02:25]",
+          "seconds": 145
+        }
+      ]
+    },
+    {
+      "end": 2985,
+      "excerpt": "[00:02:48] I had the keys to the luggage around my neck, but I forgot all about that. So, they actually had to break into the luggage because I'd forgotten all about the key that was around my neck to actually open the luggage. But you were five. I was five and it was kind of a traumatic experience actually.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2676,
+      "timestamps": [
+        {
+          "offset": 2676,
+          "raw": "[00:02:48]",
+          "seconds": 168
+        }
+      ]
+    },
+    {
+      "end": 3582,
+      "excerpt": "[00:03:05] But yeah, it's been a great experience here. Certainly I went to, great school and all the way up in the US and then I got really lucky. I got really interested in technology from a very early age, played around with computers, and that was back in the day when you had, radio shack computers and Commodore 64s and I got interested in networking quite early and I played around with Apple talk deck net and, a bunch of networking protocols. That's kind of how I got my start. I ended up at Walt, the Walt Disney Company helping them implement their network and their fiber optic ring.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2987,
+      "timestamps": [
+        {
+          "offset": 2987,
+          "raw": "[00:03:05]",
+          "seconds": 185
+        }
+      ]
+    },
+    {
+      "end": 3975,
+      "excerpt": "[00:03:40] So I got to work very, very closely with the rest of the technology group there and companies like Cisco and Cross com, which is another kind of bridge and router vendor. So the very, very early days of the network, the very early days of the internet. And I got very familiar with the protocols that were needed and I was fortunate enough to help develop some of those protocols.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3584,
+      "timestamps": [
+        {
+          "offset": 3584,
+          "raw": "[00:03:40]",
+          "seconds": 220
+        }
+      ]
+    },
+    {
+      "end": 4277,
+      "excerpt": "[00:04:02] That's how I got my start in technology in that. And then I went to work for a bunch of telecom companies, Alcatel, Fujitsu, and again, fortunate enough to write up some of the standards as it relates to the networking protocols. And then I was CTO of several private and public companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3977,
+      "timestamps": [
+        {
+          "offset": 3977,
+          "raw": "[00:04:02]",
+          "seconds": 242
+        }
+      ]
+    },
+    {
+      "end": 4628,
+      "excerpt": "[00:04:20] Gopi Rangan: Those were the formative years of infrastructure development, through the eighties and through the nineties, upon which we're now building the technology innovation revolution. And you were part of that. I'm curious, you spent many years in leadership roles, managing businesses, but then you switched to the investment side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4279,
+      "timestamps": [
+        {
+          "offset": 4279,
+          "raw": "[00:04:20]",
+          "seconds": 260
+        }
+      ]
+    },
+    {
+      "end": 4683,
+      "excerpt": "[00:04:38] What attracted you to the investment side?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4630,
+      "timestamps": [
+        {
+          "offset": 4630,
+          "raw": "[00:04:38]",
+          "seconds": 278
+        }
+      ]
+    },
+    {
+      "end": 5323,
+      "excerpt": "[00:04:41] Steve Kim: Great question. So I did spend quite a bit of time on the technology and ops side for public and private companies. One of the last companies I worked for was a private firm called Orcom, where I met several of my partners that started the family office. We ended up selling that company to Alliance Data Systems, which is a big tech company that was based in Dallas. I stayed on there as CTO for a period. And then my other partners and I got back together after the business was sold to Alliance Data Systems to start the family office. And one of those partners happens to be a family member of the DuPont family.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 4685,
+      "timestamps": [
+        {
+          "offset": 4685,
+          "raw": "[00:04:41]",
+          "seconds": 281
+        }
+      ]
+    },
+    {
+      "end": 5764,
+      "excerpt": "[00:05:16] So we took capital from the DuPonts and the capital that we received from exiting that business and started the family office in 2004. And what was interesting was we started off with a very traditional endowment model for investing. After a while, we started shifting that lens a little bit to become more data driven, and that's because it really coincided with what has happened in the private markets, the availability data.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5325,
+      "timestamps": [
+        {
+          "offset": 5325,
+          "raw": "[00:05:16]",
+          "seconds": 316
+        }
+      ]
+    },
+    {
+      "end": 6380,
+      "excerpt": "[00:05:42] It's just really been tremendous. The amount of data that's been available now on the private market side. It's always been there on the public side, but it's only a fairly recent phenomenon on the private side. So we've been able to take advantage of that, and I think the big differentiator for us is that the way we define data driven is on the decision making side. So the interpretation of data is so much more important than actually seeing the data itself. So we spend a lot of time on how do we make the right decisions? What is our interpretation of this data? How should we be interpreting it?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5766,
+      "timestamps": [
+        {
+          "offset": 5766,
+          "raw": "[00:05:42]",
+          "seconds": 342
+        }
+      ]
+    },
+    {
+      "end": 6677,
+      "excerpt": "[00:06:15] Gopi Rangan: It's now been 20 years at the family office investing, and you have a very different take on how to invest in emerging managers in venture capital. Can you describe your style and how you interpret data on venture capital? What is interesting to you in emerging managers?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6382,
+      "timestamps": [
+        {
+          "offset": 6382,
+          "raw": "[00:06:15]",
+          "seconds": 375
+        }
+      ]
+    },
+    {
+      "end": 6824,
+      "excerpt": "[00:06:34] Steve Kim: Emerging managers are really critical for us, and the reason for that is that we are very focused on first check investing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 6679,
+      "timestamps": [
+        {
+          "offset": 6679,
+          "raw": "[00:06:34]",
+          "seconds": 394
+        }
+      ]
+    },
+    {
+      "end": 7179,
+      "excerpt": "[00:06:41] So we wanna go as early as possible from a venture capital, early stage venture capital perspective. We want to get access to great companies at the very, very earliest stages. If you think about it from a valuation perspective, it's really when the valuations are the lowest. We wanna compound the growth of those great businesses over time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6826,
+      "timestamps": [
+        {
+          "offset": 6826,
+          "raw": "[00:06:41]",
+          "seconds": 401
+        }
+      ]
+    },
+    {
+      "end": 7477,
+      "excerpt": "[00:07:02] And that's how we think about venture. And that's really the reason why we think emerging managers are so crucial. Most emerging managers, almost all, are investing at that very initial stage. It's really hard for me to describe how important that ecosystem is for early stage venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7181,
+      "timestamps": [
+        {
+          "offset": 7181,
+          "raw": "[00:07:02]",
+          "seconds": 422
+        }
+      ]
+    },
+    {
+      "end": 7782,
+      "excerpt": "[00:07:19] It's so important because they're the ones that are really grounded at that earlier stage and usually the later firms are actually drifting beyond that early stage. They're putting a lot of capital to work later. So the emerging market ecosystem, is crucial if you're an early stage investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7479,
+      "timestamps": [
+        {
+          "offset": 7479,
+          "raw": "[00:07:19]",
+          "seconds": 439
+        }
+      ]
+    },
+    {
+      "end": 8724,
+      "excerpt": "[00:07:35] Gopi Rangan: Traditionally venture capital was about taking a concentrated portfolio, taking big bets with high conviction and supporting the entrepreneur early. I agree with you that the definition of venture capital kind of become really fuzzy. It's no longer just the early stages, and it's everything at the growth stage, and they all call themselves venture capital, although I truly believe that's not venture capital. The true art of venture capital is in the early stages, preseed seed or Series A up to series A. But there the traditional way of investing in startups was high concentration portfolio, high conviction investments, and high ownership in those companies when VCs invest in those companies. But you have a different take. You feel like that's not necessary. That's actually not the right way to build an optimal portfolio. Diversification is better, more diversification is even better. Did I say it right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7784,
+      "timestamps": [
+        {
+          "offset": 7784,
+          "raw": "[00:07:35]",
+          "seconds": 455
+        }
+      ]
+    },
+    {
+      "end": 9359,
+      "excerpt": "[00:08:29] Steve Kim: You did. There's probably a few other topics that generates a lot of controversy or differing opinions, but this notion of portfolio construction, whether you believe in a concentrated portfolio with high ownership or you believe in a diversified portfolio with not quite as high ownership, it's amazing to me how much discussion there is, and controversy there is, and opinions there are around this particular topic. In fact, that was just at Raise and I know it was a topic at Raise as well. It seems like every time you get VCs together and GPs together, they're gonna fall on one side of that or the other.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 8726,
+      "timestamps": [
+        {
+          "offset": 8726,
+          "raw": "[00:08:29]",
+          "seconds": 509
+        }
+      ]
+    },
+    {
+      "end": 9822,
+      "excerpt": "[00:09:06] And I think the minority view, and I still think it's a minority view, is the diversification argument. I think most venture capital especially investors or limited partners are gonna fall on in the concentrated camp. You're starting to see some GPs that are probably a percentage of GPs that are moving more towards a diversification camp, but I would say that it's still a majority position that you need to be concentrated and have high ownership.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9361,
+      "timestamps": [
+        {
+          "offset": 9361,
+          "raw": "[00:09:06]",
+          "seconds": 546
+        }
+      ]
+    },
+    {
+      "end": 10184,
+      "excerpt": "[00:09:33] Our view is that, number one, as a family, we're very, very focused on asset allocation. So if you're focused on asset allocation to drive returns, you're already understanding what the benefits there are to diversification, and we think of venture capital, whether you think about it at early or late stage, is a component of that asset allocation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9824,
+      "timestamps": [
+        {
+          "offset": 9824,
+          "raw": "[00:09:33]",
+          "seconds": 573
+        }
+      ]
+    },
+    {
+      "end": 10524,
+      "excerpt": "[00:09:55] And for it to be a component of that asset allocation, you need to take a very long-term view. And I think it's particularly difficult in venture capital because I think there's a group, a majority of LPs and maybe GPs as well, that look at venture capital as a single investment or an investment for a particular vintage year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10186,
+      "timestamps": [
+        {
+          "offset": 10186,
+          "raw": "[00:09:55]",
+          "seconds": 595
+        }
+      ]
+    },
+    {
+      "end": 11061,
+      "excerpt": "[00:10:15] So they're dipping in and out of vintage years. Depending on how they think that vintage year will perform, they may be investing in a handful of funds or maybe even one fund because they want to knock the ball out of the park. They see venture capital as the lottery asset class: one that they can generate a tremendous return. And they're not necessarily thinking about it from a multi period perspective where you're compounding capital for a very long period of time, and that it's a core piece of your asset allocation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10526,
+      "timestamps": [
+        {
+          "offset": 10526,
+          "raw": "[00:10:15]",
+          "seconds": 615
+        }
+      ]
+    },
+    {
+      "end": 11424,
+      "excerpt": "[00:10:44] So that's how we think about it. And if you think about it in that perspective, then what you wanna do is you wanna lower volatility, you wanna lower dispersion over time because volatility drag when you compound capital is a net negative. So you want a consistent, good rate of return. You're not trying to get a 50 x outcome or a hundred x outcome.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11063,
+      "timestamps": [
+        {
+          "offset": 11063,
+          "raw": "[00:10:44]",
+          "seconds": 644
+        }
+      ]
+    },
+    {
+      "end": 11789,
+      "excerpt": "[00:11:05] What you're trying to do is you're trying to optimize the compounding of capital. And when you look at early stage venture capital, the mean return is very, very attractive, and the median return is very unattractive. So you're trying to capture that mean return. And in order to have a higher probability of doing that, you want a diversify portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11426,
+      "timestamps": [
+        {
+          "offset": 11426,
+          "raw": "[00:11:05]",
+          "seconds": 665
+        }
+      ]
+    },
+    {
+      "end": 12033,
+      "excerpt": "[00:11:27] And that mean return is somewhere around 20% compounded. It's a very, very attractive return over time. But you have to be patient, you have to lower the dispersion as much as you can, and you have stay invested in the asset class.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11791,
+      "timestamps": [
+        {
+          "offset": 11791,
+          "raw": "[00:11:27]",
+          "seconds": 687
+        }
+      ]
+    },
+    {
+      "end": 12257,
+      "excerpt": "[00:11:41] Gopi Rangan: I fall on the other side. I run a firm that has a concentrated portfolio of 15 to 20 investments per fund, but I'm gonna be a student for the next 30 minutes and try to learn from your perspectives.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12035,
+      "timestamps": [
+        {
+          "offset": 12035,
+          "raw": "[00:11:41]",
+          "seconds": 701
+        }
+      ]
+    },
+    {
+      "end": 12474,
+      "excerpt": "[00:11:53] Let's put some numbers on this. Let's call a 15 to 20 startups in a portfolio a concentrated portfolio. What is a diversified portfolio? How many startups would you like to see in a diversified portfolio?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12259,
+      "timestamps": [
+        {
+          "offset": 12259,
+          "raw": "[00:11:53]",
+          "seconds": 713
+        }
+      ]
+    },
+    {
+      "end": 12743,
+      "excerpt": "[00:12:04] Steve Kim: So that's an interesting perspective too, is looking at venture capital in isolation as an asset class in the sense I just talked about that it needs to be a core part of your asset allocation but the behavior of the asset classes are different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 12476,
+      "timestamps": [
+        {
+          "offset": 12476,
+          "raw": "[00:12:04]",
+          "seconds": 724
+        }
+      ]
+    },
+    {
+      "end": 13058,
+      "excerpt": "[00:12:17] And what we focus on is the distribution of the structure of the asset class. What is the shape? What is the probability of outcomes that's associated with the shape of the asset class? How does it behave over time? And most asset classes are kind of normal looking. They look like a bell shaped curve.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12745,
+      "timestamps": [
+        {
+          "offset": 12745,
+          "raw": "[00:12:17]",
+          "seconds": 737
+        }
+      ]
+    },
+    {
+      "end": 13441,
+      "excerpt": "[00:12:33] They may have fatter tails, then a typical bell-shaped curve, but they follow a kind of a similar structure. And in those kinds of asset classes a lot of people believe that 30 investments is considered diversified. And you can make that argument depending on how much dispersion you want, or how much tracking error you want based on a benchmark that you're looking at.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13060,
+      "timestamps": [
+        {
+          "offset": 13060,
+          "raw": "[00:12:33]",
+          "seconds": 753
+        }
+      ]
+    },
+    {
+      "end": 13757,
+      "excerpt": "[00:12:53] Venture capital is really skewed. So it doesn't look like a bell-shaped curve. It doesn't behave like a bell-shaped curve. It's highly skewed asset class, and therefore that rule of thumb of 30 investments being diversified doesn't really work well in venture capital. You need more than 30 investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13443,
+      "timestamps": [
+        {
+          "offset": 13443,
+          "raw": "[00:12:53]",
+          "seconds": 773
+        }
+      ]
+    },
+    {
+      "end": 14488,
+      "excerpt": "[00:13:11] And that's just because the structure of the asset class, it behaves differently. The shape is different, so you need more diversification than 30. So if you're thinking \" Hey, I've got 30 investments, that's diversified enough.\" That may be true depending on, like I said, the tracking error in an asset class that's more bell-shaped. It's not really the case for a highly skewed asset class, you need more than 30. That's why we like the 50 number. It also works when you think about that only 2% of the investments that you make in venture are gonna drive the majority of the returns. So that's another way you can triangulate around the 50. You have a reasonable probability that you're gonna be in one big winner.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13759,
+      "timestamps": [
+        {
+          "offset": 13759,
+          "raw": "[00:13:11]",
+          "seconds": 791
+        }
+      ]
+    },
+    {
+      "end": 14821,
+      "excerpt": "[00:13:48] So there's a lot of ways to think about the diversification, but if you calibrate around, it's a skewed asset class, there's only about 2% of companies that drive the majority of the returns. When you run those numbers, you get to like around a 50 number, right? So 50 is comparable to a 30 in a bell-shaped asset class.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14490,
+      "timestamps": [
+        {
+          "offset": 14490,
+          "raw": "[00:13:48]",
+          "seconds": 828
+        }
+      ]
+    },
+    {
+      "end": 15188,
+      "excerpt": "[00:14:08] Gopi Rangan: I get it that venture capital has a lot more volatility than other asset classes and volatility drags returns down. Median is bad, although mean could be good. And how do you reduce volatility to make sure that the portfolio generates predictable returns? And the way to do that is by having a diversified portfolio of at least 50 companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14823,
+      "timestamps": [
+        {
+          "offset": 14823,
+          "raw": "[00:14:08]",
+          "seconds": 848
+        }
+      ]
+    },
+    {
+      "end": 15219,
+      "excerpt": "[00:14:32] That's the theory.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15190,
+      "timestamps": [
+        {
+          "offset": 15190,
+          "raw": "[00:14:32]",
+          "seconds": 872
+        }
+      ]
+    },
+    {
+      "end": 15588,
+      "excerpt": "[00:14:33] Steve Kim: That is the theory. If you look at it, adding positions is gonna lower the ball. So the problem with adding positions sometimes is that you can actually reduce your mean too. But the nice thing about venture is that the mean is unbounded. It's hard to think about it that way, but the winners are so big that the mean keeps increasing over time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 15221,
+      "timestamps": [
+        {
+          "offset": 15221,
+          "raw": "[00:14:33]",
+          "seconds": 873
+        }
+      ]
+    },
+    {
+      "end": 15894,
+      "excerpt": "[00:14:54] So you get to take advantage of some of the unbounded nature of venture capital. Plus to reduce the volatility by adding position. So it's kind of a win-win scenario. The way we think about it, it's a very unique asset class in how the distribution looks and the behavior of that distribution.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15590,
+      "timestamps": [
+        {
+          "offset": 15590,
+          "raw": "[00:14:54]",
+          "seconds": 894
+        }
+      ]
+    },
+    {
+      "end": 16073,
+      "excerpt": "[00:15:10] So you get a lot of win-win ability capabilities as it in the asset class, because of the diversification that you may not get if the distribution looked differently.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15896,
+      "timestamps": [
+        {
+          "offset": 15896,
+          "raw": "[00:15:10]",
+          "seconds": 910
+        }
+      ]
+    },
+    {
+      "end": 16330,
+      "excerpt": "[00:15:20] Gopi Rangan: Typically when you're diversify, you reduce downside risk, but you also reduce upside. And in venture capital, because of the nature of the asset class, the upside is unbounded and very high when exactly the outsize returns happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16075,
+      "timestamps": [
+        {
+          "offset": 16075,
+          "raw": "[00:15:20]",
+          "seconds": 920
+        }
+      ]
+    },
+    {
+      "end": 16612,
+      "excerpt": "[00:15:32] So you're not actually giving up on too much of the upside. You still capture reasonable amount on the upside. The high risk, high reward game of venture capital will still generate good returns, even though if you diversify with more than 50 startups in the portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16332,
+      "timestamps": [
+        {
+          "offset": 16332,
+          "raw": "[00:15:32]",
+          "seconds": 932
+        }
+      ]
+    },
+    {
+      "end": 16950,
+      "excerpt": "[00:15:47] Steve Kim: Exactly right. There is some upside that you're gonna lose because you're dispersing the return over a larger number of startups. So you do get that. But what's nice about venture is you do get lower downside which with the diversification, and because the upside is unbounded, you capture a lot of the upside too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 16614,
+      "timestamps": [
+        {
+          "offset": 16614,
+          "raw": "[00:15:47]",
+          "seconds": 947
+        }
+      ]
+    },
+    {
+      "end": 17118,
+      "excerpt": "[00:16:06] So again, that's why we think of it as win-win. It's the only asset class that really behaves like that, and we feel like we should take advantage of that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16952,
+      "timestamps": [
+        {
+          "offset": 16952,
+          "raw": "[00:16:06]",
+          "seconds": 966
+        }
+      ]
+    },
+    {
+      "end": 17308,
+      "excerpt": "[00:16:14] Gopi Rangan: This is a controversial topic, although we're talking about it very matter of factly. This is a very hotly debated topic, concentrated versus diversified portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17120,
+      "timestamps": [
+        {
+          "offset": 17120,
+          "raw": "[00:16:14]",
+          "seconds": 974
+        }
+      ]
+    },
+    {
+      "end": 17607,
+      "excerpt": "[00:16:22] The people on the concentrated side look at the diversified and say, the well your spray and pray strategy. The diversified look at the concentrated portfolio VCs and say, you are zero or hero kind of portfolio. That's kind of reckless. So both have very competing views on either side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17310,
+      "timestamps": [
+        {
+          "offset": 17310,
+          "raw": "[00:16:22]",
+          "seconds": 982
+        }
+      ]
+    },
+    {
+      "end": 17800,
+      "excerpt": "[00:16:39] The venture capital ecosystem has evolved a lot. There are many different types of VCs in the ecosystem, and some of them think that they can actually help founders and they don't.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17609,
+      "timestamps": [
+        {
+          "offset": 17609,
+          "raw": "[00:16:39]",
+          "seconds": 999
+        }
+      ]
+    },
+    {
+      "end": 18695,
+      "excerpt": "[00:16:48] When you have a diversified portfolio, there's a natural mechanism where you actually don't have time to mess with your portfolio companies. You have very limited time when you can try to be helpful and you don't get too nosy with your portfolio companies. In a concentrated portfolio, a VC with Hubris might think that actually, I'm going to help and they might be hurting the company. They might be creating problems in the company just because they have very high ownership and it can become a bias in the mind of the VC and they take too much care and sometimes that might not be good for the company itself. And in today's world with so many VCs, and there's no proper training for many of the VCs on how to be a good vc, there are a lot of VCs who don't know how to be a good vc, and they might end up messing up with their portfolio, especially with a concentrated portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17802,
+      "timestamps": [
+        {
+          "offset": 17802,
+          "raw": "[00:16:48]",
+          "seconds": 1008
+        }
+      ]
+    },
+    {
+      "end": 18813,
+      "excerpt": "[00:17:32] Is that a risk that you will also avoid when you have a diversified portfolio? I'm making a case for you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18697,
+      "timestamps": [
+        {
+          "offset": 18697,
+          "raw": "[00:17:32]",
+          "seconds": 1052
+        }
+      ]
+    },
+    {
+      "end": 19487,
+      "excerpt": "[00:17:37] Steve Kim: It's interesting. We do consider ourselves pretty quantitative and data-driven, but we spend an equal amount of time and we should probably actually spend more time on this side of it. And that's the side of behavioral bias. In decision making, just understanding what your biases are, understanding when you're talking your book is really important. I think for investors, for GPs and LPs, it's really important to understand what kind of biases you have, what kind of biases are prevalent in the industry itself, what kind of biases are prevalent from the industry experts, et cetera. And from our perspective, humility is a really important trait.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 18815,
+      "timestamps": [
+        {
+          "offset": 18815,
+          "raw": "[00:17:37]",
+          "seconds": 1057
+        }
+      ]
+    },
+    {
+      "end": 19897,
+      "excerpt": "[00:18:16] Number one, you need it to understand what your biases are. So without humility, I think it's very difficult to calibrate biases, but it goes to the heart of your question. When you're working with a startup and when we're working with funds, what we wanna do is we wanna provide help in an environment where we're humble about what we can do, how we can work with that particular fund or startup.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19489,
+      "timestamps": [
+        {
+          "offset": 19489,
+          "raw": "[00:18:16]",
+          "seconds": 1096
+        }
+      ]
+    },
+    {
+      "end": 20378,
+      "excerpt": "[00:18:41] And I think the key there is humility, and the key there is being helpful, right? Which usually means that making sure they understand that they can reach out to you, making sure that you're open to any kind of questions and you're open to providing feedback and help around anything that they may require, but it's not being micromanaging or so intrusive that you're giving them opinions and making those opinions to be the only opinions that they should think about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19899,
+      "timestamps": [
+        {
+          "offset": 19899,
+          "raw": "[00:18:41]",
+          "seconds": 1121
+        }
+      ]
+    },
+    {
+      "end": 20955,
+      "excerpt": "[00:19:08] It's really helping them with anything that they may require, but letting them be the ones that reach out to you versus saying, \"okay, I need to talk to you every week and I'm gonna critique and criticize everything that you may be looking at, because I think what I provide is really the right answer. You should basically be doing what I tell you you should be doing.\" And I think that's really hard for a lot of investors. There needs to be a healthy dose of humility to make sure that you're providing the kinds of help that a startup or a fund is looking for.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20380,
+      "timestamps": [
+        {
+          "offset": 20380,
+          "raw": "[00:19:08]",
+          "seconds": 1148
+        }
+      ]
+    },
+    {
+      "end": 21207,
+      "excerpt": "[00:19:41] Gopi Rangan: Even a well-meaning human being might not know when to stop and when to hold back and let the founder run their business. They might get too close and micromanage the process. That's a natural bias that many human beings have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20957,
+      "timestamps": [
+        {
+          "offset": 20957,
+          "raw": "[00:19:41]",
+          "seconds": 1181
+        }
+      ]
+    },
+    {
+      "end": 21686,
+      "excerpt": "[00:19:56] There's another aspect that also makes it easy for an LP when you invest in a diversified portfolio. As an LP, you would look for whether the VC has access, whether the VC can win a deal, whether the VC is able to add value. And when you assess an investor with these qualities, it's very hard to know whether the VC has access, whether the VC has the ability to win, whether the VC is able to use good judgment when they make decisions, and when they can add value.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21209,
+      "timestamps": [
+        {
+          "offset": 21209,
+          "raw": "[00:19:56]",
+          "seconds": 1196
+        }
+      ]
+    },
+    {
+      "end": 22081,
+      "excerpt": "[00:20:27] The easiest thing to measure in a diversified portfolio is, do you have access or not? Because the portfolio shows you have access. And if you don't have access, it's not in the portfolio and you can win. So those two things are easy to measure and assess in a vc. The other two things on judgment and value add are very subjective and it takes a lot more effort to research the VC.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21688,
+      "timestamps": [
+        {
+          "offset": 21688,
+          "raw": "[00:20:27]",
+          "seconds": 1227
+        }
+      ]
+    },
+    {
+      "end": 22305,
+      "excerpt": "[00:20:46] So as an LP, it's actually easier to invest in a diversified portfolio because all you need to look at is the first two characteristics and you don't actually care too much about the other two characteristics. ,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22083,
+      "timestamps": [
+        {
+          "offset": 22083,
+          "raw": "[00:20:46]",
+          "seconds": 1246
+        }
+      ]
+    },
+    {
+      "end": 22473,
+      "excerpt": "[00:20:56] Steve Kim: I do think access is important. Obviously, as you pointed out, whether you run a concentrated portfolio or diversified, you need to have access.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 22307,
+      "timestamps": [
+        {
+          "offset": 22307,
+          "raw": "[00:20:56]",
+          "seconds": 1256
+        }
+      ]
+    },
+    {
+      "end": 22823,
+      "excerpt": "[00:21:04] Because you're making, let's say 40 or 50 investments doesn't mean that the other pieces don't matter. I mean, good judgment matters, right? Because you're still looking for the best investments that you can. The way I frame that is what you're trying to do with a diversified portfolio is you're allowing the math to work in your favor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22475,
+      "timestamps": [
+        {
+          "offset": 22475,
+          "raw": "[00:21:04]",
+          "seconds": 1264
+        }
+      ]
+    },
+    {
+      "end": 23155,
+      "excerpt": "[00:21:24] A lot of people don't like the analogy of investing is similar to gambling, for example, right? But professional gamblers, whether it's in poker or other endeavors, they're very good at understanding what their odds are their odds for success. They understand what probabilities look like and what their odds look like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22825,
+      "timestamps": [
+        {
+          "offset": 22825,
+          "raw": "[00:21:24]",
+          "seconds": 1284
+        }
+      ]
+    },
+    {
+      "end": 23596,
+      "excerpt": "[00:21:41] And the way we think about this is that, okay, you're letting the odds work in your favor with a diversified portfolio. Your abilities that sit on top of that is still your abilities. You're still trying to make the best investments that you can, you're still trying to lower the downside risk. You're trying to make sure that you're in the best investments possible, but you have the underlying odds and the math in your favor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23157,
+      "timestamps": [
+        {
+          "offset": 23157,
+          "raw": "[00:21:41]",
+          "seconds": 1301
+        }
+      ]
+    },
+    {
+      "end": 23987,
+      "excerpt": "[00:22:06] You're not swimming against that. That's the way we frame it. It doesn't mean that you shouldn't be picking or looking for great founders. You just have the math working in your favor as a baseline. That's how we think about it, and it's really difficult. If your odds are not favorable, then you have to make up for that and you have to make up for that consistently over time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23598,
+      "timestamps": [
+        {
+          "offset": 23598,
+          "raw": "[00:22:06]",
+          "seconds": 1326
+        }
+      ]
+    },
+    {
+      "end": 24027,
+      "excerpt": "[00:22:28] That's a really tall order.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23989,
+      "timestamps": [
+        {
+          "offset": 23989,
+          "raw": "[00:22:28]",
+          "seconds": 1348
+        }
+      ]
+    },
+    {
+      "end": 24187,
+      "excerpt": "[00:22:30] Gopi Rangan: Steve, so far I get where you're coming from, but there are still some things that I'm scratching my head. Is this what founders want?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24029,
+      "timestamps": [
+        {
+          "offset": 24029,
+          "raw": "[00:22:30]",
+          "seconds": 1350
+        }
+      ]
+    },
+    {
+      "end": 24703,
+      "excerpt": "[00:22:39] Steve Kim: I think founders want their VCs to be there consistently over time. So that's one of the things that we think about. And I think it's very important for fund ones, by the way and emerging managers. They wanna build something that's enduring, right? And I think founders want those funds to be consistently there for them. That goes back to this math piece. If you're working with the odds and then you're adding value on top of that, I think your ability to create an enduring fund is higher.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 24189,
+      "timestamps": [
+        {
+          "offset": 24189,
+          "raw": "[00:22:39]",
+          "seconds": 1359
+        }
+      ]
+    },
+    {
+      "end": 25375,
+      "excerpt": "[00:23:10] That's going to benefit founders. I would think that as we, from an LP perspective is the same way. We think about it in the same light. We want to back GPs that are gonna build enduring firms. So we have to look at the odds. If you're making very, very concentrated investments, you could knock it out of the park and do really well or you can have a really bad fund. Or you could have a great fund and then the next fund is not so great. So we think about that. We think about, okay, if we back this fund and they do really great, that's great, but if they do poorly or the next one is poor, then that's gonna be an issue for us, right? We may not be there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24705,
+      "timestamps": [
+        {
+          "offset": 24705,
+          "raw": "[00:23:10]",
+          "seconds": 1390
+        }
+      ]
+    },
+    {
+      "end": 25572,
+      "excerpt": "[00:23:46] So that's why we like that perspective of, \"look, , here's what the odds say. Work with the odds, make sure that that's a tailwind and not a headwind. And then add value on top of it.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25377,
+      "timestamps": [
+        {
+          "offset": 25377,
+          "raw": "[00:23:46]",
+          "seconds": 1426
+        }
+      ]
+    },
+    {
+      "end": 26440,
+      "excerpt": "[00:23:58] Gopi Rangan: But from a founder's perspective, let's say two VCs go in front of a founder and make a claim, \" hello, Mr. Founder, please take my money. I'm a really good vc. I'm very thoughtful and I can be helpful. And by the way, my conviction is so high that I want high percentage of ownership, and I make very few investments and investment from my firm means a lot for the founder.\" And the other VC says, \"well, I invest in a lot of companies. I take small percentage of ownership and as a result, I also don't have the same kind of bandwidth that the other person has. I may not have the bandwidth to mess with the business, but I may not have the bandwidth to help you when you genuinely need help.\" It kind of creates a bias in the mind of the founder and the founders likely to choose VCs who are likely to show up for help when they need help.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25574,
+      "timestamps": [
+        {
+          "offset": 25574,
+          "raw": "[00:23:58]",
+          "seconds": 1438
+        }
+      ]
+    },
+    {
+      "end": 26813,
+      "excerpt": "[00:24:44] Steve Kim: That's a good question, and I think most founders, we do reference checks. So when we do a reference check we ask that question like, how helpful has this GP been to you? Have they been available when you reach out to them? So I think that's where there could be a narrative around that and there certainly is one, but you can easily check that out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 26442,
+      "timestamps": [
+        {
+          "offset": 26442,
+          "raw": "[00:24:44]",
+          "seconds": 1484
+        }
+      ]
+    },
+    {
+      "end": 27549,
+      "excerpt": "[00:25:07] You can be a founder and say, \"Hey, I'm thinking about taking money from this GP.\" And there's tons of founders, if they've made investments, if they're known in the ecosystem, et cetera, where you can say, \"Hey, how has this GP been when you've called them up when you've asked for advice, have they been there? Who was the first person that you called and how quickly did they respond?\" That's gonna tell you whether that GP is going to return your call in five minutes or 50 minutes or five days, right? You're gonna get that answer right away. And when we reference our GPs, that's definitely one of the questions we ask of founders and the answer has always been there when we needed them . They didn't micromanage us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26815,
+      "timestamps": [
+        {
+          "offset": 26815,
+          "raw": "[00:25:07]",
+          "seconds": 1507
+        }
+      ]
+    },
+    {
+      "end": 27869,
+      "excerpt": "[00:25:48] We reached out to them, and by the way, they know which GPs are helpful, in which areas . It's not like they're reaching out to the same GP for a slate of different questions. They understand that certain GPs can help them with X and certain GPs can help them with Y and they wanna be the ones reaching out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27551,
+      "timestamps": [
+        {
+          "offset": 27551,
+          "raw": "[00:25:48]",
+          "seconds": 1548
+        }
+      ]
+    },
+    {
+      "end": 27993,
+      "excerpt": "[00:26:05] I think that's easily referenceable and you don't have to follow that narrative. You can check it out yourself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27871,
+      "timestamps": [
+        {
+          "offset": 27871,
+          "raw": "[00:26:05]",
+          "seconds": 1565
+        }
+      ]
+    },
+    {
+      "end": 28323,
+      "excerpt": "[00:26:11] Gopi Rangan: I'm gonna follow up on this because this is something that I've experienced with many good friends in the VC world. With Fund One when they have a portfolio of 50 to 75 companies, they may have the bandwidth to pick up emails and phone calls from founders by the time they get to fund three or fund four.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27995,
+      "timestamps": [
+        {
+          "offset": 27995,
+          "raw": "[00:26:11]",
+          "seconds": 1571
+        }
+      ]
+    },
+    {
+      "end": 28753,
+      "excerpt": "[00:26:27] Now they have a portfolio that has like hundreds of companies, a couple of hundred companies at least, and it's really hard to keep track of who's who. It's humanly impossible to stay close to more than a handful of founders at any given point. You can stretch that to like a 20 15, 20 30 maybe, but getting past a portfolio across three or four funds with 200, 300 founders that stretches the VC really, really thin.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28325,
+      "timestamps": [
+        {
+          "offset": 28325,
+          "raw": "[00:26:27]",
+          "seconds": 1587
+        }
+      ]
+    },
+    {
+      "end": 28829,
+      "excerpt": "[00:26:55] Have you seen that problem? Are you worried about this problem?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28755,
+      "timestamps": [
+        {
+          "offset": 28755,
+          "raw": "[00:26:55]",
+          "seconds": 1615
+        }
+      ]
+    },
+    {
+      "end": 29388,
+      "excerpt": "[00:26:58] Steve Kim: So that's another one that we can easily reference. And you're right. Once they get to fund three, if they're doing 50 deals, that's 150 companies, right? Or let's say they're doing a hundred and that's 300 companies. What we always find out when we do those reference calls is that our funds, they're typically smaller because they're putting the bulk of their capital at early stage. They're usually syndicating their deals. We do have some that are writing core checks. They're lead investors or somewhat lead investors for example.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 28831,
+      "timestamps": [
+        {
+          "offset": 28831,
+          "raw": "[00:26:58]",
+          "seconds": 1618
+        }
+      ]
+    },
+    {
+      "end": 29862,
+      "excerpt": "[00:27:24] But what typically happens is these funds, and we actually look for these funds, they don't really follow on past like the A round. They're just not big enough to write series B type checks, or even series C or D checks. They may follow on, like if they're pre-seed, they'll typically follow onto C, but by the time the series A gets around they're pretty tapped out on the capital side unless they hold very, very large reserves which we select against really.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29390,
+      "timestamps": [
+        {
+          "offset": 29390,
+          "raw": "[00:27:24]",
+          "seconds": 1644
+        }
+      ]
+    },
+    {
+      "end": 30198,
+      "excerpt": "[00:27:51] So when you think about it in that way, in their first fund, they're already in like year 5, 6, 7, something like that. When they get to the second and third fund, and there's a lot of VCs that are gonna provide a lot of capital at those stages. They're really beyond the scope and the lifecycle of a pre-seed or seed fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29864,
+      "timestamps": [
+        {
+          "offset": 29864,
+          "raw": "[00:27:51]",
+          "seconds": 1671
+        }
+      ]
+    },
+    {
+      "end": 30613,
+      "excerpt": "[00:28:12] And there's different problems now. There's different questions they're gonna have, and these later stage investors are gonna be in a much better position to be able to work with those founders. The journey is by stage, right? There's different stages of these companies and a pre-seed seed investor is really focused on a specific stage and a particular way of helping founders, but that stage is not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30200,
+      "timestamps": [
+        {
+          "offset": 30200,
+          "raw": "[00:28:12]",
+          "seconds": 1692
+        }
+      ]
+    },
+    {
+      "end": 30901,
+      "excerpt": "[00:28:33] It's going to go to a mid stage fund, it's gonna go to a late stage fund. It's way different from a founder trying to understand product market fit versus, \"Hey, I wanna scale to be, 500 people or a hundred people, or a thousand people,\" or whatever you want. It's different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30615,
+      "timestamps": [
+        {
+          "offset": 30615,
+          "raw": "[00:28:33]",
+          "seconds": 1713
+        }
+      ]
+    },
+    {
+      "end": 30985,
+      "excerpt": "[00:28:47] Gopi Rangan: I wanna get to who's doing it right from your perspective.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30903,
+      "timestamps": [
+        {
+          "offset": 30903,
+          "raw": "[00:28:47]",
+          "seconds": 1727
+        }
+      ]
+    },
+    {
+      "end": 31174,
+      "excerpt": "[00:28:50] But before we do that, I want to understand how you make investments. How often do you make investments? How many new emerging managers do you add to your portfolio every year?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30987,
+      "timestamps": [
+        {
+          "offset": 30987,
+          "raw": "[00:28:50]",
+          "seconds": 1730
+        }
+      ]
+    },
+    {
+      "end": 31318,
+      "excerpt": "[00:29:00] Steve Kim: So our pacing is roughly an investment a month at the earliest stages, and a majority of these, let's say 75% are re-up.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 31176,
+      "timestamps": [
+        {
+          "offset": 31176,
+          "raw": "[00:29:00]",
+          "seconds": 1740
+        }
+      ]
+    },
+    {
+      "end": 31646,
+      "excerpt": "[00:29:08] So when we invest with a fund, we're there for the long haul. We're much more focused on, \" is your strategy change versus were you a great fund? Did you have a great outcome?\" So we're less focused on the outcome of their particular fund versus what does your strategy look like and have you changed your strategy?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31320,
+      "timestamps": [
+        {
+          "offset": 31320,
+          "raw": "[00:29:08]",
+          "seconds": 1748
+        }
+      ]
+    },
+    {
+      "end": 32000,
+      "excerpt": "[00:29:28] As long as your strategy is consistent with how we underwrote the investment, then we're gonna be with that fund, and we know that you're gonna get your fair share of winners and that you're gonna be successful. So that's how we think about it. And the only funds that really churn out of our portfolio is if they've really strategy drifted.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31648,
+      "timestamps": [
+        {
+          "offset": 31648,
+          "raw": "[00:29:28]",
+          "seconds": 1768
+        }
+      ]
+    },
+    {
+      "end": 32327,
+      "excerpt": "[00:29:47] They're no longer investing at the earliest stages, or they become sector focused, or they become too concentrated. So we have funds that do that too. In that regard, if that happens, then we're gonna step off. But typically speaking, if you don't strategy drift, then we're gonna stick with you for the long haul.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32002,
+      "timestamps": [
+        {
+          "offset": 32002,
+          "raw": "[00:29:47]",
+          "seconds": 1787
+        }
+      ]
+    },
+    {
+      "end": 32593,
+      "excerpt": "[00:30:03] The way we define emerging managers in our portfolio is fund ones. So half of our portfolio today is fund ones. Roughly since 2017, we've caught 52 unicorns, I think. So that's roughly one unicorn every other month, and half of those are from fund ones.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32329,
+      "timestamps": [
+        {
+          "offset": 32329,
+          "raw": "[00:30:03]",
+          "seconds": 1803
+        }
+      ]
+    },
+    {
+      "end": 32872,
+      "excerpt": "[00:30:24] Fund ones are really important to us. Emerging managers are really important to us and we wanna support that ecosystem. We think it's where LP should be investing. We think it's the most dynamic and best representative of how early stage venture works for investors?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32595,
+      "timestamps": [
+        {
+          "offset": 32595,
+          "raw": "[00:30:24]",
+          "seconds": 1824
+        }
+      ]
+    },
+    {
+      "end": 32919,
+      "excerpt": "[00:30:40] Gopi Rangan: Who's doing it right.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 32874,
+      "timestamps": [
+        {
+          "offset": 32874,
+          "raw": "[00:30:40]",
+          "seconds": 1840
+        }
+      ]
+    },
+    {
+      "end": 32986,
+      "excerpt": "[00:30:41] Can you give an example or two of VCs that you admire?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32921,
+      "timestamps": [
+        {
+          "offset": 32921,
+          "raw": "[00:30:41]",
+          "seconds": 1841
+        }
+      ]
+    },
+    {
+      "end": 33269,
+      "excerpt": "[00:30:45] Steve Kim: Everybody we've invested in, we admire. But the last few investors have all been solo women GPs, which has been really interesting for us. It's not like we're specifically trying to engineer that result, but the last few have been, like I said, all women GPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 32988,
+      "timestamps": [
+        {
+          "offset": 32988,
+          "raw": "[00:30:45]",
+          "seconds": 1845
+        }
+      ]
+    },
+    {
+      "end": 33580,
+      "excerpt": "[00:31:01] We invested in Sarah Smith's fund, and I'll probably miss somebody here. But we've invested in coalition with Ashley Meyer. We've invested in Beth Turner's fund, Valkyrie Annie look singer's, fund breakers, and were all coalition was a fund two, but I think other than that they were all fund ones.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33271,
+      "timestamps": [
+        {
+          "offset": 33271,
+          "raw": "[00:31:01]",
+          "seconds": 1861
+        }
+      ]
+    },
+    {
+      "end": 33733,
+      "excerpt": "[00:31:18] We really think fund ones are great, and we think emerging managers great and we think it's a vital piece of generating early stage returns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33582,
+      "timestamps": [
+        {
+          "offset": 33582,
+          "raw": "[00:31:18]",
+          "seconds": 1878
+        }
+      ]
+    },
+    {
+      "end": 33785,
+      "excerpt": "[00:31:26] Gopi Rangan: What are they doing right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33735,
+      "timestamps": [
+        {
+          "offset": 33735,
+          "raw": "[00:31:26]",
+          "seconds": 1886
+        }
+      ]
+    },
+    {
+      "end": 33953,
+      "excerpt": "[00:31:28] Steve Kim: They all happen to be pretty diversified funds. We look for diversified funds, which is not, probably the minority of GPs that you'll see there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 33787,
+      "timestamps": [
+        {
+          "offset": 33787,
+          "raw": "[00:31:28]",
+          "seconds": 1888
+        }
+      ]
+    },
+    {
+      "end": 34331,
+      "excerpt": "[00:31:34] I'd like to say that we actually get to look at most of the diversified funds out there, but we think diversification is really important. We think being a generalist is really important. We think investing in the right geographies is really important. I think understanding the dynamics of the way VC works, how it's power law driven, what does that actually mean?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33955,
+      "timestamps": [
+        {
+          "offset": 33955,
+          "raw": "[00:31:34]",
+          "seconds": 1894
+        }
+      ]
+    },
+    {
+      "end": 34612,
+      "excerpt": "[00:31:56] And I think it's GP that really understand that is really important. So there's criteria that we use to just gauge do they understand what a power, how their strategy should leverage that scenario. Geographies, again, sector generalization I think is really important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34333,
+      "timestamps": [
+        {
+          "offset": 34333,
+          "raw": "[00:31:56]",
+          "seconds": 1916
+        }
+      ]
+    },
+    {
+      "end": 34740,
+      "excerpt": "[00:32:11] So, We certainly have some criteria that we use to calibrate around who those are that we're gonna be investing in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34614,
+      "timestamps": [
+        {
+          "offset": 34614,
+          "raw": "[00:32:11]",
+          "seconds": 1931
+        }
+      ]
+    },
+    {
+      "end": 35211,
+      "excerpt": "[00:32:18] Gopi Rangan: Steve, over the years, venture capital ecosystem has evolved a lot. It's very different from how it was 20 years ago, the kind of LPs that supported fund ones and fund twos very different 20 years ago, 30 years ago compared to today. Family offices are playing a very, very important role in shaping the future of the venture capital ecosystem. What's one thing that you would like to see change in the ecosystem to make this asset class better?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34742,
+      "timestamps": [
+        {
+          "offset": 34742,
+          "raw": "[00:32:18]",
+          "seconds": 1938
+        }
+      ]
+    },
+    {
+      "end": 35343,
+      "excerpt": "[00:32:46] Steve Kim: I think the biggest thing is seeing it as an asset class, seeing it as a core part of your asset allocation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 35213,
+      "timestamps": [
+        {
+          "offset": 35213,
+          "raw": "[00:32:46]",
+          "seconds": 1966
+        }
+      ]
+    },
+    {
+      "end": 35652,
+      "excerpt": "[00:32:54] And the reason why I think that is because once you do that, it becomes something that institutional investors will consistently invest in. So you won't see this notion of capital's really flooding into venture because venture's hot. Oh, now it's leaving venture because venture is no longer hot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35345,
+      "timestamps": [
+        {
+          "offset": 35345,
+          "raw": "[00:32:54]",
+          "seconds": 1974
+        }
+      ]
+    },
+    {
+      "end": 35945,
+      "excerpt": "[00:33:11] And I think that's a problem. It's certainly a problem for emerging managers 'cause they have to navigate that and it's really difficult to navigate. Sometimes raising capital is never easy, but it can get really difficult in times where LPs are not interested in the asset class.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35654,
+      "timestamps": [
+        {
+          "offset": 35654,
+          "raw": "[00:33:11]",
+          "seconds": 1991
+        }
+      ]
+    },
+    {
+      "end": 36340,
+      "excerpt": "[00:33:26] It becomes the other problem when LPs are too interested in the asset class. So I think stability there, which means that investors are starting to look at it as an institutional asset class that is part of their core asset allocation. I think that'll help smooth that out, and I think that's overall a benefit to not only the venture ecosystem, but certainly for emerging managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35947,
+      "timestamps": [
+        {
+          "offset": 35947,
+          "raw": "[00:33:26]",
+          "seconds": 2006
+        }
+      ]
+    },
+    {
+      "end": 36697,
+      "excerpt": "[00:33:48] Gopi Rangan: It has become an important asset class. It is going to grow in prominence for everybody, individuals, family offices, and many other institutions, as well as this asset class becomes the engine of innovation, for the economy. We're coming towards the end of our conversation, and I want to ask you about your community involvement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 36342,
+      "timestamps": [
+        {
+          "offset": 36342,
+          "raw": "[00:33:48]",
+          "seconds": 2028
+        }
+      ]
+    },
+    {
+      "end": 36780,
+      "excerpt": "[00:34:07] Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36699,
+      "timestamps": [
+        {
+          "offset": 36699,
+          "raw": "[00:34:07]",
+          "seconds": 2047
+        }
+      ]
+    },
+    {
+      "end": 37072,
+      "excerpt": "[00:34:11] Steve Kim: I think the biggest one for me is the International Baccalaureate, so I was on the board of the IB. I think education is really important and I think the IBS role has been very important to emerging countries to try to level the playing field for education as a whole.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 36782,
+      "timestamps": [
+        {
+          "offset": 36782,
+          "raw": "[00:34:11]",
+          "seconds": 2051
+        }
+      ]
+    },
+    {
+      "end": 37373,
+      "excerpt": "[00:34:28] I think, that's a core element of ensuring that the middle class will remain the middle class. And for those that aspire to become middle class, fulfilling that aspiration for the middle class. So I think education is a big part of it, and the IB has done a really, really good job there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37074,
+      "timestamps": [
+        {
+          "offset": 37074,
+          "raw": "[00:34:28]",
+          "seconds": 2068
+        }
+      ]
+    },
+    {
+      "end": 37452,
+      "excerpt": "[00:34:45] Gopi Rangan: Steve, thank you very much for spending time with me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37375,
+      "timestamps": [
+        {
+          "offset": 37375,
+          "raw": "[00:34:45]",
+          "seconds": 2085
+        }
+      ]
+    },
+    {
+      "end": 37611,
+      "excerpt": "[00:34:47] Thank you for engaging with me in a spirited discussion on how your style of investing in venture capital is different from the rest of the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37454,
+      "timestamps": [
+        {
+          "offset": 37454,
+          "raw": "[00:34:47]",
+          "seconds": 2087
+        }
+      ]
+    },
+    {
+      "end": 37688,
+      "excerpt": "[00:34:57] I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37613,
+      "timestamps": [
+        {
+          "offset": 37613,
+          "raw": "[00:34:57]",
+          "seconds": 2097
+        }
+      ]
+    },
+    {
+      "end": 37782,
+      "excerpt": "[00:35:00] Steve Kim: Thanks Gopi. I really appreciate the invite. I really enjoyed my time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Steve Kim",
+      "start": 37690,
+      "timestamps": [
+        {
+          "offset": 37690,
+          "raw": "[00:35:00]",
+          "seconds": 2100
+        }
+      ]
+    },
+    {
+      "end": 37970,
+      "excerpt": "[00:35:06] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 37784,
+      "timestamps": [
+        {
+          "offset": 37784,
+          "raw": "[00:35:06]",
+          "seconds": 2106
+        }
+      ]
+    },
+    {
+      "end": 38148,
+      "excerpt": "[00:35:15] Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37972,
+      "timestamps": [
+        {
+          "offset": 37972,
+          "raw": "[00:35:15]",
+          "seconds": 2115
+        }
+      ]
+    }
+  ],
+  "source_sha256": "bcc05d02b03e4b753c29a8a5f66c7d17eeaf91bdd15cc355cf65cf2b380dbcee",
+  "text_sha256": "b4845774a2d692c082cba46ee1126dbd4f550b44d1cdcdb16a0c6c97805e1754"
+}

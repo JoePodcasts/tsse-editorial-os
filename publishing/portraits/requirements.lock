@@ -1,0 +1,11 @@
+# Python 3.12; tested macOS arm64. Local CPU processing only.
+Pillow==12.3.0
+numpy==2.5.4
+scipy==1.18.1
+pymatting==1.1.16
+numba==0.68.0
+llvmlite==0.50.0
+onnxruntime==1.31.0
+flatbuffers==25.12.19
+packaging==26.3
+protobuf==7.36.2

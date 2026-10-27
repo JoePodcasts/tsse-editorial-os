@@ -1,0 +1,250 @@
+{
+  "checked_at": "2026-10-27T05:26:52.524Z",
+  "persisted_status": {
+    "archive_fingerprint": "b9d92b946df226eea1438d2dbae3a493a2b1d76de68fa943b8eeb8439a887893",
+    "changes": {
+      "changed": 0,
+      "new": 0,
+      "not_seen": 0,
+      "unchanged": 195
+    },
+    "changes_detected": false,
+    "last_successful_sync_at": "2026-10-27T05:26:17.109254+00:00",
+    "published_episodes": 195,
+    "schema_version": 1,
+    "status": "success"
+  },
+  "checks": [
+    {
+      "name": "desktop home reads persisted successful timestamp",
+      "passed": true,
+      "evidence": "2026-10-27T05:26:17.109254+00:00"
+    },
+    {
+      "name": "desktop home displays Pacific Time",
+      "passed": true,
+      "evidence": "Oct 26, 2026 · 10:26 PM PT"
+    },
+    {
+      "name": "desktop home has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "coverage": "195 episodes·195 transcripts·195 published show notes",
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "font": "12.8px",
+        "pageWidth": 1366,
+        "status": "Last successful sync Oct 26, 2026 · 10:26 PM PT",
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 1366,
+        "y": [
+          348.2734375,
+          429.2734375,
+          467.2734375,
+          532.2734375,
+          648.7421875
+        ]
+      }
+    },
+    {
+      "name": "desktop home keeps search, coverage and files above freshness",
+      "passed": true,
+      "evidence": [
+        348.2734375,
+        429.2734375,
+        467.2734375,
+        532.2734375,
+        648.7421875
+      ]
+    },
+    {
+      "name": "desktop coverage matches successful episode count",
+      "passed": true,
+      "evidence": "195 episodes·195 transcripts·195 published show notes"
+    },
+    {
+      "name": "desktop status avoids unsupported up-to-date claim",
+      "passed": true,
+      "evidence": "Last successful sync Oct 26, 2026 · 10:26 PM PT"
+    },
+    {
+      "name": "desktop Archive Files shares the persisted Pacific timestamp",
+      "passed": true,
+      "evidence": {
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "pageWidth": 1366,
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 1366
+      }
+    },
+    {
+      "name": "desktop Archive Files has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "pageWidth": 1366,
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 1366
+      }
+    },
+    {
+      "name": "tablet home reads persisted successful timestamp",
+      "passed": true,
+      "evidence": "2026-10-27T05:26:17.109254+00:00"
+    },
+    {
+      "name": "tablet home displays Pacific Time",
+      "passed": true,
+      "evidence": "Oct 26, 2026 · 10:26 PM PT"
+    },
+    {
+      "name": "tablet home has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "coverage": "195 episodes·195 transcripts·195 published show notes",
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "font": "12.8px",
+        "pageWidth": 768,
+        "status": "Last successful sync Oct 26, 2026 · 10:26 PM PT",
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 768,
+        "y": [
+          328.3984375,
+          409.3984375,
+          447.3984375,
+          512.3984375,
+          628.8671875
+        ]
+      }
+    },
+    {
+      "name": "tablet home keeps search, coverage and files above freshness",
+      "passed": true,
+      "evidence": [
+        328.3984375,
+        409.3984375,
+        447.3984375,
+        512.3984375,
+        628.8671875
+      ]
+    },
+    {
+      "name": "tablet coverage matches successful episode count",
+      "passed": true,
+      "evidence": "195 episodes·195 transcripts·195 published show notes"
+    },
+    {
+      "name": "tablet status avoids unsupported up-to-date claim",
+      "passed": true,
+      "evidence": "Last successful sync Oct 26, 2026 · 10:26 PM PT"
+    },
+    {
+      "name": "tablet Archive Files shares the persisted Pacific timestamp",
+      "passed": true,
+      "evidence": {
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "pageWidth": 768,
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 768
+      }
+    },
+    {
+      "name": "tablet Archive Files has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "pageWidth": 768,
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 768
+      }
+    },
+    {
+      "name": "mobile home reads persisted successful timestamp",
+      "passed": true,
+      "evidence": "2026-10-27T05:26:17.109254+00:00"
+    },
+    {
+      "name": "mobile home displays Pacific Time",
+      "passed": true,
+      "evidence": "Oct 26, 2026 · 10:26 PM PT"
+    },
+    {
+      "name": "mobile home has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "coverage": "195 episodes·195 transcripts·195 published show notes",
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "font": "12.8px",
+        "pageWidth": 375,
+        "status": "Last successful sync Oct 26, 2026 · 10:26 PM PT",
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 375,
+        "y": [
+          288.015625,
+          361.015625,
+          402.609375,
+          480.609375,
+          580.578125
+        ]
+      }
+    },
+    {
+      "name": "mobile home keeps search, coverage and files above freshness",
+      "passed": true,
+      "evidence": [
+        288.015625,
+        361.015625,
+        402.609375,
+        480.609375,
+        580.578125
+      ]
+    },
+    {
+      "name": "mobile coverage matches successful episode count",
+      "passed": true,
+      "evidence": "195 episodes·195 transcripts·195 published show notes"
+    },
+    {
+      "name": "mobile status avoids unsupported up-to-date claim",
+      "passed": true,
+      "evidence": "Last successful sync Oct 26, 2026 · 10:26 PM PT"
+    },
+    {
+      "name": "mobile Archive Files shares the persisted Pacific timestamp",
+      "passed": true,
+      "evidence": {
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "pageWidth": 375,
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 375
+      }
+    },
+    {
+      "name": "mobile Archive Files has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "date": "2026-10-27T05:26:17.109254+00:00",
+        "pageWidth": 375,
+        "text": "Oct 26, 2026 · 10:26 PM PT",
+        "width": 375
+      }
+    },
+    {
+      "name": "Individual episode avoids repeated freshness",
+      "passed": true
+    },
+    {
+      "name": "No browser errors or warnings",
+      "passed": true,
+      "evidence": []
+    },
+    {
+      "name": "Live no-change successful check advances displayed timestamp",
+      "passed": true,
+      "evidence": {
+        "before": "2026-10-26T14:37:16.142638+00:00",
+        "after": "2026-10-27T05:26:17.109254+00:00"
+      }
+    }
+  ],
+  "passed": true
+}

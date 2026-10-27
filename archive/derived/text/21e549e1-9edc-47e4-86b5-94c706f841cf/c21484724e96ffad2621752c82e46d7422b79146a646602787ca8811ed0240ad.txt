@@ -1,0 +1,306 @@
+Jocelyn Goldfein: [00:00:00] The number one problem, that engineering leaders at high growth companies face is talent. How do I hire, how do I coach? How do I grow? And the fact that remains because the tech industry has grown by leaps and bounds for the entirety of my career. There has never, ever been enough supply of talent to meet demand.
+
+It's not like doctors or lawyers. There's a cap on how many doctors we need in the world. We have, we're nowhere close to the cap. We need more doctors than we have, but there's a finite demand. For doctors based on how many human bodies are kicking around to be treated, there is no cap on the demand for software engineers, data scientists, machine living, engineers, technologists, product managers, designers, because if we had enough to work on all the products that are in front of us, we invent new products to build.
+
+Gopi Rangan: You are listening to the sure shot entrepreneur podcast for founders, with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic [00:01:00] stories to help you realize your vision. Welcome to the sure shot entrepreneurs. The guest in today's episode is Jocelyn goldfien. She is a managing director at Zetta venture partners.
+
+Jocelyn is an engineering leader, turned venture capital investors. She has invested in more than 20 startups with a focus on enterprise infrastructure and artificial intelligence. Jocelyn, welcome to the short shot entrepreneur.
+
+Jocelyn Goldfein: Thanks Kathy. It's a pleasure to be here.
+
+Gopi Rangan: Tell us about yourself, starting with where you went to college.
+
+Jocelyn Goldfein: I went to college in my hometown, which happened to be studying computer science at Stanford. And I was in college in the late nineties. I graduated in 1997, probably one of the most exciting things that happened, but I didn't realize it at the time was that I was the very first summer intern, which as some of your listeners may know was really the first browser that popularized.
+
+And kind of the internet, as we know it, it's [00:02:00] sort of kicked off the subsequent internet. Boom. I graduated a year or two early for the.com bubble. I did leave college and go work for a startup one in Austin, Texas called trilogy. That was kind of renowned for recruiting new college grads with a lot of entrepreneurial energy.
+
+After a couple of years at trilogy and one of its spinoff startups, which actually went through an IPO in 98 or 99, I took off with a couple of my friends and we co-founded a startup ourselves. We just had this entrepreneurial fervor. Our timing was terrible because we basically started raising money and we raised what we then called a series, a round, a million dollars about a minute before the funding windows slammed, shut the.com bubble burst.
+
+And so we ended up actually merging with another startup backed by the same VC. And that startup ultimately went through some name changes, but was focused on email manageability. And so we didn't have the vocabulary for this at the time. It was SAS back when we called that something else, but it was very early in the SAS era and we didn't have the phrase product market fit that's time, but we spent 18 months doing a really great job shipping software that nobody wanted to spend big bucks [00:03:00] on.
+
+So I left the startup at the time that we really came to grips with that fact and pivoted into email disaster recovery. The good news is email disaster recovery did have some product company exits many years after I left, I take no credit for that, but my friend who had become my husband along the way, and the next startup I joined VMware in 2003, there was a couple of other people that really had just hit product market fit with the data center.
+
+It became a rocket. From shortly after I joined, we doubled head count and revenue every year, the first four years or so I was there. So I stayed and grew up with the company. I started out as a tech lead, doing kind of boiler room hypervisor stuff. When you're doubling every year, you can get your job done.
+
+You get twice as much work as your reward. And so I rose to management and then senior management and ultimately became a VP of engineering there. And then when our new CEO came in, he wanted to start business units. And I became one of the first general managers of the business unit. So I stayed seven years all in all.
+
+Yeah, it was just a wild experience joining a 300 person company and staying to 10,000 place. [00:04:00] But in 2010 I decided, you know, I'm a small company person. This has become a big company. I'm going to go find my next startup. And in fact, the most impressive founder I was recruited by was mark Zuckerberg. So I joined Facebook in 2010.
+
+It was not a startup. It was not public yet. It was under 2000 in place, but it was growing at 50% a year, but I felt like I could help with those growth. Those growing pains engineering team was only 500 people. So I joined as basically part of the engineering leadership team. And one of the most exciting things about joining Facebook in 2010 is that they were really one of the first movers in machine learning.
+
+And so I got to kind of cut my teeth on this new technology that even then, I don't think I realized that it would be as generational as the internet Netscape. I still remember being a college student and seeing a URL on the side of a bus for the first time. And I felt this sense of injury. The internet is just for us nerds.
+
+It's like our private playground. Like how dare you tell all the mundane,
+
+every person can imagine life without the internet. And so I feel like we got to be. The on-ramp from the internet. And then again, for machine learning with Facebook, my [00:05:00] first big project was working with the newsfeed team to adopt ML for the newsfeed ranking, but I got to the first computer vision people into Facebook when I was working with the photos team and we started getting serious about vision.
+
+Facebook is a phenomenal engineering organization. Facebook was an amazing four years of education. And then to make a long story short at Facebook, I got into angel investing and really decided to make my career in venture.
+
+That brings me to Zana venture partners. 
+
+Gopi Rangan: Where I sit today, you have had an amazing journey. It's very rare to meet someone who is local. So Silicon valley grew up here. It's a pleasure to meet a true local. I see that you are a part of the original internet revolution starting with Netscape.
+
+I was in one of the early users in 1997. I'm really excited to see that you were part of that. And I used one of your products. How is the startup ecosystem different today compared to the Netscape days compared to your Facebook days when you started angel investing?
+
+Jocelyn Goldfein: Well, I would say that a lot more changed between 1997 and 2015 than between [00:06:00] 2015 and now between 97. And now we codified so many practices. We hadn't hit sand hill road. Silicon valley was by far the epicenter where, you know, we thought of ourselves as the home of the tech industry and in the home of startups, Netscape really kicked off the internet, boom, which was itself kind of a generational change in startups.
+
+It gave everybody startup fever. Everybody was running to do startups. It really was a bubble because people didn't know what they were doing. And with hindsight, actually all the ideas that we mocked worked out and failed, but Instacart sorting success.com failed idea, right? Like they were wrong.
+
+They were just early entrepreneurs today are standing on the shoulders of the entrepreneurs and all the technologists from back then, because not only do we have way better technology stack that has brought down the cost of building and made it possible to build much more complex products. That actually, weren't just the, the fact that we now have a vocabulary to talk about.
+
+We didn't. I remember just starting to talk about the fast cycle time in 1999. Oh. That was enabled by the [00:07:00] lamps back in, by the web, by deploying the software onto servers that you controlled, rather than sending it out into the world on a CD and your end customers controlling it. So just the way that we make software and then the cost to maintain software, subsequent to ship a subsequent release of the software is exponentially reduced by running it on your own servers.
+
+And by only having to manage one version of your software at a time, the version that you run on your server. So internet paves the way for SaaS and cloud paves, the way for startups today. If you imagine it, you can build it that wasn't. So we're just missing all the building blocks back then. It was much harder for startups to be successful even when they fundamentally had a good market.
+
+So today I think it's much easier to post because we have more building blocks in high spec, 20 years from now to be exponentially easier. So we have so many more building blocks, both in terms of building products, but also in terms of the vocabulary and the playbook. Figuring out how to spend our resources to learn, to incrementally improve and to cetera, set our strategy on the balls of our feet.
+
+AI and machine learning is actually the next big generational technology shifts since the internet. And I think that will be as, or more transformative. If you go start a SAS company today, [00:08:00] you're on a really well-trodden path. You're on a four lane highway. You can just go 80 miles an hour.
+
+In the nineties, we were sort of hacking and slashing through the wilderness with our machetes for AI entrepreneurs at somewhere in between before recess. Product powered by AI. We do have a lot of playbooks that are known to work, but I think we've still got a lot of fundamental figuring out. We're still figuring out the playbook for a company that has a learning loop at its heart.
+
+And it has like a lot of bootstrap problems. They're soluble, but I think that they're just, so I call them bootstrap.
+
+Gopi Rangan: Yeah. I came to the Silicon valley in the late nineties, and there's a significant change in awareness of startups. The startup fever is still high, but the resources available to entrepreneurs is much, much better.
+
+Now, infrastructure is much stronger. I notice a distinct change that happened sometime in the early two thousands. If you walked into an office to use computers, that's where you found the best resources, the printers and access to internet, all of that.
+
+But somewhere along the way that changed and consumer internet became much more popular. When. The technology you had in your hands at home in your private life suddenly became [00:09:00] better and better and better. It became more available to the mainstream and all the devices that we were using was superior to what was provided in the office. So I think it's still true. The enterprise user interface, lags behind consumer products.
+
+I literally live through that experience and I have watched the change happen and I can see that very distinctly. 
+
+Jocelyn Goldfein: My serious that the product evolution is a function of your technology stack, but also of your business model and business models are really, really good for optimizing user experience and sort of quality of users.
+
+And so when we talk about really great design, you know, even in B2B companies where we're trying to focus on design and usability, consumer grade UX is the same thing as saying, you want it to be better than average B2B B2B can be really good at reliability. Mission criticality because that's, what's more important to those buyers and that when we want to talk about reliability, about performance, we still might say enterprise that different business [00:10:00] models optimize create an incentive structure for companies to focus on evolving different ways.
+
+The beauty of it is B to C can be the innovators in UX, but then B2B companies can very rapidly copy and take advantage of that innovation and vice versa. Maybe that it's a B2B context that involves something like AWS or VMware that gives us this rock solid infrastructure. But then of course we can build consumer products.
+
+On top of that, there is something fundamental here. Innovation requires a business model. Innovation doesn't get very far in the lab. It really comes to full flower and it gets refined. Productized finished. It goes from idea to really working in the context of an environment where people want it and we'll pay for it.
+
+And we'll put up with the bumps and bruises of it being early because they have so much demand for it. And maybe this is one of the things that really excites me about being part of venture is this idea that innovation really comes to flower when we, when we marry it with the right business model.
+
+Gopi Rangan: Yeah innovation is driven by both user needs and also business models that will sustain that innovation for a long period of time. And I think that's the gist of your message here. I'm [00:11:00] curious to understand why is venture capital really interesting to you?
+
+Jocelyn Goldfein: Oh, I mean easy. I love startups. I always have my first work experiences interning at startups.
+
+Most of my job choices have to either join startups or join really fast growth tech companies. You get to really be missionary, really think about the future and how you can change it. And it's a gross mindset. What about like elbowing aside a competitor or someone else having to have less so you can have more eating somebody else's budget.
+
+It's just, I'm building something new and that mindset. Is the best, most satisfying thing is the most impact you can have on the world. Sitting in measure, I get to work with entrepreneurs every day who are building something new and solving problems in the world. If you're intellectually curious, it's a buffet because it's a constant stream of meeting people who are passionate and who have amazing ideas and getting to learn.
+
+And then on the occasion when it's great and I'm a good fit to help. And they agree, then I get to work really deeply with them. God was taught to love
+
+the job and be like, oh, it's dull. Or it's really a sales job, all jobs there's aspects that are [00:12:00] tedious or administrative. But my goodness, I don't think you can play down how much fun  it is.
+
+Gopi Rangan: It's incredibly satisfying when we hear entrepreneurs, tell their stories and especially when this story comes true.
+
+What areas do you focus on for your investments?
+
+Jocelyn Goldfein: My firm does that, uh, stands for the zettabyte. We were founded by my partner mark in 2013 because he foresaw that machine learning and AI generational shift in computing that would create tons of new categories that would enable disruptors to defeat incumbents.
+
+Step function beyond them. And so the firm as a whole focuses exclusively on what we call AI first companies that is companies who are building products that are powered by AI. So AI powered products or companies building the tools and platforms to enable AI platforms between the two that's all we look at.
+
+And then we also think that business model is really fundamental to the nature of what you're building and how and why. And so we have chosen to focus just on B2B, obviously nothing wrong with consumer, [00:13:00] incredibly valuable. Consumer companies. Perhaps the most valuable in the world is what we're good at and what we focus on.
+
+And then we sit at the seed stage. We are what we call an institutional seed investor, or my partner mark likes to call it series a. And what that means is we are an investor at the seed stage. The rounds we found are usually between one and 5 million. But what makes us institutional is that we practice our craft the way a series a investor does, or the way one would have when one to 5 million was a series a round.
+
+And so we take board seats, we hold reserves. We want to work with an entrepreneur to build a company and to be a lasting step. One way that you can raise a seed round is to put together a whole lot of small checks on a note, as a viable path to get capital. But there are a lot of entrepreneurs who would rather have a partner.
+
+Not just capital who viewed the capital itself as a commodity and are looking for someone to help them build a business because of our focus on AI first companies, we really think the playbooks being rewritten by these companies. And so we think we can share those lessons and work with entrepreneurs in that space to write that playbook, that is the focus of the firm, but then having said all those words, It's still a wide [00:14:00] open field that can take you everywhere.
+
+And so I'm personally very interested in cloud infrastructure and how we manage cloud infrastructure. I think that the world, it has evolved from manual operations of infrastructure to programmatic operations infrastructure. That's the transition to dev ops, right? The dev is for having to become programmatic.
+
+The complexity of cloud infrastructure continues to exponentially rise. The combination of microservices, containers, Kubernetes, you name it. And third party SDKs. So many trends, just driving complexity. And so to keep on managing that infrastructure for high reliability, high performance screen efficiency, I think is a problem too hard for humans and maybe too hard for scripts.
+
+And I think machine learning can do a lot to help us manage our infrastructure. So, and anything that helps developers dev ops, because I think that any tools that we can build at the infrastructure and developer layer then have so much leverage because they can help all other innovations. And I've seen how building a new infrastructure layer like virtualization enables cloud computing and cloud computing enables this whole generation of startups.
+
+So can we make fundamental advances there? That's [00:15:00] big as someone who's run large organizations of people, I'm always interested in productivity and HR tech, the things that make organizations fundamentally more efficient. And I think this has been an area where we've lacked in innovation for a long time.
+
+Like the HR has a huge head count budget and not much of a software budget. I think that will change. I'm really interested in supply chain and logistics. It's another one that to me, has that deal of leverage where if you can change the economics by 1% you can feed half the world. There's a lot you can do.
+
+There are, there's so much waste and inefficiency that technology hasn't always been able to touch because in many cases it's not always a technology problem, but in some cases it's problems that couldn't be tackled by technology before and now Canada. So that's just a sample platter, but we look at all kinds of things.
+
+We're looking at health tech and FinTech. Real estate. We reserve the right to be opportunistic because frankly, I don't believe that sitting in venture capital firms, we have all the good ideas entrepreneurs have the good ideas, but I reserve the right to wake up smarter. When I get very well said, entrepreneurs tend to have a creative view on how the world could be.
+
+Gopi Rangan: 
+
+And a lot of your focus is on deep technology solutions like cloud infrastructure, artificial intelligence, but [00:16:00] you're also open to some other areas like real estate and others. What are some qualities you look for? What kind of skills and strengths do you like to see in entrepreneurs? Can you give examples of one or two companies ?
+
+Jocelyn Goldfein: Yeah. I've had the advantage of working with some, all time. Great entrepreneurs, people like Joe Monta, trilogy, mark Zuckerberg at Facebook, they're all very different, but one quality of those founders who go all the way is commitment. To what they're doing to building a great company, not just a great business or a great product, not just a great company, that is a motivation that goes all the way and that attracts great people to follow them.
+
+So I think there's some kind of X factors in the great founders and by pattern recognition to try and recognize it. There's some more AI in particular is critical to have really technically savvy founding teams. It's really hard to bet that somebody. Can I build an AI first company when the founding team doesn't have machine learning expertise and thinks that they'll hire it or outsource that, I think that kind of has to be there from the outset.
+
+But likewise, I think that if you're going [00:17:00] to apply machine learning, if you gonna to build a product around a model to solve a problem in a domain like real estate or healthcare or FinTech, you must have domain expertise. You must even more so than if you were just building a product for software for workflow alone.
+
+Because you've got to have access to data, and you've got to have an understanding of what the data means, and it's just like an incredible impairment to try to tackle a problem without deeply understanding problem. That blend of technical expertise and domain expertise and the founding team really matters giving the examples.
+
+I'll talk about the scan team. They do business process discovery. This goes into my interest in the nature of work and how work is changing and what they envisioned is that the future of work is not, there's a lot of scare tactics, uh, AI taking over jobs or sort of automation replacing human beings.
+
+And I think that that never human history when we've predicted a machine taking over people's jobs is that what's happening to change the nature of the jobs, but looms didn't put weavers out of business. More people are employed. ATM machines. We now have more bank tellers than we ever had ATM machines.
+
+It's about figuring out that mosaic about how technology and humans will work in parallel. That was the vision of this. They [00:18:00] built essentially the telemetry to understand deeply what desk workers are doing when they're doing work and what it actually looks like step by step.
+
+How can you instrument it? First measure it and then optimize it and make the stuff's better. And maybe there's a place for automation as part of it, but maybe it's actually just, we need process improvement because we need to redesign the assembly line. So that's what scan does. And the founders, we're a team out of a services company called Genpact, who had spent a lot of time doing RPA deployments and frankly watching them fail because they were given this big binder saying, here's what people are doing automated.
+
+And inevitably the binder did not reflect reality. So they had this deep well of customer pain to draw on the residents, set out to solve that specific problem. They could have stopped set out to solve, to like, okay, we're going to automate the creation of RPA scripts. They sort of took a step back and said, this is a symptom of a bigger picture problem, which is that companies don't understand the work that their workers are doing.
+
+And if they did understand that work. What are all the things we could do with that is that the founders of scan are just incredible, humble down to earth. They're just really driven [00:19:00] by customers and customer pain and trying to solve this problem. And by the way, he had built an incredibly innovative system using very cutting edge computer vision stuff.
+
+When I first found it, I'm like, I was a little bit young. I mean, that's a good story, but like, is that really attractable problem for machine learning? And call me back when you have a demo and they showed me the demo and I bounce out of my chair because he can draw the workflow diagram of what people were doing and they can show you deviations from it, an insight about what people were doing that I didn't think could be computer vision alone.
+
+So it had that magical combination of deep well of understanding of a problem than a pain motivation to solve it and picture creativity about it. What do you want to even tell him that the customer tell me a faster horse, right? When will we need to get those a car? So I think they stepped back from the slow horse problem and envision the automobile.
+
+And they're just the kindest, most caring leaders who have attracted absolutely outstanding people to work with them.
+
+Gopi Rangan: Scan's a great example. Thank you for sharing a real life story of a process automation company. This is a good example of technical founders coming together to build [00:20:00] an innovative solution.
+
+How much business acumen do you look for in such technical founding teams, especially at the early stages, the classic series a stage.
+
+Jocelyn Goldfein: You know, business acumen, it kind of depends. You know, we're talking about product market fit all the time. I think there's also like a founder problem fit. I mean, you always need business document because at the end of the day, if it's venture backable, it is so because there's a big business to be built here.
+
+But what people often mean when they talk about business acumen is. How commercial are you? Are you going to be able to pull off a sales cycle with a big enterprise customer that's needed in scan's case their business model, as you might imagine, involves selling six figure software deals to big financial services companies initially, then longterm every industry.
+
+I think we'll want to use this, but there's obviously reasons why financial services. It will be the early adopters. And so each had that in spades, obviously sitting in a services company, they were working hand in hand with customers, but you could easily imagine. And we work a lot in platforms and tools for developers and for machine learning, engineers and data scientists.
+
+And it's kind of the traditional notions of business acumen. And those instincts will probably [00:21:00] mislead you more than not. In that market while there certainly are some good businesses to be built with enterprise sales, I would say increasingly open source looks like the way to get distribution.
+
+Self-service service looks like the way to drive high velocity and growth, depending on the go to market. Having a really great blogging voice talking about and having real empathy for how developers want to consume softwares is actually much more valuable than somebody who knows how to sell big deals.
+
+Banks. I think what I really care about is empathy for your customers. That's what will give you the right muscle memory and the right motivations, and you will figure out the tactics and I will help you figure out the tactics. And we will hire people to help figure out the tactics of how to translate your product and bring it to market based on that.
+
+But if you have the wrong muscle memory, and I think actually this is a mistake I see all the time, which is you have this. Technical founding team who's gone problem they care about. And usually they care about, and they built a technology or there's only ever been an engineer. I haven't built a financial model.
+
+I haven't ever instructed a sale to a customer. And so I [00:22:00] need to go get a quote unquote business. Co-founder like this business side is just a black box to me. I need to find someone else who understands it. And I would say that sort of eight times out of 10, that business co-founders now the troughs.
+
+There's no work for them to do in the first year. If you, as a founder, trying to delegate or outsource contact with the customer to somebody else is going to fail you and your product's going to fail. And so I really recommend that people have a growth mindset. The technical founders have a growth mindset about business acumen.
+
+And if you are passionate about the problem and the customer and committed to learning, you will get a better result than if you try to delegate. 
+
+Gopi Rangan: Yeah, the customer empathy part feels like. Yeah, of course. That makes sense. But if I relate to my own engineering days, when I was a software engineer, hardware engineer, I don't recall meeting a customer during that time.
+
+I was deep into R and D building things because it was intellectually satisfying and they were great products in the end. No, some of the products are generating billions of dollars in revenue, but I never really. Related to the customer. At that time, I was more focused on the here and now of building the product.
+
+So that [00:23:00] engineering founder, who has that depth in engineering and also has the customer empathy is definitely much better position to build a business. This is a very insightful observation. Thank you for sharing that. I want to ask you about something slightly controversial. There's this common phrase, that data is the new oil.
+
+Do you feel that. Analogy is flawed or is that right?
+
+Jocelyn Goldfein: Well, I cover it in an article called data is not the new oil. So I guess I've got to take the auntie. I do think data is valuable. The right data is valuable. It's not valuable volume. I think there's a bunch of reasons that the oil analogy is flawed. I mean, I don't fundamentally dispute the idea that data is really valuable.
+
+And that data is an asset, but I think the valuable data is data that has been cleaned as data that's relevant. I think a lot of enterprises in particular are sitting on troves of data and think this is an asset. How do I monetize it? And do data may not be valuable depending on the problem, depending on the context, depending on the scenario data that's 10 years old, maybe we're listed at six months old, maybe worthless, [00:24:00] maybe only real-time data is useful to you right now.
+
+So it was the combination of data and context, and that actually gives it value. And by the way, I am super excited about some really interesting technologies and active learning and transfer learning that will actually help us do more with less data. And that will help us pick the right data rather than I think a lot of people go awry and spend way too much building machine learning models.
+
+My model isn't good enough quality. Great. I'm just going to throw a ton more data at it, and I'm gonna pay a fortune annotator label, a bunch of data that is not always the fastest path and certainly not the most efficient paths to. Model quality or to velocity of improving model quality. And so I really wish people would think about model quality as the object and velocity to improve a model's quality or were delayed progression like the second derivative of the data, rather than the data.
+
+Gopi Rangan: Yeah. It's not obvious to people from the outside when they always think that they're, the more data is great, but rich, clean, relevant data is [00:25:00] much more valuable or that that's the only way that data can be valuable. The insights are far more valuable than just the raw data. I usually say that to solve a linear equation, you need.
+
+Two data points to solve a quadratic equation. You need four data points and that's about it. If you have more data, it doesn't mean that you can solve the equation better. You just need the right data and the right data will get you the answers to the yes,
+
+Jocelyn Goldfein: Absolutely. I will say this. I mean, for folks who are not machine learning experts in the audience, that when thinking about machine learning and how to improve models, At this point, it is often a game about better data than better algorithms.
+
+The work of innovation in machine learning startups is rarely about going and building a better algorithm. It's much more about everybody's got approximately the same algorithms, but I can build a better model than everybody else because I have better data.
+
+Gopi Rangan: Yeah. Can we talk about artificial intelligence?
+
+Is there something you're scared about that? The direction in which we are going, is that going to lead us to a better place? Are do you belong to the camp that we're on the right track? This is [00:26:00] the purpose of technology, and it's going to disrupt and create new things and including some problems, but we'll overcome them.
+
+Jocelyn Goldfein: Well, I grew up in the tech industry. I'm about as close to a Silicon valley hometown as. Because you'll find we moved around a bunch when I was growing up. But, but it was because my dad was in tech and was bouncing between tech employers in different states. So I put myself firmly in the kind of techno optimist camp, which believes that technology can always be part of the solution that if we face what seem like insurmountable challenges, that invention is the right answer.
+
+I don't belong to the alarmist that are like, AI is just bad. We have to shut it down. But of course, like all technology, it can be misused. It needs to be well-regulated. My biggest fear is not about AI. It's about the fact that. We don't have regulatory bodies who are equipped with sort of the expertise and the understanding of this technology.
+
+And so we're not moving quickly enough to get the kinds of good policies that will enable business to be predictable and stable. So I wish that we're accelerating faster. And I think that there are a few things that do worry me. And to be clear, I'm not worried about killer robots, right? Like I'm not, I'm not worried about the AI gaining sentience and turning on the humans and [00:27:00] subjugating us.
+
+I think this is like the stuff of science fiction in a way. I'm sorry. I'm sorry. The industry chose the term. Artificial intelligence because it makes us all think of science fiction novels. And if we focus on just sort of machine learning for a second, we'll have more of an intuition for what it really is, which is math, which is pattern matching.
+
+And that's not the path to sentience anytime soon. So I'm skeptic on AGI, but I'm a true believer that machine learning is going to solve tons of problems and tackle problems that are too hard for humanity like climate change. I absolutely believe that AI is going to help us. There's a lot of concern about bias.
+
+That concern is appropriate. I think that needs to be regulated. But something that gives me a little bit of optimism and enjoy is that we have a lot of good evidence that now that humans, despite all our best wishes are pretty biased, even when we don't want to be. And it's very hard to train or remove that bias from ourselves.
+
+Whereas if we set out to measure a model for bias and to remove the bias from the model, that's a much more tractable problem. I think AI can be. It's not regulated. It's misused can reiterate bias, but I think can be on the contrary. Also gives us very much a path towards [00:28:00] accelerating a future, which has much less bias.
+
+The things that I'm really worried about are autonomous weapons systems and even more so than bias goes hand in hand, honestly, are AI powered systems that are intended to take lives or cause injury. That don't have humans in loop. And that is something that is being experimented with those products are being created for defense purposes generally.
+
+And I think there needs to be a lot of really careful thought and oversight for anything like that to come into existence. We're basically dealing with the development of the atomic bomb all over again, where I think scientists, scientists, and engineers, we absolutely have to have an ethical and moral dimension to our work and really think about the long-term consequences.
+
+You talked about being an engineer and sort of, not really focusing on the customer, but just sort of focusing on solving the technical challenge. And I think when we focus on the technical challenge to the exclusion of the impact of our work on society, I think we will do our best work. 
+
+Gopi Rangan: Yeah, we need to look at long-term pervasive impact of the work that we do.
+
+And I am worried about some of these weapons that [00:29:00] can be created using automated tools and no bio weapons that I think those are far more scary than the same thing being taking over human beings. That's less of a problem today. What tips would you like to give to founders in the building artificial intelligence, startups?
+
+Jocelyn Goldfein: 
+
+Uh, you should raise money from the right investor who really understands what you're building and give you the right support from the right investor.
+
+Gopi Rangan:  Have you seen that happen?
+
+Jocelyn Goldfein: Sure. I mean, at the end of the day, I don't think that investors deserves the credit when startups do well. There's actually kind of a debate among investors, like how much value and here's my take, which is if there's no product market fit, like I can't turn a bad market into a good one by just giving you Sage.
+
+But I think that the startups much more often dying. Through suicide than homicide. That is to say they failed for reasons that were avoidable. Not because the market didn't exist or the invention didn't work, but because they didn't move fast enough or they chewed up too many resources chasing the wrong ideas.
+
+And so for someone [00:30:00] at your side, who has seen a lot of startups in action, who has seen the movie before may not be infallible may give you the wrong advice because they're pattern matching, but may help you avoid. A couple of those depths, people have this idea that successful startups are always up and to the right.
+
+I think folks who've actually worked in startups know every startup has valleys. Every startup has moments when it feels hopeless, everything's gone to wildly successful startups. The acquiring Facebook, but also acquiring wildly successful startups like Instagram, like every one of these that we think of as shining pinnacle of the startup journey and the hero role model has actually had moments of great experiences.
+
+And so I think the key is not to avoid mistakes. The key is to fail fast and recover quickly from those mistakes and to kind of persist through them as a capital partner is that I can help you feel faster. So that's one great tip. 
+
+Gopi Rangan: Choose the right investors to support you. [00:31:00] What other tips would you like to give?
+
+Jocelyn Goldfein: I think you've just got to have religion about hiring the quality of the first time people you hire. You can recover from Ms. Hires. A few things are fatal in startups. As long as you can raise money, any problem you're tackling, and you're going to tackle lots of problems because the startup is nothing but problems.
+
+Any problem you tackle any mountain is going to become a molehill. If you have the right people at your side, tackling it together. And when you have the wrong people, molehills become mountains.
+
+Gopi Rangan: Yeah, the reward of solving a problem at a startup is you get a bigger problem to solve since you would certainly need a strong team to support you in that journey.
+
+Jocelyn Goldfein: You know, and frankly, the journey is a lot more fun if you're working with great people at your site.
+
+Gopi Rangan: Yeah, that's right. Is that a common mistake that you see founders make, especially when they pitch to you in the first one or two meetings, are there some pitfalls that they can avoid?
+
+Jocelyn Goldfein: A lot of first-time founders don't realize is investors, particularly seed investors have two [00:32:00] different hats that they're wearing when they're judging an investment.
+
+One hat is the 10 year time horizon. Pat, you know, my fund has a lifetime of 10 years. I'm trying to drive returns to my investors on that time horizon. When I look at a startup, my career is made. When I invest in startups, they go all the way under Turner status. That's how I deliver a multiple of my funds.
+
+That's how I get to live to play. Another day on the one hand I'm wearing this hat, which is evaluating, do you have even a long tail chances becoming that multi-billion dollar company that owns an immense market? And I think one of the most frustrating things for founders is that market size slide, which is like, I'm a Sikh, you know, I'm at the invention stage.
+
+I haven't raised a dime. I'm just building stuff. You want me to size the market? Like this market has made an exist yet. I mean, it feels ludicrous, but at the same time, it's probably the most important. Filter for investors is like, does this have the capacity to return? So that's sort of the one that I have, but then I have this other hat, which is about the runway.
+
+If you're raising $3 million on back in your seed round, it's going to last 18 to 24 months. The biggest risk to me is that you are [00:33:00] not able to execute well enough in that 18 to 24 months to raise the next round. And so I'm going to ask a ton of questions. That are around the 18 to 24 month time horizon.
+
+And I'm going to ask a lot of questions around like that 10 year, exit time horizon. And they're aimed at answering different questions for me that both have to come out to yes, but it can be confusing to a startup because some of those questions are really incompatible with each other. And then in between the two years in the 10 year time horizon, like I don't actually care a whole lot.
+
+That's a problem for our future selves. If those two are green, I don't have to worry about the middle.
+
+Gopi Rangan: You leave it to the CDSA folks. Yeah, that makes sense.
+
+Jocelyn Goldfein: I expect to roll up my sleeves and help in that window. Believe me. I live into my future to others and your future
+
+Gopi Rangan: self. Yeah. Less clarity on the mid term goals is okay, but we need very good clarity on long-term vision and practical short-term goals.
+
+Jocelyn Goldfein: That's right at the insertion point is crucial because you're most likely to stumble right out the gate. If you're going to stumble. 
+
+Gopi Rangan:  I  want to switch to the next part of the conversation and ask you about your community involvement. Is [00:34:00] there a nonprofit organization you are passionate about? 
+
+Jocelyn Goldfein: There are several, but perhaps the most relevant to this group is an organization called code path.org.
+
+I'm passionate about them because I spent most of my career as an engineering leader. The number one problem that engineering leaders at high-growth companies face is talent. How do I hire, how do I coach, how do I grow? And the fact that it rains because the tech industry has grown by leaps and downs.
+
+For the entirety of my career, there has never, ever been enough supply of talent to meet demand. It's not like doctors or lawyers where there's a cap on how many doctors we need in the world. We're nowhere close to the top. We need more doctors than we have, but there's a finite demand for doctors based on how many human bodies are kicking around to be treated.
+
+There is no cap on the demand for software engineers, data scientists, machine learning, engineers, technologists, product managers, designers, because if we had enough. To work on all the products that are in front of us. We invent new products to build and to improve humanity and to improve society. So there's no limit on the appetite for talent.
+
+What code pass does is provide computer science education to college students and [00:35:00] engineers who are already in their role to help them to create a larger talent pool for tech companies.
+
+And also to get more people on ramps into a job that is creative, collaborative. And having and code path serves an incredibly diverse set of students and they produce technologists who are incredibly high quality. It's not a bootcamp because they serve people throughout the quarters and help them level up at every point, along the way.
+
+And they are making a serious dance. In the talent available to the industry and diversity to the industry as well. They just doing something incredible that has first order impact to make the tech industry better. Long-term second and third order impacts to help the tech industry grow faster and to help it grow with right people.
+
+And by the way, they have first order impact on helping people find great jobs. So it's the American dream to find. Satisfying. 
+
+Gopi Rangan: Jocelyn, thank you so much for spending time with me and chatting very insightful, authentic stories based on your own experience from the engineering world and the startups that you've [00:36:00] backed up with many practical examples that you've given.
+
+I really appreciate it. And I look forward to sharing your nuggets of wisdom with the world.
+
+Jocelyn Goldfein: Thank you so much.
+
+Gopi Rangan: Thank you for listening to the shore shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.
+
+Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. .
+

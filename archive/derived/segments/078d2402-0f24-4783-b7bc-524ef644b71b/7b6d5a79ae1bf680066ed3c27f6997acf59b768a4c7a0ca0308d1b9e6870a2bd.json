@@ -1,0 +1,585 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 330,
+      "excerpt": "The most effective founders are those that have outrageous founder-market fit, those people who have essentially been their customer beforehand. They've sat in a seat that allows them to live a pain point that just sucks so much. They cannot imagine a future other than the one in which they are building a solution to this issue.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 579,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 332,
+      "timestamps": []
+    },
+    {
+      "end": 1016,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host Gopi Rangan. Our guest today is Tom Ferguson. He's the . He invests in water. We're gonna find out more about why water and how he looks for opportunities in that sector. We all know that climate change is an important topic and water is a big portion of that. Water is the fundamental molecule that allows society to exist. It's a great phrase that describes Burnt Island Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 581,
+      "timestamps": []
+    },
+    {
+      "end": 1061,
+      "excerpt": "Tom, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1018,
+      "timestamps": []
+    },
+    {
+      "end": 1455,
+      "excerpt": "Tom Ferguson: Gopi, thank you so much for having me. I can't tell you how excited I am to hear that said out loud by somebody other than me. I've been shopping that phrase for a long time. We really believe it. It's not just a sound bite that the water is the fundamental molecule that allows society to exist, but it's very rarely that it comes out of the mouth of someone other than myself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 1063,
+      "timestamps": []
+    },
+    {
+      "end": 1520,
+      "excerpt": "So yeah, it's a real pleasure to be here. Thanks for having me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1457,
+      "timestamps": []
+    },
+    {
+      "end": 1830,
+      "excerpt": "Gopi Rangan: It is true indeed. Across centuries, if we look at how human civilization formed, every dwelling, every community, every tribe always existed near a water body, either a lake or a river or an ocean. We rarely formed communities in the middle of a desert, like in Sahara desert or somewhere else.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1522,
+      "timestamps": []
+    },
+    {
+      "end": 2240,
+      "excerpt": "Water has been pivotal to the creation and subsistence of humans as a society. I'm very excited to talk about that and your focus areas for investment. Now, talking about origins, I want to understand your origin. Where are you from? I know that you've recently moved from San Francisco to New York, but tell us your story. How did you get started? How did you develop your interest in the investment world? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1832,
+      "timestamps": []
+    },
+    {
+      "end": 2448,
+      "excerpt": "Tom Ferguson: For sure. As you can probably tell I'm a British person. And it's funny in terms of where we are from. I mean, I really do count myself as British by sort of, you know, families from Scotland.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 2242,
+      "timestamps": []
+    },
+    {
+      "end": 2750,
+      "excerpt": "The name of the fund actually is from Scotland, from a ferocious beautiful part of the world on the west coast of Scotland. The Burnt Islands are there about two hours west of Glasgow. So if anybody's in the mood for a holiday, you can definitely go and see them, but I'm definitely a British person.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2450,
+      "timestamps": []
+    },
+    {
+      "end": 3467,
+      "excerpt": "In terms of how I got to water and into the investment side of things, I was first exposed to water in 2010. I was working for ERM, which is the largest pure sustainability consultancy in the world. They needed somebody to do a pro bono piece of work for the carbon disclosure project. I stuck my hand up and was given a USB drive with the data and strategies of 150 of the global 300 around what they were doing with water. It really allowed me to get up close and personal. And then I sort of transferred myself into being a de facto water sustainability consultant, working with a whole bunch of very large companies looking at how they should be thinking about water and water risk and water related investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2752,
+      "timestamps": []
+    },
+    {
+      "end": 4175,
+      "excerpt": "But in 2011, 2012, people were still licking their wounds and putting themselves back together after the great financial crisis. So, they didn't really pay much attention to me nor should they have done, really. Anyway, I went to business school and then a couple of experiences in early-stage companies, which were phenomenally instructive. They were my introduction into kind of the intellectual architecture of company building. I saw a lot that was seriously interesting. The opportunity came up in 2015 to go and work for a phenomenal organization called Imagine H2O with primary responsibility for running their accelerator, which was an accelerator that worked exclusively with early-stage founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3469,
+      "timestamps": []
+    },
+    {
+      "end": 4606,
+      "excerpt": "This was a nonprofit and the best way of putting it is impact rationale. If we can identify the smartest people in the world that are building early-stage water companies, what they are essentially putting in place are sustainable solutions to a variety of water problems. You help all of them. You are working on those water problems vicariously, but definitely in parallel. So that was how we were building impact in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4177,
+      "timestamps": []
+    },
+    {
+      "end": 4903,
+      "excerpt": "I saw two and a half thousand early stage water companies. I worked with 170 of the best water founders over the last 10 years and it was becoming abundantly obvious to me anyway, that the overall conditions for investment in early-stage water were really building up and building up quite fast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4608,
+      "timestamps": []
+    },
+    {
+      "end": 5619,
+      "excerpt": "I figured that I at least had a fighting chance of being able to go and make this argument to a group of LLPs who had perhaps backed the idea of an early-stage venture fund. So, I went and started to do that in October 2020, first close in February 2021 and then we did it exactly a year from first close to final close. We did nine closes over the course of our fundraise. It was really kind of money and money out building the portfolio as we went. Now we've got 16, about to be 17, companies in the portfolio, and they're just a really phenomenal group of entrepreneurs. So far so good. We're about to go into an interesting time, but our timeframes are seven to nine years out in terms of our liquidity window.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4905,
+      "timestamps": []
+    },
+    {
+      "end": 5766,
+      "excerpt": "It's just been a real roller coaster, but it's a journey I'm very, very glad to be on because I think it's got some interesting places it can go.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5621,
+      "timestamps": []
+    },
+    {
+      "end": 6051,
+      "excerpt": "Gopi Rangan: I can see the potential here and I see why you're excited. I'm trying to understand in more detail what is Burnt Island Ventures? How is the firm different from other VC firms? I understand your main focus, but are there other philosophies that you follow at your firm? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5768,
+      "timestamps": []
+    },
+    {
+      "end": 7047,
+      "excerpt": "Tom Ferguson: I took the view early that being exclusive within water was kind of exciting enough for our LPs and so if you look down our LPA and our fund structure, everything is kind of milk-white bread, like right down the middle of the fairway. We're really not trying to innovate at all really in terms of the structure. But there are a couple of things that we were very, very clear with our LPs, from the beginning. Firstly, we're going to be relatively concentrated. Your garden variety seed fund is gonna be looking at 50 to 60 positions and then double down on the things that are showing kind of breakout growth and you're hoping that that's gonna be enough to get you to the 3X cash on cash returns that puts you in the top decile. And then you press play again, hopefully with a much larger second fund as you go. So water is at the beginning of its journey, I believe, in terms of being able to yield gross cash returns to someone like me. We have not had a unicorn within water. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 6053,
+      "timestamps": []
+    },
+    {
+      "end": 7744,
+      "excerpt": "We are really gonna have to get our returns from a fat tailed portfolio construction. So we've got a much lower budget for zeros, and so we just need to be much more careful in terms of what we're looking at, investing in things that already have pretty powerful unit economics. We think that they stand on their own two feet in terms of becoming a real going concern within the next 3 to 4 years. We do not want to be the mercy of people who don't get it at the series A and series B. The best place to raise funds for a water company is when you do not need it. So we're very interested in past break even. And then in terms of the concentrated portfolio, we're really looking at 20 positions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7049,
+      "timestamps": []
+    },
+    {
+      "end": 8940,
+      "excerpt": "We're looking at 350k to 750K first checks. We're drawing a $1.25 million circle around each company, but we've already kind of extended significantly beyond that with the best founders that we've seen who are still raising at the right prices for us. And so, it may look a little bit more like a private equity strategy just in terms of the actual risk profile. But the great thing about water is that you do get to have your cake and to eat it. Water companies go on the too hard pile. Even with the cleantech investment crew, we put 50 billion into cleantech last year, maybe 400 million went into water. Water is always a logo on the fundraising slides of cleantech funds and they never really do anything about it, which means that companies that have got real traction, it's very difficult for people to be able to underwrite when they see them because they're like, \"I don't anything about this. I have no idea about utilities. I don't anything about the cost of water. All I know is that it's cheap, it's regulated, it's heavy, it's, you know, all this kind of stuff. No, thank you.\" Whereas we can look at it and say, we know a lot of people downstream who would be interested in this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7746,
+      "timestamps": []
+    },
+    {
+      "end": 9817,
+      "excerpt": "We think that you are in terms of the understanding of the structures of people who are doing everything from utility software to membranes, to industrial water treatment, to earth observation, the explosion of data that's coming in from space, we're just fundamentally able to underwrite it in a way that no one else is because water's tough, it's a niche, but it's a trillion-dollar niche. And so for anything, that's raising money within water, we think we've got a sustainable edge because if I was a water founder, it would be really important to me to have a name on the cap table, no matter who else I'm raising from. It would be really important to me to have a name on the cap table that really fundamentally understands the sector, because not only do we understand it, we've also got a really unfair advantage in terms of our network is just much more specialized.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8942,
+      "timestamps": []
+    },
+    {
+      "end": 10818,
+      "excerpt": "We know there are people who run utilities. We know the people who are in charge of the water treatment arms of the big industrials. We also know the major entrepreneurs of the last decade and a half who can come in and help you understand where the landmines are. So our specialization is a real edge, and if we do our job, that's just gonna compound. I think that the market size is gonna compound. The importance of water in the context of all investing, not just climate change investing is gonna become much more obvious, especially as we understand what climate resilience really means, which is basically water resilience. We think if we do our job right, that we can build a really quite significant edge in terms of making sure that we're getting onto the cap tables that we want to get onto. We're just putting one foot in front of the other. And we're just trying to remain sensible while that is what's demanded of us by the water sector, because it's a tricky industry. That's for sure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9819,
+      "timestamps": []
+    },
+    {
+      "end": 10821,
+      "excerpt": " ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10820,
+      "timestamps": []
+    },
+    {
+      "end": 11170,
+      "excerpt": "Gopi Rangan: Water is a scarce resource. It's already becoming quite scarce in many parts of the world. A lot of funds use water to greenwash their fund thesis, to explain to investors and limited partners. So in that world, having a true, genuine thesis that focuses on water is important. I'm glad that you describe that in very eloquent words. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10823,
+      "timestamps": []
+    },
+    {
+      "end": 11436,
+      "excerpt": "I can see why this pond of water is going to be the birthplace of many unicorns in the future. But from a founder's perspective, why is building a business that's focused on this sector difficult? What are the top two or three major challenges that founders face? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11172,
+      "timestamps": []
+    },
+    {
+      "end": 11953,
+      "excerpt": "Tom Ferguson: This is actually a great question because the first response to it is that it's dangerous because the obvious things are usually quite a bad idea. I just had a conversation this morning actually with a phenomenal guy who has done amazing things at one of the world's biggest brands. It was a really classic example of when you are new to the water sector, you tend to be looking at problems that are obvious enough that other people have been there and done that and discovered why they are difficult.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 11438,
+      "timestamps": []
+    },
+    {
+      "end": 12972,
+      "excerpt": "The most obvious thing is that a lot of people get very miserable when they get a leak in their home. They are like, \"how the hell did I have a leak in my home for three months and I've gotta suddenly redo the entirety of the downstairs and all of the upstairs bathroom, and it's a massive pain in the $$ and I've gotta deal with insurance companies and it takes ages and it's enormously and like my sort of partner is very upset\" and all this kind of stuff. There must be a huge opportunity in leak detection and defense companies, and there is, but it's relatively played out in the same way where you look at people will see the statistics of the amount of leaks and the degree to which treated water is lost within distribution systems. \"That's insane. How can that be a thing? Or like, how can we build a better leak detection system?\" Then you go and you find out the actual landscape of it, which is that when you're running a water utility, like your ladder of immediacy is really what drives what's going on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11955,
+      "timestamps": []
+    },
+    {
+      "end": 13495,
+      "excerpt": "It's important to them to drive leak detection and leak reduction, but compared to the other stuff that is on their mind and the other reasons why their hair is on fire, it's just part of doing business. You don't have enough pain there to be able to really drive a business that's going to grow fast enough for you to be able to build the company that you want. So, for people who are new to the water sector, it can often be quite difficult because the stuff that's really going to fly is often quite counterintuitive. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12974,
+      "timestamps": []
+    },
+    {
+      "end": 13844,
+      "excerpt": "We think that the most effective founders are those that have outrageous founder market fit - t hose people who have essentially been their customer beforehand. They've sat in a seat that allows them to live a pain point that just sucks so much, they cannot imagine a future other than the one in which they are building a solution to this issue. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13497,
+      "timestamps": []
+    },
+    {
+      "end": 14854,
+      "excerpt": "The archetypal example in our portfolio is a company Daupler, run by a guy called John Bertrand within utilities. He used to be our consultant for utilities. He was just looking at the information flows through which utilities find out what's going on out there in their network and the way in which that information is processed, the way in which field crews are dispatched, the legal issues they have, the HR issues, just the haptic experience of people who sit within that flow and was like, \"This is insane. We really need to be able to ingest the external information and put it through an AI engine and essentially automate this thing from end to end.\" That's what they've felt. But I only do water. I would not have been able to pick that up from just doing desk-based research and from what I already know about the industry. The real problem about water is that unless you really understand the whole customer experience really from soup to nuts, we don't need to have ridiculous founder-market fit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13846,
+      "timestamps": []
+    },
+    {
+      "end": 15942,
+      "excerpt": "We also have a second type of entrepreneur that we support. The best way of saying it is that they have done the work. We're talking 300 to 400 pieces of primary information about their target market. They have done the work to make sure that their perception of reality is as close to actual reality before they write a line of code or pick up a soldering iron. It really is unbelievably important. But the main thing is that the landmines are tricky. This is gonna sound like I'm talking my own book, but that's one of the reasons why we are really helpful. I mean, I've seen the experience of, now getting on for 200 early-stage water entrepreneurs, awful lot of examples of where people have done things right, but much more useful where people have done things wrong. I don't think any of it is rocket science. What we bring to those founders, especially who are building things at the earliest possible stages, is just the best possible ways of staying out of trouble. Because unfortunately there are quite a lot of ways to get yourself in trouble when you're in the water sector.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14856,
+      "timestamps": []
+    },
+    {
+      "end": 16281,
+      "excerpt": "I don't wanna put founders off because it's tough, but it is really doable and there are huge advantages to building companies in the water sector - everything from longevity of customers to willingness and ability to pay for solutions that really work. It's an exceptionally nice industry. It's filled with really, really lovely people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15944,
+      "timestamps": []
+    },
+    {
+      "end": 17087,
+      "excerpt": "It is really not going away. It's becoming exponentially more important in the context of climate change. Then the last thing I'm just gonna say about why people should be starting companies within water. It is intrinsically meaningful. All of our portfolio, everybody. There is just a huge psychological advantage, and boon, basically, of being able to work on something that's intrinsically meaningful that is at the bottom of Maslow's hierarchy of needs. And when you get out bed in the morning and put your feet on the floor, there is a huge psychological benefit of working on something that really does have that degree of importance in your life and the lives of your teammates and in the lives of communities that are served by the product that you are building. It's rather an unusual industry. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16283,
+      "timestamps": []
+    },
+    {
+      "end": 17786,
+      "excerpt": "Gopi Rangan: Yeah, water is a critical resource and you gave this vivid example of water leak detection. Water leak is a problem that happens quite often. Actually, 2% of homes in the U.S. face with water leak problems every year, which is very, very high. The indemnification claims paid out for all the damages in these houses is like $10 billion, which is just residential, not even counting the commercial side of things like grocery stores and other buildings. But they don't seem to be doing anything about it. There are a lot of these water leak solutions, but I think what I'm hearing from you is that this is such a big problem and water touches us pretty much everybody on a daily basis.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17089,
+      "timestamps": []
+    },
+    {
+      "end": 18157,
+      "excerpt": "It's easy for an entrepreneur to get infatuated by looking at so many problems, but they have to go to the second level, third level and have some insight and find that founder-market fit to be able to build a sustainable big business in the long term. That comes with deeper insights, more research, and understanding the problem at a level that other people have not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17788,
+      "timestamps": []
+    },
+    {
+      "end": 18932,
+      "excerpt": "Tom Ferguson: Yeah, absolutely. There are two things I think that come out of what you've just said that are really helpful to unpick. It really is not enough to have a pain point. You have to have an extreme enough pain point. This is going to get onto the hopefully top one, top two, three things that this person within the water sector, if it's say it's somebody who runs a water utility or waste water treatment plant, or somebody who is in charge of industrial water treatment for, you know, X, Y, Z big brand, like you need to be at the top of their priority list. Otherwise you're not going to get done. Your sales cycle are just going to be so long that unless you compensate for it with absolutely ridiculous unit economics, this is going to be a very tough road.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 18159,
+      "timestamps": []
+    },
+    {
+      "end": 19649,
+      "excerpt": "If you're planning on building something for the utility sector, or frankly, if you're gonna be building something for the industrial treatment sector, that knowledge isn't lying around. You really need to go and speak to a lot of people because you need to get well beyond the point where you're starting to see the dropoff in marginal utility of each conversation. You really need to get to the point where \"okay, I think we are properly tapped out in terms of marginal insights.\" That is where you are understanding you at least have the best risk adjusted chance possible of having a zero gap between the actual reality of the market that you are going to go and serve and your perceived reality of that market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18934,
+      "timestamps": []
+    },
+    {
+      "end": 20182,
+      "excerpt": "Gopi Rangan: This is very interesting. Very exciting, indeed. You use specific examples based on your experience, which is difficult to get from a Techcrunch article, typically. You mentioned earlier that you expect to invest in about 20 companies and you like to invest early. How does the investment process work? How many startups do you meet? How many of them do you end up investing in the end to get to the 20? And how long does it take to go from the first meeting for you to say \"yes, now I want to invest in this company.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19651,
+      "timestamps": []
+    },
+    {
+      "end": 21216,
+      "excerpt": "Tom Ferguson: Yeah, sure. Like everyone else, there's no kind of hard and fast rule for it. We have a hard and fast process, but we have no hard and fast rule for timing. Things are taking a little bit longer at the moment. We need to be sensible. We need to be taking our time. We've just done it with a really interesting irrigation company that it looks like we're going to do but we put them through the process in about two weeks. In general, I think on average, the funding rounds that we've been part of have been about kind of a month to six weeks for, for all of the syndicates to kind of pan out. And that's because the founders are actually being really careful about who they're getting into the henhouse as it were and more power to them. There's been some very, very sensible investor selection there's been happening along the way. We're insulated from that froth again. We're not looking at 200 million pre at the seed or like, you know, whatever it is. I mean, sometimes that makes sense, but it wouldn't for water.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 20184,
+      "timestamps": []
+    },
+    {
+      "end": 21707,
+      "excerpt": "So the process that we do, we really like to take in information blind. We'd much prefer even when we get warm introductions, we ask people to input their information through our website so we can have a look at it blind. We want to know as little about the founders as we possibly can, certainly in terms of their demographic or gender or socioeconomic status, or actually their origin as well. We wanna make sure that we are really evaluating the ideas as objectively as we possibly can.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21218,
+      "timestamps": []
+    },
+    {
+      "end": 22438,
+      "excerpt": "And then we want to see stuff written down because one of the leading indicators that we think has always been an out outside indicator of future success, and it's a bit weird, is actually the ability to communicate on a written basis. We think that seeing the way in which people organize their thoughts on paper, it's a really, really, really important leading indicator of how they organize their thoughts on an ongoing basis when they're faced with difficult decisions. The people who have shown us that they are cutting down their business logically at the first point of contact also cut down difficult decisions logically much, much later in the company's life cycle. So we really like to see that as objectively as we do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21709,
+      "timestamps": []
+    },
+    {
+      "end": 23576,
+      "excerpt": "So, we do get warm introductions, but we also really, really like cold outreach and cold input and via website. And then we could just have a half hour conversation. And a lot of people try and schedule an hour with us and we say, \"nope, we're okay. We really can get to what we need to within the first half an hour. It's much more efficient for you. It's more efficient for us. If we like what we've heard, we'll process that. We'll send them a bunch of questions. We look for anything desk-based that they can send back to us. So we'll go through the data room or the deck or the financials or whatever it is and send back a bunch of questions. And then we'll take another hour to go over, you know, a bunch of secondary inquiry. After we've done that we then fill out our overall first past due diligence memo, which is 18 sections or 3 to 8 sub-questions per section, which basically just goes through like our mental checklist of everything that we want to make sure that we've checked in on. And then I think where we deviate from a lot of funds, we actually share that with the founder. So we basically write down what we think.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22440,
+      "timestamps": []
+    },
+    {
+      "end": 23851,
+      "excerpt": "We highlight a bunch of things that either are missing, or that we think we may have got wrong as we are looking at it, and then we basically give it to the founders and say, \"look, this is what we think.\" And actually this includes our financial assessment of the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23578,
+      "timestamps": []
+    },
+    {
+      "end": 24190,
+      "excerpt": "\"Look, this is what we think, where have we gone wrong? What would we add? What would you take away? What would you quibble with? Where do you think we are busted?\" Because I think at the heart of this is I truly tried when I started. There's a very weird dynamic when we try to set up a 10 to 12 to maybe 15-year operating relationship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23853,
+      "timestamps": []
+    },
+    {
+      "end": 24499,
+      "excerpt": "There is an awful lot of like adversarial and slightly strange kind of game playing that happens at the beginning of the relationship where you're trying to prepare, pretend you're not interested, and you're trying to kind of like, oh yeah, play it all cool. And like, oh, I really don't think this is this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24192,
+      "timestamps": []
+    },
+    {
+      "end": 25236,
+      "excerpt": "And for this reason, we need to write you down like four to 5 million. Let's get out of that. I'm going to tell you what I think, and I'm gonna be really fair. Like I'm not going to do any gameplay. The way in which founders respond to that is really quite interesting. The founders that we want to work with recognize what we've done. They recognize that we've been really, really open, that we are underwriting people on a really, really sensible basis. We're not being unnecessarily, you know, penalizing, whatever it is. We're just looking for fair and people really do meet us in the middle. We've had some really, really successful deals that we've led and it just establishes a really, really strong kind of initial partnership.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24501,
+      "timestamps": []
+    },
+    {
+      "end": 25592,
+      "excerpt": "Anyway, once we've done that and they've had the right of rejoin, we then update our thinking. Sometimes we agree with the point of view of the entrepreneurs. Obviously, sometimes we don't. Then after that we connect the entrepreneurs to our three members of our investment committee who are the three awesome people with very, very different skill sets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25238,
+      "timestamps": []
+    },
+    {
+      "end": 26039,
+      "excerpt": "They have either one to one or a group conversation, and then I get their input from the investment committee because they've just got a awful lot of experience in and around the water sector and in and around company building much more than I have, frankly. And then we put all of our notes together, all four of us. We are yet to invest in anything that doesn't have unanimous agreement from all four of us. Then we know we're there, we're in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25594,
+      "timestamps": []
+    },
+    {
+      "end": 26215,
+      "excerpt": "The last thing I'll say is that making sure that we go through the discipline of the memo just means that we have a system of record for what we actually thought at the time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26041,
+      "timestamps": []
+    },
+    {
+      "end": 26956,
+      "excerpt": "Like anyone else, I'm a human. I am subject to the usual BS of like when things go great it's because I'm awesome, and when they don't it's because like the world turned against me and it could never have been like foreseen. Having an objective system of record for the decision as it was when we made that investment decision is absolutely vital because feedback loops and venture are so long that you have absolutely no idea until the mula is in the cooler, as they say. And that's a really difficult, really long-term milestone of success. So, if you really wanna improve your process, it's super important to be able to judge yourself on an objective basis. I just think that's one of the only ways of doing it. So that's the process. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26217,
+      "timestamps": []
+    },
+    {
+      "end": 27256,
+      "excerpt": "Gopi Rangan: I see that you are a fan of the written word and you belong in the Jeff Bezos camp of writing six pages and articulating your thoughts in a memo. I picked on something that is potentially controversial. You said that you want to know as less information about the founders as possible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26958,
+      "timestamps": []
+    },
+    {
+      "end": 27616,
+      "excerpt": "While I typically advise entrepreneurs to use the team slide way up front, especially at early stage companies, the team is the most important piece of the puzzle. It's important for the investors to understand who the team players are. You say that you want to learn less about the founders, their ethnic background, social status, and those kind of things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27258,
+      "timestamps": []
+    },
+    {
+      "end": 27738,
+      "excerpt": "How do you reconcile with the fact that you ultimately need to invest in the team and you need to get to know the team? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27618,
+      "timestamps": []
+    },
+    {
+      "end": 28853,
+      "excerpt": "Tom Ferguson: Yeah, absolutely. And like obviously, the way in which we think about building startups is basically, this is the sequence of difficult decisions and people make decisions. So, you've got to make sure that you are looking at the right team. But what I want to make sure is that when people look at our selection process, it's really important to me that I can stand behind it saying \"look, no matter what the makeup of our fund looks like, our process really is blind to who the hell is writing these words when they are inputted into our website.\" We are not just chummy, chummy, just only warm referrals from a specific set of people, which actually means that like people who usually just get venture money carry on getting venture money and perpetuating the negative stereotype of how this world is structured, the outcome, we do not have as diverse, a founder set as we want. We do not have as diverse agenda founder set, as we want. We're running at about 25%, which is definitely not where we want to be. But I think it's really important to build this structurally into how you are doing it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 27740,
+      "timestamps": []
+    },
+    {
+      "end": 29418,
+      "excerpt": "Now, we also ask, when people give us their written side of things, we do also ask for a link to their deck. Within that is obviously a team slide, but the way in which the impression works, the first thing that we are seeing is not pedigree the founder or like, you know, the previous exits or like, whatever it is, what we are looking at is the first breadcrumbs of intellectual architecture - how it is that they are choosing to express themselves. We've always thought that that is a better leading indicator than anything else for downstream decision making.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28855,
+      "timestamps": []
+    },
+    {
+      "end": 29885,
+      "excerpt": "It's not perfect. And yeah, sure. Like, you know, multiple repeat founders, they've seen an awful lot. They've got scar tissue. They've already TRO on a lot of landmines. That's also a very helpful leading indicator. But the quality of written expression is actually seriously important and it's not actually about investors and it's not necessarily, or is about the architecture, but that was also a leading indicator is the quality of the communicator themselves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29420,
+      "timestamps": []
+    },
+    {
+      "end": 30359,
+      "excerpt": "And that's such an important thing because like somewhere down in the basement is investors. Right. But actually in order of importance, Better communicators are gonna hire better. So actually implicitly, we are thinking about the team better communicators are gonna hire better people and then better communicators are gonna be able to convince those first customers to come on and give them a shot at delivering that value proposition through the medium of this product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29887,
+      "timestamps": []
+    },
+    {
+      "end": 30757,
+      "excerpt": "And so we are actually solving for team. We're just kind of a couple of steps backwards, but like, I mean, absolutely we are with you just like everyone else. Like these are like startups are a sequence of decisions and you've got to be indexing really, really hard to the decision maker. So we're getting there as well, but it's absolutely not to say that we are not looking at the team overall.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30361,
+      "timestamps": []
+    },
+    {
+      "end": 31217,
+      "excerpt": "We're just looking at a slightly different starting point, which we think, you know, helps us in. Objectivity and not falling victim to the kinds of bias that I think has been there in the venture market, you know, really for some time. And I think to its credit, the venture market is trying with mixed degrees of success to get away from, you know, we're just trying to be objective and also stay true to what we think of the leading indicators of success.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30759,
+      "timestamps": []
+    },
+    {
+      "end": 31472,
+      "excerpt": "Gopi Rangan: I see that you want to be objective and fair and you don't want your biases to affect your investment decisions. So, you don't want to miss out on good opportunities because of certain patterns that we may be familiar with. I can see that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31219,
+      "timestamps": []
+    },
+    {
+      "end": 31545,
+      "excerpt": "Tom Ferguson: Yeah, especially over indexing to warm intros, for sure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 31474,
+      "timestamps": []
+    },
+    {
+      "end": 31789,
+      "excerpt": "Gopi Rangan: Yeah, warm intros has kind of become the standard and it's really crippled the ability for new founders to be able to meet investors. So I hope this podcast and this opportunity where they can hear you and yours is very helpful. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31547,
+      "timestamps": []
+    },
+    {
+      "end": 31963,
+      "excerpt": "We're coming to the end of our conversation. And I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31791,
+      "timestamps": []
+    },
+    {
+      "end": 32407,
+      "excerpt": "Tom Ferguson: I spent five and a half really very happy enormously educational years at Imagine H2O, which is a 501(c)(3). It's a nonprofit. And they do absolutely extraordinary work. This is something that you are passionate about as well, right? Which is the availability of support and the access to entrepreneurs who are either at this for the first time or wouldn't be the usual candidates for funding or support or like, whatever it is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 31965,
+      "timestamps": []
+    },
+    {
+      "end": 32700,
+      "excerpt": "What imagine H2O have built is an extraordinary startup identification and then support engine across like a bunch of different geographies. So, Imagine H2O Asia is run by Nimesh Modak who's absolutely really awesome guy. We kind of grew up within Imagine H2O after business school together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32409,
+      "timestamps": []
+    },
+    {
+      "end": 33071,
+      "excerpt": "We started working together in 2015 and he's now based in Singapore running that awesome program. Kelly Trott runs the Urban Water Challenge, which is an extraordinary program that has now been running for five years, which identifies interventions basically within the urban water stack that can have an outsize d impact or management of water in an urban environment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32702,
+      "timestamps": []
+    },
+    {
+      "end": 33492,
+      "excerpt": "And then the main accelerator is run by a great lady called Lee Thompson, who took over from me a couple of years ago. And that's the kind of the main accelerator we are internationally agnostic, but really what we're looking for is the overlap between impact and the caliber of fundamental company architecture. So we really do think like a venture fund, but we have a heavy, heavy layer of the impact side of things. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33073,
+      "timestamps": []
+    },
+    {
+      "end": 33793,
+      "excerpt": "Gopi Rangan: Thank you so much for sharing insightful stories, specific examples from your experiences, real life examples. I look forward to sharing your nuggets of wisdom with the world. Water is an important topic, and I'm delighted to see the passion with which you are approaching this problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33494,
+      "timestamps": []
+    },
+    {
+      "end": 33865,
+      "excerpt": "And I look forward to many founders building solutions in this space. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33795,
+      "timestamps": []
+    },
+    {
+      "end": 34096,
+      "excerpt": "Tom Ferguson: I really appreciate it. And God be like, congratulations on all the success you've had with the pod and in your own investment work, you are a real trail blazer for all of us. And I really appreciate you having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Tom Ferguson",
+      "start": 33867,
+      "timestamps": []
+    },
+    {
+      "end": 34165,
+      "excerpt": "Gopi Rangan: Thank you for listening to the sure shot entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34098,
+      "timestamps": []
+    },
+    {
+      "end": 34441,
+      "excerpt": "I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34167,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "7b6d5a79ae1bf680066ed3c27f6997acf59b768a4c7a0ca0308d1b9e6870a2bd",
+  "text_sha256": "1da2a787d10bbe222bf50ede12f230704cacf3235128abf56379e47056ced03c"
+}

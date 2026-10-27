@@ -1,0 +1,855 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 415,
+      "excerpt": "Oyster financial is like extremely meaningful for him. It's like everything he has done in his past has been to be where he is right now with Oyster, you know. And that was even something he mentioned. So at the human level, you can connect with that. When you see an entrepreneur that has dreams. And of course, which is something that we haven't mentioned that I find very important is to be aligned in principles",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 502,
+      "excerpt": "with the LPs in our fund, but also with the entrepreneurs and the people in our team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 417,
+      "timestamps": []
+    },
+    {
+      "end": 931,
+      "excerpt": "[00:00:30] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. Today's guest is Consuelo Valverde. Consuelo is a serial entrepreneur turned venture capital investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 504,
+      "timestamps": [
+        {
+          "offset": 504,
+          "raw": "[00:00:30]",
+          "seconds": 30
+        }
+      ]
+    },
+    {
+      "end": 1231,
+      "excerpt": "She's the founder and managing partner of SV LATAM Capital, investing in science and technology startups to transform societies, environment, and health on a global scale with a unique focus on Latin America. She has a master's degree in computer science and a master's in science entrepreneurship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 933,
+      "timestamps": []
+    },
+    {
+      "end": 1549,
+      "excerpt": "She also dropped out of a PhD program in genomics, which I hope we get a chance to talk about today. Consuelo founded her first tech company at the age of 21 and multiple other companies later, including a software company, a science museum, and an innovation center. Consuelo, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1233,
+      "timestamps": []
+    },
+    {
+      "end": 1630,
+      "excerpt": "[00:01:50] Consuelo Valverde: Hi, thank you, Gopi. It's a pleasure to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 1551,
+      "timestamps": [
+        {
+          "offset": 1551,
+          "raw": "[00:01:50]",
+          "seconds": 110
+        }
+      ]
+    },
+    {
+      "end": 1834,
+      "excerpt": "[00:01:54] Gopi Rangan: Tell us about yourself. I understand that entrepreneurship runs in your family and what was your inspiration, source of motivation for you to pursue a career as an entrepreneur? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1632,
+      "timestamps": [
+        {
+          "offset": 1632,
+          "raw": "[00:01:54]",
+          "seconds": 114
+        }
+      ]
+    },
+    {
+      "end": 2008,
+      "excerpt": "[00:02:06] Consuelo Valverde: Yes, I grew up in a South of Mexico City called Cuernavaca. We have lots of people from Mexico City that tended to go there over the weekends.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 1836,
+      "timestamps": [
+        {
+          "offset": 1836,
+          "raw": "[00:02:06]",
+          "seconds": 126
+        }
+      ]
+    },
+    {
+      "end": 2496,
+      "excerpt": "My dad was Cuban and migrated to Mexico when he was around 14, 15 years old. There are not many Cubans that migrated to Mexico. They tended to migrate after the Cuban revolution more to the States, particularly Miami. And he was a serial entrepreneur. I later found out that the fact that my dad was always starting something new and being from cattle business, distribution centers, restaurants, real estate, and being so active and kept us always very curious about his new endeavors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2010,
+      "timestamps": []
+    },
+    {
+      "end": 2587,
+      "excerpt": "It meant that he was a serial entrepreneur and he had a tremendous influence in my life. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2498,
+      "timestamps": []
+    },
+    {
+      "end": 2794,
+      "excerpt": "[00:02:58] Gopi Rangan: That's very interesting. It runs in your family. I see. Is there an event or something that inspired you to become a venture capital investor? Can you talk about that a little bit? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2589,
+      "timestamps": [
+        {
+          "offset": 2589,
+          "raw": "[00:02:58]",
+          "seconds": 178
+        }
+      ]
+    },
+    {
+      "end": 3667,
+      "excerpt": "[00:03:09] Consuelo Valverde: Yes. Around the year 2000, 2001, I had the opportunity to found the Office of Innovation Science and Technology in the state of Morelos, south of Mexico City, which has the largest concentration of scientists outside Mexico City. And back then I met a scientist named Alejandro Alagón, who told me the story of a bat, and it's like a Halloween bat, not a baseball bat. Of how he had discovered an anticoagulant from the saliva of a, of a Mexican bat that could be used to treat ischemic throat and had a market of 25 billion in the U. S., Canada and Europe alone. However, Mexico lost the opportunity to see a startup, a Mexican, startup being born out of that research. And of course there are many things that were lacking back then, but I got to know through that the infrastructure of the science and technology infrastructure of Mexico.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 2796,
+      "timestamps": [
+        {
+          "offset": 2796,
+          "raw": "[00:03:09]",
+          "seconds": 189
+        }
+      ]
+    },
+    {
+      "end": 3791,
+      "excerpt": "And one of the key pieces that were lacking was venture capital. So I knew I wanted to be on the other side of the table. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3669,
+      "timestamps": []
+    },
+    {
+      "end": 4026,
+      "excerpt": "[00:04:17] Gopi Rangan: Oh, this is very interesting. I can see that you geeked out on something very deep in science and you saw the opportunity that it didn't really get a chance to get out of the lab and go into the outside world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3793,
+      "timestamps": [
+        {
+          "offset": 3793,
+          "raw": "[00:04:17]",
+          "seconds": 257
+        }
+      ]
+    },
+    {
+      "end": 4204,
+      "excerpt": "And that inspired you to focus on venture capital so you can provide the right kind of capital to the right entrepreneur. So we all benefit from ideas like that in the future. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4028,
+      "timestamps": []
+    },
+    {
+      "end": 4427,
+      "excerpt": "[00:04:39] Consuelo Valverde: Yeah, I think that touches on several things that I'm very passionate about. So one, of course, is science and technology, entrepreneurship, and another one, Mexico, being an emerging market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 4206,
+      "timestamps": [
+        {
+          "offset": 4206,
+          "raw": "[00:04:39]",
+          "seconds": 279
+        }
+      ]
+    },
+    {
+      "end": 4669,
+      "excerpt": "I'm very passionate about emerging markets, the creation of wealth, transforming science into business and particularly in emerging markets. I think they're extremely exciting and great things can happen and can really transform societies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4429,
+      "timestamps": []
+    },
+    {
+      "end": 4859,
+      "excerpt": "[00:05:05] Gopi Rangan: I can relate to this because one of my first investments was in a startup that came out of a university research project, and eventually that turned into a product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4671,
+      "timestamps": [
+        {
+          "offset": 4671,
+          "raw": "[00:05:05]",
+          "seconds": 305
+        }
+      ]
+    },
+    {
+      "end": 5124,
+      "excerpt": "It required the leadership of a visionary entrepreneur to take it from research to product, and eventually the company went IPO. So I'm very, very happy that I had a chance to contribute to that journey. But I'm very curious, what kind of topics do you focus on? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4861,
+      "timestamps": []
+    },
+    {
+      "end": 5338,
+      "excerpt": "[00:05:30] Consuelo Valverde: Our investment thesis is that we're early stage, so we partner with entrepreneurs early and we focus on difficult and important problems instead of focusing on specific technologies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 5126,
+      "timestamps": [
+        {
+          "offset": 5126,
+          "raw": "[00:05:30]",
+          "seconds": 330
+        }
+      ]
+    },
+    {
+      "end": 5799,
+      "excerpt": "We invest in science and technology enabled startups in three pillars, environment, society and health on a global scale. So within the society pillar, our main focus has been financial inclusion. In the health pillar, it has been mainly treatment of chronic disease and diagnostics. And in the third pillar, environment, it has been water and energy efficiency, and now we're very strongly focused on food and agriculture from the climate change perspective.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5340,
+      "timestamps": []
+    },
+    {
+      "end": 6629,
+      "excerpt": "So that's our focus. And geographically, we have even the LATAM part in our name, SV for Silicon Valley, LATAM for Latin America. For us, that means that we invest in entrepreneurs that are either coming from or expanding to Latin America. So that means we are not only investing in founders that are targeting a Mexican market, a Brazilian market or Latin America as a whole, which is something we do in the FinTech space, which where it wouldn't make so much sense that we were expecting a startup, for example, a banking platform to go from Mexico to come to the U. S. It wouldn't make so much sense, and the market is big in Mexico. That's not required. However, in other areas, and to showcase even what we do, investments outside LATAM, we have a startup in Fund One, HealthCube that it was founded in New Delhi, in India.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5801,
+      "timestamps": []
+    },
+    {
+      "end": 6770,
+      "excerpt": "It's bringing diagnostics to billions on their serve. And we took it to Latin America. And now is going to pass through the U. S. as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6631,
+      "timestamps": []
+    },
+    {
+      "end": 6974,
+      "excerpt": "[00:07:18] Gopi Rangan: Oh, that's very interesting. So you, you focus on startups that are either coming from Latin America or startups anywhere else in the world, but looking to go into Latin America.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6772,
+      "timestamps": [
+        {
+          "offset": 6772,
+          "raw": "[00:07:18]",
+          "seconds": 438
+        }
+      ]
+    },
+    {
+      "end": 7363,
+      "excerpt": "[00:07:29] Consuelo Valverde: Yes, we like to be a connector. I think Silicon Valley is a great place to be plugged in in the day to day basis. And in that sense, we like as I think I share with you like emerging emerging markets. And I think something there's the opportunity to have something, for example, from Indonesia or from India, that would be very useful also in Latin America.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 6976,
+      "timestamps": [
+        {
+          "offset": 6976,
+          "raw": "[00:07:29]",
+          "seconds": 449
+        }
+      ]
+    },
+    {
+      "end": 7716,
+      "excerpt": "So we're bridging, you know, by being here in Silicon Valley, where we connect with entrepreneurs from all over the world and through also the government fellows network. And in general, we're able to do that and provide additional value even for founders that are coming out of Stanford University, UC Berkeley or top research institutions like UCSF.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7365,
+      "timestamps": []
+    },
+    {
+      "end": 8018,
+      "excerpt": "[00:08:12] Gopi Rangan: Is there any difference in the way you look at entrepreneurs and evaluate opportunities with the perspective that you have, and how is it different from a typical startup that focuses on its own geography? The most common thing that I would see is the Silicon Valley company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7718,
+      "timestamps": [
+        {
+          "offset": 7718,
+          "raw": "[00:08:12]",
+          "seconds": 492
+        }
+      ]
+    },
+    {
+      "end": 8208,
+      "excerpt": "[00:08:27] Consuelo Valverde: Yeah. So we do use a very rigorous investment decision process, which is a decision analysis framework that I am aware you also use at Sure Ventures, correct?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 8020,
+      "timestamps": [
+        {
+          "offset": 8020,
+          "raw": "[00:08:27]",
+          "seconds": 507
+        }
+      ]
+    },
+    {
+      "end": 8280,
+      "excerpt": "[00:08:38] Gopi Rangan: Yes, I do. I'm a big fan of Clint and Miriam. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8210,
+      "timestamps": [
+        {
+          "offset": 8210,
+          "raw": "[00:08:38]",
+          "seconds": 518
+        }
+      ]
+    },
+    {
+      "end": 8584,
+      "excerpt": "[00:08:42] Consuelo Valverde: Yeah, me too. I'm big, big fan of them and extremely grateful for all I've learned through them and also for their openness in putting this framework available. And when I read Clint's article that was published in Kaufman fellows, it was also a day that really marked me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 8282,
+      "timestamps": [
+        {
+          "offset": 8282,
+          "raw": "[00:08:42]",
+          "seconds": 522
+        }
+      ]
+    },
+    {
+      "end": 8892,
+      "excerpt": "I was so glad that I found that because I was searching for better ways of making decisions. I was not feeling very comfortable with what I was hearing from. And researching overall. So that's the way we apply it. I think it's very useful, particularly when you are investing in multiple kind of verticals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8586,
+      "timestamps": []
+    },
+    {
+      "end": 9204,
+      "excerpt": "If you look at venture investing from the technology side that we don't consider ourselves experts in a particular technology. And I think it would be really hard to consider yourself an expert on a specific scientific field, unless you're there in the day to day basis, because technology is evolving so fast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8894,
+      "timestamps": []
+    },
+    {
+      "end": 9488,
+      "excerpt": "I was having a conversation this week with a friend of mine that she has a postdoc in oncology, and she was telling me that when she took some courses on immunology, all the materials were papers because the research was coming out so quickly and that she needed to kind of refresh.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9206,
+      "timestamps": []
+    },
+    {
+      "end": 9877,
+      "excerpt": "And she was sure that now things have changed so much in the past six years. So that proves that it's really hard if you're running a venture fund that we would continue being so involved in the day to day, except from, of course, being in the ecosystem and talking to entrepreneurs and brilliant minds that we get exposed to. And we get to do that through the decision analysis process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9490,
+      "timestamps": []
+    },
+    {
+      "end": 9967,
+      "excerpt": "We have to talk to experts in the field, and we put that into the decision models also. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9879,
+      "timestamps": []
+    },
+    {
+      "end": 10265,
+      "excerpt": "[00:10:24] Gopi Rangan: It's hard enough to evaluate opportunities, evaluate startups when there is very little information available. And it's even more difficult in deep tech and science-based startups because it's, it requires a significant expertise to understand the nuances of the business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9969,
+      "timestamps": [
+        {
+          "offset": 9969,
+          "raw": "[00:10:24]",
+          "seconds": 624
+        }
+      ]
+    },
+    {
+      "end": 10318,
+      "excerpt": "How does decision analysis help you in this space? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10267,
+      "timestamps": []
+    },
+    {
+      "end": 10594,
+      "excerpt": "[00:10:44] Consuelo Valverde: Very much. We are still a young venture capital company. However, the first investment biotech investment of fund one, we had a significant markup in one year. It was a three X markup in one year since we invested from the seed to the series A.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 10320,
+      "timestamps": [
+        {
+          "offset": 10320,
+          "raw": "[00:10:44]",
+          "seconds": 644
+        }
+      ]
+    },
+    {
+      "end": 11023,
+      "excerpt": "And that was the first biotech investment. So I think the decision analysis framework does help. I didn't take 20 biotech investments or five or nothing like that to, to have a markup. It took the very first one, you know, because it's very disciplined. Always, you get so excited when you meet an entrepreneur very charismatic and you connect with the dreams, the vision of a company, the potential of a particular technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10596,
+      "timestamps": []
+    },
+    {
+      "end": 11382,
+      "excerpt": "So I think in my opinion, it's easy to fall in love with all of that. So how do you go into digging deeper and what exactly it means and what are the different scenarios of what can happen all the way from a write off to being a unicorn and all that is in between and what it needs to happen. I think it would be really hard to do it without this framework.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11025,
+      "timestamps": []
+    },
+    {
+      "end": 11736,
+      "excerpt": "[00:11:48] Gopi Rangan: Yeah, decision analysis is a very powerful tool for me as well. Ulu Ventures is the one that created this process, which they openly share with everybody else. The way it helps me is as an investor, I have 10 topics that I can do due diligence and research on out of the 10 topics. I don't have time to do all 10 of them deeply.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11384,
+      "timestamps": [
+        {
+          "offset": 11384,
+          "raw": "[00:11:48]",
+          "seconds": 708
+        }
+      ]
+    },
+    {
+      "end": 12060,
+      "excerpt": "It's like doing a PhD on on the startup. That's not the objective. The goal is to get to a decision. Yes or no. And what's the valuation? What are the terms of the investment? And getting to that answer by choosing the most important one or two topics that I want to investigate, and the rest of the risks, they are risks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11738,
+      "timestamps": []
+    },
+    {
+      "end": 12387,
+      "excerpt": "There's nothing we can do to change it or nothing we can do to, if we dig deeper, we're not going to discover anything significantly new. It is what it is. But there are one or two areas where I can decide whether this is a risk that I wanna take or not to make that process simpler. I think decision analysis helps me a lot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12062,
+      "timestamps": []
+    },
+    {
+      "end": 12631,
+      "excerpt": "I'm really curious to see how your genomics experience helps you. You were in a PhD program and you dropped out of it. That I'm sure gives you a strong edge. Although you didn't complete the PhD program, you have deep expertise in this area. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12389,
+      "timestamps": []
+    },
+    {
+      "end": 12784,
+      "excerpt": "[00:12:59] Consuelo Valverde: Well, I mean, I can have a conversation, but I wouldn't consider I have a deep expertise, especially since I dropped out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 12633,
+      "timestamps": [
+        {
+          "offset": 12633,
+          "raw": "[00:12:59]",
+          "seconds": 779
+        }
+      ]
+    },
+    {
+      "end": 13278,
+      "excerpt": "I think it was around the year 2000 with the sequencing of the human genome. Even though my background is electrical engineering and all that, I got so curious into biology and especially the new field that was coming out by informatics. And I wanted to get into that field. So I spoke back then with one of the top scientists from Mexico that he was coming back from Johns Hopkins University, where he did a PhD in genomics, and he wanted to launch the National Genomics Institute of Mexico.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12786,
+      "timestamps": []
+    },
+    {
+      "end": 13695,
+      "excerpt": "So he came to to see the governor of my state. I was in that meeting and I was so excited about the potential and and all that that could bring to Mexico. So I spoke with him about this Masters in bioinformatics that I was thinking of doing in the UK. And then he told me, \"no, I think you should join our PhD program in genomics medicine that we're launching, because we need diversified backgrounds and all that.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13280,
+      "timestamps": []
+    },
+    {
+      "end": 14017,
+      "excerpt": "And I said, \"well, but I don't know anything about biology except what I learned through school. And of course, I don't know anything about medicine.\" He was like, \"no, you don't need that. We have all that, but we do need the tech, the engineering aspect of the rest.\" So that's how I ended up joining that PhD program.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13697,
+      "timestamps": []
+    },
+    {
+      "end": 14207,
+      "excerpt": "And I also thought, you know, it would be a great opportunity to learn and also to be very close at what was the foundation of that National Genomic Institute of Mexico, which did happen. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14019,
+      "timestamps": []
+    },
+    {
+      "end": 14353,
+      "excerpt": "[00:14:33] Gopi Rangan: Why did you drop out? Uh, did you find something super, super exciting and timely that it had to be followed right away?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14209,
+      "timestamps": [
+        {
+          "offset": 14209,
+          "raw": "[00:14:33]",
+          "seconds": 873
+        }
+      ]
+    },
+    {
+      "end": 14361,
+      "excerpt": "Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14355,
+      "timestamps": []
+    },
+    {
+      "end": 14726,
+      "excerpt": "[00:14:39] Consuelo Valverde: Yeah. So it's really interesting. So at the same time that I was doing that PhD, I was also doing the master's in science entrepreneurship in London. So I was commuting every month between Mexico city and London. Okay. I was crazy back then I didn't sleep much. And I really thought I didn't need to sleep more than four hours a day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 14363,
+      "timestamps": [
+        {
+          "offset": 14363,
+          "raw": "[00:14:39]",
+          "seconds": 879
+        }
+      ]
+    },
+    {
+      "end": 15303,
+      "excerpt": "And I was doing iron mans and I was very crazy. Very active. So I was doing both and then I participated in a business plan challenge. Yes, business plans were still a thing. That was 2004, 2005 in the UK. And I was in the five finalist teams in the UK in this business plan challenge - turning a science endeavor into business. So there was a day that I had to pitch to the committee, the selecting committee. And it was exactly the same day that I had to present a project at the PhD in Mexico city. So of course I couldn't be in London and in Mexico city at the same time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14728,
+      "timestamps": []
+    },
+    {
+      "end": 15634,
+      "excerpt": "And I had a conversation back then with a director of the Institute. And I said, \"this is where I am. I don't know what to do. I'm very conflicted, but this means a lot to me also to having reached so far with this program.\" And he said, \"I totally understand you're not doing the PhD because you wanted to earn a PhD\" precisely.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15305,
+      "timestamps": []
+    },
+    {
+      "end": 15813,
+      "excerpt": "And I had invested already so many hours and effort into the master's program plus the business plan challenge. So I decided to fly to London and that's how I dropped out. Yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15636,
+      "timestamps": []
+    },
+    {
+      "end": 16044,
+      "excerpt": "[00:16:12] Gopi Rangan: This is very interesting. I've met so many venture capital investors and the common thread that I see is that there are extreme situations in each one of their stories and some of them are truly eccentric.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15815,
+      "timestamps": [
+        {
+          "offset": 15815,
+          "raw": "[00:16:12]",
+          "seconds": 972
+        }
+      ]
+    },
+    {
+      "end": 16381,
+      "excerpt": "And I think your case is very unique. It matches the pattern that I've seen that they're very unusual paths that people pursue. And it's very interesting to see the choices that you pursued. I want to get back to the question on how you look at startups. Maybe you could give an example of a startup and walk us through the experience.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16046,
+      "timestamps": []
+    },
+    {
+      "end": 16537,
+      "excerpt": "Like what was the engagement? What kind of questions you ask them? How was your journey of getting to know them? And what was the outcome of the startup? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16383,
+      "timestamps": []
+    },
+    {
+      "end": 16834,
+      "excerpt": "[00:16:53] Consuelo Valverde: Yes, I don't know if you we will agree, but I think one of the very, very, very best things of being a venture capitalist is to be able to meet the and invest and be part of journeys of brilliant minds that are looking to transform the world in some meaningful way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 16539,
+      "timestamps": [
+        {
+          "offset": 16539,
+          "raw": "[00:16:53]",
+          "seconds": 1013
+        }
+      ]
+    },
+    {
+      "end": 17214,
+      "excerpt": "I think we can have really hard days and then that happens and you're like, \"yes, it's so worth it.\" And I had one of these days when I found this founder Vilash Poovala, who I met during our first investment of Fund One in Clip, which is the equivalent of Square. But in Mexico. Now it's a big, one of the biggest startups in Mexico founded by Adolfo Babatz and Vilash Poovala.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16836,
+      "timestamps": []
+    },
+    {
+      "end": 17517,
+      "excerpt": "He was a CTO back then. Later on he left the company. We stayed in touch. And then he moved to Berlin. He sent me an email after the last investment of Fund One, when I was in just my second day of a holiday. And he told me that he was ready to start his new venture. And it was going to be in Mexico.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17216,
+      "timestamps": []
+    },
+    {
+      "end": 17848,
+      "excerpt": "So he will move back to Mexico and he would like me to invest in that startup that he had reached out to a couple of investors back then. And I thought it was really, really interesting. And because I was in Europe that summer. And he was in Berlin. We decided to meet in London and we met at the Starbucks in Paddington station.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17519,
+      "timestamps": []
+    },
+    {
+      "end": 18275,
+      "excerpt": "I will never forget. And we spent there several hours and then met over a couple of days in London. Talking about the startup and what the journey would look like. And I really felt like this is something I really need to be part of. And I felt very, very passionate about what Village was doing. Of course, no decision analysis at that moment yet, but I thought we didn't have a fund to yet fund one was completely invested.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17850,
+      "timestamps": []
+    },
+    {
+      "end": 18776,
+      "excerpt": "And when I got back to San Francisco, I decided, yeah, let's go into all the decision analysis process and all that. We had very good results. And I invested in, in Oyster, wrote the first check, warehoused the investment and transferred it to Fund 2 in our first close, which happened last year, 2019. So, I think that clearly explains, for me, that is as good as it gets to be part really early, you know, in this entrepreneur's journey to have the privilege to write the first check to a founder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18277,
+      "timestamps": []
+    },
+    {
+      "end": 19146,
+      "excerpt": "I think that's amazing to be able to be part of even drafting that first deck. What is going to be the business model, the name. We facilitate to sessions to come up with a name, the branding and all that. So for me, that is as good as it can get in venture. And of course, if it translates into, into a very good investment later on, of course, that really pays off. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18778,
+      "timestamps": []
+    },
+    {
+      "end": 19290,
+      "excerpt": "[00:19:43] Gopi Rangan: What did you talk about at the coffee shop in Paddington station? What were the questions? What were you looking for? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19148,
+      "timestamps": [
+        {
+          "offset": 19148,
+          "raw": "[00:19:43]",
+          "seconds": 1183
+        }
+      ]
+    },
+    {
+      "end": 20023,
+      "excerpt": "[00:19:49] Consuelo Valverde: Yes. We were talking about what was his vision, where he would like to take the company. What would success mean for him? What he would look for in a co founder. Also, what is, what was important to having a co founder? When he would quit his job at that time in, in Germany and when he would finally move to Mexico city, how things would happen. Of course, we also spoke about Mexico, the situation back then, because the current president of Mexico had already been elected. So we also had the conversation about Mexico, how it could, this could change Mexico into the future if it brought new risks, how I saw all that, the macro economics also of Mexico were really important in that conversation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 19292,
+      "timestamps": [
+        {
+          "offset": 19292,
+          "raw": "[00:19:49]",
+          "seconds": 1189
+        }
+      ]
+    },
+    {
+      "end": 20326,
+      "excerpt": "[00:20:35] Gopi Rangan: This is very interesting. The reason why it's interesting to me is it's easier for us to relate to people from the same culture, but in this case you, you meet people all over the world and you still find a way to relate to them irrespective of what background they come from. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20025,
+      "timestamps": [
+        {
+          "offset": 20025,
+          "raw": "[00:20:35]",
+          "seconds": 1235
+        }
+      ]
+    },
+    {
+      "end": 20439,
+      "excerpt": "[00:20:51] Consuelo Valverde: Yeah, because, for example, you and me, I'm sure there are lots of commonalities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 20328,
+      "timestamps": [
+        {
+          "offset": 20328,
+          "raw": "[00:20:51]",
+          "seconds": 1251
+        }
+      ]
+    },
+    {
+      "end": 20744,
+      "excerpt": "Even if you, we grew up in very different places and had very different life paths so far, I'm quite positive we would have commonalities where we can really connect. And if you can connect in what you're very passionate about, specifically, very meaningful, like for Vilash, he's a serial entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20441,
+      "timestamps": []
+    },
+    {
+      "end": 21086,
+      "excerpt": "He's very experienced in the fintech space. So, Oyster financial is like extremely meaningful for him. It's like everything he has done in his past has been to be where he is right now with Oyster, you know, and that was even something he mentioned. At the human level you can connect with that when you see an entrepreneur that has dreams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20746,
+      "timestamps": []
+    },
+    {
+      "end": 21304,
+      "excerpt": "And of course, which is something that, that, uh, we haven't mentioned that I find very important is to be aligned in principles. with the LPs in our fund, but also with the entrepreneurs and the people in our team. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21088,
+      "timestamps": []
+    },
+    {
+      "end": 21469,
+      "excerpt": "[00:21:48] Gopi Rangan: That's what makes the job fulfilling. I want to switch to the next segment, uh, where I ask you about your community leadership activities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21306,
+      "timestamps": [
+        {
+          "offset": 21306,
+          "raw": "[00:21:48]",
+          "seconds": 1308
+        }
+      ]
+    },
+    {
+      "end": 21543,
+      "excerpt": "Is there a nonprofit organization that you're passionate about and why? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21471,
+      "timestamps": []
+    },
+    {
+      "end": 22179,
+      "excerpt": "[00:22:03] Consuelo Valverde: Yes, I am a member of the Battery Powered. Through that, I met this non profit in San Francisco called SF CASA, which is really interesting. CASA is home in Spanish. So I was like, okay, why is it has this name in Spanish? And SF CASA basically is, they focus on helping, supporting abused and neglected foster youth in San Francisco by providing what they call a CASA and the CASA stands for having a court appointed a special advocate for that young child or teenager. I've always connected with the fact how privileged we are of having a close family, a mom, a dad that they're nurturing us every day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 21545,
+      "timestamps": [
+        {
+          "offset": 21545,
+          "raw": "[00:22:03]",
+          "seconds": 1323
+        }
+      ]
+    },
+    {
+      "end": 22703,
+      "excerpt": "And I know that it's a huge privilege. And many young ones that unfortunately through life, they either don't have it from when they are born or they lose it through their life. And it makes life so much more difficult having even to experience homelessness. I know that. So it's something that I really want to get directly more involved with with SF Casa. For me, this particular youth is very important and being able to kind of give back or or be supportive of the youth that hasn't been as fortunate as we have been. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22181,
+      "timestamps": []
+    },
+    {
+      "end": 22866,
+      "excerpt": "[00:23:23] Gopi Rangan: It's great to see that an organization like that exists and serves the community. Thanks a lot for sharing your experience and insights. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22705,
+      "timestamps": [
+        {
+          "offset": 22705,
+          "raw": "[00:23:23]",
+          "seconds": 1403
+        }
+      ]
+    },
+    {
+      "end": 22914,
+      "excerpt": "[00:23:30] Consuelo Valverde: Thank you, Gopi.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Consuelo Valverde",
+      "start": 22868,
+      "timestamps": [
+        {
+          "offset": 22868,
+          "raw": "[00:23:30]",
+          "seconds": 1410
+        }
+      ]
+    },
+    {
+      "end": 22993,
+      "excerpt": "I have really enjoyed this and one time we have to do a podcast about you. . ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22916,
+      "timestamps": []
+    },
+    {
+      "end": 23259,
+      "excerpt": "[00:23:36] Gopi Rangan: Yes, we will do that. Yes. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22995,
+      "timestamps": [
+        {
+          "offset": 22995,
+          "raw": "[00:23:36]",
+          "seconds": 1416
+        }
+      ]
+    },
+    {
+      "end": 23375,
+      "excerpt": "Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23261,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "a3a61ab2874ba49e6ef698bd2fcc53e065224fbeffe1c328ee8542286840ece9",
+  "text_sha256": "e5c50f7cbb2a5a21e48f17b9bb2ed6619887cbead3bd6e680b9231b68b4f03f6"
+}

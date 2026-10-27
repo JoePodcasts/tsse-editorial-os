@@ -107,3 +107,16 @@ python3 newsletter_archive_importer.py
 ```
 
 The importer will parse the archive and update `data/newsletter_history.csv` with any reliably extracted historical issues.
+
+## Quote-card workflow (Milestone 1 approved)
+
+A local deterministic renderer, source-provenance checks, preview packages and
+explicit approval records are available in `publishing/`. See
+[the implementation and review guide](docs/quote-card-milestone-1.md) for setup,
+input schema, approved template rules, portrait approval workflow and tests.
+Generated images are not approved merely because automated validation passes.
+This milestone does not upload to Google Drive or publish production assets.
+
+### Portrait processing and reusable approved masters
+
+See [local portrait-processing pipeline](docs/portrait-processing.md) for the separate, non-generative segmentation, alpha matting and foreground-color recovery stage. Approved portrait masters are reused without reprocessing; new candidates require human review. Use the isolated portrait runtime to run all tests: `.venv-portraits/bin/python -m unittest discover -s tests/publishing -v`.

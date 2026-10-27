@@ -1,0 +1,187 @@
+Our model is optimized for speed. We are looking for businesses that can grow very quickly. Those businesses tend to be led by people that move fast and are very precise and very specific about what it is they're trying to do.
+
+[00:00:19] Gopi: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision.
+
+[00:00:40] Welcome to The Sure Shot Entrepreneur. My guest today is the founder and managing partner at Restive Ventures. He focuses on investing in startups that build the future of financial services. We're gonna learn more about what that means. Ryan, welcome to The Sure Shot Entrepreneur.
+
+[00:00:58] Ryan: Oh! Thanks for having me, Gopi. I'm excited to be here.
+
+[00:01:01] Gopi: Tell us about yourself starting with where you grew up. You grew up quite close to Silicon Valley but not really in Silicon Valley. You were in Tahoe.
+
+[00:01:09] Ryan: Yeah. Yeah. I moved to Tahoe when I was about five. But immediately before we moved to Tahoe, we actually lived in San Francisco for about a year. Some of my first memories were actually actually in San Francisco, although, I mean, obviously different place and I had no real connection, obviously to tech as, as a four year old. But I had really fond memories of living in the city. So yes, as I got older and could make decisions on where I wanted to live, I wanted to go go back to the Bay Area and be in the city. So it always was close to my heart. But yeah, I grew up in Lake Tahoe which is a nice place. If you're from Northern California, you're aware of it.
+
+[00:01:39] So I spent a lot of time outdoors and I got to be pretty good skier by the time I left .When I was 16 though, I moved to Las Vegas. I actually graduated high school in Las Vegas.
+
+[00:01:49] Gopi: Very interesting. You're almost a local to Silicon Valley in Reno Tahoe, and then you moved to Las Vegas. How did you get into tech? What attracted you? Silicon Valley in the end?
+
+[00:02:01] Ryan: Actually I was probably more interested in financial services early on. In high school I had a job at Wells Fargo Bank as a teller. That was one of the first jobs I had. So I was always interested in financial services and I was also interested in entrepreneurialism. After college, I briefly had had my own business, which was a candy business. I was actually in the toffee business. Did that for a little while and it was like it's a very seasonal business. So after Christmas came and went, toffee business really dropped off. I needed to find something else and I got a job with a startup up here in San Francisco that was in the travel and tourism space. They have a product called the Go-Kart, which is basically like turns all the attractions in the city into what one ticket you can buy and kind of go around to all them.
+
+[00:02:41] I got a job there and that was my first venture-backed startup and like many people who join venture-backed startups. It didn't fully work out at least for me. At some point, hiccup in the road and, you know, maybe did a down round or something happened. I ended up losing that job and I went to graduate school. I think between the two of them, between interest in financial services and entrepreneurialism kind of started to circle around kinda what is now FinTech. But that was a while ago now.
+
+[00:03:05] Gopi: You went from selling candies to deeper parts of financial services and after grad school and eventually you decided to start your own venture fund. That's like a very interesting route in your career. Why is venture capital interesting to you?
+
+[00:03:21] Ryan: Well, so there's a little bit more linearness to the path honestly. I had had this job with a startup, so I saw how tech companies worked and I thought that was really interesting and I'd always had this interest in financial services and particularly around financial inclusion.
+
+[00:03:33] When I actually went to graduate school, it was really to study microfinance and how to think about providing access to capital and emerging markets for financial inclusion issues. That's what took me to Yale. I spent a couple years there and then after finishing, I actually worked about five years in emerging markets. I worked all over the world and eventually was running a strategy practice for a small boutique consultancy. Almost the entirety of the business I was running was in thinking around how to leverage technology to expand financial services. We did a lot of work on mobile money and mobile banking.
+
+[00:04:04] I remember actually [this is about 2013] when I was kinda looking to transition the next thing and I went to an event where I heard a really famous VC speaking at the time and there was a Q&A afterwards and I had asked, you know, why isn't there more venture capital money flowing in emerging markets? He was like, "Well, it's just too far away. You know we like to kind of invest pretty close and like no one really wants to be investing in like Africa. No one knows that market at all."
+
+[00:04:25] Gopi: Sometimes even Tahoe is too far away.
+
+[00:04:27] Ryan: Yeah. Sometimes East Bay is too far away sometimes. And so, I think it was illuminating both on how much venture has changed, but also how little attention was really being focused in a venture community on financial services even, even that late. So I had an opportunity, I worked briefly for Silicon Valley Bank on a payments team and really got to know the US market there and was there, you know, onboarded Coinbase into the US banking system.
+
+[00:04:53] I spent a lot of time with Stripe and Square and Uber, Airbnb in the early days. I saw firsthand just how challenging it was for startups to engage with the financial services ecosystem. I had assumed up until that point in my career that the US was a pretty efficient market and that these startups were basically kind of either chipping around the edges or maybe weren't really doing anything that transformational. I realized that the US market is actually very backwards, very inefficient, very closed off to most economic participants in our society. So, when I made the move into venture, I had also an unconventional start. I had an opportunity to work with a non-profit, which is now called the Financial Health Network. And then JP Morgan Chase to launch obviously an accelerator to support our early stage FinTech companies. That's where I got my start in investing and there's elements of the model that we brought to what is now Restive that date from that - really thinking around how do we help unblock the path for founders as they grow and scale their businesses and help them move more quickly.
+
+[00:05:55] Gopi: In 2007, I met Muhammad Yunus. That's the year he won the Nobel Prize and he's that leader in the microfinance. I saw the opportunity in emerging markets to build financial services solutions, and I think the opportunity is still huge, but I see where you're coming from with the experience in tech startups and in financial services, you truly believe that venture capital plays a very important role in bringing innovation to financial services. Even in the US there's a massive opportunity.
+
+[00:06:24] Ryan: Absolutely. There's obviously very large opportunities in emerging markets just in the number of people that are served by it and how kind of nonexistent the banking system is but the US is actually a much larger market. If you're looking at from just a market perspective, the US financial service industry is probably the largest concentration of revenue and profits really in the industry globally. It counts for about 15 to 20% of the US GDP and the US is obviously a very large market.
+
+[00:06:51] So there's really huge opportunities in this market to disrupt the incumbents and obviously to build many meaningfully large businesses. It's easy to kind of overlook just because of how advanced our economy is but I really think this is one area where there's really just huge untapped opportunities still.
+
+[00:07:06] Gopi: So let's talk about Restive Ventures. It was previously called Financial Venture Studios. What is Restive Ventures about? What is your focus? What kind of companies do you invest in?
+
+[00:07:17] Ryan: Ideally, we wanna be that first institutional partner. We're very comfortable taking very early-stage risk. We are happy to be first money in and we work to systematically connect our founders to the broader financial services ecosystem. We think of that ecosystem as really having four constituent parts. There's potential partners. If you're touching money in any way, shape or form, you need to work with other people. The financial service ecosystem is actually quite intertwined. So, building those relationships with banks, insurance companies, payments companies, now even larger fintech companies often takes founders, you know, a lot of time and it can result in a lot of false starts and slow them down.
+
+[00:07:53] So what we want to do is, after we invest, work the system out to connect our founders to those partners if they're working in a regulated space. The one opportunity where you can actually really build a meaningful relationship with regulators and policy makers is the pre-seed and seed stage?
+
+[00:08:06] It's somewhat counterintuitive, but at that stage you're still kinda a plucky entrepreneur. You're the underdog. Everyone wants to root for you. And so it creates an opportunity to build meaningful long-term relationships. We spend a lot of time helping our founders connect to downstream investors.
+
+[00:08:19] We think these businesses, by definition, have to be very large and are gonna need to raise a decent amount of capital. We wanna help our founders build those relationships quickly. And then by working with our founders and cohorts of firms together, we can help them build connectivity with each other and help them build some community.
+
+[00:08:33] At the end of the day, the investor doesn't really know what you're going through as a founder. Intellectually, some of us might. Both my partners have been founders before and so you remember that. But that's very different than being in trenches.
+
+[00:08:43] By batching up our companies after we invest, and taking it through this experience together, they can build some real meaningful relationships between them. I think it's really useful that as you're dealing with all the blocking and tackling you have peers that are going through the same thing.
+
+[00:08:55] We invest additional capital in our companies. So, our initial check size is usually about $250,000. Then we'll look to rapidly scale our position up until including through the Series A. We'll go up to usually about $2.5 million of principal exposure.
+
+[00:09:07] Gopi: So you like to be the first institutional capital partner for founders, and you help the founders connect with other founders so they can learn from each other and you stay for the long term by supporting them through the journey of building the business.
+
+[00:09:22] Let's go to that starting point where you meet the founders as the first institutional investor in the company. What happens in that first meeting? Feel free to give examples of companies that you've invested in. What was the conversation about? What did you look for? What came through in that first meeting?
+
+[00:09:39] Ryan: So, it's never too early to talk to us. We really try to avoid ever saying, "Hey, this is too early." that could be a crutch for other obvious problems that you just don't want to tell the founder.
+
+[00:09:49] Gopi: Can I ask why? Yeah. I know I'm in the same space as well. Why is it hard to tell the founder the real reason?
+
+[00:09:56] Ryan: Well, sometimes you don't know. I actually think that that's it. You don't know. It's easy to hear something's too early, everything is too early. There are public companies that are too early for other public investors. You can always say something's too early. In some cases, objectively true. If you're a growth stage investor or you're a near seed-stage founder, that's probably a waste of your time. That investor knows that in that case.
+
+[00:10:17] I think when you're a seed investor and you're encountering a founder and you're saying, "ah, I think it's probably too early. I'd like to see some more traction" I think you didn't really understand the story, you didn't really understand what they're trying to do. Or, you understood it, but you don't like it, and you want them to prove elements of it, that would just be additional evidence. Or three, you understood it and you don't like it, and you just don't wanna say why you don't like it.
+
+[00:10:40] But in all cases it's a useful thing to say. It [not saying] does founders are great disservice because even saying, "Hey, I don't think you guys are credible founders" is better than saying something's too early.
+
+[00:10:50] Now obviously we wouldn't say that unless person's really a jerk or something, but like, but you can figure out like, "hey, we'd like to see more of this type of experience in the team." Or, "these are the types of things we'd wanna see to demonstrate that you solve this problem or mitigated this risk."
+
+[00:11:04] Gopi: You turn it into a positive discussion in the end. But founders, when they hear from investors that this is too early, it can mean many things. I put you on the spot to answer this question, but thanks for sharing your candid thoughts on this. Let's go back to what happens in that first meeting.
+
+[00:11:20] Can you give an example of a startup, like what happened in that first meeting? What was the conversation about?
+
+[00:11:26] Ryan: Yeah, one of the first company investments we made where we were the first money and was a company called FairPlay - a product that helps eliminate bias; algorithmic decision making processes. So, if you're using algorithms to underwrite loans, those algorithms have the same biases that people do. What Fairplay does is their software looks for those biases and then eliminates them in real time so that that consumer or business that got turned down can get retargeted or reevaluated and approved. This isn't extending credit or expanding the aperture of what the target is. It's just making sure that your target is your target. So if you say, "Hey, I'm gonna approve everybody that's a credit score above 660 and makes more than $50,000 a year" and you're rejecting people who fit that bill because there's some sort of bias in your model, that's what FairPlay does.
+
+[00:12:10] We bet this team as we had the idea they both had left another company where they were doing something very similar. They'd known each other for a really long time and each of us - there's three of us on the investment side as far as meeting companies and evaluating them - we all have a little bit of a different approach to what we look for, and all of us talk to every founder, usually independently before we invest.
+
+[00:12:30] It allows us to get a different perspective on what we're looking for. I generally like to have the founders just give me like a two minute on the business, like just a high level. I prefer not to get a pitch with a deck. I find that it wastes a lot of time. But if a founder prefers to do that, I'll let them do it.
+
+[00:12:46] Gopi: You mean during the meeting?
+
+[00:12:48] Ryan: Yeah, during the meeting, I mean, I usually don't need like that much. Sometimes it's easier just to hear like, okay, hey, what are you trying to do? I'm trying to do this. Cool. All right. Now tell me like why, like what do you, like, what's your insight? And so you're looking usually for someone who has a really special insight in the market. They have some knowledge that is not widely held.
+
+[00:13:06] What I look for is if their internal logic is coherent. I try to really listen for that. So, hey, I got a FinTech that I'm gonna make payments on the moon. Okay, why is the moon a good place to do payments? Why are you the right person to do that? And not be like, oh, that sounds idiotic. There's no reason for payments on the moon.
+
+[00:13:26] What exactly is this person trying to do? What are the pieces at the table they're gonna bring to it? Why do I think this is gonna work out? And really listening to their logic and their internal way of thinking about it, rather than imposing my own world of view on the idea. And then trying to see, does that logic make sense? That's really what I'm looking for in a first meeting.
+
+[00:13:43] Gopi: So as a first institutional investor, you see a lot of outlandish ideas that kind of borderline crazy, but there's an internal logic to explain why it makes sense. And when some of these assumptions come true, there will be an opportunity in the future. That's how the founders explain it. How long does it take for you to go from the first meeting, first point of interaction to say when you decide that, "yeah, this is a company I want to invest in."
+
+[00:14:11] Ryan: If they're really strong within a day.
+
+[00:14:14] Gopi: As short as within a day. Can you describe that process? Like what happens? Y ou mentioned that you like to meet founders independently and also consult with your partners later together. How does a typical process work for you?
+
+[00:14:26] Ryan: Yeah, so usually you find out about a company, either it can be like a, they directly source it we get a referral. We also get cold inbound. Today, I got two really good cold inbounds. We've got random email from someone I've never heard before and some other guy kind of a weird story from Twitter. I'll hop on a call with both those individuals. I usually schedule half an hour and if they have some materials, especially if it's a cold inbound, I'll probably wanna see a deck or something to make sure this makes sense or like have a look at the website.
+
+[00:14:53] But if it's a referral, like if you send someone, I'm obviously just gonna talk to him. And then if you sent me something that was like outside of my range was more technical, I'd probably bounce it to my partner, Tyler Griffin. And if it was something where you were really a small business, I, I'd bounce it to Cameron or other partner cause both of them just have more experience in those verticals.
+
+[00:15:10] But short from that, I'd probably just do the call. First call, just making sure they understand what we do, what our box is, check size, and getting a sense of what the deal terms are, just so we also make sure it's gonna be a fit from that range.
+
+[00:15:21] And then we'll have this usually about half an hour long call. And I guess I'll usually ask for like a two minute, but if the offender wants to walk through a deck, like we'll just kinda follow their lead. I'll then figure out like, is this something that we should spend time on? And if it's not, I'll try usually to turn them down on the call. I'll try to just say, "Hey, not a fit because of X, Y, Z. But you know, if, and if, and if it's not a fit from a structural thing, like let's say they're, they work at the outside of the United States or they're non-US company or they're further along, then I, you know, my offer to introduce 'em to somebody else.
+
+[00:15:51] But for the most part we'll try to turn them down right there. Or I'll take it back to the team. We have two calls during the course of the week; one on Monday where we run through our whole pipeline and then the other one back half of the week when we just kind of say, "Hey, is there anything that's really interesting that we need to prioritize?"
+
+[00:16:05] If it was a really good call, I'll put on Slack and be like, "Hey, someone else needs to talk to this person like today" and we'll try to get that process done very quickly. That happens extraordinarily rarely. I mean that's like maybe once or twice a year. More normally, we'll then do a call or I'll bounce it to another person, and then that other person will do a similar call structure.
+
+[00:16:27] Everyone has their different way of doing it. After two people have talked to the founder we'll put our heads together and say, "okay, is this worth us digging in?" At that point we try to determine who's gonna kinda lead that process, or if we really think there's a reason for the third person to talk to them, like we'll have that. But we'll try to have a point of view there after two. We need to make a go-forward-or- not decision. So, if you've talked to two people and we're still debating, then we're looking pretty seriously at it.
+
+[00:16:50] Every deal we need to talk to all three of us. Sometimes we'll bring in a senior advisor named Tom Brown. His background is in law and payments, and we've worked with him since we started the company. Sometimes we'll bring him in if we need another view. And, after you've talked to all three of us, we'll make a decision and then we'll usually offer to invest.
+
+[00:17:08] Gopi: How many companies do you invest in on average and every?
+
+[00:17:11] Ryan: Maybe about 15. A little more than one a month? Yeah.
+
+[00:17:14] Gopi: What percentage of companies you meet eventually turn into one of these 15 investments? How many companies do you roughly meet?
+
+[00:17:21] Ryan: I think probably somewhere between five and 700 a year. We also run an application process, so we'll run an application process before we kick off each of these cohorts. The throughput there is relatively low. It's maybe about 1% of the companies we'll invest in come through the application process. But it's not that much dissimilar from just the, the top of funnel, the general one, but that also helps us to kinda expand a circle a little bit of who we're talking to. If we're just relying on other venture funds or even people who might know enough to reach out to us, you end up unintentionally excluding a lot of businesses. So the application process helps us to really make sure we're not missing anything and I think really lowers the barrier to getting in front of us.
+
+[00:17:59] Gopi: The founder doesn't need to always come through a warm introduction. They can apply through your website.
+
+[00:18:05] Ryan: Or they just email us.
+
+[00:18:06] Gopi: Cold introductions are fine.
+
+[00:18:07] Ryan: Yeah. We take cold emails all the time. A well written cold email is great. If you send an email to everyone at the company, though, or it's just like obviously spam then like that doesn't count. But most emails where it's like, I can tell it's been written to me, it's a FinTech business - pretty low bar - if you have a FinTech business and you can personalize email "hi Ryan, I know you invest in seed-stage FinTech. I'll probably gonna read the rest of the email.
+
+[00:18:34] Gopi: I wanna talk about FinTech and trends in the market, let's finish this conversation.
+
+[00:18:38] Ryan: Yeah.
+
+[00:18:39] Gopi: No is the most common answer. What's the most common reason to say no? Let's say out of the 700 companies you meet, like 200, 300 of them are probably an immediate no, so let's forget that.
+
+[00:18:50] Ryan: Oh, it's like 500 immediate no. I think there's about a hundred FinTech companies created in the US each year that are investible. That means you have a plan, you're structured in an appropriate way. You know, you're a C corp. And where you've actually thought about the capitalization of the company and have thought about the types of investors you wanna bring. You've put together a team that you know makes sense. I think that's actually relatively small number. I think it's like a hundred-ish. And then of those, there's probably maybe a third to a half competitive financing rounds where there's multiple investors that are really excited about doing it. So, it's not that many companies.
+
+[00:19:24] I'd say the most common reason is like there's an obvious problem with the business. It's not structured properly. There might be a number of other competitors that do it. There's a lot of these evergreen ideas that never really seem to work. There are a lot of businesses that are very much just kind of tracking along broader trends. So like, you know, earlier this year everything was a web three business. Now there's a bunch of AI and that kinds of things. Those are usually not what we're looking.
+
+[00:19:47] The businesses that I think are real serious efforts at it, I'd say the reasons for them not being a good fit are we think maybe a lack of the right skills in the founding team, particularly usually lack of technical skill. That's a big piece of it. Another really common reason for turning off is, you know, the market they're going into might not be that lucrative or the market might not be that big. It might be like a really low-margin business where you can just tell that the scale that they would need to arrive to make it really profitable would be kind of beyond the realm of reasonable expectations.
+
+[00:20:15] One of the more common reasons we have is that we're not going to be that helpful to them. Our model is predicated us being like the most helpful investor. We start out with a relatively small check and we want to build that position via this very intensive kind of engagement model we have.
+
+[00:20:29] And so that doesn't work if we're not gonna be super helpful. If we're going to be just another random small check along for the ride, that's not gonna affect the fund performance.
+
+[00:20:37] Gopi: You don't wanna be a passive investor. You wanna be an active investor supporting the founders.
+
+[00:20:41] What happens if one of the partners really likes the company and another partner doesn't? What can the founder do to get over that hurdle? Or can they get over the hurdle if one partner doesn't like..
+
+[00:20:53] Ryan: So the third person?
+
+[00:20:53] Gopi: Yeah, the three of you. There's two possibilities for the founders to encounter challenges.
+
+[00:21:00] Ryan: Yeah. That's why we have three people. If I like it and Cameron doesn't like it, then we have Tyler talk to him and Tyler kind of makes a decision. And sometimes Tyler's like, ah, I don't really know either. And so then we have a debate.
+
+[00:21:10] If someone really loves a business though, they're probably gonna prevail even if the other two people are lukewarm on it. The passion for something counts more. It's like a vote weighted by your relative excitement.
+
+[00:21:22] Gopi: Voting is the easiest, quickest way to get to an answer, but may not be the most effective way to get to a good solution.
+
+[00:21:30] Yeah, I see. This is very useful for founders. They need to get one partner totally on board, or at least two partners on board in a reasonable way. They don't need to get all three partners totally loving the business all the time because the nature of investments, you invest in outlandish ideas. It's totally understandable if one partner has some questions.
+
+[00:21:49] Ryan: Yeah. Especially if you're talking to like a specialist fund - both of us have specialties and we focus on - the outlandish ideas are actually pretty rare. It's far more common for me to see like a Neobank for X, like that happens all the time. Rather are than like payments on the moon. Payments on the moon is like, what , what are you doing? Like that's a, that never happens. And so the outlandish ones actually tend to get a little bit more resonance. But if you have an outlandish idea, you should be prepared that almost everybody is gonna think it's crazy.
+
+[00:22:19] Gopi: This is very interesting. Thank you for sharing insider baseball stories. I wanna talk about FinTech trends. What kind of areas are super interesting to you now? If a founder wants to build a business, what problems are good to solve right now?
+
+[00:22:35] Ryan: So, I will say one thing we try to avoid doing; we don't actually do; is map out like areas we wanna see innovation in. We've done that in the past and it was counterproductive. It led to founders self-selecting and because I'd say, "oh, we're really interested in vertical SaaS solutions" and then we wouldn't see other stuff because founders think "they're really only interested in vertical SaaS payments."
+
+[00:22:57] We actually do not have as like a policy, like don't have areas we're looking for stuff in. Instead, we want to follow kind of the founder energy. So, if we have a founder who shows up and like, "Hey, I think this is a huge opportunity. This is why I have some experience working in this space. I brought together this other person with me who's got this skill that I don't have. We've got a little bit of history working together." We don't need you be brother and sister. You can just be people who met at work or wherever. It doesn't really matter, but you're kinda set up to solve the problem and you've got a good thesis on what you're gonna do, that's a better fit for us.
+
+[00:23:29] Our model is to optimize for speed. We are looking for businesses that can grow very quickly. Those businesses tend to be led by people that move fast and are very precise and very specific about what it is they're trying to do. When we see businesses like that, that's the kinda stuff where our model is designed for us to move equally quickly. Now that being said, I think this is a great time to be an investor in this space. It's kind of a bummer time to have a portfolio because it's like, it's harder for like the existing companies, but if you're starting out from scratch and you're willing to let the market tell you what these valuations should be. Right now, it's a very choppy time. We're seeing a lot of pressure on valuations. Despite what people say, there's far less activity out there than there was earlier this year. So, if you're trying to get a deal done, you need to be receptive to where the market is and think that money is an input and don't worry too much about what those terms are and you keep it really lean, which is easier because you're not already bloated. I think this could be some really phenomenal businesses that get started because the underlying dynamics of financial services have not changed. It is still an inefficient market. There's way too many banks and insurance and payments companies in this country. The startups, very few of them have reached scale, so they're vulnerable too. And so this is a good time to start something.
+
+[00:24:43] Areas where there should be more innovation is around compliance and fraud. Those problems are exploding. I think that some of the stuff that's happening in crypto markets right now is gonna create incredible second order effects if you're gonna start doing some of the verification work there and like tracking fraud, tracking counterparties. There's still not enough innovation on that front. So, that's probably the one area where it's like, yeah, there's obviously still a lot of demand.
+
+[00:25:08] Gopi: I see you have an optimistic view of the future. You go in with an open mind. You try to avoid having a preconceived notion of what might work, what might not work. You wanna listen to the founder to understand what problem they want to solve, why they're passionate about it and you see lots of opportunities in FinTech. The underlying infrastructure still is waiting to be improved, and there are a lot of opportunities for founders to build solutions. The current market conditions are very favorable to new companies. Now, you're not dealing with the bloated cap table and those type of situations that companies have put themselves into in the past two years if you're starting from. It's a great time to start a new company. I see a lot of positives in your words.
+
+[00:25:49] We're coming towards the end of our conversation and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?
+
+[00:25:57] Ryan: In FinTech, there are some interesting, non-profits who operate in this space that do really interesting work. Particularly in the Bay Area, there's an organization called SaverLife that helps basically families start to establish savings and provides emergency liquidity, emergency savings products to families across the Bay Area. It leverages technology so it looks a lot like a startup, and I think the company's done a really phenomenal job of helping to raise a lot of money and helping a lot of people avoid some of these real pitfalls that happen to low-income families.
+
+[00:26:27] Gopi: Ryan, thank you very much for spending time with me, sharing insider stories on how you think and how your team thinks about investments, your optimistic views on FinTech, and why founders should look at this sector more seriously.
+
+[00:26:41] There are so many stories in your narrative that are lessons for founders to learn from. Thanks so much for spending time with me and sharing your stories.
+
+[00:26:49] Ryan: Oh, thank you very much, Gopi. I appreciate being here.
+
+[00:26:51] Thank you for listening to The Sure Shot Entrepreneur.
+
+[00:26:54] I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.

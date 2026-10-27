@@ -1,0 +1,1712 @@
+{
+  "legacy": {
+    "checked_at": "2026-10-26T13:50:21.956Z",
+    "checks": [
+      {
+        "name": "Live archive coverage",
+        "passed": true,
+        "evidence": "195 episodes\n·\n195 transcripts\n·\n195 published show notes"
+      },
+      {
+        "name": "Newest-first browse",
+        "passed": true
+      },
+      {
+        "name": "Oldest-first browse",
+        "passed": true
+      },
+      {
+        "name": "Browse all 195 without duplicates",
+        "passed": true,
+        "evidence": {
+          "count": 195,
+          "unique": 195
+        }
+      },
+      {
+        "name": "Official title result: episode 195",
+        "passed": true,
+        "evidence": {
+          "href": "/episodes/254fc97f-8c85-4d1a-bc84-0e230ec99cb5?passage=7d574d6edcda23028427203214d116af34ac21fada5af5a18e362b6cff6cd070&return=%2F%3Fq%3Dproof%2Bof%2Bvalue",
+          "number": "EP.195",
+          "pid": "7d574d6edcda23028427203214d116af34ac21fada5af5a18e362b6cff6cd070",
+          "source": "episode_title",
+          "text": "Show Proof of Value Before You Build for Scale"
+        }
+      },
+      {
+        "name": "Unified source-type rendering",
+        "passed": true
+      },
+      {
+        "name": "Source-speaker metadata result: episode 2",
+        "passed": true,
+        "evidence": {
+          "href": "/episodes/5268ea16-e232-4b5d-9bec-95c444c049ae?passage=7e28f42fda231b51d3edec836c95064e036935a3f6972b2cb30f1e088f7c8041&return=%2F%3Fq%3DGokul%2BRajaram",
+          "number": "EP.02",
+          "pid": "7e28f42fda231b51d3edec836c95064e036935a3f6972b2cb30f1e088f7c8041",
+          "source": "speaker_labels",
+          "text": "Gokul Rajaram\nGopi Rangan"
+        }
+      },
+      {
+        "name": "Metadata result opens episode and discloses speaker limitation",
+        "passed": true
+      },
+      {
+        "name": "Published show-note result: episode 75",
+        "passed": true,
+        "evidence": {
+          "href": "/episodes/0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe/show-notes?passage=1dcb3681c5eb7e0cd64a64ebbde6118895eeb8531d665edaf03b515dd4d1cc8f&return=%2F%3Fq%3DCommerce%2BVentures%26source%3Dshow_notes",
+          "number": "EP.75",
+          "pid": "1dcb3681c5eb7e0cd64a64ebbde6118895eeb8531d665edaf03b515dd4d1cc8f",
+          "source": "show_notes",
+          "text": "About Commerce Ventures"
+        }
+      },
+      {
+        "name": "Notes deep link selects its passage ID",
+        "passed": true
+      },
+      {
+        "name": "Full notes preserve projection and render no source HTML",
+        "passed": true,
+        "evidence": {
+          "expected": "1852e90584708859b58c9fcb52c0d480966046c0b77b91431bd44aca22152756",
+          "actual": "1852e90584708859b58c9fcb52c0d480966046c0b77b91431bd44aca22152756",
+          "unsafeElements": 0
+        }
+      },
+      {
+        "name": "Older transcript result: episode 2 at 00:12:34",
+        "passed": true,
+        "evidence": {
+          "href": "/episodes/5268ea16-e232-4b5d-9bec-95c444c049ae/transcript?passage=cdd98ce815b87d223d1576adc573bfff49a4cec523b701ba4ade341e65a3ec53&return=%2F%3Fq%3Drelentlessly%2Bresourceful%26source%3Dtranscript",
+          "number": "EP.02",
+          "pid": "cdd98ce815b87d223d1576adc573bfff49a4cec523b701ba4ade341e65a3ec53",
+          "source": "transcript",
+          "speaker": "Gopi Rangan",
+          "text": "…ou pick maybe one or two examples and show how you test for these two things, how entrepreneurs are relentlessly resourceful, and how you look for that founder market fit? What comes through in those conversations?",
+          "time": "00:12:34"
+        }
+      },
+      {
+        "name": "Transcript deep link selects exact passage ID",
+        "passed": true
+      },
+      {
+        "name": "Direct reload retains source text and passage identity",
+        "passed": true
+      },
+      {
+        "name": "Full transcript DOM matches source projection hash",
+        "passed": true,
+        "evidence": {
+          "expected": "3bff79b40d350115bd6b8c11308b233b9de9021fdbce040e75065e882c3c7366",
+          "actual": "3bff79b40d350115bd6b8c11308b233b9de9021fdbce040e75065e882c3c7366",
+          "unsafeElements": 0
+        }
+      },
+      {
+        "name": "Recent transcript result: episode 191 with time and source speaker",
+        "passed": true,
+        "evidence": {
+          "href": "/episodes/3ae69392-b535-45ae-ac78-27639c425637/transcript?passage=5fdff642b9bb23b4840afbe772c7dcb6c433231bab8d11bd14e5cd3e6b767472&return=%2F%3Fq%3Dchoosing%2Ba%2Bpartner%2Bin%2Blife%26source%3Dtranscript",
+          "number": "EP.191",
+          "pid": "5fdff642b9bb23b4840afbe772c7dcb6c433231bab8d11bd14e5cd3e6b767472",
+          "source": "transcript",
+          "speaker": "Justin Smith-Lorenzetti",
+          "text": "[00:23:15] Justin Smith-Lorenzetti: It can be a day. It could be an hour. I think investing is not all that different from maybe choosing a partner in life.",
+          "time": "00:23:15"
+        }
+      },
+      {
+        "name": "Recent transcript opens highlighted source context",
+        "passed": true
+      },
+      {
+        "name": "Search this episode restricts actual retrieval",
+        "passed": true,
+        "evidence": {
+          "matches": 3
+        }
+      },
+      {
+        "name": "No-results state and HTML-like input are safe text",
+        "passed": true,
+        "evidence": {
+          "heading": "0 episodes · 0 source matches for “<img src=x onerror=alert(1)>NoSuchArchiveToken9ZZZZ”Best match per episode first",
+          "unsafe": 0
+        }
+      },
+      {
+        "name": "Untimed transcript shows no invented timestamps",
+        "passed": true,
+        "evidence": {
+          "note": "Speaker labels are preserved from the published transcript source and have not been verified against audio. This published transcript does not contain timestamps. Passage links still open the exact source text.",
+          "speakers": [
+            "Heather Hartnett:",
+            "Gopi Rangan:",
+            "Heather Hartnett:"
+          ],
+          "times": 0
+        }
+      },
+      {
+        "name": "Source speaker labels remain intact",
+        "passed": true,
+        "evidence": [
+          "Heather Hartnett:",
+          "Gopi Rangan:",
+          "Heather Hartnett:"
+        ]
+      },
+      {
+        "name": "Stale passage gets a useful recovery path",
+        "passed": true
+      },
+      {
+        "name": "375px home has no horizontal overflow",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "375px search has no horizontal overflow",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "375px transcript has no horizontal overflow",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "768px reader has no horizontal overflow",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 768,
+          "width": 768
+        }
+      },
+      {
+        "name": "1366px reader has no horizontal overflow",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 1366,
+          "width": 1366
+        }
+      },
+      {
+        "name": "No browser console errors or warnings",
+        "passed": true,
+        "evidence": []
+      }
+    ],
+    "passed": true,
+    "deepURL": "http://127.0.0.1:8765/episodes/3ae69392-b535-45ae-ac78-27639c425637/transcript?passage=5fdff642b9bb23b4840afbe772c7dcb6c433231bab8d11bd14e5cd3e6b767472&return=%2F%3Fq%3Dchoosing%2Ba%2Bpartner%2Bin%2Blife%26source%3Dtranscript"
+  },
+  "files": {
+    "checked_at": "2026-10-26T14:02:11.234Z",
+    "passed": true,
+    "checks": [
+      {
+        "name": "Home hierarchy and Content Archive terminology",
+        "passed": true,
+        "evidence": {
+          "browse": 616.2734375,
+          "coverage": 429.2734375,
+          "files": 467.2734375,
+          "label": "\n    \n      \n    \n    \n    CONTENT ARCHIVE\n    Browse archive ↗\n  ",
+          "search": 348.2734375
+        }
+      },
+      {
+        "name": "Keyboard opens Archive Files with actual counts and timestamp qualifier",
+        "passed": true
+      },
+      {
+        "name": "Browser downloads actual CSV bytes",
+        "passed": true,
+        "evidence": {
+          "path": "/Users/jwanyua/Downloads/catalogue (2).csv",
+          "bytes": 267242,
+          "sha256": "13749bbd134cb2b238722ebb18ac58dcc4207cc03e7c11fe517e3d59b7298b23"
+        }
+      },
+      {
+        "name": "Browser downloads reproducible full library ZIP",
+        "passed": true,
+        "evidence": {
+          "path": "/Users/jwanyua/Downloads/tsse-markdown-library (1).zip",
+          "bytes": 3918604,
+          "sha256": "adec24a037137e50cffcfbd0b8b828e0f81522c98b0e41040ae507be86e9ae83"
+        }
+      },
+      {
+        "name": "Markdown browse newest first with view/download actions",
+        "passed": true
+      },
+      {
+        "name": "Markdown browse oldest-first sorting",
+        "passed": true
+      },
+      {
+        "name": "All 195 Markdown files browsable with unique mapping",
+        "passed": true,
+        "evidence": {
+          "count": 195,
+          "unique": 195
+        }
+      },
+      {
+        "name": "Episode-number sort available",
+        "passed": true
+      },
+      {
+        "name": "Actual Markdown DOM preserves exact artifact bytes and escapes HTML",
+        "passed": true,
+        "evidence": {
+          "bytes": 88505,
+          "filename": "254fc97f-8c85-4d1a-bc84-0e230ec99cb5.md",
+          "sha256": "97d8cc6a790ad70e7f05e9000f8d6f986eaa68e80e23d125abe737cdd63e823c"
+        }
+      },
+      {
+        "name": "Actual Markdown includes metadata, notes, transcript and source timestamps",
+        "passed": true
+      },
+      {
+        "name": "Browser downloads same Markdown shown in file view",
+        "passed": true,
+        "evidence": {
+          "path": "/Users/jwanyua/Downloads/254fc97f-8c85-4d1a-bc84-0e230ec99cb5.md",
+          "bytes": 88505,
+          "sha256": "97d8cc6a790ad70e7f05e9000f8d6f986eaa68e80e23d125abe737cdd63e823c"
+        }
+      },
+      {
+        "name": "Keyboard Markdown section navigation",
+        "passed": true
+      },
+      {
+        "name": "Cross-episode grouped search: customer discovery",
+        "passed": true,
+        "evidence": {
+          "episodes": 12,
+          "first": "EP.174"
+        }
+      },
+      {
+        "name": "Query highlights: customer discovery",
+        "passed": true
+      },
+      {
+        "name": "Cross-episode grouped search: founder market fit",
+        "passed": true,
+        "evidence": {
+          "episodes": 16,
+          "first": "EP.125"
+        }
+      },
+      {
+        "name": "Query highlights: founder market fit",
+        "passed": true
+      },
+      {
+        "name": "Cross-episode grouped search: contrarian",
+        "passed": true,
+        "evidence": {
+          "episodes": 17,
+          "first": "EP.126"
+        }
+      },
+      {
+        "name": "Query highlights: contrarian",
+        "passed": true
+      },
+      {
+        "name": "Cross-episode grouped search: capital efficient",
+        "passed": true,
+        "evidence": {
+          "episodes": 14,
+          "first": "EP.68"
+        }
+      },
+      {
+        "name": "Query highlights: capital efficient",
+        "passed": true
+      },
+      {
+        "name": "Metadata, notes and transcript grouped under one episode",
+        "passed": true,
+        "evidence": [
+          "Metadata · 2 matches",
+          "Published show notes · 2 matches",
+          "Transcript · 6 matches"
+        ]
+      },
+      {
+        "name": "Keyboard expansion stored in URL",
+        "passed": true
+      },
+      {
+        "name": "Deep link retains query and exact highlighted passage",
+        "passed": true
+      },
+      {
+        "name": "Deep link reload retains return state",
+        "passed": true
+      },
+      {
+        "name": "Episode overview includes summary, source links, search, Markdown access",
+        "passed": true
+      },
+      {
+        "name": "Episode file route retains search origin",
+        "passed": true
+      },
+      {
+        "name": "Back to search restores query and expanded group",
+        "passed": true
+      },
+      {
+        "name": "Filtered result keeps source filter in return URL",
+        "passed": true
+      },
+      {
+        "name": "Notes paragraph links visually restrained",
+        "passed": true,
+        "evidence": "0"
+      },
+      {
+        "name": "Notes links remain keyboard operable",
+        "passed": true
+      },
+      {
+        "name": "375px no horizontal overflow: /archive-files",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "375px no horizontal overflow: /archive-files/episodes",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "375px no horizontal overflow: /episodes/195/file",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "375px no horizontal overflow: /",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "375px no horizontal overflow: /episodes/195",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "375px no horizontal overflow: /episodes/3ae69392-b535-45ae-ac78-27639c425637/transcript",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 375,
+          "width": 375
+        }
+      },
+      {
+        "name": "768px no horizontal overflow: /archive-files",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 768,
+          "width": 768
+        }
+      },
+      {
+        "name": "768px no horizontal overflow: /archive-files/episodes",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 768,
+          "width": 768
+        }
+      },
+      {
+        "name": "768px no horizontal overflow: /episodes/195/file",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 768,
+          "width": 768
+        }
+      },
+      {
+        "name": "768px no horizontal overflow: /",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 768,
+          "width": 768
+        }
+      },
+      {
+        "name": "768px no horizontal overflow: /episodes/195",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 768,
+          "width": 768
+        }
+      },
+      {
+        "name": "768px no horizontal overflow: /episodes/3ae69392-b535-45ae-ac78-27639c425637/transcript",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 768,
+          "width": 768
+        }
+      },
+      {
+        "name": "1366px no horizontal overflow: /archive-files",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 1366,
+          "width": 1366
+        }
+      },
+      {
+        "name": "1366px no horizontal overflow: /archive-files/episodes",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 1366,
+          "width": 1366
+        }
+      },
+      {
+        "name": "1366px no horizontal overflow: /episodes/195/file",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 1366,
+          "width": 1366
+        }
+      },
+      {
+        "name": "1366px no horizontal overflow: /",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 1366,
+          "width": 1366
+        }
+      },
+      {
+        "name": "1366px no horizontal overflow: /episodes/195",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 1366,
+          "width": 1366
+        }
+      },
+      {
+        "name": "1366px no horizontal overflow: /episodes/3ae69392-b535-45ae-ac78-27639c425637/transcript",
+        "passed": true,
+        "evidence": {
+          "pageWidth": 1366,
+          "width": 1366
+        }
+      },
+      {
+        "name": "No browser warnings or errors",
+        "passed": true,
+        "evidence": []
+      }
+    ],
+    "queries": [
+      {
+        "query": "customer discovery",
+        "groups": [
+          {
+            "id": "simplecast:0adb8f6a-0593-45b7-9c59-d32206c375db",
+            "number": "EP.174",
+            "passages": [
+              {
+                "pid": "e77818efc70ae25829b59c46d1850730e43de42f8bd5da42be8ee4cbff8f4a27",
+                "source": "transcript",
+                "text": "[00:20:17] Gopi Rangan: It's great to see that he did hundreds of interviews to do the customer discovery process and understand what customers really want, and that makes a big difference.",
+                "time": "00:20:17"
+              }
+            ],
+            "rank": 0,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Don’t Overstretch; Raise The Right Amount of Funding"
+          },
+          {
+            "id": "simplecast:7a8c5f74-81e1-412d-8d7b-18a721341948",
+            "number": "EP.16",
+            "passages": [
+              {
+                "pid": "711750886ea57e13a4fcba3dd1fd5b5298df4461640879b45e5770b7c36773c9",
+                "source": "transcript",
+                "text": "…: Yes, one thing I tell founders all the time is: before you start your business do a little bit of customer discovery. First Round Capital had an amazing blog post around the willingness to pay.",
+                "time": "00:17:37"
+              },
+              {
+                "pid": "00616ed1bceaccc49841c77f321bca603d1afd99e673d669c683bc44bddcd0f4",
+                "source": "transcript",
+                "text": "…is native born, like myself. In a weird way, it's just like when we back companies and you're doing customer discovery. We were doing customer discovery at our actual coworking space. And so when we started seeing this frequency in this volume of foreign-born talent working and asking them the same question, \"Are you on a visa?"
+              },
+              {
+                "pid": "ac1f500dea649ae7052bb272328277816d9db4e33400e66812e3e1a28785a936",
+                "source": "transcript",
+                "text": "…es down to is how early we're willing to invest our resource and energy to helping companies around customer validation, customer discovery, willingness to pay, our willingness to be available as they need us, right? We don't respond back and saying, \"Hey, schedule an office hour with me a week from now.\"",
+                "time": "00:24:57"
+              },
+              {
+                "pid": "305723ed3e9b74096e90c534ed46f2ffc04810634d1623bf39d0ffdec4d1954b",
+                "source": "transcript",
+                "text": "…ack of our t-shirts, \"Want to start a company while on a visa? Come talk to us.\" Over three days of customer discovery and market validation, we became a beehive. Everyone was flocking to our booth and we knew that the market was there."
+              }
+            ],
+            "rank": 1,
+            "sources": [
+              "Transcript · 4 matches"
+            ],
+            "title": "Immigrant entrepreneurs must overcome unique hurdles"
+          },
+          {
+            "id": "simplecast:00a24c04-5983-4c5e-9f8d-b862fc602213",
+            "number": "EP.189",
+            "passages": [
+              {
+                "pid": "841ab1fabf2e01b705428c8ac0bb84311af9785126509bb1c382cc1009093f58",
+                "source": "show_notes",
+                "text": "…SC operates accelerator programs designed to help first-time founders navigate product development, customer discovery, fundraising, and team building."
+              }
+            ],
+            "rank": 2,
+            "sources": [
+              "Published show notes · 1 match"
+            ],
+            "title": "Winning Founders Build with Authenticity, Adaptability, and Resilience"
+          },
+          {
+            "id": "simplecast:a8c30a40-784e-43cb-9bda-9cc77a6fdb0a",
+            "number": "EP.65",
+            "passages": [
+              {
+                "pid": "35ab742634990c6bd81c3401197ece9a542f3ae310d1eb2e55592e57d5072cf2",
+                "source": "transcript",
+                "text": "And the market has spoken. It's clearly accelerating. The growth has been astounding. Customer stickiness is off the charts, very different than the existing meal kit companies. So, there's one where the vision had to be reconciled with a lot of customer discovery and a lot of customer work in order to figure out what is the right technology that solves this problem instead of…"
+              }
+            ],
+            "rank": 3,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Balance Commitment to the Vision with Attention to Customers' Needs"
+          },
+          {
+            "id": "simplecast:fad1d0cf-9833-4eb2-8b90-d1050b207191",
+            "number": "EP.60",
+            "passages": [
+              {
+                "pid": "287b98c41145bcdcdaeb4226abd729494eaf4489b0a413e5ff8d169c8c48ef49",
+                "source": "transcript",
+                "text": "…n. Very simple on the surface. I'm sure there are people who have read plenty of blogs and stuff on customer discovery and what you need to do in the ICP initial customer profile and everything. But you can tell genuinely, have they done their research on it? There's a healthcare company we invested in two and a half years ago, Series A, and Ralph and Michael were the two found…"
+              },
+              {
+                "pid": "cb6c54d9d03cd2698dbb06740e36db1ad13ad0538a7224ebdbe8ed28b124b83c",
+                "source": "transcript",
+                "text": "…ions at your last. For me. The biggest thing I'd ask is how did you arrive at this problem and what customer discovery did you do?"
+              }
+            ],
+            "rank": 4,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "Prioritize cash, team and momentum in that order"
+          },
+          {
+            "id": "simplecast:0ef2b626-ce6b-4d5e-9e30-a80362e30dad",
+            "number": "EP.31",
+            "passages": [
+              {
+                "pid": "2278462fe1616941c918953ce77af8d065b14984253c40e6e5b4a74623bbee93",
+                "source": "transcript",
+                "text": "the product and the kind of customer discovery that has happened before that should [00:19:00] inform like a very articulate a narrative of what the company is. And so again, it's like realize the first two things I mentioned are qualitative, right. It's very easy to say, Oh, be at X million in ARR, this, that, whatever.",
+                "time": "00:19:00"
+              }
+            ],
+            "rank": 5,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Lower your shield and openly communicate with investors"
+          },
+          {
+            "id": "simplecast:e9cf1836-7f70-49a5-b6a3-03ff05980a38",
+            "number": "EP.23",
+            "passages": [
+              {
+                "pid": "879089831617488e34b30b24c3f4d817b0855ada62e0f2a02663819512c47d64",
+                "source": "transcript",
+                "text": "…much more, but a little more. There may be a prototype or there may be, you know, they've done some customer discovery or something."
+              }
+            ],
+            "rank": 6,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Growth with negative margins is dangerous"
+          },
+          {
+            "id": "simplecast:c74483dd-60d4-48ed-aabf-f183aa2fdb62",
+            "number": "EP.11",
+            "passages": [
+              {
+                "pid": "d34b6c0814ea85a43d61acd8db37bbf225d8d1d6f328185e143aa33cadc9ae4f",
+                "source": "transcript",
+                "text": "Ultimately, her and her husband quit their jobs and started Living Security. They did a lot of customer discovery. They built up a huge pipeline of enterprise customers; in fact, one of the best pipelines of enterprise customers I've ever seen for that stage of company. Ultimately, they raised a pre seed round and we put a little bit of money into their pre seed, which is also…"
+              }
+            ],
+            "rank": 10,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Startups in underdog cities are looking for good investors"
+          },
+          {
+            "id": "simplecast:58315598-2ffd-4630-aa43-e04259c2b6b0",
+            "number": "EP.96",
+            "passages": [
+              {
+                "pid": "cb1c827b5ca8e351afe5543fd4e51eb3490a8a81458273403a3018cfceb001bf",
+                "source": "transcript",
+                "text": "…ble. If a founder's able to demonstrate that deep understanding and that they've done the extensive customer discovery required to build a business and the level of thoughtfulness and specificity, then that opportunity becomes a lot more compelling. Whether you have that deep experience in that industry or not is less relevant if you're able to super learn and you're able to ju…"
+              }
+            ],
+            "rank": 12,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Build 12 Months of Barrier to Entry"
+          },
+          {
+            "id": "simplecast:68930395-c99e-4677-8e4c-138eccc96c5d",
+            "number": "EP.72",
+            "passages": [
+              {
+                "pid": "51d5f66132df21d91cecef55aded3fea7ac35c796e8ebf58fd2fade39466ba44",
+                "source": "transcript",
+                "text": "…for example, where you could do a thousand phones as a pilot and test them, iterate, break them, do customer discovery at length. It's very different within the housing industry or within construction as a whole. To do a proof of concept if you're working in hardware, for example, it's incredibly capital intensive and you're not going to be building a thousand homes and breakin…"
+              }
+            ],
+            "rank": 13,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Construction Technology Will Solve the Global Housing Crisis"
+          },
+          {
+            "id": "simplecast:21c84339-89c7-437f-a96d-8c901e9c59c6",
+            "number": "EP.28",
+            "passages": [
+              {
+                "pid": "0488f86f843794f63bb2712431f30a79c4029c4d07a7d8572bf19d0f4e7fdcf9",
+                "source": "transcript",
+                "text": "They've done a lot of customer discovery work, but they don't have a lot of traction yet. Maybe they have a prototype, maybe a pilot or two, but the business is still fairly early. And this is typically their first money that they want to raise usually at a million to 2 million dollars. And that's the round we're focused on and that's the round we want to lead. We can write tha…"
+              }
+            ],
+            "rank": 14,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Catch the attention of investors with non-obvious insights  "
+          },
+          {
+            "id": "simplecast:79b1b5a3-fd8e-410a-803d-9c48b446b6c7",
+            "number": "EP.194",
+            "passages": [
+              {
+                "pid": "99e0a96c598511a0a50585071ba1a2cedf14b194be7c92beced5e21b427dc910",
+                "source": "show_notes",
+                "text": "…ors, investors, and an international entrepreneurial community, providing support across co-founder discovery, company formation, customer development, and fundraising. EF portfolio companies include Strala, Tractable, Cleo, Gensyn, Opply, Magdrive, Unitary, Better Dairy among others."
+              }
+            ],
+            "rank": 15,
+            "sources": [
+              "Published show notes · 1 match"
+            ],
+            "title": "Why Founders Matter More Than Their Ideas at the Earliest Stages"
+          }
+        ]
+      },
+      {
+        "query": "founder market fit",
+        "groups": [
+          {
+            "id": "simplecast:40f4e1a8-8b51-45f9-8c16-b8f709dfd0aa",
+            "number": "EP.125",
+            "passages": [
+              {
+                "pid": "8d324bcd2717010a7c99bd5aba07b5b0e70c565319fdbb6d4880b0abee8ac97b",
+                "source": "transcript",
+                "text": "You talked about founder market fit. What can founders do to make it easy for you? What's your advice to them so that the founder market fit is clear to you?"
+              },
+              {
+                "pid": "139b4e9f19b6e56efd02f2f250ae7b6020140f78b8d01d40e68fa2c90dbe6dd3",
+                "source": "show_notes",
+                "text": "Priya Priya Ramachandran is the Founder and Managing Partner of Foster Ventures. As an Operator and a GTM expert, Priya works with cross-border companies and helps entrepreneurs with product market fit, international market entry advice and introductions. Before starting Foster Ventures, Priya was with BoldCap, BetterCloud, Coupa, Intel Security and LogiGear Corporation leading…"
+              }
+            ],
+            "rank": 0,
+            "sources": [
+              "Transcript · 1 match",
+              "Published show notes · 1 match"
+            ],
+            "title": "US-India Startup Ecosystem is Booming "
+          },
+          {
+            "id": "simplecast:c9fbca28-8043-4e98-a9b4-be9e16133867",
+            "number": "EP.44",
+            "passages": [
+              {
+                "pid": "e810ddb5580448e010d1bafd82a98666f61db779affc77cda3cebdf24c65c667",
+                "source": "transcript",
+                "text": "Jason Best: Yeah, that's right. We look for founder market fit a lot. That's something."
+              }
+            ],
+            "rank": 1,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Say “Yes” more often"
+          },
+          {
+            "id": "simplecast:5f15841a-ef73-45d6-85a3-89545287c16f",
+            "number": "EP.82",
+            "passages": [
+              {
+                "pid": "b7dbd2eb9a8dddcfa37166c6af7a6849a582f7abaccc013d49cbaafcb5d256af",
+                "source": "transcript",
+                "text": "Michael Cardamone: A lot of what we're doing is evaluating the founder and the market opportunity. And on the founder side, we look at, is there a good founder market fit? Why are these founders building this product and what unique insights or what do they know about this market that maybe other people don't know."
+              },
+              {
+                "pid": "9132461a0277d52b25e46197133cc627b6c433606c606ffd1193cc92360f9a6d",
+                "source": "transcript",
+                "text": "And on the founder side, we look at, is there a good founder market fit? Why are these founders building this product? What unique insights or what do they know about this market that maybe other people don't know? Can they, with clarity and conviction, talk about how their market's evolving over the next five to 10 years and how they can win in that evolving market? And really…"
+              }
+            ],
+            "rank": 2,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "Founders With Long-term Vision Are Not Distracted by Public Market Volatility"
+          },
+          {
+            "id": "simplecast:f8dae3ec-a41b-49fc-a80f-a8a91eedfb99",
+            "number": "EP.42",
+            "passages": [
+              {
+                "pid": "9891d4511379057df8e260444ac71abff4d021dcdd2c629ee7e060d58880a814",
+                "source": "transcript",
+                "text": "Gopi Rangan: Yeah, founders who have that [00:17:00] founder market fit, they usually have talked through the problem. They understand the nuances of the industry.",
+                "time": "00:17:00"
+              },
+              {
+                "pid": "11699bbb908d5bd7ffb9f0b4e3d4f94b8ae26fd660e96511505b8a3d957bbe14",
+                "source": "transcript",
+                "text": "…where a brand like aren't these diamond doesn't like wa like, again, going back to that [00:12:00] founder market fit, like why is this founding team going to win in this space and seeing the deck and the information that was presented there without going into anything proprietary, but around different marketing channels and funnels and how they were going to approach it.",
+                "time": "00:12:00"
+              },
+              {
+                "pid": "ffdadd96c272b91544c956a0fa767b6f4ec24948e09caa01a0cf11ed0633d27e",
+                "source": "transcript",
+                "text": "…I'm really focused on again, just from being at, trying to be really early, is trying to hone in on founder market fit. So really trying to figure out, Hey, is there a, an earned or learned secret that you have from being in this industry? Working in the industry at a different startup or at a later stage company, or I invested in a founder who covered the industry as a, as an…",
+                "time": "00:11:00"
+              },
+              {
+                "pid": "e4aca650cfacbd79d7246fffaa6a685be8a3799780d9f82a8713e9347d413beb",
+                "source": "short_description",
+                "text": "…pital firm focused on direct-to-customer, AdTech, and NextGen Commerce. Andrew strongly believes in founder-market fit and is excited to invest in startups targeting fast growing markets. He shares insightful stories of founders transforming ideas into market-defining businesses."
+              },
+              {
+                "pid": "8841a49509faec096617977c9ff3643b337d5680d6d12fd49a9348fef6f4d32c",
+                "source": "show_notes",
+                "text": "…pital firm focused on direct-to-customer, AdTech, and NextGen Commerce. Andrew strongly believes in founder-market fit and is excited to invest in startups targeting fast growing markets. He shares insightful stories of founders transforming ideas into market-defining businesses."
+              }
+            ],
+            "rank": 3,
+            "sources": [
+              "Transcript · 3 matches",
+              "Metadata · 1 match",
+              "Published show notes · 1 match"
+            ],
+            "title": "Don’t be shy. Good investors like to get their hands dirty."
+          },
+          {
+            "id": "simplecast:5268ea16-e232-4b5d-9bec-95c444c049ae",
+            "number": "EP.02",
+            "passages": [
+              {
+                "pid": "cdd98ce815b87d223d1576adc573bfff49a4cec523b701ba4ade341e65a3ec53",
+                "source": "transcript",
+                "text": "…est for these two things, how entrepreneurs are relentlessly resourceful, and how you look for that founder market fit? What comes through in those conversations?",
+                "time": "00:12:34"
+              },
+              {
+                "pid": "591870e1f03fb98757d3099fdfab9c418696982c8ee234c4cc95b137c94d8c71",
+                "source": "transcript",
+                "text": "…ood question. What kind of people do I like to invest in? I think I look for two characteristics of founders.\nOne, I I think Paul Graham came up with this term 'relentlessly resourceful'. Relentlessly resourceful means the founder will do anything possible to surmount an obstacle. They will never give up. They're going to figure out how to move heaven and earth to get around th…",
+                "time": "00:10:15"
+              },
+              {
+                "pid": "78e4c4adcbee298a9ce16edd424437b48092e983e41b5426e6de28bcccdf2894",
+                "source": "transcript",
+                "text": "…you know, we knew, I knew from experience that he was this kind of person.\nBut I'll tell you about founder market fit with Max. The first 6 - 9 months after leaving Square, he was brainstorming a bunch of ideas.\nExactly the wrong way to go about it, in my opinion. He was brainstorming, there was an auto insurance idea that he had, another idea around something in the dental sp…"
+              }
+            ],
+            "rank": 4,
+            "sources": [
+              "Transcript · 3 matches"
+            ],
+            "title": "Lessons from >100 angel investments"
+          },
+          {
+            "id": "simplecast:6ed4e699-6451-4eaa-b79a-ec88fa671d27",
+            "number": "EP.133",
+            "passages": [
+              {
+                "pid": "2f4c3a46c333be2230b8debbb18804c06dbb9ea5a03a635748e2db913c88f0ae",
+                "source": "transcript",
+                "text": "So we think a lot more about founder attributes than our thesis. And some of those founder attributes, I think, might be extreme founder market fit in the category, meaning they really understand the white space and the dynamics of the market. But then conversely, occasionally we back someone who really brings a beginner's mind to the market. We can back those people too. And I…"
+              }
+            ],
+            "rank": 5,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "A Global Village of Luminaries Help Founders Unleash Potential   "
+          },
+          {
+            "id": "simplecast:12549d0c-c060-486b-aaa1-8d21add096eb",
+            "number": "EP.139",
+            "passages": [
+              {
+                "pid": "cae26e18a9beeaf68628ead61e1da05ce02b59d2e760394543255eff9a692bf6",
+                "source": "transcript",
+                "text": "…and now they have new tools, which they can [00:22:00] go after the same problem. It's a very good founder market fit and that's very important for us.",
+                "time": "00:22:00"
+              }
+            ],
+            "rank": 6,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Engage With Customers Sooner Than Later When You Build AI Solutions"
+          },
+          {
+            "id": "simplecast:078d2402-0f24-4783-b7bc-524ef644b71b",
+            "number": "EP.104",
+            "passages": [
+              {
+                "pid": "c959eaf7cc77d7a59cf8d8f98fab32a1c4a28e30fabbab9a3a6f8e267e9a0a55",
+                "source": "transcript",
+                "text": "We think that the most effective founders are those that have outrageous founder market fit - t hose people who have essentially been their customer beforehand. They've sat in a seat that allows them to live a pain point that just sucks so much, they cannot imagine a future other than the one in which they are building a solution to this issue."
+              },
+              {
+                "pid": "154fb40d51da5cc2b69e4b9c51f042ead7fa797a7772daadadacb539548e4085",
+                "source": "show_notes",
+                "text": "[10:58] How sitting on the real pain point results in an outrageous founder-market fit"
+              }
+            ],
+            "rank": 7,
+            "sources": [
+              "Transcript · 1 match",
+              "Published show notes · 1 match"
+            ],
+            "title": "Identify an Extreme Pain Point"
+          },
+          {
+            "id": "simplecast:bdd967e6-598c-4800-9492-b1d6d6b06429",
+            "number": "EP.64",
+            "passages": [
+              {
+                "pid": "01f403321d86ddd1d432a8780e09e29d7dfb159c54c111b87ed487e078c93abd",
+                "source": "transcript",
+                "text": "He saw that need. And he was able to go to a lot of early customers as well. Once again, strong founder market fit, recognizing the need and going out there and building it, but not necessarily with a traditional Silicon Valley unicorn type background. That's maybe one of the biggest opportunities that this region has and we're really excited about seeing those stories progress…"
+              },
+              {
+                "pid": "556c2ab0605da419e215869f27dfce30bbf5fa78fa5036e75c23905b614f59f1",
+                "source": "transcript",
+                "text": "…ech background, but coming from an industry background. We're recognizing that need, having a great founder market fit, and then starting an incredible growth company right out of the bat and having some big contracts with some industry leaders."
+              }
+            ],
+            "rank": 8,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "Ambitious Midwest U.S. Founders are Underrated"
+          },
+          {
+            "id": "simplecast:b573d39a-0e7d-42b3-a048-cb47a1743368",
+            "number": "EP.73",
+            "passages": [
+              {
+                "pid": "b46827e249a3157a8d501f402b3f8e03546cd0e90bf68c1bbbf5ab7a7d66e94a",
+                "source": "short_description",
+                "text": "Charles Hudson, Managing Partner and Founder of Precursor Ventures, talks about how he founded Precursor Ventures and why he is unafraid to back unproven first-time entrepreneurs. Charles gives useful tips to founders embarking on finding product-market fit, and shares his thoughts on bridge funding."
+              },
+              {
+                "pid": "40f61ae3507f48ab08b4f82824d6b9fe9e0ad86ec98c187409c602bf2761e1c7",
+                "source": "show_notes",
+                "text": "Charles Hudson, Managing Partner and Founder of Precursor Ventures, talks about how he founded Precursor Ventures and why he is unafraid to back unproven first-time entrepreneurs. Charles gives useful tips for founders embarking on finding product-market fit, and shares his thoughts on bridge funding."
+              }
+            ],
+            "rank": 14,
+            "sources": [
+              "Metadata · 1 match",
+              "Published show notes · 1 match"
+            ],
+            "title": "Investing in Pre-revenue Startups"
+          },
+          {
+            "id": "simplecast:ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+            "number": "EP.181",
+            "passages": [
+              {
+                "pid": "6abaa3c2314f83f9557d4d23abb444b1df8378f29b4826a75f869a1f2b430756",
+                "source": "transcript",
+                "text": "…ther thing is like, \"okay, I understand roughly the problem that they're going out to solve, or the market they're looking to crack, or the product that they're looking to build. Is this person suited to that? So we call that kind of like founder market fit. Does this person have what it takes or does the team have what it takes to be successful? Because there's lots of ways to…",
+                "time": "00:19:53"
+              }
+            ],
+            "rank": 15,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Are You Willing to Deal With the Pain of Building a Successful Business?"
+          },
+          {
+            "id": "simplecast:254fc97f-8c85-4d1a-bc84-0e230ec99cb5",
+            "number": "EP.195",
+            "passages": [
+              {
+                "pid": "dfc96f3ff90a2c9f3c6acbb999628e76414db3293807c050d2bd451812b72985",
+                "source": "show_notes",
+                "text": "[15:48] Three pieces of advice for founders: start with a burning problem, examine founder-market fit and deliberately de-risk the company one stage at a time."
+              },
+              {
+                "pid": "f95d47dd75b9f2712e7d01c881fd8e74327eb0e792039a32e36a08af42edb921",
+                "source": "transcript",
+                "text": "…15:48] Rohini Chakravarthy: Yeah. I would say that I'm still a fairly traditional technical product market investor, right? I think there is a lot of financial engineering that has come into the venture space and, we can talk about [00:16:00] sort of what has changed in the twenty years that I've been investing.\n[00:16:04] I think, for me, it really does start with a core probl…",
+                "time": "00:15:48"
+              },
+              {
+                "pid": "6788af086d13410493e794d06dc92b39f844cab4eb4c74c401f248f16b5e0fca",
+                "source": "transcript",
+                "text": "…g in entrepreneurs who have this technical insight, can build the product, and expose them to these market opportunities where they can go [00:18:00] fine-tune their intuition on which problem to solve.\n[00:18:03] Or it could be the other way around, where there is a person who's been in the market and industry executive who understands, what the industry structure looks like,…",
+                "time": "00:17:33"
+              }
+            ],
+            "rank": 16,
+            "sources": [
+              "Published show notes · 1 match",
+              "Transcript · 2 matches"
+            ],
+            "title": "Show Proof of Value Before You Build for Scale"
+          },
+          {
+            "id": "simplecast:c48f9e24-1980-45e7-9189-a5eb681dcaa1",
+            "number": "EP.62",
+            "passages": [
+              {
+                "pid": "919cbe7368e36f96176fbbee22af01170964fabc80c1301b9f09e5f2ba84f626",
+                "source": "transcript",
+                "text": "But for the most part, they've been actually working on that for years. We typically look for founder market fit. So does the founder have personal experience with the problem that they're solving and another critical piece of what we're looking for is something called a scout mindset. Are they actually out looking for information about how the world is today or are they simply…"
+              }
+            ],
+            "rank": 19,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Technology redefining the future of work"
+          },
+          {
+            "id": "simplecast:1823a4e0-fdc8-474f-a002-e7186c8ccec6",
+            "number": "EP.50",
+            "passages": [
+              {
+                "pid": "29404986714e62fa0484819a0f2bbe7cfb9feed4e41e676e395c87cf6539d453",
+                "source": "transcript",
+                "text": "[00:29:06] Gopi Rangan: There's the founder/market fit, and the market being huge is certainly helpful. There's also the founder/GP or founder/VC fit. That also creates magic. And that's often not well understood or spoken about very often. I want to switch to another part of our discussion and ask you about your community involvement.",
+                "time": "00:29:06"
+              }
+            ],
+            "rank": 23,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Start with your childhood story not your resume"
+          },
+          {
+            "id": "simplecast:5e1ed233-d1b8-4c83-8904-4f6f9341304f",
+            "number": "EP.158",
+            "passages": [
+              {
+                "pid": "40c3951df8e7b1637c7d11621acd4eddd7f3344d2524b2b30973a4db98c63983",
+                "source": "short_description",
+                "text": "Pablo Srugo, partner at Mistral Venture Partners and host of The Product Market Fit Show, shares his journey from co-founding startups like Gymtrack to becoming a venture capitalist focused on seed-stage investments. He reflects on the lessons learned through his and other founders' entrepreneurial highs and lows, including raising $6 million for a wearable tech company and nav…"
+              },
+              {
+                "pid": "9a6b84dc9bfe38508dd320f3faa09a62eb20dee92edbf30cd3355437c56aa2e2",
+                "source": "transcript",
+                "text": "[00:31:06] Pablo Srugo: I can tell you a specific example. So we had on the product market fit show the founder of Huntress. Huntress is now a 2-billion-dollar company.",
+                "time": "00:31:06"
+              }
+            ],
+            "rank": 25,
+            "sources": [
+              "Metadata · 1 match",
+              "Transcript · 1 match"
+            ],
+            "title": "Look for Early Believers, Not Just Capital Providers"
+          },
+          {
+            "id": "simplecast:6f5048a7-baa5-42c7-b272-89994adf52f8",
+            "number": "EP.123",
+            "passages": [
+              {
+                "pid": "3399c8c3952868869383d943b2e40ed06e6d80db345b07db8b0ff2e02b884b7f",
+                "source": "transcript",
+                "text": "Now, this is critical. When we go pre-product market fit, it is generally my view, or at least I'll say in healthcare, we don't have an ownership target. We're not talking to our LPs yet about Cash on Cash returns of this check. That is not what going pre-product market fit is about. If you go pre-product market fit, it's about the founder and the problem. It's about having no…"
+              }
+            ],
+            "rank": 27,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Software Will Solve Broken Systems in Every Aspect of Healthcare "
+          }
+        ]
+      },
+      {
+        "query": "contrarian",
+        "groups": [
+          {
+            "id": "simplecast:eed83131-61f5-4654-89a1-4ca17ba485a9",
+            "number": "EP.126",
+            "passages": [
+              {
+                "pid": "5064dbe3d656ff4e0eed9621f1fa5c4c53af961ecfc505bd31486c753c38227d",
+                "source": "show_notes",
+                "text": "[9:03] Contrarian view: Concentrated VC portfolios triumph over diversification."
+              }
+            ],
+            "rank": 0,
+            "sources": [
+              "Published show notes · 1 match"
+            ],
+            "title": "Put Moolah in the Coolah"
+          },
+          {
+            "id": "simplecast:961bcb46-9039-4514-b8a9-afd11445908b",
+            "number": "EP.128",
+            "passages": [
+              {
+                "pid": "b63255237cb56fdcc9b5e87dd2d7df8fbc3cec67af7fe235872e2c75a634d1b9",
+                "source": "show_notes",
+                "text": "[4:07] Accolade’s contrarian portfolio building: leading with concentrated investments"
+              }
+            ],
+            "rank": 1,
+            "sources": [
+              "Published show notes · 1 match"
+            ],
+            "title": "Concentrated Investments Can Generate Top Tier Returns, While Diversified Index Aims for Average"
+          },
+          {
+            "id": "simplecast:cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+            "number": "EP.120",
+            "passages": [
+              {
+                "pid": "e93d7c3389b5f5d26a2759acdf01153e6455696c20acd1b1d52b35df5c6dd4be",
+                "source": "show_notes",
+                "text": "[4:13] Venture capital is a game of exceptions and contrarian thinking."
+              },
+              {
+                "pid": "856cf6ee85e05a228c5c369648c09d29c87c6ac29c36286b9e56586655c12504",
+                "source": "transcript",
+                "text": "Gopi Rangan: It's a game of exceptions. So you're looking for outliers and contrarian thinking — something that the mainstream economy has not adopted yet. What happens in that first meeting? What do you look for? What questions do you ask founders?"
+              }
+            ],
+            "rank": 2,
+            "sources": [
+              "Published show notes · 1 match",
+              "Transcript · 1 match"
+            ],
+            "title": "Change The Financial System"
+          },
+          {
+            "id": "simplecast:507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+            "number": "EP.110",
+            "passages": [
+              {
+                "pid": "4faa35b066228d0bbe6f3b6f211648d852437f28e760515bef4afe0cc46e9d37",
+                "source": "show_notes",
+                "text": "3:45 Make calculated bets during slow periods to capitalize on contrarian perspectives."
+              },
+              {
+                "pid": "6a9636bfefb7a56d7bc23f647638ed432ed94f50b1c85fb550157f7879e7a9dc",
+                "source": "transcript",
+                "text": "…ast forward 10+ years now where we are. How has your perspective changed? Are you still looking for contrarian things and what kind of contrarian things are you looking for? What do you look for in founders today?"
+              },
+              {
+                "pid": "377ab7f757754ee70a8572cd20195e3265055efac6e1b17338f4200cc35ab985",
+                "source": "transcript",
+                "text": "David Thacker: Yeah, it's important when you're contrarian to be right. Yeah. That's the second part of it, right? You could be contrarian and be wrong and that's usually not a great thing. But yeah, that time we were right."
+              },
+              {
+                "pid": "a8d268e4d2c61409e70c06414708011717a8ea16ff3614b5db8fb4a904616d06",
+                "source": "transcript",
+                "text": "Gopi Rangan: So you were a contrarian and you were right. At that time, in 2008/9, smartphones for just taking off always on internet was not really available. You still made the bet that usage for radio will move from terrestrial to digital and that paid off. Very interesting indeed."
+              }
+            ],
+            "rank": 3,
+            "sources": [
+              "Published show notes · 1 match",
+              "Transcript · 3 matches"
+            ],
+            "title": "Grow Responsibly With Patient Investors"
+          },
+          {
+            "id": "simplecast:7a1af9ae-2855-4961-be23-11e2116072f4",
+            "number": "EP.161",
+            "passages": [
+              {
+                "pid": "7b681cfd01075203f0e0a18a4a6d4bdb4c9112c45ca82ddcf36c3c257acadddc",
+                "source": "show_notes",
+                "text": "[09:50] The contrarian strategy that made Endeavor Catalyst one of the most successful global venture funds"
+              },
+              {
+                "pid": "2f69b8380a8b928d6c1f169310f20c23a91f2e6e4fee2bcd2c83ff3ac08dbf63",
+                "source": "transcript",
+                "text": "Allen Taylor: For sure. I mean, I love the use of the word contrarian. Reid Hoffman the co-founder of LinkedIn, of course, and partner at Greylock, early angel in Facebook."
+              },
+              {
+                "pid": "eb0e368b0d6fa745ac4ce19e7450b8f798a911faf8ddc930d43220fe1814c136",
+                "source": "transcript",
+                "text": "…is born, and you are there well before those companies [00:09:00] get to that stage. That's a very contrarian point of view, and you have been successful.",
+                "time": "00:09:00"
+              }
+            ],
+            "rank": 4,
+            "sources": [
+              "Published show notes · 1 match",
+              "Transcript · 2 matches"
+            ],
+            "title": "Build a Local Startup, Dream Global Impact"
+          },
+          {
+            "id": "simplecast:9d24d1dc-3fac-4a50-bc2e-7f9df2772392",
+            "number": "EP.69",
+            "passages": [
+              {
+                "pid": "7f47adb2f9ccff66d15383b9a61d483ce5089fa3c704c37008caeec22826f723",
+                "source": "show_notes",
+                "text": "…e a special guest, Patrick Eggen, Co-Founder and Partner at Counterpart Ventures, to talk about his contrarian approach to investing and why he invests in founders that target non-trivial problems."
+              }
+            ],
+            "rank": 5,
+            "sources": [
+              "Published show notes · 1 match"
+            ],
+            "title": "Put On Your Risk Hat With Debt Investors"
+          },
+          {
+            "id": "simplecast:40a4e066-c609-40de-a83f-fbd345cfaf55",
+            "number": "EP.144",
+            "passages": [
+              {
+                "pid": "f6369edc4d0d020cda15e0a46c9f2fb2a1d7fa6cd0262121f8d8f8325b5ce525",
+                "source": "transcript",
+                "text": "Gopi Rangan: You lead deals and you are willing to take a contrarian view, but you're not the only investor on the cap table. You have other co investors who also have similar contrarian views."
+              },
+              {
+                "pid": "217188b56e753282329dcf6e28f67e0a659c477b3632643266c6f2da0ddb5f5d",
+                "source": "transcript",
+                "text": "And that's a very difficult judgment on the part of you as a VC. How do you find such contrarian things where it is not so contrarian that no one will ever believe in it? But it's just a short period of time, or perhaps a one or two rounds of funding, and then it becomes quite popular and many other VCs will follow, at least a handful of VCs need to follow."
+              },
+              {
+                "pid": "9a86fc0a15f9ce00fd3038d1509fecb27092f9a9797375cb0133d36da45516a0",
+                "source": "transcript",
+                "text": "…he next round or the subsequent round. You want other investors to follow. It cannot be permanently contrarian for a long time. It has to stay contrarian for some period of time where you actually believe in something that is different, but very quickly it needs to follow the trend."
+              },
+              {
+                "pid": "acb0af80164854aa41e27d23c70164ac45ec9ab880279fa377ed1f9e93a8099d",
+                "source": "transcript",
+                "text": "Gopi Rangan: Perfect. Dan, thank you very much for spending time with me. Thanks for sharing contrarian views, unusual views that we don't get to hear in venture capital."
+              },
+              {
+                "pid": "ae582c40f17d95b38f462188ba496cc9ad3731a382e911838b7dfcba82f4be14",
+                "source": "transcript",
+                "text": "…s and you decided to lead investments in 23 of them. At the time of making the investment, it was a contrarian view."
+              }
+            ],
+            "rank": 6,
+            "sources": [
+              "Transcript · 5 matches"
+            ],
+            "title": "Courageous Entrepreneurs Are Heroes, Not Consensus Seekers"
+          },
+          {
+            "id": "simplecast:ba4e84c0-33e2-4b67-a128-ca5fd4f7c368",
+            "number": "EP.118",
+            "passages": [
+              {
+                "pid": "ca6a1fc023d208b1d746a908fc28dcbf5ed13fc054b3907f5849ee4d745ddfa2",
+                "source": "transcript",
+                "text": "If you have any entrepreneurs listening to this, I have a few contrarian views here. The first is: look for these mega disruptive trends and when they come drop everything you're doing and run."
+              },
+              {
+                "pid": "88314b7bca17cee3e73b8ff14cbafe9ecb7bccab9604fbffc57019f67391fdc0",
+                "source": "transcript",
+                "text": "…nd then this one has eight. So I've always done this. This has been my formula that's been a little contrarian to others. So then when I went to go pitch, \" like, Hey, I got the great mega trend. I got the exact team one needs with a tremendous amount of credibility in having done the right things.\""
+              }
+            ],
+            "rank": 13,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "AI is a Mega-Trend Like the Internet, Social and Mobile  "
+          },
+          {
+            "id": "simplecast:42587868-9b4a-4a23-867d-3096d1a9f536",
+            "number": "EP.136",
+            "passages": [
+              {
+                "pid": "385f84dbd12fb95bbbdc2649c87e57b483160aee251f7719d587b99e23ad205f",
+                "source": "transcript",
+                "text": "…his is beautifully articulated. Clear four things that you're looking for. You'd rather invest in a contrarian theme that's not overcrowded. That is better than going with the flow and momentum."
+              }
+            ],
+            "rank": 14,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Experienced VCs Investing in Under-crowded Markets with Concentrated Portfolios Win"
+          },
+          {
+            "id": "simplecast:c8c6faa5-e792-4a3c-bcd3-ac45079cc786",
+            "number": "EP.33",
+            "passages": [
+              {
+                "pid": "e2903b6ba0a7642793c8d4e9482cbae795d641edf01dba8023370ed47a85fb6a",
+                "source": "transcript",
+                "text": "Gopi Rangan: I see a common thread of contrarian ideas here that are very different, unique compared to anything else that we may have seen in the world. That is the [00:28:00] core of Silicon Valley.",
+                "time": "00:28:00"
+              }
+            ],
+            "rank": 15,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "No place in the world is like Silicon Valley"
+          },
+          {
+            "id": "simplecast:7560da4c-5de7-4823-af53-fac555884b0f",
+            "number": "EP.63",
+            "passages": [
+              {
+                "pid": "de981b89e8738a26b263a86ea33fb6c7a6e187fae3bd46943dcb64e800f62ce8",
+                "source": "transcript",
+                "text": "…h is a very important topic and it's not the area where many VCs invest in. I'm glad to hear a very contrarian story here. When you met the founders, what did you ask them?"
+              }
+            ],
+            "rank": 16,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Show your assumptions"
+          },
+          {
+            "id": "simplecast:6aa4c8aa-739a-413a-a6c2-d6c5e63271ab",
+            "number": "EP.29",
+            "passages": [
+              {
+                "pid": "9f71871b5ac9620f14728bebcd99c0a48e919bad4dbe6a71f2dac58e774df919",
+                "source": "transcript",
+                "text": "[00:21:23] Gopi Rangan: So when you're a contrarian, when the world is going in one direction and you think in a different direction, what questions do you ask the entrepreneurs? How is your engagement? We could use Return Safe as an example.",
+                "time": "00:21:23"
+              },
+              {
+                "pid": "f98b007445de969ffd44ebde67182bb1f6f558232fec463c9fbfb997db5b63e5",
+                "source": "transcript",
+                "text": "…especially at the earliest stages. She talks about how she is not afraid to have an opinion that's contrarian and differs from other investors and what she has learned as an investor over the years."
+              }
+            ],
+            "rank": 19,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "Startup ecosystem in Austin, Texas is booming"
+          },
+          {
+            "id": "simplecast:b0b4a4f2-62b4-4628-bb97-871ca0fb8900",
+            "number": "EP.12",
+            "passages": [
+              {
+                "pid": "932c9e59e7138bf1b952bf2483634c8e0b68ac05b2f8ec216496b00170aae79b",
+                "source": "transcript",
+                "text": "…designed for consumer startups. And so that was our moment to sort of fight for the underdog or the contrarian."
+              }
+            ],
+            "rank": 22,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Ethos to keep pushing things forward is a rare quality"
+          },
+          {
+            "id": "simplecast:255a3a22-8931-40a3-a4d1-e93a53d0fd6b",
+            "number": "EP.145",
+            "passages": [
+              {
+                "pid": "6588a44369dcb139d3f17a3a59bc4a047562fbf1e421bf88410be733d334f36a",
+                "source": "transcript",
+                "text": "[00:09:55] Gopi Rangan: I noticed that very early in your life, you were bold and you were contrarian and you were willing to voice your opinion, doesn't matter what other people think of you. And you kept that spirit going throughout your career and you still do now as a VC.",
+                "time": "00:09:55"
+              }
+            ],
+            "rank": 23,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Prioritize Innovation Using Artificial Intelligence, Don't Fear AGI"
+          },
+          {
+            "id": "simplecast:7ea282e7-771d-4b03-9799-f5261664c249",
+            "number": "EP.04",
+            "passages": [
+              {
+                "pid": "a99f11b820e51a5456a48814f7e0c0fae62efe86ba510bf5d31c7ee782dbeebf",
+                "source": "transcript",
+                "text": "…that HealthSherpa is going to be able to capitalize on that. And so, yeah, so that was, it was very contrarian, especially in 2016, but so far it has been an absolutely awesome investment. They're growing a hand over fist."
+              }
+            ],
+            "rank": 24,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Modernize financial infrastructure to democratize prosperity"
+          },
+          {
+            "id": "simplecast:0adb8f6a-0593-45b7-9c59-d32206c375db",
+            "number": "EP.174",
+            "passages": [
+              {
+                "pid": "7ad3e20a28c53e7190c5d5c097be88563d32985fabf0f8c47ce2c8196f5d2cdf",
+                "source": "transcript",
+                "text": "This was a very different kind of company. And you took a contrarian bet where the founders had, Omar was a lawyer, but I would say none of them had deep experience in legal tech. But yet you take the approach that, yeah, this team can build something and create a new category. Is that common?"
+              }
+            ],
+            "rank": 25,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Don’t Overstretch; Raise The Right Amount of Funding"
+          },
+          {
+            "id": "simplecast:80ee24fe-418b-4010-8388-598e0d615757",
+            "number": "EP.131",
+            "passages": [
+              {
+                "pid": "94f8d3881d732f0faa73b38563b486d9b0ae92ac455d14e421cdfa051f651985",
+                "source": "transcript",
+                "text": "…hat. But then we'll round that out with lower concentration, you know, very convicted and sometimes contrarian type managers. A great example there is a Decian's type fund, which we've committed to, right?"
+              },
+              {
+                "pid": "ca895ec8b047564c0bac5b8be4d75fec260cb8cfc8e51221bb55ca330e2c40a2",
+                "source": "transcript",
+                "text": "Very high concentration, contrarian type manager, high conviction in the case. In times he does invest and so we rounded out with that type of focus or that type of fun. And if we already have that, so for our vehicle this year, we have our high concentration manager. And so if someone doesn't fit that, that becomes kind of an easy."
+              }
+            ],
+            "rank": 27,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "Attract High-Quality Limited Partners Who Value Your Experience   "
+          }
+        ]
+      },
+      {
+        "query": "capital efficient",
+        "groups": [
+          {
+            "id": "simplecast:15715764-96f9-40be-b572-08c8e72eae54",
+            "number": "EP.68",
+            "passages": [
+              {
+                "pid": "f076a523748b9b7e2cc815b8e38a9c74187573ea887661170b21a3ffea9a809e",
+                "source": "transcript",
+                "text": "We like capital-efficient businesses. Not every one of our investments has been super capital-efficient, but most have. Capital efficient businesses can go quite far without having to raise boatloads of capital. And again, it's not to say that all of our businesses haven't raised lots of capital. But in general, we like capital-efficient businesses. And then finally, we either…"
+              }
+            ],
+            "rank": 0,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Always Be Learning"
+          },
+          {
+            "id": "simplecast:bbcf3b5b-9d87-4cf7-8434-31fded782cb0",
+            "number": "EP.35",
+            "passages": [
+              {
+                "pid": "6396bf794019bfbbd1d33f6fa9d59d01133d0922e3427ca1b9c9036abd7e85aa",
+                "source": "transcript",
+                "text": "…o talks about common misunderstandings and the controversies that are around [00:02:00] the venture capital and investment banking sectors. She gives solutions to entrepreneurs to make their life efficient. Swati. Tell us about yourself, starting with, what is your company about?",
+                "time": "00:02:00"
+              }
+            ],
+            "rank": 1,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Be efficient. Don't be macho."
+          },
+          {
+            "id": "simplecast:4027af88-2d27-4891-a621-ec11322f9ae0",
+            "number": "EP.143",
+            "passages": [
+              {
+                "pid": "287a15db86f3847cdb642e1d219d205383f80178933ed529f0d9028564e0ecaa",
+                "source": "transcript",
+                "text": "…new innovation comes into the asset class. Maybe you know what it's going to be one person venture capital firm; everything is outsourced, everything is handled and you have a platform and you can invest in that asset class in a very efficient way."
+              }
+            ],
+            "rank": 2,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "VC is a Truth Seeking Exercise"
+          },
+          {
+            "id": "simplecast:c9fbca28-8043-4e98-a9b4-be9e16133867",
+            "number": "EP.44",
+            "passages": [
+              {
+                "pid": "939100b216eca70d03b0878f0c255c661e19408ff817ceff0c92fe394d068420",
+                "source": "transcript",
+                "text": "…es, infrastructure, all the backend connectivity, API APIs, rails, and rules. Number two is private capital markets. Think of that really broadly, trying to make the public private markets moving them online. I mean, go fish. It's always annoying when people are still passing around PDFs for printing and signing with the deals we do, how do we make these deals more efficient, e…"
+              }
+            ],
+            "rank": 3,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Say “Yes” more often"
+          },
+          {
+            "id": "simplecast:857453c9-ace1-4c46-b4f3-af9eefd84ba8",
+            "number": "EP.171",
+            "passages": [
+              {
+                "pid": "67cea60f50d5da6f917eaa606fb52b216a30618164d2fee6db487d8afbf91d5f",
+                "source": "transcript",
+                "text": "In terms of the amount of capital that actually is applied to innovation, it has grown of course, but it hasn't grown 400 times. And so, the ecosystem as it is today is probably less efficient than it used to be. But it offers a higher potential to people that know how to build something and have an understanding of an opportunity and know how to execute on building a plan to c…"
+              }
+            ],
+            "rank": 4,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Your Biggest Danger Is an Inbound"
+          },
+          {
+            "id": "simplecast:406a365a-2930-4eff-8ed0-32aafd0009b0",
+            "number": "EP.49",
+            "passages": [
+              {
+                "pid": "704aa3276bfa7084e260baf9104507f959204c62acc2660609e76a1ebc15acbd",
+                "source": "transcript",
+                "text": "…tment side as well, but I loved the idea of also. How can we put systems in place to make this more efficient? How can we be learning from our peers? This, when we were building their HIPAA was also the emerging of the platform and venture capital. All of a sudden, everyone was feeling the need to hire a platform manager and have events and have resources to support the portfol…"
+              }
+            ],
+            "rank": 5,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Great entrepreneurs are students of venture capital"
+          },
+          {
+            "id": "simplecast:5f15841a-ef73-45d6-85a3-89545287c16f",
+            "number": "EP.82",
+            "passages": [
+              {
+                "pid": "2dc0a6c91bc389468c4300b4e3fdaddc23579462ba549a07bcb364af2379e2f7",
+                "source": "transcript",
+                "text": "…public multiples are. It's a great time to be an early-stage investor because now there's all this capital downstream. If you're investing in good companies, there's going to be capital for them because there's more supply of capital than demand. And a lot of these cases, there are secondary opportunities and liquidity options all along the way as the company is growing, which…"
+              },
+              {
+                "pid": "b101ffcd4e2e693dced6c1931a98c4abdf584a0805b8662488d2a4915515bb80",
+                "source": "transcript",
+                "text": "…is really needed in the market. People will buy it and they might just have to be a little bit more capital-efficient now and not hire as quickly. But if you survive through this, you're then building the company into what will inevitably be the swing back up in the market. What really matters for us as a fund manager and as a company is what are those multiples look like in se…"
+              }
+            ],
+            "rank": 6,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "Founders With Long-term Vision Are Not Distracted by Public Market Volatility"
+          },
+          {
+            "id": "simplecast:9c62d02e-8590-4de1-9844-e45d33e314d8",
+            "number": "EP.24",
+            "passages": [
+              {
+                "pid": "eac081d164846b9b28488700e6ae72e0d7f8b727acc5b2a48115f33998e510d1",
+                "source": "transcript",
+                "text": "…try and be very data driven. And, and by the way, I would say that I'm a big believer that venture capital is and will always be a human oriented business. It's about building relationships. It's about trust. It's ultimately about investing in people and teams, but throughout this funnel, whether it's sourcing or diligence or even supporting our company's post investment. I th…"
+              }
+            ],
+            "rank": 7,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Clarity of thought combined with empathy is a winning combo"
+          },
+          {
+            "id": "simplecast:18b641ff-352a-4254-b16c-067b3faaa4c1",
+            "number": "EP.27",
+            "passages": [
+              {
+                "pid": "6efa53e24523950bd47caef560348a4fad74116a5cf6b783e3d06213d8f6af44",
+                "source": "transcript",
+                "text": "…me looking at traditional auto insurance and sort of thinking there is and has to be a better, more efficient way to every aspect of auto insurance, whether or not it's from distribution through to the claims process, the customer experience. All of that really piqued my interest. I realized that I wanted to spend more time in early stage, which is when I started looking into t…"
+              }
+            ],
+            "rank": 8,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Show your personality on video calls"
+          },
+          {
+            "id": "simplecast:5d955cc6-d604-46ab-ad57-7d195c8f88e5",
+            "number": "EP.76",
+            "passages": [
+              {
+                "pid": "b4639f13ef8e1723891e5c0199394960e29d7bad3f882898b6c6acaa09c731b8",
+                "source": "transcript",
+                "text": "…ain Jaffer: Prop tech basically is property technologies and it's about helping real estate be more efficient. Being a startup founder, it was terrifying that in my time that was concentrated with one illiquid stock. One day you think you're going to take over the world, the next day you realize you might go bankrupt and have nothing. I always saw other people in real estate ma…"
+              }
+            ],
+            "rank": 9,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Do You Have Unlimited Ambition?"
+          },
+          {
+            "id": "simplecast:5d169383-43cd-4c17-8dac-193df68c34cc",
+            "number": "EP.112",
+            "passages": [
+              {
+                "pid": "c8dcce9bd20eed7cacbfc3f4cb3ade2a7685876a4ea1169b34fbd493fa111583",
+                "source": "transcript",
+                "text": "…we'll be able to capture that mean return. And we do that through fund managers. So we try to be as efficient as possible for the family's capital. And obviously there's a cost to underwrite and due diligence. So we target funds that are more diversified to get to that look through exposure of 1200 portfolio companies every three years or 20% of the US seed ecosystem."
+              },
+              {
+                "pid": "10d66dae3f3533af658db92721f9685229649cfdb89dcb4d53dffdf86fba8aa8",
+                "source": "transcript",
+                "text": "Jamie Rhode: I think what's most exciting about venture capital is I get to see a wide range of emerging technologies. And there's also the ability to fund really interesting and futuristic projects that you don't always get to see on the buyout side when going in and buying a family owned business and making it more efficient or hiring a sales team and doing value add - merger…"
+              }
+            ],
+            "rank": 10,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "Diversified VC Portfolios Find Big Winners"
+          },
+          {
+            "id": "simplecast:efa83df4-f3ea-4c91-abc2-5c04152740f1",
+            "number": "EP.70",
+            "passages": [
+              {
+                "pid": "d49c320c98ed5dd509a332d9d705cd3e6a58066cd8e845d3ef8cf6d6f79f7302",
+                "source": "transcript",
+                "text": "…early-stage, I would say pre-series A. I like these old school series A's like $4 to $8 million in capital-efficient businesses, and invest $2 to $6 million checks in creative and nimble ways. We love to lead and price."
+              },
+              {
+                "pid": "1e2a0d2fa60d1cff5add198863723d325cef3dd065478f4f904194605edac619",
+                "source": "transcript",
+                "text": "…ny-investor fit. It's a very simple rule, but it's one that we strive for. So I want to find really capital-efficient businesses where we can come in and own a meaningful piece and show leadership. And two, we like these twinner rounds; in between seed and A, in between A and B."
+              }
+            ],
+            "rank": 11,
+            "sources": [
+              "Transcript · 2 matches"
+            ],
+            "title": "Good Corporate VCs Think Strategically"
+          },
+          {
+            "id": "simplecast:c48f9e24-1980-45e7-9189-a5eb681dcaa1",
+            "number": "EP.62",
+            "passages": [
+              {
+                "pid": "a3b2ec69823b8e8e26fee7bd74b9491f5d5adbcc40f3151d468e5c4774e1a775",
+                "source": "transcript",
+                "text": "…that I had hired to teach that course actually said to me, “I actually don't think that's the most efficient way of leveraging your resources. I'm talking about starting a fund. Would you like to work on it with me?” I looked at him and I said, “I don't know anything about venture capital.” And he told me something that I'll never forget. He said, “Your job now at General Asse…"
+              }
+            ],
+            "rank": 13,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Technology redefining the future of work"
+          },
+          {
+            "id": "simplecast:16a3d101-e4bb-47ad-b465-faf33aaf56c5",
+            "number": "EP.92",
+            "passages": [
+              {
+                "pid": "fe4ffd09a102711a4d5b8af9d4cabaffee1d8f82fea783ea8b4d5e6126d93b05",
+                "source": "transcript",
+                "text": "…ocietal level. And then I also think, at the end of the day, economics kind of holds a particularly efficient way. If I was to change something about venture capital, it should be around something that I have annoyance with. And maybe not me, you know, that we collectively have some annoyance within venture capital. It's tough because one of the spaces that people complain abou…"
+              }
+            ],
+            "rank": 14,
+            "sources": [
+              "Transcript · 1 match"
+            ],
+            "title": "Choose Investors Who Care"
+          }
+        ]
+      }
+    ],
+    "deepURL": "http://127.0.0.1:8765/episodes/3ae69392-b535-45ae-ac78-27639c425637/transcript?passage=5fdff642b9bb23b4840afbe772c7dcb6c433231bab8d11bd14e5cd3e6b767472&return=%2F%3Fq%3Dchoosing%2Ba%2Bpartner%2Bin%2Blife%26source%3Dtranscript"
+  }
+}

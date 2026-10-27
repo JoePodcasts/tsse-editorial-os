@@ -1,0 +1,537 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 299,
+      "excerpt": "We've actually made several investments in the middle section of the us as well as Canada. So, I would say, in terms of geography, which is also tied to another myth that you need to be in one of these major tech hubs to pitch investors, we can dispel that right now. I think geography is overrated.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 665,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Ariana Thacker. She's the founding partner at Conscience VC. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 301,
+      "timestamps": []
+    },
+    {
+      "end": 723,
+      "excerpt": "Welcome Ariana. I'm super excited to talk to you today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 667,
+      "timestamps": []
+    },
+    {
+      "end": 804,
+      "excerpt": "Ariana Thacker: Hi, I'm so excited to be on the show. Thank you for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 725,
+      "timestamps": []
+    },
+    {
+      "end": 1155,
+      "excerpt": "Gopi Rangan: We're gonna ask you a lot of questions about how you became a VC, what you look for in entrepreneurs, how you evaluate opportunities for investments. Hopefully, we'll talk about some misnomers and myths that people believe is true which is not really true. I'm very excited to hear your version of how you make investments in startups. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 806,
+      "timestamps": []
+    },
+    {
+      "end": 1214,
+      "excerpt": "Ariana Thacker: Perfect. I'm excited to dive in as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 1157,
+      "timestamps": []
+    },
+    {
+      "end": 1349,
+      "excerpt": "Gopi Rangan: Let's start with you. Tell us about your journey. You grew up in Los Angeles, but you now live in Miami. Is that right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1216,
+      "timestamps": []
+    },
+    {
+      "end": 1439,
+      "excerpt": "Ariana Thacker: Yeah, that's right. I joined the Miami train. So , I'm living here now. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 1351,
+      "timestamps": []
+    },
+    {
+      "end": 1697,
+      "excerpt": "Gopi Rangan: How did the journey start early in your career? You were an operations engineer. You were in the deep tech of things, and then you slowly moved into the investment world. What incentivized you? What attracted you to the venture capital world? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1441,
+      "timestamps": []
+    },
+    {
+      "end": 2526,
+      "excerpt": "Ariana Thacker: Yeah. So, I graduated in chemical engineering from UCLA, went on to work at large companies and realized these big companies just move a little too slowly for me. I transitioned into startups and that's where I just found total resonance with my personality and what I like to do, and the level of impact I like to see through my work. I saw venture capital as a way to execute that level of impact at scale. So, I joined a VC firm, learned a lot and mostly where's the opportunity and venture, and that set the foundation to what I'm building now in Conscience, which is a firm focused on the intersection of consumer and science, which is a punchy way of saying that we invest in companies that drive serious value for the individual through some sort of technical breakthrough or technically defensible moat.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 1699,
+      "timestamps": []
+    },
+    {
+      "end": 2890,
+      "excerpt": "The quick litmus test for that is, \"Hey, if a group of smart folks can build what you're doing in less than a year, not quite a fit for what our firm likes to invest in. That's the thesis behind Conscience. And also the summary of the experience is leading up to being an investor, which I very much enjoy it's total founder-market fit, I guess you can call it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2528,
+      "timestamps": []
+    },
+    {
+      "end": 3126,
+      "excerpt": "Gopi Rangan: You invest in very early stage companies and you invest in science-led consumer companies. I wanna talk more about what you do at Conscience but I'm curious to understand: why VC? What's really interesting for you in VC? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2892,
+      "timestamps": []
+    },
+    {
+      "end": 3653,
+      "excerpt": "Ariana Thacker: Yeah, I love working with founders. I think they're some of the most understated people on the planet. They're driving the economy. They're solving these tough problems. They're working their butts off to make all these glorious things happen for the broader population. It's just such an admirable position to be in and position to be working with such incredible folks. I feel incredibly energized and motivated working with the folks that I work with. I just think it's one of the best jobs on the planet. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 3128,
+      "timestamps": []
+    },
+    {
+      "end": 4306,
+      "excerpt": "One of my values is learning, and through this job I can learn constantly. I learn from some of the most brilliant people on a daily basis, and it keeps me on my toes. I also feel like I love working on several different types of projects and learning several different types of subjects at once. So, it's one of the rare opportunities where you can just have a wide net in terms of what you're involved in and where you can drive impact. It's just the accumulation of all the things I love in a role. And it's also one of the most authentic positions I've had in my career. I mean, I can't even underline this further. I just really enjoy what I do. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3655,
+      "timestamps": []
+    },
+    {
+      "end": 4955,
+      "excerpt": "Gopi Rangan: It is the best job in the world, indeed, for me as well. The founders we work with, they start with a blank sheet of paper and they start with first principles on how the world should be, if they had complete control over how to design the future. They are unencumbered by systems and processes of the existing world and they imagine a future. They're deeply knowledgeable about this space, so there's a lot to learn from them. And the fact that there's a variety of projects that we can work on in parallel as VCs investing in multiple companies, that's very fulfilling as well. I can see why you like being a VC. You really love it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4308,
+      "timestamps": []
+    },
+    {
+      "end": 5137,
+      "excerpt": "Ariana Thacker: I love that framing too. Yeah. The full creative freedom you have in the role too. It's just incredible. It just ties left brain and right brain thinking into one. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 4957,
+      "timestamps": []
+    },
+    {
+      "end": 5479,
+      "excerpt": "Gopi Rangan: How is Conscience VC different from other firms? There are many early-stage firms and there are quite a few hard science focused VC firms. Not many that are focused on science and consumer. That's a differentiator in itself. But generally, how do you describe Conscience VC to a founder? And how is it different from other VC? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5139,
+      "timestamps": []
+    },
+    {
+      "end": 5964,
+      "excerpt": "Ariana Thacker: Great question. I think the thesis is quite differentiated. Typically, with the deep tech firms, to your point, you see more of an enterprise or industrial focus. I'm pretty sure I'm the only firm operating at the early stages at this intersection, exclusively focused on consumer or companies that benefit the individual. And on the consumer side, you don't really see a firm focused on the technical defense ability aspects. So we're bearing both of those together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 5481,
+      "timestamps": []
+    },
+    {
+      "end": 6376,
+      "excerpt": "In terms of how we operate as a firm, we're doing a lot of really interesting products and building inside. Those are gonna stay under wraps for now, but I'll be releasing more and more of that in the upcoming months. But we are actively building products. We have a comprehensive scout program. We are also expanding geographies too. I'm in the process of unfolding that. More on that in the upcoming months. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5966,
+      "timestamps": []
+    },
+    {
+      "end": 6610,
+      "excerpt": "Gopi Rangan: I wanna go into a lot more detail about your investments, but let's set this stage with some of the basics. What stage do you invest? How early is too early? How late is too late? When do you like to meet entrepreneurs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6378,
+      "timestamps": []
+    },
+    {
+      "end": 6914,
+      "excerpt": "Ariana Thacker: Definitely. I have a soft spot for the pre-seed stages, but we invest anytime before series A. More recently, I've been looking at pre-series a bridge rounds as the markets are kind of tumultuous, but still spending a lot of time on pre-seed stage companies. So anything in that realm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 6612,
+      "timestamps": []
+    },
+    {
+      "end": 7152,
+      "excerpt": "In terms of company progress, we've invested quite early: pre-product, pre-revenue even sometimes a single founder only on the team all the way up to as mentioned the pre-series A round. We play in that entire breadth of the landscape. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6916,
+      "timestamps": []
+    },
+    {
+      "end": 7391,
+      "excerpt": "Gopi Rangan: Okay. Now I wanna get into some of the more interesting things where we can dispel myths that people believe may be true in VC. Do you favor serial entrepreneurs who have built businesses before or first time entrepreneurs? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7154,
+      "timestamps": []
+    },
+    {
+      "end": 7624,
+      "excerpt": "Ariana Thacker: I think psychology plays an important role in building a company. Oftentimes you see the serial entrepreneurs having the right psychology to build the business, but we've also backed several first time founders too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 7393,
+      "timestamps": []
+    },
+    {
+      "end": 8130,
+      "excerpt": "I would say we lead more towards serial entrepreneurs, but definitely we have first time founders represented in our portfolio. I think it also more so benefits certain types of companies to have that experience prior. For example, building a biotech company is a very challenging type of business to build from scratch as a first time entrepreneur. So there's certain industries that we wouldn't favor a sterile entrepreneur, but others where we feel a lot more comfortable with the first-time founder. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7626,
+      "timestamps": []
+    },
+    {
+      "end": 8411,
+      "excerpt": "Gopi Rangan: Yeah, sometimes too much experience is liability. Fresh thinking and naive is actually helpful in some cases. Is that true for industry experience as well? Do you prefer to see a lot of experience in entrepreneurs or do you prefer people who are new to an industry? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8132,
+      "timestamps": []
+    },
+    {
+      "end": 8984,
+      "excerpt": "Ariana Thacker: I'm looking more so for a deep understanding of the problem and demonstrated market pool, if that's available. If a founder's able to demonstrate that deep understanding and that they've done the extensive customer discovery required to build a business and the level of thoughtfulness and specificity, then that opportunity becomes a lot more compelling. Whether you have that deep experience in that industry or not is less relevant if you're able to super learn and you're able to just collect all the valuable data points you need to build a business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 8413,
+      "timestamps": []
+    },
+    {
+      "end": 9528,
+      "excerpt": "To your point, I agree. Fresh eyes are critical to creativity. I like seeing that balance prior deep experience is not necessarily required for the types of founders that we back and types of businesses that we back. But again, there's always caveats with that too. Certain sectors, I think, do require that deep experience, but for the majority of companies we look at, that's not a requirement. That's more of a nice to have, or maybe to your point, even an inhibitor sometimes, because you're not able to see those wide open opportunities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8986,
+      "timestamps": []
+    },
+    {
+      "end": 9735,
+      "excerpt": "Gopi Rangan: Can you give an example of one such company where you engaged with the founder and you saw the depth of knowledge that they had thought about the problem, it came through in the conversation? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9530,
+      "timestamps": []
+    },
+    {
+      "end": 10667,
+      "excerpt": "Ariana Thacker: Yeah, absolutely. So we backed Peter Weijmarshausen who is the founder of Shapeways. That's a 3d printing company that recently IPOed. For a second business now [Humane Genomics], he's building a biotech company from scratch and he just demonstrated this incredible ability to deeply understand the science, the problem, and also surround himself with advisors and team members that have that deep experience to build this business. That's an example where I kind of broke some of my rules where I need someone without deep experience for this type of business, or maybe the expectations from investors that you need that experience to build this business, and the results have been pretty incredible in a short amount of time. I like seeing those transferable skills and I like seeing that deep ability to super learn and he's demonstrated that quite clearly when we invested and he continues to demonstrate that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 9737,
+      "timestamps": []
+    },
+    {
+      "end": 11002,
+      "excerpt": "Gopi Rangan: Looks like in this case the founder was quite knowledgeable and it came through in your first few conversations. How much does pedigree matter? Does it matter if the founders have degrees from popular universities or have an MBA, do those kind of qualifications matter to you? Do they come up in your evaluation process?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10669,
+      "timestamps": []
+    },
+    {
+      "end": 12153,
+      "excerpt": "Ariana Thacker: It's not even a question we ask. It's not something we personally pay attention to. And I think there's this general openness to people's non-traditional paths in venture. Not everyone has to have this standard straight line career path or have attended the top schools. A lot of the best founders, at least in my opinion, have stranger unconventional experiences. I find these stranger paths more enticing and more relevant to the business to explore. I would disagree that you need to have attended a Stanford or an MIT or a Harvard, or have received an MBA. Or those other checklist items that tie into the myth that you need to have those things in order to be a strong founder or to pitch investors. I don't hold too much weight on those requirements. I'd say there are investors that do that, but in terms of the investors I interact with, that's not even really a nice to have, not something that's paid too much attention to. I would caveat that though, with, if you do have a technical co-founder, certain gloves do hold more weight than others. So, that is paid attention to, but generally for the CEO and founder less so. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 11004,
+      "timestamps": []
+    },
+    {
+      "end": 12446,
+      "excerpt": "Gopi Rangan: Yeah, I've seen investment firms that heavily index on pedigree. They would only invest in founders if they graduated from one of these top schools or they worked at one of these big name companies like Google or Talent Tier or Salesforce, or one of those type of big companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12155,
+      "timestamps": []
+    },
+    {
+      "end": 12902,
+      "excerpt": "But I've also seen VC firms that do the exact opposite: \"We do not invest in founders who have pedigree. If you come out of Stanford, MIT, or Harvard, we will not invest in you. We will only invest in the underdogs. They are the ones that are hungry and eager to prove to the world that what they're building matters. So they have a different thesis.\" I'm always fascinated to see how thematically opposite these two thesis are. Both exist in the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12448,
+      "timestamps": []
+    },
+    {
+      "end": 13086,
+      "excerpt": "Ariana Thacker: Yeah, I would say I am more so in the second camp, I think when you have that chip on your shoulder, that's more so my vibe. I think that does lead to outperformance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 12904,
+      "timestamps": []
+    },
+    {
+      "end": 13293,
+      "excerpt": "Gopi Rangan: Do entrepreneurs need to have an existing network of VCs? Do they have to become friends with them? Get to know them, build a relationship over a period of time before they start fundraising? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13088,
+      "timestamps": []
+    },
+    {
+      "end": 13833,
+      "excerpt": "Ariana Thacker: I think that's tied to another common myth that I need an investor network in order for my company to get off the ground or to get in front of investors. That's just simply not true. There are several firms, including ours, that have an open application to pitch. You're seeing this more and more, and there's so many lists available of investors that are responsive to cold emails. I've responded to several LinkedIn messages that were inbound. As long as the company was relevant to our thesis, I'm very happy to engage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 13295,
+      "timestamps": []
+    },
+    {
+      "end": 14213,
+      "excerpt": "There are a lot of cold emails that I get are that are just not relevant to our thesis though. So investors are just more accessible than ever and even more so during COVID just the entire ecosystem went virtual and firms had to adapt and it's no longer this kind of warm intro, handshake or meet in person, have this extensive network with several touchpoints kind of industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13835,
+      "timestamps": []
+    },
+    {
+      "end": 14528,
+      "excerpt": "I think a lot of these folks are a lot more accessible than you think, particularly on Twitter DMS. I'm not on Twitter, but there are several examples I've heard of through my network of founders reaching out and getting in front of these investors and ultimately having their engagement and having them involved.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14215,
+      "timestamps": []
+    },
+    {
+      "end": 14965,
+      "excerpt": "So I wouldn't discredit what you're doing or disqualify yourself if you don't have that investor network in advance. Beyond that, there are a lot of accelerators and incubators, which then lead to demo days that get you in front of so many more investors. So it's amazing what a bit of hustle, likability, and ultimately start power if you can incorporate that in the mix can do to unlock this network if you're starting from scratch. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14530,
+      "timestamps": []
+    },
+    {
+      "end": 15288,
+      "excerpt": "Gopi Rangan: Very well said. Can you share some details of the companies that you've invested at Conscience? How many of the founders you knew from long time ago? How many of them you met recently, or how many of them cold called you and you took the meeting and it turned into an investment, maybe with examples as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14967,
+      "timestamps": []
+    },
+    {
+      "end": 15979,
+      "excerpt": "Ariana Thacker: Yeah, for sure. We haven't announced this one yet, but our most recent investment was a cold email inbound. So, it definitely does work. I would say all the companies out of Conscience today were not from preexisting relationships. So I met them through founders in the portfolio that came strongly recommended through our scout program, through other investor introductions, there's just a wide variety of ways to reach an investor. And there was no preexisting relationship. There wasn't this long history of touchpoints and frankly, they didn't have investor networks for the most part going in, I would say, except for some of the serial entrepreneurs in the portfolio.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 15290,
+      "timestamps": []
+    },
+    {
+      "end": 16160,
+      "excerpt": "So we haven't yet invested in a founder through our open application that just went live a few months ago, but we're very excited and we're checking that daily for opportunities. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15981,
+      "timestamps": []
+    },
+    {
+      "end": 16597,
+      "excerpt": "Gopi Rangan: This is great. You're dispelling a lot of myths and you're giving practical examples of investments that you've made based on principles that you believe in, which kind of go against the grain of what most other VCs may do or people believe is true. This is very, very interesting, indeed. What are some specific areas for your investments? What are some topics that excite you today? What are some trends you're excited? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16162,
+      "timestamps": []
+    },
+    {
+      "end": 17131,
+      "excerpt": "Ariana Thacker: For sure. At a high level, our thesis is divided into three buckets. So consumer and bio, consumer and physical products and consumer and digital. If you double click on that, that spans a whole span of different types of companies spanning from syn-bio to novel ingredients that inform verticalized food products to prescription digital therapeutic to mobility, even gaming if there's some sort of technical component to that. One of our companies is actually in the gaming space, which always raises some interest.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 16599,
+      "timestamps": []
+    },
+    {
+      "end": 17652,
+      "excerpt": "There's a wide variety of the types of companies that we look at. Our main litmus tests include at least 12 months of technical defensibility and some sort of benefit for the individual; not necessarily a consumer business model, but we are looking for the value proposition to live mainly with the end user versus the enterprise. Examples of companies that would be out of scope include novel manufacturing technologies or supply chain or logistics, all of those types of companies would be out of scope for our firm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17133,
+      "timestamps": []
+    },
+    {
+      "end": 17864,
+      "excerpt": "Gopi Rangan: 12 months of defensibility. Can you explain that a little more? What does that mean, and especially in today's market where things have actually slowed down quite a bit, what does that really mean?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17654,
+      "timestamps": []
+    },
+    {
+      "end": 18265,
+      "excerpt": "Ariana Thacker: Yeah, I found the term deep tech or science led confuses a lot of folks. They're not sure how to clearly define that. So I just slapped a lead time to that in terms of 12 months of technical defensibility. If it takes a group of smart engineers, scientists, developers, to hack what you're doing in less than a year, there's not enough defensibility for us to consider an investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 17866,
+      "timestamps": []
+    },
+    {
+      "end": 18675,
+      "excerpt": "So that actually rolls out a wide net of companies for us to consider. For example, a lot of the consumer SaaS apps would be out of scope. A lot of the actually consumer hardware products would also be out of scope because it is not that challenging to put these things together. And it's often off the shelf technology versus companies actually building something innovative, something novel and defensible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18267,
+      "timestamps": []
+    },
+    {
+      "end": 19058,
+      "excerpt": "Gopi Rangan: So, the barrier to entry is what you're describing. The companies will have a 12 months of sensibility for their business before a competitor jumps in and begins to compete with them. Can you give an example of one of the companies at the time when you made an investment? You saw that 12 months of defensible and how it panned out later after you made the investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18677,
+      "timestamps": []
+    },
+    {
+      "end": 20130,
+      "excerpt": "Ariana Thacker: One of our portfolio companies is a company called Nimbus, which is a micro mobility solution. What they're doing is creating these personal transportation vehicles that have the form factor of a motorcycle, but the safety features of a car. So if you look up their website, nimbus.green, you'll see a vehicle that's as compact as half of the width of a smart car. So it is quite lean, but it's completely enclosed and they solve something called the narrow tilting vehicle problem. So, if you've ever been on a motorcycle intuitively, you would understand this concept. When you bank a corner on a motorcycle, you use your body weight to prevent the vehicle from rolling over. This car mimics that through hardware and software innovation, which is quite impressive. It's something the large OEMs have had difficulty accomplishing and they did this with at the time of our investment just $400,000 worth of funding and a small team from ***** and Stanford. So they were able to achieve this incredible outcome and we invested into their pre-seed round. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 19060,
+      "timestamps": []
+    },
+    {
+      "end": 21035,
+      "excerpt": "Fast forward now they're at around $70 million worth of LOIs. They're still pre-launch, but they're getting international interest. They're coaching executives from some of the top automotive companies and just strong pilots with fantastic partners. I'm very excited for that company, and just a clear example of a company in our thesis too, where there is strong technical defensibility. In fact, they've solved one of the more challenging automotive problems with very limited resources, clear consumer value proposition in terms of traffic and parking. So now with such a much more compact vehicle, which is four times more compact than traditional cars that. A lot in terms of being able to navigate through crowded streets and finding parking readily, but also is three times more green than traditional electric vehicles too. So there's a sustainability and impact angle to what they're building. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20132,
+      "timestamps": []
+    },
+    {
+      "end": 21330,
+      "excerpt": "Gopi Rangan: Fascinating, indeed. I can see why you geek out on all these science-related topics and why you like investing in companies like this one. I have a tough question for you. You're from the west coast in Los Angeles, but now you are in Miami. Which coast has the best entrepreneurs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21037,
+      "timestamps": []
+    },
+    {
+      "end": 22749,
+      "excerpt": "Ariana Thacker: I would say it depends on what you're looking for. So I would say Miami has some pretty strong Web3 founders, for sure. I would say Massachusetts, Boston specifically, has some really strong biotech entrepreneurs. I would say New York has some really great FinTech and consumer founders. I think the east coast is strong in these elements, but I think the caliber of founders on the west coast they're both very strong. I wouldn't pick one coast over the other and I actually think the middle is quite neglected and we've actually made several investments in the middle section of the us as well as Canada. I would say in terms of geography, which is also tied to another myth that you need to be in one of these major tech hubs to pitch investors, so we can dispel that right now, I think geography is overrated for founders and it's talked about frequently, but there's so many more entrepreneurial hubs now after COVID. The remote first attitude has very much been adopted by investors. I would say it like very rarely comes up on a call, whether we ask where you're located and whether that really influences the decision or not. It's more so a question of resources available to you and if you clearly demonstrate you're able to take advantage of the resources you have and you're savvy, and you can build the business and really move quickly, then the question of location doesn't really matter.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 21332,
+      "timestamps": []
+    },
+    {
+      "end": 22949,
+      "excerpt": "You might have noticed this with your friends. They've relocated to random parts of the states. It's always a big question mark, where the other person is calling in from in advance of a zoom call. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22751,
+      "timestamps": []
+    },
+    {
+      "end": 23538,
+      "excerpt": "Gopi Rangan: You give a very diplomatic answer for the challenging question, but I want to dig deeper on this one. There's a theory that you got to be in one of the hubs, especially Silicon Valley. If Mark Zuckerberg had not moved to Palo Alto, Facebook may not have happened. Well, that's a theory that some people believe in and you can say that about many other companies. The ecosystem, the network, the ability to find top talent, find early believers, early customers, and various other aspects of building a business that's necessary, especially in the early days of the business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22951,
+      "timestamps": []
+    },
+    {
+      "end": 23899,
+      "excerpt": "It's important to be in an ecosystem like Silicon valley. Your comment is the opposite, which is like, \"Hey, you know, you don't need to have that. You can be in the middle of the US as well and still build a great business.\" Have things changed, especially in the past two years because of remote work and all that, because now entrepreneurs can be anywhere?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23540,
+      "timestamps": []
+    },
+    {
+      "end": 23999,
+      "excerpt": "I have a view on that and I invest all over the us as well. But I'm curious to hear your opinion. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23901,
+      "timestamps": []
+    },
+    {
+      "end": 24617,
+      "excerpt": "Ariana Thacker: What I've seen is just this total resourcefulness from these founders. I think with this remote first environment, now that the amount of talent you can access is opened up, there is a lot more flexibility in your thinking and a lot less rigidity. Maybe before, if you were based in SF, where there's a tremendous pool of talent, you would just be limited to who you're meeting in the city. But now you can access anyone in the world. For the resourceful, which includes I'd imagine all founders, this has been a better opportunity and it even more deemphasize the need to be based in certain cities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 24001,
+      "timestamps": []
+    },
+    {
+      "end": 25123,
+      "excerpt": "But where's the downside with that? I think certain businesses really do benefit from in person interaction. Maybe those businesses are penalized and maybe those businesses should be prioritized to stay any bigger cities and hubs. But for several companies, I imagine this has been an even better change for them in terms of the talent they can access how quickly they can move and just the level of resources that they can get ahold of just through this shift in thinking and structure of their company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24619,
+      "timestamps": []
+    },
+    {
+      "end": 25481,
+      "excerpt": "Gopi Rangan: Very interesting, indeed. I'm eager to see how the next few years evolve and create opportunities for entrepreneurs anywhere in the US, and perhaps outside the US as well. I want to switch to the last part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25125,
+      "timestamps": []
+    },
+    {
+      "end": 26252,
+      "excerpt": "Ariana Thacker: There's an organization that's been very close to my heart for a while - Society of Women Engineers. I was actually president of that organization back in college. They do incredible work of getting more women in STEM and into these technical roles. It's one of the most organized, like high ROI organizations I've never been a part of. They do just incredible work and there's several of these communities on campus too. So I just think the work that they're doing is incredibly underrated for so many students, and that really leveled me up when I was in school and gave me access to opportunities I wouldn't have dreamed of like really valuable internships, friendships that have lasted since graduating and I'm just a huge fan of that organization. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 25483,
+      "timestamps": []
+    },
+    {
+      "end": 26516,
+      "excerpt": "Gopi Rangan: Ariana, thank you so much for spending time with me sharing a lot of examples from your own experience, dispelling many myths in VC and sharing practical examples to inspire founders. I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26254,
+      "timestamps": []
+    },
+    {
+      "end": 26588,
+      "excerpt": "Ariana Thacker: Thank you so much for having me. It was a lot of fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ariana Thacker",
+      "start": 26518,
+      "timestamps": []
+    },
+    {
+      "end": 26879,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26590,
+      "timestamps": []
+    },
+    {
+      "end": 26932,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26881,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "2723b37e040f59ccd13ca4d5fa88f89d0bd98a81b6d71064719028b0defb7f12",
+  "text_sha256": "8aa2f48dfe9f92240fcafeeae4a56d65b76e07347386a881a0ea4bb85d95b54c"
+}

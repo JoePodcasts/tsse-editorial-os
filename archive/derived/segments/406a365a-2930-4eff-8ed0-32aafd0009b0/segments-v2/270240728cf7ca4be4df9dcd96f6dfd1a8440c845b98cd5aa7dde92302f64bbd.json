@@ -1,0 +1,1007 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 359,
+      "excerpt": "Kate Beardsley: [00:00:00] I'm sure. We all go back to like March 15th, 2020, where like the world was shutting down and it was just weirdly paralyzing, you know, to feel like everything in your plans were just no longer in your plans. It was so strange, but yes, like we could conduct business as usual because a lot of what we were already doing was remote.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 16,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 782,
+      "excerpt": "Gopi Rangan: You are listening to the sure shot entrepreneur podcast, for founders with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the shore shot entrepreneur. I met Kate Beardsley. She's the founding partner at Hannah Gray. Kate is based in Denver, Colorado, and she's a venture capital investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 361,
+      "timestamps": []
+    },
+    {
+      "end": 906,
+      "excerpt": "She [00:01:00] invests at the intersection of human behavior and technology. Kate, welcome to the short shot entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 784,
+      "timestamps": [
+        {
+          "offset": 788,
+          "raw": "[00:01:00]",
+          "seconds": 60
+        }
+      ]
+    },
+    {
+      "end": 981,
+      "excerpt": "Kate Beardsley: Thank you so much for having me. I'm thrilled to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 908,
+      "timestamps": []
+    },
+    {
+      "end": 1124,
+      "excerpt": "Gopi Rangan: Tell us about yourself. I see a very interesting starting point in your career, where you were chief of staff at Martha Stewart.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 983,
+      "timestamps": []
+    },
+    {
+      "end": 1171,
+      "excerpt": "Kate Beardsley: Yes, I was, it's fascinating.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 1126,
+      "timestamps": []
+    },
+    {
+      "end": 1517,
+      "excerpt": "Looking back to my career, that that was actually incredible groundwork being on the operating side and being right next to the entrepreneur and Martha being sort of the godmother who started at all. She did everything from media and products, and wasn't a celebrity when she started, but certainly was once she became a wonderful entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1173,
+      "timestamps": []
+    },
+    {
+      "end": 2046,
+      "excerpt": "So that was just an incredible starting point. And then I was in New York, 2006 is when, and then moved over to the Huffington post to be an early employee there and chief of staff to kindlier where he introduced me to angel investing. That was what he was doing on the side. And it made a lot of sense, you know, being the first internet newspaper, and then I'm being on the operating side and seeing how we were building a [00:02:00] technology infrastructure with the news overlay, which was really fascinating for the time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1519,
+      "timestamps": [
+        {
+          "offset": 1944,
+          "raw": "[00:02:00]",
+          "seconds": 120
+        }
+      ]
+    },
+    {
+      "end": 2507,
+      "excerpt": "And then I was the first founding member of they were hippo, which is now an incredible firm in New York and just wonderful brand. And it was amazing to be at the forefront of that and be the first employee in the ground floor of building the infrastructure very much like an entrepreneur of how are we going to structure this company and what is it going to stand for and how are we going to help entrepreneurs differently as a innovation on venture capital?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2048,
+      "timestamps": []
+    },
+    {
+      "end": 2811,
+      "excerpt": "And then that led to me working at galvanize, which I would say took that innovation further with office space and a coworking community, but also tech education and access to developing talent and community building. And now how are we advancing on that with Hannah Gray and my partner, Jessica Peltz.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2509,
+      "timestamps": []
+    },
+    {
+      "end": 3112,
+      "excerpt": "Gopi Rangan: It's an incredible journey across so many different areas of venture capital. I'm curious to understand this is sort of an unknown for a lot of people. You are director of operations at letter hippo. What [00:03:00] operations happens within a venture capital firm? What do you manage? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2813,
+      "timestamps": [
+        {
+          "offset": 3031,
+          "raw": "[00:03:00]",
+          "seconds": 180
+        }
+      ]
+    },
+    {
+      "end": 3167,
+      "excerpt": "Kate Beardsley:  Yeah, the whole thing is operations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 3114,
+      "timestamps": []
+    },
+    {
+      "end": 3483,
+      "excerpt": "If you think about it, like a fund is just a piece of paper. That is the marking, which is a lot of businesses, right? It's an incorporation document, but what makes the thing go around and following through with all the things you're saying you're going to do is, is operations. And so it's the mechanics of that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3169,
+      "timestamps": []
+    },
+    {
+      "end": 3914,
+      "excerpt": "And so I was on the investment side as well, but I loved the idea of also. How can we put systems in place to make this more efficient? How can we be learning from our peers? This, when we were building their HIPAA was also the emerging of the platform and venture capital. All of a sudden, everyone was feeling the need to hire a platform manager and have events and have resources to support the portfolio at scale versus just.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3485,
+      "timestamps": []
+    },
+    {
+      "end": 4231,
+      "excerpt": "Partner a, has these deals to do and partner B has these deals to do it became a machine. And that machine is one side sided. We're middle money managers as venture capitalists. And so there was one [00:04:00] job which is clearly an important one of working with the founders and providing them resources at scale.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3916,
+      "timestamps": [
+        {
+          "offset": 4115,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 4716,
+      "excerpt": "I mean the Lear portfolio, when I was, there was massive, it was 200 plus companies across three funds. So that's a lot of work for a few people. And then how do you also manage. Your investors at scale. And so what are those structures like? The advancement I've seen from when I started in 2010 to now, as that the LPs who used to be relatively passive and just kind of expecting a K one once a year and some quarterly updates actually want to understand more, can they be helpful?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4233,
+      "timestamps": []
+    },
+    {
+      "end": 5055,
+      "excerpt": "Can they be resources? There's more of a community to be managed on that side. And there's more resources that can be put to work. So. All of those connective tissue or operational exercises, which are not dissimilar from a company, putting together, building a community or working with this customer set, it's just a different product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4718,
+      "timestamps": []
+    },
+    {
+      "end": 5302,
+      "excerpt": "Gopi Rangan: So the fabric of infrastructure that keeps the organization [00:05:00] floating is what you took care of at little hippo. I'm very eager to ask you about Hannah Gray. What is Hannah Gray? How did you come about creating Hannah Gray?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5057,
+      "timestamps": [
+        {
+          "offset": 5130,
+          "raw": "[00:05:00]",
+          "seconds": 300
+        }
+      ]
+    },
+    {
+      "end": 5412,
+      "excerpt": "Kate Beardsley:  Hannah Gray was something I'd say that had been in the planning stages for quite some time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 5304,
+      "timestamps": []
+    },
+    {
+      "end": 5764,
+      "excerpt": "Jessica and I met in 2014 and we've been partners in the work the last six, seven years upon meeting one another. We instantly knew that we would work together. Somehow. She was at a corporate venture capital firm and I was at galvanize, but we just started collaborating. It was first doing co-investments together and that led to regular check-ins.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5414,
+      "timestamps": []
+    },
+    {
+      "end": 6110,
+      "excerpt": "And that led to working on theses together and saying like, well, I'm thinking about this. How are you thinking about that? Taking calls together, taking diligence for companies and really becoming partners in our activities. Even though Hannah grays, a new firm by name Jess and I have been coworkers, colleagues and partners for quite awhile.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5766,
+      "timestamps": []
+    },
+    {
+      "end": 6444,
+      "excerpt": "And the way that we've been thinking about studying and being apprentices of the trade and saying, oh, we love how that firms doing that. Or let's go [00:06:00] dig into this. And so we've really looked at the business of venture capital and how we can apply the things that we feel are compelling or work with our model to do that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6112,
+      "timestamps": [
+        {
+          "offset": 6262,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 6848,
+      "excerpt": "But in terms of facts, we are a pre-seed seed fund. Targeting early checks. We are generalists. We'll invest across the country. We'll invest in any type of human being. And we're really thematic in that strategy. We can kind of dive into those themes, but at a high level, it's three categories. The first one we're calling community driven commerce, which we had a lot of success with commerce deals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6446,
+      "timestamps": []
+    },
+    {
+      "end": 7204,
+      "excerpt": "When I was at Lira hippo. Information urgency, which also leans more towards SAS machine learning. AI expanding availability is more technology that transforms overlooked audiences into profitable customers and that's thesis. We had pre COVID, but there's just so much disruption around technology is no longer built for coastal elites it's for everyone.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6850,
+      "timestamps": []
+    },
+    {
+      "end": 7255,
+      "excerpt": "And where could those opportunities be uncovered?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7206,
+      "timestamps": []
+    },
+    {
+      "end": 7459,
+      "excerpt": "Gopi Rangan: The birth of a new venture capital farm is always a special time. So [00:07:00] congratulations on launching the new VC farm. Where does the name? Hannah Gray come from? Thanks for asking. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7257,
+      "timestamps": [
+        {
+          "offset": 7339,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 7669,
+      "excerpt": "Kate Beardsley: We named it after our daughters. Again, we had this idea quite a while ago, so at the time Jess and I only had one kid, each her oldest daughter is Ray, Hannah, and mine is going to sing gray.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 7461,
+      "timestamps": []
+    },
+    {
+      "end": 8073,
+      "excerpt": "And now we both have two daughters each. So we have to figure out what to name something for the second ones, because we're going to give them a complex, but it also speaks to just the brand that we want to be building as a venture capital firm. Having worked with consumer facing companies. We just understand there's so much more ways in which one can connect with founders and it just sounds better.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7671,
+      "timestamps": []
+    },
+    {
+      "end": 8299,
+      "excerpt": "It stands out. There's a purpose for it. It's a really good reminder of why we get up every morning and why we're doing this. It sounds a lot better than Beardsley is that you leverage that you love Beardsley. If I'm honest,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8075,
+      "timestamps": []
+    },
+    {
+      "end": 8405,
+      "excerpt": "Gopi Rangan: I have a daughter as well. She's three years old. I wish I had named my firm Maya  capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8301,
+      "timestamps": []
+    },
+    {
+      "end": 8662,
+      "excerpt": "Kate Beardsley: You could always edit that in [00:08:00] somehow, you know, a growth fund, an opportunity fund an SPV, but Maya's a great name. And I'm with you. I have a two and a half year old daughter, olive, and a four year old daughter. I'm Sam gray.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 8407,
+      "timestamps": [
+        {
+          "offset": 8453,
+          "raw": "[00:08:00]",
+          "seconds": 480
+        }
+      ]
+    },
+    {
+      "end": 8818,
+      "excerpt": "Gopi Rangan: What do you look for in entrepreneurs? What do you ask entrepreneurs to get to know them better? Especially in the first one or two meetings?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8664,
+      "timestamps": []
+    },
+    {
+      "end": 9102,
+      "excerpt": "Kate Beardsley: Yeah, so much a pre-seed and seed investing is about the founder. I think that was something that we learned earlier, hippo and refining. Our is meeting so many founders and working with them. There is this mix of art and science at that stage, which I really enjoy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 8820,
+      "timestamps": []
+    },
+    {
+      "end": 9423,
+      "excerpt": "So much of it is I would say the layers of the person. We actually try to spend a ton of time getting to know the founders, their stories, why they're doing it. I'm really interested in going layers deep on that, because I want to understand the motivations to doing something I can speak to this about venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9104,
+      "timestamps": []
+    },
+    {
+      "end": 9767,
+      "excerpt": "Like why, why, why, why. And you keep asking why to get to the core issue. For me, I hope the reason is not that you're motivated by money. [00:09:00] Even if you are, there's probably a deeper reason beyond that. That's your forcing function that will ignite that competitive spirit. So I kind of want to understand the chip on the shoulder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9425,
+      "timestamps": [
+        {
+          "offset": 9565,
+          "raw": "[00:09:00]",
+          "seconds": 540
+        }
+      ]
+    },
+    {
+      "end": 10086,
+      "excerpt": "Deeply, because I think that helps me understand how you're going to make a lot of decisions against that motivator. There's very clear angles to defining a founder. You want to have very clear vision. If you can articulate the passion that you have for the problem that you're solving, that's obviously table stakes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9769,
+      "timestamps": []
+    },
+    {
+      "end": 10429,
+      "excerpt": "But then magnetism, that's something that you can't not have at this stage. And we think about some of the founders that we know, and you can't not associate them with their brand for better or for worse. They are magnetic in some way. And that also helps attract people to want to work with them and inspire them to help solve this problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10088,
+      "timestamps": []
+    },
+    {
+      "end": 10790,
+      "excerpt": "That's a job of a founder is. To make sure you can be able to build a team. And so there is that it has to be there and then demonstrated discipline. This is not just about [00:10:00] being a showman or show a woman. It's what have you done before and demonstrated that you can execute time and time again, because that also, this is an incredibly trying job.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10431,
+      "timestamps": [
+        {
+          "offset": 10604,
+          "raw": "[00:10:00]",
+          "seconds": 600
+        }
+      ]
+    },
+    {
+      "end": 10897,
+      "excerpt": "And so where those historical performance metrics that you can point to around, I'm up for the challenge.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10792,
+      "timestamps": []
+    },
+    {
+      "end": 11135,
+      "excerpt": "Gopi Rangan: Can you give examples of one or two companies what did you ask them in the first meeting? What was the interaction like? How did you meet these entrepreneurs? What got you excited about saying, yeah, I want to invest in it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10899,
+      "timestamps": []
+    },
+    {
+      "end": 11497,
+      "excerpt": "Kate Beardsley: It's always fun to kind of go through those stories of like, remember when. One of my investments in my previous fund, galvanize ventures is a company called villi, which is the dollar shave for women. And this one I'd say, especially because I spend a lot of time looking for the founders to solve this problem, there had already been Harry's.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 11137,
+      "timestamps": []
+    },
+    {
+      "end": 11851,
+      "excerpt": "I think it just exited when I was looking for this deal. So to Unilever for a billion dollars and there was, or sorry, dollar shave had, and Harry's was. On its way to the similar evaluation. So there was clearly two major players getting headlines in this space. [00:11:00] And I was looking for a female branded answer and interviewed multiple teams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11499,
+      "timestamps": [
+        {
+          "offset": 11763,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 12168,
+      "excerpt": "Every VC conversation I had, I was looking for, I said, I'm looking for the women's version of dollar shaves. Like if you have a team that's working on it, love to meet them, which helped me dig into the understanding of the mechanics of putting a company like that together and manufacturing, razors, and channels.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11853,
+      "timestamps": []
+    },
+    {
+      "end": 12479,
+      "excerpt": "And. So I was ready, waiting for the team to pitch me, you know, they wouldn't have to spend 30 minutes of the meeting explaining what it was. So my enthusiasm was already high if that's helpful too. I'd love to be in that position for every company I need. But yeah, I think that's not the way that it works.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12170,
+      "timestamps": []
+    },
+    {
+      "end": 12788,
+      "excerpt": "You, you sort of develop theses over time, but this one was special for that reason is you don't always find what you're looking for. Either. I kind of shelved that and said, you know, now's not the right time. But I met Jason and Georgie remotely too, because I was very, very pregnant with my first child.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12481,
+      "timestamps": []
+    },
+    {
+      "end": 13116,
+      "excerpt": "And so I couldn't even get on a plane to New York. I live in Denver, Colorado at the time and couldn't get there to meet them and shake their hand and have coffee. So I had to work on the extra things that we're all [00:12:00] now doing. Remotely, which is, how to, how you diligence something remotely and relatively quickly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12790,
+      "timestamps": [
+        {
+          "offset": 13006,
+          "raw": "[00:12:00]",
+          "seconds": 720
+        }
+      ]
+    },
+    {
+      "end": 13443,
+      "excerpt": "It was just an incredible meeting. I knew in about 20 minutes, I wanted to do the deal, which again comes from all the homework that I had done before, but the team educated me on so much more it was so clear how well they understood the customer and how they understood the problem, how they knew the manufacturing channels.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13118,
+      "timestamps": []
+    },
+    {
+      "end": 13794,
+      "excerpt": "I mean, they had done their homework , it was really pleased because Jason, Georgie didn't have a ton of history together. They'd kind of come together relatively early in that relationship, but gel so well and complemented one another. You can kind of hear that even on a phone conversation or they're interrupting, are they correcting one another?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13445,
+      "timestamps": []
+    },
+    {
+      "end": 14092,
+      "excerpt": "I love that years later, pre pandemic, they were across each other on their desks, even in their office, they still sat right next to each other. It was just such a team. It was just very special because I knew they were going to be successful, whether I was a participant in that journey or not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13796,
+      "timestamps": []
+    },
+    {
+      "end": 14233,
+      "excerpt": "That unequivocal feeling as what you should have as [00:13:00] an investor, and it's hard to manufacture, but when it's there, it's magic. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14094,
+      "timestamps": [
+        {
+          "offset": 14146,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 14425,
+      "excerpt": "Gopi Rangan: It is a great story of how an informed investor prepared mind meets the right kind of opportunity. You knew the answer in a few minutes that you wanted to invest in the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14235,
+      "timestamps": []
+    },
+    {
+      "end": 14725,
+      "excerpt": "Yeah, thank you for sharing that authentic example. How long does it take for you to go from the first meeting to say, I want to make an investment. It looks like this is an example of one end of the spectrum, where you could make the decision in a few minutes, but typically how long does it take.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14427,
+      "timestamps": []
+    },
+    {
+      "end": 14771,
+      "excerpt": "Kate Beardsley: I wish it was all that fast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 14727,
+      "timestamps": []
+    },
+    {
+      "end": 15099,
+      "excerpt": "I think it really comes from the prepared mind is that example of how much room can Jessica and I make in our brains for the opportunity when it comes to us. That's the challenge of VCs being, I would say, do you take all the meetings? Like how do you spend your time? And this is actually a question that LP has often ask us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14773,
+      "timestamps": []
+    },
+    {
+      "end": 15532,
+      "excerpt": "So having the discipline to make sure [00:14:00] that you have this openness and this readiness to receive it, because we've all been a part of, especially the last year being over-scheduled and whatever that looks like. So from that point is having. The curiosity is of course they are, but then having the room to kind of go on an adventure with that and say, okay, like, let me spend a little bit time after this call to dig in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15101,
+      "timestamps": [
+        {
+          "offset": 15139,
+          "raw": "[00:14:00]",
+          "seconds": 840
+        }
+      ]
+    },
+    {
+      "end": 15933,
+      "excerpt": "And I'm curious and do your referencing in the sector, do you referencing on the entrepreneurs? And I'd like to say, start to finish. Well, if we're issuing a term sheet, it can be, I'm crossing my fingers as short as two weeks. And certainly things get prioritized and everyone has to have that openness on their time, but it's relatively apparent after a first meeting or just reviewing of a deck.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15534,
+      "timestamps": []
+    },
+    {
+      "end": 16344,
+      "excerpt": "I haven't even met the company. I can scroll through a deck and be like, No, no, no. They're hitting on something and I'm very curious. And I've had that opportunity to actually, even recently, where I was very intrigued by the deck and then went through, meeting the founders and was less intrigued. And it was very clear on the other side where it [00:15:00] was like, yeah, this isn't what I'm looking for.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15935,
+      "timestamps": [
+        {
+          "offset": 16285,
+          "raw": "[00:15:00]",
+          "seconds": 900
+        }
+      ]
+    },
+    {
+      "end": 16778,
+      "excerpt": "But I know others who are, and we'll make introductions and all that, but I think honing that lens and that first meeting is just crucial. And again, this is an apprenticeship business that you have to have meetings with thousands of companies before you get to understand what those signals are firing in your brain and in your gut, because that's really those first inclinations of like, I'm going to go discover more here or not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16346,
+      "timestamps": []
+    },
+    {
+      "end": 16985,
+      "excerpt": "Gopi Rangan:  This is a good example of sharing the kind of things that you look for and how an entrepreneur can prepare. I want to narrow it a little further down on what entrepreneurs can do to prepare. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16780,
+      "timestamps": []
+    },
+    {
+      "end": 17171,
+      "excerpt": "Kate Beardsley:  Okay Can you give a few tips to entrepreneurs before they come to meet you? Well, first off, if I were in entrepreneurship, which we all are in venture capital, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 16987,
+      "timestamps": []
+    },
+    {
+      "end": 17564,
+      "excerpt": "We have to raise for our funds too. And if anything, it's certainly builds empathy, but also it's harder because at least entrepreneurs are building a product, you know, like venture capital, certainly as a product, but again, we're middle money managers. And so it's just a [00:16:00] different type of. Selling strategy, then you're building a physical thing or a wonderful SAS technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17173,
+      "timestamps": [
+        {
+          "offset": 17448,
+          "raw": "[00:16:00]",
+          "seconds": 960
+        }
+      ]
+    },
+    {
+      "end": 18135,
+      "excerpt": "I'd say a level of enthusiasm that you inherently bring, but running your investor process, like you would a sales CRM is like this number one, first thing, getting organized and making sure that you have the ability to collect data. Because we're going to be receiving data at all times around all investors in a repository and a follow-up system, to be able to manage that because you're working so hard to get these qualified leads and you just want to make sure you're organized so that no balls are dropped around follow-ups, which are just such easy things to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17566,
+      "timestamps": []
+    },
+    {
+      "end": 18506,
+      "excerpt": "You don't want to be overwhelmed or not. I'd say prepared to have that. Obviously the more you can plan to understand qualifying leads the better there's so much more content out there now about firms and accelerator programs and individual partners. Like podcasts like this, where people are putting out content around the what and what they're [00:17:00] looking for.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18137,
+      "timestamps": [
+        {
+          "offset": 18483,
+          "raw": "[00:17:00]",
+          "seconds": 1020
+        }
+      ]
+    },
+    {
+      "end": 18898,
+      "excerpt": "So it shouldn't be that hard to follow someone on Twitter and do a couple pages of Google to understand what it is and who you're talking to, because it's going to be the difference between, let me educate you for the first 30 minutes on my product versus asking more thoughtful questions and something that I've been preaching for a long time is you as the entrepreneur have all the power.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18508,
+      "timestamps": []
+    },
+    {
+      "end": 19316,
+      "excerpt": "I know it doesn't feel like that in the beginning. And the pre-seed and seed phase when you're just getting started. If your product is really great, as we all hope it is, we're going to be lucky that you're returning our emails in a short period of time. So remembering that you can also reference investors, you can also ask for questions around where their capital comes from and what's their following structure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18900,
+      "timestamps": []
+    },
+    {
+      "end": 19792,
+      "excerpt": "I never get. As many probing questions around all this, as I wish I did. And so in my meetings, I try to spend time in the beginning, laying the land on the questions. I know they should be asking, we're going to make 40 investments in our fund cycle. This is [00:18:00] the ownership targets we want. This is a check size we want, this is how likely we're going to do deals in this sector to really demystify that question, which is, will you likely invest in our business?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19318,
+      "timestamps": [
+        {
+          "offset": 19578,
+          "raw": "[00:18:00]",
+          "seconds": 1080
+        }
+      ]
+    },
+    {
+      "end": 20108,
+      "excerpt": "Because again, this power dynamic that exists. Which is somewhat unfair, but also it doesn't bode well, if you don't get all of that information up front, cause you can't qualify how likely it is, someone's going to invest. And if the check size doesn't fit your strategy, like there's an obvious disconnect there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19794,
+      "timestamps": []
+    },
+    {
+      "end": 20215,
+      "excerpt": "And so really looking at all those small indicators very clearly will help you identify the better leads.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20110,
+      "timestamps": []
+    },
+    {
+      "end": 20566,
+      "excerpt": "Gopi Rangan: It's a complicated process for even successful entrepreneurs go through an arduous process during fundraising. So this is very helpful. Can you give an example of a startup that actually did this really well, and they followed many of the tips that you're giving and that made it a much more simpler process for them during fundraising.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20217,
+      "timestamps": []
+    },
+    {
+      "end": 20959,
+      "excerpt": "Kate Beardsley:  Yeah, I can think of probably one of the first entrepreneurs that asked me for references. It was a repeat entrepreneur. So again, I [00:19:00] think there was an advantage there of having gone through the process and knowing what to ask for and knowing the value they were bringing to the table. It's different if you've been through it once for you, can't just explain it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 20568,
+      "timestamps": [
+        {
+          "offset": 20718,
+          "raw": "[00:19:00]",
+          "seconds": 1140
+        }
+      ]
+    },
+    {
+      "end": 21382,
+      "excerpt": "But there was that understanding of the power dynamic and they asked all of those crucial questions upfront around. What do you follow on? What does it look like? What kind of metrics do I need to hit in order to receive following dollars? Do you have IRR ownership, targets understanding the vehicle that I had created with a venture fund and the promises we had made to our investors and asking questions based on that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20961,
+      "timestamps": []
+    },
+    {
+      "end": 21794,
+      "excerpt": "And that's where for better, for worse entrepreneurs have to be somewhat of a student of venture capital and how the mechanics work on that business to understand how that works with their businesses. Just like we venture capitalists have to be a student of an LPs. You know, whether that's endowments fund to funds, family offices, we have to understand their needs and their goals [00:20:00] and their wants.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21384,
+      "timestamps": [
+        {
+          "offset": 21767,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 22220,
+      "excerpt": "Again, to qualify those leads better and understand how we work with them. They asked for references, they actually did the reference checks. They actually followed up and it was really very much a two-way street. And it was incredibly refreshing from my perspective, because I felt as though that we were actually going to be working with a real partner and not someone who is just kind of saying, yeah, yeah, that's great.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21796,
+      "timestamps": []
+    },
+    {
+      "end": 22294,
+      "excerpt": "So, yeah, that was clearly memorable, but no, that everyone can do that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22222,
+      "timestamps": []
+    },
+    {
+      "end": 22582,
+      "excerpt": "Gopi Rangan:  So you're based in Denver, but you invest nationwide anywhere in the country. You've already prepared for the pandemic times where we could not travel. Was it a smooth transition for you to come to this new world where everything is remote or did something change for you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22296,
+      "timestamps": []
+    },
+    {
+      "end": 22994,
+      "excerpt": "Kate Beardsley: It was mentally not smooth because there was such a weird time. And I I'm sure we all go back to like March 15th, 20, 20, where the world was shutting down. And it was just weirdly paralyzing to feel like everything in your plans were just no longer in your plans. It was so strange. But yes, we could [00:21:00] conduct business as usual because a lot of what we were already doing was remote.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 22584,
+      "timestamps": [
+        {
+          "offset": 22902,
+          "raw": "[00:21:00]",
+          "seconds": 1260
+        }
+      ]
+    },
+    {
+      "end": 23364,
+      "excerpt": "Justin and I had been remote for years, but we basically have a ton of one giant call every day with intermittent other calls. And we were already condemning ready with just the way that our work collaboration style was already going. So there wasn't a beat missed there. Where I think we were educated on is, and I'm going to credit winter Mead from operator on this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22996,
+      "timestamps": []
+    },
+    {
+      "end": 23686,
+      "excerpt": "Cause I feel like he really trained us on being more inquisitive. And we went through the operator program last summer. It's like Y Combinator for emerging managers, which is incredible. Any emerging managers listening should apply. It's it's well worth the time and the energy, but getting to the layers deep on things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23366,
+      "timestamps": []
+    },
+    {
+      "end": 24037,
+      "excerpt": "Talked about that with how we look at entrepreneurs asking more targeted questions. We all have these. Stop questions that we go to about, tell me about your business model and making sure that you're getting to the heart of the questions and not just listening to the first response, but following up and digging deeper and understanding.[00:22:00]",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23688,
+      "timestamps": [
+        {
+          "offset": 24027,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 24367,
+      "excerpt": "That's where I feel like I, as a venture capitalist. Hadn't done enough probing and doing that remotely is different because obviously you're either doing it on zoom, but I think you can focus more on the topics. There's a lot learned by body language and response, and you don't get the same gut read through the computer, but.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24039,
+      "timestamps": []
+    },
+    {
+      "end": 24786,
+      "excerpt": "It can be worked around by doing deeper diligence and deeper questioning and understanding where you need to get to in order to have a satisfied answer and understanding of a thing. So it's also referencing around character and competency for certain individuals, but that's the practice that I was really happy to be educated on because I think it just demonstrated a gap in the work that we were historically doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24369,
+      "timestamps": []
+    },
+    {
+      "end": 25110,
+      "excerpt": "Gopi Rangan: Yeah, a lot of things have changed for me as well. I was okay with remote work. I did maybe 60, 70% of work remotely and the remaining 20, 30% I would meet people in coffee shops and lunch meetings and dinner meetings and a little bit of travel, but going to a hundred percent remote work was a big challenge.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24788,
+      "timestamps": []
+    },
+    {
+      "end": 25439,
+      "excerpt": "I'm still learning [00:23:00] to adjust, but I cannot wait to go back to the normal world where we can meet again, same year. I want to ask you about what are some things that entrepreneurs do that really tick you off? Are there pet peeves? Are there things that you wish entrepreneurs didn't do? Our venture capital investors?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25112,
+      "timestamps": [
+        {
+          "offset": 25131,
+          "raw": "[00:23:00]",
+          "seconds": 1380
+        }
+      ]
+    },
+    {
+      "end": 25759,
+      "excerpt": "Kate Beardsley: Oh yeah. There's a number of things, but I'd say I don't try to take any of that too much to heart. The things where I see where I'd say probably get irritated is when I know that I've been introduced to an entrepreneur or they've come to organically or whatever it is, but it's this first interaction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 25441,
+      "timestamps": []
+    },
+    {
+      "end": 26098,
+      "excerpt": "And you can tell that they're incredibly busy with a lot of either meetings with customers or other VCs, because it's just, they're so quick to get through the process. They're not asking thoughtful questions and they're just moving through as fast as possible. And there's mistakes. Or you could just see that it's hurried on their end.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25761,
+      "timestamps": []
+    },
+    {
+      "end": 26435,
+      "excerpt": "And that's where I try to bring a slower cadence and hope that I can give them some freedom to just talk normally and not have [00:24:00] this be such a crazy pitch session. Cause again, this is a long-term relationship we're talking about. It's probably 10 years on average, if not longer. And so I don't think this is a rush process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26100,
+      "timestamps": [
+        {
+          "offset": 26227,
+          "raw": "[00:24:00]",
+          "seconds": 1440
+        }
+      ]
+    },
+    {
+      "end": 26863,
+      "excerpt": "There's adage that there's no emergencies in venture capital. So treating it with that demonstration. And I'd say having enough understanding that this is a long-term process versus creating false sense of FOMO or whatever that is, that just kind of puts me off. And I'm like, I'm happy to not do that and not work with someone who's an alarmist just as always higher energy, but not focused in the right directions like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26437,
+      "timestamps": []
+    },
+    {
+      "end": 26953,
+      "excerpt": "I'd say it was just more of a red flag of like, I don't think our work styles are gonna.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26865,
+      "timestamps": []
+    },
+    {
+      "end": 27247,
+      "excerpt": "Gopi Rangan: Yeah, there are a lot of inefficient things that entrepreneurs learn along the way, but usually repeat entrepreneurs, fix some of those things and they make it a little easier for themselves. And for others. Is there something that you would like to change about venture capital?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26955,
+      "timestamps": []
+    },
+    {
+      "end": 27644,
+      "excerpt": "Kate Beardsley: I think it's changing now. More varied voices around the table. I hope it changes at a faster rate [00:25:00] is probably the answer is more women, more people of color, more people with different experiences. Historically, there's been this feeling of pattern recognition and sameness is applauded from the same type of education universities to companies you've worked at must.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 27249,
+      "timestamps": [
+        {
+          "offset": 27364,
+          "raw": "[00:25:00]",
+          "seconds": 1500
+        }
+      ]
+    },
+    {
+      "end": 28026,
+      "excerpt": "Therefore. Allow you to be part of that pattern. And if you're not, there's not a lot of opportunity to consider you as a voice around the table. And I'm just really thrilled to see a number of new firms, a number of older firms, adding new voices. Because again, we're in just this incredible time of disconnects and bringing technology to new families and people and businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27646,
+      "timestamps": []
+    },
+    {
+      "end": 28073,
+      "excerpt": "And I think that's the opportunity right now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28028,
+      "timestamps": []
+    },
+    {
+      "end": 28247,
+      "excerpt": "Gopi Rangan: That leads naturally to the next segment, where I ask you about your community involvement, is that an organization that you're passionate about and which one.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28075,
+      "timestamps": []
+    },
+    {
+      "end": 28433,
+      "excerpt": "Kate Beardsley: Yep. So this is an organization that my partner Jessica created. It's called women in DC and it's [00:26:00] the largest global community for women venture capitalists.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 28249,
+      "timestamps": [
+        {
+          "offset": 28363,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 28972,
+      "excerpt": "It's a free resource. So it's definitely not making a profit. She and her partner in this endeavors to tan dog. Just will this into existence because they felt as though there was a need back in 2015, actually, when Jessica was looking around and saying like, I would love to know what all these venture firms do, how many websites do you go to where they don't say very much. It's mostly, how do I know who to partner with? And this is the feeling I think that most entrepreneurs get is I know I need capital. I don't know who to go to.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28435,
+      "timestamps": []
+    },
+    {
+      "end": 29303,
+      "excerpt": "I don't know. Who's the right fit for me. So when creating women in VC, it certainly is a collaborative tool for hundreds of women to connect around the globe around the same unifying structure of that they're women, full-time venture capitalists that check writing institutions, looking to make direct investments into startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28974,
+      "timestamps": []
+    },
+    {
+      "end": 29785,
+      "excerpt": "It's such a useful resource to be able to reach out to these women and, um, collaborate with them. I know having [00:27:00] spoken to many of them, how much they value that same resource. And we find it very helpful for entrepreneurs too, because we can then be very targeted in creating lists of names for them and saying here's some other things firms that are probably not on the radar, but also have maybe more qualified connections for the type of business that you're doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29305,
+      "timestamps": [
+        {
+          "offset": 29418,
+          "raw": "[00:27:00]",
+          "seconds": 1620
+        }
+      ]
+    },
+    {
+      "end": 30031,
+      "excerpt": "There's a certain amount of funds to get the headlines and that's great, but there's just a number of different kinds of venture capital vehicles out there. And so this helps bring that together in a more, I'd say digestible, approachable way. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29787,
+      "timestamps": []
+    },
+    {
+      "end": 30170,
+      "excerpt": "Gopi Rangan: This is great. I'm delighted to see that you have a focus on how to bring more diversity and create opportunities for women.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30033,
+      "timestamps": []
+    },
+    {
+      "end": 30551,
+      "excerpt": "This is a much needed solution in the venture capital industry, which is very biased. And there are far fewer women at decision-making roles at VC firms. Thank you very much for coming to the podcast and sharing the Genesis of the Hannah Gray story and many real life, examples of startups that you have worked with and your vision for how venture capital could be in the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30172,
+      "timestamps": []
+    },
+    {
+      "end": 30649,
+      "excerpt": "Kate Beardsley: Thank you so much for having me. This was wonderful [00:28:00] talking with you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kate Beardsley",
+      "start": 30553,
+      "timestamps": [
+        {
+          "offset": 30621,
+          "raw": "[00:28:00]",
+          "seconds": 1680
+        }
+      ]
+    },
+    {
+      "end": 30942,
+      "excerpt": "Gopi Rangan: Thank you for listening to the short shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30651,
+      "timestamps": []
+    },
+    {
+      "end": 30992,
+      "excerpt": "I look forward to catching you at the next step.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30944,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "270240728cf7ca4be4df9dcd96f6dfd1a8440c845b98cd5aa7dde92302f64bbd",
+  "text_sha256": "711ab96058022e60932ccc13fc3a8bd00eae59ecd575e8e0194d0d5495376809"
+}

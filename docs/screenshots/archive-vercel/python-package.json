@@ -1,0 +1,10 @@
+{
+  "scope": "Official @vercel/python 29.0.0 local package, Python 3.12; not a cloud deployment",
+  "runtime": "python3.12",
+  "files": 1365,
+  "bundle_bytes": 75399788,
+  "unexpected_application_files": [],
+  "sqlite_bytes": 58122240,
+  "warm_packaging_seconds": 2.343,
+  "first_packaging_seconds": 10.636
+}

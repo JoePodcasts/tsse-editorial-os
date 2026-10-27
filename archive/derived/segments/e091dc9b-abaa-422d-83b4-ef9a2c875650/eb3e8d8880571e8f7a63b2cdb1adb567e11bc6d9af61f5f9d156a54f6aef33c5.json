@@ -1,0 +1,943 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 334,
+      "excerpt": "There's still this eternal question for us, which is just like, we need to be able to hang our hat on some elements of uniqueness, and so that's probably the area that like, it's not to say that people, like, I don't think this is a shocking thing for me to be sharing, but it's that's always the what I'm trying to answer for myself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 1081,
+      "excerpt": "[00:00:23] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I am your host, Gopi Rangan. I'm here with Zach Noorani. Zach is a partner at Foundation Capital. We are co-investors in a few companies. We've collaborated over many years. And Zach is one of the most experienced venture capital investors. He's invested in many companies that have become successful. We're gonna talk about some of those stories. Will ask him questions about what goes on in the meeting when he meets founders for the first time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 336,
+      "timestamps": [
+        {
+          "offset": 336,
+          "raw": "[00:00:23]",
+          "seconds": 23
+        }
+      ]
+    },
+    {
+      "end": 1327,
+      "excerpt": "The second time, what questions does he asks, what gives him conviction, and sometimes he says no, maybe more often, and why he says no. We'll talk about all of these topics in more detail with Zach. Zach, welcome to The Sure Shot Entrepreneur ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1083,
+      "timestamps": []
+    },
+    {
+      "end": 1396,
+      "excerpt": "[00:01:27] Zach Noorani: Gopi. Thank you. Thank you for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 1329,
+      "timestamps": [
+        {
+          "offset": 1329,
+          "raw": "[00:01:27]",
+          "seconds": 87
+        }
+      ]
+    },
+    {
+      "end": 1469,
+      "excerpt": "[00:01:29] Gopi Rangan: I'm excited to have this conversation with you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1398,
+      "timestamps": [
+        {
+          "offset": 1398,
+          "raw": "[00:01:29]",
+          "seconds": 89
+        }
+      ]
+    },
+    {
+      "end": 1627,
+      "excerpt": "Let's start with you, where you are from, you grew up in Massachusetts, but you've moved to the West coast. Walk us through that journey about your career. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1471,
+      "timestamps": []
+    },
+    {
+      "end": 2160,
+      "excerpt": "[00:01:41] Zach Noorani: Yeah, sure. So, grew up north of Boston. Most people know Salem. I grew up in the town immediately next to Salem and ended up at Stanford for college. I think a lot of the idea was like somewhere that was both beautiful and very far away from that area. Post college I was immediately drawn back to Boston. That's something about having grown up outside of the city it seemed very romantic to go get to live on my own in that city and was there for about a decade, what felt like kind of way, way too long.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 1629,
+      "timestamps": [
+        {
+          "offset": 1629,
+          "raw": "[00:01:41]",
+          "seconds": 101
+        }
+      ]
+    },
+    {
+      "end": 2510,
+      "excerpt": "It's a lovely place, but just, it's a real small city ultimately. And what drew me back to the west coast was a desire to do what I'm doing now. So to get into venture I had worked my first job outta college was at Capital One actually for many years. I did whole bunch of stuff at Capital One, but my last role there was actually VC investing job.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2162,
+      "timestamps": []
+    },
+    {
+      "end": 2829,
+      "excerpt": "They had a very equivalent to what Google Ventures is today, a single LP kind of inside the firewall fund, but fully managed for return. So the idea was go try to make money investing in early stage FinTech, but you know, to the extent that can be strategically useful to the broader business, like go try to do that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2512,
+      "timestamps": []
+    },
+    {
+      "end": 3258,
+      "excerpt": "And did that for a couple of years. It was enough to get a sense of just how exciting adventure is as a day-to-day kind of activity. The exposure to just this degree of innovation, the degree of dynamism of founders and the types of puzzles that you're trying to figure out as an investor. Well, where do you focus your time? How can you actually help? Those kinds of things where I found it just kinda limitlessly enthralling.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2831,
+      "timestamps": []
+    },
+    {
+      "end": 3514,
+      "excerpt": "And so the idea was go where the vast majority of that industry actually is because back in, so I was finishing business school in 2013, that was at MIT, New York had been growing as a venture market, but really the Bay Area was still king of the castle.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3260,
+      "timestamps": []
+    },
+    {
+      "end": 3599,
+      "excerpt": "And so just moved out there to figure it out and find a place within the industry. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3516,
+      "timestamps": []
+    },
+    {
+      "end": 3798,
+      "excerpt": "[00:03:27] Gopi Rangan: You have been in the venture capital industry now for many years. What do you like the most about your job, about being a vc? It's been more than 10 years you've been a vc. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3601,
+      "timestamps": [
+        {
+          "offset": 3601,
+          "raw": "[00:03:27]",
+          "seconds": 207
+        }
+      ]
+    },
+    {
+      "end": 4612,
+      "excerpt": "[00:03:38] Zach Noorani: Yeah, it is a blank canvas. I was just actually having a debate with one of my partners. We were talking about a random person through their approach to a certain puzzle. And there's a real kind of abundance dynamic to it is not a zero sum game. And within a large company, Capital One is an amazingly well run large company but it still has lots and lots of layers to it, and so there's only so much growth to go capture there's only so much opportunity to rise up. And there are certainly lots of examples of people that are still able to do that from an entry level position. You have this feeling of like finiteness of opportunity and when you sever the bounds of like being in this corporate overlord, and in this venture world, it's well no, there's growth and there's opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 3800,
+      "timestamps": [
+        {
+          "offset": 3800,
+          "raw": "[00:03:38]",
+          "seconds": 218
+        }
+      ]
+    },
+    {
+      "end": 5189,
+      "excerpt": "There's explosive opportunity everywhere. Particularly the more you're able to give yourself like a multi-year time horizon, or even a multi-decade time horizon. Like it's like incredible over a two decade, period of time. From a year to year perspective, there are periods of time when it doesn't necessarily feel, like, like everything's changing every minute, but like, that's just, it's just wild. And so it's now what you do with that is the puzzle, right? And it can drive you crazy, but like, it's a, there's the initial basis is like, there is opportunity everywhere.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4614,
+      "timestamps": []
+    },
+    {
+      "end": 5614,
+      "excerpt": "How do you want to capitalize? What matters to you? What are you most interested in? So to maybe to answer your question most directly, like what's exciting to me is just how open that range of opportunities is versus lots of other professions it's quite clear what the steps need to be and what you need to do and the opportunity you need to take advantage of it. Here it's like, it's a lot of opportunity for creativity. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5191,
+      "timestamps": []
+    },
+    {
+      "end": 6113,
+      "excerpt": "[00:05:14] Gopi Rangan: I like the way you said it. Within large corporations, the opportunities look like finite and the impact is also limited, but when you sever those corporate overlord strings, then you have the freedom to build whatever you like to build. On a day-to-day basis it doesn't look like a lot of changes are happening, but accumulated over a long period of time, if you make that commitment to build for long term, the changes are tremendous and the revolutionary changes happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5616,
+      "timestamps": [
+        {
+          "offset": 5616,
+          "raw": "[00:05:14]",
+          "seconds": 314
+        }
+      ]
+    },
+    {
+      "end": 6169,
+      "excerpt": "It's very exciting indeed. What stages do you invest? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6115,
+      "timestamps": []
+    },
+    {
+      "end": 6763,
+      "excerpt": "[00:05:46] Zach Noorani: So a little history of Foundation. So we are 30-year-old firm. So been around a little while. I've been with the firm 11 years now. We're in our 11th fund. It's a $600 million vehicle. We are very early stage focus. So inception to series A would it be where 99% of our, initial checks get written? I'd say most of the time that's a pre-seed or a seed check. So call it a three to three to five, three to $6 million investment. Where we're typically leading and getting pretty hands on with founders to help them however we can think to help them build a big company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 6171,
+      "timestamps": [
+        {
+          "offset": 6171,
+          "raw": "[00:05:46]",
+          "seconds": 346
+        }
+      ]
+    },
+    {
+      "end": 6856,
+      "excerpt": "[00:06:20] Gopi Rangan: How many investments do you make you personally in a average year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6765,
+      "timestamps": [
+        {
+          "offset": 6765,
+          "raw": "[00:06:20]",
+          "seconds": 380
+        }
+      ]
+    },
+    {
+      "end": 7167,
+      "excerpt": "[00:06:24] Zach Noorani: It varies hugely. I'd say, two to four is the broad range, but it depends. Like, so if I take 2024 as an example, there was one series A that was quite a large check for us, and then there were two kind of pre-seed kind of inception stage investments that were $3 million investments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 6858,
+      "timestamps": [
+        {
+          "offset": 6858,
+          "raw": "[00:06:24]",
+          "seconds": 384
+        }
+      ]
+    },
+    {
+      "end": 7501,
+      "excerpt": "[00:06:42] Gopi Rangan: I know we are co-investors in lumber and I invested in the seed stage and you let the series A round. The company's doing really well. I'm excited to collaborate with you on this company. What kind of founders or what's the right time for a founder to reach out to you and say, \"Zach, I want to talk to you.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7169,
+      "timestamps": [
+        {
+          "offset": 7169,
+          "raw": "[00:06:42]",
+          "seconds": 402
+        }
+      ]
+    },
+    {
+      "end": 7753,
+      "excerpt": "[00:06:58] Zach Noorani: There's no time too early. What turns me on about an opportunity and working with somebody the more I can get a sense for like the depth that they've been able to get to about What they're going to do differently in a market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 7503,
+      "timestamps": [
+        {
+          "offset": 7503,
+          "raw": "[00:06:58]",
+          "seconds": 418
+        }
+      ]
+    },
+    {
+      "end": 8004,
+      "excerpt": "What will be dynamic, what will be innovative about their approach or offering? But that journey long for anybody to delve. So talking about Shreesha, right? Like, he hadn't thought about payroll for the construction industry before three years ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7755,
+      "timestamps": []
+    },
+    {
+      "end": 8621,
+      "excerpt": "Payroll is something that I actually have been like somewhat obsessed with over the last, I dunno, six, six or seven years. Various investments in the space, both like providers and ecosystem participants. But for Shreesha what was really interesting for me was to observe over the span of a very short period of time, probably a year, he went from someone who just started learning about a brand new space to being someone that had gotten deeper into it than many people that have been serving this market for years and had minced many insights about how to do it better than those career journeyman practitioners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8006,
+      "timestamps": []
+    },
+    {
+      "end": 9916,
+      "excerpt": "And so it's really about velocity, and that's always like a lovely thing if you're able to observe it with somebody. And that's one of the exciting things about the kind of the the prototypical founder is really the speed of learning and adaptation and evolution. And so if you're able to observe them on a horizontal basis, you meet them just starting and you meet them a couple weeks later and let's say something happens and you don't meet them again for another few quarters. And being able to observe that growth is super helpful to say like, all right, like, I understand how they're gonna be able to do incredible things with small amounts of capital and be able to outcompete companies that have ridiculously large advantages theoretically, in terms of scale kind of product build out brand and yet this little upstart really has a shot to threaten them. And so the answer is as early as possible because interested to get to know and participate in this process of like figuring out, what is the insight and because it's less of a, I think, less of a judgmental process and more as like something I'd just like to participate in because that's really what is happening, right? We're just trying to pull this thing apart, and so like, let's try to do it together and see where we get. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8623,
+      "timestamps": []
+    },
+    {
+      "end": 10396,
+      "excerpt": "[00:09:10] Gopi Rangan: That description perfectly describes what Shreesha did. In one year, he has learned so much about the payroll industry. He's become an expert compared to people who've spent more than 10 years in that industry. Now, I met Shreesha well before he even started Lumber. I brainstormed with him on multiple different business ideas and eventually when he landed on this concept of workflow automation for the construction industry, it sounded super exciting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9918,
+      "timestamps": [
+        {
+          "offset": 9918,
+          "raw": "[00:09:10]",
+          "seconds": 550
+        }
+      ]
+    },
+    {
+      "end": 10554,
+      "excerpt": "So I watched that journey from the very, very early days onwards. In fact, I was literally the first investor that committed to invest in the company. Wow. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10398,
+      "timestamps": []
+    },
+    {
+      "end": 10601,
+      "excerpt": "[00:09:42] Zach Noorani: Oh, that's awesome. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 10556,
+      "timestamps": [
+        {
+          "offset": 10556,
+          "raw": "[00:09:42]",
+          "seconds": 582
+        }
+      ]
+    },
+    {
+      "end": 10776,
+      "excerpt": "[00:09:43] Gopi Rangan: I'm so delighted that you've joined the journey and we're helping Shreesha build this business. What happens in that first meeting with the founders?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10603,
+      "timestamps": [
+        {
+          "offset": 10603,
+          "raw": "[00:09:43]",
+          "seconds": 583
+        }
+      ]
+    },
+    {
+      "end": 11084,
+      "excerpt": "Can you give an example? What questions do you ask the founder? You like to participate, you want to be involved, and how do you get involved, especially in the first meeting and the second meeting? What gets you the insight from the founder side that yeah, this is something where I wanna spend more time?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10778,
+      "timestamps": []
+    },
+    {
+      "end": 11968,
+      "excerpt": "[00:10:07] Zach Noorani: Well, I think that the participation is like, is more an expression of you're aspiring to have like an authentic interaction with someone who might become like a significant business partner of yours for years and years to come, and you're trying to get to that point as expeditiously you can. And so eventually the hope is to get to a place where it's here's the limit of what we know, and of what we know would need to happen, need to build, need to execute on, need to figure out. And here's what we don't yet know. Let's see what else we can figure out together. I usually try to stick to spaces where I've been studying them for quite a long time and so it's not to say I have any degree of expertise, but it's they're usually like elements of information and context I can bring that can be helpful. And so that's what I mean by like getting involved.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 11086,
+      "timestamps": [
+        {
+          "offset": 11086,
+          "raw": "[00:10:07]",
+          "seconds": 607
+        }
+      ]
+    },
+    {
+      "end": 12193,
+      "excerpt": "But like initially, it's just the process of trying to learn about the founder, what drew them to this space, this idea, this moment, what their plans are, and how much they thought about what those plans really need to be.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11970,
+      "timestamps": []
+    },
+    {
+      "end": 12779,
+      "excerpt": "And so there is like a relatively rote aspect to that first meeting. It's always nice the degree to which, that's been a kind of a honed spiel that can be conversational, but like kind of depends on the stage of the company. If there actually is a product, then like, let's see the product. If there actually are customers, let's talk about the economics. Let's talk about, how this is going with the customers and how you're finding the customers. And so it really, it depends on the stage as well. It's a lot of information that you're trying to absorb in that first 30, 45 minutes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12195,
+      "timestamps": []
+    },
+    {
+      "end": 13293,
+      "excerpt": "[00:11:30] Gopi Rangan: There is a set of questions you would ask, which is more basic and straightforward, like road type of questions to understand what's really going on in the industry and the business. And then the conversation kind of evolves to exploratory discussions on what is possible. Now, show me what you have. Let's look at it together. Let's discuss what scenarios are possible in the future for this industry. What kind of solutions can we build? So it's more like a participatory conversation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12781,
+      "timestamps": [
+        {
+          "offset": 12781,
+          "raw": "[00:11:30]",
+          "seconds": 690
+        }
+      ]
+    },
+    {
+      "end": 13806,
+      "excerpt": "[00:11:57] Zach Noorani: Yeah, so if we're talking about an inception stage startup certainly most of the conversation is in that territory. And if it's a Series A, then there's most likely a product and customers and revenue. And so it's really trying to understand what exists already and forming an opinion above that. And there's some degree of calibration of like, well, okay, how well is this going relative to other companies of similar age and similar amounts of capital invested and that sort of thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 13295,
+      "timestamps": [
+        {
+          "offset": 13295,
+          "raw": "[00:11:57]",
+          "seconds": 717
+        }
+      ]
+    },
+    {
+      "end": 14082,
+      "excerpt": "And there's a sort of a little bit less time and less necessity to espouse on, Hey what the future can look like. Because in many cases it's somewhat obvious. Like, you know what the path of that will end up looking like, maybe not exactly, but there's gonna be stuff to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13808,
+      "timestamps": []
+    },
+    {
+      "end": 14284,
+      "excerpt": "And that we don't need to worry about that as much as just like, is the trend line gonna be able to continue? I think a lot of investing is really post-product is really is really a question of that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14084,
+      "timestamps": []
+    },
+    {
+      "end": 14443,
+      "excerpt": "[00:12:48] Gopi Rangan: What's your advice to founders before they come to meet you? What can they do to prepare ahead of time to have a productive meeting? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14286,
+      "timestamps": [
+        {
+          "offset": 14286,
+          "raw": "[00:12:48]",
+          "seconds": 768
+        }
+      ]
+    },
+    {
+      "end": 15793,
+      "excerpt": "[00:12:54] Zach Noorani: Having done this 14 or 15 years, we've gone through these phases of popularity, of present, of decks. And in the beginning it was like, it was a very rot thing. Everyone had a PowerPoint and then it seemed to be a case that everybody was told, well, like you're supposed to have like a ca make a casual conversation if you're just doing a deck, it's very impersonal. You should not do that. And I think muddy what muddies that is that there's some, sometimes there are people that are so gifted at relaying very complex narratives, extemporaneously, and it's, they really are, it's like one out of I don't know, one out of 30 people that I meet with or can just sit there and tell you a really complicated story with a lot of data, with a lot of structure that enables you to follow along and absorb it such that you can be glued to their face and then making eye contact and that's great. The reality is that's very hard to do. I certainly can't do that. And that if I need to relay something as complex as let's call it like my business, what I've been working on for the last year, I have to write a presentation because they're just too damn much for me to talk about and to structure. I really think it's a bad idea for most people to feel persuaded against the idea that a deck is something that they should be using.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 14445,
+      "timestamps": [
+        {
+          "offset": 14445,
+          "raw": "[00:12:54]",
+          "seconds": 774
+        }
+      ]
+    },
+    {
+      "end": 16217,
+      "excerpt": "These can be like really helpful tools and like use it as a tool. It's not meant to be something that is self-explanatory. It's meant to be something that takes a little bit of cognitive load, little bit of the burden off of what needs to come outta your mouth, so that it can compliment that so that your voice over, plus what somebody's looking at equals much more than either one individually. Don't shy away from that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15795,
+      "timestamps": []
+    },
+    {
+      "end": 16568,
+      "excerpt": "It's a small point. It bugs me 'cause it doesn't feel like people are making this decision necessarily for the right reason. They're just taking somebody's advice that doesn't necessarily take their needs into account. So that's one thing. But otherwise, the world of startups has gotten really robust. The number of startups for any given category.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16219,
+      "timestamps": []
+    },
+    {
+      "end": 16914,
+      "excerpt": "I've got an idea to innovate in HH payments. Per year, the number of people that really know something about those markets and know something about building companies going after that segment or any segment really has just grows so steadily so that 10 years ago it was like, it was half, half a company and today it's like 25, I don't know, 80.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16570,
+      "timestamps": []
+    },
+    {
+      "end": 17663,
+      "excerpt": "The eternal question from my side of the table. It's like what will be the path to this company you know, having an opportunity to return the fund if we were to invest, which is always the hope and the necessity that eventually we invest in something that returns the fund? And what makes what you're doing so distinctive? What are the bets that you are making that are maybe controversial or that maybe are contrarian that will enable, outsize growth, outsize market share? It gets a little bit lost how undifferentiated a lot of different players are in a given time period. And like, there's a reality to some markets where it's like, if you're building a stable coin cross border remittance business today, that market just growing like crazy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16916,
+      "timestamps": []
+    },
+    {
+      "end": 18341,
+      "excerpt": "And so maybe there just really isn't much opportunity to say this is how we're different. We believe in ourselves and we believe that we'll be able to out execute. And five years from now, 10 years from now, there'll be a huge market and we'll own a, some share of it that'll make us a very big company. Like maybe that works. There's still this eternal question for us, which is just. We need to be able to hang our hat on some elements of uniqueness and and so that's probably the area that like, it's not to say that people, like, I don't think this is a shocking thing for me to be sharing, but it's that's always the what I'm trying to answer for myself in these moments.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17665,
+      "timestamps": []
+    },
+    {
+      "end": 18801,
+      "excerpt": "[00:16:15] Gopi Rangan: Who has done this well? Can you give an example or two? What happened in the conversation with the founder? How did they address these topics beyond using slide deck as a tool, trends in the market becoming their friend, and they're using that to grow the business. You saw the potential for this company to be huge and potentially return the fund. That's the hope. How did this founder do it well in the first few meetings with you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18343,
+      "timestamps": [
+        {
+          "offset": 18343,
+          "raw": "[00:16:15]",
+          "seconds": 975
+        }
+      ]
+    },
+    {
+      "end": 19098,
+      "excerpt": "[00:16:40] Zach Noorani: I could use the example of Push Cash, and this is a company where I led the pre-seed, really met Eric Morse. It's a fun story actually. Another company of mine, another payments company, was trying to recruit him its head of product. They were like, this guy is amazing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 18803,
+      "timestamps": [
+        {
+          "offset": 18803,
+          "raw": "[00:16:40]",
+          "seconds": 1000
+        }
+      ]
+    },
+    {
+      "end": 19514,
+      "excerpt": "So I got on the phone with him. It's supposed to be like, quote unquote an interview, but really it's, just like a opportunity to try to sell him on the idea. And yada y yada Eric reached the decision. He was like, I actually think I have an idea to start a company. I don't think I'm gonna join a, series A stage company. I don't think I'm as interested in that. And so was, oh, well, okay, Eric, what's the idea?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19100,
+      "timestamps": []
+    },
+    {
+      "end": 19871,
+      "excerpt": "So his background was really what was the pivotal element here. So he was Plaid's first payment hire. So he spent a long time at Visa and he built a transfer and signal at Plaid, and his story was. That was an amazing experience to bring like a really what will become a, is a big product for a well-regarded, large growth stage FinTech company to market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19516,
+      "timestamps": []
+    },
+    {
+      "end": 20472,
+      "excerpt": "His overriding message was there are a lot of ACH money movement businesses out there, and certainly what we see is like, there are a lot of Plaid transfer copycats that have sprung up almost like immediately after he built that, that raised lots of venture funding. And so so much of what Eric was talking about was like how to build something that actually moves the ball forward in terms of like, level of innovation, and degree of difference to what exists in the world today. It was such a meaningful kind of anchor, anchored against this, these things that are here and quite tangible already.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19873,
+      "timestamps": []
+    },
+    {
+      "end": 20844,
+      "excerpt": "And so, it takes many forms but it orchestrates across multiple payment networks. Not just ACH but various other protocols where it is beneficial. And what that enables is vastly more performance payment. So from a cost, from a speed and from an authorization rate, like from an approval rate, from a risk mitigation perspective, it can be significantly more performant.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20474,
+      "timestamps": []
+    },
+    {
+      "end": 21205,
+      "excerpt": "And it was really implicit within his founding story why this mattered. It's that there is very rarely, material difference. Usually what you see in this market is just like reskinning of the exactly the same capabilities with a little bit more machine learning on top to try to understand the level of risk. And that's just what you have for years and years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20846,
+      "timestamps": []
+    },
+    {
+      "end": 21545,
+      "excerpt": "[00:18:57] Gopi Rangan: This is fascinating. It's you're giving a real life example of how things happen. You met Eric when he was a candidate and it was an interview set up. The goal was to convince him to join this company, but in the end the organic conversation turned into, him starting a new company. Really nice to hear that story.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21207,
+      "timestamps": [
+        {
+          "offset": 21207,
+          "raw": "[00:18:57]",
+          "seconds": 1137
+        }
+      ]
+    },
+    {
+      "end": 21870,
+      "excerpt": "For every time you say, yes, I want to invest, you probably say no many times. The first obvious nos are like, it's not a fit for you. It's not in the industry too late or things like that. But beyond that, once you get interested in something, why do you say no? What's the most common reason? Or how often do you say no? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21547,
+      "timestamps": []
+    },
+    {
+      "end": 22001,
+      "excerpt": "[00:19:34] Zach Noorani: Yeah. No, I mean, it's a reality venture, no one's saying yes 40% of the time. That's it's not possible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 21872,
+      "timestamps": [
+        {
+          "offset": 21872,
+          "raw": "[00:19:34]",
+          "seconds": 1174
+        }
+      ]
+    },
+    {
+      "end": 22632,
+      "excerpt": "I'm a FinTech guy and like, we try to be pretty open-minded about what FinTech is, but like there are some things that are just outside of that. And so I try to stick to certain areas where I feel like I, I have some calibration and something to add also, right? Which is like, once you do make the investment and you show up and there's a lot to do, it's what are the ways in which you think you might be able to really help in a differential basis, and not even on a superficial basis, but like really like a trajectory, redefining basis. And so like a lot, I try to stick to areas where I think there are things I can do here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22003,
+      "timestamps": []
+    },
+    {
+      "end": 23189,
+      "excerpt": "Anyway so what are the reasons? I'd say the most of the time it ends up being what I was alluding to earlier, which is like, is just really not clear to me that this is different enough or better enough relative to what exists today. Most of them are somewhat better, but it needs to be some degree of Delta that's like two standard deviations different from the market gets you a $10 billion company. This seems like it's a fraction of that who, you can't really measure the degree of difference, but like it's, it just like, well it seems quite similar.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22634,
+      "timestamps": []
+    },
+    {
+      "end": 23431,
+      "excerpt": "It seems like there are a lot of people doing this. That just, it's not to say that feels like it'll fail. It just, I don't know how to tell a story about how that, breaks out and ends up owning a very undue amount of share of this market. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23191,
+      "timestamps": []
+    },
+    {
+      "end": 23552,
+      "excerpt": "[00:20:56] Gopi Rangan: That's the difficult thing to do. I've been right and wrong on these high conviction decisions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23433,
+      "timestamps": [
+        {
+          "offset": 23433,
+          "raw": "[00:20:56]",
+          "seconds": 1256
+        }
+      ]
+    },
+    {
+      "end": 23793,
+      "excerpt": "I say no often as well, and I always wonder like, what if I'm wrong? And it actually turns out to be a large market and a huge opportunity. It's happened a few times for me, and I regret those decisions. It's very difficult. Which ones do ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23554,
+      "timestamps": []
+    },
+    {
+      "end": 23832,
+      "excerpt": "[00:21:16] Zach Noorani: you regret? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 23795,
+      "timestamps": [
+        {
+          "offset": 23795,
+          "raw": "[00:21:16]",
+          "seconds": 1276
+        }
+      ]
+    },
+    {
+      "end": 23993,
+      "excerpt": "[00:21:16] Gopi Rangan: Oh, so many of them. My most famous example that I give to people is my classmate was the founder of Blah Blah Car, the Uber of Europe.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23834,
+      "timestamps": [
+        {
+          "offset": 23834,
+          "raw": "[00:21:16]",
+          "seconds": 1276
+        }
+      ]
+    },
+    {
+      "end": 24374,
+      "excerpt": "I watched him struggle so much that eventually when I had the opportunity with my previous firm to invest in Uber, I convinced my partners we shouldn't do it because I don't think Uber's gonna go any bigger. I know other companies in this space are still struggling, and I was wrong. It would've been one of one of the best investments if I had pulled through on that investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23995,
+      "timestamps": []
+    },
+    {
+      "end": 24744,
+      "excerpt": "There are many examples like that. It's very difficult to know. It's very important for founders to have investors who have high conviction at the time they decide to invest and be a part of that journey. They don't want investors who are like, I'm still doubtful, and after making the investment, they still have doubts about it. That's not pleasant for the founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24376,
+      "timestamps": []
+    },
+    {
+      "end": 25024,
+      "excerpt": "You've been in venture for 10 plus years, like 15 years. A lot of things have changed in the market since, like COVID was definitely a big change. The kind of founders in the market are also very different. There are many more founders. It's a lot easier to start companies now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24746,
+      "timestamps": []
+    },
+    {
+      "end": 25351,
+      "excerpt": "The kind of venture funds that exist in the market are also different, right? Funds sizes have become much bigger. Round sizes have become much bigger. A lot of trends are happening. Like, there's a new trend now, which now I'm part of it, which is the solo gp, one GP starting a firm. Those things didn't exist 15 years ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25026,
+      "timestamps": []
+    },
+    {
+      "end": 25486,
+      "excerpt": "Are there some trends that you're excited about? Are there some trends that you are worried about that you are not very happy about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25353,
+      "timestamps": []
+    },
+    {
+      "end": 25655,
+      "excerpt": "[00:22:42] Zach Noorani: I'd say I worry less than most. I feel like there's a new era of like hand wringing about big rounds large funds, crowding out seed investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 25488,
+      "timestamps": [
+        {
+          "offset": 25488,
+          "raw": "[00:22:42]",
+          "seconds": 1362
+        }
+      ]
+    },
+    {
+      "end": 26470,
+      "excerpt": "That's probably true. It's just, I suppose that the thing that makes this role less fun is just like the professionalization of venture. As an industry it has matured quite a lot in the last 10 years. And you see that in venture capital marketing, like the amount of content creation and the nature of that content creation, it has exploded. And it looks exactly like other categories of B2B, where it's quite a robust channel of communic across all mediums, and it's really about filling airways and brand building. And so it just, it's just full. Remembering when there was a more of a cowboy nature, was oh, it's fun. Silly opportunities around the corner. And now it's there's pockets of opportunities still exist, but they are probably for the smaller and short and for shorter duration than they used to be.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25657,
+      "timestamps": []
+    },
+    {
+      "end": 26736,
+      "excerpt": "But like, on the other side of that coin, one of the first question I answered, what is it I like about this job? Well, it's just that it's not zero sum, and it never will be. And it's pretty hard to write a blog post and get people to pay attention to it anymore.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26472,
+      "timestamps": []
+    },
+    {
+      "end": 27043,
+      "excerpt": "Like I wrote a couple of things on TechCrunch when I was in business school. So this was 15 years ago. And like, they, it was pretty easy to get a lot of attention back in 2011, yeah. You had to know the right people to get some distribution, but like there was a path. Now it's a different playing field.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26738,
+      "timestamps": []
+    },
+    {
+      "end": 27309,
+      "excerpt": "But that doesn't really have much to do with the prospects of like meeting someone that will, over the course of the next five years, build a product and build a business that generates a hundred million dollars of net revenue. Has that opportunity actually grown?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27045,
+      "timestamps": []
+    },
+    {
+      "end": 27558,
+      "excerpt": "Like, just because there're just like a lot of people writing content in this industry. I don't know that it's, I, it might be a lot easier today to find that opportunity that founder. Yeah, I'm not so sure that it's even necessarily, a bad thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27311,
+      "timestamps": []
+    },
+    {
+      "end": 27886,
+      "excerpt": "But that might also have to do with, we've got a new technology platform. Right. That and I came of age a little bit more so as mobile was a, was somewhat maturing and so I wasn't really around to see the beginning of mobile or really wasn't paying attention to these markets versus, seeing the beginning of all this AI stuff.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27560,
+      "timestamps": []
+    },
+    {
+      "end": 28118,
+      "excerpt": "It's, it's wildly, wildly exciting and so maybe it's that as well, but it just comes as this issue of like. It's really hard to make these markets efficient in a true way. And so that therefore, all of us, can there's stuff to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27888,
+      "timestamps": []
+    },
+    {
+      "end": 28506,
+      "excerpt": "[00:25:02] Gopi Rangan: This is very interesting. There's a lot of depth to many things you've highlighted so far. Getting attention is very difficult. Writing a blog post and making it seen by many important people is much, much harder now. But on the other side, there's a lot more content, which is useful and helpful for people, especially founders when they're building businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28120,
+      "timestamps": [
+        {
+          "offset": 28120,
+          "raw": "[00:25:02]",
+          "seconds": 1502
+        }
+      ]
+    },
+    {
+      "end": 28817,
+      "excerpt": "It's an informal. Casual, not very rigid type of industry. It, I don't know if you can even call it an industry, but it's becoming more and more professional and like, like you mentioned earlier, pitch presentations have become slick and smooth. It didn't have to do that. More, the conversation matters more.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28508,
+      "timestamps": []
+    },
+    {
+      "end": 28981,
+      "excerpt": "So there are many interesting things that are happening that it's changing the way venture works and it's a very different industry now compared to 15 years ago. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28819,
+      "timestamps": []
+    },
+    {
+      "end": 29026,
+      "excerpt": "[00:25:50] Zach Noorani: Yeah, definitely. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 28983,
+      "timestamps": [
+        {
+          "offset": 28983,
+          "raw": "[00:25:50]",
+          "seconds": 1550
+        }
+      ]
+    },
+    {
+      "end": 29217,
+      "excerpt": "[00:25:51] Gopi Rangan: We're coming towards the end of our conversation, and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29028,
+      "timestamps": [
+        {
+          "offset": 29028,
+          "raw": "[00:25:51]",
+          "seconds": 1551
+        }
+      ]
+    },
+    {
+      "end": 29230,
+      "excerpt": "Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29219,
+      "timestamps": []
+    },
+    {
+      "end": 29986,
+      "excerpt": "[00:26:00] Zach Noorani: Living in LA, a large portion of the population here is undocumented and it kinda always has been. And it is it's very disturbing and distressing to see. We can all have probably get agreement about how good of an idea it is to enable someone to come today illegally to the US and live here and go to emergency room and that sort of stuff. But the fact is that there are a ton of people that have lived here for a very long time and are, have built lives here and to see them now hunted, it's pretty distressing. And so, that way as a general cause is something that is pretty, pretty meaningful to me. I don't necessarily have any any great ideas about like how to support it. But that's probably the best answer I can give you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 29232,
+      "timestamps": [
+        {
+          "offset": 29232,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 30174,
+      "excerpt": "[00:26:41] Gopi Rangan: This is an important topic. The way the society deals with challenges matters a lot. We need to learn how to respect people and also make sure we follow the law. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29988,
+      "timestamps": [
+        {
+          "offset": 29988,
+          "raw": "[00:26:41]",
+          "seconds": 1601
+        }
+      ]
+    },
+    {
+      "end": 30278,
+      "excerpt": "[00:26:52] Zach Noorani: Due process, empathy. Yeah, decency. Those would be nice things I have today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 30176,
+      "timestamps": [
+        {
+          "offset": 30176,
+          "raw": "[00:26:52]",
+          "seconds": 1612
+        }
+      ]
+    },
+    {
+      "end": 30668,
+      "excerpt": "[00:26:56] Gopi Rangan: Zach, thank you very much for spending time with me today. Thank you for sharing direct examples from your own experiences. Thank you for sharing insights that are very hard to find in the world. That all these teran articles are easy and more glamorous. They show the fun side of it, but they don't really highlight what really happens in the mind of an investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30280,
+      "timestamps": [
+        {
+          "offset": 30280,
+          "raw": "[00:26:56]",
+          "seconds": 1616
+        }
+      ]
+    },
+    {
+      "end": 30776,
+      "excerpt": "Thank you for sharing. Those nuggets and I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30670,
+      "timestamps": []
+    },
+    {
+      "end": 30839,
+      "excerpt": "[00:27:21] Zach Noorani: Gopi, thanks so much. This was fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Zach Noorani",
+      "start": 30778,
+      "timestamps": [
+        {
+          "offset": 30778,
+          "raw": "[00:27:21]",
+          "seconds": 1641
+        }
+      ]
+    },
+    {
+      "end": 31027,
+      "excerpt": "[00:27:25] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30841,
+      "timestamps": [
+        {
+          "offset": 30841,
+          "raw": "[00:27:25]",
+          "seconds": 1645
+        }
+      ]
+    },
+    {
+      "end": 31194,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31029,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "eb3e8d8880571e8f7a63b2cdb1adb567e11bc6d9af61f5f9d156a54f6aef33c5",
+  "text_sha256": "e00e23b135b288d935f4c392e25b42c4e4722e76eff794df5b20174cab91aa3f"
+}

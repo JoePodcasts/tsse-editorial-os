@@ -1,0 +1,79 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 72,
+      "excerpt": "[00:00:00] Gopi Rangan: You are listening to The Sure Shot Entrepreneur,",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 0,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 256,
+      "excerpt": "a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 73,
+      "timestamps": []
+    },
+    {
+      "end": 618,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur Podcast. I'm your host, Gopi Rangan, a venture capital investor based in the Silicon Valley. Every successful entrepreneur has a few early believers. Am I right? Someone who understands and values the founder's vision, right from the beginning. Someone who plays a critical role in nurturing the spirit of entrepreneurship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 257,
+      "timestamps": []
+    },
+    {
+      "end": 847,
+      "excerpt": "The more ambitious your plan, the more important it is to have the support of such early believers. For Steve Jobs, it was Arthur Rock. Sergey Brin and Larry Page had Ram Shriram. And Mark Zuckerberg, of course, had Peter Thiel.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 619,
+      "timestamps": []
+    },
+    {
+      "end": 1345,
+      "excerpt": "These kinds of relationships are all around us in the startup world. Yet, few of us really know what lights the spark -- what led early believers to get excited by new business ideas. These businesses are not profitable, often haven't generated revenues, or even have customers. Sometimes they don't even have a fully developed product. Angel and venture capital investors are among these early believers. They are on board, even when there is nothing but an idea and a team with a lot of passion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 848,
+      "timestamps": []
+    },
+    {
+      "end": 1673,
+      "excerpt": "Do you wonder what they look for in entrepreneurs? That's why I started this podcast to share relevant, insightful, and authentic stories. On this podcast, you will listen to stories about founders, CEOs, venture capitalists, angels, and advisors. Many of my guests will be investors who backed startups at the earliest stages.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1346,
+      "timestamps": []
+    },
+    {
+      "end": 1994,
+      "excerpt": "They thrive on pursuing bold and contrarian ideas. Our conversations will not be rehearsed. Okay, so let me warn you not to expect to hear polished stories. We will discuss hidden truths, investment philosophies, pet peeves, common misconceptions, pitches, personalities, products, and the broader context of everything.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1674,
+      "timestamps": []
+    },
+    {
+      "end": 2504,
+      "excerpt": "Everything that led to that special chemistry that made an entrepreneur's vision become reality. I plan to publish episodes once every one to two weeks. Each episode will be about 25 minutes. If you would like to suggest a guest, propose a topic, or tell me how an episode inspired you, share your comments at podcast.sure.ventures. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. Join me to get an insider view on The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1995,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "ba51bd38dfd425080c932c9d32feb80328cd3c1eea0f75c06ac3351995a41468",
+  "text_sha256": "1ed38af5188313e33d5ae1d7ec4b7d58ce7de737ac33884d752a2b49be86319c"
+}

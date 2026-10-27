@@ -1,0 +1,513 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 130,
+      "excerpt": "Sam Toole: For me, the job feels like a privilege every day. I get to interact with really smart people and learn all of the time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 378,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 132,
+      "timestamps": []
+    },
+    {
+      "end": 714,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm with Sam Toole, Principal at Primary Venture Partners based in New York. He's going to talk to us about how he makes investment decisions, what kind of startups he likes to invest in, how he engages with founders, and some specific things in the areas that he focuses on, mainly healthcare. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 380,
+      "timestamps": []
+    },
+    {
+      "end": 760,
+      "excerpt": "Sam, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 716,
+      "timestamps": []
+    },
+    {
+      "end": 850,
+      "excerpt": "Sam Toole: Thanks, Gopi. I really appreciate it. I'm excited to get the chance to chat. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 762,
+      "timestamps": []
+    },
+    {
+      "end": 927,
+      "excerpt": "Gopi Rangan: Let's start with your story. You grew up in Nantucket, right? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 852,
+      "timestamps": []
+    },
+    {
+      "end": 1586,
+      "excerpt": "Sam Toole: Yeah. It's a small island off of Massachusetts, which most people know as a vacation destination. I was born and raised there and lived there all the way through high school. It's actually where I started my entrepreneurial journey. Back in high school, I used to landscape and I also was a big surfer, am still a big surfer. I ended up starting my first business when I was 18, it was a surf school. For about five years, instead of doing internships during college or anything like that, I'd go back to Nantucket every summer and teach surf lessons. The surf school is still there, but it was my first foray into the world of entrepreneurship. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 929,
+      "timestamps": []
+    },
+    {
+      "end": 2302,
+      "excerpt": "During that time, I ended up starting a second business, which was an e-commerce company, sort of spun it out of the surf school. I used to go around and sell t-shirts out of my backpack to college kids and ended up raising some money and running an e-commerce company for a handful of years in college and out of school as well. That was totally different than running a surf school, but I learned a lot of things about how to run businesses, probably more about what not to do. I had some co-founder issues, ended up shutting down the e-commerce company. Long story short, the great guy to start a surf school with wasn't the right partner to start a second business with on the e-commerce side of that business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1588,
+      "timestamps": []
+    },
+    {
+      "end": 2812,
+      "excerpt": "I was living in Boston at the time, really had no idea what I wanted to do, was sort of lost because these businesses had been my whole life for many years. I ended up getting really interested in tech and landed at a software consultancy on the sales and go-to-market side. I worked there for a handful of years, and we were building custom mobile software for Series A and Series B businesses, and Fortune 2000 companies. I was there for a couple of years up until that business got acquired by Accenture. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2304,
+      "timestamps": []
+    },
+    {
+      "end": 3464,
+      "excerpt": "I ended up leaving before that to move to New York, to be the first salesperson at a business called Nomad Health, which is a healthcare labor marketplace. This was my first real deep exposure to healthcare. Eventually, I became the director of sales, selling into health systems and provider groups across the country, and then shifted over to be the GM of the business line. I was there for about four years from seed through Series B before jumping over to the investing side. So, I've about 10 years of entrepreneurial and operator experience before coming over to investing at Primary, where we do pre-seed and seed-stage investing in New York. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2814,
+      "timestamps": []
+    },
+    {
+      "end": 4278,
+      "excerpt": "I spend 75% of my time in the world of healthcare and the rest of it in enterprise and enterprise SAS. We're a generalist fund in the city investing out of our third fund right now, and a little bit unique from some other seed-stage funds in two ways. One, we are a geographically-focused fund. 95% of our investments are in the greater New York area. The two founding GPs of Primary, seven years ago when the fund was started, said, \"We think New York's going to be the tech hub of the east coast.\" But at the time there wasn't a lot of venture dollars in the New York ecosystem. So, we're going to be a fund that's focused on supporting that ecosystem. And on top of that geographic focus, we work really closely with the portfolio, which is something that has always spoken to me given my previous background.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3466,
+      "timestamps": []
+    },
+    {
+      "end": 4556,
+      "excerpt": "We're a team of 30 people; nine full-time investors, then the rest of the team is really focused on working with the portfolio. Also, we have operating partners who focus on go-to-market, talent and people, and strategic finance, and they have teams that sit underneath them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4280,
+      "timestamps": []
+    },
+    {
+      "end": 4671,
+      "excerpt": "Gopi Rangan: So you're a surfer-turned-entrepreneur-turned-healthcare executive-turned venture capital investor. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4558,
+      "timestamps": []
+    },
+    {
+      "end": 4903,
+      "excerpt": "Sam Toole: Yeah, it's a winding path for sure. I definitely didn't take the \"I'm going to go get an internship and do investment banking and get an MBA and work at a tech company and then become a VC\". It's a little bit different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 4673,
+      "timestamps": []
+    },
+    {
+      "end": 4958,
+      "excerpt": "Gopi Rangan: What do you like about venture capital? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4905,
+      "timestamps": []
+    },
+    {
+      "end": 5524,
+      "excerpt": "Sam Toole: For me, the job feels like a privilege every day. I get to interact with really smart people and learn all of the time. Whether it's about different industries or different parts of industries, I come into my every day and it's like I'm going to learn something new and interact with people who are so smart and are focused on spending their whole time changing the world for the better. I absolutely loved all my time on the operating side, but it's just different from a day-to-day basis in terms of this really feeling like a privilege at all times. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 4960,
+      "timestamps": []
+    },
+    {
+      "end": 5690,
+      "excerpt": "Gopi Rangan: Yeah. It is a privilege to work with some ambitious entrepreneurs building mission-driven businesses. It's truly an honor to have those opportunities. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5526,
+      "timestamps": []
+    },
+    {
+      "end": 5726,
+      "excerpt": "Sam Toole: Yes. It's so much fun. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 5692,
+      "timestamps": []
+    },
+    {
+      "end": 5816,
+      "excerpt": "Gopi Rangan: Yeah. It is a lot of fun. What areas do you focus on for your investments? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5728,
+      "timestamps": []
+    },
+    {
+      "end": 6361,
+      "excerpt": "Sam Toole: I spend about 75% of my time in healthcare investing, specifically. Healthcare is so big. I could be looking at an insurance business, a FinTech business, infrastructure business. I spend my time looking at that world in particular, both on the enterprise and on the consumer side. Then the rest of my time is a mix of enterprise software, generally, application layer software FinTech, PropTech, and I am a little bit of a sucker for vertical market SAS businesses and sleepy industries as well. But, increasingly, I do healthcare.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 5818,
+      "timestamps": []
+    },
+    {
+      "end": 6508,
+      "excerpt": "Gopi Rangan: How is it different to build a startup in healthcare today compared to other sectors? What do entrepreneurs need to do differently? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6363,
+      "timestamps": []
+    },
+    {
+      "end": 6982,
+      "excerpt": "Sam Toole: Healthcare today is at a really interesting moment. When you look back to 10 years ago, there were a bunch of regulatory changes around the Affordable Care Act and then the implementation of EHRs (electronic health record systems) pushed the world of healthcare more into at least having the infrastructure to start to at least build that data and change care models to really focus on the patient a little bit more, and really change the incentive structures. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 6510,
+      "timestamps": []
+    },
+    {
+      "end": 8098,
+      "excerpt": "I like to think about healthcare today like FinTech probably five or seven years ago. You have a bunch of really large digital health businesses that, if you're an entrepreneur today, you don't only have to sell into a health system - which is going to be a long, difficult sales cycle. It's what fintech businesses had to do five or seven years ago. They had to sell to big banks. But now they can go in and sell into Brex. And if your healthcare business today, you can go in and sell into Oscar, or you can sell into Hinge, or you can sell them to Cedar, whoever it might be. So, when you look at the infrastructure that has started to get laid, the regulatory changes, and then you layer on COVID, which just accelerated everything. It made people even more aware of how broken the healthcare system is. It enabled people, patients, who are really consumers at the end of the day, to realize that they should have a better experience. When we talk to early-stage entrepreneurs in the world, people who are like leaning into those tailwinds and have spent a lot of time thinking about it get us really excited. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6984,
+      "timestamps": []
+    },
+    {
+      "end": 8540,
+      "excerpt": "And also, traditionally, healthcare investors would have said, you need to have a healthcare background to go out and start a business...because you have to go on and sell to these big health systems; it's going to be hard. I don't think that's necessarily true anymore today. People who come from a great consumer background can go in and build an amazing healthcare business, who three or four years ago they might not have been able to. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8100,
+      "timestamps": []
+    },
+    {
+      "end": 9053,
+      "excerpt": "Gopi Rangan: That's very interesting. I would expect that for an entrepreneur to be successful, deep domain expertise and many years of experience, and an established network of entities within healthcare would be important. But you're saying that that's not important. The entrepreneur could come from e-commerce or some other completely different sector unrelated to healthcare and there are plenty of opportunities for entrepreneurs to build healthcare solutions, even if they don't have that domain expense.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8542,
+      "timestamps": []
+    },
+    {
+      "end": 9785,
+      "excerpt": "Sam Toole: Yeah, we certainly look at a lot of businesses where it is really important because of specific domain expertise that someone has. We recently invested in a business that is in the provider network space. Its founder is a guy who came out of Oscar, who for four years had built their networks. And he said, \"I don't have the software tools to do. It's a pretty specific problem.\" The average Joe Schmoe walking up the street isn't going to realize that there's an opportunity there. So, in some cases, especially on the enterprise side, we see a lot of people who are coming out of health tech businesses who have seen from the inside how broken these systems are and are saying, \"I'm going to go out and improve that.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 9055,
+      "timestamps": []
+    },
+    {
+      "end": 10364,
+      "excerpt": "With some of the businesses on the care side, in particular, though, having that specific health care background isn't necessarily a must. I think it's really important to have people around you who are, but if you're building a business that has a direct-to-consumer motion, maybe it's around care, but you have run acquisition and growth, that's great. If you ran growth or acquisition at a D2C brand, you can go in and really understand as a patient or as a consumer where there are specific new opportunities. You don't need to have that healthcare background necessarily. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9787,
+      "timestamps": []
+    },
+    {
+      "end": 10702,
+      "excerpt": "Gopi Rangan: Thanks for sharing that fresh perspective. Often, we think that past experiences in certain areas are important, but what you're saying is fresh thinking, creative ideas are much more valuable. There are enough experts out there that can support the business, but that entrepreneurial spirit is what's more important today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10366,
+      "timestamps": []
+    },
+    {
+      "end": 10916,
+      "excerpt": "Sam Toole: You also see, sometimes entrepreneurs will take the (and it's driven by the market) approach of saying, \"I'm going to make an incremental improvement. I'm going to make something a little bit better. \"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 10704,
+      "timestamps": []
+    },
+    {
+      "end": 11183,
+      "excerpt": "Gopi Rangan: And that's what happens with experts. They're very good at finding incremental changes, but when looking for revolutionary changes, they struggle because they see so many different ways a new idea can fail, and that prevents them from taking that leap.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10918,
+      "timestamps": []
+    },
+    {
+      "end": 11794,
+      "excerpt": "Sam Toole: Yeah, exactly. So I think we always get excited about people who are going to really take a step back and say, \"I'm changing the world here.\" We're investors in a business called K Health. Allon Bloch, the CEO is the co-founder of Wix and the co-founder of Vroom. He was building websites, then selling cars online, and now he's running a business called K Health, which is revolutionizing how people get access to care. It's the idea of being able to, through AI, have a doctor in your pocket at all times. When you talk to him about it, he doesn't come from that world of healthcare necessarily. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 11185,
+      "timestamps": []
+    },
+    {
+      "end": 12035,
+      "excerpt": "It doesn't make sense the way that care is delivered today in the United States. Let's really revolutionize how consumers are getting access to that care versus being stuck in the box of \"this is how it's been done for the last 10 years\". ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11796,
+      "timestamps": []
+    },
+    {
+      "end": 12235,
+      "excerpt": "Gopi Rangan: That's fascinating. I want us to talk about the first meeting, the second meeting when you meet entrepreneurs. What goes on in that room? What do you ask them? What are you looking for?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12037,
+      "timestamps": []
+    },
+    {
+      "end": 12872,
+      "excerpt": "Sam Toole: Yeah. We're early-stage investors. For us, first and foremost, it's about the team. It's about understanding their story, their background. What is their unique insight to build this business? We also think a lot about (we use this term internally) the rate of learning. Are these people learning machines? Are they going to come in and iterate and be able to weave back and forth? You know that a startup is not one straight path. So we try to get to know the people, first and foremost. We're also looking at TAM, and ultimately, the solution that they're building to help solve the core problem that they are going after.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 12237,
+      "timestamps": []
+    },
+    {
+      "end": 13344,
+      "excerpt": "Gopi Rangan: You look for who they are. So, you ask a lot of questions about their personality, past experience, career, and you are watching very closely to see if they are learning machines. Are they eager to grasp new ideas and chase after new innovations? And you're looking for the normal things that all other investors would look for the size of the market, unit economics, whether their solution is differentiated and who's the competition and all of that stuff.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12874,
+      "timestamps": []
+    },
+    {
+      "end": 13372,
+      "excerpt": "Sam Toole: Yeah, exactly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 13346,
+      "timestamps": []
+    },
+    {
+      "end": 13527,
+      "excerpt": "Gopi Rangan: Can you give an example of one of the recent investors? How was the conversation? How did you meet the entrepreneur? What did you ask them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13374,
+      "timestamps": []
+    },
+    {
+      "end": 14170,
+      "excerpt": "Sam Toole: A recent investment we made is in a business called Jukebox Health, which is helping seniors age in place. It's three multi-time entrepreneurs focused on helping seniors make sure that they have their homes set up and retrofitted so they don't have to leave their homes and they can say, \"we're going to be here and live the rest of our life here.\" It's a full-stack solution, one of these businesses that are operationally complex, but when they figure out how to scale, it's also a huge moat when they're going in and having conversations with payers and health systems who are all incentivized to help members age more safely. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 13529,
+      "timestamps": []
+    },
+    {
+      "end": 14870,
+      "excerpt": "For us, in those early conversations, it was really focused on getting to know the three team members, Romanos, Oren and Seung, who had all started different businesses beforehand. This is actually an example where not all of them were from the healthcare world directly, or they hadn't all spent that time there. And we were trying to get a sense of what's ultimately driving them and how much do they want to solve this problem. These guys are pros who really have been thoughtful around what do they need to go prove and what's going to be hard. You certainly see this with people who have been around the block once or twice, just being honest about what they knew and what they don't know yet.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14172,
+      "timestamps": []
+    },
+    {
+      "end": 15170,
+      "excerpt": "Sometimes you see with people who are maybe first-time founders the desire to act like they know everything. From my perspective, I love it and I find it really refreshing when the founder says, \"It's a great question, I don't have the answer to that right now\" - just being forthright about that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14872,
+      "timestamps": []
+    },
+    {
+      "end": 15676,
+      "excerpt": "Gopi Rangan: Yeah. Some of the best entrepreneurs I've worked with are incredibly impatient. They just want to do things and they are so eager to make decisions and take action. But at the same time, they're also very thoughtful. They have thought about a topic very deeply, much more deeply than anyone around them. And they have considered different scenarios, therefore, now they know exactly what to do and they're able to move forward. It's a privilege to have that opportunity to watch that action.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15172,
+      "timestamps": []
+    },
+    {
+      "end": 16461,
+      "excerpt": "Sam Toole: Yeah. We actually have a CEO in our portfolio, a guy named Toni Oloko who's CEO of a business called Dandy. He has talked about impatience with the whole investment team beforehand. Even as he's interviewing people, he tries to figure that out. And he has said, \"the best way to do it is I just ask straight up, 'when was the last time you didn't get something finished as quickly as you want it more than some, you know, someone out in your way, what was the exit?'\" It weaves around just asking when was the last time you were impatient - and it is the best way to really quickly understand and get to that. It's a race against the clock in a lot of ways, printing product-market fit, going out to raise more capital, and doing all of that. Extra months can mean a lot. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 15678,
+      "timestamps": []
+    },
+    {
+      "end": 16843,
+      "excerpt": "Gopi Rangan: This is very interesting. You're giving specific examples of what happened in a closed room and the conversation between you and the founders. I always ask this question to pre-partner-level venture capital investors. Do entrepreneurs insist on talking to partners? What role do you play in that conversation? How do you support them and how do you support the firm? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16463,
+      "timestamps": []
+    },
+    {
+      "end": 17297,
+      "excerpt": "Sam Toole: It's a good question. We actually think a lot about it given the size of our fund. What is the entrepreneur's experience in this? Because you want to make it a great experience for the customers in a lot of ways. As a firm, what we've tried to do is be really thoughtful around making sure we all are aligned around what is going to get us excited. Like, it gets back to people and it gets back to the market and doing these types of things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 16845,
+      "timestamps": []
+    },
+    {
+      "end": 17700,
+      "excerpt": "We try to bring in people on the partner level as early as possible. The plus is, as you have someone on the non-partner level having some of those early conversations, what we really strive for is that those partners going into that conversation are really well-prepared. They've been debriefed. They have an understanding of the market and of the product. They're going into it with a prepared mind.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17299,
+      "timestamps": []
+    },
+    {
+      "end": 18088,
+      "excerpt": "As generalists, we look at so many different sectors. Look at our portfolio, the businesses spun from full-stack autonomous submarine businesses to D2C brands and everything in between. We can't be experts on everything, but we really try to make sure that if you're having a conversation with a non-partner, that partner is super prepared going into that second or third conversation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17702,
+      "timestamps": []
+    },
+    {
+      "end": 18247,
+      "excerpt": "Gopi Rangan: What are some common mistakes that founders do, especially when engaging with pre-partner-level investors. And what advice would you give them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18090,
+      "timestamps": []
+    },
+    {
+      "end": 18945,
+      "excerpt": "Sam Toole: Common mistakes I think that people sometimes make is, and it's a hard thing to critique, but it's around how people pitch the narrative. As VCs, we look at tens or hundreds of businesses in a week or in a month, certainly. Work to make that story compact and digestible. I know when we work with our portfolio around subsequent fundraising rounds, which we get really closely involved with, we spend a lot of time with them saying like, \"what is the story? What is the narrative? How do you make it really simple for someone to understand the core part of the business...why this is really exciting, and demonstrate you understand what those different levers are around that success. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 18249,
+      "timestamps": []
+    },
+    {
+      "end": 19402,
+      "excerpt": "At times, especially in industries where things are a little bit more complex out of the gates, I always encourage entrepreneurs to take a step back and think through what's that elevator pitch you're going to start off, tell people up front so someone can walk out of that meeting and say, \"Oh my God, this is why it's so exciting\"...because someone has to go get someone else excited. The easier you can make that for someone else that is always a win. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18947,
+      "timestamps": []
+    },
+    {
+      "end": 19861,
+      "excerpt": "Gopi Rangan: Yeah, the principals and the senior associates and others at the firm very quickly turn into champions for the entrepreneurs. They have a much closer relationship with a partner, so they can bring up topics relevant at the right time to influence the partner and make them look at the opportunity for what it's worth. Eventually, the principal or the senior associate becomes a friend of the entrepreneur more closely than the partner himself. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19404,
+      "timestamps": []
+    },
+    {
+      "end": 20449,
+      "excerpt": "Sam Toole: It's especially important these days, as well, where the volume of deals that people are looking at and the pace is just so fast. Most of the deals that we look at from the first meeting to a term sheet take us one to two weeks. It's not that we wouldn't like to have more time, but given how fundraising processes are run today. It's just really quick. You have to be able to make it always exciting. And then in worlds where it is complex, something that I always appreciate is the founder helping me get smarter quickly. What are the additional things I should be reading?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 19863,
+      "timestamps": []
+    },
+    {
+      "end": 20690,
+      "excerpt": "When we're going on fundraising we say, \"You don't go out and fundraise until you put together the FAQ document.\" It's just going to help that investor get that much smarter, that much more quickly. Those little things are super valuable. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20451,
+      "timestamps": []
+    },
+    {
+      "end": 20928,
+      "excerpt": "Gopi Rangan: Yeah. Entrepreneurs who help those ambassadors and internal champions, by educating them on what the business is about, succeed much more effectively in the fundraising process. So, yeah. I'm glad that you highlighted that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20692,
+      "timestamps": []
+    },
+    {
+      "end": 21064,
+      "excerpt": "You've been in venture capital for almost two years now. If you were to change one thing to make this industry better, what'd you do? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20930,
+      "timestamps": []
+    },
+    {
+      "end": 22161,
+      "excerpt": "Sam Toole: I think access continues to be a real problem. There is a subset of people who are always going to be able to get in and get in front of VCs. Figuring out ways to ensure that every entrepreneur, regardless of their background, has access to ultimately a growing pool of capital, is super important. We've thought about that a fair amount here at Primary. We've actually gone in and invested our time and dollars. We run a founder fellowship program for first-time entrepreneurs to provide them with access and resources to people that they might not traditionally have. We also have an NYC tech guide that we've put together, which is all around saying if you've never been in this world beforehand, these are the people you should be talking to, this is how you should be thinking about this; everything from the lawyers, to the banks, to the different VCs, to how you're thinking about pitching. So, we've tried to make little steps into doing that, but I still think there's a lot of room for improvement and unfortunately, I don't have all the solutions in terms of how to fix it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 21066,
+      "timestamps": []
+    },
+    {
+      "end": 22475,
+      "excerpt": "Gopi Rangan: Yeah, access is quite challenging. It's a lot easier than it was 10, 15 years ago. But there are still siloed avenues for relationships, and it's quite hard, quite challenging for new entrepreneurs to navigate the maze. I hope we can make that simpler and invite more diversity among entrepreneurs. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22163,
+      "timestamps": []
+    },
+    {
+      "end": 22648,
+      "excerpt": "I want to switch to the next part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22477,
+      "timestamps": []
+    },
+    {
+      "end": 23118,
+      "excerpt": "Sam Toole: Yeah. This goes back to my surfing days. There is a nonprofit called Surfrider Foundation, which is focused on climate change and keeping the beaches and ocean clean. Growing up on an island and being someone who has spent an immense amount of time in the ocean, it's something that is near and dear to my heart. I've participated in a lot of beach cleanups and I try to be thoughtful around how we're interacting with the ocean and the climate in general. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 22650,
+      "timestamps": []
+    },
+    {
+      "end": 23315,
+      "excerpt": "Gopi Rangan: This is great. Thank you very much for sharing your nuggets of wisdom, specific examples of your engagement with founders, and how you are involved actively in community development.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23120,
+      "timestamps": []
+    },
+    {
+      "end": 23382,
+      "excerpt": "I appreciate your time here on the podcast. Thank you very much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23317,
+      "timestamps": []
+    },
+    {
+      "end": 23432,
+      "excerpt": "Sam Toole: Thanks Gopi. I really appreciate it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sam Toole",
+      "start": 23384,
+      "timestamps": []
+    },
+    {
+      "end": 23725,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23434,
+      "timestamps": []
+    },
+    {
+      "end": 23778,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23727,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "9e974624769d33643f087157845cbc26adf9f0067f834da502cb237c823a8cb8",
+  "text_sha256": "5e554a5d1d58cd322881fb4a1f077dd0ec0a65303ccf9ed9016d81c30a27b39d"
+}

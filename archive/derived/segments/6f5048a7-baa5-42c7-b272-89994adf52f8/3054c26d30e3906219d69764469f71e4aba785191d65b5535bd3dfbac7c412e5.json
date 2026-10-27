@@ -1,0 +1,897 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 210,
+      "excerpt": "\"We're not looking to throw money at things that create certain and huge infrastructure costs with uncertain value. What we're very confident in is that things that previously were impossible are now possible.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 460,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 212,
+      "timestamps": []
+    },
+    {
+      "end": 637,
+      "excerpt": "Welcome to the Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Scott Barclay. He's the managing director for the healthcare practice at Insight Partners.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 462,
+      "timestamps": []
+    },
+    {
+      "end": 972,
+      "excerpt": "We're gonna talk to him about his investments at Insight Partners. What does it mean to lead healthcare investments at Insight Partners? We're also going to talk about investing in multiple stages in the ecosystem. What are the pros and cons of investing at the seed stage when you're a large firm? How do you play in this ecosystem?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 639,
+      "timestamps": []
+    },
+    {
+      "end": 1156,
+      "excerpt": "Scott invests at multiple stages, even at the earliest stages of incubating companies. We're gonna talk about some of those topics also. Scott, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 974,
+      "timestamps": []
+    },
+    {
+      "end": 1322,
+      "excerpt": "Scott Barclay: Gopi, I'm so happy to be here for a second time. It's been a few years and I love your audience and us working on deals together. So, this is a joy. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 1158,
+      "timestamps": []
+    },
+    {
+      "end": 1612,
+      "excerpt": "Gopi Rangan: I know you were one of my first guests when I started the podcast more than three years ago. We're now up at like 120-plus episodes and it's running really well. Founders are enjoying learning from investors like you. So, thank you very much for coming back onto the podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1324,
+      "timestamps": []
+    },
+    {
+      "end": 1733,
+      "excerpt": "Let's start with you; a quick story about where you're from, where you grew up, and what brought you to Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1614,
+      "timestamps": []
+    },
+    {
+      "end": 2412,
+      "excerpt": "Scott Barclay: Well, I'm from a small town in southern Virginia and I'm [...] Liberal Arts, which means majored in history with depths in Psychology and English and Philosophy, but also bravery towards Physics and Math. As an undergraduate, I was developing a love of inquiry and of asking hopefully the right questions. And as I got into my mid twenties, realizing how little I knew and just enjoying doing one thing at a time and discovering how much I didn't know. I definitely grew up working in my dad's styrofoam manufacturing plant, and that is a more substantive and germane basis to a lot of things I see and do as well as the way I touch teams and think about people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 1735,
+      "timestamps": []
+    },
+    {
+      "end": 2498,
+      "excerpt": "But out of that generalist background, one of the early intellectual questions was: ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2414,
+      "timestamps": []
+    },
+    {
+      "end": 2539,
+      "excerpt": "- What is value and how is it created? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2500,
+      "timestamps": []
+    },
+    {
+      "end": 2702,
+      "excerpt": "- How does that not look like it's out of a textbook, but it's fundamentally rooted in teams building products, going to market, and creating value in the world?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2541,
+      "timestamps": []
+    },
+    {
+      "end": 3024,
+      "excerpt": "I remember at a very early stage, very early stage in a way that my wife will sometimes teasingly say back to me, \"I just had this concept of 'wouldn't it be wonderful if I got to work on things like that?'\"... but they were products that were a real net positive for society, but that also you could do those at scale. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2704,
+      "timestamps": []
+    },
+    {
+      "end": 3221,
+      "excerpt": "All I do is touch healthcare software where there's a German of an idea, there's a team, there's an idea towards execution, but we're all about how you amplify that execution to do that at scale.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3026,
+      "timestamps": []
+    },
+    {
+      "end": 3433,
+      "excerpt": "Healthcare's really broken. My joy is every single day I get to wake up with a fresh mindset and ask: what's the dent we're putting in the world for healthcare outcomes and access over the next 20 to 30 years? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3223,
+      "timestamps": []
+    },
+    {
+      "end": 3639,
+      "excerpt": "I've been able to lead teams or deploy capital in Europe and the Northeast and I've been sitting in Palo Alto for most of the last generation, and I'm part of a world-class global firm, Insight Partners. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3435,
+      "timestamps": []
+    },
+    {
+      "end": 3841,
+      "excerpt": "Gopi Rangan: I've really enjoyed many conversations with you. Most conversations start with first principles and then we build up on the logic. I can see where it comes from - your childhood onwards. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3641,
+      "timestamps": []
+    },
+    {
+      "end": 3927,
+      "excerpt": "Tell us about Insight Partners. What is Insight Partners and what role do you play? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3843,
+      "timestamps": []
+    },
+    {
+      "end": 4327,
+      "excerpt": "Scott Barclay: Let lemme back up about the firm. The way I think about that is what if you could build the most scalable model of being one of the top software investors in the world, but where the process removes ego and where the team is transparent and does the work, and it's always done in a way in which the founder feels like they're better off whether Insight got on their cap table or not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 3929,
+      "timestamps": []
+    },
+    {
+      "end": 4693,
+      "excerpt": "That's the overall vibes of being at Insight. It is a world-class do-the-work culture. It's a world-class investment committee. I think of, in some ways, each investment committee member runs a relatively sizable organization of investors, and then most of the firm's operating expense is to power centers of excellence, organized somewhat like a software company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4329,
+      "timestamps": []
+    },
+    {
+      "end": 5164,
+      "excerpt": "So as a founder and software goes from 15 to 55 to 1500 people, even if she's done that four times before, she wil come upon questions either that are hard or that she hasn't faced before. And when she does, usually within some bucket of how a software company works, we actually have a center of excellence for that. Those resources and those qualities are greater than we can market, but we spend most of our time just aiming them at being available for our founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4695,
+      "timestamps": []
+    },
+    {
+      "end": 5173,
+      "excerpt": "My role",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5166,
+      "timestamps": []
+    },
+    {
+      "end": 5589,
+      "excerpt": "My role here is to ask: how can we be the world's best healthcare software firm? Another way to say the role is in the way that those investment committee teams work. I just serve every analyst and associate on those teams. As they start to lean in on healthcare type companies, I'm here to help us improve our probabilities — of how we make decisions; of how we talk to founders; of how we build the right teams. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "My role here is to ask",
+      "start": 5175,
+      "timestamps": []
+    },
+    {
+      "end": 6222,
+      "excerpt": "One way I think about Insight investment teams is that Insight is historically rooted in scale. So there is no experienced investor at Insight who doesn't know exactly what to do when they come upon a software company that's starting to get primary data, empirical evidence that product-market fit is close at hand. They're real experts on how to help that CEO think about the next phases to amplify world-class execution. If that's a healthcare company, my job is to walk alongside those teams at the firm to make us even better. That doesn't mean I'm a part of every healthcare deal. It doesn't mean I lead every healthcare deal.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5591,
+      "timestamps": []
+    },
+    {
+      "end": 6564,
+      "excerpt": "Like the firm's values, I'm here to remove ego and help us create even better processes and build better muscles in healthcare on the healthcare side of healthcare software. It also means I have a little bit of a remit to ask first principle questions over what needs to happen in this sclerotic oligopolistic market over the next 15 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6224,
+      "timestamps": []
+    },
+    {
+      "end": 6919,
+      "excerpt": "So one of my jobs is to join in and serve these teams as we start to look at a scaling asset. Another way to think about my role is to ask the questions of: when should we go earlier than that? And it turns out sometimes as early as incubation, depending on the problem and the use case and the of founder that can really get their teeth into a problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6566,
+      "timestamps": []
+    },
+    {
+      "end": 7063,
+      "excerpt": "Insight invests at every single stage. The sweet spot is scale. Anything looking like product market fit is in scope for anyone at this firm. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6921,
+      "timestamps": []
+    },
+    {
+      "end": 7430,
+      "excerpt": "In healthcare, we have various areas where we like to go a little bit earlier. We have our separate pretty special computational biology therapeutics team. We also have a world-class private equity team who thinks about growth and private equity software even at that size of check. My job is to just be a team player on any of those and improve our probabilities. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7065,
+      "timestamps": []
+    },
+    {
+      "end": 7669,
+      "excerpt": "Gopi Rangan: I see that Insight is a large firm (it's a global firm) and the firm focuses on many different teams and topics for investments. You also invest in multiple stages, and you particularly focus on topics related to healthcare.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7432,
+      "timestamps": []
+    },
+    {
+      "end": 7989,
+      "excerpt": "What is a typical sweet spot for you? Check size wise, you mentioned anything product-market fit is a good fit for the firm, and you focus a little earlier as well. What would be an ideal time for a founder to talk to you and how much do you typically invest and how many companies do we invest in on average per year?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7671,
+      "timestamps": []
+    },
+    {
+      "end": 8325,
+      "excerpt": "Scott Barclay: Well, I don't wanna act like we're all things to all people, so I'm gonna answer you indirectly and then I'm gonna answer you directly. Indirectly, what I will tell you is, \"Is software and compute at the core of what you're building? If you are right, can this scale and scale like a well-run software company scales?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 7991,
+      "timestamps": []
+    },
+    {
+      "end": 8662,
+      "excerpt": "If so, like that is interesting to us. There are many important parts of healthcare. We are not overly rotated into devices. We are not in healthcare services. We are open to tech enabled services, but it needs to be tech enabled services in the spirit of an increasingly automatized version of what really great margins can look like.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8327,
+      "timestamps": []
+    },
+    {
+      "end": 8992,
+      "excerpt": "What Insight is the best in the world at is recognizing and improving the software operating model in deep vertical places. So in a land of being able to invest at any stage, invest globally, I wanna start by saying we have real discipline about what software excellence can look like. And that is especially true in healthcare.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8664,
+      "timestamps": []
+    },
+    {
+      "end": 9273,
+      "excerpt": "We will meet with a founder the moment it is clear they have a good idea and they would like to talk to someone who is very deep in healthcare and very deep in software. I take probably 50 to 80 meetings per year where the founder has not even decided whether to start a company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8994,
+      "timestamps": []
+    },
+    {
+      "end": 9919,
+      "excerpt": "We like to start to talk with founders very early when it's clear what they're working on. That doesn't mean it's time for a transaction. And I think here I just wanna make the point of when you're talking to a large firm with a lot of capital, it's our job to value the CEO's time as much as anything. And yet it's also our job to understand. So we really try to ask with first principles, what's the long-term idea? How do we understand this founder and therefore give them very quick feedback as to when we might be a good capital partner, and then make sure we have a depth and a quality of do what you say you're gonna do well before that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9275,
+      "timestamps": []
+    },
+    {
+      "end": 10656,
+      "excerpt": "So for me in healthcare, I will just start that at any stage. I always try to bring the just right team to that conversation, and that allows us to think: in this founder on this problem, how do we think it shapes up over 10 to 12 years and then walk with them on that journey without the founder feeling like it's transactional; because we're not transactional. At the end of the day, a great venture capitalist gets on certain cap tables and doesn't get on others. It's probably trite to say, and it's been said before, the reputation is built on how you touch those founders, regardless of whether you get on their cap table. So, I'm pretty proud to be at a place where we have the resources to have that conversation the right way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9921,
+      "timestamps": []
+    },
+    {
+      "end": 10898,
+      "excerpt": "So the short answer to you is no time is too early, and we'll always be very transparent within one or two conversations as to if we think it's short term actionable or long term actionable and kind of the type of things we've done before. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10658,
+      "timestamps": []
+    },
+    {
+      "end": 11060,
+      "excerpt": "Gopi Rangan: You mentioned that there are a few topics within healthcare. You don't invest like devices, but are there certain themes that you're excited about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10900,
+      "timestamps": []
+    },
+    {
+      "end": 11139,
+      "excerpt": "What's happening in healthcare and where do you want to invest in the future?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11062,
+      "timestamps": []
+    },
+    {
+      "end": 11696,
+      "excerpt": "Scott Barclay: You know, healthcare is about $7.2 trillion globally, $4.2 trillion in the US . It's actually about 80 different multi-billion dollar oligopolistic markets. There's actually not one of those markets we would not go into except if we are limited either in our values or in our charter with our LPs. In any of those markets, what we're looking for is software that unlocks the much better future, that's higher quality, lower cost, and radically changes how access and kind of the morals and the values and dignity of health healthcare works.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 11141,
+      "timestamps": []
+    },
+    {
+      "end": 12063,
+      "excerpt": "Even in devices. What I'm saying is we don't over rotate. There's an entire industry of really good historical med device investors. They've had ups and downs over the last generation or two. That said, we actually have clinicians on our team who are experts in devices. What we're looking for are the software operating models that are part of the next generation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11698,
+      "timestamps": []
+    },
+    {
+      "end": 12172,
+      "excerpt": "So I bet we do some investments that have devices. We have a couple. I'm just saying we don't over rotate. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12065,
+      "timestamps": []
+    },
+    {
+      "end": 12301,
+      "excerpt": "Gopi Rangan: Can you give a couple of examples in your recent past investments you've been at Insight for about two years now. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12174,
+      "timestamps": []
+    },
+    {
+      "end": 12624,
+      "excerpt": "Scott Barclay: I've been at Insight for almost two years. I think I've been part of 16 or 17 checks in healthcare. I bet we've written 25 to 30 checks during that period. Some examples of the types of checks I've been part of, but also ones that are illustrative of where we see big markets. Lemme give you two or three. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 12303,
+      "timestamps": []
+    },
+    {
+      "end": 13085,
+      "excerpt": "If people have noticed, we are one of the most bullish investors in behavioral and mental health. That's not a contrarian statement, so are many others, but we now have seven or eight anchor investments in that space. I am on the board of Calm. I'm on the board of something very special around crisis care called Bamboo. Within behavioral, we care very much about how we're screening in appropriate institutional settings and we care very much about autism. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12626,
+      "timestamps": []
+    },
+    {
+      "end": 13521,
+      "excerpt": "One example I would give you is a two-sided marketplace of therapists that's kind of direct to consumer on one side, very clinical on the other, and the name of that company is UnoBravo. It's based in Milan. It's Pan-European in its nature and its ambition, but at heart it's just a really great two-sided marketplace with deeply embedded SaaS software that's empathetic to both the patient on one side and the clinician on the other.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13087,
+      "timestamps": []
+    },
+    {
+      "end": 14207,
+      "excerpt": "That's an investment we're about 14 or 15 months into. We've written a couple of checks and we just couldn't be more proud at what execution looks like. When you take a small software team with that kind of mission and you help them execute towards scale. It's a high growth company and that's fine. What we're focused on is what scale can really look like with quality. And even looking at UnoBravo, I have to give, you know, shades of learnings from a team here at Insight that I love on a deal team that I wasn't part of that got the investment in Alma, right? Alma is a network of therapists that makes behavioral and mental health makes sense for payers, activates their network.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13523,
+      "timestamps": []
+    },
+    {
+      "end": 14637,
+      "excerpt": "So we're reducing the access friction in this country while simultaneously making software that makes clinicians interaction more seamless. So my point is we're really big on behavioral health. We continue to find the TAM is larger than most others think, but the actual success stories come on the front lines of working with these founders where there's an intersection of product with empathy, and real go-to-market quality. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14209,
+      "timestamps": []
+    },
+    {
+      "end": 14923,
+      "excerpt": "Let me give a totally different one. We're very big on healthcare, artificial intelligence that's very low on height, doesn't care about FOMO, but very deep on the anthropology of how clinicians actually think, as well as the workflow mechanics of how patients experience the systems.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14639,
+      "timestamps": []
+    },
+    {
+      "end": 15339,
+      "excerpt": "Before I got to Insight, Insight wrote a large sizable check into Viz.Ai, and since I've been here we've written even further checks. And it's similar to checks where Insight is behind Hinge, where Insight is behind Covera and Radiology. I really wanna emphasize these core principles of deep artificial intelligence increasingly where there's generative AI, either in the operations or in the product development.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14925,
+      "timestamps": []
+    },
+    {
+      "end": 15616,
+      "excerpt": "But it's not about the hype, it's about validated data with empathy towards the use case that you can then both validate, create FDA and regulatory clearance, but then scale like great software should scale. We do this in GI with Iterative. We do this in dental with Overjet.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15341,
+      "timestamps": []
+    },
+    {
+      "end": 16057,
+      "excerpt": "If I were to pick one more classification and use an example, there's no part of the pharma and life science software stack where we won't just do the work to understand the customer and the use of software. The market dynamics are very different than with payers and providers. Insight just has an unencumbered set of resources to get in, understand due diligence, and then once we write the check, really help accelerate those companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15618,
+      "timestamps": []
+    },
+    {
+      "end": 16590,
+      "excerpt": "We've done so with companies on the front end of trials like Leal, which is part and parcel to one of our best companies of operating software at trial sites called Florence, which is not too dissimilar from all the software we are deploying on the life science discovery side in the way that they manage projects at places like Dotmatics, TetraScience and Apprentice. So that's an entire genre where Insight is bringing world-class deal teams and diligence capabilities. We're trying to ask the right questions at the right time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16059,
+      "timestamps": []
+    },
+    {
+      "end": 16702,
+      "excerpt": "Gopi Rangan: Scott, this is amazing. You have a comprehensive view on every aspect of the healthcare spectrum.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16592,
+      "timestamps": []
+    },
+    {
+      "end": 17068,
+      "excerpt": "You focus on mental health. I understand it's no longer a controversial or contrarian theme. You have actually made seven investments in that area. Of course, AI is a booming topic right now, and you are firmly rooted in that with many investments. You also talked about the payer/provider ecosystem, and how do you bring efficiencies into that part of the market?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16704,
+      "timestamps": []
+    },
+    {
+      "end": 17231,
+      "excerpt": "I wanna double click on the AI part. It's become a huge hype, especially in the past few months, particularly generative AI. The questions I have in my mind is: ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17070,
+      "timestamps": []
+    },
+    {
+      "end": 17349,
+      "excerpt": "- Where is the world going or where should the world go in the future? What's the role startups play in this space? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17233,
+      "timestamps": []
+    },
+    {
+      "end": 17543,
+      "excerpt": "- Do we rely on leaders like Microsoft and Google and a few others (it's a handful), and they set the rules, they become the base infrastructure for AI, and everybody else builds applications?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17351,
+      "timestamps": []
+    },
+    {
+      "end": 17733,
+      "excerpt": "- Or should we democratize this and make regulations much more flexible so that new companies can build infrastructure for AI and it's a fair game between these large players and startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17545,
+      "timestamps": []
+    },
+    {
+      "end": 17804,
+      "excerpt": "Where should the world go? What's the right way to build our future? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17735,
+      "timestamps": []
+    },
+    {
+      "end": 18355,
+      "excerpt": "Scott Barclay: My fundamental direction to the founder listening to this who's on the cusp of creating the new company is the answer is yes. They should just get going, not haphazardly, and not without intention or thinking it through. But I bet more pushups than I can pay that 2023 to 2025 and retrospect will have been a phenomenal time. To create a company and start to go down that learning curve as quickly as you can. I may say a few more specific things around what's happening in generative AI, but my first headline is now is a great time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 17806,
+      "timestamps": []
+    },
+    {
+      "end": 18493,
+      "excerpt": "If you ask for further advice for that founder, I would have no advice. I would tell you the types of things that we are excited about. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18357,
+      "timestamps": []
+    },
+    {
+      "end": 19116,
+      "excerpt": "There's a level of infrastructure costs and compute costs on building yet another vertical LLM, where I would be hesitant, but I'm not suggesting someone not pursue that. I'm just saying we're not looking to throw money at things that create certain and huge infrastructure costs with uncertain value. What we're very confident in is that things that previously were impossible are now possible. And we're seeing what world-class execution using LLMs and other thoughtful machine tools can look like if you actually understand your customer and you walk through the right process of building the right solutions for them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18495,
+      "timestamps": []
+    },
+    {
+      "end": 19447,
+      "excerpt": "We have approximately now 170 companies in the Insight portfolio who are using LLMs at scale, either in their internal operations or in their product and engineering development. That is not the same thing as saying we're backing 170 generative AI companies. We definitely have some, we're in the headlines around a lot of those.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19118,
+      "timestamps": []
+    },
+    {
+      "end": 20029,
+      "excerpt": "I'm more saying blocking and tackling. We're a software investment firm and what's happening in AI is a certain type of superpower that should make great founders even greater. So then back to first principles, we're looking for great founders who have a chip on their shoulder and are ready to kind of put their teeth into a hard problem. And I immediately then shift to the problem. How do you understand it and how do you build software that solves that problem in a way that to the end user, like at a certain point, is at a minimum creates less effort, if not outright magic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19449,
+      "timestamps": []
+    },
+    {
+      "end": 20987,
+      "excerpt": "It turns out healthcare is really broken. So, if I had 20 great founders who came to me tomorrow saying, \"I know I wanna start a new company. Let's work on some ideas in healthcare,\" I could fill all of them up with more ideas than they could collectively start with 20 new companies. Now, I'm not a adventure studio, in fact, I don't walk around assuming I know much of anything, but I'm very confident. There are Fortune 500 companies in the year 2030 created around now leveraging deep AI tools where in the early days they burn relatively little cash. They're careful. It's mainly on product and customer experience, but that when true with the right kind of capital and go to market playbooks, we scale out. Some of the broken oligopolies in US healthcare die very slowly and then die very quickly. So in 2030, I think there's many Fortune 500 companies that look like that, that are gonna be created about now, and so we're pretty excited about that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20031,
+      "timestamps": []
+    },
+    {
+      "end": 21567,
+      "excerpt": "What you're hearing is we're not looking to invest in more LLMs, but if you solve an esoteric and interesting infrastructure problem to make those more applicable for tons of companies above those, I'm doing something unrelated to LMMs but uses machine compute and builds product that thinks how a clinician thinks; thinks how a nurse practitioner thinks, somehow provides software that turns a health extender, like a pharmacy technician or a social worker into some type of marvel superhero. I wanna talk to the founder building software that enables that type of capability. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20989,
+      "timestamps": []
+    },
+    {
+      "end": 21853,
+      "excerpt": "We touched those previous areas of behavioral health and a couple of others. There are huge areas that aren't even obvious to others that we are very bullish on. Like there's not one environment where we take care of frail elders in this country that I don't think will be reinvented.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21569,
+      "timestamps": []
+    },
+    {
+      "end": 22201,
+      "excerpt": "And by the way, Gopi, if I said that to you four years ago, not shame on me 'cause I've written a lot of aging checks in them. But shame on the industry like aging is going to have to change how we help people age with dignity and to their wants and with better empathy. And these are gonna be unlocked by new operating systems, new capabilities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21855,
+      "timestamps": []
+    },
+    {
+      "end": 22531,
+      "excerpt": "New hardware, the whole system there is gonna be redone. We still think some of our biggest points of emphasis are on infrastructure. There's no part of the job to be done of prior auth that we won't look at and see, ah, that's a complexity problem that can be solved with software and the right empathy to who that customer is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22203,
+      "timestamps": []
+    },
+    {
+      "end": 23090,
+      "excerpt": "So I think you'll see us keep doing more and more and prior authorization. Same on the shift to value, the shift from fee for service to value-based care and healthcare. It keeps going. It's kind of a disappointment in a number of ways. I would tell you there's three or four elements of that we think are the game changer and we intend to write series A and series B checks to accelerate the better models that are fundamentally gonna be software in their operating system, but then empower and align the ecosystem in a way that's different than yesterday.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22533,
+      "timestamps": []
+    },
+    {
+      "end": 23136,
+      "excerpt": "So what you're hearing is a lot of breadth. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23092,
+      "timestamps": []
+    },
+    {
+      "end": 23537,
+      "excerpt": "Gopi Rangan: I see you have a broad based view on now where AI, generative AI specifically, can be used — whether it's in the healthcare space or other adjacent areas like aging. I've also invested in a few companies in this space. I got the founder of Hippocratic ai, one of the more recent large generative AI funding rounds we've seen in this space, and he talked about his vision for the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23138,
+      "timestamps": []
+    },
+    {
+      "end": 23997,
+      "excerpt": "What role do you see startups like this playing in shaping that future. And do you have a point of view on how startups should raise funding? Should it be like a typical route of prese seed round of funding small and then grow from there or open with a bang with a large round of funding? Is that necessary for these kind of companies? You can't take small steps and grow. You have to arrive with a large infrastructure. How do you look at your investments? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23539,
+      "timestamps": []
+    },
+    {
+      "end": 24156,
+      "excerpt": "Scott Barclay: First and foremost, that was an excellent podcast the two of you did. And think that gave a lot to the ecosystem and to listeners. Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 23999,
+      "timestamps": []
+    },
+    {
+      "end": 24845,
+      "excerpt": "Second, we are not investors in that company, so I don't wanna overspeak. What you're asking me is more of a systemic venture startup concept. It's not very in scope for us at Insight to write huge checks before we can see the repeatability of what customers actually wanna use. On the other hand, I'm in no way criticizing an investor and a CEO who come to a shared mindset of here's what I'm gonna do that's hard, here's the infrastructure necessary, here's the amount of compute I'm gonna need to pay for. So without any way projecting or commenting on others' investments, I look at any type of deal like that and I just update my priors to, \"okay, that's how the world works today.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24158,
+      "timestamps": []
+    },
+    {
+      "end": 25307,
+      "excerpt": "Do I think that level of funding to start a company is necessary? The answer is, it depends, and it usually would not. By contrast, we are seeing, every single week, numerous product-centric, less-than-10-people startups that are building something specific and sticky in combination with LLMs, be it Hippocratic or Med Palm Two, or Open AI or others in a kind of combinatorial way where their focus is on product and customer. That makes a lot of sense to us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24847,
+      "timestamps": []
+    },
+    {
+      "end": 25613,
+      "excerpt": "We're also seeing customers doing specific things at the infrastructure level. So I think in summary, I'm saying two things around LLMs and healthcare at Insight. The first is we're not looking to deploy huge checks before it's clear what types of customers can work with and develop what types of tools.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25309,
+      "timestamps": []
+    },
+    {
+      "end": 25791,
+      "excerpt": "The second is we like to meet the founders as early as possible, with a small a check as possible, at the origin of: how you solve a specific customer's problem with software. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25615,
+      "timestamps": []
+    },
+    {
+      "end": 26028,
+      "excerpt": "Gopi Rangan: I do the same as well. I invest in companies at the pre-seed, seed stage, and I like to invest when founders are raising smaller rounds of funding, like the first $1 - 2 million, maybe $5 million, and then grow from there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25793,
+      "timestamps": []
+    },
+    {
+      "end": 26456,
+      "excerpt": "I think the market has plenty of opportunities for startups to start small and grow and be as competitive or even more competitive than companies that raise large amounts of funding. We do have to recognize that some of these startups right off the bat will need large infrastructure and they may need to raise large round of funding. So, I'm hoping that the market evolves in a place where it supports all kinds of startups. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26030,
+      "timestamps": []
+    },
+    {
+      "end": 26679,
+      "excerpt": "That naturally leads us to the next question. When you invest in multiple stages, how do you think about strategy? What do you think about investments when you invest, especially at the earlier stages than you usually do?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26458,
+      "timestamps": []
+    },
+    {
+      "end": 26739,
+      "excerpt": "How do you collaborate with other investors at that stage?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26681,
+      "timestamps": []
+    },
+    {
+      "end": 27121,
+      "excerpt": "Scott Barclay: Well, first is you always wanna lead from a point of transparency. So Insight is very public about the companies that we back, and we probably have something in your genre at scale. And every time we touch a founder, we always just wanna engage with them on the idea and have them trust. We're a very professional firm and we're just here to push founders forward. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 26741,
+      "timestamps": []
+    },
+    {
+      "end": 27376,
+      "excerpt": "The sweet spot for Insight is that $30 million Series A, it's that $80 million series C. The sweet spot for Insight is where we have product market fit and we have arguably the world's best resources to scale them all the way through the public markets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27123,
+      "timestamps": []
+    },
+    {
+      "end": 27601,
+      "excerpt": "So in healthcare, when I wanna go pre-product market fit, Or where it's not quite clear. One answer is I go carefully. One answer is I go transparently. And I say I; it's always a team. It just depends on the team concept. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27378,
+      "timestamps": []
+    },
+    {
+      "end": 28419,
+      "excerpt": "We're very careful about our opportunity cost, so the more that this early stage company could go a hundred different ways, that's all the more reason Insight should wait. We should be a partner. We should be a friend to that founder. We should pay it forward in any way we can, but we should also not get in the way. The more that that founder is doing something very specific, the more that that founder is someone we know and trust (and I don't mean like this as a good old boy network); this is a founder that we've deeply researched; they have a chip on their shoulder; they have a point of view; they're most likely a technologist or a scientist who's come at this by already being in the wild and touching customers in a way that they could no longer stand it; people aren't solving the problem the right way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27603,
+      "timestamps": []
+    },
+    {
+      "end": 28756,
+      "excerpt": "When we come across those founders early, we first check and say, \" do we have anything competitive?\" And we navigate through that. We usually don't. Then we just lean in and say: Hey, we're all about scaling the best firms, but if we want to go early, it's because we're never gonna apologize for backing this founder on this problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28421,
+      "timestamps": []
+    },
+    {
+      "end": 28918,
+      "excerpt": "Is that another way I'm gonna move my calendar around to help this founder on a Saturday morning anyway? Why would we not consider the right capital allocation?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28758,
+      "timestamps": []
+    },
+    {
+      "end": 29409,
+      "excerpt": "Now, this is critical. When we go pre-product market fit, it is generally my view, or at least I'll say in healthcare, we don't have an ownership target. We're not talking to our LPs yet about Cash on Cash returns of this check. That is not what going pre-product market fit is about. If you go pre-product market fit, it's about the founder and the problem. It's about having no regrets on the potentially exponential upside that could be possible that would be good for humanity if true.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28920,
+      "timestamps": []
+    },
+    {
+      "end": 29894,
+      "excerpt": "And it's basically saying we have an opportunity cost of our time, even more so than the capital. So it's, \"let's do whatever we can to improve the probabilities that this could be a special company.\" So I think you'll see us be more active as LPs. I think you'll see us be more active even when we aren't on the cap table. What I'm personally saying is if we go pre-product market fit in healthcare, we're coming not with sharp elbows, but with an exponential collaborative mindset.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29411,
+      "timestamps": []
+    },
+    {
+      "end": 30065,
+      "excerpt": "Gopi Rangan: It's great to see that, Insight is continuously evolving and expanding its program and now making LP investments to promote more diversity in the ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29896,
+      "timestamps": []
+    },
+    {
+      "end": 30409,
+      "excerpt": "But I wanna ask you a tougher question on how you look at multi-stage investments. How do you think about portfolio construction? If a small company, a small investment, generates substantial returns, that may not be meaningful for Insight as a firm. How do you reconcile with the the amount of effort and time you spend with a small company?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30067,
+      "timestamps": []
+    },
+    {
+      "end": 30832,
+      "excerpt": "And also the other risk is that when you lock into an investment at a company at very early stages, you're picking a bet in that space. There might be other good companies that come up up later, and you may not be able to invest in those companies. You could be conflicted out. It would be a very big risk for a multi-stage firm to go early and invest in a company when the story's not fully played out in that ecosystem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30411,
+      "timestamps": []
+    },
+    {
+      "end": 30863,
+      "excerpt": "Don't you see this as risks? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30834,
+      "timestamps": []
+    },
+    {
+      "end": 31237,
+      "excerpt": "Scott Barclay: Gopi, you ask a great question. First of all, I am not on Insight's Investment Committee or one of the two or three IC members that work with our LPs every single day. So I don't wanna overspeak for the firm. But what I will tell you is when we make small pre-product market fit checks, they appear immaterial at first to our overall portfolio construction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 30865,
+      "timestamps": []
+    },
+    {
+      "end": 31436,
+      "excerpt": "They are, from an LPs perspective, part of an early set of activities that we do that's a cost of doing business that also has great IRR, but it's a very small proportion of our allocated capital. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31239,
+      "timestamps": []
+    },
+    {
+      "end": 31526,
+      "excerpt": "The second thing, Insight is clearly one of the world's best software investors, period.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31438,
+      "timestamps": []
+    },
+    {
+      "end": 31902,
+      "excerpt": "My job, and I'm not yet two years into what we think of as a three to five year journey of: CAN WE? WHAT WOULD IT TAKE?...to be the world's best healthcare software investor. We do not believe (I do not believe) Insight is the world's best healthcare software investor yet. I do not believe you can be the world's best healthcare software investor, only investing in growth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31528,
+      "timestamps": []
+    },
+    {
+      "end": 32268,
+      "excerpt": "Because if you work on certain problems where you look at the locked up GDP, the locked up TAM available to these future created companies, and you really understand those problems and you really understand founders, there will be times where it is appropriate for any number of reasons to wait for the series B, wait for the series C, wait for the empirical data.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31904,
+      "timestamps": []
+    },
+    {
+      "end": 32609,
+      "excerpt": "There will be other times where you will know and you'll have done the work and you will say, \"This is the founder on this problem, on this motion, where we have unfair, asymmetric upside, good for society to make this happen.\" Maybe the market would've done it without us. Maybe we're an extra force that helps get to market more quickly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32270,
+      "timestamps": []
+    },
+    {
+      "end": 32904,
+      "excerpt": "So in my view, if you wanna be the best, you have to be willing to be brave and do your work and be collaborative and be willing to go early, but you better be choosy, because to your point, there's opportunity cost. There's signaling risk. There's important things you can do to manage that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32611,
+      "timestamps": []
+    },
+    {
+      "end": 33206,
+      "excerpt": "There's other parts of the market where I do not know the answer and I should probably let the team do their work, watching the market and trying to help multiple founders, and we should be more cautious. But there are times when if you wanna be great, you have to know when to be brave and go early.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32906,
+      "timestamps": []
+    },
+    {
+      "end": 33619,
+      "excerpt": "Gopi Rangan: You're building a global firm and you are attempting to establish a mark of excellence. Whether that comes from investments, post product market fit, or whether it comes from investments pre-product market fit, that shouldn't matter. You are attempting to support founders, find them as early as you can, and when you develop that conviction, you must invest. I can see the philosophy behind this. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33208,
+      "timestamps": []
+    },
+    {
+      "end": 33797,
+      "excerpt": "We're coming towards the end of our conversation and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33621,
+      "timestamps": []
+    },
+    {
+      "end": 34378,
+      "excerpt": "Scott Barclay: Honestly, I love, love this thing. I'll try not to cry as I tell you about it. It's called Camp Jabberwocky. It's just the amazing enablement for families with special needs children where it's like the greatest delight I've ever seen serving these kids and then I can only be brought to tears thinking about how the families who are on these journeys and giving so much of their life to their special needs kids, how they would feel knowing that their children can find this type of community while simultaneously giving the family a break in its own certain way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 33799,
+      "timestamps": []
+    },
+    {
+      "end": 34534,
+      "excerpt": "It's just a phenomenal organization I have been able to give to it in the past. They're amazingly gracious. It's a group worth running through walls for. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34380,
+      "timestamps": []
+    },
+    {
+      "end": 34804,
+      "excerpt": "Gopi Rangan: Scott, thank you very much for spending time with me and allowing me to push you on some of these hard questions, and thanks for sharing personal insights on how you make investments. I look forward to sharing your nuggets of wisdom with the world again. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34536,
+      "timestamps": []
+    },
+    {
+      "end": 34897,
+      "excerpt": "Scott Barclay: Great to see you, gopi. Thank you for having me. Thanks for having Insight. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Scott Barclay",
+      "start": 34806,
+      "timestamps": []
+    },
+    {
+      "end": 35074,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34899,
+      "timestamps": []
+    },
+    {
+      "end": 35241,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35076,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "3054c26d30e3906219d69764469f71e4aba785191d65b5535bd3dfbac7c412e5",
+  "text_sha256": "883cf8bbda5c8605075c6b3146cd92a3e74c14e964641b7cff1089e00e5ec111"
+}

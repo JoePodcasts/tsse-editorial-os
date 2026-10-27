@@ -1,0 +1,1047 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 306,
+      "excerpt": "In the early days, especially, you are looking for believers as much as you are looking for investors. And that's why you have to do so many more rounds than you might want to do, because even if the thing you have is as good as you think that it is, many people just won't believe. They just won't see it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 623,
+      "excerpt": "Once you have 10, 50, 100 million in revenue, everyone's going to see it and then you can be in the driver's seat and you don't have to do 50 meetings or 100 meetings or whatever. But at the beginning like you very well might have to because again, there's just many people who aren't they're just not gonna get it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 308,
+      "timestamps": []
+    },
+    {
+      "end": 1020,
+      "excerpt": "[00:00:43] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Pablo Srugo. Pablo is a partner at Mistral Capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 625,
+      "timestamps": [
+        {
+          "offset": 625,
+          "raw": "[00:00:43]",
+          "seconds": 43
+        }
+      ]
+    },
+    {
+      "end": 1364,
+      "excerpt": "He's also the founder and host of the product market fit show. We're going to learn more about what he does on his investment side when he wears that hat and more about his podcast as well. Pablo is based in Canada, but he invests in many kinds of startups. What gets him excited? What questions does he ask founders when he first meets them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1022,
+      "timestamps": []
+    },
+    {
+      "end": 1629,
+      "excerpt": "Why does he say yes? Maybe we'll hear some examples of some of his investments and what got him excited to say yes to those investments. And sometimes he says no as well, and we're going to find out how that happens. Pablo, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1366,
+      "timestamps": []
+    },
+    {
+      "end": 1700,
+      "excerpt": "[00:01:50] Pablo Srugo: Gopi, it's a pleasure. Thanks for having me. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 1631,
+      "timestamps": [
+        {
+          "offset": 1631,
+          "raw": "[00:01:50]",
+          "seconds": 110
+        }
+      ]
+    },
+    {
+      "end": 1924,
+      "excerpt": "[00:01:52] Gopi Rangan: It's a pleasure to have a fellow podcast host as a guest on my podcast. But let's start with you. You're based in Ottawa. Tell us about your journey, who you are and how you ended up becoming a VC. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1702,
+      "timestamps": [
+        {
+          "offset": 1702,
+          "raw": "[00:01:52]",
+          "seconds": 112
+        }
+      ]
+    },
+    {
+      "end": 2093,
+      "excerpt": "[00:02:04] Pablo Srugo: I studied economics, and then when I graduated going into it, I wanted to be a lawyer quickly decided that was not going to be the path for me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 1926,
+      "timestamps": [
+        {
+          "offset": 1926,
+          "raw": "[00:02:04]",
+          "seconds": 124
+        }
+      ]
+    },
+    {
+      "end": 2401,
+      "excerpt": "Just too much bureaucracy to which hierarchy, too many people to tell you what to do. So I decided I wanted to start something. I had a good friend of mine who's in a similar boat. So we started coming up with ideas together, really, and through university came up with a bunch of different business plans.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2095,
+      "timestamps": []
+    },
+    {
+      "end": 2738,
+      "excerpt": "If you can believe it, that was like a thing back then, and none of them really clicked. And so by the end of university, where, you know, everybody else is going into masters or going into jobs were kind of like, empty handed, not really knowing what to do. And it just so happened that I had been tutoring other students on the side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2403,
+      "timestamps": []
+    },
+    {
+      "end": 3068,
+      "excerpt": "And so I was earning money, you know, freelancing that way. And so went to Lee, my co my co founder, and said, look, why don't we just, this isn't the sexiest, you know, biggest business idea, but like, why don't we just start like a tutoring marketplace sort of thing, like a little bit tech enabled and just get into the game.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2740,
+      "timestamps": []
+    },
+    {
+      "end": 3407,
+      "excerpt": "And so that's what we did. We launched MyTutor. We ran that for a year, ended up selling it for enough money to have like ramen noodles for a year and pair student rent, like not big dollars, but it was a good journey for us. And frankly, like did free up some time for us to work on something bigger, which then ended up being Gymtrack.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3070,
+      "timestamps": []
+    },
+    {
+      "end": 3434,
+      "excerpt": "And so Gymtrack was our, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3409,
+      "timestamps": []
+    },
+    {
+      "end": 3488,
+      "excerpt": "[00:03:22] Gopi Rangan: that's your second startup. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3436,
+      "timestamps": [
+        {
+          "offset": 3436,
+          "raw": "[00:03:22]",
+          "seconds": 202
+        }
+      ]
+    },
+    {
+      "end": 4323,
+      "excerpt": "[00:03:24] Pablo Srugo: That's right. It was the second startup. And this was a big ambitious play. Like if you think back to 2013 era, which is when we started this, wearables are just coming out. The Apple watch wasn't out yet. Samsung had just put out the like Samsung gear and we were sitting there, you know, thinking of like literally we just live together and we are kind of like running MyTutor on the side. Still takes us like five hours a week. The rest of the time we're just brainstorming ideas. It was not like not my advisable way to do it, but that's what we were doing at the time. And one of those ideas ultimately kind of snowballed into Gymtrack. And the idea was, \"look, there's all these Kickstarter projects people are talking about. We're going to build a consumer wearable to track reps when you do workouts.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 3490,
+      "timestamps": [
+        {
+          "offset": 3490,
+          "raw": "[00:03:24]",
+          "seconds": 204
+        }
+      ]
+    },
+    {
+      "end": 5672,
+      "excerpt": "And our problem was. At some point, whether it's Samsung or Motorola or Apple, some big brand is going to dominate that market. But we saw an opportunity to go after the gyms and more of a B2B kind of go to market and outfit the gym with sensors so that you could track weightlifting and exercise used for the consumers and deliver like a better end user experience, but also so that you didn't have to compete with the big guys. Cause there's no way those guys are selling into gyms. It's too small market for them, even though it's still a big market for us. So that was the idea. It was a clever sounding idea on paper, but if you just zoom out. We were two 22-year-old (I think we were 23 at the time) business guys never built, you know, tech were taking on hardware, AI or ML as it was called back then. We didn't even know, like, how to build mobile apps like . We didn't know, like the, the basic stuff, and the amount of capital that it would require. We were totally naive to it. I remember Lee one day we were driving as, as we're working on the early days and if we had a million dollars, like we could do everything, you know what I mean? Like that was kind of the mindset that that's how naive we are. And obviously it takes a lot more money than that. But the short story is like ultimately it was a five year kind of Rollercoaster.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4325,
+      "timestamps": []
+    },
+    {
+      "end": 6028,
+      "excerpt": "I can go into all the different parts, but we ended up going through 500 startups. We raised about $6 million, spent $6 million trying to build the product, get it to fully kind of consumer grade accuracy and went through a, an acquisition halfway through it that fell apart last minute. And then for the last two years, I worked with a professional CEO.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5674,
+      "timestamps": []
+    },
+    {
+      "end": 6466,
+      "excerpt": "He took the company new direction, but like after that acquisition fell through and we had to lay off two thirds of the staff, it was, it was tough, right? It was just tough to kind of really get going. So anyways, I ended up leaving in like late 2017. And then by mid 2018, I started working on a few different ideas and then, as serendipity would have it, got introduced to the founders of Mistral, which is the firm where I'm at now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6030,
+      "timestamps": []
+    },
+    {
+      "end": 6851,
+      "excerpt": "And I've been here since mid 2018. So I've been here for almost seven years now on the, the VC doing seed-stage investing. And then the last big project would be like the product market fit show, which is a podcast where we interview late stage founders only on the zero to one part of their journey. So trying to get as deep as possible on what it takes to find product market fit. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6468,
+      "timestamps": []
+    },
+    {
+      "end": 7158,
+      "excerpt": "[00:06:24] Gopi Rangan: What an amazing journey! Early in your career you had a successful stint as a founder and you stayed on that course to build an even bigger company with a far more ambitious plan. You had ups and downs through that journey and all that experience is now helping you as an investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6853,
+      "timestamps": [
+        {
+          "offset": 6853,
+          "raw": "[00:06:24]",
+          "seconds": 384
+        }
+      ]
+    },
+    {
+      "end": 7363,
+      "excerpt": "How was the transition? Is it easy to make the transition from being a builder, being a founder to becoming an investor? And how is it helping you, your entrepreneurial experience, now that you're a VC? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7160,
+      "timestamps": []
+    },
+    {
+      "end": 7579,
+      "excerpt": "[00:06:52] Pablo Srugo: It's totally case by case, right? Like I always say, a lot of founders would not make good VCs, and certainly most VCs would be terrible founders, even though they like to think differently.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 7365,
+      "timestamps": [
+        {
+          "offset": 7365,
+          "raw": "[00:06:52]",
+          "seconds": 412
+        }
+      ]
+    },
+    {
+      "end": 8272,
+      "excerpt": "You know, obviously we're in the same world, but it is different. Like when I was at Gymtrack, you are all in. And in my perspective, if it didn't have to do with gyms, I couldn't be bothered. I just didn't have any mind space for it. Whereas a VC, you have a lot of breath and that's what I like about it. Any news or kind of thing that happens in the world, you can kind of let yourself be pulled by it and learn about it because it could become relevant for investment decisions down the road, since you have such a wider kind of surface area. But also like, you don't do this stuff. You don't build the products. You don't make the decisions. You can only influence them and advise them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7581,
+      "timestamps": []
+    },
+    {
+      "end": 10060,
+      "excerpt": "And for me, given my personality, I like that. I don't really need to get into the weeds. I certainly don't need to be the one doing the stuff. I don't really like the trade off that sometimes what I think is the right thing isn't the thing that gets done. That's totally fine. But there are people, like I've met a lot of founders who are great founders because like they even have a problem hiring a VP sales, right? Because for them, it's like, \"I can't let go. I just can't let go.\" And that's what makes them a great founder. And he would make them probably a pretty bad or at least annoying, VC. So like, that's been the difference. And I think a lot of people as VCs, see themselves as founders and vice versa, and I think sometimes it can work and when it works, it works really well. Like Mike, like you asked, does it help me? I think it helps me tremendously. And especially it helps me to have empathy with founders and really understand like what they're dealing with, because I've been in their shoes. I think sometimes if the only exposure you've had to startups is as a board member, especially at seed, where that board is like done at the last minute and it's just like one more thing out of the 80 hours you work that week, you don't get a glimpse into what's really going on. And you fail to understand how much things that a VC might take for granted, like you just closed a new employee, you just got a grant or you just closed like a small investment or one more customer. It's like, okay, cool. But for the founder, it's like, you know, that was a week's worth of work potentially in those early days. And so, and then I think the last thing is it just teaches you to learn to take punches to the face because no matter what every founder is going through that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8274,
+      "timestamps": []
+    },
+    {
+      "end": 10665,
+      "excerpt": "[00:09:08] Gopi Rangan: You've described a few very important characteristics and very clearly, like being open to a lot of new ideas, being exposed to things and allowing yourself to get pulled into those things, deep dive and geek out on topics, stepping back and not getting too involved in making decisions. And you really enjoy doing that. Although you did enjoy, as a founder, being obsessed about building anything gym related, but you wouldn't talk about anything other than that. But now you're okay to let go of control and let the founders do their thing and now share your wisdom and advice.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10062,
+      "timestamps": [
+        {
+          "offset": 10062,
+          "raw": "[00:09:08]",
+          "seconds": 548
+        }
+      ]
+    },
+    {
+      "end": 10974,
+      "excerpt": "Similar themes like that where you are passionate, but at the same time, you want to make sure that the founders go through their journey of ups and downs, their small wins on a weekly basis and punches to their face. And you're far more empathetic to that journey because you've been through that yourself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10667,
+      "timestamps": []
+    },
+    {
+      "end": 11020,
+      "excerpt": "What do you like the most about being a VC? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10976,
+      "timestamps": []
+    },
+    {
+      "end": 11475,
+      "excerpt": "[00:10:00] Pablo Srugo: I like being able to kind of pick the battles that I want to engage in. Right. I mean, I think the nice thing is whether we're outbound or inbound, like it's not so much about chasing or not or being chased like there, there's both, but it's more, at the end of the day, we will see hundreds of deals one way or another, and we will only be able to invest in a handful of them, and it's the ones that we choose to invest into it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 11022,
+      "timestamps": [
+        {
+          "offset": 11022,
+          "raw": "[00:10:00]",
+          "seconds": 600
+        }
+      ]
+    },
+    {
+      "end": 11772,
+      "excerpt": "It's not just like the market or the product, but it's more than anything, obviously the founder or founders that for me at least, are like the things that really pull me in. Like, I'll give you an example. The last company I invested in, a company called Axle, they're AI agents for compliance.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11477,
+      "timestamps": []
+    },
+    {
+      "end": 12051,
+      "excerpt": "The founder is just Yanni, this guy, I mean, what a spectacular journey. He had a company before called Wire. It was in the Web3 space, but back in 2013. So like way early when Bitcoin was still like unknown. I don't think it hit 1, 000 yet. And he starts working in there and ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11774,
+      "timestamps": []
+    },
+    {
+      "end": 12124,
+      "excerpt": "[00:11:03] Gopi Rangan: around 2013, I think Bitcoin was less than 100.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12053,
+      "timestamps": [
+        {
+          "offset": 12053,
+          "raw": "[00:11:03]",
+          "seconds": 663
+        }
+      ]
+    },
+    {
+      "end": 12453,
+      "excerpt": "[00:11:06] Pablo Srugo: It was small, small, right? Like very niche. And he actually funny enough, the first iteration of Wire was used like this, this extension that let you buy anything in the internet with Bitcoin. Back when you couldn't use Bitcoin really for anything. So it's pretty incredible where he got into the game.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 12126,
+      "timestamps": [
+        {
+          "offset": 12126,
+          "raw": "[00:11:06]",
+          "seconds": 666
+        }
+      ]
+    },
+    {
+      "end": 12740,
+      "excerpt": "Anyways, many pivots later, it kind of becomes this 'stripe' for Web3, kind of this API that let others build Web3 platforms on top. And it totally takes off. Like he gets to $90 million in run rate revenue. He gets an offer to be acquired for $1. 5 billion by bold. It gets announced.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12455,
+      "timestamps": []
+    },
+    {
+      "end": 13053,
+      "excerpt": "Midway through 2022 and by the end of 2022, his company goes through a fire sale. That's highest of highest to lowest of lows in six months because you know, the ground got pulled from under underneath him, right? Like all of a sudden macro change, not just in Web3, but everywhere. But Web3 got hit super hard.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12742,
+      "timestamps": []
+    },
+    {
+      "end": 13523,
+      "excerpt": "So his revenue started to come down. You know, the acquirer pulled out, the VCs wouldn't fund him. And all of a sudden he had this crazy cash crunch and almost no options left. So when he gets in front of me on a call and I get introduced to him and he's telling me the story, and then he says, you know, I took a few months off, I'm back at it again, and now I'm going to build something because I saw this compliance problem in my business and I'm going to solve it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13055,
+      "timestamps": []
+    },
+    {
+      "end": 14291,
+      "excerpt": "How can I not work with this person? I have to work with this person. Like, yeah, I think the idea makes sense. I think the market is big, you know, all those things get checked off. But for me, it was like, I was sold 10 minutes in because for somebody to have lived through that want to do it again and solving a problem that, you know, he deeply understands because he experienced it firsthand, you know, it's as close to a no brainer as you can get in my opinion. On the start it might work or might not work, but in terms of like that seed-stage decision for me, you know, it was made there. And that's what I love the most is hearing those stories and being able to decide like I want to work with this founder and then find a way to kind of make that happen. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13525,
+      "timestamps": []
+    },
+    {
+      "end": 14491,
+      "excerpt": "[00:13:05] Gopi Rangan: Now as venture capital investors, we get that pleasure. It's a privilege to have the opportunity to work with such ambitious people who never give up and they are relentless.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14293,
+      "timestamps": [
+        {
+          "offset": 14293,
+          "raw": "[00:13:05]",
+          "seconds": 785
+        }
+      ]
+    },
+    {
+      "end": 14820,
+      "excerpt": "They come up with ideas that are deeply personal to them and they want to change the way the world is. It is such a pleasure to have the opportunity to work with people like that. I can see the pleasure you get when you choose to work with founders like that. What happens in the first meeting when you meet founders like that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14493,
+      "timestamps": []
+    },
+    {
+      "end": 15035,
+      "excerpt": "But this is an example where you probably knew the founder earlier, and sometimes you don't know the founder well enough by the first meeting. What gets you excited? What kind of questions do you ask the founders?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14822,
+      "timestamps": []
+    },
+    {
+      "end": 15166,
+      "excerpt": "[00:13:44] Pablo Srugo: Well, so, so this is a good example. I mean, just to go through, like, I didn't know this founder, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 15037,
+      "timestamps": [
+        {
+          "offset": 15037,
+          "raw": "[00:13:44]",
+          "seconds": 824
+        }
+      ]
+    },
+    {
+      "end": 15447,
+      "excerpt": "So he gets introduced. One of the VCs who was leading the round said, \"Hey, I'm leading this round. Like, here's the profile. Do you want to meet?\" I'm like, \"yeah, definitely.\" And then the first 30 minute call and he tells me the story and I just get hooked pretty immediately.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15168,
+      "timestamps": []
+    },
+    {
+      "end": 15761,
+      "excerpt": "The first calls, the way I structured them, you know, the 30 minute calls. And it's interesting before like COVID, especially, every meeting was, even first meetings in many cases were in person and they were an hour long and it was 15, 30 minutes to get here for the founder, an hour, 15, 30 minutes to get out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15449,
+      "timestamps": []
+    },
+    {
+      "end": 16403,
+      "excerpt": "Like, that's a two hour kind of thing. And in the first 10, 15 minutes, I might know that it's not a fit for whatever reason, not a fit for our fund. And like all that time was wasted. So like, I like to keep it short 30 minutes and 30 minutes. I think there's a pass fail decision on, \"Hey, is this a fit?\" And it may be for the founder as well, given the questions I ask and given what answers I give to their questions, they can decide, is there actually something here? Is this even worth pursuing? And that's really what I'm trying to get at. And I'm trying to understand, like, I always like to focus on the background of the founder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15763,
+      "timestamps": []
+    },
+    {
+      "end": 17375,
+      "excerpt": "The origin story and like why they started this business. And then I'd like to jump into the business itself. And I'll admit that I do find many founders kind of rush through it. I always give the opportunity. In other words, I always start off by saying, \"listen, like before we get into the deck or whatever, like, we'd love to kind of get your background, your story and kind of like the origin story of the business, and then we can dive in.\" That's an open invitation to do 15 minutes. Like you can do as much time as you want on your background or as little, like it is up to you. But for me, it's 80 percent at least of my decision is the team. So I have to spend most of the time, especially in the first call, trying to understand if this is even a person that I want to work with, they should be doing the same thing. Sometimes those answers are really short, right? Like they just kind of skim through their background and they just want to get into the deck.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16405,
+      "timestamps": []
+    },
+    {
+      "end": 18098,
+      "excerpt": "They just want to tell like what the company's about, right. And if I'm not sold on you, I can't be sold on the company either anyways. So I think that's, that's one of the most important things. And then when I get actually thought out, solid stories and I get to understand like who they are, how they came up with this problem, why they came up with this problem, why they really care about it, what's driving them, those are very important components that then get me open to listening. Okay. What is the problem you're solving? How are you solving it? And then probably the secondary thing would be like, how important is the problem you're solving? And as a result of that, how much value are you really delivering?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17377,
+      "timestamps": []
+    },
+    {
+      "end": 18286,
+      "excerpt": "In my opinion, if I'm coming across someone who I think is a really strong founder or set of founders, solving a top priority problem and delivering a lot of value, I'm very interested. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18100,
+      "timestamps": []
+    },
+    {
+      "end": 18410,
+      "excerpt": "[00:16:22] Gopi Rangan: So the first meeting is 30 minutes. It's usually very efficient, both for the founder and for you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18288,
+      "timestamps": [
+        {
+          "offset": 18288,
+          "raw": "[00:16:22]",
+          "seconds": 982
+        }
+      ]
+    },
+    {
+      "end": 18829,
+      "excerpt": "You decide whether pass or fail, you want to take another meeting. And the second meeting is when the meatier discussions happen. You get into the details of the business, why the founder is excited about it, the founder's background and their vision for the future and all of those. I want to get back into this, but now quickly, how many investments do you make on average in a year and what stage do you invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18412,
+      "timestamps": []
+    },
+    {
+      "end": 19312,
+      "excerpt": "[00:16:49] Pablo Srugo: So we are seed-stage investors. Pre-seed for us is kind of like team market fit. And we'll do that actually if the founder is a proven repeat founder, we'll come in at pre seed. And then series A is like product market fit where you have like real market pull usually above million in ARR or so on. Proven value prop is for us like the defining feature of seed-stage. And that typically is our sweet spot. So that's where we invest in and where we come in. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 18831,
+      "timestamps": [
+        {
+          "offset": 18831,
+          "raw": "[00:16:49]",
+          "seconds": 1009
+        }
+      ]
+    },
+    {
+      "end": 19719,
+      "excerpt": "[00:17:14] Gopi Rangan: So there are a few things you do at the pre seed-stage. It's very early. There's not a lot of things to see. The product may not be even ready, but at the series A stage, that's where you do a lot of work to understand where's the value, how do the customers see the value, and is there a fit in the market for the product and how is the business preparing to scale for the future?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19314,
+      "timestamps": [
+        {
+          "offset": 19314,
+          "raw": "[00:17:14]",
+          "seconds": 1034
+        }
+      ]
+    },
+    {
+      "end": 20070,
+      "excerpt": "Let's talk about that example, the seed to series A stage. What's your advice to founders at that stage? How can they prepare ahead of time so that they can come to you in that meeting, the second meeting, especially so they can be, uh, they can have a useful meeting for you. You get what you want and they also feel the fit with you and your firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19721,
+      "timestamps": []
+    },
+    {
+      "end": 20099,
+      "excerpt": "How can they do that well? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20072,
+      "timestamps": []
+    },
+    {
+      "end": 20758,
+      "excerpt": "[00:17:57] Pablo Srugo: So yeah, so, and just for clarity, like we don't really invest in series A. We invest, like I said, pre seed for prudent founders and seed for all types of founders. I think again, like the things that we're looking for. Number one is the team. Frankly, the preparation of the team is like decades long. It's like, you kind of are who you are. I do think there is a lot of value on being able to tell your own story in the right way, highlighting the right things with, not just confidence, but also like the relevance around your background, who you are and why you're doing this. And I think that is something that you ought to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 20101,
+      "timestamps": [
+        {
+          "offset": 20101,
+          "raw": "[00:17:57]",
+          "seconds": 1077
+        }
+      ]
+    },
+    {
+      "end": 21265,
+      "excerpt": "Because again, if these meetings are 30 minutes, you don't have that much time and frankly, like attention is earned, not given. That's the other thing that I've learned over time is like, just because somebody gives you a 30 minute call, it doesn't mean they're listening. It doesn't mean they're hooked. You still have to earn the attention all the time. And so that, I think that the ability to really frame things into a story into something that people would want to listen to is extremely important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20760,
+      "timestamps": []
+    },
+    {
+      "end": 21553,
+      "excerpt": "The second thing I think really is the problem solution set, the value prop. And for me, like, look, there's 20 things you can analyze. Like, I like to boil it down and say, like, what truly really matters. And then the rest is a little bit noise. Delivering clear value really matters.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21267,
+      "timestamps": []
+    },
+    {
+      "end": 21913,
+      "excerpt": "Who is your customer exactly? What is your customer about? So, this is something that I've learned, especially like through the product market fit show, when we interviewed some of these very successful companies, the amount of understanding, depth of understanding that they had of their ICP, their ideal customer profile early on in the work that they did.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21555,
+      "timestamps": []
+    },
+    {
+      "end": 22579,
+      "excerpt": "So like can eat from cemented dozens and dozens of calls with prospective customers before building a product. I had one who sold software to coffee chains for employee management and kind of scheduling and whatnot. And so he worked for a few weeks as a barista to kind of learn the job and then had a design partner for a year before he started selling to any other customers. And that was how he understood really the ins and outs of his customer. The founder of AIDE as another one, which now they're doing over 50 million ARR by automating is kind of like this chat bot for customer support that now obviously is kind of a gen AI chat bot for customer support.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21915,
+      "timestamps": []
+    },
+    {
+      "end": 23574,
+      "excerpt": "But they worked full time as customer service agents and then automated themselves out of that job in order to learn the ins and outs of what that is. And when they started back in, I think it was like 2016/17, like there were so many chatbots. One of the reasons they won is because they understood the subtleties of their customers. And there's just so much value in doing that. So that's the other thing I want to see is like how much work have you really done to understand your customer? Maybe you were from the industry, so that's one way, or you're not. If you're not, like then either you did like dozens and dozens and dozens of like customer interviews, or you lived in the shoes of your customers somehow, but those things are crucially important. And with that, then you have an understanding of the customer, of the problem. Then what I want to know is why is this problem for your customer like a number one problem? Like why is this something they can't put off to next quarter?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22581,
+      "timestamps": []
+    },
+    {
+      "end": 23932,
+      "excerpt": "Because that's another big challenge that startups tend to have is. They solve something, they deliver some ROI, but it's not the thing that the ICP really cares about. So they always keep hearing like, come back next quarter, like come back next year. And that's a huge, huge problem. And so I want to know that for your ICP, this is a must-solve problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23576,
+      "timestamps": []
+    },
+    {
+      "end": 24305,
+      "excerpt": "So an example of this company called Noibu, they sell, now they're doing well over $10 million for sure in ARR, but they went from zero to $10 million in like three years. So it's very, very fast growth. What they do is they sell to e commerce. Actually, it's interesting because they had a different product first. Originally they sold a different product to e commerce.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23934,
+      "timestamps": []
+    },
+    {
+      "end": 24629,
+      "excerpt": "They did it for like three years. They had like 15 customers, like 3k MRR, like very, very little to show for it. They just hustled their way to that. And then at one point they decided, no, enough's enough. Like I'm not doing this anymore. They went back to kind of the ground roots. They interviewed all their customers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24307,
+      "timestamps": []
+    },
+    {
+      "end": 24965,
+      "excerpt": "They found this problem around e commerce checkout errors. So it turns out in a world where people are absolutely obsessed with conversions. Like if you talk to their ICP, like the thing they care most about is making sure that if we do so much work to get traffic to our page, to click items that they convert and they buy the thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24631,
+      "timestamps": []
+    },
+    {
+      "end": 25275,
+      "excerpt": "And there's e commerce checkout areas that they're losing five to 10 percent of the revenues to because for some combination of device, let's say like this type of iPhone and this version of this browser, there's an error where you actually load things onto your cart, you click buy and it won't let you buy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24967,
+      "timestamps": []
+    },
+    {
+      "end": 26204,
+      "excerpt": "So you're at the bottom of the funnel and you can't complete the transaction. They found a way to build software, found these checkout errors, estimate how much money you're losing from each one, given on where your traffic is and where it comes from and tells you how to fix it. So it's an absolute must have for that ICP, because you're telling them that with very little work, they can drastically impact their conversion because you have traffic that you've got to your site, that's click the stuff that's added to the cart. Put in their credit card. That's ready to buy. That is today a non converted customer because of an error. All you have to do is fix that error. They're part of the conversion, right? They change your numerator. So like those are the sort of things that I'm looking for where it's like just absolute no brainer. You're solving the top priority problem of a customer. You're delivering clear value. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25277,
+      "timestamps": []
+    },
+    {
+      "end": 26734,
+      "excerpt": "And so I went really deep on these things because like, I know there's so many other things like you talk about competition and you can talk about certainly why now. You can talk about a lot of other things. But for me, like if I see those two elements at where we invest, right, which is like at pre seed seed-stage, I see a great team with a deep understanding of the customers, deep understanding of the problem and solving a top of mind problem and delivering clear value that is like 80, 90 percent of what I'm looking for.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26206,
+      "timestamps": []
+    },
+    {
+      "end": 26822,
+      "excerpt": "[00:23:40] Gopi Rangan: If they do that right, they got your attention. That's right. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26736,
+      "timestamps": [
+        {
+          "offset": 26736,
+          "raw": "[00:23:40]",
+          "seconds": 1420
+        }
+      ]
+    },
+    {
+      "end": 26867,
+      "excerpt": "[00:23:43] Pablo Srugo: A hundred percent. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 26824,
+      "timestamps": [
+        {
+          "offset": 26824,
+          "raw": "[00:23:43]",
+          "seconds": 1423
+        }
+      ]
+    },
+    {
+      "end": 27107,
+      "excerpt": "[00:23:44] Gopi Rangan: This is amazing. You're giving very specific examples, which is rare to hear. You're using your own life experiences on how you have observed companies that have done this well. Thanks for sharing candid insights. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26869,
+      "timestamps": [
+        {
+          "offset": 26869,
+          "raw": "[00:23:44]",
+          "seconds": 1424
+        }
+      ]
+    },
+    {
+      "end": 27471,
+      "excerpt": "The first meeting happened. It was a pass pass as in successful. Now you want to get to the second meeting. And second meeting, you're impressed. Things are going in the right direction, but you don't say yes for an investment every time. You say no quite often. If it's an obvious no, that's understandable, and I think that's okay for the founders to get over.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27109,
+      "timestamps": []
+    },
+    {
+      "end": 27592,
+      "excerpt": "But after the second meeting, after you've had a deep discussion, sometimes you say no. What's the most common reason? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27473,
+      "timestamps": []
+    },
+    {
+      "end": 27835,
+      "excerpt": "[00:24:24] Pablo Srugo: Yeah, like the odds of a first meeting turning into a check are probably percent or so, right? Like, after a few meetings, like, after 2 or 3 meetings, like, you might be in, like, the 50, the 40, 50, 60 percent zone.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 27594,
+      "timestamps": [
+        {
+          "offset": 27594,
+          "raw": "[00:24:24]",
+          "seconds": 1464
+        }
+      ]
+    },
+    {
+      "end": 28196,
+      "excerpt": "Like, it's a huge drop off at the beginning more than anything, because especially I think of where we play. I think it's different if you're series B or or series C, because all the companies coming to that stage are pretty real companies. And so you probably evaluate deeply a lot of them. Whereas at seed, like most of them, \"Oh, not a fit for this reason.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27837,
+      "timestamps": []
+    },
+    {
+      "end": 28506,
+      "excerpt": "Not an area I know about. Weak team.\" Like whatever, and they just go, go, go, go. And so the ones that you start to focus on, they actually have like high reasons for converting. I'm trying to think back, like, what are some of the most common reasons? And I think the team part is probably checked by then.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28198,
+      "timestamps": []
+    },
+    {
+      "end": 29162,
+      "excerpt": "Usually not always, but usually I'm already feeling pretty good about the team. So that's fine. If I'm passing at that stage, I mean, valuation is one sometimes where it's just really, really offside, but not the most common. I think the most common might be around the value. And I think it might have to do with me ultimately not being able to get a real sense of how much value you're truly like delivering. Because yes, there are examples like the Nobu one where it's just like black and white. Like, okay. So that means if a company is doing a hundred million in revenue and 5 percent is losses, that's 5 million that they can get from your product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28508,
+      "timestamps": []
+    },
+    {
+      "end": 29890,
+      "excerpt": "You charge half a million. That's 10 X ROI boom. Like that's so clean. Most of that are not like that. Even if there's like serious value being delivered. Like as an example, our latest episode on the product market fit show was with Gusto. Gusto today's like their payroll software. They have like hundreds of thousands of companies using it. They're doing half a billion dollars in revenue today. But if you were to talk with Josh, like in the early days of Gusto, like what's the ROI of using Gusto? Well, it's not like super clear. He would tell you, \"look, people love my product.\" certainly there's word of mouth that you could get later, but like, I mean, you know, you wouldn't necessarily have that word of mouth yet.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29164,
+      "timestamps": []
+    },
+    {
+      "end": 30256,
+      "excerpt": "And a lot of people were transitioning from paper based to Gusto digital. You could say, Oh, they're saving time. What's their time really worth? Like that starts to be a little softer and yet look huge success. It's worth nearly 10 billion, say 9. 5 billion last valuation. And more than that, I mean, over the half a billion dollars in trailing 12-month revenue.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29892,
+      "timestamps": []
+    },
+    {
+      "end": 30819,
+      "excerpt": "So all that to say, like that's the part where it can get very tricky and mistakes get made to be clear. I've only been in the game so long so I like almost like unfortunate that I don't have misses that got as big as Gusto yet, just because like not enough time is elapsed, right. We had a company called Zephy not too long ago that I saw when they were doing like, let's say under a million in ARR. And now they're up like 30X three years later. I passed, and it was one where I got, you know, at least I certainly did the first meeting and I did a few calls.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30258,
+      "timestamps": []
+    },
+    {
+      "end": 31351,
+      "excerpt": "I think I did a second meeting and then ultimately I passed and it was because like, I just didn't fully appreciate the value in their case. Zephy is a fundraising platform that is free to use and doesn't take fees. So you can donate to a charity without any fees getting taken. So how do they make money? They just ask for a donation. When you go and you donate to a platform that's using Zephy, Zephy will say, Hey, like this is totally free to use for the fundraiser. That's why a hundred percent of your donation goes to them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30821,
+      "timestamps": []
+    },
+    {
+      "end": 31973,
+      "excerpt": "But like, we need money to survive. Are you willing to tip? And it turns out people are willing to tip and like, they're, you know, they have like tens of millions of, of ARR as a result and whatever. I liked the founder. I was like, okay, that's interesting. There was some traction. There was clearly some value being generated, then you get into the other stuff, right? Like defensibility, the mode. I mean, anybody can make something free. How can you make this like last, like the competitors, cause there's other fundraising platforms, they could just decide, well, we're going to, you know, allow tipping as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31353,
+      "timestamps": []
+    },
+    {
+      "end": 32261,
+      "excerpt": "That was one thing I remember, but I think it is ultimately the value. I remember, as an example, I called somebody who is on boards of not for profits. And I said, would you guys switch? Like, would you guys just use this? And like, ah, no, like we're fine. Like, why would we do that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31975,
+      "timestamps": []
+    },
+    {
+      "end": 32632,
+      "excerpt": "Like we have it. Yeah, we pay fees, but it's just not a big deal. And that started to turn me off, right. I think what I failed to realize was they were going after the long tail. This person I spoke with was like a big established not for profits. But for every one of those, there's like a thousand, you know, mini little thing that gets started for a specific cause.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32263,
+      "timestamps": []
+    },
+    {
+      "end": 32971,
+      "excerpt": "And people need to raise 10, 000 or 50, 000 or 500, 000. And for them, the fact that something is free to use is a complete game changer and easy to use by the way, as well, but what does that boil down to? I think it boils down to my failure to understand and appreciate the amount of value that they were really providing to their ICP.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32634,
+      "timestamps": []
+    },
+    {
+      "end": 33308,
+      "excerpt": "That's the other key thing is sometimes. We almost, and again, like tangents here, but like one of the things that we do is we leverage experts to get opinions. So I don't know about every single market. So when, when I meet somebody that I'm interested in a given market, I might call other people's in that market and get their take.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32973,
+      "timestamps": []
+    },
+    {
+      "end": 33637,
+      "excerpt": "There's value in that. There's also a risk in that. You might think that someone you're speaking to Is an ICP like in this case. Oh, he's on a board of a non for profit. So that's good. That's close. But he's on a board of a non for profit. That's an established non for profit that's been around for decades That's not an icp.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33310,
+      "timestamps": []
+    },
+    {
+      "end": 34010,
+      "excerpt": "And so when he tells me I won't buy it doesn't even really matter. But I failed to tell the difference at that time. So anyways, man, I mean, you know, firsthand, it's a messy, messy game. And so I think this is why I also say, like the founders, like my advice is like in the early days, especially you are looking for believers as much as you are looking for investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33639,
+      "timestamps": []
+    },
+    {
+      "end": 34407,
+      "excerpt": "And that's why you have to do so many more rounds that you might want to do because even if the thing you have is as good as you think that it is, many people just won't believe. They just won't see it. Once you have 10, 50, a hundred million in revenue, everyone's going to see it. And then you can be in the driver's seat and you don't have to do 50 meetings or a hundred meetings or whatever.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34012,
+      "timestamps": []
+    },
+    {
+      "end": 34584,
+      "excerpt": "But at the beginning, you very well might have to, because again, there's just many people who aren't, they're just not going to get it. And that's frankly, part of the game. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34409,
+      "timestamps": []
+    },
+    {
+      "end": 34752,
+      "excerpt": "[00:30:25] Gopi Rangan: Founders look for early believers, not only just investment cash. And as investors, we sometimes find it difficult to develop that conviction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34586,
+      "timestamps": [
+        {
+          "offset": 34586,
+          "raw": "[00:30:25]",
+          "seconds": 1825
+        }
+      ]
+    },
+    {
+      "end": 35103,
+      "excerpt": "Good founders have deep knowledge of the market, their customers. So they have really high conviction. Sometimes it's hard for us to see beyond the second or the third step or the fourth step for us to be able to form that conviction. And that doesn't mean that, when we say yes, we're right. We're actually wrong quite often, even after we say yes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34754,
+      "timestamps": []
+    },
+    {
+      "end": 35310,
+      "excerpt": "And when we say no, we might miss some opportunities. And that happens quite often as well. So don't take a no from an investor seriously. Go on. It just means that that investor is not an early believer. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35105,
+      "timestamps": []
+    },
+    {
+      "end": 35480,
+      "excerpt": "[00:31:06] Pablo Srugo: I can tell you a specific example. So we had on the product market fit show the founder of Huntress. Huntress is now a 2-billion-dollar company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 35312,
+      "timestamps": [
+        {
+          "offset": 35312,
+          "raw": "[00:31:06]",
+          "seconds": 1866
+        }
+      ]
+    },
+    {
+      "end": 35882,
+      "excerpt": "And when Kyle was starting off, this guy did 60 investor meetings and got 60 rejections in the early days. And he was an ex NSA person doing cyber software, like cyber security software. I mean, like, you know, he was actually like an expert in what he was building. He was all in and yet like just got turned down and turned out and like hustled to get angels to back him for like a million dollars.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35482,
+      "timestamps": []
+    },
+    {
+      "end": 36254,
+      "excerpt": "And then after that, he goes from, I think, one to five to 10, 20, 40, 70, and just crossed a hundred million in revenue last year. Like what that goes to say is like 60 VCs in a row can just be completely wrong about the opportunity. As long as the customers are buying, as long as you're delivering real value, if you find a way to survive, good things tend to happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35884,
+      "timestamps": []
+    },
+    {
+      "end": 36422,
+      "excerpt": "And if anything, it's the investors who ultimately turn around and now, you know, would probably beg him to invest in that company. And that's just the way it works. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36256,
+      "timestamps": []
+    },
+    {
+      "end": 36695,
+      "excerpt": "[00:32:16] Gopi Rangan: Amazing, fascinating story. Let's talk a little bit about your podcast. You started a podcast a few years ago and like you mentioned, you interview late stage founders to talk about the zero to one journey of how they got off the ground initially.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 36424,
+      "timestamps": [
+        {
+          "offset": 36424,
+          "raw": "[00:32:16]",
+          "seconds": 1936
+        }
+      ]
+    },
+    {
+      "end": 36846,
+      "excerpt": "Tell us a little more about the podcast. What's the podcast about and what kind of audience is suitable for this podcast? Who should listen to this? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36697,
+      "timestamps": []
+    },
+    {
+      "end": 37124,
+      "excerpt": "[00:32:41] Pablo Srugo: Well, what I've realized is that every single early stage founder has the same problem. And it's that they need to find product market fit. And that's what if you ask them, Hey, what's the number one thing that you want to do to an early stage founder?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 36848,
+      "timestamps": [
+        {
+          "offset": 36848,
+          "raw": "[00:32:41]",
+          "seconds": 1961
+        }
+      ]
+    },
+    {
+      "end": 37633,
+      "excerpt": "Almost all of them will tell you some version, whether they use the words or not of I'm trying to find product market fit. So that's why we started the product market fit show, which is let's become complete experts on that zero to one part of the journey on finding product market fit. And the way we'll do that is because it's so case by case, because it's more art than science, because there is no like real playbook and it's hardly a date around it is just through stories and stories and more stories.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37126,
+      "timestamps": []
+    },
+    {
+      "end": 37968,
+      "excerpt": "And some of them, like most of them, we started off with, like I said, you know, hundreds billion dollar company, but we don't talk to Kyle about, you know, \"Hey, what was it like to raise a series C or like once you had $50 million in revenue, like what were your problems?\" We don't talk about any of that. We ignore it completely.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37635,
+      "timestamps": []
+    },
+    {
+      "end": 38176,
+      "excerpt": "Like we'll spend an hour about just how did you start and how did you get to two, 3 million in revenue? Like once things click and took off, we don't spend time on it because it's beyond product market fit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37970,
+      "timestamps": []
+    },
+    {
+      "end": 38503,
+      "excerpt": "So we just do that over and over and over. And I think we've been fortunate to have some great names on there. Like cohere, like, well, simple. Uh, like I said, just, we just had Gusto. We have bridge. We just exited for a billion dollars to stripe coming on the founders coming on later this week. So that's how we started. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38178,
+      "timestamps": []
+    },
+    {
+      "end": 39033,
+      "excerpt": "Now, the other thing we started to do recently is also have stories of founders who had some traction, in some cases, a lot of traction, like the wire story I told earlier, 90 million in revenue in other cases, less like maybe they raised a million or 2 million, got to like a million or so in revenue, and failed. Then we talk to them about why they failed. What I noticed talking to some of these successful founders, sometimes they would attribute their success to things that I knew firsthand others had done and yet failed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38505,
+      "timestamps": []
+    },
+    {
+      "end": 39449,
+      "excerpt": "And it is challenging like if you're a founder and this is your first startup and it ends up working out, you get a lot of lessons from them and a lot of them are right. But a lot of them are wrong and you kind of succeeded either in spite of those things, or even if those things maybe help, they certainly weren't like the reason why you succeeded. But you don't know that because you only have this one example.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39035,
+      "timestamps": []
+    },
+    {
+      "end": 40367,
+      "excerpt": "So if we take as a founder, like you have to listen to those success stories, but there's huge survivorship bias. So you also want to think about, okay, like, what about the ones that failed? And so that's what we started doing with them is like, okay, like, Oh, wait a second. You actually had a thesis that also made a lot of sense. Like your timing also seemed right. You also raised some money and yet you fail. Like what happened? What was the reason why, what did you miss? And I think we can learn a lot that way. But I think the punchline is in the clearest piece of it all is it's a show for early stage founders going from zero to one, trying to find product market fit, like, and I don't know that there's another show that's as hyper focused on that. Like we're eating our dog food, right? Like we tell founders like find your ICP, like be super focused, be super niche. That's what we're doing as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39451,
+      "timestamps": []
+    },
+    {
+      "end": 40666,
+      "excerpt": "[00:35:48] Gopi Rangan: Pablo, thank you so much for spending time with me. You've shared a lot of insightful nuggets of wisdom. You've given specific examples of how you interact with founders, successful stories, failure stories. I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 40369,
+      "timestamps": [
+        {
+          "offset": 40369,
+          "raw": "[00:35:48]",
+          "seconds": 2148
+        }
+      ]
+    },
+    {
+      "end": 40744,
+      "excerpt": "[00:36:05] Pablo Srugo: Thanks for having me on, man. It's been a pleasure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Pablo Srugo",
+      "start": 40668,
+      "timestamps": [
+        {
+          "offset": 40668,
+          "raw": "[00:36:05]",
+          "seconds": 2165
+        }
+      ]
+    },
+    {
+      "end": 40932,
+      "excerpt": "[00:36:09] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 40746,
+      "timestamps": [
+        {
+          "offset": 40746,
+          "raw": "[00:36:09]",
+          "seconds": 2169
+        }
+      ]
+    },
+    {
+      "end": 41099,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40934,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "979f2c994e78a9dbd4236da1541e855ca8e4e1d2a4a7257f8ae65c450767cd40",
+  "text_sha256": "4c47b4ca9545dc581fbc558e8cd4001a25d5f36e183130e50d7b07bd9741066c"
+}

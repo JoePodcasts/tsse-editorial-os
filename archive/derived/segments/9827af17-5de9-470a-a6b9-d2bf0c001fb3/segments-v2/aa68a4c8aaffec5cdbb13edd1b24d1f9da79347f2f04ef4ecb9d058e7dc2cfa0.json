@@ -1,0 +1,1599 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 362,
+      "excerpt": "We don't really respond to cold calls. It doesn't work, and it's not because we don't want to talk to everybody. We do, we generally do. It's just we don't have time. There's only so many deals that I can look at any given point in time. So the deals that we look at are deals that we define as qualified leads, which have three characteristics.\" - Itamar Novick",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 532,
+      "excerpt": "[00:00:21] One is the opportunity presented to us by somebody that we know and trust, and it's either them or somebody that they know and trust, aka, warm introduction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 364,
+      "timestamps": [
+        {
+          "offset": 364,
+          "raw": "[00:00:21]",
+          "seconds": 21
+        }
+      ]
+    },
+    {
+      "end": 956,
+      "excerpt": "[00:00:35] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Itamar Novick. Itamar is the founder and general partner at Recursive Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 534,
+      "timestamps": [
+        {
+          "offset": 534,
+          "raw": "[00:00:35]",
+          "seconds": 35
+        }
+      ]
+    },
+    {
+      "end": 1274,
+      "excerpt": "[00:01:09] Recursive Ventures is a Silicon Valley based venture capital firm, and the firm was founded by Itamar, who's a founder himself, and he's supported by many other people, other founders, operators, and go to market experts. And we're gonna talk to him about some of his focus areas and the stage he invests.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 958,
+      "timestamps": [
+        {
+          "offset": 958,
+          "raw": "[00:01:09]",
+          "seconds": 69
+        }
+      ]
+    },
+    {
+      "end": 1891,
+      "excerpt": "[00:01:26] He mainly focuses on pre-seed and seed stage tech startups. The sectors he prefers to invest are focused on data and artificial intelligence. It's gonna be a fun conversation. We're gonna ask him a lot of questions, and even before we started this podcast, he said that I could ask tough questions. So I'm ready. I'm gonna ask him a lot of questions about his investment decisions, how he meets founders, what questions he asks, what gets him excited, why does he say yes? And sometimes why does he say no as well. We're gonna jump into those conversations. Itamar, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1276,
+      "timestamps": [
+        {
+          "offset": 1276,
+          "raw": "[00:01:26]",
+          "seconds": 86
+        }
+      ]
+    },
+    {
+      "end": 2248,
+      "excerpt": "[00:01:58] Itamar Novick: Gopi, thank you so much for having me. I am so excited to be here. First of all, I admire your show. You're doing a beautiful job. I know that for many founders it's really hard to get into the VC's head and sometimes us VCs, we don't give enough feedback that actually helps entrepreneurs refine their pitch and their narrative.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 1893,
+      "timestamps": [
+        {
+          "offset": 1893,
+          "raw": "[00:01:58]",
+          "seconds": 118
+        }
+      ]
+    },
+    {
+      "end": 2594,
+      "excerpt": "[00:02:16] So I really love what you're doing and how this supports entrepreneurs and also helps us uncover parts of the sort of VC ecosystem, which I think benefits all of us VCs and entrepreneurs. We're all here to win together. Thanks for having me on the show, thanks for the listeners who are tuning into this one and excited to get going.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2250,
+      "timestamps": [
+        {
+          "offset": 2250,
+          "raw": "[00:02:16]",
+          "seconds": 136
+        }
+      ]
+    },
+    {
+      "end": 2916,
+      "excerpt": "[00:02:33] Gopi Rangan: Fantastic. Let's jump in. Let's start with you; who you are, where you are from, and how you got to where you are today. You're from Israel, you served in the Army and you were a techie very early in your career, and you also were at a few startups and quite successful in some of those journeys.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2596,
+      "timestamps": [
+        {
+          "offset": 2596,
+          "raw": "[00:02:33]",
+          "seconds": 153
+        }
+      ]
+    },
+    {
+      "end": 3092,
+      "excerpt": "[00:02:50] Eventually you switched to venture capital as an investor. But let's start from Israel, where you are. Where did you grow up and how did tech industry attract you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2918,
+      "timestamps": [
+        {
+          "offset": 2918,
+          "raw": "[00:02:50]",
+          "seconds": 170
+        }
+      ]
+    },
+    {
+      "end": 3615,
+      "excerpt": "[00:02:59] Itamar Novick: Yeah, absolutely. So I grew up close to Tel Aviv, and I've been coding since I was 13, and then joined the IDF (Israeli Defense Forces), which is obviously mandatory for Israelis, I was this computer whiz kid. And was very lucky to have found the first computer investigation crime unit inside the IDF. Basically catching hackers who were for criminal purposes, trying to steal data or damage network systems. It was in the nineties. This is in the nineties, and it was a very unique experience.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 3094,
+      "timestamps": [
+        {
+          "offset": 3094,
+          "raw": "[00:02:59]",
+          "seconds": 179
+        }
+      ]
+    },
+    {
+      "end": 4014,
+      "excerpt": "[00:03:31] I got to learn and work with the FBI and other enforcement force around the world to set up this unit and I basically, that was my first time as a founder actually, by building that unit. Then I came out of the IDF and it was the end of the first internet bubble. And I just thought that, \"hey, I can just build a startup and it's gonna make billions of dollars and I'll be successful.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3617,
+      "timestamps": [
+        {
+          "offset": 3617,
+          "raw": "[00:03:31]",
+          "seconds": 211
+        }
+      ]
+    },
+    {
+      "end": 4282,
+      "excerpt": "[00:03:50] And little did I know eight months later I had to fire the seven engineers that I hired and figured that I actually need to learn building my next company. But more overarching background, I'd say I've been in startups my entire career, which is 25 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4016,
+      "timestamps": [
+        {
+          "offset": 4016,
+          "raw": "[00:03:50]",
+          "seconds": 230
+        }
+      ]
+    },
+    {
+      "end": 4672,
+      "excerpt": "[00:04:04] I'm a repeat entrepreneur and startup executive. My last company that has been very successful is a company called Life 360. It's now publicly traded on NASDAQ with an $8 billion market cap. I wasn't an original founder, but interestingly enough, I bought out a co-founder that wanted to leave the company with all the capital I had at the time; doing an all in on the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4284,
+      "timestamps": [
+        {
+          "offset": 4284,
+          "raw": "[00:04:04]",
+          "seconds": 244
+        }
+      ]
+    },
+    {
+      "end": 5008,
+      "excerpt": "[00:04:24] Before that, I was a very early employee and executive at a company called Gigya that got sold to SAP for $350. So I've been part of two big exits. I've also been an investor for the last 15 years. I started my career on Sand Hill Road as an institutional VC, working as a junior guy at a firm called Morgan Tower Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4674,
+      "timestamps": [
+        {
+          "offset": 4674,
+          "raw": "[00:04:24]",
+          "seconds": 264
+        }
+      ]
+    },
+    {
+      "end": 5376,
+      "excerpt": "[00:04:41] Then I helped set up an incubator called Aquest, which would bring Israeli companies to the Bay Area and accelerate them. And for the last 12 years, I've been fortunate to invest, first an angel and then other my two last funds moonlighting while I was building Life 360 and have been lucky to invest very early in two decacorns and another five unicorns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5010,
+      "timestamps": [
+        {
+          "offset": 5010,
+          "raw": "[00:04:41]",
+          "seconds": 281
+        }
+      ]
+    },
+    {
+      "end": 5486,
+      "excerpt": "[00:05:02] So that's full background: operator to investor, back to operator, back to investor, if you will.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5378,
+      "timestamps": [
+        {
+          "offset": 5378,
+          "raw": "[00:05:02]",
+          "seconds": 302
+        }
+      ]
+    },
+    {
+      "end": 5737,
+      "excerpt": "[00:05:07] Gopi Rangan: I'm gonna ask you few questions on that. Before all of that, the first company you started is called Intech Technologies, and it's very close to the name Initech. And Initech was the company in this famous movie Office Space.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5488,
+      "timestamps": [
+        {
+          "offset": 5488,
+          "raw": "[00:05:07]",
+          "seconds": 307
+        }
+      ]
+    },
+    {
+      "end": 5794,
+      "excerpt": "[00:05:22] Was that coincidental or was it intentional?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5739,
+      "timestamps": [
+        {
+          "offset": 5739,
+          "raw": "[00:05:22]",
+          "seconds": 322
+        }
+      ]
+    },
+    {
+      "end": 6095,
+      "excerpt": "[00:05:24] Itamar Novick: No, it was complete coincidence. My partner back then, he really loved this concept of Initech. And look, this is 2000. So like we weren't very sophisticated when it came to like tech companies, brands and online presence, right? There wasn't really a lot of online anyway.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 5796,
+      "timestamps": [
+        {
+          "offset": 5796,
+          "raw": "[00:05:24]",
+          "seconds": 324
+        }
+      ]
+    },
+    {
+      "end": 6250,
+      "excerpt": "[00:05:39] And again, that was a complete failure. And I learned that there's sometimes more to learn from failures than what you can learn from success.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6097,
+      "timestamps": [
+        {
+          "offset": 6097,
+          "raw": "[00:05:39]",
+          "seconds": 339
+        }
+      ]
+    },
+    {
+      "end": 6427,
+      "excerpt": "[00:05:46] Gopi Rangan: That is true. And if you haven't looked at Office Space, you should watch the movie. The employees in the company work for this startup called Initech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6252,
+      "timestamps": [
+        {
+          "offset": 6252,
+          "raw": "[00:05:46]",
+          "seconds": 346
+        }
+      ]
+    },
+    {
+      "end": 6827,
+      "excerpt": "[00:05:54] First real question: you switched from being a very successful startup executive to the investment side. I understand you've been investing on the side as an angel as well throughout, for 15 plus years. But in the end, you decided to start your own firm. How was the transition to become a full-time investor? Why did you choose to do that, and why is venture capital interesting to you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6429,
+      "timestamps": [
+        {
+          "offset": 6429,
+          "raw": "[00:05:54]",
+          "seconds": 354
+        }
+      ]
+    },
+    {
+      "end": 7159,
+      "excerpt": "[00:06:14] Itamar Novick: Yeah, absolutely. So first of all, I was a full-time investor before I jumped into Life 360. I've been back and forth. I did learn a lot of things about what it means to be full-time investor running my own firm as a founder of a VC firm, which you know a lot about as well, but very interesting journey.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 6829,
+      "timestamps": [
+        {
+          "offset": 6829,
+          "raw": "[00:06:14]",
+          "seconds": 374
+        }
+      ]
+    },
+    {
+      "end": 7512,
+      "excerpt": "[00:06:28] Here's a couple of things that I learned along the way by doing this for over 20 years. First of all, I'm a bad CEO. I'm great at supporting CEOs. And it took me 15 years to understand there's actually better people operating and building than I am. I'm an okay builder so I can help, but I'm actually better at supporting people who build.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7161,
+      "timestamps": [
+        {
+          "offset": 7161,
+          "raw": "[00:06:28]",
+          "seconds": 388
+        }
+      ]
+    },
+    {
+      "end": 7844,
+      "excerpt": "[00:06:48] One of my favorite parts about this job is that, with most of my founders, I'm typically the guy that gets the first call when s hits the fan. It's like when there's issues, when there's problems, I love to be able to be there for the founders and help them fix whatever it is and move on to the next set of challenges.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7514,
+      "timestamps": [
+        {
+          "offset": 7514,
+          "raw": "[00:06:48]",
+          "seconds": 408
+        }
+      ]
+    },
+    {
+      "end": 8773,
+      "excerpt": "[00:07:04] I think what's interesting about this, I say this often to a lot of folks who aspire to be VCs, is I feel like I'm old school. VC should not be your first job. In order to win in this very highly competitive landscape of venture capital, you really have to have the credibility with founders and the ability to have seen company formation and scale up all the way from pre-seed to IPO and beyond. So for me, I just didn't feel comfortable launching a firm back in 2012. I had my mentors back then when I was at more interventions, they basically told me, look, like even if we give you a $50 million checkbook today, you're just gonna lose money because even though you have VC experience, how are you going to win allocations over this GP who invested in Lending Club and MuleSoft, like multi-billion dollar companies and has started two of their companies and IPO'ed them? You're just not gonna be able to compete.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7846,
+      "timestamps": [
+        {
+          "offset": 7846,
+          "raw": "[00:07:04]",
+          "seconds": 424
+        }
+      ]
+    },
+    {
+      "end": 9028,
+      "excerpt": "[00:07:57] So I actually took their advice. I went to build and scale Life 360 for 12 years, and only after coming back full cycle did I realized that now I'm finally ready to launch my own firm and actually support the next generation of entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8775,
+      "timestamps": [
+        {
+          "offset": 8775,
+          "raw": "[00:07:57]",
+          "seconds": 477
+        }
+      ]
+    },
+    {
+      "end": 9194,
+      "excerpt": "[00:08:13] Gopi Rangan: How has that experience been helpful? What are some things that you do better as an investor now because of your entrepreneurial experience?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9030,
+      "timestamps": [
+        {
+          "offset": 9030,
+          "raw": "[00:08:13]",
+          "seconds": 493
+        }
+      ]
+    },
+    {
+      "end": 9563,
+      "excerpt": "[00:08:20] Itamar Novick: Yeah, so I've been in the founder's shoes myself multiple times, and I've went through all the upsides and the downsides. I had to fire 50% of my employees in a single day. I was two months away from running out of capital in a company that's now worth $8 billion. Just shows you how deep the downs can be and how high the ups can be, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 9196,
+      "timestamps": [
+        {
+          "offset": 9196,
+          "raw": "[00:08:20]",
+          "seconds": 500
+        }
+      ]
+    },
+    {
+      "end": 10015,
+      "excerpt": "[00:08:40] And I think going through that emotional rollercoaster as a founder yourself helps you lend resilience and perspective and context to founders, because as VCs we all often get a call when things go really bad. Sometimes when they're like just okay. And actually things go really well. We rarely get that call because the next VC, like an Andreessen Horowitz will come in and invest a hundred million dollars. So it's off to the next stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9565,
+      "timestamps": [
+        {
+          "offset": 9565,
+          "raw": "[00:08:40]",
+          "seconds": 520
+        }
+      ]
+    },
+    {
+      "end": 10438,
+      "excerpt": "[00:09:06] So I think that unique perspective of having gone through the downs, having gone through troubleshooting, understanding how to rewrite your business, how to deal with all those challenges, what it means to be alone at the top as a founder and being able to handle all the different stakeholders that are part of the journey together with you, is the most valuable experience and help that we can lend founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10017,
+      "timestamps": [
+        {
+          "offset": 10017,
+          "raw": "[00:09:06]",
+          "seconds": 546
+        }
+      ]
+    },
+    {
+      "end": 10760,
+      "excerpt": "[00:09:27] Gopi Rangan: Fascinating. I see how you've translated the skills as an entrepreneur and the lessons that you picked up and the empathy that you're able to bring to the table when you talk to founders using all the direct experiences you've had as an entrepreneur. It's tremendously valuable to founders today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10440,
+      "timestamps": [
+        {
+          "offset": 10440,
+          "raw": "[00:09:27]",
+          "seconds": 567
+        }
+      ]
+    },
+    {
+      "end": 10829,
+      "excerpt": "[00:09:43] How is Recursive Ventures different from other VC firms?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10762,
+      "timestamps": [
+        {
+          "offset": 10762,
+          "raw": "[00:09:43]",
+          "seconds": 583
+        }
+      ]
+    },
+    {
+      "end": 11614,
+      "excerpt": "[00:09:47] Itamar Novick: So we're actually different in many ways. And the first thing is we're a founder GP led firm. So I'm a single gp in this firm. I do have multiple partners working with me and they're so amazing, like much more amazing than me, but that kind of helps us blend the best of institutional investing where you typically have an investment committee with multiple gps, but at the same time avoid pitfalls of having politics, slow decision making and the kind of common backstabbing that happens in many of the bigger venture firms in Silicon Valley. So that's the first thing: the structure and the approach. The second thing is we have institutionalized pre-seed funding. So we're focused on pre-seed we're focused on inception, and that has a couple of reasons.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 10831,
+      "timestamps": [
+        {
+          "offset": 10831,
+          "raw": "[00:09:47]",
+          "seconds": 587
+        }
+      ]
+    },
+    {
+      "end": 12233,
+      "excerpt": "[00:10:33] The first reason is when it comes up to the sort of institutional seed, institutional series A rounds here in Silicon Valley, you're basically competing with everybody. Sequoia, Andreessen, all those amazing firms, which I have a lot of respect for. It's not that I don't think we can compete with them. I think we can compete, but what if instead we can take our skillset, which really would've helped us scale into a much better firm and actually stay small and nimble and laser focused on pre-seed; basically be the best pre-seed fund in Silicon Valley. That's what we're trying to do. No more, no less.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11616,
+      "timestamps": [
+        {
+          "offset": 11616,
+          "raw": "[00:10:33]",
+          "seconds": 633
+        }
+      ]
+    },
+    {
+      "end": 12513,
+      "excerpt": "[00:11:08] And the third thing highly related is what that means is I'm not interested in raising a $200 million fund and a billion dollar fund. I'll leave that to others because once you do that, you inevitably have to cross from pre-seed to seed and A and growth stage rounds.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12235,
+      "timestamps": [
+        {
+          "offset": 12235,
+          "raw": "[00:11:08]",
+          "seconds": 668
+        }
+      ]
+    },
+    {
+      "end": 13018,
+      "excerpt": "[00:11:21] And I think that is one of the cardinal sins in venture capital. Because what happens today in venture capital is even though it's a single asset class, it's actually composed of three different micro asset classes. Pre-seed and seed are a super early inception stage, early stage, which is A's and B's, these type of rounds. And then obviously growth. And each one of those micro asset classes requires different managers, different portfolio construction in a different operational cadence.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12515,
+      "timestamps": [
+        {
+          "offset": 12515,
+          "raw": "[00:11:21]",
+          "seconds": 681
+        }
+      ]
+    },
+    {
+      "end": 13536,
+      "excerpt": "[00:11:50] I do a deal every month, right? A GP in a series A firm does two deals a year. It's a complete different business. And what happens is when you try the mix two or more of those micro asset classes into the same firm, that is exactly when your performance starts hurting. And that's what we're trying to avoid. So we're not playing AUM game, we're not playing this game for fees. We are doing this for carry, to make money for all of our LPs and to ourselves and to support the next generation of founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13020,
+      "timestamps": [
+        {
+          "offset": 13020,
+          "raw": "[00:11:50]",
+          "seconds": 710
+        }
+      ]
+    },
+    {
+      "end": 13811,
+      "excerpt": "[00:12:18] I think a lot of people say that they're not really in the business of scaling up venture firms. We're actually not in that business genuinely. So those are some of the main characteristics. There's a few other ones. We've been in data and AI since 20 16, 20 17.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13538,
+      "timestamps": [
+        {
+          "offset": 13538,
+          "raw": "[00:12:18]",
+          "seconds": 738
+        }
+      ]
+    },
+    {
+      "end": 14119,
+      "excerpt": "[00:12:34] We're not new to this. We saw a lot of this stuff coming. We have a unique thesis around AI mode. And so how we source deals and, collectively between me and my two venture partners, we've done over 400 deals in the last one years and have been able to participate in the journey of 25 unicorns.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13813,
+      "timestamps": [
+        {
+          "offset": 13813,
+          "raw": "[00:12:34]",
+          "seconds": 754
+        }
+      ]
+    },
+    {
+      "end": 14236,
+      "excerpt": "[00:12:53] So that gives us a very kind of wide lens at how these companies are built, scaled, and eventually exit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14121,
+      "timestamps": [
+        {
+          "offset": 14121,
+          "raw": "[00:12:53]",
+          "seconds": 773
+        }
+      ]
+    },
+    {
+      "end": 14514,
+      "excerpt": "[00:13:00] Gopi Rangan: You have a sweet spot and you stay in your sweet spot. And especially multi-stage firms, if they have focus on multiple areas, one of them is a sweet spot and the others are not. So they're inefficient sometimes, but they have a different game to play.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14238,
+      "timestamps": [
+        {
+          "offset": 14238,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 14780,
+      "excerpt": "[00:13:15] It's more about building, scalable venture funds, build larger firms, raise larger funds as well. But while. You stay disciplined and you focus on the early stage, you stick to that and that's what you do. And there are a few other things there as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14516,
+      "timestamps": [
+        {
+          "offset": 14516,
+          "raw": "[00:13:15]",
+          "seconds": 795
+        }
+      ]
+    },
+    {
+      "end": 14862,
+      "excerpt": "[00:13:30] Itamar Novick: A lot of things better. I'll give you a class example.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 14782,
+      "timestamps": [
+        {
+          "offset": 14782,
+          "raw": "[00:13:30]",
+          "seconds": 810
+        }
+      ]
+    },
+    {
+      "end": 15191,
+      "excerpt": "[00:13:32] This is for founders, okay? When you reach out to a venture firm, you don't know what you're gonna get on the other side. Are you gonna be handed out to an associate. Will this partner talk to you when you reach out to Recursive Ventures? You're gonna get me every single time on the first call. There's nobody else.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14864,
+      "timestamps": [
+        {
+          "offset": 14864,
+          "raw": "[00:13:32]",
+          "seconds": 812
+        }
+      ]
+    },
+    {
+      "end": 15802,
+      "excerpt": "[00:13:49] I'm gonna be the one filtered. And not only that, I will give you genuine feedback on what I think works and what doesn't in this company and, for you guys as a founding team. And I think that promise to entrepreneurs, you can't deliver that if you're playing the a game, if you're doing a multi-stage firm because you're busy hiring more and more people to do more and more deals, and you can't really focus on what your core is. And that's our core. It's like you're gonna get a founder who has built an $8 billion company on the other side of the line. And I think entrepreneurs appreciate that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15193,
+      "timestamps": [
+        {
+          "offset": 15193,
+          "raw": "[00:13:49]",
+          "seconds": 829
+        }
+      ]
+    },
+    {
+      "end": 16120,
+      "excerpt": "[00:14:23] Gopi Rangan: You say that you do roughly one investment per month and you focus on pre-seed seed stages. How do you define that? How early is too early? How late is too late? Can you use some metrics to describe at that stage, like revenues wise, product wise, team wise? What's a good sweet spot for you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15804,
+      "timestamps": [
+        {
+          "offset": 15804,
+          "raw": "[00:14:23]",
+          "seconds": 863
+        }
+      ]
+    },
+    {
+      "end": 17453,
+      "excerpt": "[00:14:42] Itamar Novick: Yeah, that's an excellent question. So our deals range from what we call the inception stage, which is two women in a garage with a dog that have a great idea and know exactly what they're doing, and maybe it's not their first startup to companies producing sometimes even over a million dollars of revenue, but are still in this sort of product market fit or product to scale fit stage. Trying to figure out how this becomes a multi-billion dollar business. And I think the reason that happens is because, even though we have a focus on data and ai, it is a generalist . And what happens is in different areas the kind of trying to pin the stage of the company is that to, a pre-seed or a seed, it's basically, it's meaningless, right? Like different areas depending on what the potential, what the opportunity is, are applicable to what we do at different stages, right? So for example, with consumer companies, we recently launched a program in which we invest a 100k in pre traction consumer AI companies. Just because of the team and because they can show us an amazing design right, that we're excited about. And obviously, our team has built a very significant consumer company, so hopefully we can lend a hand in that process in AI first SaaS. That's how I call it the new SaaS. I call it AI SaaS.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 16122,
+      "timestamps": [
+        {
+          "offset": 16122,
+          "raw": "[00:14:42]",
+          "seconds": 882
+        }
+      ]
+    },
+    {
+      "end": 17728,
+      "excerpt": "[00:15:58] A lot of the sets that we know today is gonna be replaced by AI first. We typically look for design partners, hopefully paying a product that you can show us, demo us. It could be a POC, it doesn't have to be, a fully robust, obviously, that takes time to build.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17455,
+      "timestamps": [
+        {
+          "offset": 17455,
+          "raw": "[00:15:58]",
+          "seconds": 958
+        }
+      ]
+    },
+    {
+      "end": 18109,
+      "excerpt": "[00:16:10] But we probably wanna see a little bit more traction to see this resonates with your target audience your icp. So it really varies, but I would say, if you have a bigger team, like five to 10 people, if you've raised over $5 million by this time, if you think your valuation should be over $50 million, those are some of the signs that you're probably too late for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17730,
+      "timestamps": [
+        {
+          "offset": 17730,
+          "raw": "[00:16:10]",
+          "seconds": 970
+        }
+      ]
+    },
+    {
+      "end": 18309,
+      "excerpt": "[00:16:32] Gopi Rangan: There's a lot happening in the AI space. How do you view it? What areas are you excited about? What trends are you following? What are some themes that you want to invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18111,
+      "timestamps": [
+        {
+          "offset": 18111,
+          "raw": "[00:16:32]",
+          "seconds": 992
+        }
+      ]
+    },
+    {
+      "end": 18928,
+      "excerpt": "[00:16:42] Itamar Novick: So let me start by, the thing that's obvious, but people don't talk about enough in ai, which is the vast majority of AI investments over the last few years have really been focused on the LLM and infrastructure. Developer stack, if you will. And I think that's great. Like a lot of people basically flew to safety. Let's invest in pick and shovels. The eye's gonna be big, so let's just put money into that. And that's also part of the story of the NVIDIA stock. But I think that especially for VCs, especially for early stage VCs, the real opportunity is actually in the application layer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 18311,
+      "timestamps": [
+        {
+          "offset": 18311,
+          "raw": "[00:16:42]",
+          "seconds": 1002
+        }
+      ]
+    },
+    {
+      "end": 19589,
+      "excerpt": "[00:17:14] It is in the last mile of delivering AI to actual use cases and workflows that customers need. And actually Bloomberg Intelligence and others agree with me. This is supposed to be a trillion plus dollar revenue business by 2032 applications that leverage AI in a significant way, a trillion dollar revenue business . There's trillions of dollars in enterprise value that will be created. So that's what we focus on. We don't do developer tools. We really focus on applications mostly with the lens to B2B, but we also do some B2C, and within that we're identifying multiple trends that we believe are gonna be ones that could be shaping the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18930,
+      "timestamps": [
+        {
+          "offset": 18930,
+          "raw": "[00:17:14]",
+          "seconds": 1034
+        }
+      ]
+    },
+    {
+      "end": 19996,
+      "excerpt": "[00:17:54] So the first one is really about what we call an AI mode. Essentially given an infinite amount of high quality focused data, this sort of statistical non-deterministic AI tool can actually solve almost any problem with a 99.999 probability. So really your AI is only as good as your underlying data and the quality and how that data addresses the use cases and workflows you're trying to solve.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19591,
+      "timestamps": [
+        {
+          "offset": 19591,
+          "raw": "[00:17:54]",
+          "seconds": 1074
+        }
+      ]
+    },
+    {
+      "end": 20401,
+      "excerpt": "[00:18:24] So we invest according to that thesis of, AI modes through data, and there's a lot of different ways that you can leverage data, your own data, first party, third party data in many different ways to build that mode and have that defendability. That's the first view. The second thing that we identify is a significant shift with the kind of coverage, if you will, that ai could have in tech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19998,
+      "timestamps": [
+        {
+          "offset": 19998,
+          "raw": "[00:18:24]",
+          "seconds": 1104
+        }
+      ]
+    },
+    {
+      "end": 20677,
+      "excerpt": "[00:18:46] Tech today is somewhere along the lines of 15% of GDP. We believe that AI can be with 50% global GDP because we're moving from an era where we're using software to make us people more productive to an era where AI does the work itself instead of us in many cases.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20403,
+      "timestamps": [
+        {
+          "offset": 20403,
+          "raw": "[00:18:46]",
+          "seconds": 1126
+        }
+      ]
+    },
+    {
+      "end": 21019,
+      "excerpt": "[00:19:08] And what does that mean? That means completely new business models. For example, we're heavily investing in what's called services a software, which means that, instead of building software for accountants, I'll just throw an example of a portfolio company and giving them software agents that will help them get more productive.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20679,
+      "timestamps": [
+        {
+          "offset": 20679,
+          "raw": "[00:19:08]",
+          "seconds": 1148
+        }
+      ]
+    },
+    {
+      "end": 21494,
+      "excerpt": "[00:19:27] We're actually building accounting firms that do 90% of the work with ai, to the point that a single accountant, or if you will, account manager can now manage 80 clients instead of 20 clients. Leading to this business, moving from a 15, 20% sort of operating margin service business to a 60 to 80% operating margin similar to software companies, all because AI is delivering the end service to the end customer. So we're definitely making big bets in that area.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21021,
+      "timestamps": [
+        {
+          "offset": 21021,
+          "raw": "[00:19:27]",
+          "seconds": 1167
+        }
+      ]
+    },
+    {
+      "end": 22069,
+      "excerpt": "[00:20:01] Another sort of big bet that we really believe in is what's happening with consumer ai. I think we've seen multiple spaces in consumer where we've had almost this duopoly folks like Google and Meta and obviously and e-commerce. We've had Amazon and a few others, and it was almost impossible to unseat some of these giants because they have all the traffic, they have the the marketing budgets. They have the engines that keep consumers hooked to what they do. And I think those big consumer companies are more ripe to disruption now than in any time in history.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21496,
+      "timestamps": [
+        {
+          "offset": 21496,
+          "raw": "[00:20:01]",
+          "seconds": 1201
+        }
+      ]
+    },
+    {
+      "end": 22781,
+      "excerpt": "[00:20:35] You start looking at different areas around search. OpenAI, chatGPT is disrupting search. We gotta put out there like we could be in the universe five years from now where the majority of the search volume on Google is actually going to chat gPT and search is obviously the biggest business, but what about other smaller consumer businesses, for example, travel? We've traditionally had a big issue, on like trying to merge this concept of planning and actual booking, and that has benefited the Expedias and bookings of the world because they control the supply and demand in booking. But now with AI, we can do all that and transform it into one cohesive experience that consumers actually prefer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22071,
+      "timestamps": [
+        {
+          "offset": 22071,
+          "raw": "[00:20:35]",
+          "seconds": 1235
+        }
+      ]
+    },
+    {
+      "end": 22931,
+      "excerpt": "[00:21:12] So we think this is an amazing time to build a consumer AI company. And we wanna be involved in some of those breakthrough opportunities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22783,
+      "timestamps": [
+        {
+          "offset": 22783,
+          "raw": "[00:21:12]",
+          "seconds": 1272
+        }
+      ]
+    },
+    {
+      "end": 23213,
+      "excerpt": "[00:21:19] Gopi Rangan: What a great moment to be where all this technology is coming through and we have more power, more capability in our hands than we ever had, and it's really transforming the way we live and do business. It's a special moment in the history with technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22933,
+      "timestamps": [
+        {
+          "offset": 22933,
+          "raw": "[00:21:19]",
+          "seconds": 1279
+        }
+      ]
+    },
+    {
+      "end": 23420,
+      "excerpt": "[00:21:34] Itamar Novick: Yeah, that's why I left Life 360 and my cushy job, the C level of a public company because I truly believe that the opportunity that's in front of us now with AI is unprecedented.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 23215,
+      "timestamps": [
+        {
+          "offset": 23215,
+          "raw": "[00:21:34]",
+          "seconds": 1294
+        }
+      ]
+    },
+    {
+      "end": 23745,
+      "excerpt": "[00:21:46] Gopi Rangan: Let's take some examples from your recent investments or in the past as well. How did you meet the founder? Can you pick one example and talk about your experience with the founder? How did you get connected? What happened in the first meeting? What questions did you ask? What were you looking for?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23422,
+      "timestamps": [
+        {
+          "offset": 23422,
+          "raw": "[00:21:46]",
+          "seconds": 1306
+        }
+      ]
+    },
+    {
+      "end": 24450,
+      "excerpt": "[00:22:04] Itamar Novick: So before I jump into a specific example, I think it's really important to help define the user interface first, because I think that ui ux is what, like defining that is what helps founders most when they think about approaching a VC and how they even have a conversation with them. I know it was a challenge for me as a founder. I just didn't know how to talk to these guys. First of all, and I think I'm fairly typical in this business. We don't really respond to cold calls. It doesn't work, and it's not because we don't want to talk to everybody. We do, we generally do. It's just we don't have time. There's only so many deals that I can look at any given point in time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 23747,
+      "timestamps": [
+        {
+          "offset": 23747,
+          "raw": "[00:22:04]",
+          "seconds": 1324
+        }
+      ]
+    },
+    {
+      "end": 25017,
+      "excerpt": "[00:22:42] The deals that we look at are deals that we define as qualified leads, which have three characteristics. One is: the opportunity is presented to us by somebody that we know and trust, and it's either them or somebody that they know and trust, AKA warm introduction. Two is we invest in companies that are focused on data and ai. If you're doing something outside of our core folks, and we don't do healthcare, we don't do hardware, we don't do energy, we're not the right folks for you. Find the right people for that. So it's gotta be within our thesis.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24452,
+      "timestamps": [
+        {
+          "offset": 24452,
+          "raw": "[00:22:42]",
+          "seconds": 1362
+        }
+      ]
+    },
+    {
+      "end": 25604,
+      "excerpt": "[00:23:13] And the last thing I would say, it's gotta be early pre-seed and seed. Because again we can't help companies in their series A. And so that's like the basic filtering . We have an institutionalized investment process. So even though in some ways, the interface of this thing feels like working with an angel or a group of angel investors, we're not. We're an institutional VC firm, which means that we systematically score and rank the opportunities in front of us using tools that we develop from working at series A firms and applying them correctly to the pre-seed stage.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25019,
+      "timestamps": [
+        {
+          "offset": 25019,
+          "raw": "[00:23:13]",
+          "seconds": 1393
+        }
+      ]
+    },
+    {
+      "end": 26132,
+      "excerpt": "[00:23:42] So we very aggressively filter. It doesn't mean that you're not great if we decide to not take the meeting, but the reason we filter is because it's really important for us to help ensure that we don't waste your time. Like the last thing I wanna do as a VC is to waste a founder's time. And I have some friends in VC who don't appreciate this as much, but for me as a founder, that is a key and important piece of what we stand for, is like, Nope, we're not gonna waste your time if we don't think it's a good fit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25606,
+      "timestamps": [
+        {
+          "offset": 25606,
+          "raw": "[00:23:42]",
+          "seconds": 1422
+        }
+      ]
+    },
+    {
+      "end": 26400,
+      "excerpt": "[00:24:11] And unfortunately, the only way we can figure out if it's a good fit and it's worth your time is by looking at the deck or some summary. Help us understand the opportunity. I still got a lot of founders who tell me, oh, I'll share the deck after the call.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26134,
+      "timestamps": [
+        {
+          "offset": 26134,
+          "raw": "[00:24:11]",
+          "seconds": 1451
+        }
+      ]
+    },
+    {
+      "end": 26424,
+      "excerpt": "[00:24:23] No, please.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26402,
+      "timestamps": [
+        {
+          "offset": 26402,
+          "raw": "[00:24:23]",
+          "seconds": 1463
+        }
+      ]
+    },
+    {
+      "end": 26768,
+      "excerpt": "[00:24:24] I don't wanna waste an hour of your time for something that we filter aggressively, likely we wouldn't be looking at this. So build a deck, share it with us, that will make it easiest for us to best serve you. That's the second thing. The third thing is what to expect. Again, we run a process that always starts with me filtering.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26426,
+      "timestamps": [
+        {
+          "offset": 26426,
+          "raw": "[00:24:24]",
+          "seconds": 1464
+        }
+      ]
+    },
+    {
+      "end": 28273,
+      "excerpt": "[00:24:42] If you're hitting up Precursive Ventures, you're gonna get Itamar Novick, right? And you're gonna have a 45 minute conversation with me. And the point of that conversation is really for us to get to know each other and feel if this makes sense both ways. I don't want founders to automatically take my money. That doesn't make sense. I've done a lot of mistakes in the past by taking people's money where I shouldn't have, right? They weren't the right investors for me. So make sure that we're the right investors for you as much as we make sure that you're the right investment for us. After I filter typically, even though I'm the ultimate decision maker at Recursive ventures, I never, ever make decisions without having advisors involved. So I have two venture partners in this firm. They're both more experienced than me. They're awesome. I almost always involve one of them or one of our other advisors. The reason is there's so much that I don't know, especially about the business that you as an entrepreneur you're trying to teach, I know so much less than you. So having more people around the table kinda help think through the challenges, the opportunity and help us collectively figure out if it's right for us to back you is a key piece of how we invest. So have a little bit of patience with us. It will require a few meetings to really get to the point and by that time, I wanna be able to say that I understand your business almost as well as you understand it as a founder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26770,
+      "timestamps": [
+        {
+          "offset": 26770,
+          "raw": "[00:24:42]",
+          "seconds": 1482
+        }
+      ]
+    },
+    {
+      "end": 28432,
+      "excerpt": "[00:26:05] Gopi Rangan: I see you have a very clear process and you rigorously follow it. Now let's get to that first meeting with the founder. What happens?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28275,
+      "timestamps": [
+        {
+          "offset": 28275,
+          "raw": "[00:26:05]",
+          "seconds": 1565
+        }
+      ]
+    },
+    {
+      "end": 29143,
+      "excerpt": "[00:26:13] Itamar Novick: Yeah, so I spend a lot of time understanding what brought the founder to this event, like to talking to me. Who are you, what's the background of the founding team, entire founding team and really trying to assess the key points that we score systematically on founding team quality. And that is really centered on subject matter expertise, resilience and that ties into startup experience like you've been through some of this before, either as an employee or so on and so forth, or a serial entrepreneur. Completeness, do we have the right DNA, all the pillars in this company to build what we need? Do we have the right technology person? Do we have the right go to market person?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 28434,
+      "timestamps": [
+        {
+          "offset": 28434,
+          "raw": "[00:26:13]",
+          "seconds": 1573
+        }
+      ]
+    },
+    {
+      "end": 29860,
+      "excerpt": "[00:26:54] And so on and so forth. Whatever the business needs, right? We're gonna try to figure, assess that. And the last thing, which is interesting that I try to understand is how fundable is this group? And I'll tell you why. We write the first check, half a million to a million dollars, but to go all the way to a multi-billion dollar unicorn, you're gonna have to raise much more money after us, and you're gonna have to sell this thing again, every day for the next 15 years probably. So I try to assess whether you are capable of going for that full cycle, if you will, and are fundable, can hire, sell, and, make hard calls. So that's the first part of the meeting is really about you as a founding team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29145,
+      "timestamps": [
+        {
+          "offset": 29145,
+          "raw": "[00:26:54]",
+          "seconds": 1614
+        }
+      ]
+    },
+    {
+      "end": 30174,
+      "excerpt": "[00:27:33] The second thing we try to understand is really two things. Is the market big enough? This is a very common mistake that I see, happens more often with less experienced entrepreneurs. They're just not going for businesses that have a TAM -total investible market that, really warrants venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29862,
+      "timestamps": [
+        {
+          "offset": 29862,
+          "raw": "[00:27:33]",
+          "seconds": 1653
+        }
+      ]
+    },
+    {
+      "end": 30717,
+      "excerpt": "[00:27:52] And I wanna be specific here. There's so many amazing businesses to be built out there and people should be building them and they can make millions of dollars in building them. But it doesn't mean that they are actually good, that they should be venture backed, like good for venture. And it's very important because that VC and entrepreneur alignment can really easily fall off a cliff if this company is not actually on the path to be worth hundreds and billions of dollars, right? Hundreds and millions or billions of dollars.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30176,
+      "timestamps": [
+        {
+          "offset": 30176,
+          "raw": "[00:27:52]",
+          "seconds": 1672
+        }
+      ]
+    },
+    {
+      "end": 30853,
+      "excerpt": "[00:28:19] Gopi Rangan: How do you figure that out? If you ask a founder, how ambitious are you? They will always say super ambitious.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30719,
+      "timestamps": [
+        {
+          "offset": 30719,
+          "raw": "[00:28:19]",
+          "seconds": 1699
+        }
+      ]
+    },
+    {
+      "end": 30988,
+      "excerpt": "[00:28:26] What questions do you ask to get to the answer that helps you understand whether it's a fit for venture and for your firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30855,
+      "timestamps": [
+        {
+          "offset": 30855,
+          "raw": "[00:28:26]",
+          "seconds": 1706
+        }
+      ]
+    },
+    {
+      "end": 31275,
+      "excerpt": "[00:28:32] Itamar Novick: Yeah, we have a very rigorous process around that. We very early on do mostly a bottoms up analysis. I actually, I love doing this exercise with founders. Give me the simple response to this question, how many customers times how much each customer would pay?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 30990,
+      "timestamps": [
+        {
+          "offset": 30990,
+          "raw": "[00:28:32]",
+          "seconds": 1712
+        }
+      ]
+    },
+    {
+      "end": 31647,
+      "excerpt": "[00:28:50] And it sounds really simple, but actually it's a key question not just in quantifying the size of the opportunity, but also the logic of what is your ICP? Why are they paying? What's the value that you're delivering? A lot of these questions all add up into that TAM, so we're trying to understand in bottoms up, and then we also wanna understand it top down.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31277,
+      "timestamps": [
+        {
+          "offset": 31277,
+          "raw": "[00:28:50]",
+          "seconds": 1730
+        }
+      ]
+    },
+    {
+      "end": 32077,
+      "excerpt": "[00:29:10] Okay, what is this industry? How big is it projected? What are comparables? Like bigger companies that have been built and you can disrupt, right? You can take away some of their market share. We can understand that. We can quantify that. So I typically do this exercise with founders and I feel like it benefits founders as much as it benefits me because again, if the TAM is not big enough, don't go raise VC money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31649,
+      "timestamps": [
+        {
+          "offset": 31649,
+          "raw": "[00:29:10]",
+          "seconds": 1750
+        }
+      ]
+    },
+    {
+      "end": 32191,
+      "excerpt": "[00:29:32] And that's perfectly fine. That's amazing. You can build an amazing company. That's the second thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32079,
+      "timestamps": [
+        {
+          "offset": 32079,
+          "raw": "[00:29:32]",
+          "seconds": 1772
+        }
+      ]
+    },
+    {
+      "end": 33068,
+      "excerpt": "[00:29:36] The third thing I try to understand on the first call is: is there a moat or defendability to this business? Because the hard earned lesson of investing in over 150 companies over the last 15 years is that if you don't have a moat, the music will stop. I don't know when it can stop now, it can stop after you go public, but somebody's going to eat your lunch because if you don't have a moat and you're successful, 20 competitors would show up. They will commoditize the space. They will drive your margins to zero. And you'll be left with, a market share that's a piece of what you envision it would be. That doesn't lend itself to a multi-billion dollar company. So we're trying to understand, there's a lot of different modes and defendability options. It's not one thing, but you have to stand out in that category or we're not the right venture firm for you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32193,
+      "timestamps": [
+        {
+          "offset": 32193,
+          "raw": "[00:29:36]",
+          "seconds": 1776
+        }
+      ]
+    },
+    {
+      "end": 33541,
+      "excerpt": "[00:30:28] So those are the three main things I try to understand the first call and if it meets all these criteria points. Then I would move to the next step, which is again, meeting with at least one more person in my team. And then we don't show you those, but we actually fill scorecards to try to standardize the quality of this opportunity so that we can very consistently make the right bets. And these are bets because we're talking about inception stage startups",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33070,
+      "timestamps": [
+        {
+          "offset": 33070,
+          "raw": "[00:30:28]",
+          "seconds": 1828
+        }
+      ]
+    },
+    {
+      "end": 33716,
+      "excerpt": "[00:30:53] Gopi Rangan: Who impressed you in the first few meetings and how did you get there? How did you get to the decision that you want to invest? Can you give a story?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33543,
+      "timestamps": [
+        {
+          "offset": 33543,
+          "raw": "[00:30:53]",
+          "seconds": 1853
+        }
+      ]
+    },
+    {
+      "end": 34129,
+      "excerpt": "[00:31:02] Itamar Novick: Yeah, sure. We recently like a year ago, invested, led around in a company called Intuigence AI. Intuigence creates synthetic agents: an mechanical engineer in electric engineer and other types of synthetic agents engineers that operate in manufacturing facilities, specifically focused on oil and gas as like the first go to market, but then expanding into any manufacturing facility.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 33718,
+      "timestamps": [
+        {
+          "offset": 33718,
+          "raw": "[00:31:02]",
+          "seconds": 1862
+        }
+      ]
+    },
+    {
+      "end": 34537,
+      "excerpt": "[00:31:26] So if somebody on the ground is operating in oil facility and they're like, oh, how did this machinery now it has it's spinning out errors. I need a subject matter expertise who's not on site to actually help me diagnose root cause analysis. This is a company that was recently announced that, innovation endeavors one of the leading BC firms in Silicon Valley has led a series A round after us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34131,
+      "timestamps": [
+        {
+          "offset": 34131,
+          "raw": "[00:31:26]",
+          "seconds": 1886
+        }
+      ]
+    },
+    {
+      "end": 36003,
+      "excerpt": "[00:31:49] The founder, Mo, he's exceptional. He used to be the general manager who ran this business at Microsoft, so he knows all the customers inside out, he built significant businesses for them. And then he was also one of the leaders around AI products in Samsung and other corporates. So he has a very deep understanding of both this kind of niche or vertical. And at the same time really understands AI inside out as an engineer and data scientist. So that kind of really checked the checkbox on, we got a person who's starting our experts. He formed a team around him that really helped him with any blind spots that he had around go to market or on building the product technically and so on and so forth. It was very impressive and obviously validated the size of the opportunity, like I mentioned. But the mode here was really interesting because what's happening in those kind of environments and settings is that there's a lot of first party data logs and events and triages who are all being recorded as data points, but that data stage siloed. It doesn't get unlocked so that AI applications could use these data points. It stays at the facilities. And one of the things that this thing does is it's extremely good. It's sucking in all the data from all the way from hardware sensors to different ERP systems to understand what's going on, creating this unified view of data that is then being fed to agents and models to really solve this problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34539,
+      "timestamps": [
+        {
+          "offset": 34539,
+          "raw": "[00:31:49]",
+          "seconds": 1909
+        }
+      ]
+    },
+    {
+      "end": 36372,
+      "excerpt": "[00:33:22] So in that sense if company n plus one tries to enter the space, they will be hard pressed to build agents that are effective with that data. And related to that, what the company does is they're really good at creating what's called API D, which is basically mapping the entire manufacturing facility, all the connections, all the hardware, all the parts.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36005,
+      "timestamps": [
+        {
+          "offset": 36005,
+          "raw": "[00:33:22]",
+          "seconds": 2002
+        }
+      ]
+    },
+    {
+      "end": 36906,
+      "excerpt": "[00:33:43] That's the starting point. That serves as a guiding map for the agents to work. And they've done that very effectively in a very unique way. It's a hard thing to build. So we definitely saw what the moat was. One of my venture partners, Konstantin Othmer who's, the best angel investor I've ever met. The guy invested in Tesla before Elon Musk, has been a long time friend of the founder Mo. He helped work for the diligence and we ended up leaving the pre-seed round there and hopefully that one is off to the races now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36374,
+      "timestamps": [
+        {
+          "offset": 36374,
+          "raw": "[00:33:43]",
+          "seconds": 2023
+        }
+      ]
+    },
+    {
+      "end": 37008,
+      "excerpt": "[00:34:13] Gopi Rangan: Moe Tanabian the founder and CEO of Intuigence, he was a very senior leader.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 36908,
+      "timestamps": [
+        {
+          "offset": 36908,
+          "raw": "[00:34:13]",
+          "seconds": 2053
+        }
+      ]
+    },
+    {
+      "end": 37371,
+      "excerpt": "[00:34:17] He was a vice president at Microsoft managing industrial software. Prior to that, he was a corporate VP at Samsung, so he's been around the block and he is very experienced. Do you prefer founders with a lot of domain experience, a lot of leadership skills, is that your style? Is that something that you get biased and prefer those type of founders?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37010,
+      "timestamps": [
+        {
+          "offset": 37010,
+          "raw": "[00:34:17]",
+          "seconds": 2057
+        }
+      ]
+    },
+    {
+      "end": 37713,
+      "excerpt": "[00:34:39] Itamar Novick: I mean, it's probably fair to say yes and the data also indicates the same. Two thirds of our investment in Recursive Ventures three, which is the fund I run now. And we've done 32 investments with this fund so far. So many of them have been with repeat successful serial entrepreneurs, but the other third is not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 37373,
+      "timestamps": [
+        {
+          "offset": 37373,
+          "raw": "[00:34:39]",
+          "seconds": 2079
+        }
+      ]
+    },
+    {
+      "end": 38473,
+      "excerpt": "[00:35:00] So it's not that we rule out, it's just we end up naturally gravitating to founders who have built startups before, because it takes that kind of resilience, like going through building a startup to understand what this means. And we also, especially with B2B, we gravitate toward founders who have significant network in the space that they're going after, they have subject matter expertise, they're well respected because what we see is those folks hit the ground running faster. They have design partners out the bad who they might be their friends. To a certain degree, I don't care because what I wanna see is early traction and fast learning cycles. And if you can get your product out there sooner and learn and evolve, that's how you win.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37715,
+      "timestamps": [
+        {
+          "offset": 37715,
+          "raw": "[00:35:00]",
+          "seconds": 2100
+        }
+      ]
+    },
+    {
+      "end": 38737,
+      "excerpt": "[00:35:42] A lot of it is around velocity. So we have seen that repeat experienced entrepreneurs can build that velocity faster, and it's fair to say that we gravitate toward them, but it's not only what we do. We also back first time founders in their twenties.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38475,
+      "timestamps": [
+        {
+          "offset": 38475,
+          "raw": "[00:35:42]",
+          "seconds": 2142
+        }
+      ]
+    },
+    {
+      "end": 38835,
+      "excerpt": "[00:35:55] Gopi Rangan: You invest in about 10 companies a year. How many companies do you meet?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 38739,
+      "timestamps": [
+        {
+          "offset": 38739,
+          "raw": "[00:35:55]",
+          "seconds": 2155
+        }
+      ]
+    },
+    {
+      "end": 39214,
+      "excerpt": "[00:36:00] You probably say no quite often. What's your most common reason to say no beyond this is not a venture fundable company or obvious no because it doesn't fit your scope. But once you get interested, maybe the first meeting happens and you are somewhat interested, but then you say no later, after the second or third meeting, what's your most common reason to say no?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38837,
+      "timestamps": [
+        {
+          "offset": 38837,
+          "raw": "[00:36:00]",
+          "seconds": 2160
+        }
+      ]
+    },
+    {
+      "end": 39256,
+      "excerpt": "[00:36:18] And how often do you do that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39216,
+      "timestamps": [
+        {
+          "offset": 39216,
+          "raw": "[00:36:18]",
+          "seconds": 2178
+        }
+      ]
+    },
+    {
+      "end": 39528,
+      "excerpt": "[00:36:20] Itamar Novick: So let's start with the numbers because the numbers are staggering. We get three to five qualified leads a day, including on weekends. And remember, qualified leads is from somebody we know and it's pre-seed and it's data, like it's just a lot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 39258,
+      "timestamps": [
+        {
+          "offset": 39258,
+          "raw": "[00:36:20]",
+          "seconds": 2180
+        }
+      ]
+    },
+    {
+      "end": 39890,
+      "excerpt": "[00:36:35] That's a thousand companies. Yeah, easy. I work 12 hours a day. But we're very heavily filtering them at the lead stage because of, obviously we can't talk to all of them, even though we wanted to. We really wanna, but we just can't. And that translates itself to me and my team taking somewhere between five to seven calls a day with entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39530,
+      "timestamps": [
+        {
+          "offset": 39530,
+          "raw": "[00:36:35]",
+          "seconds": 2195
+        }
+      ]
+    },
+    {
+      "end": 40244,
+      "excerpt": "[00:36:58] Many of them are first meetings, but some of them are also second and third and fifth meetings. So it's a lot of companies and out of the thousand companies a year or more, probably more like 1200, 1300. We invest in 10 a year. So that gives you the ratio. At least, it's lower than 1% of everything that we see that's again qualified. Okay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39892,
+      "timestamps": [
+        {
+          "offset": 39892,
+          "raw": "[00:36:58]",
+          "seconds": 2218
+        }
+      ]
+    },
+    {
+      "end": 41203,
+      "excerpt": "[00:37:21] So the founders, and TAM tend to be some of the top three, four reasons why we say no. I'd say the other reasons are we don't believe you're differentiated enough or have a significant enough moat. So that's the third big criteria that we have. We know there's a business, but we don't necessarily feel they can go all the way. So we explain that to founders, like what, where we think the gap is. And the fourth one I would say is the competitive landscape. We sometimes spend time on things like cybersecurity. For example. You look at cybersecurity, which is obviously a very promising and high value generating space, but if you try to look at something like AI Agent Cybersecurity, you're gonna come up with 500 companies, and each one of them is backed by a mega fund. Sometimes when we feel that something is just way overcrowded, we would just take a step back and say, okay, we don't know enough, so we don't wanna make stupid bets here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40246,
+      "timestamps": [
+        {
+          "offset": 40246,
+          "raw": "[00:37:21]",
+          "seconds": 2241
+        }
+      ]
+    },
+    {
+      "end": 41839,
+      "excerpt": "[00:38:13] I think the last reason, if I wanna round up to five that we say no, and this is not an excuse, it's genuine, is that we don't feel that we can add enough value to this thing. Like we don't know enough about the space. We don't know customers. We don't know if we can help the founders fundraise, which is a lot of what we do is help them get more capital. Maybe we don't have the right relationships with the right gps in firms here on Sand Road San Francisco to make this happen. So we're saying, yeah. We can put money into this, but if we just put money and we are not value add, we might as well just take a step back.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41205,
+      "timestamps": [
+        {
+          "offset": 41205,
+          "raw": "[00:38:13]",
+          "seconds": 2293
+        }
+      ]
+    },
+    {
+      "end": 42102,
+      "excerpt": "[00:38:48] Gopi Rangan: That's a very interesting, question to ask, how can I help? And am I the right person to help? And I sometimes ask the question upfront because if I can't help the founder in a unique way, then no, I don't deserve to be on the cap table.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 41841,
+      "timestamps": [
+        {
+          "offset": 41841,
+          "raw": "[00:38:48]",
+          "seconds": 2328
+        }
+      ]
+    },
+    {
+      "end": 42401,
+      "excerpt": "[00:39:01] Maybe the founder should get someone else to invest who can be directly helpful to the founder and the company. This is very interesting. You've shared some really specific examples and you've shared honestly your thought process on how you make decisions. This is super, super helpful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42104,
+      "timestamps": [
+        {
+          "offset": 42104,
+          "raw": "[00:39:01]",
+          "seconds": 2341
+        }
+      ]
+    },
+    {
+      "end": 42587,
+      "excerpt": "[00:39:15] We're coming towards the end of our conversation and I wanna ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42403,
+      "timestamps": [
+        {
+          "offset": 42403,
+          "raw": "[00:39:15]",
+          "seconds": 2355
+        }
+      ]
+    },
+    {
+      "end": 42746,
+      "excerpt": "[00:39:24] Itamar Novick: This is more of a personal thing. Without getting into politics, we try to support as much as we can ADL and anti-Semitic training.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 42589,
+      "timestamps": [
+        {
+          "offset": 42589,
+          "raw": "[00:39:24]",
+          "seconds": 2364
+        }
+      ]
+    },
+    {
+      "end": 43046,
+      "excerpt": "[00:39:32] Being Israeli and Jewish in this country now with kids going to public schools doesn't always feel like the best thing these days. Obviously there is a difference between, being Jewish in this country and supporting a government that you know is probably doing very controversial things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42748,
+      "timestamps": [
+        {
+          "offset": 42748,
+          "raw": "[00:39:32]",
+          "seconds": 2372
+        }
+      ]
+    },
+    {
+      "end": 43222,
+      "excerpt": "[00:39:51] And I think often people skip the difference between those things and that could be hurting, and divisive. So currently a lot of our focus is finding antisemitism.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43048,
+      "timestamps": [
+        {
+          "offset": 43048,
+          "raw": "[00:39:51]",
+          "seconds": 2391
+        }
+      ]
+    },
+    {
+      "end": 43512,
+      "excerpt": "[00:40:03] Gopi Rangan: Itamar, thank you very much for spending time with me. Thank you for sharing candid thoughts on how you make investments. I feel like I got an insider view of how Recursive Ventures works. I look forward to sharing your nuggets of wisdom with the world. Thank you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 43224,
+      "timestamps": [
+        {
+          "offset": 43224,
+          "raw": "[00:40:03]",
+          "seconds": 2403
+        }
+      ]
+    },
+    {
+      "end": 43686,
+      "excerpt": "[00:40:17] Itamar Novick: Thank you so much for having me. Really enjoyed this one, and I hope we have more opportunities to chat and work together with you as an investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Itamar Novick",
+      "start": 43514,
+      "timestamps": [
+        {
+          "offset": 43514,
+          "raw": "[00:40:17]",
+          "seconds": 2417
+        }
+      ]
+    },
+    {
+      "end": 43732,
+      "excerpt": "[00:40:25] Gopi Rangan: That would be great.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 43688,
+      "timestamps": [
+        {
+          "offset": 43688,
+          "raw": "[00:40:25]",
+          "seconds": 2425
+        }
+      ]
+    },
+    {
+      "end": 44100,
+      "excerpt": "[00:40:26] Thank you, Itamar. Thanks. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43734,
+      "timestamps": [
+        {
+          "offset": 43734,
+          "raw": "[00:40:26]",
+          "seconds": 2426
+        }
+      ]
+    }
+  ],
+  "source_sha256": "aa68a4c8aaffec5cdbb13edd1b24d1f9da79347f2f04ef4ecb9d058e7dc2cfa0",
+  "text_sha256": "1615248f8e7d9cf70b6f527ab5ef1d5db4cdc847cd6cf60e78b985837b0c8e8e"
+}

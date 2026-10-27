@@ -1,0 +1,665 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 172,
+      "excerpt": "David Forsberg: I think venture is overwhelmingly clubby. It's the most clubby asset class there is out there, more so than I ever expected, and that makes it very insular.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 421,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur. A podcast for founders with ambitious ideas, venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 174,
+      "timestamps": []
+    },
+    {
+      "end": 625,
+      "excerpt": "Gopi Rangan: Welcome to The Sure Shot Entrepreneur. I'm with David Forsberg. He's the Managing Partner at Ascent Energy Ventures. Ascent Energy Ventures is a Denver, Colorado-based venture capital firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 423,
+      "timestamps": []
+    },
+    {
+      "end": 773,
+      "excerpt": "Let's talk to him about his investment background and the specific types of companies he invests in. David, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 627,
+      "timestamps": []
+    },
+    {
+      "end": 808,
+      "excerpt": "David Forsberg: Great to be here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 775,
+      "timestamps": []
+    },
+    {
+      "end": 899,
+      "excerpt": "Gopi Rangan: Tell us about yourself, starting with how did you enter the investing world?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 810,
+      "timestamps": []
+    },
+    {
+      "end": 1037,
+      "excerpt": "David Forsberg: My family was in investments (my stepfather). And so I began at a young age attending public equity type of conferences.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 901,
+      "timestamps": []
+    },
+    {
+      "end": 1439,
+      "excerpt": "I grew up in the space, but I didn't want to be an investor originally. I wanted to be more of a history professor. After college, I slowly migrated towards the investment industry and got a lot of traction in it. I met a guy at a college football game. They ran a hedge fund. I just serendipitously ran into running a portfolio of long/short U.S. equities fairly quickly out of school in about 2005.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1039,
+      "timestamps": []
+    },
+    {
+      "end": 1835,
+      "excerpt": "Again, serendipitously one of the partners started working for a well-known investor and fascinating guy named Joe Ritchie. He ran the largest options trading firm in the world called Chicago Research and Trading. I then moved to Chicago and started working with him where we created, as a firm, execution algorithms for U.S. equity markets that were often white-labeled by most of Wall Street.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1441,
+      "timestamps": []
+    },
+    {
+      "end": 2106,
+      "excerpt": "In 2006, we said, “Hey, we're pretty good at doing execution algorithms. Let’s build some investment algorithms.” We ran about a hundred million long/short from 2006 through the financial crisis into 2013. That's where I got my start and it just has evolved from there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1837,
+      "timestamps": []
+    },
+    {
+      "end": 2224,
+      "excerpt": "Gopi Rangan: How is Ascent different from other venture capital firms?  What do you focus on? What's the philosophy?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2108,
+      "timestamps": []
+    },
+    {
+      "end": 3064,
+      "excerpt": "David Forsberg: Sure. Well, I didn't just come to venture just randomly. I looked at the asset classes and felt that there was an opportunity in venture, which I'm happy to go into as far as asset class characteristics, and then I'm heavily thesis-driven. I realized that the trend that I think will dominate the rest of my lifetime is that trend of automation. One of the better places to participate in that is in venture. I felt or still believe that the energy sector is the least digitally advanced sector out there. It has an urgent need to develop more automation and digital processes. Combining my background, which I thought was fairly unique and automating financial markets and thinking systematically to the energy sector. So that's how Ascent came to be. We're investing in the digital transformation of the energy industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 2226,
+      "timestamps": []
+    },
+    {
+      "end": 3411,
+      "excerpt": "Gopi Rangan: Unlike many other venture capital investors. You have a broad view on public markets, private markets. Most VCs come from the tech world. So you have a really good understanding of what these asset classes are and how the venture asset class fits into the ecosystem. Can you give your perspective on how you look at venture capital?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3066,
+      "timestamps": []
+    },
+    {
+      "end": 3589,
+      "excerpt": "David Forsberg: As an asset class, there are some great data from Cambridge and others that show that venture has huge dispersion of return, much more than other asset classes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 3413,
+      "timestamps": []
+    },
+    {
+      "end": 3945,
+      "excerpt": "It has a mean return that is higher and its lowest returns tend to be in line with other asset classes and then its highest return, the highest quarterly, the distribution, it is far superior to almost every single asset class. There's a great concept called the paradox of skill. And it's in a great book called The Success Equation as well as an essay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3591,
+      "timestamps": []
+    },
+    {
+      "end": 4589,
+      "excerpt": "Basically, the general premise is: as the skill of participants in any activity increases on average, the range of outcomes decreases, and luck or randomness starts to play a more material role in our outcomes. So if you use the dispersion of returns as a proxy for the skill of players- which there's a lot to be said there- then the best place to apply alpha or to apply investment skill is where that range is the highest. That happens to be venture. The lowest range tends to be in government bonds or the bonds and then public markets. So that's one attribution of venture that is very appealing from a general investor looking to apply.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3947,
+      "timestamps": []
+    },
+    {
+      "end": 4735,
+      "excerpt": "Gopi Rangan: This is a very educational way of understanding how venture capital fits into the broader asset classes. Thanks for that education.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4591,
+      "timestamps": []
+    },
+    {
+      "end": 4847,
+      "excerpt": " Tell me what types of investments you like to focus on. What are the kinds of startups you like to invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4737,
+      "timestamps": []
+    },
+    {
+      "end": 5028,
+      "excerpt": "David Forsberg: Yeah. We're a vertical-focused and thesis-driven fund. So it is a filter. The first filter is, are you deriving a majority of revenues targeting the energy sector?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 4849,
+      "timestamps": []
+    },
+    {
+      "end": 5650,
+      "excerpt": "That can be the traditional energy sector, which is hydrocarbon-based right now, or the next-gen energy sector, which is still somewhat uncertain, but solar, wind as the infrastructure that is being built out today or the water-energy nexus. So, we focus on those verticals. The other is we tend to want to be asset-light. There is a bifurcation in the nexus sector, which is what I'll call engineering tech, which tends to be things that are physical downhole technologies - new blades for a wind farm, those types of things. Those are better suited to other venture firms or corporate venture groups or private equity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5030,
+      "timestamps": []
+    },
+    {
+      "end": 5902,
+      "excerpt": "We focus on that digital side, which does have a light hardware component in terms of data gathering and dirty places. So clean data in dirty places can be SCADA or IoT. Those tend to be hardware, but then it goes very quickly to software from there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5652,
+      "timestamps": []
+    },
+    {
+      "end": 6073,
+      "excerpt": "Gopi Rangan: Energy is a tricky sector. If I'm looking at it from an entrepreneur's perspective, there was a wave of interest about 15 years ago in the cleantech sector.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5904,
+      "timestamps": []
+    },
+    {
+      "end": 6229,
+      "excerpt": "And then it faded away. Not a lot of investors focus on the sector. What has changed in the recent past, and what's more favorable to entrepreneurs today?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6075,
+      "timestamps": []
+    },
+    {
+      "end": 6414,
+      "excerpt": "David Forsberg: Yeah. There's a great MIT working paper that looked back on 2006 to 2016 - that era of cleantech and even Peter Thiel addresses this at length in the Zero to One book.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 6231,
+      "timestamps": []
+    },
+    {
+      "end": 6733,
+      "excerpt": "There were a lot of mistakes that were made over that period of time that in many ways we're being repeated again. We, as human beings, tend to forget things fairly quickly. The only subcategory of that era that returned any capital was the digital or software category. And so that's where we're exclusively focused.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6416,
+      "timestamps": []
+    },
+    {
+      "end": 7010,
+      "excerpt": "We're not exclusively focused on cleantech or next-gen energy as I like to call it. We are interested in the existing infrastructure because we believe that a transition of primary energy source takes a long time. So you have to work with the existing infrastructure as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6735,
+      "timestamps": []
+    },
+    {
+      "end": 7349,
+      "excerpt": "For entrepreneurs entering this space, it is an incredibly complex industry. If you don't have any experience in it, it becomes very difficult to successfully address the issues that the industry has and successfully market or sell to the industry. This is another problem that people have had in the past. They see the industry as dumb.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7012,
+      "timestamps": []
+    },
+    {
+      "end": 7695,
+      "excerpt": "And it's not. It's as sophisticated as NASA. It's a very intelligent group of individuals. That attitude has hindered some adoption from traditional Silicon Valley players. The other issue is that it's also boring. It's not as exciting as SpaceX, which is complicated and exciting. That causes a lot of people to ignore the industry in general.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7351,
+      "timestamps": []
+    },
+    {
+      "end": 7948,
+      "excerpt": "Gopi Rangan: It is a complicated industry indeed. What do you ask in the first couple of meetings? Can you give some examples of startups that you've interacted with or invested in? What questions do you ask them? What information are you looking for?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7697,
+      "timestamps": []
+    },
+    {
+      "end": 8354,
+      "excerpt": "David Forsberg: It tends to depend on the company at hand, but I like to understand what the problem is that they're addressing. That's a real key component here. How did you get to understand that problem, and why is it a big problem for you to solve? I like to understand the background of the founders. There are rules of thumb with team and team is what most venture firms will say is most important.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 7950,
+      "timestamps": []
+    },
+    {
+      "end": 8389,
+      "excerpt": "Gopi Rangan: Everybody says that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8356,
+      "timestamps": []
+    },
+    {
+      "end": 8691,
+      "excerpt": "David Forsberg: Yeah. The problem with that, I do think it's the most important, but I think it's the most difficult to judge accurately and most people fail to judge the teams accurately and people are non-stationary. I do believe that they change over time. It's important, but difficult to assess.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 8391,
+      "timestamps": []
+    },
+    {
+      "end": 9231,
+      "excerpt": "So it actually moves far lower on my list of things just because of that component. I like to look at the data and try to figure out where this product is. How can it grow? What is technology? What does the marketplace look like? What is the adoption going to be? How are you going to get to market? How are you going to distribute this product? What is the timing of that? Because things tend to take a lot longer than people even realize, especially in this industry. So those are some of the issues that I'm looking at from the get-go.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8693,
+      "timestamps": []
+    },
+    {
+      "end": 9329,
+      "excerpt": "Gopi Rangan: This is getting exciting. I want to double-click and go to the next level on this. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9233,
+      "timestamps": []
+    },
+    {
+      "end": 9332,
+      "excerpt": " ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9331,
+      "timestamps": []
+    },
+    {
+      "end": 9716,
+      "excerpt": "David Forsberg: The problem is important. The team is important. The details on how you want to build a business are important, but within the space that you are looking at, are there certain hints that really appeal to you and you say, wow, that's fantastic. And I really want to take a look at this in more detail when I'm learning something. I had no idea that XYZ was a problem.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 9334,
+      "timestamps": []
+    },
+    {
+      "end": 9812,
+      "excerpt": "Gopi Rangan: It clearly is a big problem. I'm very interested in it. Can you give an example? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9718,
+      "timestamps": []
+    },
+    {
+      "end": 10344,
+      "excerpt": "David Forsberg: Yeah, there's a company that I don't think that I'll be investing in, but I may, it doesn't necessarily fit my thesis, but I followed them for years and the world of them. They are fixing mass spectrometry. That's something that I had no idea there was a problem in. It is a very exciting solution. It is taking things that are not necessarily proprietary, but taking things off the shelf and putting it in a whole different configuration that opens up a whole different world for gathering mass spectrometry data.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 9814,
+      "timestamps": []
+    },
+    {
+      "end": 10573,
+      "excerpt": "And I didn't even know there was a solution that could possibly be had there. Another company that we are invested in, or we'll be here hopefully by the end of the week, and they are going after legacy SCADA systems that exist.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10346,
+      "timestamps": []
+    },
+    {
+      "end": 11331,
+      "excerpt": "For those who don't know, SCADA is not only industrial IoT but also allows you to have control functions. So you're not just gathering the data. You're also doing certain control functions with it. Think Homer Simpson at the nuclear plant. And I just didn't know that there was really very many problems there. I figured the hardware solutions offered by the big companies, such as Honeywell or Weatherford or any major industrial tech company we're probably adequate. To realize that there's actually a problem there that can scale and be applied throughout the industry is an exciting bit of information that no one's paying attention to that most of the world doesn't know. I didn't even know what the differences between SCADA and IoT were at the time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10575,
+      "timestamps": []
+    },
+    {
+      "end": 11514,
+      "excerpt": "Gopi Rangan: You're giving some examples based on real-life transactions you are working on right now. That's fascinating. What is exciting in this space? Why is SCADA so important?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11333,
+      "timestamps": []
+    },
+    {
+      "end": 11641,
+      "excerpt": "David Forsberg: In order to engage in a digital transformation, you have to start by building out the digital infrastructure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 11516,
+      "timestamps": []
+    },
+    {
+      "end": 12152,
+      "excerpt": "Unlike, say, Wall Street, where the stock prices are coming to you already in a digital feed, it's just fairly easy, and even then we had issues. But in real-life applications, the gathering of clean data in dirty places is a core piece of how you can then start applying data-driven decisions and eventually making automated decisions and the big problem that everybody has made in the last five years or the mistake they've made is they wanted to start far later on that process and just go right into soft.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11643,
+      "timestamps": []
+    },
+    {
+      "end": 12681,
+      "excerpt": "I understand the draw to that, but the reality is you have to start in data gathering, and then cleaning up and processing that data. After you've done that, you've got to start determining how you're going to apply that data and to what entities. And you have to start analyzing data, applying software to that data and different data feeds. Then you can start making data-driven decisions and you can start tracking those results and maybe then begin automating processes. But if you start with cruddy data, junk in junk out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12154,
+      "timestamps": []
+    },
+    {
+      "end": 12744,
+      "excerpt": "Gopi Rangan: We are geeking out on details here, this is fun.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12683,
+      "timestamps": []
+    },
+    {
+      "end": 13084,
+      "excerpt": "What mistakes do entrepreneurs make, typically? What are some tips you would like to give them so they can be better prepared? In terms of fundraising, how to approach investors when they're grappling with such complicated information that no one really understands. How can they make it easier for investors to understand their business?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12746,
+      "timestamps": []
+    },
+    {
+      "end": 14168,
+      "excerpt": "David Forsberg: Yeah, you should start by assuming investors are not very smart on what you're talking about. That probably applies in a bigger sense too, but I'll narrow it down to what you're talking about as a founder. You live and breathe the idea that you have and nobody else does. Communicating that effectively by not skipping over basic pieces that you've known for years, even someone like me, who's a sector-focused fund who lives and breathes energy tech, there are components that I just don't know. So you should treat us somewhat as if we don't know and really be clear and concise about what it is you're addressing and going after. And part of being clear and concise is also having a very detailed data room or pieces of information that support the statements that you're making. Far too frequently people approach fundraising in a discombobulated manner and you really only get one shot to tell your story to anybody. It needs to be really well-organized. And the next step is, okay, you have a data room. If that's not organized, then I get bored and I move on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 13086,
+      "timestamps": []
+    },
+    {
+      "end": 14480,
+      "excerpt": "The other piece is you need to be persistent and constantly bug venture people. Even the best of us, just forget things. There are new shiny objects that we look at and we maybe forget to go into detail about the data room or, yeah, that was an exciting conversation just because we've had two more since then.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14170,
+      "timestamps": []
+    },
+    {
+      "end": 14771,
+      "excerpt": " Persistence in all things sales is a key component. I also think that the founders often think that raising venture capital money is a sign of success and that's wrong. One, most companies are not venture-backable. They don't have the growth profile that is needed to make economic sense.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14482,
+      "timestamps": []
+    },
+    {
+      "end": 15126,
+      "excerpt": "Although many of those are still getting funded in this environment. I like to think that when selling a piece of your company, you only have a hundred percent. Every percent you sell or give away to employees or whatever has real consequences down the road. Some of the best companies are those that don't actually seek venture funding or seek it much.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14773,
+      "timestamps": []
+    },
+    {
+      "end": 15589,
+      "excerpt": "Gopi Rangan: You mentioned four important things: being clear and concise; don't handwave; have a data room that proves the model of your business; be persistent - have that salesmanship; and, venture capital may not be the right thing for all businesses. So it's okay to pass on VCs. If you do take venture capital, it's not necessarily a sign of success. That's actually when the race starts. You just got entry into this hypergrowth race to build a business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15128,
+      "timestamps": []
+    },
+    {
+      "end": 15741,
+      "excerpt": "Is there a startup that has done well in making this easy for you, being clear and concise and having the right kind of data and they were persistent?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15591,
+      "timestamps": []
+    },
+    {
+      "end": 16063,
+      "excerpt": "David Forsberg: Yeah. They usually have a fairly short deck that articulates what's going on and what the solution is and what the team is. And you can Google what a concise deck should look like for raising venture capital. There are no insights there. The next is they then had a very deliberate process that they ran.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 15743,
+      "timestamps": []
+    },
+    {
+      "end": 16228,
+      "excerpt": "I'm thinking of a very particular startup and they actually came out of an incubator, and they had a very quick 15-minute pitch deck that had very few words on it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16065,
+      "timestamps": []
+    },
+    {
+      "end": 16628,
+      "excerpt": "That's another component, fewer words, more pictures. We like picture books as VCs, not reading books. The purpose of that first meeting was to have a second meeting. That second meeting occurred and it was a much longer depth with more details about the technology and diving in. From there, we have this set of information that we would like to share, and that got to the third meeting and so on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16230,
+      "timestamps": []
+    },
+    {
+      "end": 17081,
+      "excerpt": "We will probably invest in them. We're working out some things right now. The other piece too is, this pains me to say, but venture is a club and there's so much uncertainty in making an investment decision. That feeling comfortable with other people, other venture capital firms around you saying: hey, we're going to invest too. Most venture firms, whether they admit it or not, will be drawn to an investment that has other venture firms around it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16630,
+      "timestamps": []
+    },
+    {
+      "end": 17183,
+      "excerpt": "Gopi Rangan: Can you also pick an example of a startup that you previously closed the investment in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17083,
+      "timestamps": []
+    },
+    {
+      "end": 17272,
+      "excerpt": "David Forsberg: Yeah, there's one that we just closed is called Endurance Energy Group.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 17185,
+      "timestamps": []
+    },
+    {
+      "end": 17460,
+      "excerpt": "Gopi Rangan: Perfect. How did they manage their message and how did they keep it clear and concise? Was there information in the data room clear to you? How did that support their story?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17274,
+      "timestamps": []
+    },
+    {
+      "end": 17777,
+      "excerpt": "David Forsberg: Yeah. Endurance Energy Group is a company that is creating planning software and scheduling software for predominantly right now the oil and gas industry, but it will then convert and do some exciting things with the really nascent market, which is solar and wind, and other infrastructure projects.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 17462,
+      "timestamps": []
+    },
+    {
+      "end": 18500,
+      "excerpt": "They have a wonderful display for geospatial displaying information. The founder has a great founder story. He has a background in oil and gas from a finance perspective. He identified a pain point that he had experienced throughout most of his career. And he decided to move forward to try and solve the pain point. They have a very unique product that's going after legacy software. I followed them and followed the founder for probably four years now in different capacities. And they have kept in touch. They have kept me up to date on any updates. He routinely sends me information. Prior to closing on the investment, he would routinely send me information on a weekly basis almost whenever there was a development.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17779,
+      "timestamps": []
+    },
+    {
+      "end": 18750,
+      "excerpt": "And so that way we could really firmly establish not just data points but also trajectory and those types of things. But I know the software inside now, as a result. I know what the marketplace is saying as a result of their constant communication.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18502,
+      "timestamps": []
+    },
+    {
+      "end": 19067,
+      "excerpt": "Gopi Rangan: This is a really good example of how a founder was persistent and that gives you familiarity with the business and there's some consistent information coming from them. So you can learn what the business is really about over some period of time. That's a good practice for many entrepreneurs to follow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18752,
+      "timestamps": []
+    },
+    {
+      "end": 19429,
+      "excerpt": "David Forsberg: Yeah, let's be clear too. It's a problem that I didn't know existed. I would look at the landscape and say, there's existing legacy software that dominates the space. It's owned by a private equity firm. That's collecting its dividend from the existing company. Why would we go after that space? So really articulating that was a key component.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 19069,
+      "timestamps": []
+    },
+    {
+      "end": 19512,
+      "excerpt": "Gopi Rangan: What one common mistake that entrepreneurs make that frustrates you?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19431,
+      "timestamps": []
+    },
+    {
+      "end": 19943,
+      "excerpt": "David Forsberg: I get bombarded every day as all venture firms do from people who are just sending out blanket emails. I got one today that's from a healthcare tech startup. Well, there's nothing in any sort of database or anything that shows that I would be interested in the healthcare tech startup as far as I know. These blanket emails, they're not helpful. They're annoying. And they rarely go anywhere from my perspective. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 19514,
+      "timestamps": []
+    },
+    {
+      "end": 20492,
+      "excerpt": "If that person had said, \"Hey, I know you're in energy tech, but do you know anybody in healthcare tech?\" I might be able to forward it to a couple of different people and help them out, but I'm not interested in doing that if I know that it's just some blanket email that's being sent to 10,000 people. I'm not sure, maybe that does produce something because you're getting so many numbers, but I'm not sure that it really helps with fundraising. Be specific and targeted and strategic about who you're going after from a fundraising perspective.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19945,
+      "timestamps": []
+    },
+    {
+      "end": 21212,
+      "excerpt": "Gopi Rangan: That is quite challenging. I get a lot of emails like that as well. Cold emails have a very low conversion for entrepreneurs because so many entrepreneurs send such messages to randomly all kinds of investors. So it's very difficult to find that gem in the ruff when a real good email shows up. Most investors begin to rely on warm introductions from people they trust instead of just chasing cold emails that landed in their inbox. So that is a big challenge. I still haven't figured out a solution to that. I'm sure there are some good entrepreneurs that are good fits for me, but I don't know how to sift through the stack of emails and inbound messages to find that one thing that would be a good fit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20494,
+      "timestamps": []
+    },
+    {
+      "end": 21523,
+      "excerpt": "David Forsberg: Yeah, let me be clear here. If you are a founder and energy tech and you want to send me a cold email, I will read it and I will likely respond to you. That's one way to generate unique deal flow is to be open to all kinds of information that's coming in. And venture is overwhelmingly clubby.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 21214,
+      "timestamps": []
+    },
+    {
+      "end": 21891,
+      "excerpt": "It's the most clubby asset class there is out there, more than I ever expected. And that makes it very insular. It's very difficult for people who aren't part of the country club or don't know people who are part of the country club but maybe have good ideas, to get traction in this space. And that's a huge problem in this asset class that I would like to address.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21525,
+      "timestamps": []
+    },
+    {
+      "end": 22214,
+      "excerpt": "Gopi Rangan: You've observed venture from the outside as a public market investor and now you've been in venture capital for a few years. You've been a limited partner in many venture funds. How can venture changed to make the asset class better? If you were given a magic wand to change one thing, what would you change?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21893,
+      "timestamps": []
+    },
+    {
+      "end": 22672,
+      "excerpt": "David Forsberg: Venture as an asset class is going to become more systematic and the processes that it uses are very cottage right now. It's where the public markets were 30 years ago. The biggest disruption to the public markets has been more systematic and almost quantitative processes. So that's coming. And, by definition, it opens up and reduces the clubbiness of the asset class as a whole. And it reduces the brand name signaling that exists today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 22216,
+      "timestamps": []
+    },
+    {
+      "end": 23033,
+      "excerpt": "Gopi Rangan: Yeah, 30 years ago in the public market there were active managers, but a lot of the processes were not well-defined. Now we have ETFs and robo-advisors, which have replaced a lot of the manual work. And it's become very streamlined. Data is used to make decisions. And that's not the case today in venture. We're moving in that direction slowly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22674,
+      "timestamps": []
+    },
+    {
+      "end": 23306,
+      "excerpt": "David Forsberg: You're seeing it with Angel's list and others who for better or worse and Carta and other ultra-modern, back-office things that are coming together to make it a more streamlined process. You see it with Safe Notes from Y Combinator, more standardization. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 23035,
+      "timestamps": []
+    },
+    {
+      "end": 23479,
+      "excerpt": "And if you look around in the last five years, who's disrupting venture as an asset class the most? I could argue that it's people who are coming from other asset classes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23308,
+      "timestamps": []
+    },
+    {
+      "end": 23507,
+      "excerpt": "Gopi Rangan: That is true.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23481,
+      "timestamps": []
+    },
+    {
+      "end": 23668,
+      "excerpt": "I want to switch to the next part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23509,
+      "timestamps": []
+    },
+    {
+      "end": 24194,
+      "excerpt": "David Forsberg: I am passionate about education, especially at the high school level, and actually jumping all the way down to the pre-kindergarten level. Those are very important times. I participate with a couple of organizations that are focused on that category. One of them happens to be a private school. It's called the Regis Jesuit High School. They do very special things in the community and provide great opportunities for people who otherwise wouldn't have the opportunity to move forward with a great education.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 23670,
+      "timestamps": []
+    },
+    {
+      "end": 24414,
+      "excerpt": "Gopi Rangan: Well, David, thank you very much for spending time with me today and sharing some real-life stories on how you make investments in startups. I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24196,
+      "timestamps": []
+    },
+    {
+      "end": 24464,
+      "excerpt": "David Forsberg: Thank you. It's been a pleasure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "David Forsberg",
+      "start": 24416,
+      "timestamps": []
+    },
+    {
+      "end": 24755,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24466,
+      "timestamps": []
+    },
+    {
+      "end": 24808,
+      "excerpt": "I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24757,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "41bbf57d57725b3b57cbb32128a40189eb75713d1f31339bb22e5660ace4b8e6",
+  "text_sha256": "70e34484faae694e0b655ae609957dab65de6df5f863787d7c9795690813665d"
+}

@@ -1,0 +1,150 @@
+Jacob Haar: If you go too far in the growth direction at the expense of quality, you're going to blow yourself up. And then the equity investors and the credit investors will be unhappy. But if you focus too much on quality and only on risk and not as much on growth, the business won't make sense.
+
+Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. 
+
+Welcome to The Sure Shot Entrepreneur. I'm here with Jacob, co-founder and managing partner at Community Investment Management, a San Francisco-based credit capital provider.
+
+We're going to talk to Jacob about debt capital, and how that has an impact on the mission that he focuses on, which is financial inclusion to promote economic development. 
+
+Jacob, welcome to The Sure Shot Entrepreneur. 
+
+Jacob Haar: Thank you. Gopi. It's great to be here with you all. 
+
+Gopi Rangan: Tell us about yourself, starting with your entry into the credit market. How did that happen? 
+
+Jacob Haar: Well, I definitely took a non-traditional route into credit investing and into FinTech investing. I spent a number of years in the Middle East and in Asia studying medievals on the history and language, et cetera. And then I ended up after graduate school wanting to do more in terms of international development, human rights work.
+
+I found myself in Azerbaijan, working with refugees and the caucuses that were in need of capital. And I was working for a global non-profit Save the Children that had an economic opportunities program that would actually lend small microloans to refugees that were in a challenging situation, because often they had no credit score, very little in terms of collateral, and were trying to make a life for themselves and build a business, but without much access to capital.
+
+It was a great way to think about solving some of the pain points for folks who deserve opportunities and have great capabilities but have not been dealt those opportunities. That is both challenging, but also a great potential opportunity to try to solve some of those problems.
+
+From that experience, I ended up starting a credit strategy in 2005 to finance emerging and frontier market microfinance and SME lenders. And then got very interested as FinTech started to emerge in the U.S; as in the ways that FinTech was more efficiently allowing the underserved to get access to capital.
+
+We started financing many different FinTech companies here in the United States and in emerging and frontier markets at Community Investment Management. 
+
+Gopi Rangan: This is very interesting. You started your career in international finance, made credit your main focus, and eventually, you started a new firm in 2013, Community Investment Management.
+
+But before we dive into that story, I want to talk about credit. Let's talk about where credit fits into the ecosystem. Most startup founders are familiar with equity. They talk to venture capital investors who invest in their companies and get shares for those companies. What kind of companies is a good fit for you?
+
+Jacob Haar: It's a great question, and depends on the type of startup that an entrepreneur may have and maybe engaged in. Most entrepreneurs that are raising venture capital, at some point in their evolution, may have the opportunity to take venture debt. Venture debt essentially extends the runway of a venture capital raise. There are some terrific firms and banks that focus on venture debt. 
+
+What we do at Community Investment Management is a little bit different in that we are focused on innovation lending and how innovative lenders are solving some of the pain points for the underserved. But in order for those lending businesses to be successful or any business that creates receivables, they don't have to be a lending business.
+
+Any capital-intensive business that ultimately has a significant receivable balance on its balance sheet really has three legs of the stool. You have a committed entrepreneur who has a vision, has an idea of how to solve a pain point and needs backing like startups do from venture investors or other angel investors, et cetera, on the equity side. And that allows them to hire a team, go out acquire customers, make a goal of that very early on. But they also then need this third element, which is credit. Credit is important to finance the portfolio of receivables or loans that they will be making. If you think about what's necessary, of course, many early-stage lenders will use equity to fund their loan portfolio, but it's very inefficient once that gets passed to any level of maturity, because ultimately those venture investors are expecting a much higher return than the portfolio will be earning. And so you compliment that and supplement that with credit investing. For any FinTech or lending business that is generating that type of a portfolio fairly early on, you'll want to secure not only venture, but also credit to allow you to grow and demonstrate and scale the strategy you're pursuing.
+
+Gopi Rangan: So, credit plays an important role in the long-term growth of a startup. You explained it, why it's important for the startup, but you also explain from the investor perspective who invests in credit products, why that is important for them and that's very helpful. How is Community Investment Management different from other firms?
+
+What is your philosophy and what do you focus on?
+
+Jacob Haar: Community Investment Management, which I'll refer to as CIM here from time to time. One of the reasons that we set up the firm in 2013 to focus on FinTech opportunities is that we felt that there was a significant gap between banks that are great large-scale providers of capital and fairly affordable capital, but from a safety and soundness perspective, their role in our society is to be conservative. So they are generally not at the cusp of innovation because innovation implies potentially risk and things that are unproven. They tend not to be the best strategic partners from day one, as an entrepreneur is trying to figure things out and that tends to be a winding insecure route. To figure that out, you need someone that's more of a strategic partner. And then, on the other hand, you have what we found to be fairly aggressive hedge funds that are maybe not as aligned with the vision of the founders as they should be. Part of what we bring to the table as a firm is a deep partnership approach, where, "Look, we're aligned on the goals here".
+
+CIM is looking not only to find attractive returns in our investing, but we also really genuinely care about creating social impact and profound social change. And we think that the innovation that founders are pursuing is a key to that because they are often solving these huge pain points. When I look at that landscape, it was like, okay, I can work with an inflexible conservative lender, or I can go work with an investor who's going to be a bit more aggressive, and maybe isn't that aligned on what success looks like. We felt that it was important to have an option for founders where they could get credit to finance their innovation lending and help scale and demonstrate at a relatively early level what they were working on that really shared a common vision and also believed in making the pie bigger and in success together and what that looks like.
+
+And I think that's a real value that I've been really taken aback by how much that resonates with entrepreneurs and founders and how needed in fact that kind of a solution was before we entered the market. 
+
+Gopi Rangan: So you're not just the debt capital provider. You are also looking for a social impact, and I want to talk about your priorities in social impact. Before we go in that direction, I want to talk more about credit. Cost of equity and cost of debt. If we compare the two often that is not available for startups at all. Banks do not want to lend to early-stage startups with a very high risk in the business. So equity is the only choice available. 
+
+When is a good time for a founder to think about debt capital? Is there a stage when it's too early for them too risky, not a good idea to consider, and what stage would be ideal for them to start thinking about it? 
+
+Jacob Haar: Founders should think about it from the perspective of the investor to understand when is the appropriate time and what's the right motivation. So, debt ultimately does not have a lot of margin for error. Equity investing is often at a very early stage investing based on the team, the quality of the idea. You've had some amazing venture investors on your podcast Gopi. They say it much more eloquently than I do about what makes a great venture investor or a great equity investor. When you think about credit though, what makes up credit? you don't essentially take as many shots on goal, get some big wins in essentially. When you're in credit, you need to fundamentally get comfortable that you're not taking equity-like downside risk, but only getting paid a fixed rate of return on the upside.
+
+What that means from an entrepreneur's perspective or from a founder's perspective is if the debt investor potentially is taking similar risks to a venture investor, it's probably too early to take debt. Because you need to create a situation where, in the unlikely event that your startup doesn't work out, that debt provider has a reasonable chance of getting repaid. Because they're not getting the 10 X potential return or greater return of massive success, but they also can't take a big loss, to the extent that things don't go well. Fundamentally, you have to think about how am I providing an opportunity for a debt investor to give me capital so that I can invest in the growth of my business, et cetera, but if things don't work out as splendidly as it was the hope, there's still a way for that debt investor to get repaid. That's what debt investors are going to be laser-focused on. Debt investors are very focused on the downside scenarios. We're very depressed people because we're always thinking about what could go wrong.
+
+We're not as focused on what could go right now. That doesn't mean that you don't see the potential, especially in innovation startups. Of course, you do. And you want to participate and be a great supporter of that innovation. But you have to always, as a debt investor, be thinking about the worst-case scenarios and stress testing your investments to see what the downside looks like.
+
+When you're an entrepreneur or a founder and you're talking to different investors, it's important to think about who you're talking to and how you're talking to them. When you're talking to an equity investor, a lot of it is about the growth opportunity, the total addressable market, your unit economic model, and how you can potentially knock it out of the park.
+
+When you're talking to a credit investor, it's more about making them comfortable that in a variety of different scenarios, they will be able to get repaid their debt investment. 
+
+Gopi Rangan: So, when a startup has sufficient assets, which gives comfort to a lender, even in the worst-case scenario, there is a possibility to recover capital. That's the stage to go to a credit provider.
+
+Jacob Haar: Yeah. And assets take many forms, Gopi. Assets can be cash flow and revenue and it's not that to say that, we're not in the 1970s economy where it's all machinery and real estate. We're in a services economy. And so across the board, what businesses generally have in terms of assets are going to be more customers that are sticky or contracts, et cetera.
+
+So, debt can be appropriate for different ways, but it is really important to know your audience and deploy debt capital in a way that is prudent and appropriate verse the type of risk and downside that your business may face in a variety of different scenarios. 
+
+Gopi Rangan: The network effect of customers and users is definitely an asset. Once that is established, if we take the example of Craigslist, it's been around for a long time and the website still looks like it was designed in 1995, and it doesn't go away, because people like using it and people who use it keep coming back to Craigslist. So some of these assets, once they are built, they're not going to go away, even if they don't modernize for the new versions of the solutions. I can see how you look at it from that perspective. 
+
+Jacob Haar: Yeah, exactly. You would look at, for example, when you're talking about a customer base, you want to understand the churn of that customer base. You want to understand the diversification of your customers. Fundamentally, you have to put it on your risk hat and you have to think about what could go wrong. If I have a big customer, what happens if that customer all of a sudden goes away, or if I have certain products, and there are challenges with that product, or I have supply chain issues, what happens?
+
+It's important when you talk to an equity investor to put your growth hat on. When you talk to a debt investor, you put your risk hat on. And you describe your business, but you understand where the perspective that those two different types of investors come from. 
+
+Gopi Rangan: Risk and growth, two different languages, entrepreneurs need to learn when they talk to investors. What are areas of your investment? What do you focus on? Are there certain sectors/certain types of companies you prefer to invest in? 
+
+Jacob Haar: We have a bias often to SMEs and financing the area of our economy, which is so important. Small business is the backbone of the United States economy, but also, especially in emerging markets, the economies there as well. It provides significant employment, economic growth, et cetera.
+
+And yet small businesses have a very challenging time accessing capital. Part of that is that it's very hard, right? Small businesses are the nexus of consumer and commercial. They've got all the risks of both. And so it's a challenging space, but also a really compelling problem that has to be solved. There are many different innovative companies that are addressing and trying to solve that problem. We've seen in the United States, a variety of companies that have come out to try to address this in various different ways. In the early days of marketplace lending and FinTech, for example, we saw Funding Circle come to the U.S in 2013, 2014, which was one of our partners. And then we've seen many innovative models come off of that. Everything from more recent investments, like a company called Rho that we closed an investment with, and many other folks that are working on solving pain points for small businesses. And we also see that, especially in emerging markets, where emerging markets have 2 billion underserved people. It's where a lot of the growth is. 90% of people under the age of 30 are in emerging markets. When you think about the future and you think about those who really need financial services, emerging markets are so in need and also a great opportunity, especially as we take some of these innovations that we've seen in the more developed markets into those markets.
+
+And then the other thing I would mention is we do a lot with underserved communities, whether those are low-income households, immigrant communities, students, but generally, our focus is on people where we think their capabilities are significantly better than the opportunities that they've been dealt.
+
+In many ways, that is a great investment opportunity and 'arbitrage'. People deserve better than what they're getting. In fact, one of the great things about innovation is you solve some of the pain points about how to get capital to them, which is more in line with their actual risk rather than the perceived risk. And you can overcome some of the cost barriers and other inefficiencies to bring capital to them in a compelling way. 
+
+Gopi Rangan: You have clearly defined areas for the firm to invest in, and you're looking for financial returns. At the same time, you also care about social impact. That's a very broad term. Let's talk about that a little bit. What does social impact mean to you? Are there priorities within social impact that you care more about? 
+
+Jacob Haar: Social impact is a subset of what we think of in investing as impact investing. There's a lot of different terms that are out there. Everything from socially responsible investing or SRI, which generally refers to screening out bad investments.
+
+There are things like ESG or environmental, social governance factors, where essentially you were looking at everything from the environmental impact, the governance structure and the social and governance elements of an organization's activities and how they're formed, diversity, equity, inclusion, et cetera.
+
+What impact investing is this is a little bit of a subset of that, which is actively pursuing strategies that solve problems. They're not just excluding bad actors. They're in fact supporting models that are contributing to progress in terms of economic development and equality inclusivity. 
+
+The way that I really would describe it is there are two generational challenges that we face right now. There's climate change and all of the environmental issues accompanying that. And then there is inequality. For us, social impact means we are focused on inequality. We are focused on trying to figure out how we can change the models to improve economic development, get over racial bias, gender discrimination and inequality, and many challenges that are related to immigrant communities and other minority communities or communities of color, whether that's in the United States or whether that's also overseas. 
+
+Gopi Rangan: Can you give examples of companies you have worked with, companies you have supported? How do you choose them? What happens in the first few conversations?
+
+Jacob Haar: When we talk with a company and we are asking about their business model, we are assessing both the financial and social elements of what they're seeking to achieve. We don't separate the two and say, okay, there's financial return, and then there's social impact. We look at it holistically, meaning that the first assessment you are trying to do is how compelling is your business model? Are you solving a significant pain point for your customer? And then we look at: is your solution compelling to solve that problem and does it potentially add real value to the life of your customer? Our focus on that reflects that we believe that the most successful business models are the business models that benefit the end customer.
+
+As we do that analysis, we try to get to the bottom of, is that a really compelling solution? Is it an innovative solution? And of course, then it's looking at, does the team have the right vision, and do we think that it's the foundation of an organization that can potentially execute on that?
+
+And then, because we are credit investors, we also look and see, is there equity that is backing that company to give that idea a go? Because you can have a great team and a great idea, but without the equity backing it, there isn't really a place for debt. So you need those three elements.
+
+You need a great idea with a compelling solution and a competitive advantage.
+
+You need a team that has the potential to execute on this well, and you need capital that's willing to back that team to execute on that vision. 
+
+Gopi Rangan: What happens in the initial interaction when you are looking for answers to these questions. Can you give an example of a founding team that you worked with? How long does the process take for you to evaluate the business, evaluate the team, and evaluate the equality of equity?
+
+Jacob Haar: Generally, getting to know companies does take time.
+
+There are some transactions where we are in touch with founders for months, even years before we ultimately end up doing a transaction. Partly that can be from an entrepreneur having an idea early on, bringing us in getting feedback. We have a couple of transactions. We have one, for example, that we did with a company CircleUp, that's a very successful company, has a great business.
+
+We were talking to them for more than two years before they actually launched the product on the credit side that we started supporting them with. This is hard and this is a thought partnership. So, it's not just about we evaluate them, we sit on the other side of the table and are probing at them. Of course, we're trying to understand how compelling we think it is.
+
+But the great thing about being an investor, whether you're an equity or debt investor, is it continues to humble you. A lot of this is coming in with an open mind and trying to understand there are different ways to approach things, and innovation means that this is not a road well-traveled. You are trying to get comfortable with plans and ideas and capabilities and funding, et cetera. 
+
+We've also had scenarios where we talked to entrepreneurs and within a couple of months, we're working together because they have a very strong operating team. They know exactly what they're going to do. They come already with equity backing and it's their choosing who are we going to work with, and then it's okay, let's go do this. Right. There's just a lot of variation in that and depends on where the entrepreneurs are and where they are also in the process of thinking things through.
+
+But one of the things that we really pride ourselves on is being a partner. That means talking to people early, listening to ideas, trying to be supportive, even if it's not the right time for us to work with them, but also building relationships and guiding folks with both solicited and unsolicited feedback, comments, questions, all those things.
+
+CircleUp is a great example. The company supports many entrepreneurs, many startups in their growth journey. What advice would you give to entrepreneurs before they come to meet you? What can they do to be prepared for that meeting? 
+
+I think that entrepreneurs should understand when they're seeking out debt capital, that fundamentally the problem that they're trying to solve will be long-term. It's a marathon. Right. Like, it's funny. In the equity world, in the venture world, people move very quickly, they give a term sheet, they close it, et cetera. That's just not how credit works. Credit takes a little bit more time. The transactions, we do range in the US for example, from 50 to 150 million dollars. They're big transactions and they're giving entrepreneurs the ability to demonstrate and scale what they're building over many years until they've shown to the market how compelling it is. And then one of our impact goals is to then see that and take it into the financial mainstream.
+
+I know that entrepreneurs are pushing hard and pushing fast and that's great, but at the same time, the role of credit is not necessarily to move as quickly as a venture investor who writes a check in that same short timeframe. Now, of course, it depends where you are in your business and so many entrepreneurs have already done a ton of research and they're at a different stage. But it's good for entrepreneurs to start thinking about credit before they need it, and start having those conversations and start identifying yes, they can prepare themselves: all of the things you would normally want. What I would say as well is that one of the big differences in terms of preparation for credit investors, venture investors is credit investors will also say, "Nice story, let me take a look at your loan portfolio. Let me take a look at your book. Let me see the loan tape. Let me dig into the data."
+
+We tend to be more focused on that level of specific asset performance than a venture investor. Now, venture investors often will do that type of work as well, but there's a little bit less focus on those assets. And so you don't make sure that you have a good summary of what your assets are.
+
+And to the extent that you're early, don't be afraid to take those meetings, but just be clear with folks about where you are on that. And have a realistic expectation that this is a long-term partnership and that you're here to run the marathon.
+
+Gopi Rangan: This is a long journey indeed. Venture investors are looking for the growth story, like you mentioned earlier, and you're looking for the risk story. What is the risk in this business? So for you to uncover the risk and understand what's the potential here for the company, we need to have information about this company in detail. Anyone that has a buttoned-up data room is probably easier to work with than someone who is still figuring pieces of this information out as you ask them questions. That can be frustrating for both sides. 
+
+Jacob Haar: Yeah. And I think, of course, we're speaking in generalities about, say growth versus risk. Equity investors are also concerned about risk and the quality of loans that are being made by a lender. Credit investors are also concerned about growth. That's what the business of lending is. And it doesn't matter if you're on the equity or the debt side, you're looking at essentially the constructive tension between growth and quality. If you go too far in the growth direction at the expense of quality, you're going to blow yourself up. And then the equity investors and the credit investors will all be unhappy. But if you focus too much on quality and only on risk, and not as much on growth, the business won't make sense. Whether you're a credit investor or an equity investor, you're also going to be unhappy. Lending, really, is you're steering a ship through turbulent waters. If you go too far in the direction of quality or too far in the direction of growth, it's not going to end well. So it's trying to tack back and forth between those two directions and that's more of an art form and that applies to both equity as well as credit investors.
+
+And, of course, you have to understand the scenarios that are going to be top of mind and most concerning for equity investors. Is there a strong growth story, given that the quality of the assets needs to be good in order for that growth story to make a successful profitable company?
+
+A credit investor is the opposite. A credit investor needs to take as a given that there's a real business there, there are growth opportunities there, that the business will be successful. For equity investors can attract equity and that it's worth engaging in, in terms of the ability of that investment to grow. But they're going to naturally be more oriented towards thinking about the risk of the underlying assets. Both investors are really aligned with the entrepreneur about what it takes to be successful. It's a combination of the two, but the emphasis is a little bit different for the different types of investors.
+
+Gopi Rangan: Beautifully said. This is very helpful. I want to switch to the next part of our conversation and ask you about your community involvement.
+
+Is there a nonprofit organization you are passionate about? Which one?
+
+Jacob Haar: As an impact investor with the name community in our name we're extremely passionate about creating impact in underserved communities across the board, both here in the United States, as well as overseas. Every year, we do support at least one nonprofit.
+
+And the one I would mention is actually one that is working with Syrian refugees named Jusoor. It's an incredible organization that has been providing education and other supporting services to student refugees that are living in Lebanon and other countries because there are so many Syrian families that have been forced to leave Syria and have not been able to get the support and opportunities that they deserve living in some of the neighboring countries. And this is an organization that is grassroots and provides significant support to the end beneficiary, as opposed to having a lot of the money getting eaten up by administrative costs. 
+
+Gopi Rangan: Jacob, thank you so much for spending time with me. It's easy to talk to venture capital investors who invest in equity. They usually are much more vocal and they are easy to find and easy to get their stories out. It's very rare to find a credit investor who is willing to share stories. So thank you so much for sharing insights from your world, from the credit side. 
+
+Jacob Haar: Thank you for having me on Gopi. It's a great podcast and to all the entrepreneurs out there interested in credit, please don't be shy about reaching out. We'd be happy to talk to any of you. 
+
+Gopi Rangan: Thank you, Jacob. 
+
+Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.
+

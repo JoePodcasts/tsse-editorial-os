@@ -1,0 +1,290 @@
+[00:00:00] Justin Smith-Lorenzetti: Investing is not all that different from, you know, maybe choosing a partner in life. If you're hemming and hawing and you're trying to find ways to make this work in your brain, it's a no. Everything in this asset class is an undeniable yes or it's an obvious no. If you're on the fence, run away. I think that's the way we see the world here.
+
+[00:00:25] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Justin Smith-Lorenzetti. He's the managing director at Intact Private Capital, based in Canada.[00:01:00]
+
+[00:01:00] Intact is an early-stage venture capital investor. They also have a growth fund. In addition, they also invest as limited partners in venture capital firms. We're gonna talk to Justin about Intact. What kind of founders do they like to invest in? What's their role in the ecosystem? We'll talk about both early stage and growth stage investments, and some trends that he's excited about.
+
+[00:01:24] Justin, welcome to The Sure Shot Entrepreneur.
+
+[00:01:27] Justin Smith-Lorenzetti: Gopi, thank you for having me. Appreciate it.
+
+[00:01:30] Gopi Rangan: So you are based in Canada. Are you from Canada? And you're probably one of the most prominent venture capital investors in Canada.
+
+[00:01:37] Justin Smith-Lorenzetti: In the Insurtech space, definitely. But we do have an ecosystem up here that we could touch on a little bit as well.
+
+[00:01:42] But yes, I am born and raised in Montreal, so I grew up speaking French, but I've been in Toronto for I guess 12 or 13 years now, which is a different feel entirely. But yeah, proud Canadian.
+
+[00:01:55] Gopi Rangan: Well, we are co-investors in focused on the insurtech [00:02:00] space. But before we go into all of that, can you walk us through your career and your journey?
+
+[00:02:04] Like, how did you choose to become a venture capital investor?
+
+[00:02:08] Justin Smith-Lorenzetti: Sure. So I throughout my undergrad, I guess, did the typical finance tracks. I did one summer in investment banking and didn't like it, and you know me, I desperately wanted to actually get into consulting out of my undergrad, which didn't work out all that well.
+
+[00:02:20] I did the typical dinners and whatever else as you try to get those entry-level positions, and as it turned out, I wasn't very good at it. Probably too opinionated. So fast-forward to the tail end of my senior year in university, and I actually wasn't sitting there with a job offer anywhere until I got an offer to join the insurance industry.
+
+[00:02:39] So I joined Intact in a sort of innovation consultant type role. We still do it to this day. Intact is great at actually hiring young folks, giving them an opportunity to work on different projects, try to bring in some of the outside information, have the outside of our walls into the core business.
+
+[00:02:54] So within a few months of being at Intact, I was given the opportunity to [00:03:00] identify some disruptive trends, most namely what was happening in the sharing economy. So at the time, Uber, you know, if we remember eleven odd years ago now, was making headlines everywhere, and it was no different in Canada.
+
+[00:03:13] The narrative was, "Don't send your children into Ubers, it's dangerous," et cetera. Obviously, the taxi lobbies were spending a lot of money pushing certain narratives. But me, as a young twenty-something, I was using it all the time. So I was actually pushing Intact to try to actually create an insurance product for Uber, and I was given the opportunity by our CEO and executive teams at the time to put a bit of a plan in place in terms of how we'd actually design new insurance products.
+
+[00:03:39] Given I was early in my career, there were, of course, sort of executive presences on top of me, but we ended up designing new insurance products for Uber as it entered Canada, working with Ministry of Finance, Ministry of Transportation, Ministry of Insurance, et cetera. That was a great project.
+
+[00:03:52] Ended up bringing in a large account and ended up, I think, a little bit putting Intact on the map in terms of companies that are eager to engage [00:04:00] with startups. Fast-forward a few months later, Turo was coming to Canada, called RelayRides at the time, and we decided to run the exact same playbook, but this time, we chose to invest in Turo's Series B at the same time.
+
+[00:04:12] So my career as a VC, sort of I landed in it. I was afforded the opportunity quickly thereafter to sort of formalize the practice or help formalize the practice. And after a year of being at Intact, I was sort of employee number one, what we used to call Intact Ventures, our first inaugural fund being $250 million, focused on investing in disruptive trends in and around insurance.
+
+[00:04:36] So think of Turo as our first deal. Obviously not an insurtech business, but you can draw a line between how the future mobility would change and how that would impact the future of insurance and risk. So fast-forward to where we are today, we've obviously scaled the platform to something that feels quite different.
+
+[00:04:52] But that's the starting point. I got lucky. I was in the right place at the right time, and thank God, because I couldn't picture myself doing anything else.
+
+[00:04:59] Gopi Rangan: [00:05:00] What do you like about being a venture capital investor?
+
+[00:05:02] Justin Smith-Lorenzetti: What I love about it is that all I do every day is have conversations with people who have incredibly impressive and diverse views of the world.
+
+[00:05:12] I get to go for coffee with people who think they're going to totally change the way people live every single day. A lot of it makes no sense, right? A lot of it actually is a little scary, is a little perturbed, is a little bit too intense. Founders have insane aspirations for how the world's gonna move, but every so often you meet somebody and you go, "Oh, my God, I totally align with your vision of how the world's moving, how the insurance sector is moving, how the future of transportation is moving," of course, lately, AI, how the future of everything is moving.
+
+[00:05:42] And I get so excited by meeting with founders. They used to be typically my age. Now I'm a little bit older. I'm still only in my early 30s, but oftentimes I'm engaging with founders who are 23, 24, whatever, and it's really fun to help them in our small way by providing capital and counsel and some [00:06:00] access, and seeing these small little things change the way they, they advance their careers.
+
+[00:06:04] It's so much fun to enable certain people to have milestones in their lives. It's really, really a ton of fun.
+
+[00:06:09] Gopi Rangan: It's fascinating, right? They talk to us and these founders tell a vision of the future if their assumptions came true, and it's like watching a movie. Many of those things don't become reality but when they become true, it is just game-changing.
+
+[00:06:25] It changes the way we live.
+
+[00:06:26] Justin Smith-Lorenzetti: Yeah, the majority of the time it's like watching a horror movie. But every so often you have this Oscar-worthy performance and it really is rewarding. But it's all rewarding. I mean, being a part of the ride when the roller coaster's on a downswing is sometimes even more rewarding than just happening to be part of a cap table of successful business.
+
+[00:06:46] So no, I, I love it all. And I've had the privilege of building a team as well and seeing those folks succeed and develop has been a gift. So I'm blessed.
+
+[00:06:55] Gopi Rangan: What is Intact, and how is it different from other investment firms?
+
+[00:06:59] Justin Smith-Lorenzetti: [00:07:00] Intact at a higher level is the largest and preeminent P&C insurance business in Canada.
+
+[00:07:06] Then the acquisition of OneBeacon Insurance in the US a few years ago, followed by the acquisition of RSA Insurance in the UK, has quickly become a global specialty insurance platform. So in Canada, think about Intact as A to Z can do anything. In the US, UK, and internationally in Europe, a bit more specialty and commercial.
+
+[00:07:26] Where I sit with Intact Private Capital, we manage $1.6 billion across a couple different strategies, but basically the best way to think about us is we can support founders from inception of an idea all the way to IPO. We can write checks as little as half a million bucks, and we can write checks into the one fifty, two hundred million dollar range.
+
+[00:07:45] And what that does is enables us to have a super broad view of the industries we invest in. We're also not too hasty. We don't have to hit you with a seed or the series A. We can wait till our stories develop. Obviously, we do like to be aggressive. [00:08:00] It's in our DNA, but that's the way to shape our platform.
+
+[00:08:03] In terms of the areas we invest in, obviously, given our connectivity to Intact Financial Corp, a lot of what we do is in and around financial services and insurance, but that probably makes up a third of our portfolio. We have significant capital positions in companies in the future of transportation and mobility.
+
+[00:08:21] Our most recent deal is a legal AI business. We're looking at this thesis that we call the agentic enterprise, which obviously doesn't have a ton to do with insurance necessarily. But as we developed and as we've had significant success in the last decade it sort of opened our aperture to be able to invest in different areas with success.
+
+[00:08:40] The last thing I'll mention is we do invest globally, so with a very small team based in Toronto, we have deals in India and Brazil, in the UK, Germany, and then of course, we're highly concentrated in the US and in Canada.
+
+[00:08:52] Gopi Rangan: Over the years, the topic of insurtech, fintech, and especially insurtech, where, you know, you and I focus quite a bit, that [00:09:00] theme has been in favor and out of favor and back in favor and out of favor.
+
+[00:09:04] It goes through these cycles. How do you view the space? What are you excited about?
+
+[00:09:11] Justin Smith-Lorenzetti: Yeah. The entire market in the last 10 years has gone through, I don't know, 200 market cycles. You know, throw a pandemic in there, certain supply chain crises in there, presidencies, different monetary and fiscal policy.
+
+[00:09:23] We've been forced as venture investors to at least pretend to be good macro economic advisors as well. I don't think that insurtech has been through ups and downs for people who actually understand the space. I think what's happened is you've had a lot of capital flow in in certain moments, and then you've had a vacuum of that capital flow out of the space at certain moments.
+
+[00:09:46] The capital that came in, largely irresponsible. We did a little bit of that. We probably drank a carafe of that Kool-Aid, but not a full jug. Six, seven, eight years ago, we were once the largest investor in Metro Mile. We were [00:10:00] part of that insurtech 1.0 craze, but we also have a really good vantage point of the industry.
+
+[00:10:06] We know where incumbents are strong. We know where incumbents are weak. We know where technology can play a role. In this latest wave, we know where AI is gonna draw a difference. I think the challenge is you see the sort of big picture trends in insurance. Incumbents move too slow. Incumbents don't use technology well enough.
+
+[00:10:26] Distribution's still fragmented. There's still too many sort of cooks in the kitchen in many respects. And if you're a pure play VEC, you look at the TAM, you go, "Wow, this is tantalizing," right? The problem is so many VCs come in and fail to realize some of the nuances of the industry. One, Progressive, Geico, Nationwide, USAA, State Farm, Liberty Mutual, Allstate, they're formidable companies in the personal lines of small commercial space.
+
+[00:10:52] It's really hard to outmaneuver them. Half of the revenue insurance companies make are actually from asset management. So to come in and be a venture-backed business, [00:11:00] really tough. So much of the outperformance from incumbents like Intact are from the claims supply chain that's been built out, the broker distribution that's been built out.
+
+[00:11:08] It's really hard to raise $100 million of venture capital and try to replicate all of that. So where I think folks who know the space quite well have actually generated returns is what are some pockets of value where if you really do put $50 to $100 million to work, you can generate significant return?
+
+[00:11:26] Coterie is a business that you and I are co-invested in. We've known for a long time small commercial distribution is broken, small commercial products are really hard to manufacture. How do we throw technology at this? How do we find a killer CEO like David to back? That was a no-brainer when I met David the first time.
+
+[00:11:43] Another company like Shepherd. Yeah, construction is really hard to understand. You know what we're gonna do? We're gonna work with new sort of data providers. We're gonna generate insights from the industry. We're gonna bring on the best talent in the space. Probably the best CTO in the entire insurance [00:12:00] industry perhaps is at Shepherd, and we're gonna underwrite differently. I love it. We're gonna be lean at the same time. Amazing business.
+
+[00:12:07] Where I think a lot of VCs have got it wrong is let's just recreate the entire thing at once. Let's try to go after Progressive, and that's a really hard bet to make. So there's been capital inflows, there's been capital outflows. We're still kinda waiting to see a massive outcome for a venture-backed MGA, but it's coming, and we're really excited that we sort of kept our determination, kept deploying the space for the last decade 'cause I think it's gonna prove to have significant outcome for us.
+
+[00:12:34] Gopi Rangan: This is very interesting. You're taking a macro view and then bringing it down to your specific investments, and you've given specific examples of companies you've backed from the early days onwards. This is fantastic. I have a question for you on how you think about these investments. There's the MGA side of the business, and then there's the software side of the business.
+
+[00:12:55] Many of the MGAs have become quite large and many of them went IPO [00:13:00] as well, and although some of them struggle and some of them are still struggling. But only the MGAs. We haven't seen a big software company become successful in the insurtech space.
+
+[00:13:11] The MGA space is really hard to build a business. The unit economics is very hard, and it's hard to build distribution. Software companies get much better multiples, also much easier to distribute. Given the two scenarios, are you still excited about MGAs more than software companies, or do you focus on both sectors equally?
+
+[00:13:30] Justin Smith-Lorenzetti: I'd say as a firm, we're very interested in all the above. Where I personally have had a lot of success in my investments has been a bit closer to the MGA space. And I'd say, look, revenue multiples for software businesses, if you asked us six, eight, 12 months ago, looked a lot better than they do now, right? I personally have been able to identify founders who I believe can be strong performers in areas where they control their own fate.
+
+[00:13:58] And I know a lot of things have to [00:14:00] go right to build a proper MGA, but what I love is that those accounts are up for renewal every single year, and that gives you a bite at the apple so many times. If you're building a software company, if you're building an underwriting workbench, you go to try to sell to an insurance company, they say, "No," you're done, right?
+
+[00:14:16] You can keep hammering at it. You can keep trying. You can keep trying to crack that nut. It might take you six, seven, eight years. There's no way that CAC to LTV multiple makes sense, but you gotta keep doing it because they might pay you ten million bucks. And the beauty about getting in is that it's unlikely you get churned from there.
+
+[00:14:33] But it just hasn't been the flow of our firm so far. It's not to say we don't look. I mean, look, we're invested in great businesses like Sixfold. A long time ago, we invested in Snapsheet, a business that's done extremely well. But for whatever reason where I have gravitated towards has been a bit more the AI-enabled broker, the AI-enabled MGA, and then a lot of investments outside of insurtech broadly.
+
+[00:14:58] Gopi Rangan: I'm eager to [00:15:00] explore all of these topics as well. I invested in many MGAs, and I've also invested in many software companies, and I'm waiting to see the day for the software companies to be as successful or even more successful in the future.
+
+[00:15:12] Justin Smith-Lorenzetti: Yeah. And I will give one more nuance there too, right?
+
+[00:15:14] There are formidable VCs who are really good software investors. I actually understand why some founders would gravitate towards those investors versus us. When I'm sitting across the table from a tier one founder in the MGA or broker space, whether we win or lose the deal, I actually believe in my core that we are the best investor for that business.
+
+[00:15:34] Sometimes that shines through, and I fundamentally believe that's probably why we win some of these transactions. When I am sitting across a software investor, I think I could be a great help. I think I could be a really good board member. I don't actually believe I'd be better than Bessemer or Sequoia or whoever else, long tier of tier ones that invest in this space.
+
+[00:15:53] Maybe at par in terms of introducing them to folks in our network. But I get it. If you're building in the MGA space, we are [00:16:00] the best home for your business in terms of a board member. I fundamentally believe that, and now we've built a portfolio of founders that I think would actually agree.
+
+[00:16:07] So we have to figure out in the next decade of intact private capital where we wanna flex our muscles, so we're not just a one-trick pony. Not to say that we are, but for the sake of argument. And I think that we've kinda got a couple bases covered when it comes to the insurtech MGAs.
+
+[00:16:22] Gopi Rangan: There's a lot of humility here, but I also recognize that Intact is a relatively new VC firm in the grand scheme of things in the ecosystem of venture capital. So you have a long way to go, and you have built a great foundation already. You have three different strategies. Now, if I summarize, the early-stage strategy, the growth-stage strategy, and you invest as an LP in funds.
+
+[00:16:43] What do you look for in all of these three cases? You mentioned earlier that you can flex from half a million dollars to $150 million. There's a full range now, idea to IPO. Can you talk about all these three and what your sweet spot is for each of these?
+
+[00:16:56] Justin Smith-Lorenzetti: Yeah. Maybe I'll take a bit of a roundabout way of answering this question.[00:17:00]
+
+[00:17:00] Being a founder, being an entrepreneur, risk-adjusted is a poor decision. Being or investing and supporting and investing in the venture asset class, risk-adjusted is a poor decision. We all know how these returns look across the board. We all know how long your capital's gonna be locked up. The only reason to do it is if you think or if you believe in your core that you could identify outliers in society that are building massive businesses, going after massive ideas, and have the stamina, the courage, the determination to do it.
+
+[00:17:33] I believe we're really good at that. I think we're really good at identifying folks with that black magic, with that twinkle in their eyes, that are just different. It's really hard to put into words what that actually looks like and what that actually feels like, 'cause I could put all of our founders in a room, and they're not alike.
+
+[00:17:51] They don't have similar styles. They don't talk the same way. They don't see the world the same way. But they all have this thing that is so [00:18:00] contagious, that in the first meeting, meeting them, I knew in my core, we're backing these people, or we're gonna do whatever we can to back these people.
+
+[00:18:07] Not all of them will work out, obviously, but really that sort of unwavering, just undenying desire to build something different, that, that's what I think we're really gravitate towards. And the same thing is totally true across LP commitments, across early stage, and across growth. Obviously, a seed founder has to have a bit of a different polish compared to a growth founder.
+
+[00:18:29] But that same sort of like childish curiosity, that unrelentless or unrelenting ambition, it's all there. And I think that really is the best way of describing what I'm looking for. One thing I have really tried to push on my team is, "You guys, figure out your different styles." It's totally okay for Ben or Aaron in my group that have been with me for seven years now, to look for different things and gravitate towards different personas.
+
+[00:18:59] But one thing [00:19:00] we never give up on and never sacrifice is that just blood thirst for winning, because that's the way we operate. Look, we're managing one point six billion bucks. We're shockingly lean, right? You got myself. We have a new head of the growth fund coming on, but he's starting next week.
+
+[00:19:16] We have two principals, and we have two juniors.
+
+[00:19:19] Gopi Rangan: That's a very small team.
+
+[00:19:21] Justin Smith-Lorenzetti: So I, I now have 11 or 12 years of experience. But, weighted average across the capital we've deployed, we're a bunch of 20-year-olds, 25-year-olds. So really what we had to do very early on was create that sort of compass and reaction internally of like, what do we think great looks like?
+
+[00:19:36] And in the early days, we chased a lot of amazing founders that rightfully didn't choose us. But now I think we've earned our stripes, and we actually are able to go after these founders, and we have the track record to, to reel them in. I know I'm not answering your question directly. I'm sure a lot of folks come on your podcast and they give you things like, "We love their metrics, their growth, their background.
+
+[00:19:55] We love that they went to Stanford. We like teams of two or three versus independent founders. We like folks [00:20:00] who aren't on the coasts. We like folks who speak different languages." I don't care about any of that. I don't. Really, what really sticks and shines with us is do you come off as a killer who's never gonna let this idea die or just do whatever they can to make it live?
+
+[00:20:16] And, if we choose right, that'll be the DNA that kind of generates an outsized returning fund for us. I'm sure of it.
+
+[00:20:23] Gopi Rangan: That's an authentic answer. You gave the examples of Coterie and Shepherd and many other companies in your portfolio. What questions do you ask them to see the twinkle in their eye shine for you to say, "Yes, I want to invest in this company"?
+
+[00:20:38] Justin Smith-Lorenzetti: And I'll make one thing clear about David and Justin. You don't choose to invest in their companies, they choose you. This is something that I think is a misnomer across our entire industry. You're saying no 99% of the time, and then you're chasing that 1% of the time. It is our privilege to be on the cap tables of Coterie and Shepherd, and all of our investments.
+
+[00:20:58] We're the lucky ones. We're the [00:21:00] commodity side of the business and they're the rare side of the business. So what questions do I ask them? It's much less of a one-sided interview than you'd think. I think the natural evolution of things for us is we align with the founders, we build a personal relationship, we communicate to them why we'd be value add through subtleties oftentimes, through introductions, through little pieces of advice way before the investment process happens.
+
+[00:21:23] Then we actually work to maneuver to get the right to invest, and then we do financial diligence to make sure that these things are true, you know, they communicated through these small little parts of our journey together. It is much less a let's sit down, talk to me about why you did this, talk to me about your angle, talk to me about X, Y, and Z, because those things come through in conversation.
+
+[00:21:49] It's dinners, it's going to conference together, it's going on walks together. I mean, hell, when David was putting a series A together for Coterie, it was, I guess, the first wave of COVID. [00:22:00] I was in Canada, he was in Ohio, neither of us were really able to move all that much. He and I met in Delray Beach, Florida on Atlantic Avenue, and we drank margaritas and we aligned on exactly the way we saw the future of small commercial insurance being disrupted.
+
+[00:22:16] And he's a really big dude, and he probably was able to handle it a little better than I do. And honestly, we split the difference on what the pre-money was gonna be. And if I think back to that day, being rooted in discipline would've lost us the opportunity to back a category-defining business. Because what I got from him is that this guy's a monster, and he's going to build something fantastic.
+
+[00:22:38] Gopi Rangan: I was already an investor in Coterie, and I remember the Series A raise in the middle of COVID, and he said, "Oh, Intact's gonna lead."
+
+[00:22:45] I'm like, "Intact who?" And then I looked up like, "Oh, okay. It's a new firm. It's very interesting." You've been an amazing backer, board member at Coterie, and Coterie's done phenomenally well over the years. It has really redefined the [00:23:00] category of small business insurance. When you meet these founders, how long does it take... ... You said you could form a conviction in one meeting, but realistically, how long does it take for you to go from the first meeting to say, "Yes, I want to invest," and get the rest of your team on board?
+
+[00:23:15] Justin Smith-Lorenzetti: It can be a day. It could be an hour. I think investing is not all that different from maybe choosing a partner in life.
+
+[00:23:22] If you're hemming and hawing and you're trying to find ways to make this work in your brain, it's a no. Everything in this asset class is an undeniable yes, or it's an obvious no. If you're on the fence, run away. I think that's the way we see the world here. If you're trying to put things in a box, make it fit, you're wincing at valuation, "well, maybe if we got it this price, we'd want to do it."
+
+[00:23:45] That means you don't have enough going on. You gotta go move to something else. When I look back at our portfolio, we look at the winners and we go, "Yeah, we knew within a second." There are certain situations where we look at it and go, "We really thought this one was gonna work." But then overwhelmingly, we look at the [00:24:00] ones that haven't worked out, and we go, "Yeah, you know, I think we try too hard to make this work in our brains. I think we over-engineered this in our minds." And that's dangerous in this asset class, right? If you begin to let your mind wander to why things won't work, it doesn't... You'll be right, you know, 90% of the time. But that's not really what we're trying to achieve in venture. So it's hard to give you a definite answer.
+
+[00:24:20] We have our process, whatever. I mean, CVCs get a bad rep for moving too slowly. That is not the case with us. Success actually enables success, right? Our returns have been terrific, so that enables us to make decisions very quickly. Our team is strikingly lean, like I described to you. We're not relearning the market every time, which is great.
+
+[00:24:40] And then I think too, we take signal where you can get it. We make high conviction bets, and conviction comes from what you see, not what you can learn from a reference call, right? And I'm try... You know, I'm hopefully not oversimplifying things, 'cause I don't want to come off as irresponsible in our deployment of capital.
+
+[00:24:54] But confirmatory diligence is just that. It's confirmatory. And I think that [00:25:00] we do a really good job, or at least we try to, of seeing the forest from the trees. Is it a massive idea? Does the TAM feel huge? We're not gonna worry about if it's a $12 billion, $14 billion TAM. That's great, you know? If this person feels like an outlier, let's back up to Brink's truck.
+
+[00:25:14] Let's get on the capital in a big way, and let's play our part.
+
+[00:25:17] Gopi Rangan: I want to come back to the topic of founders, but briefly, I want to make sure we cover the topic of LPs. You are an LP in multiple funds as well. What do you look for in emerging managers and early-stage VCs when you invest?
+
+[00:25:29] Justin Smith-Lorenzetti: Yeah. Our strategy on the early-stage LP side is to play a couple different roles, and it may not all fit together in a great narrative, but it makes sense for us internally. There's a little bit of it that is, "Hey, can we get a bit of access? Will we get some deal flow here?" Quite honestly, that hasn't really panned out the way we thought it was going to.
+
+[00:25:48] We've been doing sort of LP, early-stage LP commits for the better part of a decade now, and we could probably count two or three direct investments that we've done. We've looked at a handful, but that's not really what's worked out for [00:26:00] us. Really where we get value is, and we may not have to commit capital to this because some of these folks are incredible, is sober second thought, random pieces of info, an extension of our network.
+
+[00:26:12] Like I keep referencing, we're a very small team, so to be able to tap on different GPs in the ecosystem and go, "What do you think about this?" And oftentimes it's not their portcos, right? It's, "Hey, you're in this space. What have you heard? What do you see? What do you feel when you met this individual?" Especially in my seat with absolute partnership around me, it is great to be able to bounce ideas off of a Jonathan Crystal, for example, or an Oleg at Altai, right?
+
+[00:26:34] Simply in InsureTech, these guys are really bright and they're really well-connected, and they have perspectives on anything and everything. And honestly, I even extend that to, you know, talking about life, talking about things outside of just investing, building a firm, how you navigate time allocation.
+
+[00:26:49] So it works. The whole thing works. All of that said, it is quite a small portion of our total AUM, right? Ideally these firms make a ton of return, [00:27:00] obviously. But really it is that sort of network-building effect that we like. We have done a lot of seed and pre-seed bets into tangential industries.
+
+[00:27:09] We like that as like a macro type bet. So, for example, well before COVID even happened, we sort of had this thesis on our team around global supply chains being fragile, but then we kind of realized like, "All right, we're good at the macro stuff here, but I actually don't think we go pick the best freight forwarding business," for example.
+
+[00:27:28] So we deployed in a firm called Dynamo Ventures that's done tremendous work. We done the same thing with sort of deep tech, with Glasswing Ventures. Better Tomorrow Ventures in our portfolio on the fintech side. So we're able to see these sort of tailwinds and try to deploy the top managers in the space.
+
+[00:27:43] But overwhelmingly ninety-five percent of our capital and ninety-nine, ninety-nine percent of our attention Is on the direct investment side.
+
+[00:27:50] Gopi Rangan: You have a very refreshing and new point of view on how you think like an LP. You're not looking at it purely for financial returns, you're looking at it as an [00:28:00] extension of your ecosystem and your team so you can tap into the network.
+
+[00:28:03] And like you said, most of these good GPs, they would give you the time and share their thoughts anyway, and the investment just happens to be a part of the whole engagement with them. It's very, very interesting.
+
+[00:28:14] Justin Smith-Lorenzetti: Well, well, let me... Yes, but it is all under the lens of financial return, right?
+
+[00:28:19] Look, if you get one morsel of insight from one of these guys or girls that helps you avoid a transaction, that could save you 20 million bucks and a lot of headache and heartache, right? If you get one morsel of information from one of these folks that points you in the direction of an asset you otherwise wouldn't have seen, that is totally worth it.
+
+[00:28:39] So the only reason I say, "Hey, it isn't purely financial return focused," on the LP distribution side, is because we consider the rest of it. At the end of the day, if one of our commits in these seed funds or pre-seed funds generates a 6X or a 2X, it will not drive the difference of our overall net asset base value.
+
+[00:28:59] [00:29:00] But if one of those winners makes its way into our portfolio, it really can, right? Or if one piece of insight from our good friend Jonathan Crystal helps me avoid something, it can really make the difference between night and day. So I think it is kind of a basket of all these things that we consider.
+
+[00:29:16] And you can go one by one, all the GPs that we back. These people are such high-integrity individuals that we love working with. When we meet funds, and they're like: "What do we have to do to, you know, get you on as an LP?" Like, I don't know, man, just hang on the hoop for a long time and be a great person.
+
+[00:29:29] Like, it's, it's not gonna be the added turn on return here. That's where our direct investments are gonna drive the nav for us.
+
+[00:29:37] Gopi Rangan: We'll come back to founders now. What is your advice to founders building new businesses today? In the current market, in the current trends with AI happening in a big way, and what you have seen, the ups and downs in the market over the past few years, what are some two or three things founders could do to position themselves better to be successful?
+
+[00:29:57] Justin Smith-Lorenzetti: Yeah. Look, discipline and focus [00:30:00] is what we always tell folks. In the latest sort of wave, we've obviously seen a lot more attention moving back into the insurance space. Sequoia releases that paper, the next trillion-dollar business is gonna be an AI business disguised as a services business, and then the first thing they mention is insurance brokers, right?
+
+[00:30:17] So we're seeing a lot of these AI native insurance brokers pop up. A couple things. One, have some respect for your peers. I think this is the big thing Insurtech 1.0 got wrong. If you're building a new brokerage, all right, Aon, Marsh, they're not just gonna disappear. Alliance, it's a formidable business. Locked in. These are great companies, right? That are growing, that are hyper profitable, that are cash-generating machines.
+
+[00:30:43] Do they have faults? Obviously. Can they be improved upon? Of course, they can. Are they gonna be totally disrupted because a $50 million Series A goes into a company? Long way to go. So a bit of humility, I think, goes a long way in this space.
+
+[00:30:57] A bit of understanding that it's not sort of a [00:31:00] zero-sum game. Someone else's success does not mean your failure. This is a massive market. I think we have a lot of founders in our portfolio that are very competitive, but that competition has to be harnessed properly. Looking over your shoulder at the latest YC batch, there's six more companies doing what you're doing.
+
+[00:31:13] Hey, blinders on, focus on the forward, focus on building your business, hire the best talent. Their existence does not perturb you from having massive outcomes. I think in this world of AI, building or launching a company has never been easier. It is so easy to get distracted, even as a VC, right? You know, we back a business and then we're like, "Oh, wait, there's like a dozen more of these guys?"
+
+[00:31:35] That happens regularly, but we have to have conviction that we backed the right horse and not get caught up in that. So, so look, I think obviously the base tenets of being intellectually curious, about being really good at hiring, about being great product people, those all exist. But in this moment in time, it's just maniacal focus.
+
+[00:31:52] Build your business and stop getting distracted. It's so easy right now. So maniacal focus, I think is the best piece of advice we can give. [00:32:00]
+
+[00:32:00] Gopi Rangan: Valuable advice indeed. As a new venture capital firm that has established itself in this ecosystem, and you've done phenomenally well in building a foundation, what would you like to see change in the ecosystem to make this much more open to new types of founders?
+
+[00:32:17] What can we do to make venture capital better?
+
+[00:32:20] Justin Smith-Lorenzetti: To make venture capital better, I'll name drop in here a little bit, but I've been very blessed. My mentor, David Fialko has a great line, "There's not too much money in VC, there's probably too many people."
+
+[00:32:32] I think that capital will go to good places. Capital will build massive businesses. I think there's a lot of folks deploying the capital right now that don't take the time to understand the industries they're deploying capital into. I think there are a lot of incentives around logo bagging, associating yourself with getting a check in the door.
+
+[00:32:51] That isn't really why your LPs are giving you capital, right? They're giving you capital because they want return eventually. So if there's too many people, [00:33:00] and there's too many folks bidding up prices, and there's too much competition on some of these transactions, you begin to get into a world of, "Okay, I now have to believe that this MGA is gonna exit for seven billion dollars for me to generate my return."
+
+[00:33:14] I'm sorry, that doesn't make any sense. You look at some of these niches. Okay, great. You're gonna have to build a book of a three billion dollar habitational book. That doesn't sound reasonable. That doesn't sound like a good idea either. And also, if you're a single line MGA, you're not gonna be able to exit because no one's gonna want that much risk in a single risk class.
+
+[00:33:33] So things like that, where things get bid up, I don't think it does a favor to founders. I think the best founders notice this, but I don't think it does a favor to founders. So this maybe touches on your first question around the cycles that we're in.
+
+[00:33:46] We have to be careful in these cycles to not get too caught up in this dance.
+
+[00:33:51] We like to deploy in this space. It's unfortunate sometimes when there's a bid ask spread and we're coming in at a one fifty and someone thinks their business is worth four [00:34:00] hundred because someone else will pay it. That's the difference between worth and value, right? So look, I mean, we're in the business of generating return.
+
+[00:34:06] We're not in the business of bagging logos, and I think there are some VCs that operate a bit differently. But those firms have done tremendously well, so it's really hard to knock them.
+
+[00:34:16] Gopi Rangan: The same advice to founders applies to VCs. Stay focused. Don't get distracted.
+
+[00:34:21] Justin Smith-Lorenzetti: Stay focused. Don't get distracted.
+
+[00:34:23] The challenge being that founders should be focused on one thing and building one thing only. VCs need to be in a million different places at once. It's definitely true that taking more pitch meetings enables you to be smarter in the ones that you want to do. So yes, focus is very important, but I would say that the discipline element for VCs is really what's important in these times.
+
+[00:34:46] You have to look at long-term averages. You have to look at historical precedents. It's really hard to envision some of these companies, even if they're AI-enabled, becoming a ten billion dollar business. You know how much money that is? Right? Just 'cause OpenAI did [00:35:00] it and now there's this whole narrative around, oh, well, it's really broken the laws in terms of how big businesses can be.
+
+[00:35:06] That is true. That does not necessarily make its way down to MGAs and insurance brokers. So I think we're gonna have some tremendous outcomes. I think we're gonna have some big M&A in the next few years. But, you know, if you come in at a really high price and if the company raises a ton of capital, there's a bunch of liquidation preference on that, it doesn't mean you're gonna generate venture-like returns.
+
+[00:35:27] So we're very aware of that, and we're very careful.
+
+[00:35:31] Gopi Rangan: We're coming towards the end of our conversation, and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?
+
+[00:35:40] Justin Smith-Lorenzetti: Yeah. So I run a foundation on the side. It's called the Lorenzetti Foundation.
+
+[00:35:45] Me and my family, we've been large supporters of the mental health community, particularly in Canada and a bit more in Quebec for the last decade or so. This all started when I was in university, and actually in my first year at university, there were I think five suicides that took [00:36:00] place on campus.
+
+[00:36:01] That's an alarming fact. Even I've repeated it many times, it's still shocking. And I was fortunate enough to sort of get roped in to help with different fundraisers and even after leaving university, a couple friends and I launched a not-for-profit and raised a bit of capital by throwing parties effectively in, in Toronto and Montreal.
+
+[00:36:20] And we were doing a ton of work to maybe raise five, six thousand bucks. It didn't really get us that far. So then I actually decided to partner with my dad, who actually had a successful run in the insurance industry as well, and he and I launched a foundation together focused on supporting three local Montreal-based charities, one of which was to eliminate the stigma surrounding talking about mental health in high schools and universities.
+
+[00:36:43] One of them is a local charity focused on actually providing mental health services to underprivileged folks around the Montreal community. And the last one, and more recently, we've begun to deploy a lot of capital in supporting veteran mental health in Canada. A lot more support around that in the US than in [00:37:00] Canada.
+
+[00:37:00] I think in the US people really value their military members. You don't get the same sort of pride here, even though those folks really do make a difference across the world. So look, in the last five years, we've raised close to $4.5 million. We're hoping to get bigger and better and make a bit of a different change in the Montreal and Canadian community.
+
+[00:37:19] Gopi Rangan: Justin, thank you very much for spending time with me today. Thank you for sharing the real-life examples on how you make investments and what you care about, and your view on how this ecosystem behaves and what is your role in this ecosystem. It is very refreshing to have a candid conversation with such an investor.
+
+[00:37:38] I look forward to sharing your nuggets of wisdom with the world.
+
+[00:37:41] Justin Smith-Lorenzetti: Gopi, thank you so much. Have a good one.
+
+[00:37:46] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.
+
+[00:37:57] Your comments will help other entrepreneurs [00:38:00] find this podcast. I look forward to catching you at the next episode.
+

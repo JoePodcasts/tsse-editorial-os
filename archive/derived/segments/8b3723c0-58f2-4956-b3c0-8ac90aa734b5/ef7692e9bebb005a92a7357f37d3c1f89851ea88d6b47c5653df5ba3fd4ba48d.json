@@ -1,0 +1,913 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 411,
+      "excerpt": "Many coaches actually have a psychology background. My co-founder, for example, she was a trained psychologist. But not all of them are. A lot of the best coaches, especially for founders, are business people - people who come from the business world or people who have been in the trenches. One of the reasons that I've been successful as a coach is because people know that I've been in startups for 20 years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 660,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 413,
+      "timestamps": []
+    },
+    {
+      "end": 964,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is a good friend of mine, Patrick Mork. Patrick is the founder and CEO of LEAP. He coaches founders. He helps them unleash their maximum potential. He's also been a founder before. He was a Googler and a tech executive. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 662,
+      "timestamps": []
+    },
+    {
+      "end": 1369,
+      "excerpt": "Patrick has lived in many parts of the world. He has a comprehensive experience of the entire journey of the startup world. We're going to talk to him about his experiences and get advice from him. What do founders need to do to make sure that they have the best chance to make their company successful and make themselves also professionally successful? Patrick, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 966,
+      "timestamps": []
+    },
+    {
+      "end": 1419,
+      "excerpt": "Patrick Mork: Hey, Gopi. Great to be here, man. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 1371,
+      "timestamps": []
+    },
+    {
+      "end": 1666,
+      "excerpt": "Gopi Rangan: Let's start with where you grew up. You were born in Belgium, and I know you lived in so many different parts of the world, in Latin America, in the U. S., in Europe and other places. Walk us through a quick journey of who you are. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1421,
+      "timestamps": []
+    },
+    {
+      "end": 2420,
+      "excerpt": "Patrick Mork: Yeah, quick journey, you know, born in Belgium to a Norwegian father and Belgian mother. I've lived in 11 different countries across Europe, Asia, South America and North America. I did my high school in the U. S., my middle school, lower school, a little bit all over the place, and then went to college in the U. S. at Georgetown, where I majored in history and diplomacy, of all things. All of the diplomatic skills have served me well, I think. Apart from that, career wise, I've worked in seven different countries, Latin America, the U S and Europe. The beginning of my career was mostly marketing at PepsiCo, which is where I learned all the branding, brand building, product launch basics - old school, fast moving consumer goods.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 1668,
+      "timestamps": []
+    },
+    {
+      "end": 2797,
+      "excerpt": "And then I did an MBA at INSEAD and Fontainebleau. And then following that I spent the next 20 years basically in startups from 2002, all the way up until the current day. You know, my life has been one startup after another with the exception of a couple of years at Google where they hired me to build and run what would become the marketing team that launched Google play.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2422,
+      "timestamps": []
+    },
+    {
+      "end": 2863,
+      "excerpt": "So, that's the very short version of my life story, if you will.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2799,
+      "timestamps": []
+    },
+    {
+      "end": 3153,
+      "excerpt": "Gopi Rangan: You spend many years in marketing, and then eventually you started a coaching business. You also wrote a book. I have the book here, Step Back and LEAP. I know that you also featured a conversation with me in the book as well. And the books become a top seller more recently.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2865,
+      "timestamps": []
+    },
+    {
+      "end": 3274,
+      "excerpt": "How did the transition happen? Why did you think that it would be helpful for you to take that turn to become a coach? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3155,
+      "timestamps": []
+    },
+    {
+      "end": 3516,
+      "excerpt": "Patrick Mork: The way I like to think about it is an analogy of what I call the two mountains. I think in our careers from our twenties until our forties, we find ourselves climbing up the mountain of societal success, as I like to call it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 3276,
+      "timestamps": []
+    },
+    {
+      "end": 3866,
+      "excerpt": "We focus on career. We focus on money, title, accomplishments, rank, et cetera. Because that's I think where we find the most fulfillment or that is the societal expectations. And I think I was no different than most people climbing up that mountains until the age of my mid forties. And my career was marketing and my career was technology, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3518,
+      "timestamps": []
+    },
+    {
+      "end": 4195,
+      "excerpt": "I served as a chief marketing officer in three or four different companies. And then was head of marketing for Google play for a number of years and helped the team build and launch the brand there. And then one day in 2017 I was working for a very successful edtech startup, which is, is going to go public, I think next year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3868,
+      "timestamps": []
+    },
+    {
+      "end": 4591,
+      "excerpt": "And I had a falling out with the founders and I found myself out a job and I woke up one day and I realized that I was no longer excited and passionate about marketing technology products. And it was a really rude awakening. You know, it's like I woke up one day and I looked at the ceiling and I was like, I really am not excited about speaking to more VCs about marketing the next big widget.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4197,
+      "timestamps": []
+    },
+    {
+      "end": 5557,
+      "excerpt": "You know, it's like, I tried, I got on a bunch of calls and I talked to a bunch of recruiters and I talked to a bunch of VCs and the pitches all sounded the same. And XYZ founder from Stanford, MIT, or Harvard, he's building the next great thing. And they've raised this much money. And it's going to have this valuation and the CMO could have a massive impact. And the spiel all sounded the same to me. But what scared me was I was no longer excited by what I was hearing. It didn't matter the company. Didn't matter the founder. Didn't matter the VC was calling me. I was just like, I had this pit in my stomach where I was like, wow, is that it? am I going to do this again for like the fourth, fifth or sixth time? When I realized that I was like. I have to make a change. I can't go and do another marketing gig knowing how I feel about it. And, you know, I was really lost. it was coming on the back of a divorce. I'd had a bad falling out with this company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4593,
+      "timestamps": []
+    },
+    {
+      "end": 7337,
+      "excerpt": "We parted on good terms, but it was an abrupt departure. And it really shattered my confidence. And it made me realize that I had spent 20 years of my life climbing this mountain only to realize that as I looked across the valley, I climbed up the wrong freaking mountain. I wasn't on the right mountain. And so I was like, Oh my God, I worked so hard to get to the top. And now that I've gotten to the top of marketing, at least, you know, I think it was fair to say that I was considered a pretty elite marketer in my time. I was totally unfulfilled and unhappy with that. And I was like, there's got to be something more. There's got to be something that's missing. And I was so lost that, you know, I started reading a whole bunch of self help books and a whole bunch of leadership books and a whole bunch of career books and going to seminars. I did landmark forum. I did a bunch of stuff, got into meditation. And then I finally hired a coach, Jim Donovan and I worked with Jim for nine months, really kind of doing a lot of very deep soul searching and trying to figure out what's next for me. Where should I go from here? If marketing is no longer my thing, you know, is it a marketing thing? Is it that I need to be CEO? And through the course of that exploration, I realized that what I really wanted to do was dedicate my life to helping others and to helping others have a career of meaning and purpose. I wanted to help people, especially younger people. Avoid some of the mistakes that I had made and find something that was going to bring them fulfillment, joy, and happiness apart from what society conditions us to think of success, which is, you know, the money, the valuation, how much money I raised, how, you know, how much money I made, my exit, et cetera.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5559,
+      "timestamps": []
+    },
+    {
+      "end": 7680,
+      "excerpt": "And so I became a coach and I started coaching people in the Valley. I started coaching Googlers. I started coaching people at Meta. I coached some people at Yahoo. And I started coaching a number of founders and then you know, my ex wife, who's also an entrepreneur kind of runs in the family and she decides you want to move back to Chile.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7339,
+      "timestamps": []
+    },
+    {
+      "end": 8059,
+      "excerpt": "She was originally from Chile and she had this crazy idea. She's like, look, I started this company in Chile. I want to move back. I want to be close to my family. I think we should move to Chile. And after 10 years in the Valley and, you know, given all the changes that have happened in the Valley, which I think, you know, many people agree are not necessarily for the best.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7682,
+      "timestamps": []
+    },
+    {
+      "end": 8454,
+      "excerpt": "I decided it was time to leave. And so I made the decision in 2018 to move to Chile and to start over as a coach in this case. And so. You know, the short version of the stories I got to Chile, and I started coaching Chilean and South American entrepreneurs who needed even more help because they don't have the tools and the network and the content that we have in the States and the mentors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8061,
+      "timestamps": []
+    },
+    {
+      "end": 8778,
+      "excerpt": "And so I started coaching founders and venture backed companies in Chile, and then things started to snowball so quickly that I was like quickly overwhelmed with the amount of work. And so surprise, surprise. I ended up starting a company. I ended up subcontracting a lot of the work. I started working with other coaches.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8456,
+      "timestamps": []
+    },
+    {
+      "end": 9213,
+      "excerpt": "We started to build a whole platform to provide coaching to these founders and to other companies. And then one thing led to another. And all of a sudden we were working with Walmart and major banks and major mining companies. And the projects were getting a lot bigger and a lot more complex. And after three or four years of doing that, I would realize I was running a company, which was never the intention I just wanted to coach.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8780,
+      "timestamps": []
+    },
+    {
+      "end": 9630,
+      "excerpt": "Right. And so. That's kind of what led to the creation of LEAP and to all the work that we've done. And I think I'm really proud to say that our work has impacted some 18, 000 people indirectly and directly across the region. The last couple of years, we've worked with some of the, some of the region's leading unicorns, companies like Betterfly and Zeppelin and other regional top players, which has been amazing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9215,
+      "timestamps": []
+    },
+    {
+      "end": 10590,
+      "excerpt": "The work's been really rewarding. We did a lot of corporate work, which was interesting. I would not say it was as rewarding. I think when you work with corporations the motivations are different. The challenges are different. It's different kind of work, and then, you know, to close the loop I decided at the end of last year, I decided I, I wanted to return to the United States because my son who's gonna turn 17 wants to his last year of high school in the US and wants to play division one basketball in the US. And so I have to kind of pave the way for him. And as part of that entire process, I kind of retrenched, if you will, to focusing on what I love and do best, which is to coach founders. And so I've kind of like put the business on the side and delegated that to some other folks and gone back to doing coaching directly. And then, of course, as part of that process, I also wrote Step Back and LEAP, right? Which is all about this journey. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9632,
+      "timestamps": []
+    },
+    {
+      "end": 10899,
+      "excerpt": "Gopi Rangan: You've had a thrilling, adventurous career and life, and you describe it elegantly. But I know there were tremendous ups and downs. You went through that process, and I was there. Now, as you came out of the building on March 6, 2017. We went and had a drink to reflect on what really happened.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10592,
+      "timestamps": []
+    },
+    {
+      "end": 11215,
+      "excerpt": "And that was the beginning of the journey for your transformation. You came to the conclusion that marketing was not going to be your focus and the end of the many months of reflecting, you decided that coaching was going to be your path forward. What kind of founders do you coach? What kind of help do they need?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10901,
+      "timestamps": []
+    },
+    {
+      "end": 11649,
+      "excerpt": "Patrick Mork: Yeah. So I'll take that question in parts and I'll start with the second question. I would say every founder needs a coach. And I would go further and I would say any leader who can afford it should have a coach. I think if you look at Steph Curry, LeBron James, Mike Tyson, if you look at any great athlete, if you look at any great performer, pianist, celebrity, whatever, these people all have coaches, Tiger Woods.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 11217,
+      "timestamps": []
+    },
+    {
+      "end": 12018,
+      "excerpt": "I mean, Tiger Woods doesn't stop seeing a coach because he wins a tournament, right? Steph Curry doesn't stop having a coach because he wins an NBA ring. And I think the mistake that we as a society have made in business is that we believe that when we become CEO or we start a company or we become successful in an industry that we don't need to continue to develop.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11651,
+      "timestamps": []
+    },
+    {
+      "end": 12722,
+      "excerpt": "And so we never think about this in business because in business, it's not ingrained as part of the business culture that you should have a coach. I guess top business people you read books, maybe you take the occasional seminar, maybe you do an executive MBA, but nobody has conditioned us to think that running a business is a lifelong adventure. it's a lifelong pursuit. You need to continue to improve consistently. And so what I always tell founders, and I always tell investors is. If you want to really be successful in your business, you have to continue to constantly develop yourself as the CEO. And the best way to do that, regardless of whether it's me or whoever else, is to get coaching. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12020,
+      "timestamps": []
+    },
+    {
+      "end": 13044,
+      "excerpt": "The types of people that I coach; I'm very specific about who I coach and I have a process and I turn away people frequently because I look for what I call purpose driven entrepreneurs. I don't look for people looking to make a buck. I don't look for people looking to build latest, coolest technology because it's cool.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12724,
+      "timestamps": []
+    },
+    {
+      "end": 13819,
+      "excerpt": "I don't look for people who are trying to, you know, build a billion dollar company. That stuff, frankly, does not interest me. Right. I look for people who are looking to do something fundamentally very disruptive to their industry and are looking to do it for a bigger benefit for society, right? So one of my clients is an amazing cutting edge healthcare company in Switzerland, which is developing hardware and software to help people track their glucose levels and then coaches them in nutrition for them to lead a more balanced lifestyle and to reduce adult obesity, which is a massive problem in society. Right. And so those are the kinds of entrepreneurs that I like to coach is I like to coach people who are humble enough to know that they don't know the answers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13046,
+      "timestamps": []
+    },
+    {
+      "end": 14212,
+      "excerpt": "Mature enough to know that they need to continue to develop their skills because there's just a lot of things that they don't know, but also want to build a business that has a bigger impact besides just the money or the valuation, or a lot of these things, which society and the media has conditioned us to think are important, but are actually the derivatives of a purpose-driven business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13821,
+      "timestamps": []
+    },
+    {
+      "end": 14574,
+      "excerpt": "So those are the kinds of folks that I like to work with. And then your third question was, like I said, you know, purpose driven people, the industries range from healthcare to HR tech, to robotics, I've coached people running ad agencies. I've coached people in cybersecurity. I've coached people in finance, in fintech, I'm kind of industry agnostic, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14214,
+      "timestamps": []
+    },
+    {
+      "end": 14919,
+      "excerpt": "So I don't really have an industry specific focus, but I am looking for founders and businesses that are doing something fundamentally disruptive and that has a net huge positive contribution to society. In terms of more specifically the stages, I generally coach people who are In the C to series a series B that's kind of like my sweet spot.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14576,
+      "timestamps": []
+    },
+    {
+      "end": 15215,
+      "excerpt": "I don't do people that are trying to figure out product market fit because I don't feel that I can add enough value to them. And I don't coach people that are beyond series B because the challenges that they are facing are not necessarily challenges that I have been in, later series companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14921,
+      "timestamps": []
+    },
+    {
+      "end": 15385,
+      "excerpt": "I've been in companies that went public, but I don't have as much experience, in that realm. So I, kind of towed that sweet spot between seed and series B kind of size.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15217,
+      "timestamps": []
+    },
+    {
+      "end": 15878,
+      "excerpt": "Gopi Rangan: Now the way I reflect on venture capital as an industry is if we split it into three phases, leading up to say year 2000, 2005 around the time, it was a lot of project management. That's what venture capital investors offer. A bunch of brilliant engineers built something and they needed professional management team to help build a business. So some of the most brilliant investors at that time were very good project managers. I'm kind of their role, but that's what they did.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15387,
+      "timestamps": []
+    },
+    {
+      "end": 16264,
+      "excerpt": "They made sure that things were on time and on schedule and they had a plan for how to build something. The second phase of Venture Capital expanded that, turned it into a platform. So if a founder or a startup needed help on any topic, starting with being a fractional CFO, or someone who needed access to design skills, or product management skills, or corporate development skills.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15880,
+      "timestamps": []
+    },
+    {
+      "end": 16634,
+      "excerpt": "So many platform VCs formed and offered all kinds of solutions to startup. Come here, any question you have, we have answers for you within our network. Most good VCs still operate that way. But I think the venture capital industry has evolved to a stage - perhaps starting about five to eight years ago - where founders can access a lot of this through their network.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16266,
+      "timestamps": []
+    },
+    {
+      "end": 16964,
+      "excerpt": "And they've already built that network for themselves. If they don't, they can get access to solutions through other means. They can find coaches, they can find advisors and experts who can help them with each of these topics. What they really need is someone who can sit with them, think through, give them space to brainstorm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16636,
+      "timestamps": []
+    },
+    {
+      "end": 17257,
+      "excerpt": "There are good days and bad days. So I think of myself in the same way that I want to be a coach to the founder so that they can define what is success. And try to achieve that in their own way. And that's their purpose. And can I unleash that for them? Can I help them through that process?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16966,
+      "timestamps": []
+    },
+    {
+      "end": 17480,
+      "excerpt": "So I feel like the future of startup evolution and venture capital is also going in that direction. But let me ask you a very simple question that comes up quite often. What's the difference between therapy and coaching? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17259,
+      "timestamps": []
+    },
+    {
+      "end": 17774,
+      "excerpt": "Patrick Mork: Great question. I think the simplest way to look at it and, and, you know, I was just talking with a client today and I suggested to him, you know, based on some of his challenges that he should seek therapy because he was dealing with some demons that I couldn't help him with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 17482,
+      "timestamps": []
+    },
+    {
+      "end": 18153,
+      "excerpt": "And the simple way for people listening to this to think about the difference is that therapy deals with trauma. It deals with what's happened in your past and how it's affecting you today. Right. And so somebody who's going to help you understand your trauma and put that to rest requires and needs certain skills that often, not always, but often a coach may not have. Okay. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17776,
+      "timestamps": []
+    },
+    {
+      "end": 18465,
+      "excerpt": "A coach deals with your future and where you are today, right? And so think of a therapist as past to present and a coach as present to future. So my job as a coach is to help the founder first of all, get clarity on what they want. And why they want it. Because oftentimes people think, well, I want billions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18155,
+      "timestamps": []
+    },
+    {
+      "end": 18802,
+      "excerpt": "Okay, well, why do you want billions? Like, where's that coming from? I want to be seen. I want to be in tech crunch. Why does that matter to you? Why is that so important? Right? So fundamentally the coach's role is help founders get clarity on what they want. And then help founders figure out what the action steps are to get there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18467,
+      "timestamps": []
+    },
+    {
+      "end": 19431,
+      "excerpt": "Right? So my role is to help you get what you want, but to help you make sure that you understand why you want what you want. And if that is in fact what you want, or if you want something else, so oftentimes therapy and coaching are complimentary, right? They can even be sequential. I dealt with one founder who had a lot of issues and we ended up stopping the coaching process because we came to the conclusion that he needed therapy and I was like, \"come back to me when you've worked with a therapist that can help you get over some of the issues that are blocking you because they are affecting our coaching relationship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18804,
+      "timestamps": []
+    },
+    {
+      "end": 19804,
+      "excerpt": "You have a, what we call in coaching, a limiting belief that is blocking you from working with me. You're working against me.\" This particular founder, who's a very smart, very talented guy was constantly trying to challenge me and prove me wrong. It was something that was deep in his psyche where it's like, I'm going to show this ex-Google guy why I'm better than him.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19433,
+      "timestamps": []
+    },
+    {
+      "end": 20144,
+      "excerpt": "And that was coming from something in his past. Which I figured out, but that doesn't help him. He's got to figure that out and he's got to come to grips with it. If he's going to work with a coach, whether it's me or anyone else. So, you know, that, that would be the simplest way of summarizing it as past to present, present to future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19806,
+      "timestamps": []
+    },
+    {
+      "end": 20516,
+      "excerpt": "And of course the skill sets are different, right? Some coaches, many coaches actually have a psychology background. My co-founder, for example, at LEAP she was a trained psychologist. But not all of them are. A lot of the best coaches, especially for founders are business people - people who come from the business world or people who have been in the trenches, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20146,
+      "timestamps": []
+    },
+    {
+      "end": 20810,
+      "excerpt": "One of the reasons that I have been successful as a coach is because people know that I've been in startups for 20 years. So many of the issues that they're dealing with, I've seen, I've dealt with those things, right? That's a little bit how I would summarize the difference between the two.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20518,
+      "timestamps": []
+    },
+    {
+      "end": 21091,
+      "excerpt": "Gopi Rangan: That's a great way to describe the difference between coaching and therapy. And I see the complementary sides of the two things that go together. What are some two or three things that founders do really well they benefit from coaching? how does coaching help them? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20812,
+      "timestamps": []
+    },
+    {
+      "end": 21768,
+      "excerpt": "Patrick Mork: A couple of things, right? So I think the first thing with coaching is that when you work with a good coach who has the right tools, one of the things that you benefit from enormously as a founder is an a heightened degree of self-awareness. Right? One of the challenges that we have as human beings; and Eric Schmidt from Google said this about his coaching experience is people are never as good as seeing themselves as others see them are not good at that. We have an opinion of ourselves based on our own experience, based on our own biases, based on our own strengths and weaknesses, which is not always in line with the reality of how other people see us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 21093,
+      "timestamps": []
+    },
+    {
+      "end": 22273,
+      "excerpt": "And so the role of a founder is not to build a company. The role of the founder is to, you know, get out and create that first product. And start building the team and the culture and the ecosystem that is going to turn that product into a company. And that means that as a founder. The most important thing that you need to be able to do aside from build a product and hire great people is you need to be able to influence people because the people and the team are what is going to build your company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21770,
+      "timestamps": []
+    },
+    {
+      "end": 22611,
+      "excerpt": "You're not going to build your company. Your team's going to build your company, right? And so if you don't have self awareness, then you don't know how people are seeing you. And if you don't know how people see you, you can influence them, right? So when I start working with somebody, the first thing I do is a leadership diagnostic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22275,
+      "timestamps": []
+    },
+    {
+      "end": 22988,
+      "excerpt": "And diagnostic is a 360, and it compares how the founder sees themselves and how everybody else sees them. And the delta of the two is where the founder needs to pay attention. that doesn't necessarily mean that they need to improve everything that's wrong. Right? That's a mistake. As a matter of fact, the best founders I think focus on what they're really, really good at.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22613,
+      "timestamps": []
+    },
+    {
+      "end": 23211,
+      "excerpt": "And they just have a laser focus on that. And then they try and compensate a little bit on some other things, which they improve. And then the rest, they delegate. Okay. So self awareness, I would say is the first thing. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22990,
+      "timestamps": []
+    },
+    {
+      "end": 23818,
+      "excerpt": "The second thing about founders is working on self confidence. An amazing amount of founders, even the most talented founders end up either with imposter syndrome, which is like, they wake up one day, they have some degree of success and they're like, \"Oh my God, I'm a fraud. How did I get here? Somebody is going to find out. I don't have any right to be here. I'm not good enough.\" It happens often or the other part, you know, have a couple of setbacks, which of course in startup land you're going to have far more setbacks than successes, and then one day they wake up and they have lost confidence.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23213,
+      "timestamps": []
+    },
+    {
+      "end": 24196,
+      "excerpt": "And guess what? When you lose that confidence, your team feels that, when your team feels that you don't have confidence and are not decisive, that can cripple your effectiveness as a leader. And it cripples your influence, right? So think the other thing coaching can be very, very helpful is helping founders reconnect with what made them successful or what makes them good.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23820,
+      "timestamps": []
+    },
+    {
+      "end": 24548,
+      "excerpt": "And boost their confidence and give them tools to manage their confidence when they're suffering. And then I would say the last thing is, I think coaching is also about providing founders with the tools to build psychological safety, right? Psychological safety as defined by, you know, Amy Edmondson at Harvard, who of course wrote the book on this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24198,
+      "timestamps": []
+    },
+    {
+      "end": 25154,
+      "excerpt": "It's really about creating an environment where people feel safe to express their opinions to disagree with the boss, to come up with novel ideas, to be wrong without fear of being judged or punished or ostracized, right? That's what psychological safety is all about. Google in 2012 ran global study where were analyzing, I think, 120 teams across 80 countries to see what creates high performance teams. They really wanted to study and understand what are the ingredients that make high performance teams. They came up with, this thing called a summary result, which was later called Project Aristotle.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24550,
+      "timestamps": []
+    },
+    {
+      "end": 25602,
+      "excerpt": "And they identified five core factors that make the difference between the A players and the B plus players. And at the top of the list, surprise, surprise was psychological safety. All of the teams that were top, top, top, top, top had high degrees of psychological safety, right? And so as a founder, one of your main jobs is you have to establish very high levels of psychological safety in your company and especially in your management team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25156,
+      "timestamps": []
+    },
+    {
+      "end": 26193,
+      "excerpt": "If people don't feel safe, they're not going to bring you the bad news. They're not going to challenge you or call you out on your BS. They are not going to come up with innovative ideas when you need to. And they're not going to tell you the things that you need to hear. And so that's a challenge for founders because the difficult thing about being a founder is that becoming successful becomes its own worst enemy because the more successful you are and the higher you're flying, the more removed you are from your customers and the more removed you are from people who have the nerve.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25604,
+      "timestamps": []
+    },
+    {
+      "end": 26605,
+      "excerpt": "To tell you what you're doing wrong and what you need to hear. Right. And so when you have psychological safety, even if you're Elon Musk, or even if you're Zuckerberg or whoever, you've created an environment where people will call you out, even though you're Elon Musk, and if you haven't created that safety, that's the recipe for failure because you're going to mess up and nobody's going to dare tell you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26195,
+      "timestamps": []
+    },
+    {
+      "end": 26753,
+      "excerpt": "So those would be kind of three things I would say are absolutely critical for founders where coaching really helps a lot. There are many others. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26607,
+      "timestamps": []
+    },
+    {
+      "end": 26919,
+      "excerpt": "Gopi Rangan: Self awareness, confidence and psychological safety. We've all been there. I've certainly been there in those situations where I felt like an imposter.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26755,
+      "timestamps": []
+    },
+    {
+      "end": 27268,
+      "excerpt": "Like, how do I even deserve to be in this spot? This feels amazing, but I don't feel qualified. And those thoughts come through many people's minds. They're very successful people as well. It's good to have a coach who can remind and show where you really belong. What are things that you can work on? How to build confidence through that process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26921,
+      "timestamps": []
+    },
+    {
+      "end": 27357,
+      "excerpt": "Then create that psychological safety, both for yourself and for your team around you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27270,
+      "timestamps": []
+    },
+    {
+      "end": 27640,
+      "excerpt": "Patrick Mork: I would tell you that 90 percent of my clients have that struggle, Gopi. 90 percent of CEOs I've worked with either have. Imposter syndrome or they just don't have enough confidence in certain parts of the journey. It's one or the other, it's extremely common, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 27359,
+      "timestamps": []
+    },
+    {
+      "end": 28094,
+      "excerpt": "And I would say as a bonus, fourth thing that I think coaches can really help CEOs with is communication. If you're not able to communicate effectively, not just talking and communicating and writing slacks or presentations or presenting, but if you're not able to actively listen to your team, you're going to have an issue as well and I think coaching can provide founders with proven tools and frameworks that really improve communication massively.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27642,
+      "timestamps": []
+    },
+    {
+      "end": 28328,
+      "excerpt": "Gopi Rangan: I see that the wealth of your knowledge based on your own personal experience as a founder and as someone who's worked at many startups, you can bring a lot of those lessons in your coaching sessions with your founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28096,
+      "timestamps": []
+    },
+    {
+      "end": 28530,
+      "excerpt": "Let's flip the conversation. What happens when a founder doesn't get coaching? What are like one or two major problems that you've seen commonly among founders when they don't get help with coaching? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28330,
+      "timestamps": []
+    },
+    {
+      "end": 28649,
+      "excerpt": "Patrick Mork: I mean, obviously every situation is different. Every founder is different. Every company is different.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 28532,
+      "timestamps": []
+    },
+    {
+      "end": 28908,
+      "excerpt": "Every stage is different, right? So I wouldn't say that, founders are destined for failure if they don't get coaching. The challenge that I see with a lot of founders who don't get coaching and not all of them, is that culture ends up being an afterthought.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28651,
+      "timestamps": []
+    },
+    {
+      "end": 29328,
+      "excerpt": "And so you wake up one day and you're running a business that has 400 or 500 different employees. And you're starting to have a lot of problems. And the reason that you're having a lot of problems is that you haven't paid enough attention to culture and because you haven't paid enough attention to culture, you're just recruiting and building teams based on talent and experience, but not based on fit and on culture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28910,
+      "timestamps": []
+    },
+    {
+      "end": 29673,
+      "excerpt": "And culture comes from a combination of several different pieces, right? Culture on the one hand is driven by the company's purpose, right? So why are we here? What's the big hairy problem that we're trying to solve and how are we making the world a better place? But culture is also driven by your vision, your mission and your values, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29330,
+      "timestamps": []
+    },
+    {
+      "end": 30526,
+      "excerpt": "And so oftentimes when I walk into a company that is having a lot of problems in terms of collaboration, communication, execution. A lot of it is because they haven't set that culture or they waited too long or they've built the wrong culture. Right. And so that's one of the biggest problems I see with people that can be in our later stage and they're going, \" well, I don't understand. We hired the super smart engineer and, and, you know, he's awesome. And on paper and his ability to code and do things is amazing.\" And then when they described him to me or her, I go, okay, well, you know, what are the company's main values that you guys really want the company to stand for? Well, you know, we want speed and innovation, et cetera, but we also want humility and I'm like, okay, you want humility, but you just hired a guy from X, Y, Z company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29675,
+      "timestamps": []
+    },
+    {
+      "end": 30949,
+      "excerpt": "Who's a complete arrogant SOB and that person does not work well with other people. And so you're surprised because you want your company to be humble, but you haven't really manifested that in your recruiting process and you end up hiring this SOB who doesn't get along with anybody. Right? And so that's part of the problem when founders wait too long and don't really have anybody to push back and ask those questions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30528,
+      "timestamps": []
+    },
+    {
+      "end": 31317,
+      "excerpt": "Is that they don't know what they don't know. And so they think that just by hitting financial metrics or unit sales or whatever, or getting more customers that they're building a great company. But it's like building a house, You can build a house very, very quickly. But if you haven't built a solid foundation, what happens as you build a bigger and bigger house?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30951,
+      "timestamps": []
+    },
+    {
+      "end": 31625,
+      "excerpt": "Well, eventually it all just comes crashing down, right? And so the biggest mistake I see founders make is they wait too long to tackle the culture issue. They never take the time and slow down and say, okay, what are our values? How do those values translate into leadership behaviors? What's our purpose?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31319,
+      "timestamps": []
+    },
+    {
+      "end": 31908,
+      "excerpt": "What do we want to try and achieve with this company? And then how do we build a culture and hire people that fit that culture that we desire and by the time they get around to it, sometimes it's just too late because the bigger your company the harder it is to change the culture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31627,
+      "timestamps": []
+    },
+    {
+      "end": 31998,
+      "excerpt": "Gopi Rangan: A small company reflects very easily, very clearly how the founder behaves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 31910,
+      "timestamps": []
+    },
+    {
+      "end": 32195,
+      "excerpt": "It's the personality of the founder that comes through and how cultures that small companies are built. It's very important for that culture to be established early on with the right foundation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32000,
+      "timestamps": []
+    },
+    {
+      "end": 32315,
+      "excerpt": "Patrick Mork: It's very important for the simple reason that one of the questions I get asked the most by founders is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 32197,
+      "timestamps": []
+    },
+    {
+      "end": 32713,
+      "excerpt": "How do I increase the productivity of my people? How do I get people more fired up? How do I get more passion? How do I get more innovation? You know, how do I get people to work more autonomously? How do I get them to care more? Because it seems that as your company gets bigger and as more and more people are added to the company that are farther removed from the founder in his or her vision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32317,
+      "timestamps": []
+    },
+    {
+      "end": 33102,
+      "excerpt": "The slower it goes, which is horribly frustrating for founders. And when people ask me, well, why is that? And the thing I always ask them is like, what do you think motivates your people? I was talking to a founder about this this morning. he was like, well, I don't know. I mean, I think they're motivated by money, but all the research tells us that people are not motivated by money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32715,
+      "timestamps": []
+    },
+    {
+      "end": 33538,
+      "excerpt": "As a matter of fact, extrinsic motivations are the worst thing that you can give people to incentivize them to work harder or work or be more innovative or to stay in your company. What motivates people. Is intrinsic motivation, right? So the famous story of Jack Kennedy, when he went to visit NASA, when they were trying to put a man in the moon and he walks into the restroom and he sees a janitor and he goes, what do you do here?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33104,
+      "timestamps": []
+    },
+    {
+      "end": 33892,
+      "excerpt": "And the janitor turns around and goes, I'm helping to put a person on the moon. He doesn't say I'm cleaning the fricking bathrooms. He says, I'm helping to get a person on the moon. That's what founders miss when they are unable to articulate a reason for being for their company is they don't inspire people to do something beyond the paycheck, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33540,
+      "timestamps": []
+    },
+    {
+      "end": 34201,
+      "excerpt": "You know, if you've got 500, 600 employees and you're trying to convince a junior engineer about the importance of market share or valuation or making more money or having a bonus or having, you know, more, more free bean bags. That is not how you motivate people and that's the problem they end up making. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33894,
+      "timestamps": []
+    },
+    {
+      "end": 34320,
+      "excerpt": "Gopi Rangan: When employees are aligned with the mission of the company they show up at work to further that mission.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 34203,
+      "timestamps": []
+    },
+    {
+      "end": 34559,
+      "excerpt": "It shows in the progress the company makes. How can founders find the best coaches? What are some questions they can ask a coach? What's the process you advise to founders so that they can find the absolute best coach that they can get? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34322,
+      "timestamps": []
+    },
+    {
+      "end": 35002,
+      "excerpt": "Patrick Mork: I always tell people, when you make the decision to hire a coach, which hopefully comes from the founder himself or herself, that's the best way. But sometimes it's strongly encouraged by an investor or a board member. I always tell them, you know, it's, it's like finding any other partner or vendor. have to do your homework. You have to talk with a number of different coaches and then you have to see what is the best fit. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 34561,
+      "timestamps": []
+    },
+    {
+      "end": 35426,
+      "excerpt": "When you think of the checklist on what makes a great coach, I would say first and foremost is trust. You have to be able to trust your coach 150%. You have to be able to walk into a coaching session and know that you can tell this coach the most personal things, the most embarrassing things, the most hideous things that you wouldn't even tell your parents or your wife. that's the kind of relationship you want to have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35004,
+      "timestamps": []
+    },
+    {
+      "end": 35769,
+      "excerpt": "You want to be able to tell the coach everything that is affecting you because everything that affects you affects your ability to be successful as a founder as a CEO, right? So if I, as a coach, don't know that you're having marital problems, I can't help you with that. But I know that it's going to have an impact on your ability to lead.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35428,
+      "timestamps": []
+    },
+    {
+      "end": 36093,
+      "excerpt": "If I don't know as a coach that you're having financial problems or that you have heart condition or that your kids are going completely AWOL or one of them is on drugs, I can't help you with that. Right. So having the trust where you know that you can talk about anything with your coach, I think is the number one thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35771,
+      "timestamps": []
+    },
+    {
+      "end": 36405,
+      "excerpt": "The number two thing is you have to have coaches that are experienced, right? That know what they're doing and that have been there and worked with founders, with founders is a very different thing from working with corporate execs. The level of pressure, the level of conflict of challenge of problem solving.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36095,
+      "timestamps": []
+    },
+    {
+      "end": 36793,
+      "excerpt": "Corporate people will never be able to understand it. They might think they can, they can't. Any of us who have been founders will tell you that this is the hardest thing that you can do from a career point of view, whether you're starting a fund like you did or starting a more traditional company or software company. Having coaches who have worked with founders before is a big plus.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36407,
+      "timestamps": []
+    },
+    {
+      "end": 37160,
+      "excerpt": "I don't think it necessarily means that the coach has to have been a founder. I think that's also a huge plus, but I don't think it's necessary. I think there are amazing coaches who can help founders. I've met many of them do a fantastic job. So, it's trust it's experience. think the other thing is the coach's style. You have to know what kind of style you want.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36795,
+      "timestamps": []
+    },
+    {
+      "end": 37855,
+      "excerpt": "Some people come in and they tell me. I need somebody who's much tougher with me. Like I need somebody who's going to like literally slap me around and be confrontational when I need somebody to call me on my BS. And I have some people who say, no, I need somebody who's more mothering. I need somebody who's kind of like much more chilled out, who's much more philosophical. And so you need to understand what kind of coaching style is going to be best for you, because if you get the coach with the wrong style, I'm too abrasive for some people, some people are just like, you know what? You're just too intense. I already have enough intensity with my board, so I'm not a good fit for them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37162,
+      "timestamps": []
+    },
+    {
+      "end": 38210,
+      "excerpt": "And some people are like, no, you're awesome. Because I don't have anybody in my company that challenges me. And you're the only one who really actually pushes back and says, Hey, no, this isn't going to work. So I think understanding a person's style is important. And then, you have to look at how many hours of flight time does the coach have, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37857,
+      "timestamps": []
+    },
+    {
+      "end": 38553,
+      "excerpt": "It's like, it's like getting on a plane, you know, you're going to have a lot more confidence with somebody who's flown. 10, 000 hours than somebody who's flown 10 hours, right? So, so having people who are experienced, who have coaching credentials, who really know what they're doing. And last but not least, you know, get recommendations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38212,
+      "timestamps": []
+    },
+    {
+      "end": 38862,
+      "excerpt": "You know, if you're talking to a coach, them to talk to five or 10 people that they've coached and, and talk to those people and ask them, you know, what was it like working with this woman? Was it, what's the good thing? What's the bad thing? Would they be a good fit for me? So you gotta do your homework.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38555,
+      "timestamps": []
+    },
+    {
+      "end": 39176,
+      "excerpt": "Gopi Rangan: That personal chemistry matters as well. Huge. It's fundamental. Yes, all of these can come through and help form that personal chemistry. You've been very helpful to me in many situations as well. You've pushed me hard, asked tough questions, and that's been tremendously helpful in my journey too.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 38864,
+      "timestamps": []
+    },
+    {
+      "end": 39356,
+      "excerpt": "We're coming towards the end of our conversation, and I want to ask you about your community involvement. Is there a non profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39178,
+      "timestamps": []
+    },
+    {
+      "end": 39443,
+      "excerpt": "Patrick Mork: I think what the Cousteau foundation has done is absolutely remarkable.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 39358,
+      "timestamps": []
+    },
+    {
+      "end": 39860,
+      "excerpt": "For anybody who looks at the challenges that we have with global climate change, with pollution in the seas, with the endangerment of species, what this man during his lifetime was able to do for the planet and the way that he was able to galvanize political leaders of all kind of walks of life to put more focus on some of the issues that are facing the planet, especially the oceans, I think was was remarkable. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39445,
+      "timestamps": []
+    },
+    {
+      "end": 40030,
+      "excerpt": "Gopi Rangan: Climate change is an important topic and I'm glad that you highlighted and a great organization here. Patrick, thank you so much for spending time with me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 39862,
+      "timestamps": []
+    },
+    {
+      "end": 40388,
+      "excerpt": "Thank you for sharing your personal experiences. Thank you for sharing my pearls of wisdom on how coaching can be valuable, specific things about what founders can do to improve their situation, give their startup a really good chance to achieve success and your pearls of wisdom are very valuable. And I look forward to sharing your wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40032,
+      "timestamps": []
+    },
+    {
+      "end": 40873,
+      "excerpt": "Patrick Mork: Thank you so much for having me Gopi and thank you for all the great questions, all the insights, all the work that you do for the startup community. You know, I think likewise, you know, you and I have known each other for a long time. It's a crazy, crazy how fast time goes. And I'm in admiration and all of everything that you've achieved with Sure Ventures and your own pivot to becoming a venture capitalist and doing the great work that you do with entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Patrick Mork",
+      "start": 40390,
+      "timestamps": []
+    },
+    {
+      "end": 41253,
+      "excerpt": "I wish there were more investors, who had your patience, your perspective, your ability to kind of coach and build trust with founders. I think it's really remarkable. And, in your own right, being an entrepreneur, right? Starting a fund is really, really hard. I don't think, entrepreneurs appreciate that journey and how difficult it is because you're really selling yourself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40875,
+      "timestamps": []
+    },
+    {
+      "end": 41428,
+      "excerpt": "And your your thesis as opposed to a product. So I think at times it can be harder. So, I definitely appreciate the time today and everything that you do for the ecosystem. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41255,
+      "timestamps": []
+    },
+    {
+      "end": 41635,
+      "excerpt": "Gopi Rangan: Thank you very much, Patrick. Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 41430,
+      "timestamps": []
+    },
+    {
+      "end": 41802,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41637,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "ef7692e9bebb005a92a7357f37d3c1f89851ea88d6b47c5653df5ba3fd4ba48d",
+  "text_sha256": "d15e10abcdc14148f532b715eac0b3ea9e7f76c3fd244e9f53bf21e85da4ff76"
+}

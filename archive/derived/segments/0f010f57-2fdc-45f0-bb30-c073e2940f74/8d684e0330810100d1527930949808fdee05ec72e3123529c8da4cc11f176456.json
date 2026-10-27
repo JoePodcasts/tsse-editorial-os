@@ -1,0 +1,1031 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 261,
+      "excerpt": "\"We don't have healthcare. What we do by and large is \"Let's take a problem. Fix you up and send you back home\" ideally. And it's focused on acute rather than preventive. It's focused on let's make sure to fix a problem rather than solve a problem.\" - Amit Garg",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 672,
+      "excerpt": "[00:00:25] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Amit Garg. He's a managing partner and co-founder at Tau Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 263,
+      "timestamps": [
+        {
+          "offset": 263,
+          "raw": "[00:00:25]",
+          "seconds": 25
+        }
+      ]
+    },
+    {
+      "end": 1149,
+      "excerpt": "Tau Ventures invests in healthcare enterprise and automation, and very strongly focuses on artificial intelligence. We're gonna talk to Amit about Tau Ventures, his perspectives on what is a good fit for his firm when he talks to founders, what gets him excited, what kind of companies he likes to invest in, and we're also going to talk to him about reasons for why he says no to some of those investments when he meets founders. Amit, welcome to The Sure Shot Entrepreneur ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 674,
+      "timestamps": []
+    },
+    {
+      "end": 1250,
+      "excerpt": "[00:01:25] Amit Garg: Gopi, thank you very much for having me. Thank you to all of your listeners. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 1151,
+      "timestamps": [
+        {
+          "offset": 1151,
+          "raw": "[00:01:25]",
+          "seconds": 85
+        }
+      ]
+    },
+    {
+      "end": 1400,
+      "excerpt": "[00:01:28] Gopi Rangan: I'm excited to have this conversation, but let's start with you first, where you grew up and how you came to Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1252,
+      "timestamps": [
+        {
+          "offset": 1252,
+          "raw": "[00:01:28]",
+          "seconds": 88
+        }
+      ]
+    },
+    {
+      "end": 1475,
+      "excerpt": "You are Indian, but you grew up in Brazil, in a small town on the coast. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1402,
+      "timestamps": []
+    },
+    {
+      "end": 1884,
+      "excerpt": "[00:01:39] Amit Garg: Well, yes, ethnically Indian by nationality and by childhood and by connection, a Brazilian, so yes, I did grow up in a, I wouldn't call it a town. It was a smaller city that has grown a lot. It's a city on the coast of Brazil and how my parents ended up there is a longer story, but the short of it is they went for work and they ended up staying. They're still in Brazil 52 years in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 1477,
+      "timestamps": [
+        {
+          "offset": 1477,
+          "raw": "[00:01:39]",
+          "seconds": 99
+        }
+      ]
+    },
+    {
+      "end": 2446,
+      "excerpt": "I did my high school in the capital of Brazil and I came to the US for college. I did my undergrad and my master's in computer science and biology. I was a minor in biology technically. I did my master's at the intersection of those two, what you would call today, health AI. I could have gone to medical school. I did get in, but I also had an opportunity to join Google. And for me, it was the right choice to go to Google. I had an incredible journey there. After a few years, I went to business school, and after that I joined venture capital and startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1886,
+      "timestamps": []
+    },
+    {
+      "end": 2684,
+      "excerpt": "I started my career at a big fund, then became a co-founder of a startup. Then went back into VC and just about six years now, co-founded Tau Ventures with an ex-colleague of mine. So that's the, you know, shorter version of the story. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2448,
+      "timestamps": []
+    },
+    {
+      "end": 2947,
+      "excerpt": "[00:02:52] Gopi Rangan: Very interesting indeed. I see that you started in Big Tech, you were a co-founder of a startup, you were at a large VC firm, and then you decided to start your own firm. I'm curious to understand why is venture capital exciting to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2686,
+      "timestamps": [
+        {
+          "offset": 2686,
+          "raw": "[00:02:52]",
+          "seconds": 172
+        }
+      ]
+    },
+    {
+      "end": 3127,
+      "excerpt": "[00:03:06] Amit Garg: Venture capital is one of the most exciting things, honestly, in the world, especially early stage because you get to see innovation happening in real time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 2949,
+      "timestamps": [
+        {
+          "offset": 2949,
+          "raw": "[00:03:06]",
+          "seconds": 186
+        }
+      ]
+    },
+    {
+      "end": 3431,
+      "excerpt": "It's taking an idea whose time is right and making it commercially viable. I feel very blessed to be doing what I do, honestly, not just for the sake of saying it. I get to connect with thousands of people every year, all of which are smarter about what they're doing than me. I get to learn from them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3129,
+      "timestamps": []
+    },
+    {
+      "end": 3753,
+      "excerpt": "I get to see what's happening in the world. It's a great profession for somebody who is always curious, always willing to learn, always willing to unlearn Also, because if what I believed was true is no longer true, then I have to unlearn it and relearn. So it keeps you mentally active. It's intellectually stimulating.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3433,
+      "timestamps": []
+    },
+    {
+      "end": 4482,
+      "excerpt": "And then the flip side of this is also I get to, in a small number of cases, help the founder. I look at 6,000 deals right now between me and my team, we end up saying yes to about 12 of them per year. In those 12 cases, we really work closely with our founders to help them with customers, with investors, with hires, with strategy, with product, with technology, with marketing, with everything that they need granted that they are the captains of the ship, and I'm the first mate. So I'm there to help them. I'm not running the company, but it's very meaningful that I'm able to actually make a difference and change the outcome perhaps, of a company's trajectory. It creates more jobs. It brings an innovation to the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3755,
+      "timestamps": []
+    },
+    {
+      "end": 4638,
+      "excerpt": "I think it takes humanity to a , better path. That's how we have gotten into where we are, and that's how we'll go further as a society and as a species. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4484,
+      "timestamps": []
+    },
+    {
+      "end": 4979,
+      "excerpt": "[00:04:48] Gopi Rangan: Venture capital is indeed one of the most important parts of the business ecosystem. And I resonate with many things you said. The impact that founders can create is enormous and if we can be a part of that journey, especially in the early days, we can really move the needle. We can change the way the world works.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4640,
+      "timestamps": [
+        {
+          "offset": 4640,
+          "raw": "[00:04:48]",
+          "seconds": 288
+        }
+      ]
+    },
+    {
+      "end": 5059,
+      "excerpt": "Tell me about Tau Ventures. How is Tau Ventures different from other VC firms?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4981,
+      "timestamps": []
+    },
+    {
+      "end": 5374,
+      "excerpt": "[00:05:11] Amit Garg: I do think that there's some things here we do that are differentiated. One of them is we're subject matter experts from having been entrepreneurs and operators in this space and VCs, before this in this space also. So when I'm investing in digital health, I dare say I really know my stuff.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 5061,
+      "timestamps": [
+        {
+          "offset": 5061,
+          "raw": "[00:05:11]",
+          "seconds": 311
+        }
+      ]
+    },
+    {
+      "end": 5842,
+      "excerpt": "I'm not saying I know everything. I don't. I'm not saying I know everyone, I don't, but I know a lot and if I don't, I can figure out a way to get the answer. We have a very large community at this point in one shape or formance, 1.6 million followers. So we leverage that community to help us understand what questions to ask and what answers to get. So that's, I think, one big part of the differentiation, the subject matter expertise complimented by the network.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5376,
+      "timestamps": []
+    },
+    {
+      "end": 6456,
+      "excerpt": "The second part I would say is we're willing to put in the time. I'm not saying once again that I'm the only VC who is smart. There's plenty of VCs who are smart, but we're also willing to put in the time, and I think that's what matters. At the end of the day, if you know a lot about something but you don't actually actively engage with the founders, with the team and do things for them and open up doors and give them advice and challenge them on many different aspects, and also listen from them, then your expertise is not being tapped, right? It's a nice to have, it's not doing anything for the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5844,
+      "timestamps": []
+    },
+    {
+      "end": 6784,
+      "excerpt": "So I would argue that's the second thing. We really, really try to do whatever we can to help our portfolio companies and companies that don't need much help, you know, we respect it. We let them connect with us as much as they need. And companies that do actively need more help, we really put all hands on deck to help them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6458,
+      "timestamps": []
+    },
+    {
+      "end": 7276,
+      "excerpt": "The third thing I would say is we really believe here as an ethos, having been founders of ourselves, that we have to find the intersection of interests. A lot of VCs will say, we are founder-first. I think that's at best marketing. We can't be founder-first because we have our own interests. What I would argue is we are overlap-first, I figure out what my interests are, what the founder's interests are, and I will play in the intersection of those interests so that we create win-wins.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6786,
+      "timestamps": []
+    },
+    {
+      "end": 7834,
+      "excerpt": "That's what I'm doing. I'm very pragmatic about this. There are things I can do that go against the interest of a founder. There are things that a founder can do that go against the interest of a VC. Well, let's not do those things. Let's do the things that both of us will benefit from. So when people say, I'm founder-first, I think it's a misnomer, to be honest. I think we should talk about overlap first. I'm overlap first. I'm not gonna do things that will hurt the founder. I will figure out a way to do the things that both of us can benefit from. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7278,
+      "timestamps": []
+    },
+    {
+      "end": 8009,
+      "excerpt": "[00:07:46] Gopi Rangan: I usually say the first rule of VCs, like, uh, don't be evil or don't screw up the founder's journey. And if you can do that, then you can add value.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7836,
+      "timestamps": [
+        {
+          "offset": 7836,
+          "raw": "[00:07:46]",
+          "seconds": 466
+        }
+      ]
+    },
+    {
+      "end": 8224,
+      "excerpt": "I wanna talk about your areas of interest. You focus on healthcare, enterprise infrastructure, and automation. Those are some big themes. What about specific trends in these areas that are exciting for you today? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8011,
+      "timestamps": []
+    },
+    {
+      "end": 8415,
+      "excerpt": "[00:08:09] Amit Garg: So I focus on digital health. I will occasionally do enterprise. Sanjay, my co-founder, is the opposite. He focuses on enterprise and occasionally we'll do healthcare.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 8226,
+      "timestamps": [
+        {
+          "offset": 8226,
+          "raw": "[00:08:09]",
+          "seconds": 489
+        }
+      ]
+    },
+    {
+      "end": 8813,
+      "excerpt": "That comes from our backgrounds. We have spent our careers in these fields. We know it well. We have our networks, we have our thesis around those spaces. There are a lot of similarities between both areas by the way. There's long sales cycles, there's large contracts with large enterprises or large providers and payers and pharma. There's lots of similarities between both those two verticals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8417,
+      "timestamps": []
+    },
+    {
+      "end": 9113,
+      "excerpt": "The automation that you mentioned is a much smaller part of our thesis. We both do it. We're excited about it, but it's more capital intensive. It's not something that we actively pursue as much. It's about 10% of our portfolio and the rest is divided equally between digital health and enterprise.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8815,
+      "timestamps": []
+    },
+    {
+      "end": 9552,
+      "excerpt": "In digital health, a lot of what I've been doing for a long time has been what is today known as agentic healthcare. How do we reduce paperwork? We spend $1.6 trillion right now in paperwork in the US, about one third of our healthcare costs. It's way higher than other countries that are comparable to the US in terms of level of development. Roughly speaking, it's about double of other developed countries, and we have worse outcomes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9115,
+      "timestamps": []
+    },
+    {
+      "end": 9816,
+      "excerpt": "So there's something very inherently wrong about how we do healthcare in this country. I have very strong informed opinions about this, which is: how we have led to this healthcare system and how do we perhaps make it better? That's a whole another conversation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9554,
+      "timestamps": []
+    },
+    {
+      "end": 10704,
+      "excerpt": "What I do in terms of investments, I do billing, payments, price transparency, benefits management, prior auth, which is basically clinical authorizations. Think about the backend of healthcare. That's where there's a lot to be done, and those companies don't really have to worry as much about regulation or about hardware. They can integrate with the backend and improve processes, transform the way we actually do care coordination, how we do appointment reminders, how we do medication reminders, transform the way that you as a provider, meaning physicians, nurses, physician assistants or you as a pharma, meaning the people who provide the drugs, payer, meaning the insurances, and there's other P's in healthcare, by the way; PBMs (pharmacy benefits management), policy makers or politicians, profit. Let's not forget that p. It's a very important p when it comes to healthcare.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9818,
+      "timestamps": []
+    },
+    {
+      "end": 10866,
+      "excerpt": "We all say that patients are at the center of healthcare. I'm not sure about this. Our system is geared towards putting profit towards the center, not patients.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10706,
+      "timestamps": []
+    },
+    {
+      "end": 11066,
+      "excerpt": "Once again, there's ways in which we can do the right thing for patients and generate profit. There's ways in which we can play at the overlap. It's a higher bar, but that's the bar that I focus on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10868,
+      "timestamps": []
+    },
+    {
+      "end": 11462,
+      "excerpt": "The other side of our healthcare thesis is all the big things that affect us: diabetes, obesity, mental health, cancer. There's so much more data You can help with better diagnostics, with better treatments, with helping you figure out how and what and who and when to do things. So we have a number of companies in those spaces. It's about half and half between the backend and the front end. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "The other side of our healthcare thesis is all the big things that affect us",
+      "start": 11068,
+      "timestamps": []
+    },
+    {
+      "end": 11727,
+      "excerpt": "[00:11:18] Gopi Rangan: Healthcare is, broken especially in the US. Many aspects of the industry need to be changed, and I like the optimism in your view that there are many solutions that are available today using advanced technology. I'm delighted to hear that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11464,
+      "timestamps": [
+        {
+          "offset": 11464,
+          "raw": "[00:11:18]",
+          "seconds": 678
+        }
+      ]
+    },
+    {
+      "end": 11868,
+      "excerpt": "Can we take an example of one of your investments? How you met the founder, what happened in that first meeting, and what got you excited? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11729,
+      "timestamps": []
+    },
+    {
+      "end": 12530,
+      "excerpt": "[00:11:43] Amit Garg: Yeah. Well, I appreciate what you're saying, Gopi, but let me just qualify a little bit. We don't have healthcare. What we do by and large is \"Let's take a problem, fix you up, and send you back home\", ideally. And it's focused on acute rather than preventive. It's focused on let's make sure to fix a problem rather than solve a problem. By fix, I mean putting a bandaid on it rather than solve the underlying causes. So I hope the true north, which is preventive healthcare, avoid the big problems, that is a challenge in the whole world, not just the us and that we can get to that. That's a much bigger discussion on how we get there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 11870,
+      "timestamps": [
+        {
+          "offset": 11870,
+          "raw": "[00:11:43]",
+          "seconds": 703
+        }
+      ]
+    },
+    {
+      "end": 13083,
+      "excerpt": "The second thing, you're talking about my optimism. Let me qualify that it's pragmatism. There are plenty of things that are wrong. Plenty. I cannot possibly solve all of them, and that's fine. But there are some things I can, and there's some things that can make a difference. So those are the ones I'm focused on. If you don't believe in that, you shouldn't be in this profession as a VC or as a founder. If you believe that what you do matters, this is a great place to be. If you don't believe in that, then this is not the place to be, honestly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12532,
+      "timestamps": []
+    },
+    {
+      "end": 13756,
+      "excerpt": "Going back to your actual question, I'll give the example of Iterative Health. It's the very first investment we did through Tau Ventures officially, we met the company because another VC showed it to us, and I'm very grateful to that. We were not the first VCs to see the deal. I bring up this example often because it illustrates a lot of themes of how a VC does When we just saw the company they had, I'm simplifying things a bit, they had trained their algorithm to help detect colon cancer real time during a colonoscopy with videos from like 40 different hospitals, 20,000 videos, and they have gotten to 99% accuracy, and even the best doctors get to 75% accuracy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13085,
+      "timestamps": []
+    },
+    {
+      "end": 14145,
+      "excerpt": "And that's game changing. If you can detect cancer early, you can save a life. That's the key. And if you can detect it accurately, minimize false negatives and false positives, then that's even better. False positives are really bad because it creates anxiety. False negatives are even worse perhaps because then you defer the right course of action till later and it might be too late.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13758,
+      "timestamps": []
+    },
+    {
+      "end": 14515,
+      "excerpt": "So when we saw this company, we got really excited about the hustle, how they had collected the data, how they trained their algorithm, how they had gotten initial traction, built a team, initial team that was very motivated, and had a good mixture of business and healthcare expertise. In fact, the CEO, the founder, is a dropout from business school who is a doctor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14147,
+      "timestamps": []
+    },
+    {
+      "end": 15245,
+      "excerpt": "So we saw that this person wasn't the world expert in necessarily machine learning, but they knew enough to know what to do and to hire correctly. That's what we are looking for and that's what we are really focused on, that the way AI is developing now, you do not need to be a PhD in AI with 50 years of experience in order to be a practitioner of AI, I do not need to know how to build a car to use a car. I do not need to know how to build a cell phone in order to use a cell phone. It doesn't mean I'm not smart, right? I'm not talking necessarily about me. I'm talking about generic you, but a generic you needs to be smart enough on taking the tool and putting it to use and solving a problem they understand really well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14517,
+      "timestamps": []
+    },
+    {
+      "end": 15811,
+      "excerpt": "That's what we saw with Iterative. So we invested. We were the first and only VCs in the US who took the bet. We brought in other VCs. We brought in other LPs. We helped them raise the series A. Eventually, they raised a series B. Today they have raised more than $200 million. They are doing far more than colon cancer. They're also focused on clinical trials. They're a very successful company, in many ways of our most successful company, and we increased of our position and it's been an incredible journey where we have helped them and they've also helped us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15247,
+      "timestamps": []
+    },
+    {
+      "end": 16190,
+      "excerpt": "I can't say all the things that the founder has done for us also. Not just making his company successful, but in many other ways in terms of helping us connect to other founders and other investors, and being an example that we can actually leverage to help make our own business succeed. We are a VC fund that started six years ago, and in many ways we're a startup ourselves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15813,
+      "timestamps": []
+    },
+    {
+      "end": 16382,
+      "excerpt": "[00:15:45] Gopi Rangan: What an amazing story. You bet on someone who was a business school dropout. And you were an early believer well before many other investors jumped on the cap table. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16192,
+      "timestamps": [
+        {
+          "offset": 16192,
+          "raw": "[00:15:45]",
+          "seconds": 945
+        }
+      ]
+    },
+    {
+      "end": 16487,
+      "excerpt": "[00:15:56] Amit Garg: I appreciate that and I can share why and how we took the bet when others didn't.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 16384,
+      "timestamps": [
+        {
+          "offset": 16384,
+          "raw": "[00:15:56]",
+          "seconds": 956
+        }
+      ]
+    },
+    {
+      "end": 16825,
+      "excerpt": "Yes, it required. It required subject matter expertise. We understood what they were doing was actually differentiated, and more importantly, that it could work. Now, true story, I talked to experts in this space, people who had built companies, and they said, yeah, this sounds great, but it won't work. The market is not ready for it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16489,
+      "timestamps": []
+    },
+    {
+      "end": 17217,
+      "excerpt": "And it required us to be contrarian enough to say, \"yes, I understand what you're telling me, but this is why it can actually work now\" and go against expertise, because this is what a VC does, is it's not just about seeing, is this a good invention? It's that it's a good innovation. Invention means you've created a technology and innovation is you can bring the technology to the market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16827,
+      "timestamps": []
+    },
+    {
+      "end": 17792,
+      "excerpt": "If you're too early or too late, it won't work. I'll give an example. Nuclear Fusion has been known to us for almost 60, 70 years, maybe more, but it hasn't been commercialized yet. It's about to get commercialized now as we speak maybe. So it has been an invention, but it hasn't been an innovation. So that's what we saw also with this company, that the timing was right. The team was right, the winds of the market were right, and even though other people didn't believe that it was right, we had enough conviction to say, \"yes, let's go do this. It is the right time.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17219,
+      "timestamps": []
+    },
+    {
+      "end": 17928,
+      "excerpt": "[00:17:16] Gopi Rangan: Now I see that Jonathan has a medical background, but it wasn't that he spent years in GI or cancer detection.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17794,
+      "timestamps": [
+        {
+          "offset": 17794,
+          "raw": "[00:17:16]",
+          "seconds": 1036
+        }
+      ]
+    },
+    {
+      "end": 18245,
+      "excerpt": "Sure. And also a lot of his experience was outside the US. And when he came to the US for business school and soon after that, he started Iterative Health. He was relatively new to the US healthcare system. A lot of expertise sometimes I usually think that it is not necessary to have many, many years of expertise.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17930,
+      "timestamps": []
+    },
+    {
+      "end": 18442,
+      "excerpt": "And in this case, Jonathan didn't have a lot of expertise, although he did have some medical background. Do you look for fresh thinking and you value that more than years and years of expertise? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18247,
+      "timestamps": []
+    },
+    {
+      "end": 18935,
+      "excerpt": "[00:17:57] Amit Garg: You're bringing up a very important point for VCs in general. I call it credibility, aptitude, and credentials. Credentials and credibility perhaps go hand in hand. The more expertise you have, the more credibility and credentials you have but you can't forsake aptitude. And aptitude to me is the ability to learn and unlearn. The more expertise you have, oftentimes, but not always, you become more and more set in your ways and you are unwilling to change your mind.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 18444,
+      "timestamps": [
+        {
+          "offset": 18444,
+          "raw": "[00:17:57]",
+          "seconds": 1077
+        }
+      ]
+    },
+    {
+      "end": 19333,
+      "excerpt": "The flip side, by the way, is also true. If you don't have any credentials and credibility, you don't know what you don't know, then every single thing out there looks like a shiny object. So you don't know how to focus, and you may even do the wrong thing because you believe in something that's completely untenable. So there is a right balance between those two things, and it's not a formula.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18937,
+      "timestamps": []
+    },
+    {
+      "end": 19612,
+      "excerpt": "What I look for specifically is you have enough knowledge or you know how to get to enough knowledge and you're willing to change your mind. You're willing to learn and unlearn. You're willing to actually say, I'm gonna do it this way, but I'm willing to do it a different way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19335,
+      "timestamps": []
+    },
+    {
+      "end": 20275,
+      "excerpt": "It's called level five leadership in one framework. It's having the conviction that you can succeed, but also the humility to know that you can fail. It's having the conviction of your convictions, but also the humility of your failures. It's having the conviction that I will do this, but the humility to go, I need help to do this. So it's a paradox. It's a contradictory idea you have to hold in your head. And what we look for in founders, especially at the seed stage where there aren't that many proof points, there aren't enough metrics, is hints that they are the kind of person. So call it the X factor, call it whatever you want, but I look for hints.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19614,
+      "timestamps": []
+    },
+    {
+      "end": 21700,
+      "excerpt": "In the case of Jonathan, who is the CEO of this company, he had practiced medicine for a bit in Singapore where he was originally from. He had also crowdfunded and built a hospital in Cambodia. When I saw that profile, I was very intrigued that somebody who has trained in one of the most progressive countries in the world also has dedicated himself to a project that uplifts many other people at the bottom of the pyramid and is willing to come to the US to study, and drop out to build a company, it tells me this person has drive, this person has views, has dreams, has motivations. And not just that they're willing to sweat, put their tears, toil, and blood and sweat into it. I actually joke with Jonathan that he replies to my text messages before I send them. It's half of a joke because I've consistently seen him do that, and obviously I didn't know fully at the time, but during the diligence process, I saw that he was willing to work as hard as it needed, learn and unlearn, and I wouldn't say just work hard. It's work smart. There's a glorification of \"I put in 15 hours a day.\" I actually think that that's counterproductive. You don't need to put 15 hours a day every day for 10 years because you're running a series of marathons and you will actually burn out. You will exhaust yourself. You have to work smart. By all means get your work done in many few hours. That's what I'm looking for in founders. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20277,
+      "timestamps": []
+    },
+    {
+      "end": 21875,
+      "excerpt": "[00:21:09] Gopi Rangan: Jonathan is a brilliant example. Building a startup is already hard enough, and building in the healthcare space or a sick care space is even harder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21702,
+      "timestamps": [
+        {
+          "offset": 21702,
+          "raw": "[00:21:09]",
+          "seconds": 1269
+        }
+      ]
+    },
+    {
+      "end": 22090,
+      "excerpt": "What's your advice to founders so they can be more like Jonathan? What are one or two things they could do differently so that they can be successful now beyond the regular basic stuff that everybody talks about. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21877,
+      "timestamps": []
+    },
+    {
+      "end": 22457,
+      "excerpt": "[00:21:31] Amit Garg: One very, very, very actionable thing that I have for founders is make sure you have enough money. I know this is a cliche thing to say, but you have two jobs as a CEO and I'm equating founders with CEO. It's often true, at least in the early stages, where a founder is the CEO. You have two jobs, raise money, find people to spend that money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 22092,
+      "timestamps": [
+        {
+          "offset": 22092,
+          "raw": "[00:21:31]",
+          "seconds": 1291
+        }
+      ]
+    },
+    {
+      "end": 23155,
+      "excerpt": "At any given moment, make sure that you have at least one year of runway. If you're dipping below that and you're up to the six month mark, red alert, all hands on deck. Do whatever you need legally to make sure you extend your runway. Lower your burn. Recognize revenues, do short term projects. Let go of some projects. Reducing your burn could be reducing salary, trading salary for equity, letting go of people, furloughing people like, there's so many different ways of doing it. Recognizing revenue could be get an advanced payments or do a particular project for your client, for a new client. Expand within the client, but make sure that you can get that six months up to at least a year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22459,
+      "timestamps": []
+    },
+    {
+      "end": 23672,
+      "excerpt": "The most obvious way of doing it is go raise another round. Maybe it's an equity round, maybe it's a convertible note with a discount towards the next one. Maybe it is actually a full-fledged round. Maybe it's a flat round or down round, even if needed, if absolutely needed. Maybe raise debt. Never be so pressured where you are worried about just making payroll, because that will change the way you run the business. That will change the culture that adds even more risk to something that could actually succeed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23157,
+      "timestamps": []
+    },
+    {
+      "end": 24062,
+      "excerpt": "The second part of this is hire the right set of people. In a startup, I think the dynamics of the team become even more important than in a corporate. In a corporate, large one especially, one person is failing, one person is not performing, one person is unable to be at work because they're sick or whatever. At the end of the day, the impact can be absorbed by the rest of the people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23674,
+      "timestamps": []
+    },
+    {
+      "end": 24722,
+      "excerpt": "In a startup, everybody is a commando. Everybody's a marine. You are in it. You're doing everything you can, especially at the early stage. So finding the right set of people with the right motivation is so critical. When I was in founder mode, we would obviously interview for resume, but we would go beyond their resume. We would talk about people's motivations. Why did you take this decision? Why did you do X? Why did you do Y? And look, people are smart enough that they can gamify their answers. So I would ask them questions like I would give them choices. I would say A versus B. Both answers were correct answers, but A versus B would tell me more.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24064,
+      "timestamps": []
+    },
+    {
+      "end": 25448,
+      "excerpt": "One example, very high level example. Do you prefer working fast and iterating, or do you prefer working slow and getting it right? They're both absolutely correct answers. There's honestly no right or wrong there, but depending on which answer you pick, I understand a little bit more about you. So I would ask more and more of those questions to understand really, what is this person like? Because they will have to figure things out. Whatever expertise they bring on board, that'll be useful. But as they build a company, they'll have to figure a lot of things out. So that's what I encourage CEOs to also do is pay attention to the credentials, the credibility, the expertise, but hire for aptitude at the early stages.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24724,
+      "timestamps": []
+    },
+    {
+      "end": 25733,
+      "excerpt": "[00:24:37] Gopi Rangan: The first few years of any startup is basically fighting for survival. Running outta cash is the biggest risk for most founders. If they can take care of that, then they have a chance to build something. And the best way to execute is hire really good people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25450,
+      "timestamps": [
+        {
+          "offset": 25450,
+          "raw": "[00:24:37]",
+          "seconds": 1477
+        }
+      ]
+    },
+    {
+      "end": 25987,
+      "excerpt": "You meet a lot of founders. You mentioned that you get to see about 6,000 companies. You may not meet all of them. You as in your whole team. Correct. And you meet a part of it and you make collectively about 12 investment decisions roughly every year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25735,
+      "timestamps": []
+    },
+    {
+      "end": 26278,
+      "excerpt": "Correct? Uh, that's a very small portion of the companies you track. What is your most common reason to say no? The first 50% it's probably not a good fit for Tao right away, but especially the companies you meet, meet like second time, third time, and then you say no. Why do you say no? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25989,
+      "timestamps": []
+    },
+    {
+      "end": 26605,
+      "excerpt": "[00:25:24] Amit Garg: So Gopi, we will very quickly screen the company and go, is it the right stage? Is the right geography? Is it within our expertise in terms of what we invest in? Is it not too competitive with one of our existing companies, et cetera, et cetera, et cetera, et cetera. The round terms may not make sense.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 26280,
+      "timestamps": [
+        {
+          "offset": 26280,
+          "raw": "[00:25:24]",
+          "seconds": 1524
+        }
+      ]
+    },
+    {
+      "end": 26921,
+      "excerpt": "Maybe they're raising it too high, too low of evaluation. Both things, by the way, matter. So we are number two usually at the moment on the cap table. With our check currently we write $500,000 typically as part of a seed route, raising three or 4 million. Valuations tend to be 15 to 20. We have made exceptions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26607,
+      "timestamps": []
+    },
+    {
+      "end": 27161,
+      "excerpt": "Sometimes it's higher, sometimes it's lower. We do occasionally do pre-seed, very rarely, once a year. We do have a separate fund for doing As, BS and Cs, but it's like 20% of our strategy. So 80% is what I described, 80% the Pareto law. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26923,
+      "timestamps": []
+    },
+    {
+      "end": 27667,
+      "excerpt": "So once we get down to all of these filters, \"I may not be the right fit for you\" doesn't mean that it's not a good company. It may be a great fit for somebody else. I am looking at 10% of that inbound, so 600 companies. I'll do a first meeting with them and then with about half, we'll do a second meeting and with about half of that, we'll do a third meeting. So you can see how the numbers shrink down to like maybe a hundred companies that you're serious per year and that you're writing a deal memo.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27163,
+      "timestamps": []
+    },
+    {
+      "end": 27980,
+      "excerpt": "And a deal memo to us is a symbol of yes, we're quite serious about this. We're willing to put in the time to write our diligence into a piece of paper and use it as a way to debate and discuss. Even out of those a hundred per year we'll end up investing in maybe 12. So about 10% of that as a team, by the way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27669,
+      "timestamps": []
+    },
+    {
+      "end": 28659,
+      "excerpt": "So the most common reason at that point where we're saying no, we understand enough of the risks. The risk might be too high for where we wanna come in. Maybe the valuation is too high, given the traction, maybe the amount that they're raising we don't think it's gonna be enough, and they're going to have to raise a seat extension and we go, \"oh! We will end up paying for a disproportionate risk to come in now than perhaps later. That is the number one factor, which is where we think that the dynamics of the round are not commensurate to amount of risk that we would be taking. The company may be really good, but it's not commensurate to what we feel is the risk for us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27982,
+      "timestamps": []
+    },
+    {
+      "end": 28936,
+      "excerpt": "We have the luxury of being able to pick and choose where we want to invest in. Not all VCs in all parts of the world have that luxury. And honestly, the founders have a bigger challenge because they're building the company and, they're taking all their eggs into one basket.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28661,
+      "timestamps": []
+    },
+    {
+      "end": 29946,
+      "excerpt": "So I wanna be very sympathetic here to founders. It's not easy to fundraise. I've been in their shoes as a founder myself before this, and we run Tao as a, as a startup of ourselves. We have to fundraise here. So I understand the challenge of fundraising. I, what I tell founders is when you hear a no or not now, which is the more common answer. You may not get the full thinking process. It's very hard to convey the full thinking process, but you can get something actionable, and we try to do that. Whenever we get to that stage where we are not coming through. We give something tangible. Here's one thing here that we think is too much risk for us. You may or may not agree. You may or may not change it, but this is the one reason. It may not be all of the reasons, but it is the one critical reason we felt we can't do justice to you right now and let's do one critical thing here to be helpful to you. We'll help you connect to another company. We'll help you connect maybe even to another investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28938,
+      "timestamps": []
+    },
+    {
+      "end": 30304,
+      "excerpt": "That is sometimes the conversation, or we'll at least tell you about other investors, or here's a particular event that may be compelling to you, or here's a particular article, something here that we'll do. I do feel this is a bit of a moral obligation of us as a fund, that if we have taken time from you, we should give you something also for that time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29948,
+      "timestamps": []
+    },
+    {
+      "end": 30646,
+      "excerpt": "We have learned from you, we, you have shared something with us. We will also do something to share with you. We do it as we go deeper and deeper in diligence. So if it's one person, one conversation, we'll do something that's within that scope. But if it's somebody we have actually spent far more time, we'll do something bigger for them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30306,
+      "timestamps": []
+    },
+    {
+      "end": 30683,
+      "excerpt": "That's how we operate here at Tau. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30648,
+      "timestamps": []
+    },
+    {
+      "end": 31104,
+      "excerpt": "[00:29:26] Gopi Rangan: You're been very candid and you are giving specific examples and details on what is a good fit for Tao. Thank you for sharing that. Tao is a new venture firm, so I want to ask you a more philosophical question about your view on venture capital. As you build this new firm, what's one thing in the venture industry you would like to see changed to make this industry a better place for founders?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30685,
+      "timestamps": [
+        {
+          "offset": 30685,
+          "raw": "[00:29:26]",
+          "seconds": 1766
+        }
+      ]
+    },
+    {
+      "end": 31536,
+      "excerpt": "[00:29:49] Amit Garg: One thing that I'm very worried about overall gopi, is that we lose sight of what truly matters. Once again, the interest of founders and investors don't align perfectly. But there are ways in which you can play at the intersection. If we just optimize for valuations or for market caps, if we only optimize for that, then we can lose sight of why this innovation will actually make an impact into the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 31106,
+      "timestamps": [
+        {
+          "offset": 31106,
+          "raw": "[00:29:49]",
+          "seconds": 1789
+        }
+      ]
+    },
+    {
+      "end": 31867,
+      "excerpt": "So I try really say value create valuation. Let's build this company in the right way. Let's do the right thing and valuation will follow. Unfortunately, the world is not set up where everything that creates value creates valuation. That is not true, and vice versa. Everything that has valuation does not necessarily have value.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31538,
+      "timestamps": []
+    },
+    {
+      "end": 32405,
+      "excerpt": "That is also not true. Those two things are not one and the same, but I try to make them, and you know where there's the overlap of the Venn diagram. It becomes particularly tough when you have to make a choice where you can make more money but not do the right thing. That is actually the crux. Can I do something where I can make more money but not necessarily the most absolute correct thing? And that is a difficult question. Our incentive structures are not set up for that, neither the private nor the public incentive structures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31869,
+      "timestamps": []
+    },
+    {
+      "end": 32571,
+      "excerpt": "What I encourage the VC industry overall is that we are in some ways stewards of trust. We, we receive capital from many others, and we give capital to many others.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32407,
+      "timestamps": []
+    },
+    {
+      "end": 32987,
+      "excerpt": "At the end of the day, we're stewards of where can we focus of our society's efforts? Let's try to, as much as possible, focus on that, on can we actually take an innovation that's doing the right thing and help it create validation? Look, I'm not gonna give money to somebody just because. They're doing great things for patients and giving it away for free, and they will, they don't figure out a business model.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32573,
+      "timestamps": []
+    },
+    {
+      "end": 33298,
+      "excerpt": "I won't do that and I cannot do that. If that's your model, then there's a different way of financing it, which is called nonprofit. By all means, please go do that. That creates huge, huge benefits for the world. But if you are gonna do VC, we are looking for the 10 x. We are looking for exponential growth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32989,
+      "timestamps": []
+    },
+    {
+      "end": 33521,
+      "excerpt": "We are looking for outsized valuations. Let's do it with the grounding of creating value also. Yes, I'm setting up a higher bar for ourselves and that's, I guess, my message. Let's make sure that we can actually do that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33300,
+      "timestamps": []
+    },
+    {
+      "end": 33741,
+      "excerpt": "[00:32:14] Gopi Rangan: Beautifully articulated. We're coming towards the end of our conversation and I want to ask you about your community involvement. I'm curious to learn more about the hospital you built in India.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 33523,
+      "timestamps": [
+        {
+          "offset": 33523,
+          "raw": "[00:32:14]",
+          "seconds": 1934
+        }
+      ]
+    },
+    {
+      "end": 34233,
+      "excerpt": "[00:32:25] Amit Garg: It's a long story Gopi. I took a backpack when I was 19. I went to rural India to a very humble part of India. In the eastern side, you probably don't the name of the region, Wego. It's bha now it's become, it's the part of India that many people have have forgotten in terms of development. And I lived and worked there in the summer. I do speak Hindi fluently, so I was able to coordinate, communicate, and do things perhaps more easily, but it wasn't a requirement.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 33743,
+      "timestamps": [
+        {
+          "offset": 33743,
+          "raw": "[00:32:25]",
+          "seconds": 1945
+        }
+      ]
+    },
+    {
+      "end": 34940,
+      "excerpt": "And then I continued working with this region and we built a nonprofit around it and we have helped fundraise for infrastructure. And the biggest project we have done is we crowdfunded and built a hospital there. This is a story, 25 years in the making that a hospital is truly crowdfunded. I used a lot of principles I learned in business how to build an effective organization, lean startup, how to do crowdfunding before the word crowdfunding existed. In order to focus people's energies, small amounts of capital, but in aggregate becomes a big amount of capital to help put a building there and staff it. And you know, it's been 12 years now that the hospital has been operating and it's not perfect.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34235,
+      "timestamps": []
+    },
+    {
+      "end": 35263,
+      "excerpt": "There's many problems. It's understaffed. It's underutilized. It's a drop in the ocean. Honestly, it doesn't solve many problems, but I would like to think that it solves one set of problems in one specific part of the world that deserves it. There's good people there, and if we can help them get up, then they can walk.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34942,
+      "timestamps": []
+    },
+    {
+      "end": 35593,
+      "excerpt": "And if they can walk, they can run and they can bring other people by themselves. So my goal here is. Sustainability. The hospital is at this point, basically sustainable between the patient fees and the amount of money we had already raised that. We've also invested, by the way, so it continues growing like a mini foundation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35265,
+      "timestamps": []
+    },
+    {
+      "end": 35917,
+      "excerpt": "It's a small team, it's just five of us. We are all volunteers. We put in a handful of hours per year into this. We all have lives and careers. There's a team full-time that's running it, that's operating it. People on the ground who know the situation, who have the trust of the community have been doing a lot more work.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35595,
+      "timestamps": []
+    },
+    {
+      "end": 36237,
+      "excerpt": "They run schools, they run irrigation projects, et cetera. And that's the way I was able to make an impact I hope, because I, this is what I felt is that many people say, I have to choose between doing good and doing well. I have to make my money and then I'll give it away. That's one way of doing it. It's not wrong.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35919,
+      "timestamps": []
+    },
+    {
+      "end": 36647,
+      "excerpt": "Other people say, I just gotta go into nonprofits and never make any money and live a monastic life of service. That is also another way. And once again, nothing wrong with that. That's not a choice that many, most of us can do. But here's the third way I was able to do this while still having my education, my career, my life, family, and as were my co-founders, we were able to figure out how to take our.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36239,
+      "timestamps": []
+    },
+    {
+      "end": 36772,
+      "excerpt": "Discretionary amount of time. Focus it, channel it, bring other people along and do it. So it's the third way of doing it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36649,
+      "timestamps": []
+    },
+    {
+      "end": 36835,
+      "excerpt": "[00:35:21] Gopi Rangan: What's the name of the organization? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 36774,
+      "timestamps": [
+        {
+          "offset": 36774,
+          "raw": "[00:35:21]",
+          "seconds": 2121
+        }
+      ]
+    },
+    {
+      "end": 37038,
+      "excerpt": "[00:35:23] Amit Garg: It's called Hospital for Hope. Hospital for hope.org is of our website. If anybody wishes to learn more, there's a lot more posted about it. There's 350,000 followers on Facebook.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 36837,
+      "timestamps": [
+        {
+          "offset": 36837,
+          "raw": "[00:35:23]",
+          "seconds": 2123
+        }
+      ]
+    },
+    {
+      "end": 37447,
+      "excerpt": "There's books about it. There's talks, TEDx talks, and a lot more on the website if anybody's curious. We host a big event every year here in the Bay Area. And actually, let me flip over to Tau Ventures. We do a lot of events for Tau Ventures. Community is a big part of what we are, who we are, and that, by the way, I learned through my nonprofit work, I brought the lesson of the nonprofit work into Tau.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37040,
+      "timestamps": []
+    },
+    {
+      "end": 37903,
+      "excerpt": "So I don't see them as being dichotomous. I see them as being synergistic. What I learned in one place helps me do the other and vice versa. But if anybody wishes to learn more about T or reengage with us, we have a newsletter. It's off of a website, tau ventures.com. Anybody can join. You can come to our events and if you're looking to pitch to us, if you're looking to engage with us as a founder, make sure you see that we are the right fit for you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37449,
+      "timestamps": []
+    },
+    {
+      "end": 38205,
+      "excerpt": "And if you are, I recommend getting through a channel that knows us, somebody who has connected with us, maybe another investor, another founder. And if not, if you send a cold email, we will read it. We read everything, but we are not able to respond to everyone. We'll follow up if it makes sense. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37905,
+      "timestamps": []
+    },
+    {
+      "end": 38289,
+      "excerpt": "[00:36:35] Gopi Rangan: Amit, thank you very much for spending time with me today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 38207,
+      "timestamps": [
+        {
+          "offset": 38207,
+          "raw": "[00:36:35]",
+          "seconds": 2195
+        }
+      ]
+    },
+    {
+      "end": 38607,
+      "excerpt": "It's a real pleasure to learn about Tau Ventures, learn about you, your background, your perspectives, and how you view the startup ecosystem. Working with founders is a true honor, and I can see why you enjoy it and how you engage with your startups. I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38291,
+      "timestamps": []
+    },
+    {
+      "end": 38774,
+      "excerpt": "[00:36:56] Amit Garg: Gopi. Thank you very much. Absolute pleasure and an honor. To all the listeners here, thank you very much for your time. Really appreciate it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Amit Garg",
+      "start": 38609,
+      "timestamps": [
+        {
+          "offset": 38609,
+          "raw": "[00:36:56]",
+          "seconds": 2216
+        }
+      ]
+    },
+    {
+      "end": 38962,
+      "excerpt": "[00:37:05] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 38776,
+      "timestamps": [
+        {
+          "offset": 38776,
+          "raw": "[00:37:05]",
+          "seconds": 2225
+        }
+      ]
+    },
+    {
+      "end": 39129,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38964,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "8d684e0330810100d1527930949808fdee05ec72e3123529c8da4cc11f176456",
+  "text_sha256": "ab3ca585380e2586889ef7e7d7764312e40497b7c667c039286b813bb6ed15ce"
+}

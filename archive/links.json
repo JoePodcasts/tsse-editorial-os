@@ -1,0 +1,1124 @@
+{
+  "simplecast:008e322c-b949-4773-9676-2e59d76ce5ce": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_74.json",
+        "sha256": "cc0687242d223ce9c8b4e1596ad02061aa15b2c8c5beea1b4241e89d4701a72b"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:00a24c04-5983-4c5e-9f8d-b862fc602213": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:019bd30d-ddca-41fa-a2db-18d34a7bc743": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0252e838-a14c-45b8-a881-192e12dccd3b": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_83.json",
+        "sha256": "9631216c92af17459b4340bb1d0f9cf01c1cbf6996e6a4bfe13141c0a1fd79da"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:041b9ce1-bc40-4788-9033-38948d144b8b": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:05d425da-75ae-4bd4-b964-d7f6f8e607a1": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:078d2402-0f24-4783-b7bc-524ef644b71b": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:081f2210-b721-4e7b-9c0a-e86d91a259f4": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:086cebb4-b2d6-4f19-9ec5-1cc9be5953af": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:090de2df-ba16-46a4-90f5-e82db73322f7": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_106.json",
+        "sha256": "d66ad747b86c11b8f5af808ebe90fca66bb759a66888feacde2635134f7351f4"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:0971b5c1-381f-4b0a-af5d-9fe56ac41984": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0adb8f6a-0593-45b7-9c59-d32206c375db": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_174.json",
+        "sha256": "5c6cddbb55f59fa032284f150700fb89ece7be1b385e5b3882e7d576ade89b5f"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:0b120f95-2e8a-4be8-aa29-fe062e5f1dbf": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0cd0fc2a-b63d-4521-b8b1-e8d5fb928b4f": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_8.json",
+        "sha256": "6d7007d914fb8182b9d9e62f66ae76c6a2444f34ecd58efda512a8174191fde7"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_75.json",
+        "sha256": "cae044581afd1948f74f728980ef472c79efb96510da76780279c8e0d9f364d3"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:0de7c0b1-6088-4d68-a329-34960b3ae11e": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0deccdfe-e6a0-4e0a-8144-ca8f57ceda2f": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0e4b848f-10b1-4700-8d11-5237d97501e8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0e86db85-591e-4991-a58b-4c310c9f1919": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0ef2b626-ce6b-4d5e-9e30-a80362e30dad": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0f010f57-2fdc-45f0-bb30-c073e2940f74": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:0fe83567-947f-427e-ae36-520fdc3fce89": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:12549d0c-c060-486b-aaa1-8d21add096eb": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:12586092-9184-4a29-911a-0860f57cd464": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:15715764-96f9-40be-b572-08c8e72eae54": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:1620afec-0217-4849-b40f-48f1749250d1": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_34.json",
+        "sha256": "160d281c2cdb05d93bd9bb9f46592fbf7fe34aca460ade5c8871ce58c6c6b064"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:16a3d101-e4bb-47ad-b465-faf33aaf56c5": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:1823a4e0-fdc8-474f-a002-e7186c8ccec6": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_50.json",
+        "sha256": "08f49aa79949c17e87a3deadc835bbd11202e69fb5b204646fdbcbb8b753f4c3"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:18b641ff-352a-4254-b16c-067b3faaa4c1": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:18bcc2bc-80d3-41c6-88fc-ecf48138982c": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:18e74102-241f-42a7-af35-b35c0e410dbb": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:194fc0f8-1df1-48dd-8d7d-ccaa9b60bbfb": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:1abcbdea-d690-4d13-937f-8a09c61b7db1": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:1b48f937-a472-4117-b51f-3a42a441ec41": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:1c556dca-dfc1-4398-b890-18d15f96903c": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:1cf0cab6-a348-44c5-bcfd-02811768d8fd": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:1d53d843-3a7d-4326-8dc5-034817d856d8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:21c84339-89c7-437f-a96d-8c901e9c59c6": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:21e1a26e-e983-4e4e-b381-55341654d54c": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:21e549e1-9edc-47e4-86b5-94c706f841cf": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:23d9ebc9-ce2d-49db-a2ae-565ce3ac2a29": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:254fc97f-8c85-4d1a-bc84-0e230ec99cb5": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:255a3a22-8931-40a3-a4d1-e93a53d0fd6b": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:26fe7470-0a22-4d8c-808b-ed7f03b3cf84": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/active/episode_192.json",
+        "sha256": "1ab8d07e23d532d3d39f4dca2cd2b33c425b3cf9349892afc324b6e198d9e2b3"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:2bb87782-f94d-431f-8134-41edd3c7c735": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:2cda5aca-9184-41b7-b76e-a3b1b410978e": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:2fbadf7e-0e92-40cf-ad8c-29a251e0d952": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_26.json",
+        "sha256": "13bbad72a7d305020d1aef5edade92a790512166708a3ae6f09e0058cd76314d"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:36d4154a-47a1-48ac-8dfa-caaa80ca0cf6": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:3ae69392-b535-45ae-ac78-27639c425637": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/active/episode_191.json",
+        "sha256": "6631b856f0f39f62c4c137ebbfc8ebe509505c2343be32aad2d815d91ad8fa33"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:3ce148f6-d66c-406c-b232-e95fbcd5c46c": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:3d2e22f6-e5cf-42cc-b067-0e554a353409": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_100.json",
+        "sha256": "96e25ef8f61c3fe4cc758f1c7beed000a36f728bf5c591978b2b8806c3ae9b3e"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:3e85baa8-93e9-4af1-ba9a-f850036714a4": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:4027af88-2d27-4891-a621-ec11322f9ae0": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:406a365a-2930-4eff-8ed0-32aafd0009b0": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:40a4e066-c609-40de-a83f-fbd345cfaf55": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_144.json",
+        "sha256": "b02258c666a6b27a1ba42f3511e7d6ae9db6876c7d9d3420ed39942b973e847b"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:40f4e1a8-8b51-45f9-8c16-b8f709dfd0aa": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:417d6875-3e87-4aeb-894c-3dc096f3a14d": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_79.json",
+        "sha256": "a3f6c656bd13442856d5ca70a77025305a53e623b71077f837e48c112f6869b0"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:42587868-9b4a-4a23-867d-3096d1a9f536": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_136.json",
+        "sha256": "0cb7109b5e368644e68abad3823e4d61023adee5dd58c8e15d2bd1ad1e24f37d"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:42a4fa46-d3c4-4998-951a-fd6f59e858c4": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_113.json",
+        "sha256": "4abd4cc6251cf7d067adf090f9da0c009826575b9fc911a879c8a0ebb6c3e9b3"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:44654700-4cb0-4cae-b376-20c688c2dc0b": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_25.json",
+        "sha256": "37315d336865c10dc2f465988892d9e1ef3b40ea6f0a570dc3f73fb31e0a7357"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:474e83ac-e4d3-43a2-9a5e-a3e6619b6ca8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:48363488-c67c-465d-9b56-d6b6a7597968": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_179.json",
+        "sha256": "df5a991d5fd44db026d952b195c92113664bd7a5796d10837fc803bad32fc06b"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:49b29c85-2857-473e-b476-51c6b6806f3d": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_17.json",
+        "sha256": "f3d78ed268c1a3663bd01bcc399b703433c69081d3cd5d255d2340a334584085"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:4a03af57-b4ac-4f4c-bb0b-be22074c85a1": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:4a19c3b7-2c38-4eff-a00c-6b38539fa3bc": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:4a5020ba-4b99-447d-a4b3-4f7ba206012b": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/active/episode_190.json",
+        "sha256": "52d9f35e532380815f56e08640949687c918920d2599c0bc56418c6a4db27db3"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:4b3f3f86-fc3a-41d8-940f-b7b619b896e4": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:4bd4a6e9-abee-4aad-a4f4-c5a3503b81ca": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:4cc35294-3d14-4a13-803d-590e8c098472": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:507a3aa0-468a-42c7-b8b9-637ef3bc6493": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_110.json",
+        "sha256": "9062a80225c0b86c896a230111a8650c408cc440831a4454454385406cac87da"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:5268ea16-e232-4b5d-9bec-95c444c049ae": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_2.json",
+        "sha256": "77ca93a37159d0f4d9511bf732dc0537911bf541b919a7350e223780d46b92f2"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:5321b62f-dcfb-4566-a943-032aceaf2b38": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_173.json",
+        "sha256": "ccf043643d0a633d37f7e08ca9af8465c5760042f168927cdf22a1db2c1d5669"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:53a4a78d-1104-4289-97dc-734a3830c466": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_20.json",
+        "sha256": "1483b097ad55791756a6814bd58c90f1ccd29327aa912ff1459e71342a79a2d1"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:53afd7c5-c9c8-4329-9b7b-168b8df01147": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_121.json",
+        "sha256": "f0f20a04430b4e83ade960e63db7133fe1995a45585c440b16a2091df7b1d97f"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:556c6e60-062c-4c69-982c-68eae900d909": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:55701c48-43d8-4ddb-8411-cb5a45fbab00": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:58315598-2ffd-4630-aa43-e04259c2b6b0": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:58d15263-fb67-4c72-9683-3312dfd88eab": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:58ee6413-b744-4f39-b3d1-74e8b04aa2a6": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:5d169383-43cd-4c17-8dac-193df68c34cc": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:5d955cc6-d604-46ab-ad57-7d195c8f88e5": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:5e1ed233-d1b8-4c83-8904-4f6f9341304f": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_158.json",
+        "sha256": "b2f6b11e528cec89d5fbd099d24f4af144f8c732b6df0199df136692dad39819"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:5f15841a-ef73-45d6-85a3-89545287c16f": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:6362f3e7-1345-4d5f-bd95-5251d794bb4e": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:6640ce0b-4e59-4b38-824c-80ce77ed7c7e": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:66915e52-1306-4f6c-a974-f8eb5307a599": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:681d3510-0750-4163-aa07-52c975391de5": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_135.json",
+        "sha256": "fd9ebc1cf09cf05c5491e191441eca93570360f0a712ddd520aeb654bdd8e2bd"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:68930395-c99e-4677-8e4c-138eccc96c5d": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:689454f3-0441-4a75-bb07-1ce40c47a247": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:69a84f73-a6bc-4af8-a0f3-02abdc48b752": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:6aa4c8aa-739a-413a-a6c2-d6c5e63271ab": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:6ed4e699-6451-4eaa-b79a-ec88fa671d27": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:6f5048a7-baa5-42c7-b272-89994adf52f8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:73bb28b6-72e6-4a8c-94b8-e651d6665e84": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:7560da4c-5de7-4823-af53-fac555884b0f": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_63.json",
+        "sha256": "911002b0c9cfee99c4b409e6f7a3b0e5ce520ff2f3d7aa680638a7fc0a7be2b3"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:765a3a11-6cd9-48b5-9a8c-504e8cc81394": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:76a6eb4d-68f1-438c-821d-4bd425312c58": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:77032a0f-1385-4465-9849-c17e721f17a8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:79b1b5a3-fd8e-410a-803d-9c48b446b6c7": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:7a1af9ae-2855-4961-be23-11e2116072f4": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:7a8c5f74-81e1-412d-8d7b-18a721341948": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_16.json",
+        "sha256": "b82494f3c78b5e02457ca4853c69f89878904c95cb6a73f9006c710dcc75bcd0"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:7b692c64-4dc4-4a00-8897-e64ebdcc6bea": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:7c2947a4-ec99-450e-baa3-07e12b81793c": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:7ea282e7-771d-4b03-9799-f5261664c249": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:80dbc636-4c29-4356-acf4-6155640f3d79": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_53.json",
+        "sha256": "df80543a55d2a71f343a50a0fce1dc5e74202d5891fe6036f6ecb0b03c82b09a"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:80ee24fe-418b-4010-8388-598e0d615757": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:80f82728-4730-4301-b879-2c5907e6aae0": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:8499e05c-1482-4fe7-afc1-0c6c86b64b7b": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:8515d7d0-1069-4e9e-84ab-1868e0778924": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:856da7b2-3fe0-466f-9b88-7d9360772e83": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:857453c9-ace1-4c46-b4f3-af9eefd84ba8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:886cd152-35d0-46ad-b7cc-791ce4aa2048": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:89cb85c5-59a2-4f7a-ae93-274ab677a8f9": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_107.json",
+        "sha256": "b0105b4bd93ad40ba2a2096e0772e3322cfb377f2e7a29f0da477c873470f2cc"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:8b3723c0-58f2-4956-b3c0-8ac90aa734b5": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:8c412426-d47f-4da3-9f90-6f252d5b15fa": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:8dcbe28c-e754-45d1-ba12-44c0f10aa3a1": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:92d8efcc-c1ce-44f6-bfc9-e201f55750ea": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:961bcb46-9039-4514-b8a9-afd11445908b": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_128.json",
+        "sha256": "9d65d90ffb540e9895f037143d3ba38109ad0d25c5ebdfdd1bc9dc835c8c841c"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:96b07626-e3ef-4f5d-9103-97491b5f0019": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:9827af17-5de9-470a-a6b9-d2bf0c001fb3": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:9a33fceb-c262-4c00-b3ed-2dd64ce223d9": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:9c62d02e-8590-4de1-9844-e45d33e314d8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:9d24d1dc-3fac-4a50-bc2e-7f9df2772392": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:9d4a40b2-53db-4a9a-90b0-1fd8416551cd": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_129.json",
+        "sha256": "dd845e32f5d3c139582c49e9d6addad198ee36d4f08f0e520554a5140582e546"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:9d8c8145-dbf2-4001-8013-b1cf42f2d74a": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:a03fb587-6ec7-4204-bb70-4a55623b1c9a": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_122.json",
+        "sha256": "1f90fe0ea0ac90efa58f946853b925c89cb095462f00f24011f1aac1fe789bca"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:a0c4aa97-fa1d-4ecf-8d43-2c6adb052799": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:a4deab42-01d1-49f4-aa4c-e96e16cd0f5f": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_10.json",
+        "sha256": "da3c19c41544e260a57f88ec10d7a8298e08814f0e5fd86913534ec4826e5656"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:a551824a-d926-4a44-814a-f6520d5ce9d2": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:a5b8d933-e2fb-43cd-a716-c568e4017e5e": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:a5e912ea-38e6-4102-9c0e-f6d6d3a7e499": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_81.json",
+        "sha256": "096f1ef6790b845dfd77511fbdcd7acaa69f8eb1c567b964fb7794cf6f690e58"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:a7166503-eec2-4e62-b455-946db1a8f608": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:a8c30a40-784e-43cb-9bda-9cc77a6fdb0a": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:a9d545a6-b23f-482e-92f8-02ca1fef61fa": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:aaff8b20-b584-4fb0-9718-0f8b95dc62cb": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:ac616ea1-bc14-4eec-a1b9-29da04ff9ec8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:b0b4a4f2-62b4-4628-bb97-871ca0fb8900": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_12.json",
+        "sha256": "cc9788c1473d4b393c77672cb09bdc89044198d3c0543b3c39c0b7696bea05e0"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:b0e3ffc3-1b99-4448-9c01-a4350e4949ef": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_124.json",
+        "sha256": "35602d6cc7763e0d4663a76e269db2a199fd882a61f20c5aa6639c185ea6bc94"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:b240a540-e46c-4fe6-bf00-6a1e286cc7e2": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:b286e5b2-245f-429c-b570-eac576d0b7bc": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:b291d4ef-8c94-4de8-951a-5b61ca8231d5": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_111.json",
+        "sha256": "66c8d6216cff7dca8fc460c08c34edd5865e2880129a9f0efa85f66a8558bb8f"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:b49d0de7-0578-4487-ae8d-9d3e17691075": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_153.json",
+        "sha256": "8345015ca5ca0cd6cde717b2553a86909f76d3ae382510b4ef43b27497642d3e"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:b539857a-eb31-4e1f-88ca-b3c5150a0e9c": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:b573d39a-0e7d-42b3-a048-cb47a1743368": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_73.json",
+        "sha256": "a2cabdc3dc9ec00a7ccdb8a2490a81df698644eba615aab2f0830eebd030306f"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:b89bf0a3-0c34-4df6-91f9-9fb043a1db2f": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_55.json",
+        "sha256": "508fcbc7b2c7cb3391e1d22ddca7f7bb2c5d51533c9d35eaa452bf38b07195de"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:b9c3f19d-fa8e-485c-a3db-4df1f51ba8f3": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:ba4e84c0-33e2-4b67-a128-ca5fd4f7c368": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:bbcf3b5b-9d87-4cf7-8434-31fded782cb0": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:bdd967e6-598c-4800-9492-b1d6d6b06429": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:c1344c12-8b95-4c3b-9c03-06b0fdd83f03": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:c14463d2-d6a1-41ac-88d2-a5c916c50441": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:c2836d44-75cb-4c6b-a239-697e46d7a7b2": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:c48f9e24-1980-45e7-9189-a5eb681dcaa1": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:c503ba72-b034-4c49-b2ba-bf55aa5d3e39": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:c74483dd-60d4-48ed-aabf-f183aa2fdb62": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_11.json",
+        "sha256": "3e7f0efc47618fd95114acdac54e549497c94bbb74f4039aa88b6cf8268e1ae2"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:c8c6faa5-e792-4a3c-bcd3-ac45079cc786": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:c9a4e238-1052-41a9-9540-fad313b52f26": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:c9fbca28-8043-4e98-a9b4-be9e16133867": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:cb316eac-6193-4ee8-aaed-97e5b494ecf7": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:cb7634ac-14fd-4cb7-91f2-892f1dee7839": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_105.json",
+        "sha256": "23fee68862248f78040b135c17b9975e69eb7cd9f8d010ab29df47bf5485321b"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:d5191fc6-eb49-44b8-a1de-e74c3c4096cc": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:d53f7cc5-3aa3-446c-a13a-20c8882c04f8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:d55146de-717e-4951-accc-71fe65b2de2b": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:d5fe6669-5823-41e7-9e8c-fbf7b3e1716d": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:d69612b0-afb7-4cb4-9d68-a54cecff3a7f": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:d6d6ae77-93f6-478a-936d-f4c96afdd8a2": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_93.json",
+        "sha256": "1e82c3e5f555e192cb9faeb29bcaa3554cc8089c3a43fdc07ca23d2abfce08c5"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:d7878b46-2288-416c-a75f-9ff9a13ca530": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_175.json",
+        "sha256": "94a8de67e0d91c6e30c8066e26db80a345a2d1ca4ca1954f45007bceee7275ca"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:d7e322bf-503a-470f-a835-7dd927dc2218": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_117.json",
+        "sha256": "2140ac415a8c05209ba329be330989adfde4816ee66688c2b845a69c3ce7c4bc"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:d8575018-ca1d-4be3-ac50-22e0b1e02c0d": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:dabe60e7-f58f-4646-94a0-36cc70bd1b9e": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:db55f8a9-8524-4c05-9c02-53e38bc52622": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:e091dc9b-abaa-422d-83b4-ef9a2c875650": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_172.json",
+        "sha256": "1f1be33f51b080081d57e282562fafc0f8dd3860261fa2abc24a64f6aa74c050"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:e15d1342-a65c-47e3-99fb-c2af2adfbfa5": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:e21e9775-1b22-4922-a3df-09f8b970c3ce": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_176.json",
+        "sha256": "8910e3121ee3e7a6c22793774c02d47807ea6def860ee04a5f114c7626aa4144"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:e3c4099e-4825-4192-8501-131c8bbfe5f0": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_9.json",
+        "sha256": "1b10e9034009df984f435de5e43a8d7d029443ee6d63fa9063047546fa935199"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:e5612c8b-f68c-4ef2-a2ea-edaea0dc1475": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:e6348f6b-f4e0-426e-8090-6320d7409c6b": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:e708156b-ece1-4c4b-a12e-2306a1f5e4ff": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_14.json",
+        "sha256": "b49435ca976c809075b105036f124c13db687626ab3e441990e6843c7f61837a"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:e9356c4d-19c1-4917-9c16-29e37b0ce316": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:e9a6d472-8cfd-4700-a126-bf5b536144f9": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_54.json",
+        "sha256": "dae87765b5c4d7e8245341c45effb2f1741fbd18d526ea5643b5a3e585d67e82"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:e9cf1836-7f70-49a5-b6a3-03ff05980a38": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:ed30e169-559a-46a8-8b57-3a3701614a3f": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_51.json",
+        "sha256": "78b8a51d4fe4a48915a174275a30182c3c2b18ab73f6c4f7322ffd9c6a0500a2"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:ed8b97d0-b326-4103-8b12-247ad9c3ce2b": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:eed83131-61f5-4654-89a1-4ca17ba485a9": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:ef06e4ed-7614-46dd-9a09-38fc6e4085d8": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:efa83df4-f3ea-4c91-abc2-5c04152740f1": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_70.json",
+        "sha256": "b836f71d40ce275748c1171b61fabd4af46e4875dfab5f8e7686c06811b8a2a5"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:f16996bf-c8e5-4ccb-81ef-3ad4ca5699f5": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:f8875336-c5e4-4c7f-a215-d246e95ec3a6": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_167.json",
+        "sha256": "71954d3542fb85e70c5a2e7787bb9ed6954a29e31151f7df27a1e33697cbce03"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:f8dae3ec-a41b-49fc-a80f-a8a91eedfb99": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:f909f265-f3f7-4af3-98d6-28164b87ae27": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:fa693df2-5ffd-48ab-8eeb-dd1fe8224b48": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_169.json",
+        "sha256": "3868c3e56e0dd08872108c1843504e459e0513e82635929f7decd0d51478a02d"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:fac1ddc0-8d4a-4487-a8fb-aadc6e92527d": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:fad1d0cf-9833-4eb2-8b90-d1050b207191": {
+    "intelligence": [
+      {
+        "match_evidence": "exact_episode_url_and_number",
+        "origin_path": "data/episodes/rank4/episode_60.json",
+        "sha256": "194b4fcbf6af864677e884369d645390ead64d26244b769555754d57b8d3b761"
+      }
+    ],
+    "unresolved": []
+  },
+  "simplecast:fcb30e08-b756-4688-af39-60a19bac2fc0": {
+    "intelligence": [],
+    "unresolved": []
+  },
+  "simplecast:ff0bef5c-7257-436c-907a-3f16a7f36691": {
+    "intelligence": [],
+    "unresolved": []
+  }
+}

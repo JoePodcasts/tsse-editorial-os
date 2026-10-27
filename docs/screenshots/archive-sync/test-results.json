@@ -1,0 +1,32 @@
+{
+  "archive": {
+    "passed": true,
+    "tests": 113,
+    "seconds": 96.935
+  },
+  "http": {
+    "passed": true,
+    "tests": 14,
+    "seconds": 1.728
+  },
+  "browser_regression": {
+    "passed": true,
+    "checks": 28
+  },
+  "browser_freshness": {
+    "passed": true,
+    "checks": 27
+  },
+  "presentation": {
+    "passed": true,
+    "pacific_date_cases": 5,
+    "missing_failed_state_cases": 2
+  },
+  "workflow_yaml": {
+    "parsed": true,
+    "cron": "30 6 * * 2",
+    "timezone": "America/Los_Angeles",
+    "hosted_run_executed": false
+  },
+  "recorded_at": "2026-10-27T05:33:30.938410+00:00"
+}

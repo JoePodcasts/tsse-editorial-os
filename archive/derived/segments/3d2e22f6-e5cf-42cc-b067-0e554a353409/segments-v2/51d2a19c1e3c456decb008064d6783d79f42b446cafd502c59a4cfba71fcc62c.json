@@ -1,0 +1,649 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 314,
+      "excerpt": "Guy Kawasaki: There are many podcasters who tell me, they just turn on the record button and they record it and they push it out. And they tell me that they believe that that's, you know, more true to life and transparent and, you know, et cetera, cetera. Well, I will tell you that I don't agree with that theory.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 460,
+      "excerpt": "Obviously I spent 15 hours editing, but I try to make the podcast as clean and entertaining and position my guest as remarkably as possible. It.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 316,
+      "timestamps": []
+    },
+    {
+      "end": 708,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 462,
+      "timestamps": []
+    },
+    {
+      "end": 1271,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. I'm your host Gopi Rangan. My guest today is Guy Kawasaki. He's a very special guest as this is our hundredth episode. Guy is a famous character in the Silicon Valley. He is very popular for his role as the chief evangelist at Apple many years ago. He has done many other things and inspired a lot of people throughout his career. He's an author, he's an inspiring speaker, and more recently he's a podcast host. I love his podcast and will talk about many of his experiences throughout his journey, including his podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 710,
+      "timestamps": []
+    },
+    {
+      "end": 1500,
+      "excerpt": "His podcast, Remarkable People, is one of my recent favorites. I've been listening to many of his episodes. Let's welcome Guy, and let's ask him a lot of questions about his journey. Guy, welcome to The Sure Shot entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1273,
+      "timestamps": []
+    },
+    {
+      "end": 1573,
+      "excerpt": "Guy Kawasaki: Thank you. Thank you for having me on your 100th edition.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 1502,
+      "timestamps": []
+    },
+    {
+      "end": 1881,
+      "excerpt": "Gopi Rangan: I'm very excited to ask you a lot of questions. Let's start with you. Tell us about yourself, your journey. You were born in Hawaii [Yes] and you graduated with a psychology degree in your undergraduate and then you've made an entire successful career in tech. How did that transition happen? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1575,
+      "timestamps": []
+    },
+    {
+      "end": 2724,
+      "excerpt": "Guy Kawasaki: Well [laughing], if you think I planned it, I hate to burst your bubble. I went to Stanford as an undergraduate and I majored in psychology because honestly that's the easiest major I could find. And I come from a family where my father was a state Senator in Hawaii, but he had only gone to high school. He had never gone to college. This is kind of a Japanese American story where education is emphasized. So, that's what got me out of the public school system in Hawaii into the private school system, which prepared me to go to Stanford. And then, because of his legislative background, he really wanted me to be a lawyer. So I went to UC Davis Law School for two weeks and dropped out, which was a whole big trauma. Then, I went back to Hawaii and I worked, and then I came back the following year and got an MBA at UCLA. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 1883,
+      "timestamps": []
+    },
+    {
+      "end": 3220,
+      "excerpt": "I had gone to school at Stanford with someone who in the meantime had gone to Harvard, got an MBA, and then went to HP and then he went to the Macintosh division. So, I owe my job at Apple to nepotism because he hired me with a jewelry background to be the second software evangelist in the Macintosh division of Apple. My job was to convince people to write Mac software and develop Mac hardware. And, as they say, the rest is history, but it all started with going from jewelry to computers. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2726,
+      "timestamps": []
+    },
+    {
+      "end": 3497,
+      "excerpt": "Gopi Rangan: Very fascinating, indeed. Do you think that kind of career opportunities exist today in Silicon Valley? Like this was a couple of decades ago, it was possible for someone without a tech background to come into tech. Do you think those opportunities still exist? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3222,
+      "timestamps": []
+    },
+    {
+      "end": 3770,
+      "excerpt": "Guy Kawasaki: Well, it's not like I'm in touch with current hiring practices in Silicon Valley, you know, but I sure as hell hope so. I'll tell you something, I would tell you that if you encounter a company that insists you have an MBA, you should run from that company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 3499,
+      "timestamps": []
+    },
+    {
+      "end": 4957,
+      "excerpt": "I know you teach at INSEAD, but I have to be honest. So I hope that's still true. I also want to point out something where, and I think this is a danger in many, many things, which is people tend to look at statistics and the overall statistics and to draw conclusions that apply to their own individual case. What I mean by this is let's say that, and I'm making these numbers up, let's say that somehow some report comes out that 90% of the people who get a job in tech had a technical degree or technical work experience. Okay. So you look at that, you say, \"oh my God, I'll never get a tech job because I don't have the right degree. I don't have the right work experience.\" Now, I understand statistics, but I'll tell you something, part of succeeding in life is that you're willing to defy the statistics. So yes, 9/10 people may not be able to succeed in getting a tech job, but all you care about is whether you get the tech job. May you be the one out of 10? that's probably true that nine out of 10 entrepreneurs don't get funded and nine out of 10 heterosexual men in San Francisco may not find a spouse, but if you're the 10th one who finds one, that's all you care about. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3772,
+      "timestamps": []
+    },
+    {
+      "end": 5374,
+      "excerpt": "There is, I think, a logic to, you have to ignore the big picture. For example, if the US Department of Commerce says unemployment is at record highs, you could go into a deep funk and say, \"oh shit, I can't get a job.\" But really you should ignore that and you should just get a job. Then you can be the exception and you don't really care if unemployment is at record high, all you care about is if you got a job.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4959,
+      "timestamps": []
+    },
+    {
+      "end": 5568,
+      "excerpt": "Gopi Rangan: If you wanna follow the herd, then you have to look for all these proof points. But if you wanna stand out, uh, you don't care. In fact, it's better for you to ignore all of that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5376,
+      "timestamps": []
+    },
+    {
+      "end": 5662,
+      "excerpt": "Guy Kawasaki: You know, this saying ignorance is bliss. I would say that ignoring is bliss. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 5570,
+      "timestamps": []
+    },
+    {
+      "end": 6051,
+      "excerpt": "Gopi Rangan: That's very interesting. You've been an early believer of many things, starting with the Macintosh and you are currently the chief evangelist at Canva. Along the way, there are so many different people that you have believed in. You've funnily mentioned that Guy has golden touch because you touch something that's already gold and it's not that what you touch becomes gold.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5664,
+      "timestamps": []
+    },
+    {
+      "end": 6219,
+      "excerpt": "How do you choose the kind of people you believe in? What are things that are common? What are some indicators that tell you that \"yes, that's someone I believe in.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6053,
+      "timestamps": []
+    },
+    {
+      "end": 6925,
+      "excerpt": "Guy Kawasaki: Okay. So, so now we're going into the area of don't necessarily do what I say okay. But I will be honest to say that: fall in love with stuff. I fell in love with Macintosh, fell in love with Canva. Some people who worked with me helped me fall in love with Canva. The true story. Her name is Peg Fitzpatrick, but if you are looking for an answer where I did a rigid portfolio analysis and I measured the strategic strong points of a product or a service. I figured out that they're in the magic quadrant, according to McKenzie. And I used extensive financial analysis to calculate the IRR of a career choice, you'd be badly mistaken. Basically, I fall in love with stuff and I go with it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 6221,
+      "timestamps": []
+    },
+    {
+      "end": 6994,
+      "excerpt": "Gopi Rangan: So there's no framework. You just go with your heart. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6927,
+      "timestamps": []
+    },
+    {
+      "end": 7472,
+      "excerpt": "Guy Kawasaki: Well, I think that would be understating my intellectual process but I would make the case that at this point (I'm 68 years old), going with your heart is oversimplification. Going with anything reflects a few decades of experience. I may not be doing the spreadsheet analysis, but this is not to say that it's purely an emotional reaction. Theoretically, as Malcolm Gladwell's book about blink. Theoretically, there's a lot of factors going on, not simple lust.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 6996,
+      "timestamps": []
+    },
+    {
+      "end": 7951,
+      "excerpt": "Gopi Rangan: Yeah. Malcolm Gladwell talks about intuition. What he says is intuition is not about driving past a piece of art at 60 miles per hour and figuring out whether it's fake or real. It's about developing many years of pattern recognition, knowing what is bullshit and walking away from it and then finding that gem, recognizing it right away when you see one. That feels like spontaneous from the outside, but there's many years of [yeah] education that has happened. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7474,
+      "timestamps": []
+    },
+    {
+      "end": 8618,
+      "excerpt": "Guy Kawasaki: It's hard to argue with Malcolm Gladwell. I would also say, to give one more piece of data, that I think it's just a human tendency, but certainly a tendency with Silicon Valley is that you only remember when your intuition and your gut and your emotion was right. Maybe you don't only remember it, but you only talk about it. So right now somebody says, \"Guy, what's your claim to fame? What's your record? What makes you a big deal if you are a big deal?\" And I would say, well, I worked for Macintosh division under Steve jobs. I worked for Google once. I work for Canva now, which is just dominating graphics, and I have a very successful podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 7953,
+      "timestamps": []
+    },
+    {
+      "end": 9243,
+      "excerpt": "Most people would say, \"Holy shit, Guy! You got Google, Apple, Canva, Mercedes-Benz brand ambassador. Every time you step up to the plate, you hit a home run. Well, that's because I only mentioned the home runs. I'm telling you there were a lot of missed swings, but I don't exactly lead with, \"well, let me tell you the 10 times I failed. Let me tell you about the 10 times I guessed wrong. Actually, it's not 10, it's more like 20,\" and I think that's human nature. So, if somebody worked for Apple or Google or Canva, you could basically make a career and live off that. I've just been very fortunate to have all three. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8620,
+      "timestamps": []
+    },
+    {
+      "end": 9567,
+      "excerpt": "Gopi Rangan: You're being quite modest here, but you have a legendary career working at all these places and creating impact in those places. Can we take the example of Canva? How did that happen? Yes. How did you meet the founders? What got you to the point to say, \"yeah, I want to, I want to be a part of this journey.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9245,
+      "timestamps": []
+    },
+    {
+      "end": 10004,
+      "excerpt": "Guy Kawasaki: Okay. So this goes right along with your previous question. First let me tell you what, it's not. It's not that at the time I was seeking employment and I was doing an extensive search of open positions in Industries and in various companies within those industries and out of the thousands of potential positions, I selected Canva, and I did this after extensive analysis of the market and the people and the technology.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 9569,
+      "timestamps": []
+    },
+    {
+      "end": 10642,
+      "excerpt": "Now, if you wanna believe that, hallelujah, but you would be deluding yourself. The truth is that I was very active on Twitter, way back when, and I came up with a theory that to be successful in Twitter, every tweet should have a graphic if you wanna stand out. Peg Fitzpatrick, who was working with me, doing many of my tweets, needed a way to create graphics for every tweet. And she stumbled upon Canva. So, she was using Canva on my behalf and Canva happened to notice that I was using Canva. So Canva tweeted an @mention to me saying, \"we see that you use Canva, would you like to, you know, discuss what we're doing or whatever.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10006,
+      "timestamps": []
+    },
+    {
+      "end": 10944,
+      "excerpt": "I just happened to see that @mention, so I asked Peggy, \"isn't this what we use?\" And she said, \"yes.\" I said, \"well, do you like it?\" She said, \"yes.\" I said, \"do you think I should help them?\" And she said, \"yes.\" That's why I helped them and the rest truly is history. That's been eight years now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10644,
+      "timestamps": []
+    },
+    {
+      "end": 11069,
+      "excerpt": "Gopi Rangan: You were a happy customer first before you started evangelizing the product. Why are you excited about Canva? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10946,
+      "timestamps": []
+    },
+    {
+      "end": 11580,
+      "excerpt": "Guy Kawasaki: It was exactly a democratized design. Now, I had used Photoshop, but OMG!. I mean to use Photoshop just to create a square graphic from a picture, it is not a trivial thing. I mean, so, you know, with Photoshop that gives basically give you a blank canvas and there's about 60 or 70 icons around it, and you're supposed to figure out what each one does. And, for my needs, I would be using about half a percent of Photoshop's capability. So, this was a massive overkill for what I wanted to do. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 11071,
+      "timestamps": []
+    },
+    {
+      "end": 12505,
+      "excerpt": "Right now, I don't remember the last time I used Photoshop. For me, one of the big moments was I crossed over from using PowerPoint for my speeches, because I used PowerPoint for all my speeches. I don't want people to think I make 60 slides with PowerPoint because that's not at all what I do. I make 10 or 15 and everyone is made with Canva now, whereas I used to use PowerPoint. So can's beautiful because you can create 16 by nine presentations and then export to the PowerPoint format because when I speak for a company, I have to provide them slides. And I don't want to use Canva live because who knows about the internet in the middle of my speech. So I create my slides in Canva. I export to the PowerPoint format and I send it to them. And they're happy using PowerPoint. They may be using a Windows machine. Who knows, right? So, life is good. Now, I don't think I do anything graphically without Canva anymore. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11582,
+      "timestamps": []
+    },
+    {
+      "end": 12724,
+      "excerpt": "Gopi Rangan: It's kind of become ubiquitous. It's occupied all aspects of your graphic design needs. I could see that. You mentioned that there were many misses along the way. Yep. Can we talk about one or two misses?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12507,
+      "timestamps": []
+    },
+    {
+      "end": 12978,
+      "excerpt": "Guy Kawasaki: Sure. Well, I'll tell you why I have such a high quantity of misses. In the middle of my career, I started a company called garage.com. Garage.com was a venture capital investment bank. Basically it helped the two wings of the butterfly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 12726,
+      "timestamps": []
+    },
+    {
+      "end": 13162,
+      "excerpt": "Gopi Rangan: Wait. Venture capital investment bank?? The two different phrases combined together gives me a pause. Like investment bank and venture capital are two different things. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12980,
+      "timestamps": []
+    },
+    {
+      "end": 13562,
+      "excerpt": "Guy Kawasaki: Okay. So, venture capital is about people writing checks and making investments. And an investment bank is about finding people to write the check. Typically an investment bank is like Goldman Sachs and they find a private equity investor or a huge vestment bank to write a check to an entrepreneur. So the investment bank serves as the intermediary between entrepreneur and company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 13164,
+      "timestamps": []
+    },
+    {
+      "end": 14054,
+      "excerpt": "A venture capitalist obviously writes the check. We figured out very early that in order to be an investment bank and truly adhere to the SEC and regulatory issues about raising money, you have to be an investment bank and you have to have a broker dealer and you have to be a registered rep. You have to pass Series 7 and Series 24 and all that kind of stuff. So, we were as a form investment bank and we were in the venture capital business of helping entrepreneurs raise venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13564,
+      "timestamps": []
+    },
+    {
+      "end": 14269,
+      "excerpt": "After the big dotcom implosion, venture capital investing went away for several years. So we turned from venture capital investment bank to a principal investor. That is, we became a venture capitalist ourselves. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14056,
+      "timestamps": []
+    },
+    {
+      "end": 14519,
+      "excerpt": "Gopi Rangan: This is fascinating because now many VC firms like Andreessen Horowitz and others are turning into that RAA business. They are now registered brokers as well. You may have been quite early in that journey. Uh, maybe a pioneer in that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14271,
+      "timestamps": []
+    },
+    {
+      "end": 14582,
+      "excerpt": "Why did that not work out to the expectation levels you had? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14521,
+      "timestamps": []
+    },
+    {
+      "end": 14990,
+      "excerpt": "Guy Kawasaki: Well, one is we were hit with the mother of all dotcom implosions, right? For years during the dotcom implosion, nobody was writing a check. So, as an investment bank, you would be making warrants or a percentage of the raise, but there were no raises happening. That's when we pivoted from being a broker dealer to a principal. Now you're saying that Andreessen Horowitz is a broker dealer? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 14584,
+      "timestamps": []
+    },
+    {
+      "end": 15222,
+      "excerpt": "Gopi Rangan: Many VC firms are exploring that choice because it allows those VC firms to do secondary market transactions and invest in crypto. Those are all regulated. So, it becomes easier for those VC firms to become a broker. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14992,
+      "timestamps": []
+    },
+    {
+      "end": 15260,
+      "excerpt": "Guy Kawasaki: Well, God bless them. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 15224,
+      "timestamps": []
+    },
+    {
+      "end": 15659,
+      "excerpt": "Gopi Rangan: It's a new trend. You've given one example, but this is still a very, very exciting example. I would say you had a vision for what could happen to the industry and that's kind of eventually now playing out. The market was unfair to you. The market really didn't support at that time because of the dotcom burst. If the market had kept up, maybe the business would've been successful. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15262,
+      "timestamps": []
+    },
+    {
+      "end": 16176,
+      "excerpt": "Now, there's a big move for podcasts. I wanna talk about your podcast, Remarkable People. The number of podcasts, number of people listening to podcasts, number of hours of focus on the podcast by the active listeners and the passive listeners, all of these numbers are through the charts. Your podcast is probably one of the best, if not the best, where you've curated, exceptionally accomplished people, and you ask them very thoughtful, well-researched questions. How did the concept for this podcast come about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15661,
+      "timestamps": []
+    },
+    {
+      "end": 17549,
+      "excerpt": "Guy Kawasaki: Once again, I may have to burst the bubble here. If you're thinking that I did a careful analysis of the need for this kind of podcast, and I was driven by the desire to make the world a better place, cetera, cetera, you can believe that. God bless you. But the truth is that my most recent book, which is quite a while ago now is called 'Wise Guy'. As 'Wise Guy' was coming out, as an author, you basically try to get on any podcast you can. If a podcast has three listeners, you get on that podcast. I was saying yes to everything. This is back in the day where you've traveled and you actually met with the podcaster in person. So, two of you would sit down at two mics and record this, which I haven't done in three years. I was doing this and I was on several business podcast shows and I said to them, \" tell me the business model for your podcast. Like exactly how does this work?\" And several people would say, \"well, you know, we run three ads, pre roll, during the show and post roll.\" I said, \"so how much do you charge for these ads?\" He said, \"well, the first one is the best one. So that's 20 grand. The second one is 15 grand and the third one is 10 grand.\" I'm taking 20 and 15. That's 35. You add another 10, you get 45. Let's call it 40, 50 grand per episode. I said, \"so you're making 50 grand per episode\", and the podcaster said, \"yep.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 16178,
+      "timestamps": []
+    },
+    {
+      "end": 17891,
+      "excerpt": "And I said, \"and you do what? 52 a year.?\" He goes, \"actually I do about a hundred a year.\" So I said, \"so you're telling me that you do a hundred times 50 grand, you're doing $5 million in podcasts.\" And they said, \"yep.\" And I said, \"Why the hell am I writing books? Like, why am I writing a book? Why am I traveling all over the country?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17551,
+      "timestamps": []
+    },
+    {
+      "end": 18126,
+      "excerpt": "Why am I making these speeches? Why am I trying to like autograph every book when I make $2 and 50 cents each, I should just be a podcaster.\" So that's where I saw the light. But I have to tell you podcasting ain't that easy either. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17893,
+      "timestamps": []
+    },
+    {
+      "end": 18150,
+      "excerpt": "Gopi Rangan: It's not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18128,
+      "timestamps": []
+    },
+    {
+      "end": 18239,
+      "excerpt": "Guy Kawasaki: Maybe I talked to the only two people who are making 50 grand an episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 18152,
+      "timestamps": []
+    },
+    {
+      "end": 18483,
+      "excerpt": "Gopi Rangan: It's hard to make 50 grand an episode. Uh, no kidding. Having been a podcaster myself, producing high quality content on a consistent basis is very difficult. I can see that you analyzed it quite well before you committed to it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18241,
+      "timestamps": []
+    },
+    {
+      "end": 19509,
+      "excerpt": "Guy Kawasaki: Well, not really. Let me tell you about my podcast. I prepare for each guest probably four hours. So, it's four hours for the prep. It's two hours for the actual recording. Now we're at six and then somebody spends two hours just doing the initial scrub, you know, removing all the filler words, the Ugh, ums ands, well, you nose, right. Just kind of cleaning it up. Then I spent another, maybe three hours on it, where I'm really shaping it and cutting stuff out like whole sentences, not just filler words. And then a sound design team spends probably another five hours on it. I haven't been counting, but if you took all those things, and that's before the marketing of it, that's just to get it from idea to final sound file, I would say is probably 10 to 15 hours per hour of podcast. Now, there are many podcasters who tell me, they just turn on the record button and they record it and they push it out. They tell me that they believe that that's more true to life and transparent et cetera, et cetera.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 18485,
+      "timestamps": []
+    },
+    {
+      "end": 21080,
+      "excerpt": "Well, I will tell you that I don't agree with that theory. Obviously I spend 15 hours editing, but I try to make the podcast as clean and entertaining and position my guest as remarkably as possible. I'll tell you real tactical things. It will shock you if I told you some of the people I've had on my podcast, who are just household names, high brand awareness, absolutely famous, remarkable people who in the space of a one hour recording might say, \"um\", \"uh\", \"well\", \"you know,\" 250 times. Literally 250 times! You should be so lucky if somebody asked you a question, like \"how was it to work for Steve jobs?\" ...and they give a cogent answer, like \"working for Steve jobs was an honor and a privilege, but it was a scary experience. But what I learned from Steve is that, you can't ask customers what they need. You need to anticipate what they want and what they need. You have to have the courage to take that leap and then when you're wrong, you have to change.\" Okay, that's a great answer. Let me tell you how it works in the real world. The person would start off by saying, \"well, you know, man, let me think about this. So, you know, like, well, I gotta say man news, man. It was so scary. I mean, working for Steve jobs was such a scary experience and he was just awesome, man. Like, I, I, I, those were like the happiest days of my life. And along the way I learned it, you can't ask your customer what they really wanted. Um, you know, you know what I'm saying?\" You take all that crap and you throw away 90% and it comes down to what you want to get. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19511,
+      "timestamps": []
+    },
+    {
+      "end": 21251,
+      "excerpt": "So, there's two theories: just press record and shoot it out, or my theory is you edit the hell out of it to make people look as good as possible. And that's what I do. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21082,
+      "timestamps": []
+    },
+    {
+      "end": 21878,
+      "excerpt": "Gopi Rangan: That's my goal as well. I wanna make my guests look good. There is content that is created for mass market. I'm going to call that, like the Pepsi and the Coke, where the goal is to just get the attention of as many people as possible, and then slap advertisements on them to make money. The other way to build content is to create content for intelligent people who are very, very selective about what they consume. They care about quality of content, quality of questions. Authenticity matters but for them to pay attention to something and be consistently consuming that content, they need production quality.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21253,
+      "timestamps": []
+    },
+    {
+      "end": 22013,
+      "excerpt": "And that's what you're providing. I try to do that. I think your production quality is way better than anything else that I've seen. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21880,
+      "timestamps": []
+    },
+    {
+      "end": 22871,
+      "excerpt": "Guy Kawasaki: Let me be honest, Gopi. When I see that Joe Rogan gets 6 million views or that Meghan Markle in her first episode, interviewing Serena Williams, surpasses Joe Rogan. I haven't listened to that episode, but from what I read about the episode, it's mostly Meghan Markle talking about Meghan Markle, as opposed to Serena Williams. If you listen to my podcast, if I had Serena Williams on my podcast, by the way, if any of you know her, I would love to have her on my podcast. It would be Serena Williams talking 95% of the time, me talking 5% of the time. Apparently that wasn't true with Meghan Markle. So don't get me wrong, Gopi. It drives me crazy that just like that Meghan Markle zooms to the top and Joe Rogan, who I tried to listen to some of his episodes and it's like he's just ranting for so long, but maybe that's what America wants.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 22015,
+      "timestamps": []
+    },
+    {
+      "end": 22934,
+      "excerpt": "I don't know. I'm not capable of doing that kind of podcast. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22873,
+      "timestamps": []
+    },
+    {
+      "end": 23114,
+      "excerpt": "Gopi Rangan: Sometimes people get addicted to Coke, Pepsi, and that's an okay business, but I don't wanna be in the business. And I see that you don't wanna be in that business. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22936,
+      "timestamps": []
+    },
+    {
+      "end": 23362,
+      "excerpt": "You say that you bring people who are already accomplished and successful, but I think you are giving them a voice through your platform. I wouldn't have listened to many of the people on your podcast otherwise. So how do you choose these people?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23116,
+      "timestamps": []
+    },
+    {
+      "end": 23796,
+      "excerpt": "Guy Kawasaki: Okay. There's sort of two classes of people on my podcast. So one is 'Holy shit! You were so lucky to get them.' I would say that's Jane Goodall, Neil deGrasse Tyson, Steve Wozniak, Scott Galloway, Bob Glaudini. David Archer. Right? So those people, any podcaster in the world would just like be doing back flips. I just signed up Gretchen Carlson. I haven't interviewed her but she's committed to being on my podcast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 23364,
+      "timestamps": []
+    },
+    {
+      "end": 24164,
+      "excerpt": "There's those kind of people where after you read the email or you hang up the phone, you say, holy shit, man, that was dumb shit luck Guy. How did you do that? So there's that kind. And then there's the other kind, which is maybe in a segment, people would know exactly who he or she is and why that person is remarkable, but the person is not yet a household name.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23798,
+      "timestamps": []
+    },
+    {
+      "end": 24984,
+      "excerpt": "My podcast is called Remarkable People, not famous people, not rich people, remarkable people. So take a one extreme. I interviewed a woman who's an executive at Adobe, who came into America smuggled by coyotes through San Diego, and now she's an executive at Adobe. She's not CEO of Adobe. She's not on the board of directors of Adobe. She's a manager at Adobe. I think she has a remarkable story and is a remarkable person. She's side by side with Jane Goodall. I pride myself in being open to remarkable people. I'm I'm about to interview a woman who has ALS, but made it a goal to participate in marathons in 50 states. You don't know who she is. You've never heard of her. But that is a remarkable story, because let's just say most people at ALS are not doing 50 marathons. So, the test for me is remarkability. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24166,
+      "timestamps": []
+    },
+    {
+      "end": 25481,
+      "excerpt": "Now, how do I find them? Well, a lot of it is my eyes are wide open and my ears hear. I may be driving along and I hear somebody on NPR and I say, holy shit, I gotta get that person. So NPR is a very good filter. There's a show called Freakonomics and they had an MIT finance professor named Antoinette Schoar, and she was talking about crypto and I heard her discuss crypto in such an intelligent way that I went after her and got her. I interviewed her yesterday. So, there's some of that now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24986,
+      "timestamps": []
+    },
+    {
+      "end": 25760,
+      "excerpt": "Some of it is just in a sense, one thing leads to another and I'll give you the extreme example of one thing leading to another, because this is a very good life lesson I wanted to get Angela Duckworth. Angela Duckworth, MacArthur award winner, world's greatest expert on grit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25483,
+      "timestamps": []
+    },
+    {
+      "end": 26839,
+      "excerpt": "So I try to get Angela Duckworth. I don't know Angela Duckworth. So I send an email, you know, info@angeladuckworth.com. I don't get any answer. A few weeks later, I'm a guest on a podcast. I get on this podcast and I do this interview. At the start of the interview, the podcaster says to me, so you know, I'm a freshman in high school, in Little Rock Arkansas or Mobile Alabama, or, you know, someplace like that, and, honestly, I'm thinking to myself \"Guy, why the hell don't you screen your request more? Like, why are you going on a podcast of a freshman in who knows where?\" But a) come to find out, she asks very, very good questions. At the end of this podcast, I say to her, because I'm curious now, \"who else is on your podcast?\" She goes, \"oh, I just had Angela Duckworth.\" I said \"what!\" She goes, \"yeah. I just had Angela Duckworth.\" I said, \" how did you get Angela Duckworth?\" She says, \"well, I just wrote into her, and apparently she likes to help young female students succeed. So she said, yes.\" I said, \"really? so can you introduce me to Angela Duckworth?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25762,
+      "timestamps": []
+    },
+    {
+      "end": 27149,
+      "excerpt": "And she says, \"sure, I'd be happy to help you with Angela Duckworth.\" So she sends an email to me and Angela Duckworth saying, \"I just had Angela Duckworth on my show. He's interested in having you. Angela, can I connect you with guy Kawasaki?\" Now it helps to be me so that, you know, I'm not just Joe Blow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26841,
+      "timestamps": []
+    },
+    {
+      "end": 27473,
+      "excerpt": "So, Angela had knew of me, not enough to answer the info@angeladuckworth.com email, but she knows of me. So, there's that. But basically without that 15 or 16 year old girl in Mobile, Alabama, I would not have gotten Angela Duckworth. And that's how it works. So the lesson is one of my lessons in life is always say, yes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27151,
+      "timestamps": []
+    },
+    {
+      "end": 27554,
+      "excerpt": "Being open minded, being open to meeting new people, experiencing new things...",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27475,
+      "timestamps": []
+    },
+    {
+      "end": 27604,
+      "excerpt": "yeah, you just never know. You just never know. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27556,
+      "timestamps": []
+    },
+    {
+      "end": 28127,
+      "excerpt": "Gopi Rangan: The world has lots of pockets of remarkable people, remarkable accomplishments, and the podcast is truly remarkable. I really enjoy listening to it. Just through the podcast, you've seen so many things that have been provided to the world created by people. Even prior to that, with your angel investments, your venture capital investments and your direct affiliations with companies like Apple to Canva, you've seen so many products and services built. What's the next thing that you'd like to see created? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27606,
+      "timestamps": []
+    },
+    {
+      "end": 28564,
+      "excerpt": "Guy Kawasaki: Well, listen, I am not a visionary. I'm not Steve jobs just like James Danforth Quayle wasn't John F. Kennedy. I pride myself in seeing something that I like and realizing is potential. I cannot build something. I cannot see the future, but if the future is shown to me, I think I can recognize it most of the time. So for me, it's good pattern recognition, as opposed to creating the future. I can recognize the future. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 28129,
+      "timestamps": []
+    },
+    {
+      "end": 28693,
+      "excerpt": "Gopi Rangan: you don't know what needs to be created, but you will know when it's shown to you that that is going to be great. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28566,
+      "timestamps": []
+    },
+    {
+      "end": 29093,
+      "excerpt": "Guy Kawasaki: I hope so. There's two sort of traps here. One is the false positive where you see something and you think it's the future. And the other is when you see something that becomes the future and you said no. I've done both of those things. I know I'm not omniscient or omnipotent. I just drill a lot of holes and some of those hit. But I would say more of my holes hit than most people. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 28695,
+      "timestamps": []
+    },
+    {
+      "end": 29255,
+      "excerpt": "Gopi Rangan: It does, of course, yes. I hope that continues and you hit many more big winners and many more people get inspired by your books and your podcasts.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29095,
+      "timestamps": []
+    },
+    {
+      "end": 29434,
+      "excerpt": "We're coming towards the end of our conversation. And I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29257,
+      "timestamps": []
+    },
+    {
+      "end": 30149,
+      "excerpt": "Guy Kawasaki: Yes. My favorite nonprofit organization is an organization in Watsonville, California. It's called Digital Nest. Watsonville, California is a heavily, let's say immigrant agricultural area. The natural path for most kids in that area is to go into agriculture. I don't mean by becoming farm owners, they are farm workers. So what I love about Digital Nest is that they're giving the kids of farm workers a digital future. They're teaching them about social media, video audio production, film production, all that good stuff so that they have another path besides agriculture to a future. And I love that. I want to help democratize tech for kids who have not been as fortunate as me and my family. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 29436,
+      "timestamps": []
+    },
+    {
+      "end": 30422,
+      "excerpt": "Gopi Rangan: Guy, thank you so much for spending time with me and sharing so much of your wisdom and your experiences. I look forward to sharing your nuggets of wisdom with the world and with the humility, with which you share these examples. It's just truly remarkable. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30151,
+      "timestamps": []
+    },
+    {
+      "end": 30445,
+      "excerpt": "Thank you very much. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30424,
+      "timestamps": []
+    },
+    {
+      "end": 30472,
+      "excerpt": "Guy Kawasaki: Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Guy Kawasaki",
+      "start": 30447,
+      "timestamps": []
+    },
+    {
+      "end": 30649,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30474,
+      "timestamps": []
+    },
+    {
+      "end": 30816,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30651,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "51d2a19c1e3c456decb008064d6783d79f42b446cafd502c59a4cfba71fcc62c",
+  "text_sha256": "b6c817d6ba52d5a55e24e2712a73ad18800498b812b536e21c2d91ccd599f8eb"
+}

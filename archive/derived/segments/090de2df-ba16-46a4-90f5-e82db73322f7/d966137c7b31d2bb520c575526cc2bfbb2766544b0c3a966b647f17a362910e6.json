@@ -1,0 +1,1319 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 226,
+      "excerpt": "Our model is optimized for speed. We are looking for businesses that can grow very quickly. Those businesses tend to be led by people that move fast and are very precise and very specific about what it is they're trying to do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 480,
+      "excerpt": "[00:00:19] Gopi: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 228,
+      "timestamps": [
+        {
+          "offset": 228,
+          "raw": "[00:00:19]",
+          "seconds": 19
+        }
+      ]
+    },
+    {
+      "end": 775,
+      "excerpt": "[00:00:40] Welcome to The Sure Shot Entrepreneur. My guest today is the founder and managing partner at Restive Ventures. He focuses on investing in startups that build the future of financial services. We're gonna learn more about what that means. Ryan, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 482,
+      "timestamps": [
+        {
+          "offset": 482,
+          "raw": "[00:00:40]",
+          "seconds": 40
+        }
+      ]
+    },
+    {
+      "end": 850,
+      "excerpt": "[00:00:58] Ryan: Oh! Thanks for having me, Gopi. I'm excited to be here. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 777,
+      "timestamps": [
+        {
+          "offset": 777,
+          "raw": "[00:00:58]",
+          "seconds": 58
+        }
+      ]
+    },
+    {
+      "end": 1020,
+      "excerpt": "[00:01:01] Gopi: Tell us about yourself starting with where you grew up. You grew up quite close to Silicon Valley but not really in Silicon Valley. You were in Tahoe. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 852,
+      "timestamps": [
+        {
+          "offset": 852,
+          "raw": "[00:01:01]",
+          "seconds": 61
+        }
+      ]
+    },
+    {
+      "end": 1705,
+      "excerpt": "[00:01:09] Ryan: Yeah. Yeah. I moved to Tahoe when I was about five. But immediately before we moved to Tahoe, we actually lived in San Francisco for about a year. Some of my first memories were actually actually in San Francisco, although, I mean, obviously different place and I had no real connection, obviously to tech as, as a four year old. But I had really fond memories of living in the city. So yes, as I got older and could make decisions on where I wanted to live, I wanted to go go back to the Bay Area and be in the city. So it always was close to my heart. But yeah, I grew up in Lake Tahoe which is a nice place. If you're from Northern California, you're aware of it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 1022,
+      "timestamps": [
+        {
+          "offset": 1022,
+          "raw": "[00:01:09]",
+          "seconds": 69
+        }
+      ]
+    },
+    {
+      "end": 1896,
+      "excerpt": "[00:01:39] So I spent a lot of time outdoors and I got to be pretty good skier by the time I left .When I was 16 though, I moved to Las Vegas. I actually graduated high school in Las Vegas.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1707,
+      "timestamps": [
+        {
+          "offset": 1707,
+          "raw": "[00:01:39]",
+          "seconds": 99
+        }
+      ]
+    },
+    {
+      "end": 2095,
+      "excerpt": "[00:01:49] Gopi: Very interesting. You're almost a local to Silicon Valley in Reno Tahoe, and then you moved to Las Vegas. How did you get into tech? What attracted you? Silicon Valley in the end? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 1898,
+      "timestamps": [
+        {
+          "offset": 1898,
+          "raw": "[00:01:49]",
+          "seconds": 109
+        }
+      ]
+    },
+    {
+      "end": 2943,
+      "excerpt": "[00:02:01] Ryan: Actually I was probably more interested in financial services early on. In high school I had a job at Wells Fargo Bank as a teller. That was one of the first jobs I had. So I was always interested in financial services and I was also interested in entrepreneurialism. After college, I briefly had had my own business, which was a candy business. I was actually in the toffee business. Did that for a little while and it was like it's a very seasonal business. So after Christmas came and went, toffee business really dropped off. I needed to find something else and I got a job with a startup up here in San Francisco that was in the travel and tourism space. They have a product called the Go-Kart, which is basically like turns all the attractions in the city into what one ticket you can buy and kind of go around to all them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 2097,
+      "timestamps": [
+        {
+          "offset": 2097,
+          "raw": "[00:02:01]",
+          "seconds": 121
+        }
+      ]
+    },
+    {
+      "end": 3454,
+      "excerpt": "[00:02:41] I got a job there and that was my first venture-backed startup and like many people who join venture-backed startups. It didn't fully work out at least for me. At some point, hiccup in the road and, you know, maybe did a down round or something happened. I ended up losing that job and I went to graduate school. I think between the two of them, between interest in financial services and entrepreneurialism kind of started to circle around kinda what is now FinTech. But that was a while ago now. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2945,
+      "timestamps": [
+        {
+          "offset": 2945,
+          "raw": "[00:02:41]",
+          "seconds": 161
+        }
+      ]
+    },
+    {
+      "end": 3718,
+      "excerpt": "[00:03:05] Gopi: You went from selling candies to deeper parts of financial services and after grad school and eventually you decided to start your own venture fund. That's like a very interesting route in your career. Why is venture capital interesting to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 3456,
+      "timestamps": [
+        {
+          "offset": 3456,
+          "raw": "[00:03:05]",
+          "seconds": 185
+        }
+      ]
+    },
+    {
+      "end": 4016,
+      "excerpt": "[00:03:21] Ryan: Well, so there's a little bit more linearness to the path honestly. I had had this job with a startup, so I saw how tech companies worked and I thought that was really interesting and I'd always had this interest in financial services and particularly around financial inclusion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 3720,
+      "timestamps": [
+        {
+          "offset": 3720,
+          "raw": "[00:03:21]",
+          "seconds": 201
+        }
+      ]
+    },
+    {
+      "end": 4645,
+      "excerpt": "[00:03:33] When I actually went to graduate school, it was really to study microfinance and how to think about providing access to capital and emerging markets for financial inclusion issues. That's what took me to Yale. I spent a couple years there and then after finishing, I actually worked about five years in emerging markets. I worked all over the world and eventually was running a strategy practice for a small boutique consultancy. Almost the entirety of the business I was running was in thinking around how to leverage technology to expand financial services. We did a lot of work on mobile money and mobile banking.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4018,
+      "timestamps": [
+        {
+          "offset": 4018,
+          "raw": "[00:03:33]",
+          "seconds": 213
+        }
+      ]
+    },
+    {
+      "end": 5147,
+      "excerpt": "[00:04:04] I remember actually [this is about 2013] when I was kinda looking to transition the next thing and I went to an event where I heard a really famous VC speaking at the time and there was a Q&A afterwards and I had asked, you know, why isn't there more venture capital money flowing in emerging markets? He was like, \"Well, it's just too far away. You know we like to kind of invest pretty close and like no one really wants to be investing in like Africa. No one knows that market at all.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4647,
+      "timestamps": [
+        {
+          "offset": 4647,
+          "raw": "[00:04:04]",
+          "seconds": 244
+        }
+      ]
+    },
+    {
+      "end": 5204,
+      "excerpt": "[00:04:25] Gopi: Sometimes even Tahoe is too far away. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 5149,
+      "timestamps": [
+        {
+          "offset": 5149,
+          "raw": "[00:04:25]",
+          "seconds": 265
+        }
+      ]
+    },
+    {
+      "end": 5670,
+      "excerpt": "[00:04:27] Ryan: Yeah. Sometimes East Bay is too far away sometimes. And so, I think it was illuminating both on how much venture has changed, but also how little attention was really being focused in a venture community on financial services even, even that late. So I had an opportunity, I worked briefly for Silicon Valley Bank on a payments team and really got to know the US market there and was there, you know, onboarded Coinbase into the US banking system.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 5206,
+      "timestamps": [
+        {
+          "offset": 5206,
+          "raw": "[00:04:27]",
+          "seconds": 267
+        }
+      ]
+    },
+    {
+      "end": 6795,
+      "excerpt": "[00:04:53] I spent a lot of time with Stripe and Square and Uber, Airbnb in the early days. I saw firsthand just how challenging it was for startups to engage with the financial services ecosystem. I had assumed up until that point in my career that the US was a pretty efficient market and that these startups were basically kind of either chipping around the edges or maybe weren't really doing anything that transformational. I realized that the US market is actually very backwards, very inefficient, very closed off to most economic participants in our society. So, when I made the move into venture, I had also an unconventional start. I had an opportunity to work with a non-profit, which is now called the Financial Health Network. And then JP Morgan Chase to launch obviously an accelerator to support our early stage FinTech companies. That's where I got my start in investing and there's elements of the model that we brought to what is now Restive that date from that - really thinking around how do we help unblock the path for founders as they grow and scale their businesses and help them move more quickly. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5672,
+      "timestamps": [
+        {
+          "offset": 5672,
+          "raw": "[00:04:53]",
+          "seconds": 293
+        }
+      ]
+    },
+    {
+      "end": 7308,
+      "excerpt": "[00:05:55] Gopi: In 2007, I met Muhammad Yunus. That's the year he won the Nobel Prize and he's that leader in the microfinance. I saw the opportunity in emerging markets to build financial services solutions, and I think the opportunity is still huge, but I see where you're coming from with the experience in tech startups and in financial services, you truly believe that venture capital plays a very important role in bringing innovation to financial services. Even in the US there's a massive opportunity. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 6797,
+      "timestamps": [
+        {
+          "offset": 6797,
+          "raw": "[00:05:55]",
+          "seconds": 355
+        }
+      ]
+    },
+    {
+      "end": 7817,
+      "excerpt": "[00:06:24] Ryan: Absolutely. There's obviously very large opportunities in emerging markets just in the number of people that are served by it and how kind of nonexistent the banking system is but the US is actually a much larger market. If you're looking at from just a market perspective, the US financial service industry is probably the largest concentration of revenue and profits really in the industry globally. It counts for about 15 to 20% of the US GDP and the US is obviously a very large market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 7310,
+      "timestamps": [
+        {
+          "offset": 7310,
+          "raw": "[00:06:24]",
+          "seconds": 384
+        }
+      ]
+    },
+    {
+      "end": 8137,
+      "excerpt": "[00:06:51] So there's really huge opportunities in this market to disrupt the incumbents and obviously to build many meaningfully large businesses. It's easy to kind of overlook just because of how advanced our economy is but I really think this is one area where there's really just huge untapped opportunities still.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7819,
+      "timestamps": [
+        {
+          "offset": 7819,
+          "raw": "[00:06:51]",
+          "seconds": 411
+        }
+      ]
+    },
+    {
+      "end": 8339,
+      "excerpt": "[00:07:06] Gopi: So let's talk about Restive Ventures. It was previously called Financial Venture Studios. What is Restive Ventures about? What is your focus? What kind of companies do you invest in? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 8139,
+      "timestamps": [
+        {
+          "offset": 8139,
+          "raw": "[00:07:06]",
+          "seconds": 426
+        }
+      ]
+    },
+    {
+      "end": 9071,
+      "excerpt": "[00:07:17] Ryan: Ideally, we wanna be that first institutional partner. We're very comfortable taking very early-stage risk. We are happy to be first money in and we work to systematically connect our founders to the broader financial services ecosystem. We think of that ecosystem as really having four constituent parts. There's potential partners. If you're touching money in any way, shape or form, you need to work with other people. The financial service ecosystem is actually quite intertwined. So, building those relationships with banks, insurance companies, payments companies, now even larger fintech companies often takes founders, you know, a lot of time and it can result in a lot of false starts and slow them down.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 8341,
+      "timestamps": [
+        {
+          "offset": 8341,
+          "raw": "[00:07:17]",
+          "seconds": 437
+        }
+      ]
+    },
+    {
+      "end": 9377,
+      "excerpt": "[00:07:53] So what we want to do is, after we invest, work the system out to connect our founders to those partners if they're working in a regulated space. The one opportunity where you can actually really build a meaningful relationship with regulators and policy makers is the pre-seed and seed stage?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9073,
+      "timestamps": [
+        {
+          "offset": 9073,
+          "raw": "[00:07:53]",
+          "seconds": 473
+        }
+      ]
+    },
+    {
+      "end": 9689,
+      "excerpt": "[00:08:06] It's somewhat counterintuitive, but at that stage you're still kinda a plucky entrepreneur. You're the underdog. Everyone wants to root for you. And so it creates an opportunity to build meaningful long-term relationships. We spend a lot of time helping our founders connect to downstream investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9379,
+      "timestamps": [
+        {
+          "offset": 9379,
+          "raw": "[00:08:06]",
+          "seconds": 486
+        }
+      ]
+    },
+    {
+      "end": 10040,
+      "excerpt": "[00:08:19] We think these businesses, by definition, have to be very large and are gonna need to raise a decent amount of capital. We wanna help our founders build those relationships quickly. And then by working with our founders and cohorts of firms together, we can help them build connectivity with each other and help them build some community.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9691,
+      "timestamps": [
+        {
+          "offset": 9691,
+          "raw": "[00:08:19]",
+          "seconds": 499
+        }
+      ]
+    },
+    {
+      "end": 10301,
+      "excerpt": "[00:08:33] At the end of the day, the investor doesn't really know what you're going through as a founder. Intellectually, some of us might. Both my partners have been founders before and so you remember that. But that's very different than being in trenches.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10042,
+      "timestamps": [
+        {
+          "offset": 10042,
+          "raw": "[00:08:33]",
+          "seconds": 513
+        }
+      ]
+    },
+    {
+      "end": 10610,
+      "excerpt": "[00:08:43] By batching up our companies after we invest, and taking it through this experience together, they can build some real meaningful relationships between them. I think it's really useful that as you're dealing with all the blocking and tackling you have peers that are going through the same thing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10303,
+      "timestamps": [
+        {
+          "offset": 10303,
+          "raw": "[00:08:43]",
+          "seconds": 523
+        }
+      ]
+    },
+    {
+      "end": 10876,
+      "excerpt": "[00:08:55] We invest additional capital in our companies. So, our initial check size is usually about $250,000. Then we'll look to rapidly scale our position up until including through the Series A. We'll go up to usually about $2.5 million of principal exposure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10612,
+      "timestamps": [
+        {
+          "offset": 10612,
+          "raw": "[00:08:55]",
+          "seconds": 535
+        }
+      ]
+    },
+    {
+      "end": 11150,
+      "excerpt": "[00:09:07] Gopi: So you like to be the first institutional capital partner for founders, and you help the founders connect with other founders so they can learn from each other and you stay for the long term by supporting them through the journey of building the business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 10878,
+      "timestamps": [
+        {
+          "offset": 10878,
+          "raw": "[00:09:07]",
+          "seconds": 547
+        }
+      ]
+    },
+    {
+      "end": 11472,
+      "excerpt": "[00:09:22] Let's go to that starting point where you meet the founders as the first institutional investor in the company. What happens in that first meeting? Feel free to give examples of companies that you've invested in. What was the conversation about? What did you look for? What came through in that first meeting?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11152,
+      "timestamps": [
+        {
+          "offset": 11152,
+          "raw": "[00:09:22]",
+          "seconds": 562
+        }
+      ]
+    },
+    {
+      "end": 11689,
+      "excerpt": "[00:09:39] Ryan: So, it's never too early to talk to us. We really try to avoid ever saying, \"Hey, this is too early.\" that could be a crutch for other obvious problems that you just don't want to tell the founder. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 11474,
+      "timestamps": [
+        {
+          "offset": 11474,
+          "raw": "[00:09:39]",
+          "seconds": 579
+        }
+      ]
+    },
+    {
+      "end": 11818,
+      "excerpt": "[00:09:49] Gopi: Can I ask why? Yeah. I know I'm in the same space as well. Why is it hard to tell the founder the real reason?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 11691,
+      "timestamps": [
+        {
+          "offset": 11691,
+          "raw": "[00:09:49]",
+          "seconds": 589
+        }
+      ]
+    },
+    {
+      "end": 12281,
+      "excerpt": "[00:09:56] Ryan: Well, sometimes you don't know. I actually think that that's it. You don't know. It's easy to hear something's too early, everything is too early. There are public companies that are too early for other public investors. You can always say something's too early. In some cases, objectively true. If you're a growth stage investor or you're a near seed-stage founder, that's probably a waste of your time. That investor knows that in that case. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 11820,
+      "timestamps": [
+        {
+          "offset": 11820,
+          "raw": "[00:09:56]",
+          "seconds": 596
+        }
+      ]
+    },
+    {
+      "end": 12792,
+      "excerpt": "[00:10:17] I think when you're a seed investor and you're encountering a founder and you're saying, \"ah, I think it's probably too early. I'd like to see some more traction\" I think you didn't really understand the story, you didn't really understand what they're trying to do. Or, you understood it, but you don't like it, and you want them to prove elements of it, that would just be additional evidence. Or three, you understood it and you don't like it, and you just don't wanna say why you don't like it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12283,
+      "timestamps": [
+        {
+          "offset": 12283,
+          "raw": "[00:10:17]",
+          "seconds": 617
+        }
+      ]
+    },
+    {
+      "end": 13018,
+      "excerpt": "[00:10:40] But in all cases it's a useful thing to say. It [not saying] does founders are great disservice because even saying, \"Hey, I don't think you guys are credible founders\" is better than saying something's too early.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12794,
+      "timestamps": [
+        {
+          "offset": 12794,
+          "raw": "[00:10:40]",
+          "seconds": 640
+        }
+      ]
+    },
+    {
+      "end": 13335,
+      "excerpt": "[00:10:50] Now obviously we wouldn't say that unless person's really a jerk or something, but like, but you can figure out like, \"hey, we'd like to see more of this type of experience in the team.\" Or, \"these are the types of things we'd wanna see to demonstrate that you solve this problem or mitigated this risk.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13020,
+      "timestamps": [
+        {
+          "offset": 13020,
+          "raw": "[00:10:50]",
+          "seconds": 650
+        }
+      ]
+    },
+    {
+      "end": 13650,
+      "excerpt": "[00:11:04] Gopi: You turn it into a positive discussion in the end. But founders, when they hear from investors that this is too early, it can mean many things. I put you on the spot to answer this question, but thanks for sharing your candid thoughts on this. Let's go back to what happens in that first meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 13337,
+      "timestamps": [
+        {
+          "offset": 13337,
+          "raw": "[00:11:04]",
+          "seconds": 664
+        }
+      ]
+    },
+    {
+      "end": 13776,
+      "excerpt": "[00:11:20] Can you give an example of a startup, like what happened in that first meeting? What was the conversation about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13652,
+      "timestamps": [
+        {
+          "offset": 13652,
+          "raw": "[00:11:20]",
+          "seconds": 680
+        }
+      ]
+    },
+    {
+      "end": 14666,
+      "excerpt": "[00:11:26] Ryan: Yeah, one of the first company investments we made where we were the first money and was a company called FairPlay - a product that helps eliminate bias; algorithmic decision making processes. So, if you're using algorithms to underwrite loans, those algorithms have the same biases that people do. What Fairplay does is their software looks for those biases and then eliminates them in real time so that that consumer or business that got turned down can get retargeted or reevaluated and approved. This isn't extending credit or expanding the aperture of what the target is. It's just making sure that your target is your target. So if you say, \"Hey, I'm gonna approve everybody that's a credit score above 660 and makes more than $50,000 a year\" and you're rejecting people who fit that bill because there's some sort of bias in your model, that's what FairPlay does. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 13778,
+      "timestamps": [
+        {
+          "offset": 13778,
+          "raw": "[00:11:26]",
+          "seconds": 686
+        }
+      ]
+    },
+    {
+      "end": 15099,
+      "excerpt": "[00:12:10] We bet this team as we had the idea they both had left another company where they were doing something very similar. They'd known each other for a really long time and each of us - there's three of us on the investment side as far as meeting companies and evaluating them - we all have a little bit of a different approach to what we look for, and all of us talk to every founder, usually independently before we invest.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14668,
+      "timestamps": [
+        {
+          "offset": 14668,
+          "raw": "[00:12:10]",
+          "seconds": 730
+        }
+      ]
+    },
+    {
+      "end": 15428,
+      "excerpt": "[00:12:30] It allows us to get a different perspective on what we're looking for. I generally like to have the founders just give me like a two minute on the business, like just a high level. I prefer not to get a pitch with a deck. I find that it wastes a lot of time. But if a founder prefers to do that, I'll let them do it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15101,
+      "timestamps": [
+        {
+          "offset": 15101,
+          "raw": "[00:12:30]",
+          "seconds": 750
+        }
+      ]
+    },
+    {
+      "end": 15476,
+      "excerpt": "[00:12:46] Gopi: You mean during the meeting? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 15430,
+      "timestamps": [
+        {
+          "offset": 15430,
+          "raw": "[00:12:46]",
+          "seconds": 766
+        }
+      ]
+    },
+    {
+      "end": 15891,
+      "excerpt": "[00:12:48] Ryan: Yeah, during the meeting, I mean, I usually don't need like that much. Sometimes it's easier just to hear like, okay, hey, what are you trying to do? I'm trying to do this. Cool. All right. Now tell me like why, like what do you, like, what's your insight? And so you're looking usually for someone who has a really special insight in the market. They have some knowledge that is not widely held.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 15478,
+      "timestamps": [
+        {
+          "offset": 15478,
+          "raw": "[00:12:48]",
+          "seconds": 768
+        }
+      ]
+    },
+    {
+      "end": 16237,
+      "excerpt": "[00:13:06] What I look for is if their internal logic is coherent. I try to really listen for that. So, hey, I got a FinTech that I'm gonna make payments on the moon. Okay, why is the moon a good place to do payments? Why are you the right person to do that? And not be like, oh, that sounds idiotic. There's no reason for payments on the moon.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15893,
+      "timestamps": [
+        {
+          "offset": 15893,
+          "raw": "[00:13:06]",
+          "seconds": 786
+        }
+      ]
+    },
+    {
+      "end": 16634,
+      "excerpt": "[00:13:26] What exactly is this person trying to do? What are the pieces at the table they're gonna bring to it? Why do I think this is gonna work out? And really listening to their logic and their internal way of thinking about it, rather than imposing my own world of view on the idea. And then trying to see, does that logic make sense? That's really what I'm looking for in a first meeting. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16239,
+      "timestamps": [
+        {
+          "offset": 16239,
+          "raw": "[00:13:26]",
+          "seconds": 806
+        }
+      ]
+    },
+    {
+      "end": 17106,
+      "excerpt": "[00:13:43] Gopi: So as a first institutional investor, you see a lot of outlandish ideas that kind of borderline crazy, but there's an internal logic to explain why it makes sense. And when some of these assumptions come true, there will be an opportunity in the future. That's how the founders explain it. How long does it take for you to go from the first meeting, first point of interaction to say when you decide that, \"yeah, this is a company I want to invest in.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 16636,
+      "timestamps": [
+        {
+          "offset": 16636,
+          "raw": "[00:13:43]",
+          "seconds": 823
+        }
+      ]
+    },
+    {
+      "end": 17163,
+      "excerpt": "[00:14:11] Ryan: If they're really strong within a day.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 17108,
+      "timestamps": [
+        {
+          "offset": 17108,
+          "raw": "[00:14:11]",
+          "seconds": 851
+        }
+      ]
+    },
+    {
+      "end": 17411,
+      "excerpt": "[00:14:14] Gopi: As short as within a day. Can you describe that process? Like what happens? Y ou mentioned that you like to meet founders independently and also consult with your partners later together. How does a typical process work for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 17165,
+      "timestamps": [
+        {
+          "offset": 17165,
+          "raw": "[00:14:14]",
+          "seconds": 854
+        }
+      ]
+    },
+    {
+      "end": 17987,
+      "excerpt": "[00:14:26] Ryan: Yeah, so usually you find out about a company, either it can be like a, they directly source it we get a referral. We also get cold inbound. Today, I got two really good cold inbounds. We've got random email from someone I've never heard before and some other guy kind of a weird story from Twitter. I'll hop on a call with both those individuals. I usually schedule half an hour and if they have some materials, especially if it's a cold inbound, I'll probably wanna see a deck or something to make sure this makes sense or like have a look at the website.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 17413,
+      "timestamps": [
+        {
+          "offset": 17413,
+          "raw": "[00:14:26]",
+          "seconds": 866
+        }
+      ]
+    },
+    {
+      "end": 18402,
+      "excerpt": "[00:14:53] But if it's a referral, like if you send someone, I'm obviously just gonna talk to him. And then if you sent me something that was like outside of my range was more technical, I'd probably bounce it to my partner, Tyler Griffin. And if it was something where you were really a small business, I, I'd bounce it to Cameron or other partner cause both of them just have more experience in those verticals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17989,
+      "timestamps": [
+        {
+          "offset": 17989,
+          "raw": "[00:14:53]",
+          "seconds": 893
+        }
+      ]
+    },
+    {
+      "end": 18663,
+      "excerpt": "[00:15:10] But short from that, I'd probably just do the call. First call, just making sure they understand what we do, what our box is, check size, and getting a sense of what the deal terms are, just so we also make sure it's gonna be a fit from that range.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18404,
+      "timestamps": [
+        {
+          "offset": 18404,
+          "raw": "[00:15:10]",
+          "seconds": 910
+        }
+      ]
+    },
+    {
+      "end": 19336,
+      "excerpt": "[00:15:21] And then we'll have this usually about half an hour long call. And I guess I'll usually ask for like a two minute, but if the offender wants to walk through a deck, like we'll just kinda follow their lead. I'll then figure out like, is this something that we should spend time on? And if it's not, I'll try usually to turn them down on the call. I'll try to just say, \"Hey, not a fit because of X, Y, Z. But you know, if, and if, and if it's not a fit from a structural thing, like let's say they're, they work at the outside of the United States or they're non-US company or they're further along, then I, you know, my offer to introduce 'em to somebody else.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18665,
+      "timestamps": [
+        {
+          "offset": 18665,
+          "raw": "[00:15:21]",
+          "seconds": 921
+        }
+      ]
+    },
+    {
+      "end": 19698,
+      "excerpt": "[00:15:51] But for the most part we'll try to turn them down right there. Or I'll take it back to the team. We have two calls during the course of the week; one on Monday where we run through our whole pipeline and then the other one back half of the week when we just kind of say, \"Hey, is there anything that's really interesting that we need to prioritize?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19338,
+      "timestamps": [
+        {
+          "offset": 19338,
+          "raw": "[00:15:51]",
+          "seconds": 951
+        }
+      ]
+    },
+    {
+      "end": 20102,
+      "excerpt": "[00:16:05] If it was a really good call, I'll put on Slack and be like, \"Hey, someone else needs to talk to this person like today\" and we'll try to get that process done very quickly. That happens extraordinarily rarely. I mean that's like maybe once or twice a year. More normally, we'll then do a call or I'll bounce it to another person, and then that other person will do a similar call structure.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19700,
+      "timestamps": [
+        {
+          "offset": 19700,
+          "raw": "[00:16:05]",
+          "seconds": 965
+        }
+      ]
+    },
+    {
+      "end": 20655,
+      "excerpt": "[00:16:27] Everyone has their different way of doing it. After two people have talked to the founder we'll put our heads together and say, \"okay, is this worth us digging in?\" At that point we try to determine who's gonna kinda lead that process, or if we really think there's a reason for the third person to talk to them, like we'll have that. But we'll try to have a point of view there after two. We need to make a go-forward-or- not decision. So, if you've talked to two people and we're still debating, then we're looking pretty seriously at it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20104,
+      "timestamps": [
+        {
+          "offset": 20104,
+          "raw": "[00:16:27]",
+          "seconds": 987
+        }
+      ]
+    },
+    {
+      "end": 21030,
+      "excerpt": "[00:16:50] Every deal we need to talk to all three of us. Sometimes we'll bring in a senior advisor named Tom Brown. His background is in law and payments, and we've worked with him since we started the company. Sometimes we'll bring him in if we need another view. And, after you've talked to all three of us, we'll make a decision and then we'll usually offer to invest. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20657,
+      "timestamps": [
+        {
+          "offset": 20657,
+          "raw": "[00:16:50]",
+          "seconds": 1010
+        }
+      ]
+    },
+    {
+      "end": 21107,
+      "excerpt": "[00:17:08] Gopi: How many companies do you invest in on average and every? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 21032,
+      "timestamps": [
+        {
+          "offset": 21032,
+          "raw": "[00:17:08]",
+          "seconds": 1028
+        }
+      ]
+    },
+    {
+      "end": 21180,
+      "excerpt": "[00:17:11] Ryan: Maybe about 15. A little more than one a month? Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 21109,
+      "timestamps": [
+        {
+          "offset": 21109,
+          "raw": "[00:17:11]",
+          "seconds": 1031
+        }
+      ]
+    },
+    {
+      "end": 21327,
+      "excerpt": "[00:17:14] Gopi: What percentage of companies you meet eventually turn into one of these 15 investments? How many companies do you roughly meet? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 21182,
+      "timestamps": [
+        {
+          "offset": 21182,
+          "raw": "[00:17:14]",
+          "seconds": 1034
+        }
+      ]
+    },
+    {
+      "end": 22126,
+      "excerpt": "[00:17:21] Ryan: I think probably somewhere between five and 700 a year. We also run an application process, so we'll run an application process before we kick off each of these cohorts. The throughput there is relatively low. It's maybe about 1% of the companies we'll invest in come through the application process. But it's not that much dissimilar from just the, the top of funnel, the general one, but that also helps us to kinda expand a circle a little bit of who we're talking to. If we're just relying on other venture funds or even people who might know enough to reach out to us, you end up unintentionally excluding a lot of businesses. So the application process helps us to really make sure we're not missing anything and I think really lowers the barrier to getting in front of us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 21329,
+      "timestamps": [
+        {
+          "offset": 21329,
+          "raw": "[00:17:21]",
+          "seconds": 1041
+        }
+      ]
+    },
+    {
+      "end": 22250,
+      "excerpt": "[00:17:59] Gopi: The founder doesn't need to always come through a warm introduction. They can apply through your website.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 22128,
+      "timestamps": [
+        {
+          "offset": 22128,
+          "raw": "[00:17:59]",
+          "seconds": 1079
+        }
+      ]
+    },
+    {
+      "end": 22292,
+      "excerpt": "[00:18:05] Ryan: Or they just email us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 22252,
+      "timestamps": [
+        {
+          "offset": 22252,
+          "raw": "[00:18:05]",
+          "seconds": 1085
+        }
+      ]
+    },
+    {
+      "end": 22340,
+      "excerpt": "[00:18:06] Gopi: Cold introductions are fine. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 22294,
+      "timestamps": [
+        {
+          "offset": 22294,
+          "raw": "[00:18:06]",
+          "seconds": 1086
+        }
+      ]
+    },
+    {
+      "end": 22826,
+      "excerpt": "[00:18:07] Ryan: Yeah. We take cold emails all the time. A well written cold email is great. If you send an email to everyone at the company, though, or it's just like obviously spam then like that doesn't count. But most emails where it's like, I can tell it's been written to me, it's a FinTech business - pretty low bar - if you have a FinTech business and you can personalize email \"hi Ryan, I know you invest in seed-stage FinTech. I'll probably gonna read the rest of the email.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 22342,
+      "timestamps": [
+        {
+          "offset": 22342,
+          "raw": "[00:18:07]",
+          "seconds": 1087
+        }
+      ]
+    },
+    {
+      "end": 22930,
+      "excerpt": "[00:18:34] Gopi: I wanna talk about FinTech and trends in the market, let's finish this conversation. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 22828,
+      "timestamps": [
+        {
+          "offset": 22828,
+          "raw": "[00:18:34]",
+          "seconds": 1114
+        }
+      ]
+    },
+    {
+      "end": 22955,
+      "excerpt": "[00:18:38] Ryan: Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 22932,
+      "timestamps": [
+        {
+          "offset": 22932,
+          "raw": "[00:18:38]",
+          "seconds": 1118
+        }
+      ]
+    },
+    {
+      "end": 23164,
+      "excerpt": "[00:18:39] Gopi: No is the most common answer. What's the most common reason to say no? Let's say out of the 700 companies you meet, like 200, 300 of them are probably an immediate no, so let's forget that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 22957,
+      "timestamps": [
+        {
+          "offset": 22957,
+          "raw": "[00:18:39]",
+          "seconds": 1119
+        }
+      ]
+    },
+    {
+      "end": 23879,
+      "excerpt": "[00:18:50] Ryan: Oh, it's like 500 immediate no. I think there's about a hundred FinTech companies created in the US each year that are investible. That means you have a plan, you're structured in an appropriate way. You know, you're a C corp. And where you've actually thought about the capitalization of the company and have thought about the types of investors you wanna bring. You've put together a team that you know makes sense. I think that's actually relatively small number. I think it's like a hundred-ish. And then of those, there's probably maybe a third to a half competitive financing rounds where there's multiple investors that are really excited about doing it. So, it's not that many companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 23166,
+      "timestamps": [
+        {
+          "offset": 23166,
+          "raw": "[00:18:50]",
+          "seconds": 1130
+        }
+      ]
+    },
+    {
+      "end": 24396,
+      "excerpt": "[00:19:24] I'd say the most common reason is like there's an obvious problem with the business. It's not structured properly. There might be a number of other competitors that do it. There's a lot of these evergreen ideas that never really seem to work. There are a lot of businesses that are very much just kind of tracking along broader trends. So like, you know, earlier this year everything was a web three business. Now there's a bunch of AI and that kinds of things. Those are usually not what we're looking. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23881,
+      "timestamps": [
+        {
+          "offset": 23881,
+          "raw": "[00:19:24]",
+          "seconds": 1164
+        }
+      ]
+    },
+    {
+      "end": 25020,
+      "excerpt": "[00:19:47] The businesses that I think are real serious efforts at it, I'd say the reasons for them not being a good fit are we think maybe a lack of the right skills in the founding team, particularly usually lack of technical skill. That's a big piece of it. Another really common reason for turning off is, you know, the market they're going into might not be that lucrative or the market might not be that big. It might be like a really low-margin business where you can just tell that the scale that they would need to arrive to make it really profitable would be kind of beyond the realm of reasonable expectations. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24398,
+      "timestamps": [
+        {
+          "offset": 24398,
+          "raw": "[00:19:47]",
+          "seconds": 1187
+        }
+      ]
+    },
+    {
+      "end": 25324,
+      "excerpt": "[00:20:15] One of the more common reasons we have is that we're not going to be that helpful to them. Our model is predicated us being like the most helpful investor. We start out with a relatively small check and we want to build that position via this very intensive kind of engagement model we have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25022,
+      "timestamps": [
+        {
+          "offset": 25022,
+          "raw": "[00:20:15]",
+          "seconds": 1215
+        }
+      ]
+    },
+    {
+      "end": 25518,
+      "excerpt": "[00:20:29] And so that doesn't work if we're not gonna be super helpful. If we're going to be just another random small check along for the ride, that's not gonna affect the fund performance. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25326,
+      "timestamps": [
+        {
+          "offset": 25326,
+          "raw": "[00:20:29]",
+          "seconds": 1229
+        }
+      ]
+    },
+    {
+      "end": 25632,
+      "excerpt": "[00:20:37] Gopi: You don't wanna be a passive investor. You wanna be an active investor supporting the founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 25520,
+      "timestamps": [
+        {
+          "offset": 25520,
+          "raw": "[00:20:37]",
+          "seconds": 1237
+        }
+      ]
+    },
+    {
+      "end": 25845,
+      "excerpt": "[00:20:41] What happens if one of the partners really likes the company and another partner doesn't? What can the founder do to get over that hurdle? Or can they get over the hurdle if one partner doesn't like..",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25634,
+      "timestamps": [
+        {
+          "offset": 25634,
+          "raw": "[00:20:41]",
+          "seconds": 1241
+        }
+      ]
+    },
+    {
+      "end": 25885,
+      "excerpt": "[00:20:53] Ryan: So the third person? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 25847,
+      "timestamps": [
+        {
+          "offset": 25847,
+          "raw": "[00:20:53]",
+          "seconds": 1253
+        }
+      ]
+    },
+    {
+      "end": 25996,
+      "excerpt": "[00:20:53] Gopi: Yeah, the three of you. There's two possibilities for the founders to encounter challenges. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 25887,
+      "timestamps": [
+        {
+          "offset": 25887,
+          "raw": "[00:20:53]",
+          "seconds": 1253
+        }
+      ]
+    },
+    {
+      "end": 26252,
+      "excerpt": "[00:21:00] Ryan: Yeah. That's why we have three people. If I like it and Cameron doesn't like it, then we have Tyler talk to him and Tyler kind of makes a decision. And sometimes Tyler's like, ah, I don't really know either. And so then we have a debate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 25998,
+      "timestamps": [
+        {
+          "offset": 25998,
+          "raw": "[00:21:00]",
+          "seconds": 1260
+        }
+      ]
+    },
+    {
+      "end": 26482,
+      "excerpt": "[00:21:10] If someone really loves a business though, they're probably gonna prevail even if the other two people are lukewarm on it. The passion for something counts more. It's like a vote weighted by your relative excitement. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26254,
+      "timestamps": [
+        {
+          "offset": 26254,
+          "raw": "[00:21:10]",
+          "seconds": 1270
+        }
+      ]
+    },
+    {
+      "end": 26622,
+      "excerpt": "[00:21:22] Gopi: Voting is the easiest, quickest way to get to an answer, but may not be the most effective way to get to a good solution.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 26484,
+      "timestamps": [
+        {
+          "offset": 26484,
+          "raw": "[00:21:22]",
+          "seconds": 1282
+        }
+      ]
+    },
+    {
+      "end": 26996,
+      "excerpt": "[00:21:30] Yeah, I see. This is very useful for founders. They need to get one partner totally on board, or at least two partners on board in a reasonable way. They don't need to get all three partners totally loving the business all the time because the nature of investments, you invest in outlandish ideas. It's totally understandable if one partner has some questions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26624,
+      "timestamps": [
+        {
+          "offset": 26624,
+          "raw": "[00:21:30]",
+          "seconds": 1290
+        }
+      ]
+    },
+    {
+      "end": 27580,
+      "excerpt": "[00:21:49] Ryan: Yeah. Especially if you're talking to like a specialist fund - both of us have specialties and we focus on - the outlandish ideas are actually pretty rare. It's far more common for me to see like a Neobank for X, like that happens all the time. Rather are than like payments on the moon. Payments on the moon is like, what , what are you doing? Like that's a, that never happens. And so the outlandish ones actually tend to get a little bit more resonance. But if you have an outlandish idea, you should be prepared that almost everybody is gonna think it's crazy. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 26998,
+      "timestamps": [
+        {
+          "offset": 26998,
+          "raw": "[00:21:49]",
+          "seconds": 1309
+        }
+      ]
+    },
+    {
+      "end": 27843,
+      "excerpt": "[00:22:19] Gopi: This is very interesting. Thank you for sharing insider baseball stories. I wanna talk about FinTech trends. What kind of areas are super interesting to you now? If a founder wants to build a business, what problems are good to solve right now?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 27582,
+      "timestamps": [
+        {
+          "offset": 27582,
+          "raw": "[00:22:19]",
+          "seconds": 1339
+        }
+      ]
+    },
+    {
+      "end": 28271,
+      "excerpt": "[00:22:35] Ryan: So, I will say one thing we try to avoid doing; we don't actually do; is map out like areas we wanna see innovation in. We've done that in the past and it was counterproductive. It led to founders self-selecting and because I'd say, \"oh, we're really interested in vertical SaaS solutions\" and then we wouldn't see other stuff because founders think \"they're really only interested in vertical SaaS payments.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 27845,
+      "timestamps": [
+        {
+          "offset": 27845,
+          "raw": "[00:22:35]",
+          "seconds": 1355
+        }
+      ]
+    },
+    {
+      "end": 28963,
+      "excerpt": "[00:22:57] We actually do not have as like a policy, like don't have areas we're looking for stuff in. Instead, we want to follow kind of the founder energy. So, if we have a founder who shows up and like, \"Hey, I think this is a huge opportunity. This is why I have some experience working in this space. I brought together this other person with me who's got this skill that I don't have. We've got a little bit of history working together.\" We don't need you be brother and sister. You can just be people who met at work or wherever. It doesn't really matter, but you're kinda set up to solve the problem and you've got a good thesis on what you're gonna do, that's a better fit for us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28273,
+      "timestamps": [
+        {
+          "offset": 28273,
+          "raw": "[00:22:57]",
+          "seconds": 1377
+        }
+      ]
+    },
+    {
+      "end": 30452,
+      "excerpt": "[00:23:29] Our model is to optimize for speed. We are looking for businesses that can grow very quickly. Those businesses tend to be led by people that move fast and are very precise and very specific about what it is they're trying to do. When we see businesses like that, that's the kinda stuff where our model is designed for us to move equally quickly. Now that being said, I think this is a great time to be an investor in this space. It's kind of a bummer time to have a portfolio because it's like, it's harder for like the existing companies, but if you're starting out from scratch and you're willing to let the market tell you what these valuations should be. Right now, it's a very choppy time. We're seeing a lot of pressure on valuations. Despite what people say, there's far less activity out there than there was earlier this year. So, if you're trying to get a deal done, you need to be receptive to where the market is and think that money is an input and don't worry too much about what those terms are and you keep it really lean, which is easier because you're not already bloated. I think this could be some really phenomenal businesses that get started because the underlying dynamics of financial services have not changed. It is still an inefficient market. There's way too many banks and insurance and payments companies in this country. The startups, very few of them have reached scale, so they're vulnerable too. And so this is a good time to start something.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28965,
+      "timestamps": [
+        {
+          "offset": 28965,
+          "raw": "[00:23:29]",
+          "seconds": 1409
+        }
+      ]
+    },
+    {
+      "end": 30957,
+      "excerpt": "[00:24:43] Areas where there should be more innovation is around compliance and fraud. Those problems are exploding. I think that some of the stuff that's happening in crypto markets right now is gonna create incredible second order effects if you're gonna start doing some of the verification work there and like tracking fraud, tracking counterparties. There's still not enough innovation on that front. So, that's probably the one area where it's like, yeah, there's obviously still a lot of demand. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30454,
+      "timestamps": [
+        {
+          "offset": 30454,
+          "raw": "[00:24:43]",
+          "seconds": 1483
+        }
+      ]
+    },
+    {
+      "end": 31747,
+      "excerpt": "[00:25:08] Gopi: I see you have an optimistic view of the future. You go in with an open mind. You try to avoid having a preconceived notion of what might work, what might not work. You wanna listen to the founder to understand what problem they want to solve, why they're passionate about it and you see lots of opportunities in FinTech. The underlying infrastructure still is waiting to be improved, and there are a lot of opportunities for founders to build solutions. The current market conditions are very favorable to new companies. Now, you're not dealing with the bloated cap table and those type of situations that companies have put themselves into in the past two years if you're starting from. It's a great time to start a new company. I see a lot of positives in your words. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 30959,
+      "timestamps": [
+        {
+          "offset": 30959,
+          "raw": "[00:25:08]",
+          "seconds": 1508
+        }
+      ]
+    },
+    {
+      "end": 31935,
+      "excerpt": "[00:25:49] We're coming towards the end of our conversation and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31749,
+      "timestamps": [
+        {
+          "offset": 31749,
+          "raw": "[00:25:49]",
+          "seconds": 1549
+        }
+      ]
+    },
+    {
+      "end": 32533,
+      "excerpt": "[00:25:57] Ryan: In FinTech, there are some interesting, non-profits who operate in this space that do really interesting work. Particularly in the Bay Area, there's an organization called SaverLife that helps basically families start to establish savings and provides emergency liquidity, emergency savings products to families across the Bay Area. It leverages technology so it looks a lot like a startup, and I think the company's done a really phenomenal job of helping to raise a lot of money and helping a lot of people avoid some of these real pitfalls that happen to low-income families. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 31937,
+      "timestamps": [
+        {
+          "offset": 31937,
+          "raw": "[00:25:57]",
+          "seconds": 1557
+        }
+      ]
+    },
+    {
+      "end": 32783,
+      "excerpt": "[00:26:27] Gopi: Ryan, thank you very much for spending time with me, sharing insider stories on how you think and how your team thinks about investments, your optimistic views on FinTech, and why founders should look at this sector more seriously.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi",
+      "start": 32535,
+      "timestamps": [
+        {
+          "offset": 32535,
+          "raw": "[00:26:27]",
+          "seconds": 1587
+        }
+      ]
+    },
+    {
+      "end": 32952,
+      "excerpt": "[00:26:41] There are so many stories in your narrative that are lessons for founders to learn from. Thanks so much for spending time with me and sharing your stories. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32785,
+      "timestamps": [
+        {
+          "offset": 32785,
+          "raw": "[00:26:41]",
+          "seconds": 1601
+        }
+      ]
+    },
+    {
+      "end": 33026,
+      "excerpt": "[00:26:49] Ryan: Oh, thank you very much, Gopi. I appreciate being here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Ryan",
+      "start": 32954,
+      "timestamps": [
+        {
+          "offset": 32954,
+          "raw": "[00:26:49]",
+          "seconds": 1609
+        }
+      ]
+    },
+    {
+      "end": 33093,
+      "excerpt": "[00:26:51] Thank you for listening to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33028,
+      "timestamps": [
+        {
+          "offset": 33028,
+          "raw": "[00:26:51]",
+          "seconds": 1611
+        }
+      ]
+    },
+    {
+      "end": 33379,
+      "excerpt": "[00:26:54] I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33095,
+      "timestamps": [
+        {
+          "offset": 33095,
+          "raw": "[00:26:54]",
+          "seconds": 1614
+        }
+      ]
+    }
+  ],
+  "source_sha256": "d966137c7b31d2bb520c575526cc2bfbb2766544b0c3a966b647f17a362910e6",
+  "text_sha256": "2cf74a0c865c16157a5404218e5ac959383db89b1e3eda7dfaa914f0b99a001e"
+}

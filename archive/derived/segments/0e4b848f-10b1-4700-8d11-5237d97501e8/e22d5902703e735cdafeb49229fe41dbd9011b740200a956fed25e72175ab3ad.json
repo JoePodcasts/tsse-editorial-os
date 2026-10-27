@@ -1,0 +1,1011 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 422,
+      "excerpt": "In many cases, we work with engineers or founders who may not yet be polished at presenting their idea and communicating to investors. They may not have spent a lot of time around investors and understand what that language is and how to pitch investors. That doesn't matter. We can help to add. What we really want to see is, we want to see a big problem that if the company gets it right, is going to be a major company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 1187,
+      "excerpt": "[00:00:37] Gopi Rangan: You are listening to The Sure Shot Entrepreneur – a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Andrew Cleland. Andrew is the Chief Investment Officer at Techstars, the famous accelerator for startups. They have supported hundreds of startups over the years. We're going to learn more about his role at Techstars and how Techstars plans for the future. We'll talk about how to get into Techstars, how you can get value out of Techstars and how Techstars thinks about building their portfolio and supporting founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 424,
+      "timestamps": [
+        {
+          "offset": 424,
+          "raw": "[00:00:37]",
+          "seconds": 37
+        }
+      ]
+    },
+    {
+      "end": 1344,
+      "excerpt": "It's been one of the greatest institutions in the startup ecosystem that has been a supporter for startups. Andrew, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1189,
+      "timestamps": []
+    },
+    {
+      "end": 1431,
+      "excerpt": "[00:01:39] Andrew Cleland: Thank you for having me. It's lovely to connect with you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 1346,
+      "timestamps": [
+        {
+          "offset": 1346,
+          "raw": "[00:01:39]",
+          "seconds": 99
+        }
+      ]
+    },
+    {
+      "end": 1551,
+      "excerpt": "[00:01:42] Gopi Rangan: Let's start with you. You are a Brit, but you've lived in the U. S. for more than two decades.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1433,
+      "timestamps": [
+        {
+          "offset": 1433,
+          "raw": "[00:01:42]",
+          "seconds": 102
+        }
+      ]
+    },
+    {
+      "end": 1654,
+      "excerpt": "How did you enter the world of venture capital? Let's start with you from when you lived in England. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1553,
+      "timestamps": []
+    },
+    {
+      "end": 1940,
+      "excerpt": "[00:01:54] Andrew Cleland: Yeah, so that's right. I'm a Brit. I grew up in London. Very international background though. My dad was a demographer, so traveled all around the world. I always grew up with an understanding that I might travel and that there's a big wide world out there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 1656,
+      "timestamps": [
+        {
+          "offset": 1656,
+          "raw": "[00:01:54]",
+          "seconds": 114
+        }
+      ]
+    },
+    {
+      "end": 2317,
+      "excerpt": "He would come back with war clubs from South Africa, and cookeries from Nepal, and amazing imaginative stuff for a young kid. And my family's very international. I'm an Anglo, but I'm an Anglo Mut, so I have a I have a grandmother from Kentucky, a grandmother from Adelaide in Australia, and a Scottish grandparent, an English grandparent, so from, from all around the place.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1942,
+      "timestamps": []
+    },
+    {
+      "end": 2662,
+      "excerpt": "So I grew up in that environment. I went to college in Scotland. First thing I did was start businesses. I ran nightclubs in college mainly because I love music and I needed to find a way to pay for it. And also, I was a terrible DJ, at least at first. And by running the nightclub, I could put myself on the back room, actually employ myself.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2319,
+      "timestamps": []
+    },
+    {
+      "end": 3379,
+      "excerpt": "So, I did that for a little bit, all the way through college, actually, and paid for my, paid for my final. Came out, joined one of the big consulting firms, really, because I didn't know what else to do. I think 80 percent of graduates don't know what to do. I was one of them, but I knew I didn't want to do medicine. That was kind of a family background. I knew I wanted to do business, the flexibility. I wanted to have a really varied career. So I joined one of the big consulting firms through lack of imagination. Turned out that I loved it. I didn't love how much there was of it. I worked really hard, but I loved the work and I figured out that I liked that kind of analytical approach to problem solving.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2664,
+      "timestamps": []
+    },
+    {
+      "end": 3733,
+      "excerpt": "And actually, to answer your question a little bit, I started thinking about VC from the very earlier stage. And the reason that I did was twofold. One of my colleagues got headhunted out of my consulting firm, which is Booz Allen in London focused on media, and he got poached by a VC firm. And that got me aware of the category and thinking about it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3381,
+      "timestamps": []
+    },
+    {
+      "end": 4088,
+      "excerpt": "This is quite early. I started working for Booz Allen in 1996/97 something like that and What really appealed to me was it felt a little bit like consulting but you actually have your scorecard marked. In consulting, the frustrating thing is you deliver this product and who knows where it goes. In venture, you clearly have a scorecard and I love that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3735,
+      "timestamps": []
+    },
+    {
+      "end": 4828,
+      "excerpt": "So I started thinking about it early. I went to business school in France. I graduated and went straight into the teeth in the first dotcom boom, so it's 99. I joined another startup, helped to co found it, grew that to profitability, and although it's clear that the bits of the business that were working were the bits that I was less interested in, they were the offline bits, and I was interested in the online bits. It was a music business, early for music online in 99. I then got headhunted by a former colleague of mine who said, \"come over to New York. I work for Time Warner. We're just about to merge with AOL and we're looking for a European consulting digital entrepreneurial type.\" And I said, no, cause I loved the startup.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4090,
+      "timestamps": []
+    },
+    {
+      "end": 5144,
+      "excerpt": "And he cleverly said, \"okay, how about a free weekend in New York? And you have to wear a suit for an hour.\" And long story short, here I am 23 years later. I did kind of consulting strategy work for Time Warner for a few years and then I flipped into their investments team, which started me on my venture career.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4830,
+      "timestamps": []
+    },
+    {
+      "end": 5209,
+      "excerpt": "And that was about. 2004. That's what led me to the profession.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5146,
+      "timestamps": []
+    },
+    {
+      "end": 5554,
+      "excerpt": "[00:05:40] Gopi Rangan: It's great to see that both you and I are from INSEAD, the business school in Europe you mentioned. It's a pleasure to have that connection with you. And what an amazing story, starting with England, beginning with a multicultural background and keeping pace with where the technology and the innovation world is going.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5211,
+      "timestamps": [
+        {
+          "offset": 5211,
+          "raw": "[00:05:40]",
+          "seconds": 340
+        }
+      ]
+    },
+    {
+      "end": 5634,
+      "excerpt": "And now you're on right on top of it. What is your current role at Techstars? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5556,
+      "timestamps": []
+    },
+    {
+      "end": 6044,
+      "excerpt": "[00:06:07] Andrew Cleland: So I'm the chief investment officer. I've been there for about a year. People ask me what that title means. It's really three main functions. The first is raising capital. The second is deploying capital sensibly. And the third is structuring investment strategy. That might be products that might be locations that might be a style of investing. So those are the three big areas. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 5636,
+      "timestamps": [
+        {
+          "offset": 5636,
+          "raw": "[00:06:07]",
+          "seconds": 367
+        }
+      ]
+    },
+    {
+      "end": 6118,
+      "excerpt": "[00:06:33] Gopi Rangan: How do you split your time between those three? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6046,
+      "timestamps": [
+        {
+          "offset": 6046,
+          "raw": "[00:06:33]",
+          "seconds": 393
+        }
+      ]
+    },
+    {
+      "end": 6575,
+      "excerpt": "[00:06:36] Andrew Cleland: Depends what the rhythm of the fundraising cycle is. As most listeners will know, Techstars is an accelerator rather than a venture capital firm. An accelerator is this interesting hybrid of operating company and investing company. So, I am definitely an investor who sits on the investment side, but I do so within the context of us being a broader operating business, and every decision that I make has operating implications.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 6120,
+      "timestamps": [
+        {
+          "offset": 6120,
+          "raw": "[00:06:36]",
+          "seconds": 396
+        }
+      ]
+    },
+    {
+      "end": 6881,
+      "excerpt": "If I decide that we should start up a fund in a particular location, we've got to put boots on the ground and train them and make sure that applications open on time. And it's a bit more like, it runs on rails a little bit more than the traditional investments business, which has more flexibility to it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6577,
+      "timestamps": []
+    },
+    {
+      "end": 7012,
+      "excerpt": "So that's an interesting set of constraints for the business, and also an interesting set of differentiation and moats in a way. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6883,
+      "timestamps": []
+    },
+    {
+      "end": 7214,
+      "excerpt": "[00:07:34] Gopi Rangan: How does the process work for a startup? How do they get into Techstars? How do they apply and what goes on during the cohort process and when does the investment get involved?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7014,
+      "timestamps": [
+        {
+          "offset": 7014,
+          "raw": "[00:07:34]",
+          "seconds": 454
+        }
+      ]
+    },
+    {
+      "end": 7544,
+      "excerpt": "[00:07:46] Andrew Cleland: Yeah. So there's two ways we can connect with startups. There's inbound. And so Techstars has a brand and it has operators in markets and companies can apply. We typically get tens of thousands of applications per fund, per three year fund. So it is an almost overwhelming array of applications to us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 7216,
+      "timestamps": [
+        {
+          "offset": 7216,
+          "raw": "[00:07:46]",
+          "seconds": 466
+        }
+      ]
+    },
+    {
+      "end": 8058,
+      "excerpt": "We use AI to trim the applications that are least likely to succeed. Maybe they're text applications, or things aren't filled in, or you know, there are other obvious markers that these applications won't progress. And it's a very human process. So we go through a series of interviews. It ultimately reaches our managing director who will chat with the company and that managing director might bring in a set of advisors, particularly technical or industry advisors. And that's one way that we find each other. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7546,
+      "timestamps": []
+    },
+    {
+      "end": 8482,
+      "excerpt": "The other way, which actually tends to account for most of our approved deal flow, the companies that we actually invest in, is the MDs go out. It's a really shoe leather business because we're investing at such an early stage, there really isn't a lot of structure compared to a lot of my personal history of investing where you could look things up on CrunchBase or PitchBook and get some sense of the company's history.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8060,
+      "timestamps": []
+    },
+    {
+      "end": 9055,
+      "excerpt": "We're investing so early, often those resources aren't available. So it's. It's shoe leather. Our managing directors are out in the community really working their networks and sourcing in a range of kind of effortful ways, getting in touch with VCs for deals that are too early to them, working with angels and super angels in the community, liaising with people who might be in the big tech companies who we know are kind of nursing an idea and encouraging them to jump out and start it. And that accounts for about two thirds of our deal flow. So it happens both ways. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8484,
+      "timestamps": []
+    },
+    {
+      "end": 9350,
+      "excerpt": "[00:09:49] Gopi Rangan: Accelerators play a very important role in the ecosystem. It is often the first opportunity when a startup sees daylight coming out of their garage or wherever the founders begin to conceive the idea and accelerators are the first entities that begin to hear the story.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9057,
+      "timestamps": [
+        {
+          "offset": 9057,
+          "raw": "[00:09:49]",
+          "seconds": 589
+        }
+      ]
+    },
+    {
+      "end": 9791,
+      "excerpt": "Long time ago when venture capital was still in its early days as an industry, series A used to be the first round of funding and the series A VCs were the first VCs that heard the stories from the founders, but now it's become the fourth or fifth round of funding. Often startups start with the accelerator and then they go to pre seed and seed round and seed extensions and seed plus and pre A, then eventually they get to A and B and C.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9352,
+      "timestamps": []
+    },
+    {
+      "end": 9862,
+      "excerpt": "How is Techstars as an accelerator different from other accelerators?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9793,
+      "timestamps": []
+    },
+    {
+      "end": 10119,
+      "excerpt": "[00:10:40] Andrew Cleland: I think part of it is the length of time that they've been around. There's a lot of dimensions to the model and you kind of learn that as you go and you skin your knees and you get better and you iterate and iterate and iterate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 9864,
+      "timestamps": [
+        {
+          "offset": 9864,
+          "raw": "[00:10:40]",
+          "seconds": 640
+        }
+      ]
+    },
+    {
+      "end": 10378,
+      "excerpt": "And so part of the fact is we've been around since 2006/2007. We are very used to operating that model. That's part of it. You know, we're skillful at value delivery in an efficient manner in which it has taken us many years to get as good as we are at it. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10121,
+      "timestamps": []
+    },
+    {
+      "end": 11095,
+      "excerpt": "I think a couple of the other ways is we think entrepreneurship exists everywhere. And we think that local communities are often really critical to supporting entrepreneurs as they undertake their entrepreneurial journey. And so we want to be in communities. And that might mean the great venture hubs of the U. S., New York, Boston, L. A., San Francisco. That might mean themed investments in other places. For example, we're super excited about an AI in the health tech accelerator in Baltimore that we're working on with Johns Hopkins at the moment. They can apply physicians and researchers and academics to support entrepreneurs who want to build in that space. That is a really valuable opportunity, we think.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10380,
+      "timestamps": []
+    },
+    {
+      "end": 11822,
+      "excerpt": "So that's another definition, and I think the third one is, we think that the fundamental value exchange is, when you're starting a business as an entrepreneur, you're probably elite at something. Maybe two dimensions, maybe three dimensions, but probably not all. You're probably a great go to market person, you might be a great technologist, maybe you're a great product person, maybe you're an awesome culture builder, but you're probably not everything. You have some blind spots, and you're about to start off an entrepreneurial journey where you're about to make tens, if not hundreds of decisions right at the very early stage that are going to have a major impact on the trajectory of your company over its lifetime.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11097,
+      "timestamps": []
+    },
+    {
+      "end": 12352,
+      "excerpt": "You can undertake that entrepreneurial journey alone, but if you can surround yourself with mentorship at that critical kind of crucible moment, you can take a ton of risk off the table. And that's what we really look to do. We look to do that by providing MDs who built companies themselves, have seen hundreds of examples of people building companies, but also we surround our startups with tens of mentors that they can connect with and make sure that they're getting advice, which can hopefully save them months of turmoil. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11824,
+      "timestamps": []
+    },
+    {
+      "end": 12710,
+      "excerpt": "[00:13:28] Gopi Rangan: Over the past 20 years. Techstars has built an amazing ecosystem of mentors and alumni founders have been through Techstars over the years and also 20 plus unicorns that have come out of Techstars. It's become an illustrious community. Tapping into this community would be super helpful for founders starting in their journey today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12354,
+      "timestamps": [
+        {
+          "offset": 12354,
+          "raw": "[00:13:28]",
+          "seconds": 808
+        }
+      ]
+    },
+    {
+      "end": 12883,
+      "excerpt": "What is your advice to founders when they apply to Techstars? What are things that they should do to prepare so they can have an effective process getting into Techstars? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12712,
+      "timestamps": []
+    },
+    {
+      "end": 13189,
+      "excerpt": "[00:14:01] Andrew Cleland: I think, so this is before they join us and before we can help them add value just in the application process. I think is to have a really clean understanding of the problem statement and why you as an entrepreneur or as a team are uniquely qualified to address it. That's key.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 12885,
+      "timestamps": [
+        {
+          "offset": 12885,
+          "raw": "[00:14:01]",
+          "seconds": 841
+        }
+      ]
+    },
+    {
+      "end": 13599,
+      "excerpt": "I think another thing, which is harder to adjust, but just in transparency so that people understand, we really look for a technical differentiator among our startup teams, specifically with respect to that problem statement. And the reason that I emphasize that is because In many cases, we work with engineers or founders who may not yet be polished at presenting their idea and communicating to investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13191,
+      "timestamps": []
+    },
+    {
+      "end": 13961,
+      "excerpt": "They may not have spent a lot of time around investors and understand what that language is and how to pitch investors. That doesn't matter. We can help to add. What we really want to see is, we want to see a big problem that if the company gets it right, is going to be a major company and some differentiation for why this team is the right team to solve it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13601,
+      "timestamps": []
+    },
+    {
+      "end": 14256,
+      "excerpt": "[00:15:16] Gopi Rangan: Can you give some examples of companies that have done that really well? Like how did they describe their problem so you can get it very quickly? And how did they demonstrate the technical capabilities of the team? And how did they show you that there's a huge market? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13963,
+      "timestamps": [
+        {
+          "offset": 13963,
+          "raw": "[00:15:16]",
+          "seconds": 916
+        }
+      ]
+    },
+    {
+      "end": 14322,
+      "excerpt": "[00:15:31] Andrew Cleland: So the process is split a little bit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 14258,
+      "timestamps": [
+        {
+          "offset": 14258,
+          "raw": "[00:15:31]",
+          "seconds": 931
+        }
+      ]
+    },
+    {
+      "end": 14639,
+      "excerpt": "It is largely an MD process, so our managing directors sit in each city and undertake most of this examination. They then recommend a slate of investments to an investment committee, which I sit on, along with our CEO, David Cohen, co founder and partner at Foundry, Brad Feld, and a couple of our most tenured MDs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14324,
+      "timestamps": []
+    },
+    {
+      "end": 15069,
+      "excerpt": "And we do final selection, bringing our combined experience to the plate. There's a couple of companies that ran through our most recent cohort, just the one before this one. So I'll float a couple of examples. One is a company called Aptos, which is a server company that puts servers in space so that satellites which are processing, the challenge is the bandwidth between space and earth is very expensive and thin naturally.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14641,
+      "timestamps": []
+    },
+    {
+      "end": 15398,
+      "excerpt": "And so if you can process on board, compress, use AI to optimize communications, you can increase the compute power of that remote asset by an order of magnitude. And that's what Aptos is doing. They've had a lot of years of experience doing that. They were able to really crisply communicate the value of that. So that's one. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15071,
+      "timestamps": []
+    },
+    {
+      "end": 15890,
+      "excerpt": "Another company that springs to mind is a company called Lend API. Lend API is an interesting company because in some ways, the value is in the execution, not in the idea itself. LendAPI is a set of payment rails. They've just done an outstanding job of making the UI, and the ability to build those payment rails into any payments process that you want to do super sleek and super easy. And they're just able to demonstrate that live in front of you. You can stand up and pull down rails. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15400,
+      "timestamps": []
+    },
+    {
+      "end": 16178,
+      "excerpt": "[00:17:24] Gopi Rangan: Thank you for these real-life examples. It's great to see actual startups that went through the process and you're giving specific details about how these companies told the story to you and how they got involved into Techstars and how they got into the program.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15892,
+      "timestamps": [
+        {
+          "offset": 15892,
+          "raw": "[00:17:24]",
+          "seconds": 1044
+        }
+      ]
+    },
+    {
+      "end": 16482,
+      "excerpt": "And I also see that how you think about new programs, and you're looking at it geographically, but you're also looking at themes, like you have a Techstars Space Accelerator program. I've been involved in some of your programs focused on insurance, for example, when you had a partnership with MetLife.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16180,
+      "timestamps": []
+    },
+    {
+      "end": 16589,
+      "excerpt": "It's great to see that you are at the forefront of this. What are some themes that you're excited about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16484,
+      "timestamps": []
+    },
+    {
+      "end": 16810,
+      "excerpt": "[00:18:03] Andrew Cleland: So there are two. We've touched upon a couple of them. The way we think about thematic investing is we're at such an early stage, we fundamentally believe that ideas emerge from the ground up.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 16591,
+      "timestamps": [
+        {
+          "offset": 16591,
+          "raw": "[00:18:03]",
+          "seconds": 1083
+        }
+      ]
+    },
+    {
+      "end": 17203,
+      "excerpt": "We can't sit there and centrally plan. And so I always want to make sure that at least half our investing is generalist in approach. And so we remain intellectually open to any ideas that might emerge so that, you know, by definition we're conceptually open to a big unmapped, unknown, poorly understood new market opportunity that is really going to be disruptive and can be very rewarding.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16812,
+      "timestamps": []
+    },
+    {
+      "end": 17623,
+      "excerpt": "The other side of that is thematic investing. And there we tend to choose big themes. And the value there is we want to make sure we know that there's an entrepreneurial pathway here and that these themes are going to generate a lot of disruption. But there we want to make sure that our startups that we work with are going to get the best input while they're in the program and also the best access post the program.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17205,
+      "timestamps": []
+    },
+    {
+      "end": 18074,
+      "excerpt": "And so the two poster children for that at the moment are AI and health tech and space. They're both kind of notoriously difficult industries to get plugged into as a startup. It's very difficult to go talk to a healthcare system and get attention as a startup. And so if you can go through a healthcare system and work through your business all the way while talking to an institution such as CareFirst or Johns Hopkins, that's incredibly valuable.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17625,
+      "timestamps": []
+    },
+    {
+      "end": 18318,
+      "excerpt": "The same with NASA's JPL lab. If you can get access to those minds and the problem sets that that institution is working on, it's invaluable. And so, we're not doing one to the exclusion of the other, but they're complementary to each other. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18076,
+      "timestamps": []
+    },
+    {
+      "end": 18630,
+      "excerpt": "[00:20:00] Gopi Rangan: This is very exciting indeed. And this is why venture capital is super interesting for me, because I get to meet founders who are building things for the future, they have a vision for the future and they're looking at specific teams like this in healthcare and in various other spaces.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18320,
+      "timestamps": [
+        {
+          "offset": 18320,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 18939,
+      "excerpt": "A lot of good things so far. But I want to challenge you on one thing. The process you described on how startups go through. They first meet the MDs in that region, that lead the space, and then there's another step where the investment committee gets involved. Thatt feel like there's a multi step process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18632,
+      "timestamps": []
+    },
+    {
+      "end": 19186,
+      "excerpt": "And how long does it take for a startup to go from the first meeting to yes, you're in Techstar and yes, we're going to invest in the company. Is it tedious? Should founders prepare to go for a long paths to get to this outcome? Or is it quick? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18941,
+      "timestamps": []
+    },
+    {
+      "end": 19301,
+      "excerpt": "[00:20:50] Andrew Cleland: It varies hugely. We run kind of like college entrance, but with two rhythms per year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 19188,
+      "timestamps": [
+        {
+          "offset": 19188,
+          "raw": "[00:20:50]",
+          "seconds": 1250
+        }
+      ]
+    },
+    {
+      "end": 19599,
+      "excerpt": "So we run two sessions per year. So start date and end date of the actual accelerator running is fixed. So most of our accelerators are in person. You attend. We typically recruit for six months in advance of that accelerator starting. And we typically lock admissions weeks before program start.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19303,
+      "timestamps": []
+    },
+    {
+      "end": 20031,
+      "excerpt": "But that recruiting process that runs over a number of months can be anything from two days to months and weeks. It's two days, if it tends to be late in the cycle, it's a very high quality company, we want to get it up and down the process as soon as possible. So we can do that. There's no rigidity in how MDs meet with companies and investment committee can be called when there are valuable companies to improve into programs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19601,
+      "timestamps": []
+    },
+    {
+      "end": 20395,
+      "excerpt": "That's not a problem although we tend to schedule stuff and have stuff be prepped by an MD, just so that we can compare along the slate, so to speak. So, it varies. It could feel like it takes weeks for some entrepreneurs, and there's multiple touch points. They'll probably meet with our team a couple of times, and then with the MD and the selection committee.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20033,
+      "timestamps": []
+    },
+    {
+      "end": 20749,
+      "excerpt": "We don't actually bring every company to the investment committee. It just logistically wouldn't work. And so we, in effect, sit down with the MDs and help them work through their slate and how they should shape it based upon our experience of those ideas. And we use a lot of video picturing and Q&A as well to get a better sense of the founding team.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20397,
+      "timestamps": []
+    },
+    {
+      "end": 21098,
+      "excerpt": "So the long answer is it can vary a fair amount. If we need to get something done quickly, we can get something done quickly. But it's also a decision choice for the entrepreneur, right? They want to get to know us as well. It's important that the entrepreneur builds a relationship of trust with the MD and feels great about that MD relationship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20751,
+      "timestamps": []
+    },
+    {
+      "end": 21132,
+      "excerpt": "So we let that process breathe. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21100,
+      "timestamps": []
+    },
+    {
+      "end": 21260,
+      "excerpt": "[00:23:02] Gopi Rangan: What's your most common reason to say no? I expect that you reject quite a few startups as well, why? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21134,
+      "timestamps": [
+        {
+          "offset": 21134,
+          "raw": "[00:23:02]",
+          "seconds": 1382
+        }
+      ]
+    },
+    {
+      "end": 21462,
+      "excerpt": "[00:23:09] Andrew Cleland: We select, I think, 2 percent of the applications that come in something of that order. So it looks like a traditional venture business in terms of approvings and selection.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 21262,
+      "timestamps": [
+        {
+          "offset": 21262,
+          "raw": "[00:23:09]",
+          "seconds": 1389
+        }
+      ]
+    },
+    {
+      "end": 22167,
+      "excerpt": "It's a traditional mix of reasons. It looks very ventury. And so I guess I've been here a year now. My main reaction is you get to see a lot of the same kind of idea. You really get a good sense for ideas that have a moment. Where I think is a VC I might have seen one or two companies you get to see 15 or 16, 17, 18. And you really get a sense for \"okay, this is clearly going to be an overpopulated idea. Do we think that there's a bet here? If there is a bet here, we think that this one, or maybe these two, because there's different approaches, are the ones that are worth backing?\" So that's interesting. You don't get that kind of comparative investing opportunity at other platforms, typically.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21464,
+      "timestamps": []
+    },
+    {
+      "end": 22557,
+      "excerpt": "So that's a bunch of reasons we say no, is we just see too much of the same thing. The other reasons tend to be just lack of defensive moat. They've got a good idea, they're typically a talented team, but without some other reason to believe that this is the right fit, we sometimes, it's not that they're rejected, we just don't get to the level of conviction that's required to approve.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22169,
+      "timestamps": []
+    },
+    {
+      "end": 22887,
+      "excerpt": "[00:24:34] Gopi Rangan: And that's a subjective thing that whether you believe there is a significant moat. The founders always believe there's a significant moat, but from an investor point of view, you have a set of experiences from your own life and other companies that you've seen and your belief in how the market evolves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22559,
+      "timestamps": [
+        {
+          "offset": 22559,
+          "raw": "[00:24:34]",
+          "seconds": 1474
+        }
+      ]
+    },
+    {
+      "end": 23113,
+      "excerpt": "Based on all of these things, your conviction on how strong the moat is could differ. And there might be a difference in opinion between the founder and you. It's a very difficult decision. That's the business, man. That's, ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22889,
+      "timestamps": []
+    },
+    {
+      "end": 23317,
+      "excerpt": "[00:25:03] Andrew Cleland: that's what we do. That's why actually, that's why I think it's a team sport because it's a great value to have the MD, but also the other members of the investment committee.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 23115,
+      "timestamps": [
+        {
+          "offset": 23115,
+          "raw": "[00:25:03]",
+          "seconds": 1503
+        }
+      ]
+    },
+    {
+      "end": 23602,
+      "excerpt": "We all bring life experiences and business experiences to the table. And the collective is nine decades of venture investment skill and activity. And that collective is powerful. It's more powerful than an individual selecting. So we've seen value come out of that process for sure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23319,
+      "timestamps": []
+    },
+    {
+      "end": 23836,
+      "excerpt": "[00:25:36] Gopi Rangan: Now, Brad Feld was a pioneer when he conceived on this concept and it's become not just a nationwide, I think worldwide brand, well respected brand. That has really changed how the startup ecosystem evolves. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23604,
+      "timestamps": [
+        {
+          "offset": 23604,
+          "raw": "[00:25:36]",
+          "seconds": 1536
+        }
+      ]
+    },
+    {
+      "end": 23998,
+      "excerpt": "Now, where you are today, what is your vision for Techstars? And what is one thing that you'd like to change about the current status of the venture ecosystem? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23838,
+      "timestamps": []
+    },
+    {
+      "end": 24332,
+      "excerpt": "[00:26:04] Andrew Cleland: Oh, wow. So you're right about Brad. Brad saw kind of community uplift of entrepreneurs and entrepreneurs being born and then drawing upon the resources of everything that's around them to be successful. He saw that earlier and was very articulate about it. Techstars lives with a little bit of that DNA. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 24000,
+      "timestamps": [
+        {
+          "offset": 24000,
+          "raw": "[00:26:04]",
+          "seconds": 1564
+        }
+      ]
+    },
+    {
+      "end": 24524,
+      "excerpt": "As I think about Techstars, the actual product itself is a really valuable, interesting product. It produces returns that I think, having seen a bunch of venture businesses, are outstanding.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24334,
+      "timestamps": []
+    },
+    {
+      "end": 24908,
+      "excerpt": "So, I want to make sure that we do things right. We're making a set of changes that I think are meaningful contributions to how we will drive returns. I'll give you a couple of examples. Since I arrived,, we pulled carry for all our MDs. They used to have individual carry in their own cities. By pulling carry, we now encourage all of them to lift each other up and to collaborate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24526,
+      "timestamps": []
+    },
+    {
+      "end": 25269,
+      "excerpt": "And that makes for, I think, just a more positive work environment to be in, but also the more effective work environment to be in. And so that's one big change. The other thing that enables us to do is we at the investment committee level can now shape our portfolio across all of our different locations. So we can globally optimize versus locally optimize.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24910,
+      "timestamps": []
+    },
+    {
+      "end": 25673,
+      "excerpt": "So if, let's say, New York had an amazing slate one session and, randomly pick on San Francisco, had a weaker relative slate that session, before we were kind of, we had to live with it. Today we can approach the New York companies and say, \"we love you, we want to include you. New York is super full this time. Would you consider taking a San Francisco position?\" That allows us to globally optimize.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25271,
+      "timestamps": []
+    },
+    {
+      "end": 25920,
+      "excerpt": "The other thing we did is introduce the investment committee. And that's really most effective once it's sat upon shared carry. So there's a bunch of kind of operating tweaks and changes. I want to ratchet up our thematic investing a little bit.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25675,
+      "timestamps": []
+    },
+    {
+      "end": 26232,
+      "excerpt": "So first order businesses make sure that we don't break what is a very effective product, but continue to add meaningful additions to the business, which unequivocally improve it. And I think we're doing a good job of that. I think your second question was what happens to the venture industry. Was that right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25922,
+      "timestamps": []
+    },
+    {
+      "end": 26249,
+      "excerpt": "What would you ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26234,
+      "timestamps": []
+    },
+    {
+      "end": 26291,
+      "excerpt": "[00:28:33] Gopi Rangan: like to change? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26251,
+      "timestamps": [
+        {
+          "offset": 26251,
+          "raw": "[00:28:33]",
+          "seconds": 1713
+        }
+      ]
+    },
+    {
+      "end": 26668,
+      "excerpt": "[00:28:35] Andrew Cleland: What would I like to change? It's magic wandy a little bit, but the, the industry has breathed with the rhythm, right? So it expanded in 2021. It faced harder times over the past few years. That kind of accordion behavior sucked in a lot of investors and a lot of investors that are probably very talented, but don't yet have the investment skills.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 26293,
+      "timestamps": [
+        {
+          "offset": 26293,
+          "raw": "[00:28:35]",
+          "seconds": 1715
+        }
+      ]
+    },
+    {
+      "end": 27205,
+      "excerpt": "It takes all of us. You know this. It takes all of us reps, right? You've got to be an investor for 3 years before anybody should trust you with a checkbook. That's basically the rule of thumb. At the moment, I think the industry is in an interesting position because there's a lot of investors who have been brought in and who are fighting for attention and don't have a lot of differentiation. I think that is going to be worked out. That's a difficult aspect of the business at the moment. So I think it's worth acknowledging that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26670,
+      "timestamps": []
+    },
+    {
+      "end": 27695,
+      "excerpt": "The other thing that I think is maybe a bit of challenge for the industry is this industry gets more and more information made publicly available. When I started my career long time ago now, 20 years ago, private information really was private information. The proprietary deal flow you could get well ahead of the market in effect by developing a good relationship and dialogue with a management team. I see private equity type practices where information is much more broadly available.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27207,
+      "timestamps": []
+    },
+    {
+      "end": 28086,
+      "excerpt": "Winner's curse is much more likely to happen, kind of floating down a little bit into growth capital and maybe lower over time. And so I think we'll see later stage investors having to adapt to some of those changes to their business. So there's challenges both at the early stage and at the later stage, and I think the business continues to evolve like it's always done to adapt to that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27697,
+      "timestamps": []
+    },
+    {
+      "end": 28375,
+      "excerpt": "[00:30:28] Gopi Rangan: And more transparency is always good. When we get more information, there's more leveling of the playing field, more fairness, and easier for people who are not part of the ecosystem to get into the ecosystem. It's great to see that. I hope those changes happen. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28088,
+      "timestamps": [
+        {
+          "offset": 28088,
+          "raw": "[00:30:28]",
+          "seconds": 1828
+        }
+      ]
+    },
+    {
+      "end": 28480,
+      "excerpt": "[00:30:42] Andrew Cleland: And I think the really good news is that's helpful for entrepreneurs, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 28377,
+      "timestamps": [
+        {
+          "offset": 28377,
+          "raw": "[00:30:42]",
+          "seconds": 1842
+        }
+      ]
+    },
+    {
+      "end": 28804,
+      "excerpt": "We can see, and we've certainly seen it, applications to our business have almost tripled in the last three years. We've seen entrepreneurs understand that it's not such a locked proprietary market, and they can get access to a greater range of check writers. And that's, I think, going to be good for the country as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28482,
+      "timestamps": []
+    },
+    {
+      "end": 29008,
+      "excerpt": "[00:31:06] Gopi Rangan: We're coming towards the end of our conversation, and I want to ask you about your community involvement. Is there a non profit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28806,
+      "timestamps": [
+        {
+          "offset": 28806,
+          "raw": "[00:31:06]",
+          "seconds": 1866
+        }
+      ]
+    },
+    {
+      "end": 29173,
+      "excerpt": "[00:31:15] Andrew Cleland: Yeah, we support a few. I spent a lot of time in India because I'm married to an Indian woman and have a great passion for that country.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 29010,
+      "timestamps": [
+        {
+          "offset": 29010,
+          "raw": "[00:31:15]",
+          "seconds": 1875
+        }
+      ]
+    },
+    {
+      "end": 29885,
+      "excerpt": "There's a wonderful institution called MagicBus. And MagicBus basically uses sport, soccer in particular, to get kids out of difficult situations, maybe family situations and keep them in school. Indian families sometimes can want the kids to come out and contribute to the family by going to work early. And that's really understandable from the family perspective, but it's often not the right decision. If you can keep the kid in school another two years, that kid can ultimately contribute back more to the family. And Magic Bus is this amazing institution for helping families to understand that, provide discipline, and structure the kids outside of the family environment, which the families appreciate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29175,
+      "timestamps": []
+    },
+    {
+      "end": 29970,
+      "excerpt": "It just has a really magical approach to helping to create those kind of benefits. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29887,
+      "timestamps": []
+    },
+    {
+      "end": 30340,
+      "excerpt": "[00:32:17] Gopi Rangan: Andrew, thank you very much for spending time with me. Thank you for sharing your stories from all the way going back to your days in London and specific examples of how you make investments, how you support startups, and how Techstars works, and how founders can access this wealth of knowledge in the community that you've built at Techstars.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 29972,
+      "timestamps": [
+        {
+          "offset": 29972,
+          "raw": "[00:32:17]",
+          "seconds": 1937
+        }
+      ]
+    },
+    {
+      "end": 30407,
+      "excerpt": "I look forward to sharing your nuggets of wisdom with the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30342,
+      "timestamps": []
+    },
+    {
+      "end": 30510,
+      "excerpt": "[00:32:38] Andrew Cleland: Thanks, Gopi. It's really wonderful chatting to you. Thanks for the time. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Cleland",
+      "start": 30409,
+      "timestamps": [
+        {
+          "offset": 30409,
+          "raw": "[00:32:38]",
+          "seconds": 1958
+        }
+      ]
+    },
+    {
+      "end": 30698,
+      "excerpt": "[00:32:44] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30512,
+      "timestamps": [
+        {
+          "offset": 30512,
+          "raw": "[00:32:44]",
+          "seconds": 1964
+        }
+      ]
+    },
+    {
+      "end": 30865,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30700,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "e22d5902703e735cdafeb49229fe41dbd9011b740200a956fed25e72175ab3ad",
+  "text_sha256": "f1fa25fa8928e4070baf0248cbb44f8859b616805b74a1bf9781e785740fdfc8"
+}

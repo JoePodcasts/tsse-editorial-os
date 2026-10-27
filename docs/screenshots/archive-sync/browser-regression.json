@@ -1,0 +1,215 @@
+{
+  "checked_at": "2026-10-27T05:24:42.591Z",
+  "checks": [
+    {
+      "name": "Live archive coverage",
+      "passed": true,
+      "evidence": "195 episodes\n·\n195 transcripts\n·\n195 published show notes"
+    },
+    {
+      "name": "Newest-first browse",
+      "passed": true
+    },
+    {
+      "name": "Oldest-first browse",
+      "passed": true
+    },
+    {
+      "name": "Browse all 195 without duplicates",
+      "passed": true,
+      "evidence": {
+        "count": 195,
+        "unique": 195
+      }
+    },
+    {
+      "name": "Official title result: episode 195",
+      "passed": true,
+      "evidence": {
+        "href": "/episodes/254fc97f-8c85-4d1a-bc84-0e230ec99cb5?passage=7d574d6edcda23028427203214d116af34ac21fada5af5a18e362b6cff6cd070&return=%2F%3Fq%3Dproof%2Bof%2Bvalue",
+        "number": "EP.195",
+        "pid": "7d574d6edcda23028427203214d116af34ac21fada5af5a18e362b6cff6cd070",
+        "source": "episode_title",
+        "text": "Show Proof of Value Before You Build for Scale"
+      }
+    },
+    {
+      "name": "Unified source-type rendering",
+      "passed": true
+    },
+    {
+      "name": "Source-speaker metadata result: episode 2",
+      "passed": true,
+      "evidence": {
+        "href": "/episodes/5268ea16-e232-4b5d-9bec-95c444c049ae?passage=7e28f42fda231b51d3edec836c95064e036935a3f6972b2cb30f1e088f7c8041&return=%2F%3Fq%3DGokul%2BRajaram",
+        "number": "EP.02",
+        "pid": "7e28f42fda231b51d3edec836c95064e036935a3f6972b2cb30f1e088f7c8041",
+        "source": "speaker_labels",
+        "text": "Gokul Rajaram\nGopi Rangan"
+      }
+    },
+    {
+      "name": "Metadata result opens episode and discloses speaker limitation",
+      "passed": true
+    },
+    {
+      "name": "Published show-note result: episode 75",
+      "passed": true,
+      "evidence": {
+        "href": "/episodes/0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe/show-notes?passage=1dcb3681c5eb7e0cd64a64ebbde6118895eeb8531d665edaf03b515dd4d1cc8f&return=%2F%3Fq%3DCommerce%2BVentures%26source%3Dshow_notes",
+        "number": "EP.75",
+        "pid": "1dcb3681c5eb7e0cd64a64ebbde6118895eeb8531d665edaf03b515dd4d1cc8f",
+        "source": "show_notes",
+        "text": "About Commerce Ventures"
+      }
+    },
+    {
+      "name": "Notes deep link selects its passage ID",
+      "passed": true
+    },
+    {
+      "name": "Full notes preserve projection and render no source HTML",
+      "passed": true,
+      "evidence": {
+        "expected": "1852e90584708859b58c9fcb52c0d480966046c0b77b91431bd44aca22152756",
+        "actual": "1852e90584708859b58c9fcb52c0d480966046c0b77b91431bd44aca22152756",
+        "unsafeElements": 0
+      }
+    },
+    {
+      "name": "Older transcript result: episode 2 at 00:12:34",
+      "passed": true,
+      "evidence": {
+        "href": "/episodes/5268ea16-e232-4b5d-9bec-95c444c049ae/transcript?passage=cdd98ce815b87d223d1576adc573bfff49a4cec523b701ba4ade341e65a3ec53&return=%2F%3Fq%3Drelentlessly%2Bresourceful%26source%3Dtranscript",
+        "number": "EP.02",
+        "pid": "cdd98ce815b87d223d1576adc573bfff49a4cec523b701ba4ade341e65a3ec53",
+        "source": "transcript",
+        "speaker": "Gopi Rangan",
+        "text": "…ou pick maybe one or two examples and show how you test for these two things, how entrepreneurs are relentlessly resourceful, and how you look for that founder market fit? What comes through in those conversations?",
+        "time": "00:12:34"
+      }
+    },
+    {
+      "name": "Transcript deep link selects exact passage ID",
+      "passed": true
+    },
+    {
+      "name": "Direct reload retains source text and passage identity",
+      "passed": true
+    },
+    {
+      "name": "Full transcript DOM matches source projection hash",
+      "passed": true,
+      "evidence": {
+        "expected": "3bff79b40d350115bd6b8c11308b233b9de9021fdbce040e75065e882c3c7366",
+        "actual": "3bff79b40d350115bd6b8c11308b233b9de9021fdbce040e75065e882c3c7366",
+        "unsafeElements": 0
+      }
+    },
+    {
+      "name": "Recent transcript result: episode 191 with time and source speaker",
+      "passed": true,
+      "evidence": {
+        "href": "/episodes/3ae69392-b535-45ae-ac78-27639c425637/transcript?passage=5fdff642b9bb23b4840afbe772c7dcb6c433231bab8d11bd14e5cd3e6b767472&return=%2F%3Fq%3Dchoosing%2Ba%2Bpartner%2Bin%2Blife%26source%3Dtranscript",
+        "number": "EP.191",
+        "pid": "5fdff642b9bb23b4840afbe772c7dcb6c433231bab8d11bd14e5cd3e6b767472",
+        "source": "transcript",
+        "speaker": "Justin Smith-Lorenzetti",
+        "text": "[00:23:15] Justin Smith-Lorenzetti: It can be a day. It could be an hour. I think investing is not all that different from maybe choosing a partner in life.",
+        "time": "00:23:15"
+      }
+    },
+    {
+      "name": "Recent transcript opens highlighted source context",
+      "passed": true
+    },
+    {
+      "name": "Search this episode restricts actual retrieval",
+      "passed": true,
+      "evidence": {
+        "matches": 3
+      }
+    },
+    {
+      "name": "No-results state and HTML-like input are safe text",
+      "passed": true,
+      "evidence": {
+        "heading": "0 episodes · 0 source matches for “<img src=x onerror=alert(1)>NoSuchArchiveToken9ZZZZ”Best match per episode first",
+        "unsafe": 0
+      }
+    },
+    {
+      "name": "Untimed transcript shows no invented timestamps",
+      "passed": true,
+      "evidence": {
+        "note": "Speaker labels are preserved from the published transcript source and have not been verified against audio. This published transcript does not contain timestamps. Passage links still open the exact source text.",
+        "speakers": [
+          "Heather Hartnett:",
+          "Gopi Rangan:",
+          "Heather Hartnett:"
+        ],
+        "times": 0
+      }
+    },
+    {
+      "name": "Source speaker labels remain intact",
+      "passed": true,
+      "evidence": [
+        "Heather Hartnett:",
+        "Gopi Rangan:",
+        "Heather Hartnett:"
+      ]
+    },
+    {
+      "name": "Stale passage gets a useful recovery path",
+      "passed": true
+    },
+    {
+      "name": "375px home has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "pageWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "name": "375px search has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "pageWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "name": "375px transcript has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "pageWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "name": "768px reader has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "pageWidth": 768,
+        "width": 768
+      }
+    },
+    {
+      "name": "1366px reader has no horizontal overflow",
+      "passed": true,
+      "evidence": {
+        "pageWidth": 1366,
+        "width": 1366
+      }
+    },
+    {
+      "name": "No browser console errors or warnings",
+      "passed": true,
+      "evidence": []
+    }
+  ],
+  "passed": true,
+  "deepURL": "http://127.0.0.1:8765/episodes/3ae69392-b535-45ae-ac78-27639c425637/transcript?passage=5fdff642b9bb23b4840afbe772c7dcb6c433231bab8d11bd14e5cd3e6b767472&return=%2F%3Fq%3Dchoosing%2Ba%2Bpartner%2Bin%2Blife%26source%3Dtranscript"
+}

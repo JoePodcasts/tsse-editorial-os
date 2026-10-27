@@ -1,0 +1,955 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 327,
+      "excerpt": "There's a whole series of biases, which we are all sort of prone to, and as an investor, we've designed a process to get rid of those. So there's the endowment bias. You love your own companies. I work with the company more than Michael does. I get to know it. It feels like my child. I want my child to be funded and not his. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 584,
+      "excerpt": "[00:00:22] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for foundersith ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 329,
+      "timestamps": [
+        {
+          "offset": 329,
+          "raw": "[00:00:22]",
+          "seconds": 22
+        }
+      ]
+    },
+    {
+      "end": 682,
+      "excerpt": "Kamal Hassan is a good friend of mine and he's the founder of Loyal VC along with Michael Kosic.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 586,
+      "timestamps": []
+    },
+    {
+      "end": 925,
+      "excerpt": "Kamal is based out of Toronto and he makes investments in startups all over the world. And he has a portfolio with startups located in multiple cities and countries. We will hear more about it. Welcome, Kamal, to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 684,
+      "timestamps": []
+    },
+    {
+      "end": 938,
+      "excerpt": "Thank you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 927,
+      "timestamps": []
+    },
+    {
+      "end": 971,
+      "excerpt": "Kamal, tell us about yourself. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 940,
+      "timestamps": []
+    },
+    {
+      "end": 1148,
+      "excerpt": "[00:01:12] Kamal Hassan: So I got into venture capital after spending 20 years as an entrepreneur, 15 years as an angel investor, and seven years running accelerator programs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 973,
+      "timestamps": [
+        {
+          "offset": 973,
+          "raw": "[00:01:12]",
+          "seconds": 72
+        }
+      ]
+    },
+    {
+      "end": 1512,
+      "excerpt": "Entrepreneurship was not where I expected to end up. My father is Indian and like all good Indian fathers, he wanted his son to have a good profession, a good salary. I remember him saying once to me, \"a young man of your age should have a job or want a job. How have I failed as a father?\" That was when I was in the midst of one of my entrepreneurial ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1150,
+      "timestamps": []
+    },
+    {
+      "end": 1768,
+      "excerpt": "But I started off with a very conventional career, became an engineer, worked for IMAX, did an MBA at INSEAD, and was a management consultant before realizing that I liked the freedom of creating things rather than doing what other people told me to do. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1514,
+      "timestamps": []
+    },
+    {
+      "end": 1823,
+      "excerpt": "[00:02:01] Gopi Rangan: Oh, you were a rebel, I see. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1770,
+      "timestamps": [
+        {
+          "offset": 1770,
+          "raw": "[00:02:01]",
+          "seconds": 121
+        }
+      ]
+    },
+    {
+      "end": 1851,
+      "excerpt": "I don't feel like a rebel.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1825,
+      "timestamps": []
+    },
+    {
+      "end": 2018,
+      "excerpt": "I mean, I've always been a good student, for instance, but I like making a difference in the world. Sometimes making a difference, you need to follow your own path. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1853,
+      "timestamps": []
+    },
+    {
+      "end": 2098,
+      "excerpt": "What is your investment philosophy and how is it different from other people? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2020,
+      "timestamps": []
+    },
+    {
+      "end": 2290,
+      "excerpt": "[00:02:19] Kamal Hassan: One of our big premises is that we don't believe we're smart enough to predict the future and we don't really think that that is the primary goal of an entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 2100,
+      "timestamps": [
+        {
+          "offset": 2100,
+          "raw": "[00:02:19]",
+          "seconds": 139
+        }
+      ]
+    },
+    {
+      "end": 2808,
+      "excerpt": "One of the things we see a lot of in the world of venture capital, there's a lot of bias and I think bias happens because people are asked to make snap decisions on who's going to succeed. Our premise with all the investing we do is to say, \"We don't know who is going to succeed in the future. Let's spend time to get to know companies in depth over multiple months and see how they perform in the actual real world, rather than how they perform inside our mental map of what we think a good investment looks like.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2292,
+      "timestamps": []
+    },
+    {
+      "end": 2911,
+      "excerpt": "[00:03:02] Gopi Rangan: Is that the philosophy with which you started Loyal VC? How did that evolve? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2810,
+      "timestamps": [
+        {
+          "offset": 2810,
+          "raw": "[00:03:02]",
+          "seconds": 182
+        }
+      ]
+    },
+    {
+      "end": 3223,
+      "excerpt": "[00:03:08] Kamal Hassan: So yeah, Loyal VC, I mean, my partner, Michael, and I are both long time entrepreneurs, long time angel investors. So one of the things we did, we said we wanted to create the fund, which we wish we had available to us, both on the investment side as angels, but also as entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 2913,
+      "timestamps": [
+        {
+          "offset": 2913,
+          "raw": "[00:03:08]",
+          "seconds": 188
+        }
+      ]
+    },
+    {
+      "end": 3533,
+      "excerpt": "And your biggest complaint as an entrepreneur, you hear this over and over when entrepreneurs sit down, is they say \"the VC just doesn't get it. They don't understand my business. There's this amazing business I'm doing. It's world changing and the VC doesn't get it.\" Actually it's no reflection on the VCs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3225,
+      "timestamps": []
+    },
+    {
+      "end": 3998,
+      "excerpt": "VCs are very smart people, generally speaking. The difficulty is you're asking a VC to adopt a whole series of new ideas very quickly. It's very hard for human beings. We're not processed to learn new ideas very quickly. It's much easier to get a new idea that you learn over a multi month period, and you start to be able to pull in evidence from your own life to validate this new worldview, rather than just trying to accept it on faith when you first hear it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3535,
+      "timestamps": []
+    },
+    {
+      "end": 4048,
+      "excerpt": "[00:04:22] Gopi Rangan: And how do you do that? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4000,
+      "timestamps": [
+        {
+          "offset": 4000,
+          "raw": "[00:04:22]",
+          "seconds": 262
+        }
+      ]
+    },
+    {
+      "end": 4386,
+      "excerpt": "[00:04:24] Kamal Hassan: There's sort of 2 steps to working with us. We only source companies through two strong networks, one being the Founder Institute Accelerator Program, the 2nd being the INSEAD Business School Alumni. The main reason we source from those networks is as an investor, it removes a lot of risks from the investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 4050,
+      "timestamps": [
+        {
+          "offset": 4050,
+          "raw": "[00:04:24]",
+          "seconds": 264
+        }
+      ]
+    },
+    {
+      "end": 4718,
+      "excerpt": "We are very well connected in both those networks, and if an entrepreneur tries to cheat us, tries to do badly by us, they aren't just hurting us. They're hurting their own reputation in two very powerful networks. So the result is it's a very fast way to pre select out entrepreneurs who are likely to do business fairly with us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4388,
+      "timestamps": []
+    },
+    {
+      "end": 5136,
+      "excerpt": "And vice versa, we have to treat the companies within those networks very well or that hurts our own reputation in those networks. So it just ensures good acting on both sides. That's how companies get in to our portfolio. That's the first step in working with us. When they do start working with us, though, we only start with an initial $10000 investment, and then we have a minimum waiting period of three months.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4720,
+      "timestamps": []
+    },
+    {
+      "end": 5439,
+      "excerpt": "I think in actual fact four months has been the fastest, but typically around eight or nine months, where we work with the company, work with them every month so they get a chance to know us to see if we're actually adding any value and we get a chance to see what the company does month in month out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5138,
+      "timestamps": []
+    },
+    {
+      "end": 6070,
+      "excerpt": "[00:05:55] Gopi Rangan: So I see you're tackling two important and difficult problems to solve. One is bias on the venture capital side. It hurts the entire industry overall. On the other side, the problem is that entrepreneurs tend to be super smart, very creative. When they do bad on their side, it's easy for them to kind of disappear. And it's an ocean of different types of investors in different communities. They can always find themselves in a totally different community the next time and no one would know about their bad behavior. And that also hurts the entire ecosystem. I see that you're solving for both problems.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5441,
+      "timestamps": [
+        {
+          "offset": 5441,
+          "raw": "[00:05:55]",
+          "seconds": 355
+        }
+      ]
+    },
+    {
+      "end": 6592,
+      "excerpt": "On the VC side, you give yourself a lot of time by starting small with a 10k check and then building the relationship over a period of four to eight months. Then once it's proven to the entrepreneur that you're adding value, you go in with a bigger check. And on the other side, because you source from two networks only, you are very, very closely associated with this community, and it is not okay to piss you off because the word will get out. And that kind of instills good behavior on the part of the entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6072,
+      "timestamps": []
+    },
+    {
+      "end": 6797,
+      "excerpt": "[00:07:05] Kamal Hassan: It does. The other thing you need to always think about when you're a venture investor is you should always be asking yourself with every deal you see, why am I seeing this deal?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 6594,
+      "timestamps": [
+        {
+          "offset": 6594,
+          "raw": "[00:07:05]",
+          "seconds": 425
+        }
+      ]
+    },
+    {
+      "end": 7307,
+      "excerpt": "What makes me special that I get to see it? And is there something wrong with this deal? So we could just as easily invest in graduates of Y Combinator and alumni of the Harvard Business School or MIT Engineering School. The reason we don't is because (A) we have the strength of the network, but (B) every investor is always looking for inside access, always trying to make sure at a minimum that there's not negative selection bias where the only deals they sell see are the ones nobody else wants to fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6799,
+      "timestamps": []
+    },
+    {
+      "end": 7494,
+      "excerpt": "So we have a degree of inside access to the two networks we work in, that we have that ability to see all deals, including the best rather than only the ones nobody else wants to fund. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7309,
+      "timestamps": []
+    },
+    {
+      "end": 7638,
+      "excerpt": "[00:08:09] Gopi Rangan: It's an interesting question because you don't want to be a part of a club that is willing to accept someone like you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7496,
+      "timestamps": [
+        {
+          "offset": 7496,
+          "raw": "[00:08:09]",
+          "seconds": 489
+        }
+      ]
+    },
+    {
+      "end": 7780,
+      "excerpt": "So there's this doubt in your mind all the time, whether it's, is it a sucker deal or is it really a good deal that other people don't get? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7640,
+      "timestamps": []
+    },
+    {
+      "end": 7979,
+      "excerpt": "[00:08:23] Kamal Hassan: One of the nice things about the way we invest is our first investment is only $10000. So I'm not really worried about a sucker deal. And I'm going to give you one example.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 7782,
+      "timestamps": [
+        {
+          "offset": 7782,
+          "raw": "[00:08:23]",
+          "seconds": 503
+        }
+      ]
+    },
+    {
+      "end": 8356,
+      "excerpt": "I mean, we're speaking right now in the middle of COVID. We had an entrepreneur who came to us in November of last year. And this entrepreneur started off the conversation saying \"the whole medical establishment does not understand how to treat disease, specifically viral diseases.\" And the second you hear that statement as a VC, you, you want to turn and run out the door.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7981,
+      "timestamps": []
+    },
+    {
+      "end": 8701,
+      "excerpt": "But you sit there, and you listen, and he goes on. So we know how to treat bacterial diseases. You take an antibiotic, it kills the bacterium, you're done. There are many diseases which are more complex, though, and specifically viral diseases. And this is someone who spent decades working on HIV, and did his PhD on RNA viruses in the 1970s.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8358,
+      "timestamps": []
+    },
+    {
+      "end": 9151,
+      "excerpt": "But he says, with viruses, the issue is not the virus itself, it's how two things matter. There's co infections in your blood, and it's all about how the immune system reacts. So when the immune system goes into overdrive with these things called cytokine storms, and then there's co infections which show up, which are still in your body, which the immune system is no longer dealing with, because it's going crazy trying to attack this one virus.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8703,
+      "timestamps": []
+    },
+    {
+      "end": 9533,
+      "excerpt": "So back in November, honestly turned to my partner and said, I'm really not sure if we should do this. It sounds really off the wall. And one of the things we did, one of our advisors, we have about 300 of them around the world, one of our advisors is a top doctor. So I introduced this company to this top doctor and told him afterwards, can you tell me what you think about him?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9153,
+      "timestamps": []
+    },
+    {
+      "end": 9908,
+      "excerpt": "And he says, \" I don't think he's right. I don't think he understands properly how diseases are treated. But, I can't point to something specifically wrong he's saying. I mean, it's just really not the way we do things. But I can't point to anything wrong he's doing.\" So at that point, because it's only a $10000 investment, we said, \"Sure, let's make a $10000 investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9535,
+      "timestamps": []
+    },
+    {
+      "end": 10414,
+      "excerpt": "We can afford to have the deal go sideways.\" Now what happens fast forward to March, and I'm reading about COVID causing cytokine storms in the Wall Street Journal. More recently, I'm seeing people talking about co infections. And when you hear about cytokine storms in November, when it's a crazy idea, and four months later, it's on the front pages of the newspaper, it's really easy to say, aha, we've got a winner and where we make our money is we then do follow on investments in the best companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9910,
+      "timestamps": []
+    },
+    {
+      "end": 10606,
+      "excerpt": "So this is one of the ones that we've done a follow on. Our next check is a $200, 000 check. So boom. They got a follow on $200, 000 check from us. I think we started that process in April. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10416,
+      "timestamps": []
+    },
+    {
+      "end": 10908,
+      "excerpt": "[00:11:34] Gopi Rangan: What do they have to convince you? I'm asking you about the second step, but I'm also curious about the first step, the first $10, 000, but what do they need to prove to you after you've made the $10, 000 investment for you to say, I want to now follow on with a bigger check?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10608,
+      "timestamps": [
+        {
+          "offset": 10608,
+          "raw": "[00:11:34]",
+          "seconds": 694
+        }
+      ]
+    },
+    {
+      "end": 11551,
+      "excerpt": "[00:11:50] Kamal Hassan: Well, let me start with the $10, 000 first. There was a great study. Kauffman Fellows published it recently, head of data science for AngelList, Abe Achtman, who basically ran the numbers through all their data and came out and said, in seed stage investing, an index approach outperforms 90 to 95 percent of investors picking deals. And there's a caveat, so long as you invest in all plausible deals. So really what we're doing in our first $10, 000 is we're trying to be sure the deal is plausible. It has a chance to succeed. We've already filtered out the liars and the cheats because of the networks we work in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 10910,
+      "timestamps": [
+        {
+          "offset": 10910,
+          "raw": "[00:11:50]",
+          "seconds": 710
+        }
+      ]
+    },
+    {
+      "end": 11792,
+      "excerpt": "And then from there, we're trying to say, \"are they really crazy? Is there a reason this is going to fail?\" And if we can't find it, if the deal is plausible, then it's worth putting $10, 000 in. So that's how we make that first decision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11553,
+      "timestamps": []
+    },
+    {
+      "end": 11894,
+      "excerpt": "[00:12:49] Gopi Rangan: How long does it take to make that first decision? Uh, is it one meeting or?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11794,
+      "timestamps": [
+        {
+          "offset": 11794,
+          "raw": "[00:12:49]",
+          "seconds": 769
+        }
+      ]
+    },
+    {
+      "end": 12645,
+      "excerpt": "[00:12:54] Kamal Hassan: We always do everything with references. So it's basically talking to people who've spent months watching the company perform. Really what we want to see is how has the company performed over time? Because if you want to take the bias out of it, you don't want to say, \"Is the pitch any good?\" It's \"what have they done?\" For Founder Institute, there's people who've run their programs. You have a phone call with them. You ask them to rank their companies and you just invest sight unseen. So effectively, Founder Institute directors have a very large influence on the companies we pick. For INSEAD alumni, we get two references of people who have worked with them, maybe invested in them as an early angel or advised them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 11896,
+      "timestamps": [
+        {
+          "offset": 11896,
+          "raw": "[00:12:54]",
+          "seconds": 774
+        }
+      ]
+    },
+    {
+      "end": 12920,
+      "excerpt": "And those are the ones who we speak to just to see how the company's developed over time. But often by the time we speak to a company, we've already made up our mind that we're investing, and we will have done that based on about an hour's worth of phone calls beforehand. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12647,
+      "timestamps": []
+    },
+    {
+      "end": 13147,
+      "excerpt": "[00:13:55] Gopi Rangan: Do you worry about relying on other people's opinion to make investment decisions, while in venture it is difficult to rely on other people's opinion. You'll have to form your own independent decision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12922,
+      "timestamps": [
+        {
+          "offset": 12922,
+          "raw": "[00:13:55]",
+          "seconds": 835
+        }
+      ]
+    },
+    {
+      "end": 14202,
+      "excerpt": "[00:14:09] Kamal Hassan: Absolutely. So we're not really relying on opinion per se. I mean, we are to a degree, but really the questions we ask are all around performance. The nice thing about the Founder Institute, and I personally helped design the program, spent a couple of years sort of designing the specific program, is they give work to the entrepreneur to do each week to build your business. And they don't say do we think this business will succeed we say here are the two hundred and twenty things that you need to do to get your business up and running and every week we give you fifteen of them and if you do the fifteen things this week that you need to do, you will get a business. And if you stumble on any one of the 15 things, well that's a flaw. And now let's go back and try to fix that flaw. And if you can't fix that flaw, then don't build this business. So, you ask a Founder Institute director about what they think about a company, that is informed from having seen 14 weeks of performance week in, week out, week in, week out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 13149,
+      "timestamps": [
+        {
+          "offset": 13149,
+          "raw": "[00:14:09]",
+          "seconds": 849
+        }
+      ]
+    },
+    {
+      "end": 14433,
+      "excerpt": "So that is really what we're looking at is what has the company done over time, because I don't care who the entrepreneur is, I don't care what you think of them, if they can build the business successfully, that's what matters. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14204,
+      "timestamps": []
+    },
+    {
+      "end": 14816,
+      "excerpt": "[00:15:32] Gopi Rangan: So the engineer immigrant in me likes that because there's a process and there's a formula and there's a step by step method for entrepreneurship, which democratizes entrepreneurship, gives hope to anybody that they can build a business. But the investor in me is skeptical that: can you really turn everything into an algorithm and teach entrepreneurship? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14435,
+      "timestamps": [
+        {
+          "offset": 14435,
+          "raw": "[00:15:32]",
+          "seconds": 932
+        }
+      ]
+    },
+    {
+      "end": 14949,
+      "excerpt": "[00:15:54] Kamal Hassan: So I think that's one of the mistakes is looking at entrepreneurship as something which should be studied.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 14818,
+      "timestamps": [
+        {
+          "offset": 14818,
+          "raw": "[00:15:54]",
+          "seconds": 954
+        }
+      ]
+    },
+    {
+      "end": 15265,
+      "excerpt": "When I was running programs for Founder Institute, I often used to say Founder Institute doesn't care if you learn anything. All they care about is that your business succeeds. If it succeeded because you were lucky, if you ignored every piece of advice you got, and you made it work, then that's all that matters.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14951,
+      "timestamps": []
+    },
+    {
+      "end": 15683,
+      "excerpt": "And vice versa, you can be the wonderful, most agreeable person who listens to every piece of advice, and the business fails. Doesn't help. So that's really why we're trying to say, look at performance, look at what the company does. And that's the brilliance of the Founder Institute program is Founder Institute is a program which is built on setting up a series of hurdles for you and having you jump across them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15267,
+      "timestamps": []
+    },
+    {
+      "end": 15892,
+      "excerpt": "They'll give you advice on how to jump, but it's up to you to jump. And if you find another way to jump over the hurdle, all they measure and look at is great, you jumped over that hurdle onto the next one. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15685,
+      "timestamps": []
+    },
+    {
+      "end": 16042,
+      "excerpt": "[00:17:04] Gopi Rangan: I see that it's not like university where you sit down to take tests and you learn. It's actually about building a business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15894,
+      "timestamps": [
+        {
+          "offset": 15894,
+          "raw": "[00:17:04]",
+          "seconds": 1024
+        }
+      ]
+    },
+    {
+      "end": 16113,
+      "excerpt": "So that explains the first step on how you make the 10 K investment. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16044,
+      "timestamps": []
+    },
+    {
+      "end": 16840,
+      "excerpt": "[00:17:15] Kamal Hassan: Sure. The second step is a very simple yet powerful formula, which is, we have set ourselves a limit that we can only do follow on investments in the top third of the companies which get the initial $10, 000. So that all of a sudden puts a lot of constraints on us as an investor, because every time you say yes to one company, you are saying no to two other companies. So really you have to be really sure. So what that translates into in practice is that we do five new deals a month. So on average, we should be doing one to two new follow on investments every month. So you need to be in the top one or two of all the companies in our portfolio who we have not yet done a follow on investment in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 16115,
+      "timestamps": [
+        {
+          "offset": 16115,
+          "raw": "[00:17:15]",
+          "seconds": 1035
+        }
+      ]
+    },
+    {
+      "end": 16936,
+      "excerpt": "Now you can get there multiple ways, but fundamentally you have to be in that top one or two. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16842,
+      "timestamps": []
+    },
+    {
+      "end": 17037,
+      "excerpt": "[00:18:23] Gopi Rangan: How do you choose the top one third, are there metrics or filters you use? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16938,
+      "timestamps": [
+        {
+          "offset": 16938,
+          "raw": "[00:18:23]",
+          "seconds": 1103
+        }
+      ]
+    },
+    {
+      "end": 17208,
+      "excerpt": "[00:18:29] Kamal Hassan: So there's a mixture of things. Well, actually it's interesting because there's a quote I remember from a very experienced VC in Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 17039,
+      "timestamps": [
+        {
+          "offset": 17039,
+          "raw": "[00:18:29]",
+          "seconds": 1109
+        }
+      ]
+    },
+    {
+      "end": 17626,
+      "excerpt": "I'm just trying to remember, so I referenced the right person. He might have been from Lightspeed Ventures or something. But he said, when you see success, it's obvious. Yes. And really that's a lot of what we're seeing right now is when you've got a food company in your portfolio out of Southeast Asia, which does organic gluten free, nut free everything foods, and they are busy selling locally in Southeast Asia.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17210,
+      "timestamps": []
+    },
+    {
+      "end": 18009,
+      "excerpt": "And they say, we're going to sign a deal with Whole Foods. Whole Foods loves us. We're negotiating with Whole Foods. And you say, yes, yes, yes. And then they come back and they say, \"we just signed the deal with Whole Foods. We're going to be on 85 percent of store shelves in the U. S.\" You say, \"can I invest?\" So some of it is based on that immediate massive customer traction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17628,
+      "timestamps": []
+    },
+    {
+      "end": 19020,
+      "excerpt": "Sometimes it's just looking at the numbers. You see the sales going up and they're going up 15 percent a month and then 15 percent the next month and then 25 percent the month after that, then a 30 and then back down to a 15 and you see four or five months of that. You go. \"Something's working. I wanted this. This is now the top company in there.\" Sometimes it's just a company that quietly performs. We have one company, a fintech company out of London called Finverity. And there was no one trigger point that pushed it over the edge. They were focusing on tech and just quietly every month, they delivered their tech and got it built, and they were selling B2B customers. They're enabling trade financing, so they provide call it invoice factoring, but it's basically a cross border trade finance, specifically often for suppliers in countries with very poor credit. But you just watch them, and every month they got the job done. And they were developing their pipeline and moving conversations forward.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18011,
+      "timestamps": []
+    },
+    {
+      "end": 19368,
+      "excerpt": "And we signed based on having watched things develop. And in fact, their lead customer at the time we developed fell through. But we knew that that team would do it. And there was another VC at the time who didn't have the same background, hadn't seen them performing, decided not to participate in a round where we actually came into that round.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19022,
+      "timestamps": []
+    },
+    {
+      "end": 19689,
+      "excerpt": "And that company now they've got tens of millions of dollars of financing, they're processing through their platform. And this was only within under a year. And the valuation has gone up over doubled since we were in. And yeah, it's just a great success story. So sometimes it's just performance that gets the job done.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19370,
+      "timestamps": []
+    },
+    {
+      "end": 19770,
+      "excerpt": "[00:21:29] Gopi Rangan: How many startups do you have in your portfolio today? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19691,
+      "timestamps": [
+        {
+          "offset": 19691,
+          "raw": "[00:21:29]",
+          "seconds": 1289
+        }
+      ]
+    },
+    {
+      "end": 20064,
+      "excerpt": "[00:21:33] Kamal Hassan: We have 116 today. And those 116 are actually in over 30 countries around the world. They're on every continent except Antarctica. So we're invested in Nigeria and Tunisia and Ecuador and the US and Germany and Norway and Australia, China, Singapore, India, Cambodia.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 19772,
+      "timestamps": [
+        {
+          "offset": 19772,
+          "raw": "[00:21:33]",
+          "seconds": 1293
+        }
+      ]
+    },
+    {
+      "end": 20107,
+      "excerpt": "So yeah, we are truly a global investor. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20066,
+      "timestamps": []
+    },
+    {
+      "end": 20191,
+      "excerpt": "[00:22:00] Gopi Rangan: Wow, that's amazing for a new firm. How old is Loyal now? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20109,
+      "timestamps": [
+        {
+          "offset": 20109,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 20379,
+      "excerpt": "[00:22:05] Kamal Hassan: Loyal is exactly two years old, uh, either last month or next month, depending on whether you count our registration or when the first dollars came in the door. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 20193,
+      "timestamps": [
+        {
+          "offset": 20193,
+          "raw": "[00:22:05]",
+          "seconds": 1325
+        }
+      ]
+    },
+    {
+      "end": 20497,
+      "excerpt": "[00:22:16] Gopi Rangan: That's amazing. A two year old firm with active participation in 30 countries and 116 deals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20381,
+      "timestamps": [
+        {
+          "offset": 20381,
+          "raw": "[00:22:16]",
+          "seconds": 1336
+        }
+      ]
+    },
+    {
+      "end": 20722,
+      "excerpt": "So if I'm looking from an entrepreneur's perspective and I really like working with you or Michael, your partner, um, and I want to get more time, how do you manage to make time for 116 entrepreneurs or 116 founding teams? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20499,
+      "timestamps": []
+    },
+    {
+      "end": 21766,
+      "excerpt": "[00:22:41] Kamal Hassan: So what we do is we have 250 - 300 advisors around the world that we've built up as a network. Michael and I need a lot of humility to run this business the way we do. It's the humility to say on any one question that you are asked, \"Who is the smartest person you know?\" And if you have a network of 300 people, the smartest person you know, for any one question in this network should be yourself less than 1 percent of the time. So really what we do is we have a half hour call with every company. So a half hour call with a hundred and 15 companies. Well, you can do the math on that. That's actually only under 60 hours of time. And there are two of us. So it's not a massive amount of time, but then when the company needs help on something, we say, \"Sure, here's our quick thought on it, but here is the expert. Digital marketing, sales strategy, positioning, hiring programmers, AI algorithms, whatever the topic is. Here is somebody who is smarter than us on that and why don't you talk to the real expert.\" ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 20724,
+      "timestamps": [
+        {
+          "offset": 20724,
+          "raw": "[00:22:41]",
+          "seconds": 1361
+        }
+      ]
+    },
+    {
+      "end": 22013,
+      "excerpt": "[00:23:59] Gopi Rangan: Wow, this is fascinating. You really put a global network to work to help your portfolio companies. And there's a lot of intrinsic satisfaction on the part of the advisors when they support entrepreneurs at early stages. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21768,
+      "timestamps": [
+        {
+          "offset": 21768,
+          "raw": "[00:23:59]",
+          "seconds": 1439
+        }
+      ]
+    },
+    {
+      "end": 22325,
+      "excerpt": "[00:24:10] Kamal Hassan: There is intrinsic satisfaction. And one of the things we learned from the Founder Institute Accelerator, I mean, look, we copy from the best, is that if you're going to make money off of the work of other people, such as these advisors, then you had better share that money with them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 22015,
+      "timestamps": [
+        {
+          "offset": 22015,
+          "raw": "[00:24:10]",
+          "seconds": 1450
+        }
+      ]
+    },
+    {
+      "end": 22765,
+      "excerpt": "So we take 20 percent of our carry is a venture fund, and we share that 20 percent across that whole network. So this is really saying that network of advisors bring value for the advisors. They can, it's almost like being a partner in a venture fund where they get the upside of being a partner. And they get to only talk to companies if and when they have time and are interested in the business. So it's a win win for them and for us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22327,
+      "timestamps": []
+    },
+    {
+      "end": 22985,
+      "excerpt": "[00:25:01] Gopi Rangan: Wow. Um, I asked you so many questions and you seem to have very, very convincing answers for every one of them. Oh, this is fascinating. It's very hard to innovate in the venture capital world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22767,
+      "timestamps": [
+        {
+          "offset": 22767,
+          "raw": "[00:25:01]",
+          "seconds": 1501
+        }
+      ]
+    },
+    {
+      "end": 23223,
+      "excerpt": "There is no new way of building a venture capital firm that we have seen. We might have seen a few flavors of it, but for the predominant part, it's the same, same kind of structure that all VC firms have. So this is refreshing to see. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22987,
+      "timestamps": []
+    },
+    {
+      "end": 23777,
+      "excerpt": "[00:25:29] Kamal Hassan: One of the things which is really challenging about Venture Capital is it's a business where you tend to develop an ego very quickly and very easily, so you develop a lot of confidence in yourself, and you're making snap decisions, selecting among massive numbers of companies, and our human brains are designed to help us process masses of information and make quick decisions. That's why we are biased people. We get shortcuts in our brain, which help us do things, but there's all sorts of human biases built into our brain.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 23225,
+      "timestamps": [
+        {
+          "offset": 23225,
+          "raw": "[00:25:29]",
+          "seconds": 1529
+        }
+      ]
+    },
+    {
+      "end": 24128,
+      "excerpt": "So for instance, one of the biases you have is a sunk cost bias. \"Oh, I invested a million dollars into this company. They need another $300, 000 cause they're in trouble. Well, I better put in $300, 000 to protect my million dollar investment.\" No, that's a sunk cost. The million dollars is gone. But the human brain is just like, \"Oh, no, no, no.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23779,
+      "timestamps": []
+    },
+    {
+      "end": 24426,
+      "excerpt": "I have to protect my investment.\" But there's a whole series of biases, which we are all sort of prone to. And as an investor, we've designed a process to get rid of those. There's the endowment bias. You love your own company. So I work with the company more than Michael does. I get to know it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24130,
+      "timestamps": []
+    },
+    {
+      "end": 24734,
+      "excerpt": "It feels like my child. I want my child to be funded and not his. Well, that's endowment bias. But you really need to set up strict rules and processes like this: 'only the top third get funded'; because you need to overcome those human biases if you want to make the best possible decision as an investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24428,
+      "timestamps": []
+    },
+    {
+      "end": 25037,
+      "excerpt": "[00:27:17] Gopi Rangan: Well, you covered a lot of territory here. I'm sure we can spend more time and I would love to learn more about how you're building Loyal VC. But let's switch to another topic here. Is there a nonprofit organization or a community leadership role that you're passionate about? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24736,
+      "timestamps": [
+        {
+          "offset": 24736,
+          "raw": "[00:27:17]",
+          "seconds": 1637
+        }
+      ]
+    },
+    {
+      "end": 25125,
+      "excerpt": "[00:27:31] Kamal Hassan: So we believe in giving back to support those who support us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 25039,
+      "timestamps": [
+        {
+          "offset": 25039,
+          "raw": "[00:27:31]",
+          "seconds": 1651
+        }
+      ]
+    },
+    {
+      "end": 25970,
+      "excerpt": "And one of those groups is INSEAD. And one of the things which we really enjoy about INSEAD is INSEAD as a business school, has been really promoting this concept of business as a force for good. And that's certainly one we believe in strongly. It's been interesting in our investing, 80 percent of our portfolio companies contribute to one or more of the UN sustainable development goals. And we actually surveyed them and I would have guessed it was about 30%. But you see INSEAD when it's a business school which says business is a force for good and then Founder Institute where honestly I helped rewrite the curriculum where they say it the first thing you work on they say what are what's the problems you want to serve to solve in the world, and by the way, if you're looking for big problems here, the UN sustainable development goals.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25127,
+      "timestamps": []
+    },
+    {
+      "end": 26245,
+      "excerpt": "These are the biggest problems we believe exist in the world today. So why don't you look at those? So it's not surprising that 80 percent of our companies actually do address these goals. So what's one charity really believe in? I believe INSEAD, which is not for profit. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25972,
+      "timestamps": []
+    },
+    {
+      "end": 26463,
+      "excerpt": "[00:28:54] Gopi Rangan: As a fellow alumni of the institution, I'm a proud member of the community at INSEAD, thank you for all the contributions and thanks for making the entrepreneurship process easy for everyone. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26247,
+      "timestamps": [
+        {
+          "offset": 26247,
+          "raw": "[00:28:54]",
+          "seconds": 1734
+        }
+      ]
+    },
+    {
+      "end": 26503,
+      "excerpt": "[00:29:08] Kamal Hassan: My pleasure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Kamal Hassan",
+      "start": 26465,
+      "timestamps": [
+        {
+          "offset": 26465,
+          "raw": "[00:29:08]",
+          "seconds": 1748
+        }
+      ]
+    },
+    {
+      "end": 26741,
+      "excerpt": "[00:29:11] Gopi Rangan: Thank you for listening to the SureShot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26505,
+      "timestamps": [
+        {
+          "offset": 26505,
+          "raw": "[00:29:11]",
+          "seconds": 1751
+        }
+      ]
+    },
+    {
+      "end": 26857,
+      "excerpt": "Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26743,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "7330e68250fc4df2f945e7729494e7ba81f6ededf155734f8de7dcb8d44afe98",
+  "text_sha256": "c29e23c6b3360d8ca52ee7798ad0553ef8e6eb62f21aa975fb9296bf0be931d3"
+}

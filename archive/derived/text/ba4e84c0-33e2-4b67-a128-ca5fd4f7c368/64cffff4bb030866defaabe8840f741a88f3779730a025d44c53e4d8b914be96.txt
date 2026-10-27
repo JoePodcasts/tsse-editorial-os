@@ -1,0 +1,204 @@
+Look for these mega disruptive trends. And when they come, drop everything you're doing and run to them. I've only seen four in my career. I saw the internet, I saw social, I saw mobile, I saw this. I think of those, this is probably the biggest.
+
+Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. 
+
+Hi, I'm your host, Gopi Rangan. Thank you for dialing in to The Sure Shot Entrepreneur. My guest today is Munjal Shah. He's the co-founder and CEO of Hippocratic. That's his most recent endeavor, but he's also a successful serial entrepreneur, an active angel investor, and he's also an LP in many funds. We're gonna talk to him about his journey in the Silicon Valley. We're gonna ask him questions about AI, and we'll also talk to him about his angel investments and fund investments.
+
+Munjal, welcome to The Sure Shot Entrepreneur. 
+
+Munjal Shah: Thank you for having me, Gopi. 
+
+Gopi Rangan: Let's start with where you grew up. You grew up in Indonesia and when you were a kid, you moved to the Silicon Valley. Silicon Valley's kind of become home for you and the entrepreneurial itch bit you very early and you've been starting many companies, and then since then you've kind of fully embedded yourself into the ecosystem. Tell us about that journey, how you got started and why healthcare is important for you. 
+
+Munjal Shah: Yeah. I moved here when I was seven years old and my father had actually come here out and done his graduate work. So he went to IIT, came here did his graduate work, and then was an expat in Indonesia, which is why we lived there for seven years.
+
+And then we came back and I learned to code at like 7, 8, 9 years old, somewhere in there, which back then was an extremely rare thing to have, and I just found it something I loved doing and it came very naturally to me and it was something I was excited about. Growing up in the valley, you saw Apple computer, which was just a few miles from my house get started and get big, and the guy across the street from me worked for Atari and made the early video games. And if you mowed his lawn, he'd let you play the beta games and give him feedback. So, all the kids in the neighborhood mowed his lawn for free and he had like the best looking yard and so this was definitely in the early days of Silicon Valley.
+
+You know, something that I did and I played video games like many kids, all day long and thought to make my own video games and I was a true nerd in that way and just honestly enjoyed the rise of technology and being part of that. And then I started my very first company in 1999 after I finished my master's degree and we sold it in 2004, and then I built a second company and we sold that in 2010 to Google. 
+
+My healthcare journey began because the day after I sold that company, I ended up with chest pains and ended up in the ER. I was 37. My father had had his first heart attack in his mid forties. I changed my health, lost 30 pounds or so and said, "Hey, if I'm gonna build another company now I'm going to, I'm gonna do it around healthcare."
+
+Gopi Rangan: You clocked in your first 10,000 hours very early as a child on computers, so you got into that journey. 
+
+Munjal Shah: I don't know that, I believe that whole 10,000 hours thing, by the way, seems like a too convenient explanation for a lot of things, but yeah.
+
+Gopi Rangan: You talk about a health event. When a health event happens, then you become more aware of how you live your life and how you influence others to improve their quality of life. You stayed in that area. You sold two successful companies. You sold to Google and the earlier company you sold to Vendio, which was later acquired by Alibaba.
+
+Then you stayed on that journey - stayed with Google Shopping, but when you came out, you started the next company, Health IQ that was fully focused on healthcare. Like I can see the pivot in your thinking, why health becomes important. Let's talk about Hippocratic, which is your new company. What is Hippocratic about?
+
+Munjal Shah: Yeah, so the, the formal name is Hippocratic AI. The URL is hippocraticai.com. Just so you get it right, cuz there's actually a little bit of a challenge these days getting the right URL. But Hippocratic AI is building a large language model for healthcare. We really believe that the transformation of large scale language models based upon GPT architecture have really captivated all of our imaginations, right?
+
+Like we've all seen ChatGPT and we're just blown away back in November, December of last year, and we realized and really believe that there is a need to build a vertical version of that, and that the vertical version can outperform the horizontal version. I don't think it's true in all industries, but I do think it's true in healthcare that you really need to focus and do that.
+
+And so that's what we're doing. We will build certain applications around it, but we may also just literally sell it as an API similar to what OpenAI has done with Chat GPT, and GPT 4, but our focus is building a large language model. Now, the number one thing you have to build to build a language model for healthcare is make it safe.
+
+And hence the name of the company 'Hippocratic' after the Hippocratic Oath. And hence the name of the tagline, which is, "Do no harm". Like we realized making a safe model was gonna be quite a journey and needed to be done from the ground up. That's really the journey that we're on today. It's how do we build the smartest and safest large language model completely focused on the needs of different healthcare applications.
+
+Now, the number one thing to make it safe is don't try to do diagnoses. So, right out of the gate we're saying, "Hey, we're not doing diagnoses." People seem to think that's the only thing in healthcare that's like a very small part of healthcare. There's a heck of a lot of other roles and other people. I mean doctors make up a very, very small part of the total healthcare staffing in this country. And there's many, many, many other people playing many other roles that are actually great areas to focus the large language models capabilities on. 
+
+Gopi Rangan: I have lots of questions for you here, but I understand healthcare is an important space where move fast and break things type of philosophy can be dangerous.
+
+It doesn't work, so it's important to think thoughtfully about it. There are multiple schools of thoughts on this. AI is inherently bad. We need to control this. And AI is the best thing that we've invented since technology started, and we should plough more innovation into this and employ more resources to make it better.
+
+Today, what I see is Microsoft and Google are the leaders in this space, and they are dominating the future of how AI develops. What is your view and where does the role of a startup play here? 
+
+Munjal Shah: So there's two questions in that. Let's talk about the first one, which is kind of is AI a net good or a net bad? Healthcare is at very unique crossroads in the country. We are short 3 million healthcare workers. Where do they go? They all got burned out in the pandemic. Many of them are nurses, but you know, we lost healthcare workers at every level. We're not just gonna fill that in one year or two years, or three years.
+
+A lot of those have very long lead time training sessions and people have to go to school and they have to get certified and they have to take additional certifications. And you know, it's not just gonna like solve itself in any reasonable amount of time. And so I would go as far as saying, I think the biggest threat to the health of the country right now is this shortage.
+
+And I see no other way to close the shortage than to utilize this new generation of AI. People have a lot of conversations where they're like, "oh, but what if it does/doesn't do XYZ?" I'm like, look, getting no advice is not better. You know, getting no input, not being able to reach a billing person because we're short staffed there only adds to your attention and stress when you're already going through a health crisis. 
+
+You see so many people going through health crisis, getting a second crisis having to deal with their billing and customer service and explanation of benefits and "why wasn't this covered" and "I can't afford that". And so it isn't just the clinicians that we're talking about here. We're even talking about explanation of benefits. If it's a billing staff we're talking about try to get a meeting with the genetic counselor. It takes like three months. Because there aren't enough of 'em. There literally are not enough of 'em. 
+
+I recently had this for a family member and we did the genetic test. The test got done in a matter of a week and came back, but they're like, oh, we can't tell you the results. I was like, why? You have to meet with the genetic counselor to get the results? Okay, fine. We'll, we'll do that. When? "oh, three months from now." I'm like, what! So we're supposed to stand there stressed out about what this test is gonna show for three months, cuz you guys are that short-staffed. And then there's another level of this. I don't think we're just short 3 million. I think we're short 30 million. People are like, what? Like what do you mean? I said, that is the level of staffing that I think brings the best health outcomes. Here's one example. How come we don't give a free dietician to every person in the country? Well, cause actually we can't afford to. The math wouldn't work. It's actually probably not ROI positive. Not at $50 an hour, but, and there aren't enough of them, even if we were willing to pay for it. But what happens if we do? What if we could have a large language model, act as a dietician and give it to every single person in the country? And people don't wanna be taught what to eat.
+
+They wanna be just told the answer when they're at the restaurant. Right? And this dietician could do it. Like try it. Take a menu, put it in a ChatGPT, tell it some of your medical requirements. It does a decent job, even out of the box. And so imagine if every time you go to a restaurant, you just open this thing up and it just says, yeah.
+
+Oh, you know, I, every menu has been geo tagged. Now, thanks to Uber Eats. Right. And so, uh, you can just be like, oh, you're at this place. Awesome. Oh, here's the menu for that place. Awesome. Okay. Oh, oh, I know your dietary requirements and your kind of health issues and your allergies. Okay, great. You should tell 'em, you know, here's four choices for you.
+
+I'm the third one. If you do order it, make sure they hold this. Like what would that do to the Health of America? We've never tried it cuz it was never this cheap. So, to me the really big idea here is, you know, I that's, that's a level of healthcare that maybe only the elite few have. Let's call that concierge care.
+
+I think we can deliver concierge level care to everybody for 10 cents an hour, maybe a dollar an hour at the most. Like the cost of this is dramatically changed and that's the opportunity we should focus on now. We do need to make it safe and hence our company and our its focus, but the opportunity here to really change the health of the world, like I don't think there's been a single transformative technology that's going to increase healthcare access the way this thing has. Or this thing can, I should say.
+
+Gopi Rangan: Who is better positioned to deliver that? 
+
+Munjal Shah: You know, large companies are building these language models and investing in them and they have the resources to do that. But we think that you cannot probably beat them at a horizontal model, but you can at a vertical model. And that is our core belief. Because there's just lots of detailed features you can build in that you need, like, you know, I just gave you one. Our dietician would need to be able to go and pull every menu and da, da, da. And you will need an allergy management process that's way more bulletproof because, A lot of menus don't list all their ingredients or a lot of menus.
+
+We'll use different words for the same thing, and you will need to kind of have a way to translate all of that. And maybe GPT4 does an okay job of that, but like you can't hope it does. You gotta make sure it does in that application. And so we'll get very deep and we'll make sure that our model is trained on all of that.
+
+And the good news is a lot of healthcare, good news for the startups in the space. A lot of healthcare contents not on the internet. So it's not like the common crawl, which ultimately powered what's called the pile, which is the main data that they've pre-trained a lot of these models on from the internet.
+
+Like it's not in the pile because it's not on the internet and by design healthcare data is not largely on the internet. But you know, this isn't true for travel. I would not recommend building a travel vertical LLM because 99% of all content and travels on the internet cuz they wanted to be SEOed.
+
+And there aren't a lot of complex regulations in travel and there aren't a lot of complex certifications in travel and like, it, it's not a good vertical probably to do this for. So I think this makes sense in some verticals it doesn't make sense in others, but I mean, I think the big guys have a, have, have a lot of resources, but I think they'll focus on the horizontal model, not on the vertical model.
+
+Gopi Rangan: Healthcare is broken. Administrative overhead is one part of it, which is a big problem to solve the shortage of workers. There's also a one size fits all solution that's available to everybody, and that doesn't work for individuals. You need to personalize it, and that cannot be easily done when manual work manages all the delivery.
+
+Which part of your focus will touch the world of healthcare today? Like what are your top two, three priorities at Hippocratic AI? 
+
+Munjal Shah: We don't know the answer to that yet. Our first step was build a better language model. Do nothing else until you do that. And so that is our first focus - building it, finding all the right content for it, training it, benchmarking it.
+
+When we announced the company on Tuesday, we also announced 114 healthcare benchmarks, which were really just the certifications. Like, you know, if you look at the badge that your nurse wear, she has all these letters after the her name. Those are the certifications we went after.
+
+Some of those are like the pediatric nurse certification and the I C U nurse certification. And we went after the pharmacy tech certification. You name it, we went after it. The lactation consultant certification. And we just said, okay, let's see if we can pass these. Let's see how well we pass 'em. Let's see if we pass 'em better than GPT-4. And we did, by and large, I think. There was 114, we beat G P T four and 105. We tied on six and, and we lost on three. And so we're like, okay, we pretty much outperformed. And so I think that's a, right now we are just trying to ensure we have the best base model for this vertical, and then we'll kinda go from there.
+
+Gopi Rangan: You're gonna build the deep tech first and then find applications that are suitable for the tech. 
+
+Munjal Shah: Now we are collaborating with health systems today and others on what use cases they want. So we are having conversations with them already. In fact, I've had so many conversations in the last 30 days.
+
+I have never seen healthcare executives be this excited about technology. Like never. There's something about generative AI. I mean, I think just, you know, Open AI did everybody's marketing for them. Like they just have created such a level of excitement in the zeitgeist in the world that everybody is thinking about how to utilize this for their business and, and so we happen to be lucky that way.
+
+Gopi Rangan: We should talk about fundraising. The company's barely a few weeks old and you raised a staggering $50 million right off the bat in a such a short time. How did that happen? 
+
+Munjal Shah: Yeah, it's a little more than a few weeks old. We started it ear early in the year, but, but yes, we, we raised very quickly, you know, this $50 million seed round from Andreessen and General Catalyst. One of my learnings in raising money, so this is now my fourth company I've raised money for myself. It's probably the 12th that I've helped raise money for intimately. There's about another eight that I helped friends of mine get off the ground, uh, especially during this one year after I sold the company to Google. I took some time off when I was getting healthy before I started Health IQ, and I ended up spending half my days helping people build and launch their companies and raise money. But I would say that a couple things made this possible.
+
+If you have any entrepreneurs listening to this, I have a few contrarian views here. The first is: look for these mega disruptive trends and when they come drop everything you're doing and run.
+
+I've only seen four in my career. I saw the internet. I saw social, I saw mobile, I saw this. I think of those, this is probably the second biggest maybe. And the, the internet was pretty big, but it is of that scale. And when you look at your ability to create a company that's highly disruptive and it dominates a new segment, you have to align it to one of these mega trends.
+
+You could create other companies successfully outside these trends, but it's a hell of a lot easier cuz these trends just, they're like a steamroller that just pulver rises all the existing companies in front of you and creates an opportunity for just a clean landscape again, right? Like think about all the mobile companies that came out that did something that a website did before, but now the mobile guy just captured all the market share cuz the platform shift enabled everybody to do that.
+
+And think of the original, what was that Driving direction site. MapQuest. MapQuest. Exactly, yeah. The social pulverized everything in front of it and allowed new, a whole new generation of companies built on social to come. And the same thing has happened now. Now you do get some false starts. You know, sometimes what you think is gonna be a new big platform doesn't end up being a new big platform.
+
+But you know, you have to take that chance. And so I did that. I saw this and said, this is what I want to do. I've been an AI guy since the beginning. The company I sold to google was an AI company. My graduate work was an AI company. My senior thesis and undergrad was on the use of AI for predicting protein–ligand binding and 3D model drugs.
+
+Like this is what I've been focused on. And I've been waiting for AI to finally work, in my opinion. Like it always worked in these narrow ways, but it didn't work in if you took it outside of that kind of narrow piece of this. And so coming back, like you identify the mega trend and when it happens, you drop everything you're doing and you run to the trend because these don't happen very often. They're once every five, seven years kinda thing.
+
+The second thing around it is: so I have eight co-founders at this company. So if you think about it, it helped a lot because we were like, "look, we have healthcare professionals, we have doctors on staff, we have people who've run hospitals on staff. We have people who run large call centers because that's one of the areas we're gonna be focusing on. Is eliminating these healthcare call centers and we have people have run them. We have people who run Medicare businesses. We have people who have built large language models."
+
+You need the combination of it all. Now, could I have just said, oh, the founding team is me and a large language model CTO? Yeah, probably could have. But what did I do by doing this? Well as a result, I now have almost zero hiring risk from here to the first product. That's one. I have a lot more credibility. You looked at the team as an investor and you were like, all right, he seems to have all the pieces he needs to at least get off the ground.
+
+Gopi Rangan: Yeah. You have someone from Nvidia, someone from Google, a doctor who managed hospitals. No, everybody's on staff. 
+
+Munjal Shah: We have kind of the right nucleus. Why don't people do this? Basically greed, right? That's the only reason they don't do this. Well, two reasons, maybe greed, and it becomes unwieldy at times, right?
+
+Of like everybody arguing and they're a founder, so they get a say and sort of that thing. But look, the second you, you just have to have the right leadership and people have to like trust and respect each other and there has to be somebody in the end makes the call, but the first part.
+
+I've built enough companies to know either they're really successful or they're not. Either everybody gets paid a decent amount or they don't. It's pretty binary. And so, so what? So you own half of what you would've owned before because you have so many co-found, like, who cares? This whole game is a probability of success game, not a ownership kind of hoarding game and I, I don't know why people don't understand that concept, like they really, really don't. But I would encourage large founding teams every day of the week. My first company had five co-founders. My second company, we had three co-founders. My third company, we actually had five originally, but we ended up kind of with three of us that were core, but still a relatively large number.
+
+And then this one has eight. So I've always done this. This has been my formula that's been a little contrarian to others. So then when I went to go pitch, " like, Hey, I got the great mega trend. I got the exact team one needs with a tremendous amount of credibility in having done the right things."
+
+And then there's a little difference between whether this is your first time or not. If it's your first time, it is a different fundraising process than if it's your nth time. But I still very close to the Andreessen folks and just said, "Hey, can I work outta your office? And can I have a space?" And they're like, sure. Except on Mondays. Cause that's actually when we all come in. But there's empty conference rooms every other day of the week. I'm like, okay, great. And then another buddy of mine was like, okay, I can give you a conference room on a Monday. And so we, we did that and that was helpful by the way.
+
+That was very helpful because I ran into the partners all the time and I got to chit chat and I got to hang out and I got to familiarize them with the concepts we were working on. It wasn't just a pitch, it was like a continual set of interactions that happened each and every day. And honestly, when I met candidates to recruit to be my co-founders, they were like, well, okay, this, this must be going somewhere. He's sitting at the office of a vc, like, you know, as an entrepreneur. I'm like, see if you can, and, and I didn't ask for an EIR ship. I didn't ask to get paid. I didn't want any of that. I just wanted an office, or not even an office.
+
+I wanted a conference room, which is all I got actually. And so, but my view is, You know, set that up and because it, it actually affords you a level of credibility and attractiveness to others who are thinking of joining your new venture that makes building that team a little easier. And so each of these is a, a game of just slowly building the pieces up.
+
+Gopi Rangan: You do have contrarian views and the large number of co-founder thing, I'm still reflecting on it. It is definitely very different from most co-founders when they start the business and having that unfair advantage of having a conference room at a VC firm interacting with them turns the conversation into a warm discussion versus starting with a cold pitch. Like 'hear my concept' versus 'you've heard this many times, you've seen this evolve, now we're ready. 
+
+Munjal Shah: Well, I'll tell you the story I did my first time. My first time I volunteered to do due diligence for a couple VCs that I had met at a networking event when I was a graduate student. So, literally, there was an event at Stanford where I was doing my CS and this VC came and I remember talking to her and she's like, "wow, you really seem to know a lot about this space." I said, "well, if you ever look at a company in this space, I'm happy to do technical due diligence for you on it for free. I won't charge you anything. Nothing. She's like, great, and I did that four or five times more for her. And that's how I got to know her.
+
+And then she said, oh, why don't you come sit in on some pitches? I'm like, wonderful. She's like, you can stay for the after discussion. And oh my God, my very first time did I learn so much from seeing the inside baseball view of like how the companies were evaluated. So then when I went to pitch, guess who the first person I pitched was? Her.
+
+It was a VC called Darlene Mann, who was at a firm called Onset Ventures, which I don't even know if they're still around. She was awesome. You know, she really actually kind of gave me my start. But you know what I would say is it should never be a cold pitch. If they know you ahead of time for any reason, then they'll know you. In fact, well the very first round, the seed round was actually done by some folks that I met through my brother-in-law, through his IIT network that had been successful and first one funded it and then I went to the temple. I kid you not, and some of the guys at the temple had been successful entrepreneurs and they gave me some seed money and then.
+
+I did my first VC round, and this was where Darlene came in. And then I ended up also George Zachary who's at CRV now, but was at a different firm back then. He funded it but I had started a networking group called Round Zero with a bunch of others, and I had met George years prior, so that was 99, and I had met him in like 97, and we had gotten to know each other.
+
+So my whole point to everybody is, It should never be a cold conversation. In fact, people who are trying to start companies, I'll ask 'em this. I'll say, how many investors do you know personally that you hang out with right now? And if they say zero, I say, don't start a company now. Go do something that lets you build a relationship even where you're doing something to get to know them for free. Whatever. Just do it. And then when you feel like you have that, then start a company because then you'll have enough kinda gas and relationships to kind of get over that first, you know, energy barrier that you need to get over to start your, uh, reaction. 
+
+Gopi Rangan: These are long-term relationships, so it helps to start 
+
+with Yeah, start early.
+
+Munjal Shah: Yeah. Yeah. So we did that and then, you know, the round came together and, uh, very quickly actually I met Hemant and I was another old friend of mine that I've known for 12 years at General Catalyst and he and I went for a walk and realized we shared the same vision for healthcare and LLMs. Then we put together, you know, kind of what the round would look like and obviously Andreessen as well and all of us were off and running.
+
+Gopi Rangan: Hemant has a clear thesis on healthcare. I wanted wanna switch gears and talk about your investments, your angel investments and fund investments. What gets you excited? Can you give an example of one or two investments you've made recently, perhaps a fund investment, because those are more of the darker side of the world people don't get to hear stories. 
+
+Munjal Shah: I did a seed investment and became an advisor to a company called Scopely that we recently just sold. 2 weeks ago, it was announced. Savvy Games is the one who bought it for $4.9 billion. And I met the entrepreneur when it was just him. Walter Drivers is his name, really great guy. I think he had started, he had like three or four people at the time. It was 10 years ago, by the way, like things take a long time to build. But he built it and built a great company. It's another company called Refi Health that I invested in and invested in the seed round and then invested again in the A, and then they did a round at about $4 billion back in early 2022.
+
+And so that company's been doing great and there's a whole host of these, I think probably it's about seven, eight unicorns that I've invested in that kind of got the billion plus evaluations and a couple that went public too. I was an advisor to PubMatic, which is now a public company. I will tell you the interesting thing about my learning in my angel investments, especially at the seed stage.
+
+I basically understood very little about the category, but I really was able to think deeply about whether I thought this was a great entrepreneur. And so I did a people entrepreneur bet. In fact, when I knew about the category, I did worse actually, if I look back at my investments. Cause I like thought I knew what was being work or not work.
+
+And when I didn't know about the category, like I never read an ad network. And so there was problematic. There was another one called Rocket Fuel that I was an investor in and you know, rocket Fuel actually IPO and was worth a couple billion bucks. You know, the lockup came off, I sold my shares that later on had a rough time.
+
+But, you know, but from an investment standpoint, from what I invested to when I exited, like it was fine, but I didn't know anything about ad networks and yet there I was in two ad networks. I didn't know anything about gaming and yet I was there in gaming. I did know something about healthcare, but I didn't know clinical trials or healthcare it in the way, but I just knew really good entrepreneurs and knew how to just be helpful in giving different pieces of advice or at least try to be helpful. And that's a number of the things that I've done. And if you look at my LinkedIn, I think it has a lot of the other investments and I was looking at the other day, but there's a ton of exits.
+
+And I, I looked at the probability, I'm like, whoa, what happened here? And I will tell you the only pattern I can draw is I just picked the entrepreneur. And the ideas have pivoted and the ideas have shifted, and the ideas were not the same idea. Half the time, I don't even remember the name of the company because when I invested it was a totally different name, and then they changed the name by the time they pivot the company.
+
+And so, uh, but I have found that there is a type of person that if you pick, it's a very different thesis than the like, You know, I know this, I know that and, and probably my thesis only works at the seed stage. It probably isn't a good thesis to use at a Series B, but I don't invest at a series B. I pretty much only invest in seed stage.
+
+Gopi Rangan: You also invest in funds. How is your process different when you invest in venture funds compared to investing in startups directly? 
+
+Munjal Shah: So I, I think I looked at it the other day. I'm in 45 startups and I'm in 23 funds. There's three categories of funds that I look at. First are just big name, big return guys that have just delivered day in and day out.
+
+And honestly, I think they're more and more sucking the oxygen out of the room for everybody. Like they are going to dominate, they're going to have the best returns. Getting into them is hard. One of the things that I've done in my entrepreneurial career is I don't take anybody's money into my company unless they let me put money into their fund.
+
+So I'm like, I'm like, yeah, it's a two-way street. They're like, I wanna invest in you. I'm like, I wanna invest in you. Are you gonna let me invest in you? Cause otherwise, you know, and, and I offer it to my other co-founders if you guys wanna invest you. But you know, most of the time they don't, but, and you know, they're just like, all right, fine.
+
+Yeah, next fund. I'll make sure we give you you something. And I'm like, you're fine. You know? But the first is that. The second is vertical specific funds that have a deep expertise. In fact, I would say my single best fund investments across all the different funds of all three classes that I'll tell you about have been in this bucket of vertical funds where they focus on a category.
+
+The only thing I think you have to recognize a little bit is there is sector rotation that which is hot. Lash is never that, which is hot next. And so sometimes the vertical funds can really suffer. Like right now, as you know, you probably know like InsureTech is not exactly in favor with the later stage guys.
+
+But you know, I think it will come back, but right now it's not. So the fund interest will be depressed because the later stage guys and other people just won't do the follow on rounds. 
+
+The third bucket is fund managers who are people I've known forever and who have done well in either their own investing or outside, and they've started. And so whenever I find a really smart person I've worked with in the past who I think is really driven and they start a new fund I'm like, look, I'll, I'll put some in. And that formula of focusing on ambitious, driven, really intelligent people trying to do something has never really let me down. But I will tell you so far, if I look at my returns, you know, I invested in Ribbit Capital. And I invested in Ribbit three, Ribbit four, Ribbit five, Ribbit six, Ribbit seven, Ribbit's bullfrog one, bullfrog two.
+
+And the Ribbit funds are like outrageous in their rate of return because they hit FinTech at the right time. Even with some of the current FinTech deflation, these funds are still unbelievable because they were in so early and they got the lion share of the run up still, even if there was a kind of an offset more recently.
+
+They knew FinTech. I remember when I took money from them at Health IQ, I was like, wow, this is the Sequoia of FinTech. And so I think that's what a vertical fund can be. It can be the Sequoia of X, it can be the Andreessen of Y. But you can only beat the big guy at his own game by being very focused on a sector and really building that. And you kind of gotta be early when that sector just starts. I think that that's, you know, I mean the returns I've had from Ribbit probably exceed all the returns from all the venture funds I've invested in.
+
+And so those are my three kind of frameworks for it. You know, get into the big funds if you can, cuz they're just the big funds and they perform kind of year in, year out. Do these highly verticalized funds. And that was part of my thesis in investing in your fund was that, look, you are an expert in this sub area and if there are good deals to be sought out and done, you will get them done because you just understand this sector better than anybody else out there.
+
+And then the third is just, you know, folks who just I've known who are new starting funds and you know, one of my co-founders, Vinny Butch did a fund and I'm an investor in that fund and. But I think Gokul's also in that fund with him as one of the investing partners. And Gokul has some amazing deal flow and you know Vinny is a person whose judgment I trust quite a bit.
+
+And on the healthcare side, I'm in a fund that Amit Garg funded. Amit was one of our co-founders too at Health IQ. He's one of the smartest guys I know. And so there's these small kind of focused funds that I've put money in. It's another guy, Raj, who has this fund called Climactic focusing on climate tech. Do I know about climate tech? No, but Raj does. I've seen Raj. He just is really awesome.
+
+So, you know, there's a lot of different funds out there, but mostly it's just folks that I know and trust. And I wouldn't say it's been terribly calculated, oh, I need this percentage and this fund and this percentage and that fund. And it's more just, you know, the opportunity in getting it when I can get in.
+
+Gopi Rangan: It's a prolific investment track record. Indeed, like both angel investments and fund investments. I want to ask you one last question about your community involvement. Is there a non-profit organization you are passionate about? Which one? 
+
+Munjal Shah: The one that I spent the most time with is the South Asian Heart Center. And I was on the foundation board of El Camino Hospital, specifically because of the South Asian Heart Center. That was where I had my personal journey and it was a heart issue that I had. I believe South Asians suffer significant early risk from that. And so that's probably the area that I have cared the most about. You know, honestly, I probably do have to get a lot more involved lately with running a startup.
+
+Again, it's been, it's not been exactly great. I literally, I think I have, you know, since the beginning of the year, literally since January, I have spent every last minute of every last day working other than like, The hour to two hours, I, I exercise and, you know, an hour at dinner with my family and like every other minute, almost every other weekend, I've just been working.
+
+It's been, uh, when you build a company, like, everybody's like, oh my God, you build a company, you raise a bunch of money. I mean, like, You have to want these things and you have to have an ambition for them. And they take sacrifice.
+
+Munjal. I know how busy you are. Thank you very much for spending time with me and sharing your story. I look forward to sharing your nuggets of wisdom with the world.
+
+All righty. Thank you, Gopi. I appreciate you having me on board. 
+
+Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.
+
+I look forward to catching you at the next episode.
+

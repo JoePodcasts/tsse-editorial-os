@@ -1,0 +1,205 @@
+The amazing thing to me was that it was not straightforward to everybody else because sort of the shine was coming off the whole ad tech market at that point in time. The interesting thing is Adam went to raise a series A soon after the seed round. So we were investors in the seed round. I introduced him to a variety of the top firms in Silicon Valley and every one of them passed.
+
+[00:00:18] Gopi Rangan: You are listening to The Sure Shot Entrepreneur,
+
+a podcast for founders with ambitious ideas, venture capital investors, and other early believers tell you you Relatable, insightful and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. We are here today with Ullas Naik, the founder and managing partner at Streamlined Ventures.
+
+Streamlined is a Silicon Valley based venture capital firm that invests in founders that are catalysts of transformation and progress in our society. Some of the focus areas for the firm are data science, software-enabled automation, component AI technologies, and APIs. Ullas, welcome to The Sure Shot Entrepreneur.
+
+[00:01:14] Ullas Naik: Thank you for having me, Gopi.
+
+[00:01:16] Gopi Rangan: In this episode, Ullas and I talk about his journey as an immigrant. He talks about his early career on WallStreet covering the internet. He talks about how he started Streamlined Ventures in the Silicon Valley and what he looks for in entrepreneurs. What are some characteristics that make him conclude that the founding team has the X-factor to build a rapidly scalable business?
+
+We discuss specific examples of startups and patterns that he sees across many of his portfolio companies. A lot of them have become successful over the years, and he has more than 100 investments. Ullas, tell me about yourself starting with your early days in your career.
+
+[00:02:01] Ullas Naik: I've been an investor and a venture capitalist for a long time. That's my work persona. On my personal side, I've been happily married individual with two children who are now teenagers. I sort of had the good fortune of being able to escape some of my childhood difficulties. I grew up in India in a relatively poor family, and I had the good fortune of being able to come to the United States and be a part of what to me was the epitome of capitalism, which I think is the best socioeconomic construct for human growth. Because of that, you know, I was able to benefit from what this country offers and was able to also, then find my way into venture capital as a career and a vocation, which eventually led me to starting my own venture capital firm, which is now called Streamlined Ventures, which we started about 10 years ago. I just think of myself as being super fortunate to have had the opportunity to benefit from all these things.
+
+[00:03:01] Gopi Rangan: You mentioned that you had a difficult childhood growing up in India. Is there an event that had an impact on your career in your childhood?
+
+[00:03:09] Ullas Naik: Yeah. My father suffered from some mental illness. He had a psychotic break at a certain point when I was still pretty young. The state of the art in India at the time never really acknowledged mental illness as a legitimate condition.
+
+Because of that, we had to take on the care and support of my father from a very young age with very limited help. We started off as a squarely middle class family. Soon after that occurred, our fortune started to dip and it was a very difficult time. This happened when I was 12 years old and I had to start making decisions for the family at about that age. And at the age of about 24 or so, I was fortunate enough to be able to come to America. But because of those formative years and what occurred during that time, it sort of built some intestinal fortitude when it comes to taking on adversity and difficulty and doing so with a positive state of mind.
+
+[00:04:11] Gopi Rangan: Mental illness is still a stigma. Uh, it's not commonly discussed in social circles and there are many challenges associated with that. One of the challenges is the caregiver burden. People around that person are also affected. How did it shape your outlook?
+
+[00:04:28] Ullas Naik: Well, to be honest, at the time I was a child and even growing up with that condition of my father, looking up to him and yet at the same time, him not being able to play that traditional father role was a very challenging conundrum to deal with. And then having to make decisions for the family was also difficult. I agree with you that it does create a huge burden on everybody around that individual who is also suffering. In our case, my father was a sole breadwinner, so it resulted in our fortunes crumbling around us very rapidly. The stress levels that came with that.
+
+It were all the things that we had to deal with as children while we were still going to school and trying to get good grades and all that stuff. So it's it's a very difficult thing to go through. Certainly an area that I spend a lot of time thinking about sort of doing some work in the future that might be able to help other people in that state.
+
+[00:05:24] Gopi Rangan: Well, thanks for sharing that story. It's not easy to go through that experience and certainly not easy to talk about it openly. These kinds of discussions have a huge impact on anyone that listens because it makes it easy for others to also embrace these situations. But thanks for doing that. How did you become a venture capital investor?
+
+[00:05:41] Ullas Naik: Yeah, so I've been a venture investor for about 25 years. And frankly, it was sort of a little serendipitous in terms of how it started. When I came to the United States, I went to a school on the East Coast called Bentley. After that, I got an MBA and I wanted to get onto WallStreet. I wanted to be a research analyst because I used to see them comment on TV.
+
+And I was just taken by what they did. And it was intriguing to me. I started working for a small investment bank called First Albany that we renamed it to FAC Equities. And then I started there as a temp because they didn't know me and nobody hires into investment banks from small schools. I was fortunate that they did hire me and it took a lot of effort to get them to hire me, but they did as a temp.
+
+And then very shortly after that, they hired me in a full time role. I had the good fortune also of watching a new phenomenon develop around networking. That was the advent of the internet. In 93, 94, I initiated coverage as a research analyst on the internet as a category. This is the internet pre the worldwide web.
+
+So pre web browser. So it was still pretty early days. Because of that research, I was often asked to comment on TV shows, on shows like CNBC and such. I was considered one of the quote unquote experts in this emerging thing called the internet. So anytime they had a story about internet, they would call me.
+
+And because of that, I started to sort of get known as somebody who might potentially really understand this internet thing. And entrepreneurs who were starting companies around the internet would reach out to me and say, just to get my opinion on how, what I thought I was so taken with the work they were doing, that what I started doing is whatever money I wasn't sending back home for my family or surviving on, I just started investing in those companies. So our first investment, my first investment was in 1995. Little did I know that that was the beginning of the bubble, the first bubble, I had the good fortune of investing in a number of companies at the time that ended up doing really well in a very short period of time.
+
+And that started to shape my thinking around where I really wanted to spend my energy and time in the future. It was around sort of the area of value creation in early stage companies and building them into really large companies. So in 1999, I started to think about transitioning out of WallStreet and then teamed up with a firm at the time called Jafco America Ventures, and then started to help build that firm.
+
+And we build that to almost $1.5B under management in venture capital. About 10 years ago, I transitioned from Streamlined because I wanted to build my own firm and started Streamlined Ventures. And the idea behind Streamlined was to invest in very early stage companies, leading the seed rounds with entrepreneurs that had this ambition to change the world around them.
+
+[00:08:32] Gopi Rangan: So you are one of the original experts on Internet, and this must be around the time when Metcalfe invented Ethernet and he founded 3Com, and he also claimed that Internet was not going to grow. Soon after, a year later, I think he famously, crushed the paper that wrote the article and drank it himself to swallow his own words.
+
+[00:08:54] Ullas Naik: Yeah, those were sort of some pretty epic moments. He obviously, Bob Metcalfe formed 3Com way before I initiated coverage. The foundations of the internet as it was at the time came from local area networking and then wide area networking, and then eventually sort of the early days of local area networking, wide area networking, and then it sort of became this global network.
+
+But the equipment that went into building LANs and WANs was actually the likes of 3Com all these other equipment companies from Boston, and Bob was one of them. So he preceded me, and they were the real pioneers of the Internet.
+
+[00:09:29] Gopi Rangan: You've seen the internet story play out over the past 20 years. In your perspective, how has the internet evolved over the past more than two decades?
+
+What's different today compared to how it was?
+
+[00:09:41] Ullas Naik: Yeah. So the early days, the key constraint was bandwidth. We were utilizing dial up modems on dial up lines and the application interfaces that came, first of all, the web browser emerged, and then the application interfaces that came thereafter were starved, so they could not really perform all that well because the bandwidth did not exist.
+
+As the bandwidth started to expand, the applications got more robust and the value they provided to users became more measurable and tangible and robust. That started to play out over the course, starting from say 1995 until about 2002, 2003, and then around 2004 is when you started to see the advent of the mobile internet. Of course, then the iPhone moment happened, it was 2006 around then. That changed everything.
+
+Then the internet extended not just to our computers, but also to the computers in our pockets. That resulted in this incredible, incredible value creation period between 2005 and at present.
+
+[00:10:44] Gopi Rangan: How did you decide to start streamline ventures? What was the thought process then? Yeah.
+
+[00:10:49] Ullas Naik: So
+
+[00:10:49] Gopi Rangan: it's 10 years old.
+
+Yeah,
+
+[00:10:50] Ullas Naik: it is about 10 years old. Initially, my passion was to work with very early stage founders in helping them really shape their thought process around how to build what we refer to as extreme scale businesses, which is businesses that can get to very dramatic scale metrics ideally on pretty compressed timelines.
+
+The way to do it is there is a lot of thought process around what do you do with product and product featuring as well as on customer acquisition methodologies and how do you make all of this interplay and in order to get these businesses to lift faster?
+
+I had a strong point of view on that around the 2011 timeframe. A lot of it was learnings from what was happening on the social front. So when the social media companies emerged on the scene. They were using unorthodox techniques to gain users. And I thought, okay, those techniques can be leveraged and brought into a B2B setting as well. My thinking was we can actually build a venture firm that specializes around showing how B2B companies are on, how do you get faster lift?
+
+Turned out to be a good time to be thinking about that. So I initially started investing in those companies with my own capital. Between 2011 and 2013, I was the sole LP in our first fund. And thereafter, a number of my friends in Silicon Valley who are successful entrepreneurs, also wanted to get into the companies that I was investing in because the companies were performing pretty well.
+
+I would try to bring them into the investments, but it was too ad hoc. So they just finally said, "why don't you just do a fund?" That's when our first outside money fund came about is about 2013. It was mostly my friends who invested in that. Since then we've raised many other funds. We're currently investing out of our fourth seed fund and then we've raised an opportunity fund and we'll soon be raising another opportunity fund as well.
+
+[00:12:40] Gopi Rangan: You've come a long way in the past 10 years and I see the foundation going back all these years. What kind of startups do you invest in? What stage do you want to meet them? How big are these companies when you first meet?
+
+What do you look for?
+
+[00:12:52] Ullas Naik: When I started at Streamline, I was mostly doing what is now known as pre seed investing, where maybe one or two founders with an idea and the ambition to go take on a large market or an existing market or an emergent market. And where we resonated and we could work with them or I could work with them and really help them. Over time, as we've raised more funds, I've noticed that there is a constraint on my bandwidth on account of which I cannot do that many pre seed companies. So we still do invest in pre seed stage companies, but I've noticed that roughly half of our companies now are sort of what's now known as institutional seed. So roughly half our companies are institutional seed, half are pre seed. And I suspect that's how it's going to be going forward as well.
+
+[00:13:40] Gopi Rangan: Are there certain sectors you prefer?
+
+[00:13:42] Ullas Naik: I'm pretty agnostic to vertical markets. Part of the reason is I've been investing for now 25 years and I've invested in over 400 companies.
+
+I've looked at tens of thousands of companies. And so the pattern recognition engine has been built and honed. pretty effectively at this point where I can be reasonably effective in most vertical markets. So I'm not specializing in the vertical market per se, but what I'm really looking at is leveraging technologies such as applied data science or applied component AI technologies or APIs or software automation or a combination of these and then transforming the dynamics of a particular market. It could be a vertical market. It could be a specific value proposition in the context of a market. But as long as that approach has the ability to then create an extreme scale business, then that would be a fair game for us. The pattern recognition is now honed to the point where I can come to a conclusion pretty rapidly on whether the business has the ingredients for that. We generally tend to make a decision quickly in a week or two sometimes, and then tend to lead the rounds. We tend to bring in other people who are coincident in their thought process with us into those rounds as well.
+
+So far, our businesses, the companies we've invested in are doing really well. We have invested in over a hundred companies at the seed or pre seed stage, and more than 30 of them now are over $100m of value. So they're progressing at a good hit rate. Three have now gone over a billion and two DoorDash just went public last week. It is over 50 billion of value. And we'll have one more going public sometime next quarter, I think, that will also has a chance of being over 30 billion of value. So there's signal coming from at least our approach in terms of how we're investing in these companies, whether we can continue to maintain that hit rate or not remains to be seen, but so far, so good.
+
+[00:15:40] Gopi Rangan: Great stories here, and I'm looking forward to picking a few examples. But you started as an investor focused on pre seed and seed stage before the words pre seed were even coined. You're quite agnostic when it comes to vertical markets. You're really focused on the technology and how the technology will have an impact.
+
+When you built this business, did you always think that you were going to be the sole general partner in the fund? And you're still operating that way, right?
+
+[00:16:06] Ullas Naik: That's correct. Yeah we are still a single GP firm, although have a team now beyond just me. It is been set up that way intentionally.
+
+So I've been part of, as I mentioned, as part of a larger firm with a larger partnership prior to Streamlined. I noticed the pluses and minuses. So if you look at larger partnerships, you have the ability to have more checks and balances and more breadth from a larger partnership. But also because you have a larger partnership, I feel the decision making is often suboptimal.
+
+It waters down the quality of decision making in my mind. I've seen it in operation at many firms with the exception of a handful of firms that seem to consistently defy the odds, but outside of that, for the most firms, it does that. So for me, the idea of optimizing the venture model could only be done as a solo venture capitalist.
+
+My intention was to use that model. And since then it has worked really well for what I intended to do, because I like rapid decision making, especially when the pattern recognition is already honed. At that point, checks and balances actually get in the way because you don't want checks and balances.
+
+You actually want the ability to leap in with both feet the moment you see a great idea with a great founder. To then have to go and convince two or three, five other partners, and then not be able to act on your instincts, is to me counterproductive to this early stage investing model. So I intentionally set it up as a solo GP structure.
+
+[00:17:40] Gopi Rangan: I'm a solo capitalist as well. And I resonate with many of the things that you talk about, like these rapid decision making where if you dwell on an idea too much, we try to prove ourselves wrong and we might miss the opportunity. And having that independence in thinking has been a huge strength for me.
+
+Some investors don't enjoy that and they actually like to have consensus and debates. They're not fiercely independent. So maybe for them, this model may not work, but it's been working really well for me.
+
+[00:18:09] Ullas Naik: Yeah. I'm glad to hear that. And it certainly works really well for me as well. I think it is a more lonely path because with a larger firm and with a larger partnership, as you said, there's debate, there's interaction, there's engagement. So at our firm, for the first seven years of the firm, it was just me. I didn't have anybody else. We didn't even have a team. And then I've started to, in the last couple of years, started to build out more of a team. But in the first seven years, it was me with no office meeting entrepreneurs at coffee shops.
+
+If you don't have the sort of the, the courage of your convictions, that model is really hard to implement. So I hear you and I applaud you, Gopi, for taking that risk and going down that path. And as we said, I mean, those are the pluses and minuses of the solo GP model, which is, it is lonely, but you have higher velocity of decision making.
+
+And those are the trade offs you have to make.
+
+[00:19:02] Gopi Rangan: Yes, I'm enjoying it. It's been an exciting ride for me. I want to talk about the startups you've invested in. Maybe you could give an example of one company. How did you meet the founders? What was the conversation about? How did you form conviction? And I remember in our past conversations that you talk about this X-factor you like to see in entrepreneurs.
+
+How do you evaluate them and how do you find these X-factors?
+
+[00:19:25] Ullas Naik: I'll use the example of a company called Applovin, which I think is an extraordinary company and is going to be one of the preeminent companies to emerge out of Silicon Valley. It was introduced to me by a friend of mine who was also a seed investor.
+
+He was an advisor to that company and said, "look, I think there's something very interesting going on with this company. It's still very early stage, but you should meet with them." Now, Applovin at the time was building a new ad network. It was very, very heavily investing in data science. It coincided a lot with my thesis around data science transforming all markets. I had the good fortune of having been at Glovespan, where we had investments in three ad tech companies that did really well. So we invested in Quattro Mobile, which is acquired by Apple and is now the Apple ad product, iAd. We were in Dotomi, which was acquired by Singtel.
+
+And we were in multiple other ad companies as well. So we had a lot of understanding of just what was going on in ad tech. Prior to meeting Applovin was all ad tech on the internet. But when I met with Adam, who's the founder of AppLovin, he had this vision of "look, obviously computer and applications are moving to the mobile web and we're going to use data science in order to retarget internet ads onto the mobile platform." And the way he was thinking about the data science was really compelling and intriguing to me. So it was a combination of the fact that I had a knowledge and a prepared mind. And I had conviction about the thesis around migration of application usage from desktop onto mobile.
+
+Of course, it coincided with Adam being a really opinionated, amazing entrepreneur and having a strong point of view about where the business was going to go. So it was very straightforward for me to invest in that business. And the amazing thing to me was that it was not straightforward to everybody else because sort of the shine was coming off the whole ad tech market at that point in time. So the interesting thing is Adam went to raise a series A soon after the seed round. We were investors in the seed round. I introduced him to a variety of the top firms in Silicon Valley and every one of them passed. I kind of understood why they passed because ad tech was losing some of its shine. But the way I looked at it was: you can't look at the ad tech market of today. You have to look at what is going to happen as more usage happens in mobile out five to seven years and what this company is going to be able to do.
+
+Now, the extraordinary thing that this company has been able to do is since then, so it's now roughly a little over eight years old, they have not even touched our seed money. They've been profitable from day one because they had some difficulty raising the A. So they kind of sort of built a profitable business. And they've been an extreme growth business.
+
+So the company will do about. Over a billion and a half of revenue this year, and we'll throw off an enormous amount of free cashflow. It's growing super fast year on year. And of course, the result of incredible execution by Adam, the CEO and his team. He hired a very good team to do that. And also the fact that the thesis actually played out as expected.
+
+It's an amazing story about if you have that conviction around where markets are going to go. If you built a great business with discipline and you leverage some extraordinary technology in their case, in their case, data science, you can do some really, really impressive things.
+
+[00:22:50] Gopi Rangan: In this case, you were familiar with the industry and you, you knew the trends and where they might be five or seven years out.
+
+You didn't know the team. You didn't know Adam very well. During the first few conversations, you developed a conviction on the business. Is it a common theme across your investments?
+
+[00:23:06] Ullas Naik: Yeah, it is a common theme because, you're right, for the most part, we don't know these founders that well ahead of time. Yeah. But going back to the question you had asked earlier about that X-factor, the X-factor invariably is at the cross section of deep conviction around market trends and an enormous amount of intellectual and physical horsepower. So it's at that intersection that you find that X-factor. And in the case of Adam, it was both of those things. He was super bright, he was very energetic about how he was going to go pursue his ambition. And he had a very strong point of view on how that market was going to evolve. It was very apparent to me. Overlay that with my personal convictions around the market and its trends, and it was a no brainer.
+
+[00:23:55] Gopi Rangan: So it's the combination of bold vision and relentless execution and being able to switch from big picture to nitty gritty details seamlessly. That's what you see happen with many of these companies.
+
+Especially
+
+[00:24:09] Ullas Naik: the ones that have become really big. And I've also seen it, by the way, with companies that have not become big where market conditions have sort of gotten in the way for a period of time.
+
+[00:24:20] Gopi Rangan: Is there an example?
+
+[00:24:21] Ullas Naik: Well, I give you an example of an entrepreneur. She's a super capable, charismatic entrepreneur and had a strong point of view on a market in the health tech space around how that market is going to evolve. That market amazingly did evolve that way. It just took longer. Along the way we had to do a pivot. What I give her a credit for is that the pivot was fantastic. She pivoted the company actually into a market that's even bigger, that leveraged that existing set of IP that developed.
+
+Well, now the company is at the point where they're generating tens of millions in revenue. They just raised almost a hundred million dollar round recently and will be the next billion dollar company for us. So it took probably two to three extra years and more dilution as a result of that market taking longer, but the company has recovered extremely well because of the foresight and the tenacity of the founder.
+
+She was amazing.
+
+[00:25:19] Gopi Rangan: That's a great story, changing the story of the business and unleashing more potential. But it did take some time to achieve that. Are there some things that entrepreneurs can do when they meet you to make it easy for you to understand the business and form that conviction and find that X-factor?
+
+[00:25:35] Ullas Naik: It's an interesting thing. By the time they meet with us, I'm not looking for somebody who is overly polished because almost all the entrepreneurs we invest in our first time founders, almost all. Occasionally we get repeat founders and certainly we are getting more repeat founders from within our own portfolios, companies that have become successful and they're starting their next companies.
+
+Those are much easier, but the vast majority of the companies we invest in our first time founders. And most of them are not polished because this is their first rodeo and they don't know the skill sets that they have to build. In some cases, you see hunger, tenacity. In some cases, you see a deep intellectual approach to their markets and their dynamics.
+
+In some cases, you see introverted founders that are extremely product oriented, but they have such a great product vision. You have to be able to sort of look at that and put it in the context of a patchwork of different characteristics around whether that company can work or not, because sometimes a product-oriented founder needs a growth oriented founder, a business oriented founder.
+
+There's a rule in Silicon Valley that they talk about the hacker and the hustler, right? So that seems to work really well. And it actually has worked really well for us as well. And it works well for many venture firms, which is somebody takes on the business function; so that's the hustler. And the hacker is the one who takes on the technology and product.
+
+And sometimes you see that that combination of people, if they're really good, sort of a yin and yang combination, that has a lot of potential. You talked about, you mentioned DoorDash. Well, when we met Tony, Tony was the consummate business builder. You could tell. And Stanley and some of the other team members were really good at product and tech.
+
+It was very clear that they would be able to build something meaningful. Of course, at the time, nobody knew whether it would become as meaningful as it has become today. I mean, now DoorDash is a 50, 60 billion dollar company. We didn't know it would become that big, but we knew we could build a successful business.
+
+Of course, we'd have to work with them in our case, much less so than some of the other investors who were, who led the round, but it, this, this applies to other companies we're involved with where we're very deeply involved in the early phases of working with that founder to help them think through the dynamics of the market as they're changing, product as they're changing, bringing on new investors, making sure that you're recruiting well, all of those things we get pretty actively involved with, and that is the set of services that we are supposed to bring to bear in our role as seed investors for these companies and these founders.
+
+[00:28:13] Gopi Rangan: This is very interesting to hear you've covered so many different themes here. We could spend a few hours unpacking all of those things, but I'm very curious to hear your perspective. What needs to change in venture capital?
+
+[00:28:25] Ullas Naik: Venture capital is a very necessary ingredient when it comes to high scale company building. One of the things that we need is a quicker liquidity window for venture capitalists and their LPs so that venture capital as an asset class becomes vibrant.
+
+Then there'll be sufficient capital to keep funding innovation. If you notice recently, we've got this phenomenon of SPACs. SPACs have been around for about 25 years, but they became more involved recently because a lot of companies were sitting on the sidelines not able to go public for a variety of reasons.
+
+SPACs became a good way to take them public and create liquidity for investors as well as for employees. SPACs are certainly a good development. We are looking at SPAC for a couple of our companies. I'm trying to be as creative and unorthodox as possible. We took out one of our companies public on the Canadian Stock Exchange.
+
+We seeded the company three years ago. We took it public last year on the Canadian Stock Exchange. It's a company called Voyager Digital doing really well. The stock has just exploded. Part of the reason is they are in the digital assets, crypto space, and especially with BTC and running as it is, and the fact that Coinbase is going to go public, this is sort of a comparable to Coinbase, except it's already a public entity. So I'm trying to sort of keep an open mind to more creative, more unorthodox ways to create liquidity for our LP so that we continue to stay viable as an entity, we meaning Streamlined Ventures so that we can continue to help more founders in the future.
+
+[00:30:03] Gopi Rangan: Yeah, we need some structural changes to create liquidity. SPACs is maybe one way to do that. Maybe there are secondary offerings and other ways that we should explore. But thanks for sharing your perspectives on this. This is definitely important. I want to switch to the final section of the podcast. Is there a non-profit organization or a community activity you're involved in?
+
+[00:30:24] Ullas Naik: Yeah, my wife and I have been thinking very actively about how best to engage in a variety of things related to the community. We are in the process of setting up a small foundation, and it's through the foundation that we're going to spend a fair amount of time looking at causes aimed at children facing difficulty, which as you can imagine from my childhood resonates well for me.
+
+Education being another thing, because for me again, when I came to the US, it was a college in the United States that gave me a scholarship to come here. Otherwise I would never have been able to come here. So creating sort of scholarships for people in need, and then certainly with some women related areas as well of development, which we're working on as well.
+
+So I think those are the initial areas that we're going to be spending some time looking at and creating the right avenues for our involvement and engagement. And then as time goes by, I'm sure we'll become a lot more sophisticated about other areas as well.
+
+[00:31:21] Gopi Rangan: I'm definitely interested in staying in the loop on that.
+
+I want to learn more about how you build the foundation. Well, thank you so much for spending the time with me today. It was great to hear your stories. Thanks a lot for sharing your story. Oh,
+
+[00:31:32] Ullas Naik: you're welcome. Thank you for having me. I really appreciate it. And you've done a great job being a fantastic investigator and interrogator.
+
+[00:31:41] Gopi Rangan: I hope it wasn't an interrogation. I'm
+
+[00:31:43] Ullas Naik: joking.
+
+[00:31:44] Gopi Rangan: It's just the curiosity. You really have a lot of stories. I think we could easily spend another hour.
+
+I appreciate that. Thank you, Gopi.
+
+Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs.
+
+Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.

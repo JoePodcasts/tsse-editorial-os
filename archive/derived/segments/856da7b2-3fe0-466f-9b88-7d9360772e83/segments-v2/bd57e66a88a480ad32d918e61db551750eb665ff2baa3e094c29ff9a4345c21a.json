@@ -1,0 +1,2394 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 485,
+      "excerpt": "[00:00:00] Sudarshan Sridharan : As a founder looking to raise your first round, really what you need to do is answer a few questions around, like, are you competent, right? Like, can you actually-- have you done whatever you're trying to do before or have you-- like, do you have the ability to hire the right team, right? So demonstrate competency, demonstrate, like, being in the right networks or right talent flows to be able to hire the best people to build and sell the product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 0,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 755,
+      "excerpt": "[00:00:25] And then it's like, of course, like, you need to be high integrity. Like, people need to be able to trust everything you're saying. But then from there, it's like, what if everything goes right? If this is, like, completely successful, how big will this be?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 487,
+      "timestamps": [
+        {
+          "offset": 487,
+          "raw": "[00:00:25]",
+          "seconds": 25
+        }
+      ]
+    },
+    {
+      "end": 828,
+      "excerpt": "[00:00:41] Gopi Rangan: You are listening to the Sure Shot Entrepreneur",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 757,
+      "timestamps": [
+        {
+          "offset": 757,
+          "raw": "[00:00:41]",
+          "seconds": 41
+        }
+      ]
+    },
+    {
+      "end": 1179,
+      "excerpt": "[00:00:47] A podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your [00:01:00] vision Welcome to the Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Sudarshan Sridharan. Sudarshan is a general partner at SF1.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 830,
+      "timestamps": [
+        {
+          "offset": 830,
+          "raw": "[00:00:47]",
+          "seconds": 47
+        },
+        {
+          "offset": 1017,
+          "raw": "[00:01:00]",
+          "seconds": 60
+        }
+      ]
+    },
+    {
+      "end": 1503,
+      "excerpt": "[00:01:13] SF1 is a venture capital firm based out of Silicon Valley. Sudarshan is based here in Silicon Valley, but he's originally not from here. He's from the East Coast of the US. We're gonna learn more about his journey. He got into the investing world early in his career, and he has also been a founder a few times.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1181,
+      "timestamps": [
+        {
+          "offset": 1181,
+          "raw": "[00:01:13]",
+          "seconds": 73
+        }
+      ]
+    },
+    {
+      "end": 1760,
+      "excerpt": "[00:01:33] He's very, very familiar with the startup ecosystem in multiple different areas. We're gonna learn more about his experiences, and we will certainly talk about his investment focus today at SF1. Sudarshan, welcome to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1505,
+      "timestamps": [
+        {
+          "offset": 1505,
+          "raw": "[00:01:33]",
+          "seconds": 93
+        }
+      ]
+    },
+    {
+      "end": 1835,
+      "excerpt": "[00:01:48] Sudarshan Sridharan : Thank you, Gopi. That was a great intro.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 1762,
+      "timestamps": [
+        {
+          "offset": 1762,
+          "raw": "[00:01:48]",
+          "seconds": 108
+        }
+      ]
+    },
+    {
+      "end": 1882,
+      "excerpt": "[00:01:51] Gopi Rangan: Let's talk about you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1837,
+      "timestamps": [
+        {
+          "offset": 1837,
+          "raw": "[00:01:51]",
+          "seconds": 111
+        }
+      ]
+    },
+    {
+      "end": 1997,
+      "excerpt": "[00:01:52] Let's start with where you grew up and before you came to Silicon Valley. You were in Virginia, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1884,
+      "timestamps": [
+        {
+          "offset": 1884,
+          "raw": "[00:01:52]",
+          "seconds": 112
+        }
+      ]
+    },
+    {
+      "end": 2241,
+      "excerpt": "[00:01:59] Sudarshan Sridharan : Yeah. [00:02:00] I grew up in Richmond, Virginia, till I was 15. Like NPR was the thing you'd listen to growing up, so I was always just listening to the radio, very interested in what's going on in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 1999,
+      "timestamps": [
+        {
+          "offset": 1999,
+          "raw": "[00:01:59]",
+          "seconds": 119
+        },
+        {
+          "offset": 2038,
+          "raw": "[00:02:00]",
+          "seconds": 120
+        }
+      ]
+    },
+    {
+      "end": 2594,
+      "excerpt": "[00:02:10] I think when \"The Big Short\" came out, that was like my big break because that was like the instantiation of how to take what's going on in the world and like actually make money on it. It just seemed like conceptually very interesting to me to be investing. And so I just got very deep into stocks and trading and just all sorts of assets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2243,
+      "timestamps": [
+        {
+          "offset": 2243,
+          "raw": "[00:02:10]",
+          "seconds": 130
+        }
+      ]
+    },
+    {
+      "end": 2879,
+      "excerpt": "[00:02:30] Growing up CDOs and CDSs were like my big white whale. I didn't know that they were back in vogue until 2020 when Bill Ackman turned $27 million into like $3 billion or something betting on COVID. But yeah, like I had a finance blog I would write really bad stock tips on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2596,
+      "timestamps": [
+        {
+          "offset": 2596,
+          "raw": "[00:02:30]",
+          "seconds": 150
+        }
+      ]
+    },
+    {
+      "end": 3264,
+      "excerpt": "[00:02:49] I did have an article on why people should buy Bitcoin, so that was in 2014 when I was like 14 years old. So that will probably have made up for all the other bad, bad trading ideas on [00:03:00] there. But other than that, I mean, yeah, like I just listened to the news. Then I just built my stock portfolios and tried to trade and tried to understand what was happening.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2881,
+      "timestamps": [
+        {
+          "offset": 2881,
+          "raw": "[00:02:49]",
+          "seconds": 169
+        },
+        {
+          "offset": 3077,
+          "raw": "[00:03:00]",
+          "seconds": 180
+        }
+      ]
+    },
+    {
+      "end": 3743,
+      "excerpt": "[00:03:09] I did not actually understand what was happening. It was just investing into a bull market that lasted for 10 years probably just makes any 10-year-old feel like a genius. And then when I was 15, I moved to Charlotte, North Carolina, and that was like my sophomore year of high school. And so then I got a little bit more freedom and I was trying to figure out like what to do, and that's when I realized \" oh, like you don't just have to be investing in companies.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3266,
+      "timestamps": [
+        {
+          "offset": 3266,
+          "raw": "[00:03:09]",
+          "seconds": 189
+        }
+      ]
+    },
+    {
+      "end": 4282,
+      "excerpt": "[00:03:33] Like they don't just pop out of thin air, like you can actually make them too. And so, I had a e-sports organization that I started. We had YouTube channel and sponsorships and did competitive tournaments for a bunch of like video games like Call of Duty primarily. And then I like started-- reading about like what the UN was doing for financial literacy. And I was like, oh, that combines everything I'm interested in, both like the actual like investing side and like helping people just make their [00:04:00] lives better.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3745,
+      "timestamps": [
+        {
+          "offset": 3745,
+          "raw": "[00:03:33]",
+          "seconds": 213
+        },
+        {
+          "offset": 4258,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 4661,
+      "excerpt": "[00:04:00] And so I started like a financial literacy app called Investor with no O. That did not go anywhere at all, but just gave me something to do. I got to meet a lot of people got on Twitter, started just- trying to meet other founders and came across YC Startup School on YouTube randomly. That's like sort of how I just fell completely backwards into startups and tech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4284,
+      "timestamps": [
+        {
+          "offset": 4284,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 4991,
+      "excerpt": "[00:04:24] Gopi Rangan: Okay. You, you've given a lot here- Okay ... but let me parse this out. So very early in your life, you got into investing, and you were researching public company stocks at the age of 10, 12, and you shared those tips with the world, and by 14 you went into crypto. You started researching Bitcoin, and-",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4663,
+      "timestamps": [
+        {
+          "offset": 4663,
+          "raw": "[00:04:24]",
+          "seconds": 264
+        }
+      ]
+    },
+    {
+      "end": 5029,
+      "excerpt": "[00:04:47] Sudarshan Sridharan : Yes",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 4993,
+      "timestamps": [
+        {
+          "offset": 4993,
+          "raw": "[00:04:47]",
+          "seconds": 287
+        }
+      ]
+    },
+    {
+      "end": 5480,
+      "excerpt": "[00:04:47] Gopi Rangan: you're now going to answer the question, are you Satoshi Nakamoto or do you know him? Maybe you do. No. And sometime after that, you went to college, and you've never really had a real job. Every job [00:05:00] you've had is you created yourself. You created companies. You became a founder multiple times. You tried to solve problems, interesting problems, and that's your professional career starting it from the age of 10.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5031,
+      "timestamps": [
+        {
+          "offset": 5031,
+          "raw": "[00:04:47]",
+          "seconds": 287
+        },
+        {
+          "offset": 5255,
+          "raw": "[00:05:00]",
+          "seconds": 300
+        }
+      ]
+    },
+    {
+      "end": 5507,
+      "excerpt": "[00:05:12] Is that right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5482,
+      "timestamps": [
+        {
+          "offset": 5482,
+          "raw": "[00:05:12]",
+          "seconds": 312
+        }
+      ]
+    },
+    {
+      "end": 5829,
+      "excerpt": "[00:05:13] Sudarshan Sridharan : Yeah, that, that is mostly correct. I do not have any crypto exposure anymore. I had to sell that all down at some point to actually pay for life because I was not working a job and just making my own jobs. But yeah like the only real job, if you will, that I had was like an internship.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 5509,
+      "timestamps": [
+        {
+          "offset": 5509,
+          "raw": "[00:05:13]",
+          "seconds": 313
+        }
+      ]
+    },
+    {
+      "end": 6252,
+      "excerpt": "[00:05:31] I had one when I was 14. There was a wealth management firm in Richmond, Virginia, where I was living at the time. And I spent a couple months there learning like how to actually trade stocks. The guy who ran that wealth management firm was, like, reading my blog and thought since I was local in Richmond, he would bring me on and teach me a little bit. So that was helpful. I got to learn a little bit there.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5831,
+      "timestamps": [
+        {
+          "offset": 5831,
+          "raw": "[00:05:31]",
+          "seconds": 331
+        }
+      ]
+    },
+    {
+      "end": 6594,
+      "excerpt": "[00:05:53] And then the other one was I interned at a VC firm in Charlotte that was just getting off the ground [00:06:00] called Peak XV Capital. I don't think they exist anymore, but they were really nice, and I got connected through Twitter to them. And they were a fintech and medtech firm. At the time, fintech was all just blockchain.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6254,
+      "timestamps": [
+        {
+          "offset": 6254,
+          "raw": "[00:05:53]",
+          "seconds": 353
+        },
+        {
+          "offset": 6366,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 6694,
+      "excerpt": "[00:06:12] Again, so I was like 2017- And how old were you at the time? Sorry? I was 16. I was 16.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6596,
+      "timestamps": [
+        {
+          "offset": 6596,
+          "raw": "[00:06:12]",
+          "seconds": 372
+        }
+      ]
+    },
+    {
+      "end": 6764,
+      "excerpt": "[00:06:16] Gopi Rangan: You were 16, and you got a job at a VC firm?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6696,
+      "timestamps": [
+        {
+          "offset": 6696,
+          "raw": "[00:06:16]",
+          "seconds": 376
+        }
+      ]
+    },
+    {
+      "end": 7267,
+      "excerpt": "[00:06:19] Sudarshan Sridharan : Yes. It was in Charlotte, North Carolina. So it was not a very competitive market to get a job at a VC firm then. Yeah, those would be like the two jobs I have ever had. Neither of them lasted very long. But I was able to parlay that into consulting company to write white papers for crypto ICOs, and you know, when the crypto market crashed in 2018, that came crashing down. So then I went to Clemson in South Carolina 'cause I didn't realize that markets had cycles.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 6766,
+      "timestamps": [
+        {
+          "offset": 6766,
+          "raw": "[00:06:19]",
+          "seconds": 379
+        }
+      ]
+    },
+    {
+      "end": 7702,
+      "excerpt": "[00:06:45] I just thought everything goes up forever, and I would just not go to college, and life would be good. And so then I applied to five schools, and then I paid the deposits for all of them. But I walked onto campus at Clemson and I was like, \" if I'm not gonna go to Stanford and I'm never gonna be a founder, I might as well [00:07:00] just, go somewhere where the people are nice and I can be a car salesman or something.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7269,
+      "timestamps": [
+        {
+          "offset": 7269,
+          "raw": "[00:06:45]",
+          "seconds": 405
+        },
+        {
+          "offset": 7604,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 8136,
+      "excerpt": "[00:07:04] But then, yeah I became a party promoter in college. That was interesting, going from no friends to few friends to everyone's friend. And that was mostly just 'cause I figured \"Okay, if I'm non-technical, I probably need to learn to sell and I need to learn some social skills.\" So I figured I would do a year at Clemson, just basically develop the skills I needed to then hopefully meet a technical co-founder and start-",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7704,
+      "timestamps": [
+        {
+          "offset": 7704,
+          "raw": "[00:07:04]",
+          "seconds": 424
+        }
+      ]
+    },
+    {
+      "end": 8181,
+      "excerpt": "[00:07:26] Gopi Rangan: What did you study?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8138,
+      "timestamps": [
+        {
+          "offset": 8138,
+          "raw": "[00:07:26]",
+          "seconds": 446
+        }
+      ]
+    },
+    {
+      "end": 8466,
+      "excerpt": "[00:07:28] Sudarshan Sridharan : I went to school planning to drop out primarily, but it was, like, business management and economics, and I didn't even have a chance to declare my actual, like, specialty or major or anything because I dropped out before any of that became relevant.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 8183,
+      "timestamps": [
+        {
+          "offset": 8183,
+          "raw": "[00:07:28]",
+          "seconds": 448
+        }
+      ]
+    },
+    {
+      "end": 8864,
+      "excerpt": "[00:07:44] But yeah, I, I went to Clemson primarily to just hopefully meet a co-founder, develop social skills, and just wait for my big break. And that worked well. I, at Clemson, was making money because the frats would pay me to promote their parties and put on parties. And so I just did a lot of that. My [00:08:00] freshman year, sophomore year, I was like, \"Oh, I want to go into politics.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8468,
+      "timestamps": [
+        {
+          "offset": 8468,
+          "raw": "[00:07:44]",
+          "seconds": 464
+        },
+        {
+          "offset": 8778,
+          "raw": "[00:08:00]",
+          "seconds": 480
+        }
+      ]
+    },
+    {
+      "end": 9109,
+      "excerpt": "[00:08:03] I guess if the tech thing isn't gonna work and I'm not gonna drop out, I'll start student politics.\" And there I met this guy who was running for mayor, and he was like, \"Oh, can you promote me?\" And I was like, \"Are you gonna win?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8866,
+      "timestamps": [
+        {
+          "offset": 8866,
+          "raw": "[00:08:03]",
+          "seconds": 483
+        }
+      ]
+    },
+    {
+      "end": 9440,
+      "excerpt": "[00:08:15] He's like, \"Yes, I'm running unopposed.\" I'm like, \"This sounds great.\" And so I was like, \"Yeah just give me some low-level city council gig if this all works out.\" And so he um, won, and then he put me on the city economic development council, which would have been a completely pointless gig if COVID didn't happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9111,
+      "timestamps": [
+        {
+          "offset": 9111,
+          "raw": "[00:08:15]",
+          "seconds": 495
+        }
+      ]
+    },
+    {
+      "end": 9536,
+      "excerpt": "[00:08:35] So this was 2019, and then 2020 last semester of my sophomore year, COVID happened.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9442,
+      "timestamps": [
+        {
+          "offset": 9442,
+          "raw": "[00:08:35]",
+          "seconds": 515
+        }
+      ]
+    },
+    {
+      "end": 9626,
+      "excerpt": "[00:08:40] Gopi Rangan: Did, did you successfully drop out or did you fail and graduate?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9538,
+      "timestamps": [
+        {
+          "offset": 9538,
+          "raw": "[00:08:40]",
+          "seconds": 520
+        }
+      ]
+    },
+    {
+      "end": 9739,
+      "excerpt": "[00:08:44] Sudarshan Sridharan : So end of my sophomore year, so end of my second year- Okay ... COVID happens.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 9628,
+      "timestamps": [
+        {
+          "offset": 9628,
+          "raw": "[00:08:44]",
+          "seconds": 524
+        }
+      ]
+    },
+    {
+      "end": 9794,
+      "excerpt": "[00:08:48] Gopi Rangan: You're still in school. Okay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9741,
+      "timestamps": [
+        {
+          "offset": 9741,
+          "raw": "[00:08:48]",
+          "seconds": 528
+        }
+      ]
+    },
+    {
+      "end": 10242,
+      "excerpt": "[00:08:48] Sudarshan Sridharan : Yes, I'm still in school. And so, like I was in Daytona for spring break, and I just saw everything was shutting down, and I'd just flown back from New York 'cause I was actually interviewing for a [00:09:00] job at that time. And I'd had a startup. I'd raised 50K for 25% of my company in 2018 that was trying to put a Twitch in virtual reality and then let people bet on what would happen in those live streams.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 9796,
+      "timestamps": [
+        {
+          "offset": 9796,
+          "raw": "[00:08:48]",
+          "seconds": 528
+        },
+        {
+          "offset": 10027,
+          "raw": "[00:09:00]",
+          "seconds": 540
+        }
+      ]
+    },
+    {
+      "end": 10650,
+      "excerpt": "[00:09:14] The problem with that, once again, VR technology is just very underdeveloped, and we got things built. I had very supportive investors who were very helpful and nice, and it just I didn't know what I was doing at all. So I was like, at that point, I was, like, interviewing for jobs, and I'd flown from New York, where COVID was bad, to Daytona for spring break, where COVID was also really bad.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10244,
+      "timestamps": [
+        {
+          "offset": 10244,
+          "raw": "[00:09:14]",
+          "seconds": 554
+        }
+      ]
+    },
+    {
+      "end": 11315,
+      "excerpt": "[00:09:35] So I emailed the town and I'm like, \"We should really shut down.\" And so they, of course national mandates, they shut down, and then all the businesses went to $0 of revenue immediately. And I was like, \"Well, how do you solve this?\" And so they all came to me. They're like, \"Do something.\" They would've figured it out regardless, but I was like, \" I'm here. I have this leverage point with all these people. Can I figure something out\"? And so I started building a marketplace to sell gift [00:10:00] cards online for the businesses. And it was like, we didn't take any payment transaction fees or anything like that. It was just fully bootstrapped.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10652,
+      "timestamps": [
+        {
+          "offset": 10652,
+          "raw": "[00:09:35]",
+          "seconds": 575
+        },
+        {
+          "offset": 11156,
+          "raw": "[00:10:00]",
+          "seconds": 600
+        }
+      ]
+    },
+    {
+      "end": 11664,
+      "excerpt": "[00:10:06] But because I'm non-technical, I built it on Squarespace, and then had a Stripe integration. And Stripe, of course gave us a merchant account and waived all the transaction fees, and it was great. And very quickly it scaled to 1,800 businesses across all the states in the US, and within like, five weeks it was doing $2 million of GMV.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11317,
+      "timestamps": [
+        {
+          "offset": 11317,
+          "raw": "[00:10:06]",
+          "seconds": 606
+        }
+      ]
+    },
+    {
+      "end": 12149,
+      "excerpt": "[00:10:24] We'd helped a lot of businesses and the entire football team was promoting it, and Clemson football. And so it was just like, I got to see that whole thing, and I was like, \"okay, well, if I ever do find a CTO, I can definitely scale and do the sales stuff.\" The gift card thing I wanted to convert to QR code online QR code menus, but I just couldn't find anyone to build it. And two the government shut us down because you can't just sell unregistered gift cards online.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11666,
+      "timestamps": [
+        {
+          "offset": 11666,
+          "raw": "[00:10:24]",
+          "seconds": 624
+        }
+      ]
+    },
+    {
+      "end": 12476,
+      "excerpt": "[00:10:48] That is money laundering and wire fraud and many other things that you're at risk for without doing KYC and AML. So I shut that down. But we'd helped a lot of people, and that was, like, all the confidence I [00:11:00] really needed to be like, okay, cool. That was fun and great. I really need to get out of here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12151,
+      "timestamps": [
+        {
+          "offset": 12151,
+          "raw": "[00:10:48]",
+          "seconds": 648
+        },
+        {
+          "offset": 12370,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 13027,
+      "excerpt": "[00:11:05] So I moved back home to Richmond for a few months. Initially when I moved back home to quarantine in Richmond, Virginia, I was just hanging out online with my friends like everybody else was. And they all started hosting dinner parties and they would send DoorDash gift cards and they'd be like, \"DoorDash yourself food. It's a dinner party on Zoom on me.\" Okay, this is clearly, this calls for a Clemson University party promoter. And so I was like, \"Okay, we can start a community for Gen Z founders who just wanna meet other founders.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12478,
+      "timestamps": [
+        {
+          "offset": 12478,
+          "raw": "[00:11:05]",
+          "seconds": 665
+        }
+      ]
+    },
+    {
+      "end": 13305,
+      "excerpt": "[00:11:37] To me it was pretty clear. Look nobody wants to be a founder in the throes of effectively another recession. Like the only people who are gonna do this are people who are actually technical and have always been planning to do this, especially if they're that young.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13029,
+      "timestamps": [
+        {
+          "offset": 13029,
+          "raw": "[00:11:37]",
+          "seconds": 697
+        }
+      ]
+    },
+    {
+      "end": 13415,
+      "excerpt": "[00:11:48] And that was, yeah, 2020 was the last time being a founder was, like, a risky thing, I would say.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13307,
+      "timestamps": [
+        {
+          "offset": 13307,
+          "raw": "[00:11:48]",
+          "seconds": 708
+        }
+      ]
+    },
+    {
+      "end": 13528,
+      "excerpt": "[00:11:54] Gopi Rangan: From there, you didn't go back to school to finish college, you moved to San Francisco.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13417,
+      "timestamps": [
+        {
+          "offset": 13417,
+          "raw": "[00:11:54]",
+          "seconds": 714
+        }
+      ]
+    },
+    {
+      "end": 13693,
+      "excerpt": "[00:11:59] Sudarshan Sridharan : [00:12:00] Yes, that comes through this community. So I started this community in July 2020, and that basically, grew like a weed.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 13530,
+      "timestamps": [
+        {
+          "offset": 13530,
+          "raw": "[00:11:59]",
+          "seconds": 719
+        },
+        {
+          "offset": 13563,
+          "raw": "[00:12:00]",
+          "seconds": 720
+        }
+      ]
+    },
+    {
+      "end": 14128,
+      "excerpt": "[00:12:07] I had a friend I knew in SF with a big Twitter following tweet about it, and then a bunch of people joined overnight. Then the VCs wanted access immediately to this collection of talent and deal flow. And so then I just started hosting fireside chats with them. I'm like: Great, if you want access you can do a fireside chat with me and I'll introduce you to five people that you should give money to or work with or hire.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13695,
+      "timestamps": [
+        {
+          "offset": 13695,
+          "raw": "[00:12:07]",
+          "seconds": 727
+        }
+      ]
+    },
+    {
+      "end": 14501,
+      "excerpt": "[00:12:27] And that's basically how I got started. I just got started by just connecting VCs with founders, and I got very lucky that the community grew. And I'm personable, so people, people liked me. And also I was big on Clubhouse 'cause there was nothing to do. I had no job. I had no company. I'd just turned 20 years old, so I was just on the internet all day long.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14130,
+      "timestamps": [
+        {
+          "offset": 14130,
+          "raw": "[00:12:27]",
+          "seconds": 747
+        }
+      ]
+    },
+    {
+      "end": 14943,
+      "excerpt": "[00:12:46] And that turned into a few people ask me, \"Oh, like I'm actually gonna start a company. What should I build? Who should I build with? Can you help me get funded?\" And I hadn't really gone through any of that, but I'd seen enough of it and I thought \"Yeah, like I, I can probably help you.\" And so I just [00:13:00] started helping these people online while I'm still sitting in Richmond, just like: Oh, yeah, this VC reached out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14503,
+      "timestamps": [
+        {
+          "offset": 14503,
+          "raw": "[00:12:46]",
+          "seconds": 766
+        },
+        {
+          "offset": 14818,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 15260,
+      "excerpt": "[00:13:04] I just did a fireside chat with them. You should meet him or her.\" And, I just started helping get people funded. And then one of my friends was like, \"Hey, you should start a company.\" And I was like: you are correct. This is my chance. What am I doing? So I was, like, mulling through a bunch of ideas.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14945,
+      "timestamps": [
+        {
+          "offset": 14945,
+          "raw": "[00:13:04]",
+          "seconds": 784
+        }
+      ]
+    },
+    {
+      "end": 15659,
+      "excerpt": "[00:13:20] We'd all just gotten GPT-3 beta access, so I really wanted to do something in AI. But being as deeply- I'm not like this anymore, but at the time I was so non-technical. I'm like, \"Oh, all AI is AI. Great, we'll use AI in the real world.\" And I met a guy who was like, \"Oh, we use neural networks and computer vision models to predict where fires will start and where they will spread.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15262,
+      "timestamps": [
+        {
+          "offset": 15262,
+          "raw": "[00:13:20]",
+          "seconds": 800
+        }
+      ]
+    },
+    {
+      "end": 16104,
+      "excerpt": "[00:13:42] And I'm like, \"Oh, this uses GPT-3. This is great.\" It did not in any way. But that was like the genesis for my first real company, Fion which stood for fire manipulation. And you know, this guy just messaged me through this community and was like, \"Hey I have this model.\" And I'm like, \"Ooh, we can use this machine learning [00:14:00] platform to then basically set like bunch of sensors and then put firefighting drones on them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15661,
+      "timestamps": [
+        {
+          "offset": 15661,
+          "raw": "[00:13:42]",
+          "seconds": 822
+        },
+        {
+          "offset": 15999,
+          "raw": "[00:14:00]",
+          "seconds": 840
+        }
+      ]
+    },
+    {
+      "end": 16529,
+      "excerpt": "[00:14:05] And so as soon as the sensor detects where a fire starts, we can launch the drones to put out the fire.\" And so I tweeted about that, and very quickly a lot of VCs were very interested in funding that. And I built a whole team off it. I had my CTO I had a guy who was like, \"I can do sales,\" and then he actually went and got a letter of intent with the Colorado Boulder County Sheriff's Department in five days.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16106,
+      "timestamps": [
+        {
+          "offset": 16106,
+          "raw": "[00:14:05]",
+          "seconds": 845
+        }
+      ]
+    },
+    {
+      "end": 17272,
+      "excerpt": "[00:14:29] And it was like a whole thing, and I was like, \"Okay, great. There's clearly a real problem and people need to solve it. We're gonna stop wildfires.\" That was September 1st, 2020, and then September 9th or 10th, 2020, the largest wildfire in California history happened. And I woke up and I just see on Twitter the sky is orange, and I have hundreds of people messaging me like, \"You need to move to SF. By that point, Hacker House had started out of this community. In seven weeks they'd already set up a Hacker House in Nob Hill in SF. So I call my best friend from Clemson, and I'm like: \"Come pick me up.\" So he drove five [00:15:00] hours, picked me up, we went to the airport, and we flew to SF, and that is-- I dropped out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16531,
+      "timestamps": [
+        {
+          "offset": 16531,
+          "raw": "[00:14:29]",
+          "seconds": 869
+        },
+        {
+          "offset": 17169,
+          "raw": "[00:15:00]",
+          "seconds": 900
+        }
+      ]
+    },
+    {
+      "end": 18045,
+      "excerpt": "[00:15:04] I had not much money at the time. I only had $2,000 in my bank account. And that was like, one month's rent was 1,800, so I was like, \"Okay, first order of business, I need to raise something, anything.\" And a guy I'd met a long time ago on Twitter saw all of this and reached out and was like, \"Hey, hearing good things about your machine learning model, and your co-founders are really crack technical guys, which is what you were missing. If you can stop wildfires, that'd be pretty important. I'll give you 25K.\" And I'm like, \"Great.\" So first company was 50K for 25%. This one was 25K at eight mil, and I was like, \"This is great, a significant step up.\" And so that gave me the money I needed to pay for team's rent, move them all into the Hacker House.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17274,
+      "timestamps": [
+        {
+          "offset": 17274,
+          "raw": "[00:15:04]",
+          "seconds": 904
+        }
+      ]
+    },
+    {
+      "end": 18421,
+      "excerpt": "[00:15:47] I met my girlfriend a few days after I moved here. She messaged me on Twitter as well. And then, she was like, \"You need to make money.\" And I'm like, \"Oh, yeah, that is the point of a business, right.\" And so I was trying to [00:16:00] figure out how do you make money, and we randomly got inbounded by AXA, the largest parametric insurance company in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18047,
+      "timestamps": [
+        {
+          "offset": 18047,
+          "raw": "[00:15:47]",
+          "seconds": 947
+        },
+        {
+          "offset": 18284,
+          "raw": "[00:16:00]",
+          "seconds": 960
+        }
+      ]
+    },
+    {
+      "end": 18784,
+      "excerpt": "[00:16:06] And AXA was like, \"Hi, if your models can use satellite data to verify in 12 to 24 hours the damage that was caused by a wildfire, that could actually be really helpful for us.\" And so I was like, \"Well, yeah, we use publicly available satellite data. It's not the best fidelity, but 12 to 24 hours is enough refresh time to actually make this work.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18423,
+      "timestamps": [
+        {
+          "offset": 18423,
+          "raw": "[00:16:06]",
+          "seconds": 966
+        }
+      ]
+    },
+    {
+      "end": 19621,
+      "excerpt": "[00:16:27] And so we signed a $2 million LOI with them contingent on can you actually build a platform or not? And so then with that and Boulder County, I was like, \"Look, government sales sucks, but now I've got a commercial aspect as well.\" And Justin Kan, the founder of Twitch, had done a fireside chat with me and my community, and he had hired a few people from it, and he was like, \"Look, I think you're great. I don't really know if this will work, but I'll give you some money.\" So he gave me $60,000. And then because Justin invested, a few other people invested. John Coogan at TBPN was, at the time, founder of Soylent. He [00:17:00] was a very early supporter. And then because John invested, he introduced me to a bunch of other people, and then the people I was living with in the house introduced me to their investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18786,
+      "timestamps": [
+        {
+          "offset": 18786,
+          "raw": "[00:16:27]",
+          "seconds": 987
+        },
+        {
+          "offset": 19421,
+          "raw": "[00:17:00]",
+          "seconds": 1020
+        }
+      ]
+    },
+    {
+      "end": 19951,
+      "excerpt": "[00:17:09] One way or another raised $650,000 for 6% dilution. There was a really big multi-stage firm that had offered one at 10, and I just thought giving up 10% of my trillion-dollar company was just unacceptable. What I've learned since is that you should absolutely always take the multi-stage firm if they offer you money.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19623,
+      "timestamps": [
+        {
+          "offset": 19623,
+          "raw": "[00:17:09]",
+          "seconds": 1029
+        }
+      ]
+    },
+    {
+      "end": 20353,
+      "excerpt": "[00:17:29] There is no question about it. Would've been dramatically different on the outcome. But yeah, shortly after that, I moved out of the hacker house and just with my girlfriend and my team, and we got to building. I had some health issues, and so the team left, and then it was just me and my girlfriend in our house, and I had no team, and also I didn't really know what to do with the tech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19953,
+      "timestamps": [
+        {
+          "offset": 19953,
+          "raw": "[00:17:29]",
+          "seconds": 1049
+        }
+      ]
+    },
+    {
+      "end": 20955,
+      "excerpt": "[00:17:52] And this takes me to June, July of 2021 And I was trying to figure out, like, how to actually salvage all this. And one of my [00:18:00] investors, Alex was like, \"Hey, dude, you're tech. I'm a ML guy. I know how to do this, and I really-- I've been affected by the wildfires. I know how to utilize this. If you can just build a team around this I'll join as CTO.\" And so then, he joined as CTO and got to work on actually proving, hey, these models work. And at the same time, the San Mateo congressman reached out for whatever reason, was like, \"Oh, I hear you're building wildfire tech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20355,
+      "timestamps": [
+        {
+          "offset": 20355,
+          "raw": "[00:17:52]",
+          "seconds": 1072
+        },
+        {
+          "offset": 20492,
+          "raw": "[00:18:00]",
+          "seconds": 1080
+        }
+      ]
+    },
+    {
+      "end": 21593,
+      "excerpt": "[00:18:24] We're hosting a panel for wildfire tech founders.\" And it was just me and two other companies. And then through that, a lobbyist who had previously run the Air Force's SBIR program, which is the Small Business Innovation Research program reached out and was like, \"Hey I like what you're working on. I think there's actual real utility here for the government. I'll join.\" And so, he just joined part-time, but then with him, other people reached out, like my guy who actually designed the whole product, like my head of product reached out through that, and then we had an Air Force general, and that added more credibility.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20957,
+      "timestamps": [
+        {
+          "offset": 20957,
+          "raw": "[00:18:24]",
+          "seconds": 1104
+        }
+      ]
+    },
+    {
+      "end": 21937,
+      "excerpt": "[00:18:57] And then he, the Air Force general knew a former [00:19:00] hotshot firefighter who was consulting with all these tech companies. And so from like nothing, I had a CTO, I had like sort of the go-to-market, I had product, and I had all the distribution we needed. And so then it was just like, great, like what do you do from there?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21595,
+      "timestamps": [
+        {
+          "offset": 21595,
+          "raw": "[00:18:57]",
+          "seconds": 1137
+        },
+        {
+          "offset": 21655,
+          "raw": "[00:19:00]",
+          "seconds": 1140
+        }
+      ]
+    },
+    {
+      "end": 22667,
+      "excerpt": "[00:19:15] And you can't really afford to pay any of these people, so I had to go raise my seed round. And that was really difficult in a time where all my friends from this community that I had helped get funded or people I'd like known for five, six years at that point, they were all raising 10, 20, 50, $100 million for NFT crypto art or whatever, and I was like, \"Are you kidding me?\" This is so important, I should be able to do it. It took me three months. But really, that was like probably the most critical, crucial raise I ever did because it taught me like, what is the actual business here? What is the issues people have? Like, why aren't, in a time of like free money, why aren't investors seeing the opportunity?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21939,
+      "timestamps": [
+        {
+          "offset": 21939,
+          "raw": "[00:19:15]",
+          "seconds": 1155
+        }
+      ]
+    },
+    {
+      "end": 23006,
+      "excerpt": "[00:19:52] And it's I mean, they ended up being correct, but really, it was like the market size is not there, right? Like selling to governments, like the government budget, they only had 14 [00:20:00] million allocated federally for software, right? And then on the hardware side, it's a very long, like multi-year procurement process.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22669,
+      "timestamps": [
+        {
+          "offset": 22669,
+          "raw": "[00:19:52]",
+          "seconds": 1192
+        },
+        {
+          "offset": 22861,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 23327,
+      "excerpt": "[00:20:07] The other two companies that did that panel with me, with like the congressman, they're still around, and one of them is doing really, really well, to their credit. But it's been six years and they are still like getting off the ground, right? And so I think like most people didn't want to sign up for that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23008,
+      "timestamps": [
+        {
+          "offset": 23008,
+          "raw": "[00:20:07]",
+          "seconds": 1207
+        }
+      ]
+    },
+    {
+      "end": 23687,
+      "excerpt": "[00:20:21] So I had to learn how do you reframe this? Where is the commercial aspect? How do you actually build a product that actually matters? And, we reoriented the company direction in a way that I thought made a lot of sense, and uh, Locky Groom led my seed round, and he is the founder of Fiscal Intelligence, but at the time he was a very hot solo GP.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23329,
+      "timestamps": [
+        {
+          "offset": 23329,
+          "raw": "[00:20:21]",
+          "seconds": 1221
+        }
+      ]
+    },
+    {
+      "end": 24342,
+      "excerpt": "[00:20:38] And so then a lot of other investors came in too, and we raised three and a half million dollars there. And I learned a lot. Like initially I went out and I wanted a $50 million valuation 'cause all my friends were raising $50 million. I was like, \" I'm better than everyone.\" I became more reasonable, like actually lowered the price and actually figured out a lot of things. And so when the round got done, I wrote a document called like Fundraising [00:21:00] 101 that I guess I don't send it out anymore, but at that point, I'd already been writing like $1,000 checks into my friends that I'd met through the community than I'd met in SF.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23689,
+      "timestamps": [
+        {
+          "offset": 23689,
+          "raw": "[00:20:38]",
+          "seconds": 1238
+        },
+        {
+          "offset": 24152,
+          "raw": "[00:21:00]",
+          "seconds": 1260
+        }
+      ]
+    },
+    {
+      "end": 24688,
+      "excerpt": "[00:21:09] And then by like the end of '21, it was already like people were looking at me more as an investor than a founder, even though I was writing such small checks because I was helping them through the entire process of starting the company and getting that first round done. And so with that guide, like it just sort of went like viral.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24344,
+      "timestamps": [
+        {
+          "offset": 24344,
+          "raw": "[00:21:09]",
+          "seconds": 1269
+        }
+      ]
+    },
+    {
+      "end": 25175,
+      "excerpt": "[00:21:24] And I was off the internet. I was like complete ghost like after I moved to the Bay and I like got everything I needed. I was like, \"I have a girlfriend, I have a company, I have a team, like got funding. I don't really need to be on the internet anymore.\" So, it was just like spread purely through word of mouth, but for the next like couple years, that document just like every month, like 20, 30, 50 founders just hitting me up like, \"Oh, dude, I read this, I read that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24690,
+      "timestamps": [
+        {
+          "offset": 24690,
+          "raw": "[00:21:24]",
+          "seconds": 1284
+        }
+      ]
+    },
+    {
+      "end": 25479,
+      "excerpt": "[00:21:46] Like it's really useful.\" And in '22 June, through the community I'd started which at, at that point was like completely defunct. But a guy from that hit me up and was like, \"Hey, I'm thinking about leaving OpenStore,\" which was a hot startup at the [00:22:00] time \"to start my own company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25177,
+      "timestamps": [
+        {
+          "offset": 25177,
+          "raw": "[00:21:46]",
+          "seconds": 1306
+        },
+        {
+          "offset": 25438,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 25854,
+      "excerpt": "[00:22:01] Do you wanna chat?\" And so we spent a few months chatting and talking about ideas and my girlfriend had built something similar at one of her previous companies. And so we started or Dara, the founder, started the company Delphi and we were just really early and were able to invest at a very like really, really low cap, effectively like incubating the company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25481,
+      "timestamps": [
+        {
+          "offset": 25481,
+          "raw": "[00:22:01]",
+          "seconds": 1321
+        }
+      ]
+    },
+    {
+      "end": 26331,
+      "excerpt": "[00:22:20] And that's when I realized Founders Fund did their pre-seed. It was a company called Delphi AI. And that's when I was like, \"Okay, clearly we are seeing so much more traction on the investing side than the founder side. I really need to pivot to something that actually makes money and I need to learn how to hire and fire people, how to build and sell a product, how to go from like selling to two-person founding teams to like the largest startups in the world.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25856,
+      "timestamps": [
+        {
+          "offset": 25856,
+          "raw": "[00:22:20]",
+          "seconds": 1340
+        }
+      ]
+    },
+    {
+      "end": 26759,
+      "excerpt": "[00:22:43] I was trying to figure out what that company would be, and I just tried to flip it on like... I heard really good advice from a founder named Brexton Pham, who is now like the global co-head of Compute at Cantor Fitzgerald or whatever. Brexton was telling me like, \"Hey, like the way you need to figure out what you wanna build is figure out who you want to [00:23:00] sell to and spend all day with as a customer.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26333,
+      "timestamps": [
+        {
+          "offset": 26333,
+          "raw": "[00:22:43]",
+          "seconds": 1363
+        },
+        {
+          "offset": 26702,
+          "raw": "[00:23:00]",
+          "seconds": 1380
+        }
+      ]
+    },
+    {
+      "end": 27050,
+      "excerpt": "[00:23:02] And so I realized I'm doing all this because I want to earn the right to be an investor. I need to be selling to founders. And that's who I meet all day anyways. And so it's like what can I build that I can sell to founders? And it was basically either recruiting or sales tech.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26761,
+      "timestamps": [
+        {
+          "offset": 26761,
+          "raw": "[00:23:02]",
+          "seconds": 1382
+        }
+      ]
+    },
+    {
+      "end": 27381,
+      "excerpt": "[00:23:17] Once again, in my life, I chose the wrong thing, and if I'd done recruiting tech, I'd be running a massive multi-billion dollar data labeling company right now. But instead, I chose sales tech because I just thought that's something where it's a process, it's very standardized. Everybody has the same outbound motion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27052,
+      "timestamps": [
+        {
+          "offset": 27052,
+          "raw": "[00:23:17]",
+          "seconds": 1397
+        }
+      ]
+    },
+    {
+      "end": 27729,
+      "excerpt": "[00:23:33] They struggle to know what tools to use, how to set up the email domains, what tools to like, use to prospect leads and how to define an ICP. If I can get really good at this, distribution is the only thing I'm really good at. If I can get good at actually productizing and operationalizing that, I'll be really invaluable to founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27383,
+      "timestamps": [
+        {
+          "offset": 27383,
+          "raw": "[00:23:33]",
+          "seconds": 1413
+        }
+      ]
+    },
+    {
+      "end": 28087,
+      "excerpt": "[00:23:48] And so I set on sales tech in 2023 March, and then for the next two months, I tried building everything out, validating it and just manually doing everything, like with spreadsheets. The idea was, [00:24:00] like ChatGPT had just come out. I knew GPT-4 was around the corner, and I was like: \"Okay, cool, like AI is gonna be able to do all this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27731,
+      "timestamps": [
+        {
+          "offset": 27731,
+          "raw": "[00:23:48]",
+          "seconds": 1428
+        },
+        {
+          "offset": 27939,
+          "raw": "[00:24:00]",
+          "seconds": 1440
+        }
+      ]
+    },
+    {
+      "end": 28783,
+      "excerpt": "[00:24:06] We just need to sell the actual output, the work that's being done instead of like software or anything else.\" And so I was trying to just tell them, \"Hey, like there is AI, but don't worry about it. Right now it's just gonna be me doing it.\" And I learned about the wonders of BPOs in the Philippines at that point in time, and I, hired a really, really great VA, his name is Dean off of Upwork. My girlfriend actually found him and sourced him and was like, \"This guy looks good.\" And so Dean and I got to work. I built the playbooks. Dean would do everything. And for a long time, the ML at a pipeline sales tech company that I pivoted to was just manual labor, and that was Dean.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28089,
+      "timestamps": [
+        {
+          "offset": 28089,
+          "raw": "[00:24:06]",
+          "seconds": 1446
+        }
+      ]
+    },
+    {
+      "end": 28940,
+      "excerpt": "[00:24:45] And so, through that whole process, I was just meeting customers through my existing portfolio, which at that point was like 30 or 40 companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28785,
+      "timestamps": [
+        {
+          "offset": 28785,
+          "raw": "[00:24:45]",
+          "seconds": 1485
+        }
+      ]
+    },
+    {
+      "end": 29279,
+      "excerpt": "[00:24:52] Gopi Rangan: Wait, hold on. And then those founders were- So you are- Sorry ... the ripe old age of 25. You've been through already so much, [00:25:00] public company stocks to starting companies, building companies, building communities, and investing in 30-plus companies already, and then you decide to start your own firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28942,
+      "timestamps": [
+        {
+          "offset": 28942,
+          "raw": "[00:24:52]",
+          "seconds": 1492
+        },
+        {
+          "offset": 29094,
+          "raw": "[00:25:00]",
+          "seconds": 1500
+        }
+      ]
+    },
+    {
+      "end": 29708,
+      "excerpt": "[00:25:11] Sudarshan Sridharan : So May of '23, I would've been 22 when I did the pivot. And then, yeah, to speed all this up. I first had to build the company. So, I like got the product built and I hired a new team and we scaled it and sold it and I was just investing in my customers. So actually running a sales tech company is amazing 'cause you have all their sales data, and so you know what's doing well and what's not.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 29281,
+      "timestamps": [
+        {
+          "offset": 29281,
+          "raw": "[00:25:11]",
+          "seconds": 1511
+        }
+      ]
+    },
+    {
+      "end": 30103,
+      "excerpt": "[00:25:34] And I got to be like the first check in a Greptile through that. And I got to invest in early rounds like Railway, BrowserBase, SuperPower, Extropic Foundation. And so by like Thanksgiving of '24, I was like, \"Okay, I sort of have done what I wanted to do. Now the next thing I need to do is introduce myself back to the world so I can actually go interview for a job at a VC firm.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29710,
+      "timestamps": [
+        {
+          "offset": 29710,
+          "raw": "[00:25:34]",
+          "seconds": 1534
+        }
+      ]
+    },
+    {
+      "end": 30422,
+      "excerpt": "[00:25:55] So I started tweeting again but I was introducing myself to the world as a founder. The idea [00:26:00] was get the company profitable and then hopefully the portfolio will have matured and everybody will know what these companies are that I just rattled off, and I'll be able to go get a job at a VC firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30105,
+      "timestamps": [
+        {
+          "offset": 30105,
+          "raw": "[00:25:55]",
+          "seconds": 1555
+        },
+        {
+          "offset": 30209,
+          "raw": "[00:26:00]",
+          "seconds": 1560
+        }
+      ]
+    },
+    {
+      "end": 30820,
+      "excerpt": "[00:26:10] And so between Thanksgiving of '24 and like end of March '25, I got the company profitable. I ran like SPVs into Mercor and Together AI and like people broadly knew my portfolio. And then the first week of April, I had five companies announce like Series A or Series B rounds from my angel portfolio, and one company even went from like pre-seed where I was the first check to unicorn.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30424,
+      "timestamps": [
+        {
+          "offset": 30424,
+          "raw": "[00:26:10]",
+          "seconds": 1570
+        }
+      ]
+    },
+    {
+      "end": 31504,
+      "excerpt": "[00:26:31] And that first week of April, all these associates started reaching out to me from all these VC firms and were like \"What is your portfolio and who are you?\" And so then, I, I was like, \"Ah, I just wanna work at one of these firms.\" And none of the GPs knew who I was. Nobody wanted to hire me. They were like, \" This isn't repeatable. You can't get big checks. How are you gonna source deals? You didn't go to Stanford. You're not in network.\" But the associates were like, \"You gotta start a firm,\" right? My friend Shahir Atsussa, who I met through Twitter, and Greg Dorman at Abstract, and this guy [00:27:00] Giovanni Cattani, who was at Hummingbird, and S Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30822,
+      "timestamps": [
+        {
+          "offset": 30822,
+          "raw": "[00:26:31]",
+          "seconds": 1591
+        },
+        {
+          "offset": 31436,
+          "raw": "[00:27:00]",
+          "seconds": 1620
+        }
+      ]
+    },
+    {
+      "end": 31850,
+      "excerpt": "[00:27:03] But those four people were like the first four people to just very aggressively be like, \"Start a firm.\" So my girlfriend made my pitch deck with me one night. We were up till 5:00 a.m., and then I went to go meet Rompin at Abstract that day. Greg had set up that meeting. And Rompin committed, and then Chad Byers at Suso, we did...",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31506,
+      "timestamps": [
+        {
+          "offset": 31506,
+          "raw": "[00:27:03]",
+          "seconds": 1623
+        }
+      ]
+    },
+    {
+      "end": 32190,
+      "excerpt": "[00:27:21] my first, first few deals I did, I didn't have a fund set up legally, and I didn't have money. So I just told the founders, I'm like: Look I will just invest alongside the round, but I will run your whole round. I'll be the first check. Let me sign for like, 400K for 3% to 5% ownership, and then I will wire you in six months.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 31852,
+      "timestamps": [
+        {
+          "offset": 31852,
+          "raw": "[00:27:21]",
+          "seconds": 1641
+        }
+      ]
+    },
+    {
+      "end": 32381,
+      "excerpt": "[00:27:37] Trust me. And so that's just what I did. The first few deals I did, and then the GPs I did those deals with invested in my fund. And I don't think you should bootstrap a VC firm.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32192,
+      "timestamps": [
+        {
+          "offset": 32192,
+          "raw": "[00:27:37]",
+          "seconds": 1657
+        }
+      ]
+    },
+    {
+      "end": 32804,
+      "excerpt": "[00:27:48] But it worked for me. I got very lucky because I was doing good deals that were, like, I was really early into, and then a VC firm would do the deal, and the GP would be like: \"Wow, you're great. Who are you?\" And at the same [00:28:00] time, my Twitter was also starting to take off a little bit. But by October 1st, I'd only raised $1.4 million, but I'd signed for $1.8 million of safes, so I was in trouble.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32383,
+      "timestamps": [
+        {
+          "offset": 32383,
+          "raw": "[00:27:48]",
+          "seconds": 1668
+        },
+        {
+          "offset": 32620,
+          "raw": "[00:28:00]",
+          "seconds": 1680
+        }
+      ]
+    },
+    {
+      "end": 33108,
+      "excerpt": "[00:28:10] General Catalyst and Lightspeed had also invested in my fund, so I had a little bit of at least, like: \"Hey I'm a real person.\" It's not just family offices in Texas or whatever. But it was just really difficult. And I only had 1.4 million, and so I sent out an LP update to everybody I met.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 32806,
+      "timestamps": [
+        {
+          "offset": 32806,
+          "raw": "[00:28:10]",
+          "seconds": 1690
+        }
+      ]
+    },
+    {
+      "end": 33448,
+      "excerpt": "[00:28:25] It was, like, 500 people at that point in the Valley that was, like, a GP, a VC, a LP, family office, whatever. And I was like, \"I wanted $25 million. I clearly cannot raise that, so I'm just gonna do 10 million. I'm just gonna write 100K checks into the best companies.\" And people were like, \"Were you not doing that before?\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33110,
+      "timestamps": [
+        {
+          "offset": 33110,
+          "raw": "[00:28:25]",
+          "seconds": 1705
+        }
+      ]
+    },
+    {
+      "end": 33835,
+      "excerpt": "[00:28:46] And like what I, what I realized was like I was keeping myself very dogmatically boxed into \"Hey, I need 3% to 5% ownership. I need to be the first check.\" I had all of these different criteria. And that October update, I'm like, \"Look, I actually did the job.\" [00:29:00] Like nobody believed I could go from writing 1K checks to 400, 500K checks, but I did that six times.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33450,
+      "timestamps": [
+        {
+          "offset": 33450,
+          "raw": "[00:28:46]",
+          "seconds": 1726
+        },
+        {
+          "offset": 33723,
+          "raw": "[00:29:00]",
+          "seconds": 1740
+        }
+      ]
+    },
+    {
+      "end": 34336,
+      "excerpt": "[00:29:05] I have 3.0% average ownership, first check in five out of the six deals. Like I have pro rata on all of them. Like I actually did what I said I was gonna do. And I was like, \"But this isn't working.\" So people reached out and LPs were like, \"Look, not clear if you can do it, but if you're actually able to invest alongside the best firms and beat them and get there before they do in these companies, then this would maybe be compelling as a fund, especially at a $10 million fund size.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 33837,
+      "timestamps": [
+        {
+          "offset": 33837,
+          "raw": "[00:29:05]",
+          "seconds": 1745
+        }
+      ]
+    },
+    {
+      "end": 34660,
+      "excerpt": "[00:29:31] And so I started like I'd been chasing down all these founders for months and months that hadn't even started their companies yet, and just after I sent that update out in October, it was like all at once, like Sailed Research, Neil they've since raised $80 million at like almost half billion dollar valuation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34338,
+      "timestamps": [
+        {
+          "offset": 34338,
+          "raw": "[00:29:31]",
+          "seconds": 1771
+        }
+      ]
+    },
+    {
+      "end": 35056,
+      "excerpt": "[00:29:49] Neil reached out to me and was like, \"Hey, Sequoia's leading my pre-seed. Do you wanna invest?\" I'm like, \"Wow, I just, I just sent out this LP update saying I was gonna do exactly [00:30:00] this. Yeah, this sounds great.\" And that was like basically the first check in a very hot inference company that will be worth many billions of dollars, like hopefully by the end of the year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 34662,
+      "timestamps": [
+        {
+          "offset": 34662,
+          "raw": "[00:29:49]",
+          "seconds": 1789
+        },
+        {
+          "offset": 34854,
+          "raw": "[00:30:00]",
+          "seconds": 1800
+        }
+      ]
+    },
+    {
+      "end": 35123,
+      "excerpt": "[00:30:10] Gopi Rangan: What do you like about being an investor?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 35058,
+      "timestamps": [
+        {
+          "offset": 35058,
+          "raw": "[00:30:10]",
+          "seconds": 1810
+        }
+      ]
+    },
+    {
+      "end": 35477,
+      "excerpt": "[00:30:12] Sudarshan Sridharan : Yeah. I mean, I like several parts. One, like actually being really early to be able to work with the founders and shape their journey and be really impactful. Because I wasn't like a successful founder myself what I realized was like, I, I'm much better at like being the enabler or like almost like the agents at CAA.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 35125,
+      "timestamps": [
+        {
+          "offset": 35125,
+          "raw": "[00:30:12]",
+          "seconds": 1812
+        }
+      ]
+    },
+    {
+      "end": 35836,
+      "excerpt": "[00:30:31] They're not the stars, they're like the guys in the background. Like sort of like that. It's like if you can't do one thing, you can at least do another thing really well. And so here it's like I have, I know everybody now. Like I have all the customers and talent and, I can put out one tweet and get all the financing or whatever else you need.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35479,
+      "timestamps": [
+        {
+          "offset": 35479,
+          "raw": "[00:30:31]",
+          "seconds": 1831
+        }
+      ]
+    },
+    {
+      "end": 36333,
+      "excerpt": "[00:30:46] I can run you around. Like I generally have seen every type of business model, and being a sales tech founder for two years was very helpful in all this. So it was like, look, like I can help shape your company. You're gonna do all the work, but like I can partner with you [00:31:00] to do that. And so that's one part I really like, just being really impactful and knowing that when things are going really well, there's nobody in the Valley better than me to pour fuel on the fire.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 35838,
+      "timestamps": [
+        {
+          "offset": 35838,
+          "raw": "[00:30:46]",
+          "seconds": 1846
+        },
+        {
+          "offset": 36123,
+          "raw": "[00:31:00]",
+          "seconds": 1860
+        }
+      ]
+    },
+    {
+      "end": 36803,
+      "excerpt": "[00:31:09] And when things are going really poorly, I tell all my founders, even if we haven't talked in three months, \"Please call me. Like I will definitely fix your problem for you.\" Every problem is like one guy in the Sudarshan network away from being solved. So it's just I will do that for you. So that was one part, and the other part is like when everything flipped was like between February to May of this year, like I had a Series A a week basically, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36335,
+      "timestamps": [
+        {
+          "offset": 36335,
+          "raw": "[00:31:09]",
+          "seconds": 1869
+        }
+      ]
+    },
+    {
+      "end": 36956,
+      "excerpt": "[00:31:33] Like I've done like 35 deals in the last 14 months, 13 months, and 11 of them are at a Series A and two more are raising their As right now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36805,
+      "timestamps": [
+        {
+          "offset": 36805,
+          "raw": "[00:31:33]",
+          "seconds": 1893
+        }
+      ]
+    },
+    {
+      "end": 37012,
+      "excerpt": "[00:31:41] So everybody got- Can you give us examples?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 36958,
+      "timestamps": [
+        {
+          "offset": 36958,
+          "raw": "[00:31:41]",
+          "seconds": 1901
+        }
+      ]
+    },
+    {
+      "end": 37173,
+      "excerpt": "[00:31:43] Yeah. Like Sail Research was one where I got to run that whole Series A, and that was extremely impactful for me, like completely put me on the map.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37014,
+      "timestamps": [
+        {
+          "offset": 37014,
+          "raw": "[00:31:43]",
+          "seconds": 1903
+        }
+      ]
+    },
+    {
+      "end": 37473,
+      "excerpt": "[00:31:50] And that was a round where he had 14, like, actual term sheets and a bunch more verbal offers. And so every VC firm effectively got to meet me through that. And [00:32:00] then American Terawatt's another company where they raised from Founders Fund and Altimeter at 11X what I invested.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37175,
+      "timestamps": [
+        {
+          "offset": 37175,
+          "raw": "[00:31:50]",
+          "seconds": 1910
+        },
+        {
+          "offset": 37347,
+          "raw": "[00:32:00]",
+          "seconds": 1920
+        }
+      ]
+    },
+    {
+      "end": 37767,
+      "excerpt": "[00:32:05] And that was one of the companies I'd put 400K into from my fund. And so that returned, or on paper, returned a very large portion of the fund almost immediately. And I, introduced them to Altimeter there and helped them actually put together the materials and reviewed everything.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37475,
+      "timestamps": [
+        {
+          "offset": 37475,
+          "raw": "[00:32:05]",
+          "seconds": 1925
+        }
+      ]
+    },
+    {
+      "end": 38113,
+      "excerpt": "[00:32:19] And it's like the parts I really enjoy, like you can be very immediately impactful on the rounds and it's like a 24/7 thing for a couple weeks while they're raising it. And then I had 10 of them happening in parallel at the same time, literally. Like my best friend went to raise his round too, and Sequoia ended up leading that one.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 37769,
+      "timestamps": [
+        {
+          "offset": 37769,
+          "raw": "[00:32:19]",
+          "seconds": 1939
+        }
+      ]
+    },
+    {
+      "end": 38492,
+      "excerpt": "[00:32:36] But it was like there was the last two weeks of March into the first two weeks of April, so that four-week stretch, I basically was averaging less than four and a half hours of sleep a day for 27 days straight. But it was like extremely worth it because it was just every day there was, and I even had my companies that like I was still investing and writing checks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38115,
+      "timestamps": [
+        {
+          "offset": 38115,
+          "raw": "[00:32:36]",
+          "seconds": 1956
+        }
+      ]
+    },
+    {
+      "end": 38939,
+      "excerpt": "[00:32:56] I did 13 deals in that like, two-month stretch, 14 deals. [00:33:00] And all those companies like, invest as a first check in a pre-seed and they would go raise their seed, or I'd done a seed two months prior and they go raise their A. There are also a lot of companies like Standard Intelligence that I just was very lucky to know them and they saw one of my tweets asking for an office space to work out of in February of last year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38494,
+      "timestamps": [
+        {
+          "offset": 38494,
+          "raw": "[00:32:56]",
+          "seconds": 1976
+        },
+        {
+          "offset": 38563,
+          "raw": "[00:33:00]",
+          "seconds": 1980
+        }
+      ]
+    },
+    {
+      "end": 39237,
+      "excerpt": "[00:33:16] And before they raised their Series A, they were like, \"Last chance. Do you want to invest?\" And I was like, \"Yes.\" I invested at the seed price. The next day, Alfred Lin gave them a term sheet from Sequoia at the for their Series A, and then Spark came in at a 2X that Series A price.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 38941,
+      "timestamps": [
+        {
+          "offset": 38941,
+          "raw": "[00:33:16]",
+          "seconds": 1996
+        }
+      ]
+    },
+    {
+      "end": 39688,
+      "excerpt": "[00:33:31] And so it's just not all of them I'm like super involved in, but like where I am involved, it's like literally creating the materials and like helping them like, figure out here's exactly who you should talk to and here are the relationships you can play with and here is what the Valley is saying, and here is how I think you need to maneuver this or that, or here is like early feedback I've heard that you need to like immediately fix.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39239,
+      "timestamps": [
+        {
+          "offset": 39239,
+          "raw": "[00:33:31]",
+          "seconds": 2011
+        }
+      ]
+    },
+    {
+      "end": 40020,
+      "excerpt": "[00:33:51] And just like just being able to now, like I think on the VC side as well, like they're my customers as much as the founders are. It's like being like a trusted source of like here is actually [00:34:00] the ground truth for the actual round itself, and here is like what you need to do or what price you need to offer.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 39690,
+      "timestamps": [
+        {
+          "offset": 39690,
+          "raw": "[00:33:51]",
+          "seconds": 2031
+        },
+        {
+          "offset": 39894,
+          "raw": "[00:34:00]",
+          "seconds": 2040
+        }
+      ]
+    },
+    {
+      "end": 40348,
+      "excerpt": "[00:34:05] Here is like what introduction you need to make in order to be able to win this deal or win allocation into the deal. And just being like the controller of like the flow of information and like the allocation. That's like the other part I really enjoy, and that's something that I've found I'm really good at doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40022,
+      "timestamps": [
+        {
+          "offset": 40022,
+          "raw": "[00:34:05]",
+          "seconds": 2045
+        }
+      ]
+    },
+    {
+      "end": 40464,
+      "excerpt": "[00:34:20] One of my friends described it as like running the auction process. I'm like the master of the auction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40350,
+      "timestamps": [
+        {
+          "offset": 40350,
+          "raw": "[00:34:20]",
+          "seconds": 2060
+        }
+      ]
+    },
+    {
+      "end": 40667,
+      "excerpt": "[00:34:25] Gopi Rangan: You meet these founders quite often early in the journey, and the impact you create is massive. But you don't invest in all the companies you meet. No. You invest in only a few.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 40466,
+      "timestamps": [
+        {
+          "offset": 40466,
+          "raw": "[00:34:25]",
+          "seconds": 2065
+        }
+      ]
+    },
+    {
+      "end": 40897,
+      "excerpt": "[00:34:36] What's your advice to founders when they come to meet you? What are two or three things that they can do to help you understand the business and get to a decision very quickly? How do you make that meeting productive?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 40669,
+      "timestamps": [
+        {
+          "offset": 40669,
+          "raw": "[00:34:36]",
+          "seconds": 2076
+        }
+      ]
+    },
+    {
+      "end": 41159,
+      "excerpt": "[00:34:46] Sudarshan Sridharan : Yeah, I mean, there-- I, I've seen 20 something companies. I just, I brought on a summer intern too, so he's been getting all these deals as well now, and so it's just double the number of deals I have to look at every day now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 40899,
+      "timestamps": [
+        {
+          "offset": 40899,
+          "raw": "[00:34:46]",
+          "seconds": 2086
+        }
+      ]
+    },
+    {
+      "end": 41536,
+      "excerpt": "[00:34:59] [00:35:00] It's pretty easy, I think, like one, there are only a few markets that really matter at any given time, and then there are only a few markets that like you know as an industry everyone is looking towards. And, and like right now, the outcome sizes have gotten very big. It's no longer like a nebulous thing where it's oh is this company going to be big?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41161,
+      "timestamps": [
+        {
+          "offset": 41161,
+          "raw": "[00:34:59]",
+          "seconds": 2099
+        },
+        {
+          "offset": 41172,
+          "raw": "[00:35:00]",
+          "seconds": 2100
+        }
+      ]
+    },
+    {
+      "end": 41927,
+      "excerpt": "[00:35:19] Oh, if I give this guy money to figure it out, in five years it could be a $1 billion outcome. Now it's like, \"hey, I give a guy money in December and his company's gonna be worth like $8 billion in 12 months' time.\" And so it's like you're really looking for people operating in the largest markets. So right now that's gonna be anything up and down the AI trade, any AI infra.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41538,
+      "timestamps": [
+        {
+          "offset": 41538,
+          "raw": "[00:35:19]",
+          "seconds": 2119
+        }
+      ]
+    },
+    {
+      "end": 42181,
+      "excerpt": "[00:35:38] So like in the real world, data centers, energy, inference, cloud, neo clouds, like actual like brokering the powered land. Like whatever you're doing with getting like the process of serving tokens, like token factories, extremely valuable.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 41929,
+      "timestamps": [
+        {
+          "offset": 41929,
+          "raw": "[00:35:38]",
+          "seconds": 2138
+        }
+      ]
+    },
+    {
+      "end": 42612,
+      "excerpt": "[00:35:51] On the other side, it's like on top of the application and foundation model companies, it's like the optimization and observability companies, the actual like [00:36:00] services companies implementing AI in the workflows and like just everything that powers that, like context and memory, just any infra you can think of in the world of bits or like world of atoms that like rides on the AI trade, extremely valuable.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42183,
+      "timestamps": [
+        {
+          "offset": 42183,
+          "raw": "[00:35:51]",
+          "seconds": 2151
+        },
+        {
+          "offset": 42353,
+          "raw": "[00:36:00]",
+          "seconds": 2160
+        }
+      ]
+    },
+    {
+      "end": 43032,
+      "excerpt": "[00:36:13] And then on the other side, it's I would say like other really large markets that people are looking at now or have been looking at for a while, but now is like the time, it's gonna be bio, life sciences, robotics, defense, space obviously. And just like things that are like manufacturing, things that are like deeply in the real world and for the first time we actually have seen like very large outcomes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 42614,
+      "timestamps": [
+        {
+          "offset": 42614,
+          "raw": "[00:36:13]",
+          "seconds": 2173
+        }
+      ]
+    },
+    {
+      "end": 43526,
+      "excerpt": "[00:36:33] Like now it's no longer billion dollars. The bar is like, can I underwrite this to a $10 billion outcome minimum, but like 100 billion or a trillion dollar company over time? And so for those, as an investor, you're able to be like, great, this is gonna be much more dilutive. They're gonna need a lot more upfront CapEx and funding from day one. But if it works, the expected value on this is trillions of dollars on the other side. So I'm much more happy to make that investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43034,
+      "timestamps": [
+        {
+          "offset": 43034,
+          "raw": "[00:36:33]",
+          "seconds": 2193
+        }
+      ]
+    },
+    {
+      "end": 43686,
+      "excerpt": "[00:36:56] So as a founder looking to raise your first [00:37:00] round, really what you need to do is answer a few questions around are you competent, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43528,
+      "timestamps": [
+        {
+          "offset": 43528,
+          "raw": "[00:36:56]",
+          "seconds": 2216
+        },
+        {
+          "offset": 43583,
+          "raw": "[00:37:00]",
+          "seconds": 2220
+        }
+      ]
+    },
+    {
+      "end": 44095,
+      "excerpt": "[00:37:05] Have you done whatever you're trying to do before or do you have the ability to hire the right team, right? So demonstrate competency, demonstrate like being in the right networks or right talent flows to be able to hire the best people to build and sell the product. And then it's like of course, like you need to be high integrity, like people need to be able to trust everything you're saying.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 43688,
+      "timestamps": [
+        {
+          "offset": 43688,
+          "raw": "[00:37:05]",
+          "seconds": 2225
+        }
+      ]
+    },
+    {
+      "end": 44386,
+      "excerpt": "[00:37:22] But then from there it's like if this is like completely successful, how big will this be when it works at the end of the day, right? Like what is the no longer $100 million revenue vision? It's what's a billion dollar revenue vision? What's a trillion dollar market cap vision?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44097,
+      "timestamps": [
+        {
+          "offset": 44097,
+          "raw": "[00:37:22]",
+          "seconds": 2242
+        }
+      ]
+    },
+    {
+      "end": 44677,
+      "excerpt": "[00:37:36] It's like everything needs to be much more thought through from day one. You need to know here are the risks we need to de-risk. Here is like the unlock or like the inflection point that will like allow the business to fly. Here is how we actually are able to a win in a market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44388,
+      "timestamps": [
+        {
+          "offset": 44388,
+          "raw": "[00:37:36]",
+          "seconds": 2256
+        }
+      ]
+    },
+    {
+      "end": 45089,
+      "excerpt": "[00:37:51] And you need to have very nuanced thought processes and viewpoints around is this going to be like what needs to be true in order for us to be a really [00:38:00] large company? It's okay if the company ends up not working, but it's like it's no longer okay to just be like, \"Hey, I wanna start a company because I went to,\" insert your Ivy League or top school, or, \"I worked at Ramp,\" or whatever.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 44679,
+      "timestamps": [
+        {
+          "offset": 44679,
+          "raw": "[00:37:51]",
+          "seconds": 2271
+        },
+        {
+          "offset": 44842,
+          "raw": "[00:38:00]",
+          "seconds": 2280
+        }
+      ]
+    },
+    {
+      "end": 45435,
+      "excerpt": "[00:38:14] \"Just give me money.\" That being said, I, of course, invest in people like that all the time who are like, \"I don't know what I want to do yet.\" And I'm like, \"I've gotten to know you for five years. You're brilliant. You should be a founder. Just blank check whatever you choose to do. I am in.\" \"Just please don't forget about me.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 45091,
+      "timestamps": [
+        {
+          "offset": 45091,
+          "raw": "[00:38:14]",
+          "seconds": 2294
+        }
+      ]
+    },
+    {
+      "end": 45799,
+      "excerpt": "[00:38:27] But that being said, it's like a lot of it is just like being in the right flows to show that you can hire the right talent and being optimizing for a really, really large market. And so I get pitches all the time that are-- everyone's always So this one, I haven't met anyone in the space for a while, so I I won't, I won't be picking on anyone here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 45437,
+      "timestamps": [
+        {
+          "offset": 45437,
+          "raw": "[00:38:27]",
+          "seconds": 2307
+        }
+      ]
+    },
+    {
+      "end": 46140,
+      "excerpt": "[00:38:44] But it's in edtech or in edtech recruiting dating apps, things like that, people are like, \"Everybody needs to learn. Everybody goes to school. Edtech should be a huge market.\" Everybody, needs a job. Recruiting companies are easy to scale. Or everybody, needs [00:39:00] to date, like dating apps, obviously meet people, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 45801,
+      "timestamps": [
+        {
+          "offset": 45801,
+          "raw": "[00:38:44]",
+          "seconds": 2324
+        },
+        {
+          "offset": 46073,
+          "raw": "[00:39:00]",
+          "seconds": 2340
+        }
+      ]
+    },
+    {
+      "end": 46537,
+      "excerpt": "[00:39:02] These are just like super common, like things that college students or people who are younger always go after, but they never work. There's like effectively no edtech winners out there. Like worldwide, like you have like nothing effectively. And even the ones that did exist, like the Chegg conglomerate, for example, just like sort of immediately folded when ChatGPT came out, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 46142,
+      "timestamps": [
+        {
+          "offset": 46142,
+          "raw": "[00:39:02]",
+          "seconds": 2342
+        }
+      ]
+    },
+    {
+      "end": 46841,
+      "excerpt": "[00:39:23] Real estate's another one where it's like proptech just doesn't work. What are your proptech winners? Like, where do they exist? Your recruiting companies or sales tech even, like who's gone public? You got like Salesforce, HubSpot, right? You got like a $2 billion acquisition on Salesloft.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 46539,
+      "timestamps": [
+        {
+          "offset": 46539,
+          "raw": "[00:39:23]",
+          "seconds": 2363
+        }
+      ]
+    },
+    {
+      "end": 47367,
+      "excerpt": "[00:39:35] These are spaces that structurally there's nothing analogous in the Web 1.0, Web 2.0, and any of the prior cycles. Then what is the difference now with AI? If anything, it's like more likely to be commoditized, right? And so it's like really trying to make sure that you have a point of view around like, \"Hey, whatever you're doing, like here is like the big winner in the space before, or here is the actual tailwind that's gonna cost the space to like really explode and work and like win over time.\"[00:40:00]",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 46843,
+      "timestamps": [
+        {
+          "offset": 46843,
+          "raw": "[00:39:35]",
+          "seconds": 2375
+        },
+        {
+          "offset": 47357,
+          "raw": "[00:40:00]",
+          "seconds": 2400
+        }
+      ]
+    },
+    {
+      "end": 47729,
+      "excerpt": "[00:40:00] And I just think a lot of people don't do that. So when I don't see that depth of thought, or I don't see that like long-term vision, or I don't see the ability for the team to be that great. And greatness in a team is extremely subjective. But I think there are like a few like just empirical heuristics you can use around have they done it before?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 47369,
+      "timestamps": [
+        {
+          "offset": 47369,
+          "raw": "[00:40:00]",
+          "seconds": 2400
+        }
+      ]
+    },
+    {
+      "end": 48149,
+      "excerpt": "[00:40:15] Do they-- are they coming out of industry in some place? Have they gone to the right schools, or have they like worked at the right companies? It's like all very like just look at someone's LinkedIn and be like, \"Damn, this profile is really good or not,\" right? And, the other thing is like most people just haven't done anything that like demonstrates hustle or greatness or ambition at any point in time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 47731,
+      "timestamps": [
+        {
+          "offset": 47731,
+          "raw": "[00:40:15]",
+          "seconds": 2415
+        }
+      ]
+    },
+    {
+      "end": 48535,
+      "excerpt": "[00:40:33] But then they're like, \"Hey, we want to be one of the, few hundred people over the next 10 years that goes from zero to billionaire, and like here's how we're going to do that.\" And it's just not believable if you haven't tried to do anything ambitious in your whole life before. So a lot of this at the earliest stages around the people, and it's all extremely subjective.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 48151,
+      "timestamps": [
+        {
+          "offset": 48151,
+          "raw": "[00:40:33]",
+          "seconds": 2433
+        }
+      ]
+    },
+    {
+      "end": 48951,
+      "excerpt": "[00:40:51] Yeah, like I would tell people, like show off like just a very clear plan. Everybody knows, I know as soon as you, I give you the money, you might [00:41:00] pivot. The entire plan might change. You might not be able to hire anybody you tell me you will. But it's like the ability to even come up with that conc- like conceptualize it, verbalize it, be able to put pen to paper and actually have a plan.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 48537,
+      "timestamps": [
+        {
+          "offset": 48537,
+          "raw": "[00:40:51]",
+          "seconds": 2451
+        },
+        {
+          "offset": 48695,
+          "raw": "[00:41:00]",
+          "seconds": 2460
+        }
+      ]
+    },
+    {
+      "end": 49365,
+      "excerpt": "[00:41:10] The thought process is what's important. The clarity of thought is what's important there. And so that's like really just like to make it through that first meeting to like actually even get people to be really excited about it, it's gotta be in big markets, or you've gotta have a point of view around how it's gonna be the biggest company in the world, and you've got to have the talent to match it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 48953,
+      "timestamps": [
+        {
+          "offset": 48953,
+          "raw": "[00:41:10]",
+          "seconds": 2470
+        }
+      ]
+    },
+    {
+      "end": 49628,
+      "excerpt": "[00:41:27] Gopi Rangan: This is awesome. You've literally broken down the process of how you think, what gets you excited, what do you stay away from. This is super valuable. Thank you for being candid. There's a lot of optimism here throughout the whole story.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 49367,
+      "timestamps": [
+        {
+          "offset": 49367,
+          "raw": "[00:41:27]",
+          "seconds": 2487
+        }
+      ]
+    },
+    {
+      "end": 49667,
+      "excerpt": "[00:41:42] Sudarshan Sridharan : Yes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 49630,
+      "timestamps": [
+        {
+          "offset": 49630,
+          "raw": "[00:41:42]",
+          "seconds": 2502
+        }
+      ]
+    },
+    {
+      "end": 49767,
+      "excerpt": "[00:41:43] Gopi Rangan: There's a lot of positivity. Is there something that you're worried about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 49669,
+      "timestamps": [
+        {
+          "offset": 49669,
+          "raw": "[00:41:43]",
+          "seconds": 2503
+        }
+      ]
+    },
+    {
+      "end": 50106,
+      "excerpt": "[00:41:46] Sudarshan Sridharan : I mean, everyone, everyone just wants DPI and wants to know if we're in a bubble. So that's-- I mean, broadly from a market perspective, that's like same thing here. It's just \"Hey can I do the job? Am I gonna get DPI? Are the returns gonna be good? Or my, company gonna be amazing?\" [00:42:00] All that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 49769,
+      "timestamps": [
+        {
+          "offset": 49769,
+          "raw": "[00:41:46]",
+          "seconds": 2506
+        },
+        {
+          "offset": 50086,
+          "raw": "[00:42:00]",
+          "seconds": 2520
+        }
+      ]
+    },
+    {
+      "end": 50409,
+      "excerpt": "[00:42:00] On the other side, it's just you just gotta keep your head about you. I'm lucky I gotta go through the crypto cycles when I still had crypto. I gotta go through being 20 years old and being on top of the world and raising small amounts of money, but still raising money and moving out here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 50108,
+      "timestamps": [
+        {
+          "offset": 50108,
+          "raw": "[00:42:00]",
+          "seconds": 2520
+        }
+      ]
+    },
+    {
+      "end": 50715,
+      "excerpt": "[00:42:14] Now it's just much more level. I think most people, when you give them money, no matter if you have-- they have all of the attributes you look for, it's still they still lose their head a little bit, right? That's, that's why you look for that experience and you look for have they been there?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 50411,
+      "timestamps": [
+        {
+          "offset": 50411,
+          "raw": "[00:42:14]",
+          "seconds": 2534
+        }
+      ]
+    },
+    {
+      "end": 50927,
+      "excerpt": "[00:42:27] Have they done this before? Do they know what's going on? And so, yeah, mainly now it's just making sure I just keep being a good person and don't lose my head. That's like the broader, broader just-",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 50717,
+      "timestamps": [
+        {
+          "offset": 50717,
+          "raw": "[00:42:27]",
+          "seconds": 2547
+        }
+      ]
+    },
+    {
+      "end": 50971,
+      "excerpt": "[00:42:38] Gopi Rangan: Very well said ...",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 50929,
+      "timestamps": [
+        {
+          "offset": 50929,
+          "raw": "[00:42:38]",
+          "seconds": 2558
+        }
+      ]
+    },
+    {
+      "end": 51012,
+      "excerpt": "[00:42:38] Sudarshan Sridharan : worry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 50973,
+      "timestamps": [
+        {
+          "offset": 50973,
+          "raw": "[00:42:38]",
+          "seconds": 2558
+        }
+      ]
+    },
+    {
+      "end": 51306,
+      "excerpt": "[00:42:39] Gopi Rangan: Sudarshan, thank you very much for spending time with me. Thank you for sharing amazing stories. I think you recognize that everything that you've shared up to the age of 25 before you started the firm is already super abnormal. It is not how, people live their lives.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 51014,
+      "timestamps": [
+        {
+          "offset": 51014,
+          "raw": "[00:42:39]",
+          "seconds": 2559
+        }
+      ]
+    },
+    {
+      "end": 51518,
+      "excerpt": "[00:42:55] And you're launching something extremely interesting, and you're right in the middle of action right now. [00:43:00] I'm very excited to share your nuggets of wisdom with the world and help founders.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 51308,
+      "timestamps": [
+        {
+          "offset": 51308,
+          "raw": "[00:42:55]",
+          "seconds": 2575
+        },
+        {
+          "offset": 51425,
+          "raw": "[00:43:00]",
+          "seconds": 2580
+        }
+      ]
+    },
+    {
+      "end": 51580,
+      "excerpt": "[00:43:05] Sudarshan Sridharan : Of course. Thank you, Gopi.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Sudarshan Sridharan",
+      "start": 51520,
+      "timestamps": [
+        {
+          "offset": 51520,
+          "raw": "[00:43:05]",
+          "seconds": 2585
+        }
+      ]
+    },
+    {
+      "end": 51768,
+      "excerpt": "[00:43:09] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 51582,
+      "timestamps": [
+        {
+          "offset": 51582,
+          "raw": "[00:43:09]",
+          "seconds": 2589
+        }
+      ]
+    },
+    {
+      "end": 51946,
+      "excerpt": "[00:43:17] Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 51770,
+      "timestamps": [
+        {
+          "offset": 51770,
+          "raw": "[00:43:17]",
+          "seconds": 2597
+        }
+      ]
+    }
+  ],
+  "source_sha256": "bd57e66a88a480ad32d918e61db551750eb665ff2baa3e094c29ff9a4345c21a",
+  "text_sha256": "ad1ff82b2bc2181d16b4109b333b52e9a6be3e4e04402120e4b2f554569f7444"
+}

@@ -1,0 +1,204 @@
+Phil Boyer: [00:00:00] The number one thing is that whether it's successful or not successful, these companies are never a straight line. There's so many ups and downs, right? And it's such a zigzag to get from point a to point B.
+
+Gopi Rangan: You are listening to the sure shot entrepreneur podcast for founders, with ambitious ideas, venture capital investors. And other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to the short shot entrepreneur. In this episode, my guest is Phil Boyer partner at crosslink capital, a venture capital firm, based in the Silicon valley.
+
+He focuses on investments in enterprise applications, infrastructure, vertical software, and frontier techniques. Phil welcome to the short shot entrepreneur.
+
+Phil Boyer: Thanks Gary. It's great to meet you and it's [00:01:00] great to be  here. 
+
+Gopi Rangan: Tell me about yourself, starting with nowhere. Did you grow up? Where did you go to college and how was your carrier shaped up?
+
+Phil Boyer: Yeah, sure. So I actually grew up in the bay area. I was born in the east bay. I originally lived in El Sorito, which is a little town between kind of right between Oakland and Berkeley. And then I did a brief stint in Colorado before returning to the bay area. Which at that time we moved back to Pleasanton further east in the east bay.
+
+I grew up in the bay area. Yeah. But I, I, it wasn't like some stories where I was obsessed with technology and startups from a very early age, nothing, nothing like that. I was actually, my parents didn't work in Silicon valley. They, my dad, he was an equal on veterinarian actually. And he worked at the race track.
+
+Most of his career golden gate fields. And then my mom was a PhD in environmental science and she, she actually worked at various government labs. And then as a consultant later, including Lawrence Livermore labs in the east bay. [00:02:00] So w was it, wasn't something where I was constantly around startups or Silicon valley or technology growing up.
+
+And I was much more motivated at that time, early days of growing up in music and sports. So I actually, I've been in bands as a musician and writing music ever since I was in third grade. Not everyone knows about me when we would talk about it, venture capital and investing, but that was kind of my, one of my first loves was for music.
+
+And since  third grade , it was third grade talent show of Walnut Grove elementary. That was my first live show. Also sports athletics. I was early on. I was, I played almost every sport. Eventually I gravitated toward wrestling and I. I ended up being an all-state wrestler in high school and ended up eventually wrestling at Penn.
+
+So those were kind of my first, you know, loves if you will. And I've always been kind of very competitive, but also have this kind of creative side to me that I, that I like to flex as a [00:03:00] kind of musician and songwriter, which is a little bit of a dichotomy thief out, very hyper competitive wrestler and a musician.
+
+But those are just two things that I really gravitated toward. And oddly enough, Full circle to today. Venture capital is this interesting and startups and entrepreneurship is this interesting combination of creativity and competition and hyper competitive markets. I feel like that's kind of how I landed here eventually.
+
+No, that wasn't, it wasn't something that was on my mind growing up. Well, I went to Penn. I studied economics. I w I was interested in business. I always thought I would end up in the business side of things. After going to Penn. You're, you're really surrounded by an ecosystem with kind of the Wharton influence in investing and in finance.
+
+As a, as a competitive wrestler at Penn, I had a bunch of mentors that had worked in that, in that field as investors or on wall street or in finance. And [00:04:00] it was something that attracted me as a competitive arena, potentially that that I'd want to go to next after, after graduating. It wasn't something where I grew up always thinking I was going to be an investor.
+
+It was just kind of where I navigated toward. I ran out of right out of college. I ended up moving into, I, I initially landed on wall street as many, many Penn grads do. And I started on, on a trading floor at RBC capital markets. And then I eventually, when I was there, I eventually kind of navigated. Over to the research side.
+
+And I wasn't super, it wasn't super interested in, in kind of the transactional nature of trading securities and everything like that. So I, I think what interested me a lot more was really digging into the companies. But when I ended up on an equity research desk covering technology companies, internet companies, I ended up fascinated with the likes of Google.
+
+Amazon LinkedIn, Facebook were more recent public companies and [00:05:00] got the opportunity to really dive deep right about these companies, publish research, and then debate. Debate them with the hedge funds that would call us and try to tell us we were wrong, whatever thesis that's what really got me interested in technology companies.
+
+So it wasn't growing up in the bay area. It was actually what I ended up on wall street, where that first happened, but in, in terms of how I got to investing from there. I realized that covering public internet companies and technology companies, that all the interesting ones are actually not public yet.
+
+They're private companies, the early stage companies, someone told me once I remember this very vividly someone, someone told me when I was working on that Henry research desk, that these large public companies they're like trains right in there. They have to remain on the tracks. They have to report earnings.
+
+They have to meet expectations. They have to stay on the tracks and not screw up. But when you're an early stage private company, you act more like a car where you can actually navigate [00:06:00] wherever you want. You can change lanes, you can turn down any, any road or alley. You can stop, start accelerate on a dime.
+
+That's really, really the big difference in kind of the advantage that these early stage private companies have. And that really struck me at that time. And that's what kind of led me down the road of, I really want to get involved with. No early stage startups and venture capital, which eventually led me to my first kind of jump into venture capital, which we can talk about.
+
+Gopi Rangan: Yeah. This is very interesting that you grew up in the bay area, but you never got exposed to technology here. They are. First window into the world of innovation and internet and everything came from wall street where you were a banker. What do you like about venture?
+
+Phil Boyer: Yeah, what I love about venture capital it's honestly, it starts with the founder stories, how these entrepreneurs have gotten to a place where they have so much conviction in their ideas.
+
+That they're going to drop everything to go [00:07:00] spend the next possibly decade of their life, working on solving this particular problem in a market or building a company they think can really make a dent. I love the whole optimism of it all. I mean, I think that's something that really gravitated me toward venture capital as a career.
+
+Know, you have to be inherently super optimistic about your ability as the, the whole David gelada story, your ability as a, a small, usually it starts out kind of two, three person team with an idea how you're going to go after attack this market, the odds are just stacked against you, right? And you're, you're going against either creating a brand new market that never existed before or going after taking down a company that.
+
+Got fundamentally way more resource dollars, brand technology, everything in their corner. And you're, you're kind of just the challenger. I love that whole dynamic of betting on the challenger and the underdog and being able to kind of grow with them in that journey. I just [00:08:00] love that whole, that whole aspect of trying to find the diamonds in the rough that are really the right companies that need to exist and really helping them get there.
+
+I like getting involved with really ambitious founders from the very early days and obviously providing capital, but being a mentor and a, and a guide to help build their company and do everything, everything we can to go build a game-changing category to finding company. It's just very exciting. I love that, that whole optimistic side of venture capital and that you fundamentally have to be a little bit crazy, honestly, as a founder to go to go start.
+
+Started the company from scratch and with an ambition to go build a billion dollar plus.
+
+Gopi Rangan: There are two schools of philosophies here. One is that for you to be a successful investor, you must have walk through the shoes and live the life of an entrepreneur, what it is firsthand. And then the other school of thought is that for you to be a successful investor, you need.[00:09:00]
+
+Training and experience as an investor. It's not necessarily that you need to have been an operator, been a founder yourself, but it's actually more important that you can empathize with the situation. If you can understand the journey of a founder, find ways to contribute to their journey positively. So in that two schools of thought you belong to the school of thought where you've grown up to be an investor as an investor, pretty much throughout your career.
+
+Do you miss something? Do you feel like you miss something that others in the industry might have who come from the startup side of the world? Yeah.
+
+Phil Boyer: I hear this debate often. I kind of disagree on, I'm not overly dogmatic about the quality of investor based on their background. I think there's great examples.
+
+And you could go through a full list on either side of investors that have been venture capitalists that have been incredibly successful. That were former entrepreneurs, former founders, former operators, and those that have been kind of more career [00:10:00] investors. So I don't think there's kind of this. One side or the other.
+
+I do think different types of people in each person's different, brings a different aspect to a company. And I think in terms of becoming a world class investor, I think it's about understanding your role as an investor. And you're not the operator, right? You're not the one making the day-to-day decisions, what you really need to be doing as an investor.
+
+Of course, you have to allocate capital. Well, you have to find an incredible team. You have to do good diligence. You have to bet on winning ideas, you have to allocate capital wisely, very difficult decisions to make about where the future is heading in an uncertain facts. That's something you have to do, but post-investment, you also got to realize that your role on the other side of the table, that the founders and the operators of the company are running the business and you are there to help make their lives easier.
+
+Sometimes that is through providing advice [00:11:00] based on having seen a lot of companies go through that. That very same experience or issue in the past. And I think you can get that experience from either having operated a company, run a company. In my case, having seen hundreds of companies go through these various stages of building from the ground floor to the kind of series a stage to the growth stage, and then to the kind of success stage, and maybe eventually being a public company or having a great outcome, having a lot of pattern recognition and.
+
+Companies go through those various stages repeatedly is also very helpful. I think there's the advice aspect, but then there's also bringing a pay interesting and valuable and proprietary network to bear. It's not about, I'm not going to always have the answer to a difficult question, right? And I think you have to be self aware and cognizant of that as an investor.
+
+And you need to be able to say, but I'm not the best person to answer that question. I'm not the best person. The right path, but I [00:12:00] have a Rolodex and a group of people I can plug you into you, and that can really help move the needle that have been through this very experience before. And do you have advice?
+
+I also think the other thing is sometimes I've found in seeing some investors or board members can be too overbearing in trying to take maybe one specific experience that they had, whether it be with one of their own companies or. But the companies that another company that they're an investor in and try to over-steer, or over-correct a company in a certain direction when at the end of the day, every experience is pretty unique.
+
+And oftentimes it is a different set of variables. It's a different time in the market. It's a different market altogether, and it's just a different situation. So it's good to obviously bring ideas and past experiences to the table so that you don't make the same mistake twice. But also be cognizant that these are multi-variate equations that are always different every single time around.
+
+And I think there can be a downside to really trying to be [00:13:00] overbearing as a investor board member on makeup. What are sometimes just operational decisions that the, the companies make themselves.
+
+Gopi Rangan: I say that when an entrepreneur changes to become a venture capital investor, it's a big change for them.
+
+Some people are able to successfully manage the transition if they are used to being in the seat, making the front seat, making decisions in the driver's seat. It's hard for them to transition, to become a coach on the side and support the players in the field. That's quite difficult for most people that are, of course, certain disadvantages.
+
+This is where I have a problem. Most people say, well, if you don't even know the sport, then how can you be a coach? Of course, you don't know the sport. You cannot be the coach, but you don't need to be the frontline player to know how the sport is played and then become a coach. So you can be a coach by being very close to the sport in other.
+
+Phil Boyer: Yeah, I don't think bill Belicheck played football. Well, he may have played football, but he didn't play in the [00:14:00] NFL. Let's put it that way.
+
+Gopi Rangan: What areas do you focus on for your investments?
+
+Phil Boyer: Well, starting from first principles, my kind of approach is we're at cross-link we're very much focused on early stage investing.
+
+And for us that means. Typically getting involved in the Cedar series a as an initial investment, usually as a lead or a co-leader investor at those stages at a very high level of what we're looking for. It's usually in this order at team, you know, market product, and then product market fit and kind of where you are on, on that time.
+
+Starting at the very foundational level I'm looking for just world-class founding teams, number one. And I tend to really hone in on and focus on that foundational story. What was the founding insight of the team? How did they arrive at that insight and why are they uniquely positioned to go execute on building a company within that category?
+
+And then the next is obviously market, but this is where there's different schools. From investors and there's different [00:15:00] strategies that work. There's not one, there isn't just one strategy that works. But my strategy is to really understand markets and trends to the point where I know where to put myself into a position to find some of these really compelling foundations.
+
+So I tend to be less call it thesis driven, meaning I'm looking for this specific company building this specific product in this market. But I do tend to do is say these are interesting set of markets or technology trends that are occurring, that I'm observing. And I know that there's going to be interesting companies built in these categories.
+
+So how do I put myself in a position to meet founders in these markets? And then these technology waves or trends? To where I can find a founder that has that thesis that is fundamentally unique and different differentiated to go build a massive company within a more, I would say I'm more founder driven as opposed to thesis driven, but I do need to, you need [00:16:00] to have any be deep enough within the market and the technology to understand when you, when you come across that thesis, that this is a winning insight, and this is a winning team that can go execute against that.
+
+Gopi Rangan: Most VC firms have a priority of large market, great founding team with different set of skillsets that go to market strategy and product roadmap, all of those things. What do you ask founders? What kind of questions do you ask? What do you look for, for you to form the conviction? Especially if you don't have an exist specific thesis that you go with.
+
+You're looking for excitement during the discussion, especially in the first one or two weeks.
+
+Phil Boyer: Yeah, I do really focus on some of my first set of questions to see how excited I am about a team is how did you arrive this thesis? And how did you arrive on this idea and kind of what led you to, again, drop everything to go start this company.
+
+A lot of times, those founding kind of Genesis [00:17:00] story insights or some of the things that help me either have, or do not have the conviction to go make an investment, has the team really lived the problem. And they really understand the pain that they're going out to solve, because those are the things that will inform them and guide them in their decision-making.
+
+Particularly in the early days when you're starting from zero, you're trying to go from zero to one, having that, that fundamental insight into the market now where you're building and architecting the strategy, the team, the product to go to market strategy, to align with going, solving that is crucial.
+
+So I look for that. I also just think that CEO to be a founding CEO is incredibly difficult. You kind of have to be a freak of nature, honestly, to be a good founding CEO. So it's that combination of has insight into the market to go build a really unique, compelling product can articulate the vision for the company on what you're building [00:18:00] can sell your initial product to your initial set of customers.
+
+And can raise money, obviously, which is a big part of the, of the business in the early days as well. So all of those attributes that you have to understand technology product, go to market, vision, setting leadership. Those are traits that not a lot of singular people have. So that is a, you know, a lot of where we focus is just the quality of the CEO in particular.
+
+Their ability to recruit world-class people around them, both from employees, investors, and customers and partners from the early days. And I just think that's critically important.
+
+Gopi Rangan: Can you give examples of one or two companies? How did you meet the founders? What did they say to you that sparked the thought in you that this has potential and this could be.
+
+Phil Boyer:  Yeah, I think a lot of the, like if you look at companies in our portfolio that have been incredibly successful over the years, companies like weave or chime [00:19:00] or Coupa software service, max, all of these companies, if you go, if you go back to the very early days when they were pitching the company, seeing what this was going to become was very difficult.
+
+And I, and I looked back when I first met the company we've in our portfolio. Like Utah based SNB SAS business, that as has come a very long way since we invested back in 2015 is now valued out of about a billion dollars in the last round and on, on track to be a great longstanding public company. You know, they're in the very early days, this was extremely scrappy today's team with a sales driven culture.
+
+And a founding CEO that you wouldn't describe as from central casting in, they had bootstrapped a services business early on that addressed that addressed communications needs for dental practices. Right? A lot of investors [00:20:00] passed in the early days because they saw this company that was selling primarily to dental practices, which was their first beachhead mark.
+
+And saying that that's a niche market. That's not going to be a big business, but what we saw there, I think that was unique was first of all, there's 200,000 dental practices in north America. So that there's more dental practices than there are Starbucks. If you look around the street, you see how many Starbucks that are, it's a bigger market than you would think.
+
+Number one, number two, the problems that these dental practices have, and that we've. Solving for them is very applicable to a lot of problems that SMB businesses have in communicating with their customers in marketing their businesses in remarketing, their businesses and retaining. Their customers. The other thing that we saw was that this was something that was selling itself early on.
+
+There was not, these were call it 10 day sales cycles selling the product over the phone. The sales proposition was simple. First [00:21:00] question. Who do you use for your phone system? Comcast. Are you happy with them? No. Okay. Would you rather pay the same amount per month for a much better voice over IP phone system that integrates with the systems of record of your business so that you can provide insights?
+
+You can understand your customers better. You can remarket your customers better. You can access your customers wherever they are, whether it's SMS, email. A phone and you can automate core parts of your communications with those customers, all for the same cost of your, of your Comcast. Resounding. Yes. So those were things that we knew were applicable to a lot of businesses.
+
+And you kind of just had to see past that this is a, this is a niche market kind of pushback back and understand that the founding team had gotten to that insight from building a bootstrapping, a services business that were addressing critical needs of this customer base. And that was unique insight that not a lot of people had had.[00:22:00]
+
+Gopi Rangan: That's great to see real life examples of how you interacted with startups and the investments that you made. How did these investments turn out? Did they shape up to be the way you expected initially? Did they become way bigger or did they go in a different direction?
+
+Phil Boyer: The number one things that whether it's successful or not successful, these companies are never a straight line.
+
+There's so many ups and downs, right? And it's such a zigzag to get from point a to point B from the outside. A lot of these things, like if you like. We've or the chime or whatever you see the, the financings and the, all the success and the press. And it just looks like a straight line. But in reality, it's not those challenges that come up.
+
+There's there for both of those companies in particular, it was even after our investment, the next round was not an easy fundraise. It was the story still. Coming through and not clear enough from the investor community, that this is a multi-billion dollar opportunity despite the growing, growing traction.
+
+And then there's, how do you scale your organization when you're [00:23:00] growing? Call it three, four X here every year. How do you scale your organization and your executive team? To continue to level up over time, which is a hard thing for a startup to do. So there's always friction in there's always challenges, whether it be go to market, going from a lumpy business to a more so building a scalable engine, these are very tactical and difficult challenges.
+
+There's always going to be friction in doing that. If you look at the companies that have been very successful and the companies that have not been successful. It's just never what it seems like from the outside, looking in and in the early days is the risks that maybe we wrote up in our investment memo or thought about, or not necessarily the risks that we had thought about going in.
+
+And that's just part of the journey, but you have to meet these things where they are as they come and kind of continue to navigate and iterate and just build and help the team stay focused. As they're going out to go do this very difficult thing of building a five-person two pizza [00:24:00] team into a multi hundred million dollar business, and then hopefully a billion-dollar business.
+
+Gopi Rangan: You've been in the Silicon valley for decades. Now, a lot of things have changed over the years. How is it different compared to when you started in venture?
+
+Phil Boyer: Yeah, well, so I originally started in early stage investing as about eight, just over eight years ago. And the market has evolved rapidly. Actually, originally, when I first started investing, I started at a startup fund.
+
+It was a brand new phone based in New York, called ten four ventures. It was kind of how I got my start in venture and I was recruited over to cross-link just about seven years ago. And it kind of been, been here ever since, but just a couple of key things. That I've seen change pretty dramatically in the market.
+
+One is the fact that we've gone from having these very small number of hubs. There was Silicon valley where kind of 80% of crossings [00:25:00] portfolio used to be based. And then we've evolved full circle today to where less than 50% of our, our current portfolio is bay area based. Yeah, other 50% plus is in various places throughout the United States and in north America, even in Canada as well.
+
+You look at that evolution. And I think that part of that is. Just kind of a almost state democratization of, of entrepreneurship in inviting, which I think is great to see. Isn't just inviting different types of people and founders to the table who maybe in the past, wouldn't have thought to go start companies.
+
+It's a phenomenon driven by a variety of different factors. That includes the rise of digital transformation across a lot of industries, which is something that I, and at Crossland, we pay a lot of attention. So you start to see every single industry, every company, and almost every single industry becoming a technology company and becoming a software company.
+
+So that has created this just hotbed of new hotbeds of [00:26:00] entrepreneurs in talent, being attracted to startups and entrepreneurship that maybe weren't there before. So that's the incredible change that's happened across the industry. I also think that we've been in a maybe 15, 16 years. No bull cycle since 2008.
+
+So I guess more, more if we've been in a 13 plus year kind of bull cycle, I've never seen that. And I think that's, it's something. Yeah. Yeah. If you just look at the evolution of technology investing in general, but in venture capital in particular, it's just been a boom time for a long period of time. I think some of the questions that people have are, are we just in a continued and sustained bubble or is this really the new normal, there is just going to be a venture capitalists going to be a bigger asset class than maybe it was before.
+
+I mean, there, there was. The early days of venture capital, then there was the bubble burst in the, in the late nineties and then full circle to today. [00:27:00] And is this kind of a new normal, or is it just that frothy? I think that's an interesting question to be asking, but it's certainly an evolution that I've seen happen and going from this being kind of isolated to particular regions in certain universities, That really are known as producing a lot of the founders in the past.
+
+Now it's almost every university in every region, across the country and across the world that are now involved in startups and entrepreneurship. And that's, that's a fundamental change in the exciting.
+
+Gopi Rangan: Where entrepreneurs are located that has changed. It used to be only in the Silicon valley, but now they are located in various parts of the world.
+
+I have also seen the same kind of trends are more than 50% of my portfolio companies are located outside Silicon valley. I expect that this trend is only going to continue and the bull market is probably going to support that more. We'll see how far we can go with w. Well, this is very interesting. [00:28:00] I want to switch to the next segment and ask you about your community involvement.
+
+Is there a nonprofit organization you are passionate about? Which one?
+
+Phil Boyer: Yeah, so there's one that not just myself, but our entire firm is passionate about. And it's an organization that is set up as a nonprofit. And it is fully sponsored that cross-link runs called alpha it's the alpha network you can go to the website is alpha.network, but what this is, it's something that we had crossing spent a lot of time working on.
+
+We have two full-time resources within cross-link, you know, that run this network and manage this network. And we're doing roughly about 60 events every single year. Out of this network. So it's very robust. And the whole idea and design of alpha is to meet founders where they are and help them along their journey.
+
+The events can range from anything from the sector, specific topics, such as putting on an event or I'm [00:29:00] helping plan an event in the data ops lens. Well, we're going to invite some of the most exciting early stage companies, as well as later stage more successful startups in that category, and then bring in customers and partners and advisors and thought leaders within that landscape to come discuss the trends and what's happening within data ops landscape, and then some of the pain points that are being solved in that world.
+
+So it could be anything from sector topic, through more of a functional topic in company building. So something like how do you build a customer support organization in a remote world? How do you drive customer success in remote or remote role, or how do you drive digital native sales from transition from enterprise sales into digital native, or product led growth topics like that?
+
+That early stage companies can really benefit from. And founders can really benefit from learning from folks that have successfully built companies with those strategies or within these markets and kind of doing it in a way that is [00:30:00] 100% candid. The part of the design of alphas, we wanted to get away from these conferences where people are paying a thousand dollars to go to XYZ company.
+
+And walk around an event, not really meet anyone that compelling or be sold via booths, uh, certain products, I think like that's just not all that valuable. What is valuable is getting around the table with 15 to 20 other founders talking about a real topic, real challenge in their business that they're seeing sharing insights, helping each other out.
+
+That's where the real stuff comes in. And then fostering real connections, right? And it could be lifelong connections, or even maybe you'll at an alpha event, you might meet your next acquirer or your next customer, your next partner. So that's something that we spend a long, a lot of time on is building this alpha network community.
+
+It's something that we do that to give back to the community, as well as support our portfolio companies in. Obviously we get a lot of value out of it as well.
+
+Gopi Rangan: [00:31:00] Well, this is great. It's good to see that cross-link supports the ecosystem in a positive way by organizing events for founders. Thank you so much for spending time with me today on this podcast.
+
+Thanks for sharing real life authentic stories. I look forward to sharing your nuggets of wisdom with them. Thanks.
+
+Phil Boyer: It was great chatting. I appreciate the time.
+
+Gopi Rangan: Thank you for listening to the short shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs.
+
+Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. .
+

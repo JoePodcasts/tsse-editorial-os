@@ -1,0 +1,317 @@
+[00:00:46] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you [00:01:00] relatable, insightful, and authentic stories to help you realize your vision.
+
+
+[00:01:07] Welcome to the Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Isabel Bescos. She is a partner at Entrepreneurs First.
+
+
+[00:01:20] We're gonna find out more about Entrepreneurs First, what does EF do, and what kind of founders do they attract, who is a good fit for EF, and she's gonna share some advice to founders on how to build successful businesses in today's world. Isabel, welcome to The Sure Shot Entrepreneur.
+
+
+[00:01:37] Isabel Bescos: Thanks so much for having me, Gopi.
+
+
+[00:01:39] Gopi Rangan: Let's start with you. You are Spanish Austrian and you grew up in Belgium. Now you live in San Francisco. But let's go back in time. Walk us through your journey, your career.
+
+
+[00:01:53] Isabel Bescos: I love the hesitation with which you named the three countries. I'm pretty sure some of my very best friends would not be able to get [00:02:00] those right.
+
+
+[00:02:01] But yes, I am indeed the daughter of a Spanish father, an Austrian mother, and I grew up in Belgium, and had a wonderful childhood growing up there, and then, I studied in the UK and the US, and actually studied psychology, which I think I realized very early that that was probably not the right path for me, but sort of kept going and learned a bunch of really interesting things that I actually find very helpful both as a VC but also as someone that manages teams.
+
+
+[00:02:33] And then I wasn't really sure what to do and got really lucky because I met the BlaBlaCar team very quickly after I left school, and joined BlaBlaCar, a French tech company, as an early employee, and that was towards the end of 2012, early 2013, and spent five years at BlaBlaCar building out the international expansion.
+
+
+[00:02:55] So BlaBlaCar, for those that don't know, is, as I said, a French tech [00:03:00] company, and then it's a B2B2C marketplace. And we went from being purely French to being truly global within, I think, probably two to three years, and we went into 22 different markets, initially all of Europe and then outside of Europe, sort of India, Turkey, Mexico, Brazil, and took the business to $100 million in revenue, and it's grown way beyond that since I left.
+
+
+[00:03:24] But that was an incredible first journey into the world of startups and, and tech, and to me, a real eye-opener, both because we raised a bunch of money and had to manage that, but also just observing the speed at which BlaBlaCar was being adopted all over the world. And then I did a couple of years in VC in London at a fund called Balderton Capital.
+
+
+[00:03:48] They used to be the European benchmark, and then the two funds decided to go separate ways. And that was a really, really wonderful opportunity to learn more about what it takes to become one of the best [00:04:00] VCs investing at Series A and B. And Balderton invested in the seed and Series A of Revolut and led those both rounds, and Revolut today is one of the most valuable European private companies or tech companies.
+
+
+[00:04:14] And so did two years there and learned a ton, but I was so eager to be a founder, and so left and started my own business, which I ran for three years, helping remote teams to work like they're in the same room. And then one of the great learnings I had being a founder in London is that I absolutely wanted to be one in San Francisco, and so moved here with my husband, and then actually decided to open up EF offices in San Francisco.
+
+
+[00:04:41] And we can jump into EF in a bit, but today I'm a partner at Entrepreneurs First, and I have the great pleasure of working with all of our investments that relocate to San Francisco.
+
+
+[00:04:52] Gopi Rangan: Welcome. Well, it's great to see that you started your early career at a startup which went really well. The [00:05:00] experience of going through that journey from very small sizes of revenue to substantial revenue and global expansion is a very special experience indeed.
+
+
+[00:05:09] Not many people get to see that. It's good to see that you went through that at BlaBlaCar. And as you know, the founder of BlaBlaCar, Frédéric Mazzella, was my classmate, and I watched that journey getting formed in the early days, and I have huge admiration for what he and the team have done over the years.
+
+
+[00:05:24] So congratulations. Thank you. What do you like about the venture capital role? What is most interesting for you as a VC?
+
+
+[00:05:32] Isabel Bescos: That is a really interesting question because I actually think that being a VC really differs whether you're investing in the sort of very early stages or more sort of within the growth part of the venture journey.
+
+
+[00:05:44] And I will refer your question back to the work I'm doing now, which is, for those that haven't heard of Entrepreneurs First, we are an accelerator, but we'd actually call ourselves a talent investor, and that's because we are uniquely different. [00:06:00] We invest in individuals, and we're the best place for them to start their company journey.
+
+
+[00:06:06] Specifically, what this means is we help them build team around them, so most likely find a co-founder or, if not, be sort of a solo founder with a team around them. We help them land on an idea, and the way you think about it is we'd like to help founders find their life's mission.
+
+
+[00:06:22] And then the third piece we bring to the table is that all of the founders we back globally relocate to San Francisco and build their company for the U.S. market and then raise here in the U.S. as well. And so we operate across India, Europe, and the UK, and then the U.S. And the wonderful thing about being partner at Entrepreneurs First is that we actually get to say yes more often than not, in that obviously we take a really small number of applicants and people we pursue, so there's still a lot of no involved.
+
+
+[00:06:56] But we get to invest in individuals where we see potential, [00:07:00] and all we care about is that they've been outliers throughout most of their lifetime. And what we've seen over and over again is that actually outliers start being outliers from a really, really young age. They sort of out-compete their peers, so to say.
+
+
+[00:07:14] And one of the things that I find incredible about being a VC at a sort of... You know, we're not even pre-seed. We're sort of the thing that precedes pre-seed. Is that you get to work with individuals where you spot potential. But one of the things we don't talk about very often, and I love the name of your podcast, which is The Sure Shot Entrepreneur, is that entrepreneurs are actually not sure shots.
+
+
+[00:07:39] There's always, no matter who you look at, there's always a time in their life where they would have been non-obvious, and it would have been hard to believe that one day they were going to become the next Bill Gates and the next, trillion-dollar founder. And so I love the VC position I'm in today, which is I am working with people [00:08:00] that I believe have a huge potential, and then they sort of go out in the world and hopefully live up to it.
+
+
+[00:08:04] But I think that story is very different when you are a Series A and B investor, where you sort of look at what you think of as more of a finished package, and then have a business that in essence is already sort of going at a great pace and you're helping accelerate it. I think as a growth investor, you're really looking at, okay, can this company become public within three to five years? And so the equation is completely different.
+
+
+[00:08:28] Gopi Rangan: I can see that. I can see why you're excited about this. It's a pleasure and an honor to meet these founders early in their journey, listen to their story, get excited about it, and if we can play a small role in helping shape their future, it's really fulfilling. And I see that that's something you really enjoy.
+
+
+[00:08:46] You talked about Entrepreneurs First, the accelerator program. Who is this focused on? Who is a good fit for the accelerator?
+
+
+[00:08:55] Isabel Bescos: That is a great question. We are really for those that [00:09:00] want to play in the most ambitious part of the world, which is to say, if you want to build a company out of San Francisco, you should apply to EF.
+
+
+[00:09:11] We will spend a lot of time with you. We'll try to understand your journey, the way you think about ideas and businesses, but we actually don't expect you to have a business that you're working on, and we don't expect you to have a co-founder. Really, what we try and ascertain is, do you have what it takes? Do you have the grit, the sort of will to power, is what we call it, the personal exceptionalism, the followership? Do you have the ingredients that make you a potential candidate to be one day the CEO of a very large business? And we really believe that the environment you're in and the people you surround yourself with and the belief you're given will help shape you.
+
+
+[00:09:51] And so if you are today wanting to become a founder, you know you have it in you. You know you want to build something absolutely humongous, [00:10:00] but you don't have a co-founder, and you'd actually like to work on a few ideas before you decide on the business, then EF is the place for you.
+
+
+[00:10:08] Gopi Rangan: So there are investors that invest in pre-revenue companies, and there are investors who invest in pre-product companies.
+
+
+[00:10:17] You are a talent investor that invests in pre-team when the whole team's not fully formed, and the founder just has this instinct that it's time to start a company, and then they join EF. Is that right?
+
+
+[00:10:29] Isabel Bescos: Correct. Yes. That's why we call ourselves a talent investor, is because we will take a bet on you as an individual.
+
+
+[00:10:38] Gopi Rangan: How big are these cohorts when you start an accelerator program?
+
+
+[00:10:42] Isabel Bescos: I'm currently working with about 50 companies. So because we're very high believe investors, they are smaller as compared to some other accelerators. But yeah, you'll sort of be part of a batch of about 50 companies.
+
+
+[00:10:56] Gopi Rangan: And that's once a year?
+
+
+[00:10:57] Isabel Bescos: Four times a year overall. There's [00:11:00] about 150 companies a year that we back. Okay.
+
+
+[00:11:02] Gopi Rangan: And where are these companies located?
+
+
+[00:11:05] Isabel Bescos: So as I described earlier, we have teams, I have colleagues, investors in India, Europe, and the UK, and then in the US. And so you will start your journey from one of those geographies where you will work with colleagues of mine that will help you find a co-founder, help land on an idea. And then the moment Entrepreneurs First invests, you then relocate to San Francisco to build your company from here. And So our batches are incredibly international, as you can imagine.
+
+
+[00:11:39] But fundamentally, the companies we sort of invest in, they are US-incorporated companies, and the founders are choosing EF because they actually want to be a part of the SF ecosystem, but they just more generally want to build for the US. As you know, the US is the world's [00:12:00] biggest software market. The sort of level of ambition that I've experienced in San Francisco is beyond any other that I've seen.
+
+
+[00:12:07] And so I think it's the best place to be a founder, and we fundamentally believe that at EF, which is why we focused very heavily on making the pathway to the US as easy as possible for the founders that we back.
+
+
+[00:12:19] Gopi Rangan: What do you look for in a founder when you accept them?
+
+
+[00:12:23] Isabel Bescos: We have a pretty comprehensive understanding, having worked with many founders, of some of the traits that are really fundamental in both a CEO and a CTO.
+
+
+[00:12:37] We've historically built teams of two. We believe that that is the ultimate pairing for a tech company. Today, we're seeing more and more solo founders, and I think there's actually a lot of justified reasons for that. We sometimes have teams of three, but ultimately, we've sort of always thought about company building as an exercise that takes a CEO and a CTO.
+
+
+[00:12:58] And so I don't think I wanna [00:13:00] bore you with the whole exhaustive list, but some of the traits that we really index on are will to power. Is this person capable of willing things into existence? Will they do whatever it takes to, at the sort of EF stage, understand a problem really deeply?
+
+
+[00:13:16] Whether it's a real problem for customers, will they do whatever it takes to meet the right people so they get the help they need for the stage they are at? So will to power is a really important one. Another trait that we observe over and over and over in founders is personal exceptionalism. You have to truly believe that you will build something completely outsized.
+
+
+[00:13:40] And so, one of the things I love seeing in founders is no matter how much difficulty they encounter or how many nos or no matter the industry they're in, they will always believe that they can make it happen. Doesn't mean that they will decide to face challenges that are fundamentally [00:14:00] really, really hard to face.
+
+
+[00:14:01] But it definitely means that they think of themselves as more likely to solve these issues and problems than anyone else. Another one I see a lot in founders is the ability to create followership around them, so people buy into them, whether it's their customers are happy to give them a try even though it's somewhat irrational because they're a really early-stage business.
+
+
+[00:14:25] Employees will be happy to sign up for the journey even though, again, it's somewhat irrational, and then obviously investors will decide to invest.
+
+
+[00:14:33] Gopi Rangan: These are, like, many interesting angles with which you evaluate founders at very early stages. Can you give an example, like, how this conversation went when you started talking to founders and asked them questions?
+
+
+[00:14:48] What got you excited? Can you give one or two examples of the process?
+
+
+[00:14:53] Isabel Bescos: Yeah, a lot of the founders we work with, they're actually quite young, so they will have done things early in life [00:15:00] that indicate that they have all of those... I named three, I mean, there are many more, but that they have those as part of their mix.
+
+
+[00:15:07] So a lot of the founders we work with, they will have started building things quite early. They will have started making money. On the more sort of consumer, prosumer side, they will have started building communities very early on. The way we get to meet founders is by truly spending time with them and understanding what they've done in the past and how they've thought about it, how fast they've learned.
+
+
+[00:15:27] And one of the great privileges of doing what we do is that we actually get to know founders truly well. You know, many VCs have to make a decision, especially nowadays, within a couple of meetings, and credentials will be the most important thing that they'll look for. Whereas with us, and this is again part of the sort of optimism that underlies our model, we back individuals before they're the obvious choice.
+
+
+[00:15:49] They won't have as many credentials but they'll use EF as this really fertile ground to build those credentials up. And so by the time they go out to raise, they will have gotten traction, [00:16:00] and they will have built followership around them, and they will use that to then go fundraise. But there's no way of sort of sitting down with someone and getting their full story and a good understanding of who they are unless you truly spend time with them.
+
+
+[00:16:12] And so that's really all we anchor on.
+
+
+[00:16:15] Gopi Rangan: What matters more, the founder or the idea?
+
+
+[00:16:19] Isabel Bescos: We have that debate all the time. And again, it comes down to the stage at which you invest. If you are at our stage, you believe that the founder matters more. If you are a later stage investor, the idea actually matters a huge amount.
+
+
+[00:16:36] Great markets will carry most founders with them, and when the sea levels rise, every boat ascends with it. And so the bet we're taking is that fundamentally great people and great founders will find a way of landing on great ideas because they will be looking for real problems, problems that aren't just...
+
+
+[00:16:55] We've all been there, either tricked ourselves into believing that an idea [00:17:00] is a great one, or we have wanted to believe that the problem a company's solving, maybe our own, is a real problem to our customers. And so the bet we are fundamentally making is that great people will be real truth seekers, and they will find a problem, that is one really worth solving.
+
+
+[00:17:17] That is not the math that every VC can make, but it's certainly one that we can believe in.
+
+
+[00:17:24] Gopi Rangan: So let's take the example of a founder, a founder who's really interested in applying to EF and get into the accelerator program. What's your advice to the founder? How can they prepare before they come to a meeting?
+
+
+[00:17:35] What should they discuss or optimize for in the meeting to make that meeting effective both for them and for you?
+
+
+[00:17:43] Isabel Bescos: Yeah. I would have played around with either products or ideas of your own. I would have indexed on building something or showcasing that you have indeed in the past displayed one characteristic that is really, really important, which is just a sort of bias to [00:18:00] action.
+
+
+[00:18:00] So rather than having pontificated about what is a good idea, bad idea your whole life, what can prove to me that you've actually gone out and built the first few versions to just play around with things? Or equally, one of the things that we really love to see is when someone has a clear reason to start a business.
+
+
+[00:18:19] So if you are sort of playing in the arena with the idea of becoming a founder and building a business, there are tons of people like you, and unfortunately, it takes so much more than that to build a business for the next 10 years of your life that I would definitely be quite thoughtful and eloquent about why now is the right time or why it is that you believe that you have the sort of conviction it takes to build something truly big.
+
+
+[00:18:44] So it's those two things.
+
+
+[00:18:46] Gopi Rangan: Yeah. When you focus on those conversations, a lot of that personality also comes up, in- Completely. Yeah ... the meeting. Yes. So you get to see who they are. So let's say the founder got in to the program. What can they expect from the program? What does the program [00:19:00] do for them?
+
+
+[00:19:01] Isabel Bescos: They can expect to be in a room with other really ambitious people and that will be a driving force throughout the entire program. You will be carried by the speed at which everyone moves and the sort of level of urgency that they display. You will benefit from the EF infrastructure and the sort of ecosystem we've built, so we have great advisors that work with you and the EF team that have worked with hundreds of companies and can help guide you through your ideation and also the way you test out different co-founders.
+
+
+[00:19:32] And then finally, as you come to San Francisco, we will help you as much as we can to close customers, but also to fundraise. So we have, as you can imagine, a huge amount of investors that we're incredibly close to, and the kind of companies or the kind of fundraisers that our companies can run within three to six months of incubation are just unparalleled in the market.
+
+
+[00:19:53] And so one of the key reasons why founders join us is because it's very hard to find a place where building a company [00:20:00] becomes, on the one hand, as easy as it does with EF, but also on the other hand, you won't find the sort of level of ambition in one place anywhere else.
+
+
+[00:20:11] Gopi Rangan: Yeah, for an early-stage entrepreneur, having that ecosystem and the community is tremendously helpful.
+
+
+[00:20:18] Having peers in the ecosystem who are in similar stages, you can talk and share experiences, and creating that forum for them to connect with each other and share their experiences is incredibly helpful and valuable for them.
+
+
+[00:20:32] In today's times, on one side, I see there's tremendous interest in entrepreneurship.
+
+
+[00:20:38] Every college, every university has some kind of entrepreneurship program these days, especially the top ones. And most students graduating have some kind of business idea or they've worked on something on campus. Some of them even want to start businesses right away. I see that even as a trend in high school these days.
+
+
+[00:20:55] People are thinking about entrepreneurship as a career choice, and they are seriously interested in starting [00:21:00] something of their own. That was not the case about 10, 20 years ago, and I think the society is changing substantially to promote and embrace entrepreneurship. But on the flip side, it's also very difficult to build a successful business these days. The bar for success just keeps rising higher and higher. How do you adapt to this changing environment at EF?
+
+
+[00:21:21] Isabel Bescos: Yeah, we've seen this as well. I think it's become incredibly fashionable to be a founder. But equally, I get it, right? The founders have built phenomenal businesses over the last 20 years. Actually, if you look at Amazon, et cetera, it's been nearly, like, 20 to 30 years, and so it is a really aspirational career path, and that's why I was talking about will to power and the ability to see things through for the really long term. I think it takes a certain kind of person to build a business and actually most of it is deeply unglamorous. You will be very lonely as a founder, which is why you need to be incredibly resilient. You will have a lot of setbacks. You will be told no a lot. [00:22:00] You might think you're building something absolutely incredible, only for things to change really quickly. I mean, the advent of the big labs, they basically killed a ton of businesses, maybe all of software, who knows?
+
+
+[00:22:12] And so dealing with those kind of up and downs takes a certain kind of person. But again, I think if you are thinking about building a startup, I generally don't think there's a better way to test it than to just do it, and you will very quickly understand if that kind of lifestyle is suited to you. And then the way we think of it at EF is we test for the things we believe founders need to have, the kind of resilience and sort of will to power. Again, we look for proxies in your life, but also we give you that kind of playground to just test it out. And so which is why if you find that it's actually not for you or you don't want to build necessarily a venture-backed business, which again, I think there are many, many, many beautiful businesses that should exist, they just aren't venture-backed, then EF is one [00:23:00] way you can test that out.
+
+
+[00:23:01] Probably won't invest because that is not our focus. Our focus is to invest in founders that want to build venture-backed businesses and that want to run them for 10 years, and to want to go through all the up and downs and the pain of it all. It is just so deeply, deeply hard to build a business.
+
+
+[00:23:16] But I also think that as a founder, you shouldn't hesitate to just get started. There's no better way. And to be honest, your first business might fail, and then it'll be your second or third that becomes successful. Again, I wouldn't take those setbacks. If you deeply believe that this is how you want to spend your life, only you will have that answer, and you just got to convince those around you that you're serious enough about it.
+
+
+[00:23:38] Gopi Rangan: Bias for action, doing things, that propensity to do those things, not just talk about it or theorize and analyze, matters a lot. That's one of the- Yeah ... strong signs of a good entrepreneur.
+
+
+[00:23:50] Isabel Bescos: Yeah. I would argue that actually it's more important today than it's ever been. I think there could be a lot of paralysis right now because things are changing so quickly, and especially software [00:24:00] businesses are being sort of forced to pivot or maybe even being decimated right, left, and center. But it's never been more true that being in the arena is the first step forward, as in you just need to be at the forefront of where the models are going or where industries are heading in order to decide what the right play is.
+
+
+[00:24:20] One of the consequences of so many founders starting up now is that you just have a lot of competition in many markets. I wouldn't say every market, but in many markets. And so just being part of one of those companies and betting on the fact that you will figure it out faster than anyone else is truly the way to get started.
+
+
+[00:24:38] Gopi Rangan: You don't accept every founder that applies to EF. You say no to quite a few. What's your most common reason to say no?
+
+
+[00:24:47] Isabel Bescos: Yeah, our acceptance rate is narrower than Stanford's, as in we take a very, very small number of people that we talk to, partly because we pride ourselves with talking to many people, but also because we're very lucky to [00:25:00] have so many applications coming in for every batch that we run.
+
+
+[00:25:05] Ultimately, after having spent time with you, we need one person on our investment team to truly believe that you display the sort of characteristics that we believe founders should display. And so most often we'll say no because no one around the table is willing to sort of bang the table for you.
+
+
+[00:25:25] And so ultimately, when you invest in people, you're really relying on your team in having sort of seen and met enough founders and worked with enough founders to have the right kind of taste. And so most of the time, if we want to invest, it's because no one around the table believes that right now is not the time actually for them to build something big.
+
+
+[00:25:44] One of my favorite stories about EF is that is whenever we end up working with founders that we previously said no to. I think that in many ways, it proves our thesis that people become-- they might not seem sort of inevitable at one point, but then six months [00:26:00] later, they might. And so I'd actually like to turn around your question to answer it by saying, often we will have pursued founders for maybe like two, three years, and they will have thought it's not the right time, or then we think it's not the right time for them, or that they're not actually wanting to start a business for the right reasons.
+
+
+[00:26:15] And then eventually they join one of our programs, and it's just incredible to see them take off at an incredible speed. And so our nos are actually not final nos. They are, in many ways sort of ongoing conversations that we have with founders.
+
+
+[00:26:30] Gopi Rangan: So a no is more like not at this time or not on this idea, maybe something needs to evolve.
+
+
+[00:26:37] Let's talk again later.
+
+
+[00:26:38] Isabel Bescos: Correct. That's exactly how we think of nos.
+
+
+[00:26:41] Gopi Rangan: How many companies from your cohort, about a hundred and fifty companies every year, how many of them end up raising seed round, Series A round? Can you give a few examples?
+
+
+[00:26:51] Isabel Bescos: Yes, absolutely. So yeah, a vast majority of our companies raise a seed round coming out of EF, and actually, they routinely [00:27:00] raise from many of world's best funds.
+
+
+[00:27:01] So, over last year we've had Founders Fund, Benchmark, Index, Menlo Ventures, and many others back our companies at seed. One of the examples I'd like to name is actually a company called Strala. It's a German CEO and Swiss CTO. They're automating insurance claims and processes, third parties, and they met on EF actually about two years ago.
+
+
+[00:27:28] Then they raised their seed from Founders Fund, and they recently announced their Series A. They're all based in San Francisco now. They've actually been building an incredible team here of both Europeans that they knew and have come over to work for them, but also loads of Americans that they've hired here, and they've been growing at an incredible speed.
+
+
+[00:27:49] And you mentioned earlier that you actually started wanting to invest in VC or becoming a VC because of your interest in insurance, and I thought I'd name Strala to sort of close that loop. But yeah, [00:28:00] we have numerous Stralas that we've worked with, and it's just incredible to see founders that we've known from the very, very first stages of their career to building really strong businesses and teams around them.
+
+
+[00:28:12] Gopi Rangan: This is fantastic. You've given your philosophy on how you think, your advice to founders, how they can prepare, and you've also shared specific examples of how you make decisions and founders that you've backed and how they've gone on to raise subsequent rounds of funding.
+
+
+[00:28:28] This is incredibly valuable. Thank you for the candid answers. We're coming towards the end of our conversation, and I want to ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one?
+
+
+[00:28:41] Isabel Bescos: It's a great question, and it's one where I think deeds actually are more important than words.
+
+
+[00:28:47] And if I sort of look back at where my money has gone, it's been two nonprofits, and it's because of two friends that have spent their life working for either. One is Médecins Sans Frontières, which is [00:29:00] a not-for-profit that operates worldwide and dispatches medical resources and doctors to the world's worst conflicts and emergency zones.
+
+
+[00:29:09] And then my best friend's spent the last 10 years working for the International Red Cross, again, in war-torn countries and really, really dangerous parts of the world. And I think both of those are doing incredible work, and so I sort of support them via donations, I guess, and have for a really long time.
+
+
+[00:29:30] But especially in today's world, having organizations that still operate internationally and put themselves in the sort of line of fire I find incredibly inspiring and worth supporting.
+
+
+[00:29:43] Gopi Rangan: Isabel, thank you very much for spending time with me today. Thank you for sharing insightful stories. I look forward to sharing your nuggets of wisdom with the world.
+
+
+[00:29:52] Isabel Bescos: Thank you so much, Gopi.
+
+
+[00:29:53] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to [00:30:00] real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast.
+
+
+[00:30:10] I look forward to catching you at the next episode.
+

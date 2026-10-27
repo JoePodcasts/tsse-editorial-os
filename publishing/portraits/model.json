@@ -1,0 +1,12 @@
+{
+  "name": "BiRefNet-portrait",
+  "epoch": 150,
+  "format": "ONNX",
+  "bytes": 972666916,
+  "sha256": "1ba1c8ff5a7bbfadc8d8d13fb11d7be793f91f23d9d466549e37a854f6668f99",
+  "upstream_md5": "c3a64a6abf20250d090cd055f12a3b67",
+  "url": "https://github.com/danielgatis/rembg/releases/download/v0.0.0/BiRefNet-portrait-epoch_150.onnx",
+  "model_card": "https://huggingface.co/ZhengPeng7/BiRefNet-portrait",
+  "license": "MIT",
+  "license_source": "https://github.com/ZhengPeng7/BiRefNet/blob/main/LICENSE"
+}

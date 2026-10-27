@@ -1,0 +1,481 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 627,
+      "excerpt": "Maryanna Saenko: I might be screaming into the void on this one but give a damn about what you're funding and why. The industry should ask itself, \"what good are you doing in this world and to whom are you benefiting?\"...to really pause if the entirety of the focus of funds investment thesis is to bolster their own and their LPs pockets in the near term, and to essentially pay little to no mind to the long-term effects of continuing to push a particular type of extractive company forward in the world or a company that preys on human frailty or on an attention economy that we're already broadly suffering at the hands of.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 1001,
+      "excerpt": "Gopi Rangan: You are listening to The Sure Shot Entrepreneur, a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. My guest today is Maryanna Saenko. She's the co-founder and partner at Future Ventures.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 629,
+      "timestamps": []
+    },
+    {
+      "end": 1474,
+      "excerpt": "Future Ventures invests in disruptive technologies such as commercial space aviation, deep learning, quantum computing, robotics, sustainable transportation, synthetic biology and clean meat, and various other topics. We're going to talk to Maryanna to find out how she forms opinions, what questions she asks founders, and what gets her excited. Hopefully, we'll hear some stories that didn't excite her as much and why. Maryanna, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1003,
+      "timestamps": []
+    },
+    {
+      "end": 1587,
+      "excerpt": "Maryanna Saenko: Thank you so much for having me. I'm delighted to be having this conversation with you today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 1476,
+      "timestamps": []
+    },
+    {
+      "end": 1704,
+      "excerpt": "Gopi Rangan: I'm excited to learn about Future Ventures, but let's start with you. You grew up in Western Ukraine. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1589,
+      "timestamps": []
+    },
+    {
+      "end": 2184,
+      "excerpt": "Maryanna Saenko: That's right. I was born in Western Ukraine and my family and I left in the early nineties effectively as political refugees because my parents were rather prescient and basically believed then that what is happening there now that it was possible for such horrors to happen. That was my parents' fear and so we left. I grew up as an immigrant child traveling around and it's been quite a difficult few weeks for me watching what's unfolded in my home country. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 1706,
+      "timestamps": []
+    },
+    {
+      "end": 2431,
+      "excerpt": "Gopi Rangan: I can understand. I know we're going to talk about startups and venture capital, but I want to spend a couple of minutes learning a little more about how the situation is in Ukraine and your take on it, and how your family is doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2186,
+      "timestamps": []
+    },
+    {
+      "end": 3266,
+      "excerpt": "Maryanna Saenko: Thank you for asking. It's such a difficult and unbelievable time. It's hard to fathom that these kinds of atrocities can occur in our modern world. So I'm from Lviv, which is a beautiful city in the West [Ukraine] and I hope that all of your listeners someday have the opportunity and the privilege of seeing it in its full glory. That said, there were five missile strikes that landed on our city today. That is the city of my home, the current home of my extended family. And it's terrifying because, you know, this is not a military base. This is where humanitarian aid primarily is coming through the Polish border. It's hard to understand how the world can end up in places like this. It's given me a lot of pause and reflection on how we can create a broader sense of empathy and compassion among all people. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 2433,
+      "timestamps": []
+    },
+    {
+      "end": 3729,
+      "excerpt": "To say that this conflict in this region: \"Well, it's your problem and not my problem, right?\" That's kind of the sense that we have in these conflicts that are in far-flung places. I think it's important to pause and say, no, all conflict is global conflict and all conflict is all of our conflicts. It's important to look at these root causes and to understand how it is that we can drive so much animosity towards one another when everybody suffers for that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3268,
+      "timestamps": []
+    },
+    {
+      "end": 3924,
+      "excerpt": "Gopi Rangan: It's shocking indeed that after 2000 years of civilization, we still use bombs to convince people, to enforce other people's opinions, and not have a cordial discussion at a table.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3731,
+      "timestamps": []
+    },
+    {
+      "end": 4235,
+      "excerpt": "But the epitome of a society is creativity and innovation, which is the world you and I live in. We enable a lot of that creativity and innovation through our work in venture capital and working with entrepreneurs. I hope your work restores some of that peace back in the region and in the rest of the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3926,
+      "timestamps": []
+    },
+    {
+      "end": 5664,
+      "excerpt": "Maryanna Saenko: Thank you. Yeah, I have to say that one small gift in this is that my work, my passion, this thing we've started with Future Ventures, that I've never felt more motivated to continue because a lot of what we focus on is creating a more sustainable future for our collective humanity. And in many ways, you can look at so many global conflicts and absolutely the one in Ukraine as the wars of petrol states, as wars and conflicts over fertile land and over gas economies, and capacities for energies and shipping and trade and creating environments where you can have sovereign groups of individuals have the capacity to access their own energy sources and control their energy destinies in a manner that is feasible for the entire planet to act in that manner as opposed to, okay. We have economic wealth in some parts of the world that have largely been born on the back of burning hydrocarbons. And then those of us in the west who flourish in societies that have built their economic basis on hydrocarbons and are now transferring to cleaner forms of energy are then requesting of the rest of the world to not do so. That's very reasonably perceived as unfair globally. So, the question is how can we create a more verdant future that is more equitable for all in terms of alternative energies and capacities. It's a beautiful process, in the face of deep conflict, to feel well-aligned with your own work. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 4237,
+      "timestamps": []
+    },
+    {
+      "end": 6404,
+      "excerpt": "Gopi Rangan: It's challenging indeed. On one side, the developed countries in the Western world have exploited the planet and built flourishing economies, and prosperity for their people, and the developing countries are just beginning and enforcing stringent laws may not be fair to them while they're still evolving their economies and people aren't really prosperous. What's the right thing to do? How can technology help? How can we make the world a more fair place? That is the world that you're touching with Future Ventures. But all these stories started with your early years in science. You have degrees in material science and engineering and biomedical engineering. How did you switch from deep science research to investment? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5666,
+      "timestamps": []
+    },
+    {
+      "end": 7361,
+      "excerpt": "Maryanna Saenko: I was exceptionally fortunate and I think everybody finds their path into venture through some previously unexplored and unexamined route. I kind of joke that this is an industry of all the misfit toys in the sense that it takes a particular breadth of curiosity and risk tolerance to end up in such an industry. For me, the path was a bit circuitous. I was in graduate school and then went on to join a startup. That was out of MIT. We were working on long-range, low-frequency communication systems. From there, I went to work for a large materials company and had a series of fascinating jobs doing science that I was curious about and proud of, thoughtful about the things that it might create in the way. But it kept hitting these dead ends in the sense that larger-scale corporate decisions were made that were driving the institutional scientific thought in a way that I actually thought was at odds with the empirical data we had.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 6406,
+      "timestamps": []
+    },
+    {
+      "end": 8582,
+      "excerpt": "I realized that the companies that I had been involved with were optimizing for near-term shareholder value as opposed to long-term market capabilities. The only people that I saw working at odds with that or working on a longer-term timeframe were these as yet unknown to me creatures called venture capitalists who somehow had a slightly longer arc of vision and a different risk profile than many of the people that I had had the privilege of working with before, but not really knowing anything about the industry or how to get into it and not wanting to pay for business school. Because as an immigrant, you quickly realize that the most valuable asset you have is your education, and yet education is so expensive that it's best if somebody else pays for it. So, I ended up at a research and consulting firm called Lux Research. We got to work with many venture capital firms and I got to learn a bit more about the industry. I, through that work, found myself with a number of connections and I got invited to come over to Airbus - the European commercial aviation and defense space company - and help them run a venture fund, which was my first foray into the space. It was an unbelievable learning experience. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7363,
+      "timestamps": []
+    },
+    {
+      "end": 9057,
+      "excerpt": "Gopi Rangan: Fascinating journey indeed, from the deep end of science to investing. I understand how there can be similarities and actually more pleasure in the role you have now, because you have the ability to think about long-range, long-term investments that can actually sustain for the long term. Be patient with your capital investments and see the returns over a long period of time. What is Future Ventures about and how is the firm different from other VC firms? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8584,
+      "timestamps": []
+    },
+    {
+      "end": 9820,
+      "excerpt": "Maryanna Saenko: In some ways, we're different than other firms and others were ostensibly the same. We're the same in the sense that I think all venture firms at least self-proport to wanting to fund the vision of the long arc of humanity, of our capacity to continue existing on this and other planets. I mean, who doesn't want to for that as a north star? Our thesis specifically is to say, \"Well, what if we only did that? What if we only focused on the kinds of companies that history books might be one day written about? What if we only focused on the kinds of companies that don't prey on human frailty, the sorts of businesses that aren't globally extractive, but that in turn enable a more verdant world, one that offers a greater sense of abundancy.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 9059,
+      "timestamps": []
+    },
+    {
+      "end": 10273,
+      "excerpt": "My co-founder Steve Jurvetson and I just broadly believe in technology's capacity to do that across almost every industry. To that effect, our fund is very simple in some ways. So we have raised several $200 million funds. We're investing out of our second one. We'll be starting our third later this year. On the investment side it's just myself and Steve, so very efficient in a decision-making space, and I'm sure we'll chat a bit more about that. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9822,
+      "timestamps": []
+    },
+    {
+      "end": 11010,
+      "excerpt": "We invest at the earliest stages of the formation of companies. So, we invest seed, Series A, the very occasional B, but it's more far more often than the first check in. And we really look at that leverage point of technology of saying we don't invest in basic science. We invest at the stage where it's a technological translation question and we recognize that those translations can take a long time. Our funds are 15-year fund cycles, which allows us to be a little bit more patient and allows in the out years when you realize who your winners are and the companies that are doing the greatest good in the world to even further support them, as opposed to thinking about how to extract your capital and run in the next direction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10275,
+      "timestamps": []
+    },
+    {
+      "end": 11363,
+      "excerpt": "Gopi Rangan: You mentioned a few phrases here, technological transformation, transitions, and 15-year fund cycles. You're raising multiple $200 million funds. I want to unpack some of this. You mentioned a little earlier before we started talking how the industry is hilariously opaque. I want to understand a little more about how we can change that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11012,
+      "timestamps": []
+    },
+    {
+      "end": 11582,
+      "excerpt": "What does it mean for entrepreneurs when the fund is a 15-year cycle? What stage do you like to invest in? And when you mean that technology transitions have happened or not happened, what is the right stage for you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11365,
+      "timestamps": []
+    },
+    {
+      "end": 12283,
+      "excerpt": "Maryanna Saenko: So what a 15-year fund means is that most funds have an investment period, which is some number of years that the fund is investing in novel portfolio companies within that fund. Then some number of years of maturation of those companies, where maybe you're making subsequent investments from the original capital pool to continue supporting them. And then some number of years where you're effectively enabling those companies to come to their next level of maturation, whether it's them hopefully going public and existing in the long-term as standalone entities on their own, or perhaps merging with other well aligned institutions or some subset of companies just don't make it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 11584,
+      "timestamps": []
+    },
+    {
+      "end": 12663,
+      "excerpt": "So, really, you have this set number of years and with many funds that operate on 10-year time cycles are shorter, the reality is that you've got a handful of years, just a short handful number of single-digit years in which you need to see that growth, and then a capacity to essentially recoup if not the majority at least a good portion of your capital to repay your own LPs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12285,
+      "timestamps": []
+    },
+    {
+      "end": 12967,
+      "excerpt": "The difference in having a 15-year fund, in years seven and eight of a fund cycle, we don't have to start asking the question of: how do we recuperate our cost in basis into our portfolio companies? Rather, we can think, \"Now these companies are hitting their stride, right?\" They're 7, 8, 9 years old.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12665,
+      "timestamps": []
+    },
+    {
+      "end": 13318,
+      "excerpt": "If they're starting to make a real dent in the markets that they're moving in, this is the time to further support them. This is the time to maybe even buy in more rather than thinking about how to extract. That really allows the companies a handful more years in potentially their most delicate ears to feel the support of their earliest investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12969,
+      "timestamps": []
+    },
+    {
+      "end": 13693,
+      "excerpt": "Gopi Rangan: Venture capital, in general, is a long-term commitment indeed, but 15 years really pushes it by another 50% longer. It's a very very long-term commitment. Can you give examples of conversations you have with founders? What happens in the first and second meetings, especially with deep tech founders? How did they prepare for that meeting? What's your advice? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13320,
+      "timestamps": []
+    },
+    {
+      "end": 14028,
+      "excerpt": "Maryanna Saenko: We invest primarily in deeply technical companies and the vast majority of those are led by technical leaders, which isn't to say that, you know, if you don't have a PhD, you shouldn't come and pitch to us, but it does mean that we have anchored around understanding our businesses from the deepest technical weeds. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 13695,
+      "timestamps": []
+    },
+    {
+      "end": 15266,
+      "excerpt": "We do expect that in the earliest conversations the leaders of those companies have a technical acumen about what they're doing to the point that there's not a question that we as effectively laypeople and very likely not experts in your field can ask of you as an entrepreneur, that you would be incapable of answering. This isn't to say that we expect all entrepreneurs to have all answers to all questions, but at least to say that it's probably unlikely that we can ask a technical question at a depth that a leader in a startup in this space can't answer. Unfortunately, this doesn't end up being true often and it's always a bit shocking to us. If I ask a question about someone's electric aircraft, for example, and they can't explain to me the basic flight physics of it, like, you know, the lift to drag ratio or the battery pack density, or the total energy consumption of their process relative to like the total scale of the US electric grid...these kinds of like first-order questions. If we're met immediately with an answer of, \"oh, let me get you on the phone with our technical person to answer that\", it makes me pause generally and say: how well versed are you in the deeper technical weeds of what you're working on?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14030,
+      "timestamps": []
+    },
+    {
+      "end": 15573,
+      "excerpt": "The meetings that go best with Steve and myself are the ones where we meet deeply passionate people who really understand the ins and outs and aren't afraid to shy away from the spaces of \" here's what we know, here's what's unknown to us, and here's our approach for starting to address those questions.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15268,
+      "timestamps": []
+    },
+    {
+      "end": 15887,
+      "excerpt": "Gopi Rangan: You're an investor in space X and Neurolink and mobile coin in genomics companies like deep genomics is a wide variety of deep tech topics. Can you pick one example and talk about what happened in that first meeting? What were your questions and what did you expect as answers from the entrepreneur?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15575,
+      "timestamps": []
+    },
+    {
+      "end": 16344,
+      "excerpt": "Maryanna Saenko: Yeah, they're all fascinating to me. I think sometimes people look at our portfolio and say, what is this Pogo stick hop through ideas space. But for us, it's always about understanding the relevant adjacencies that have caused us to think deeply about a particular sector. So I can give an example of how we ended up as an investor in a handful of companies that might seem wildly disparate, but there's actually a trace of technologies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 15889,
+      "timestamps": []
+    },
+    {
+      "end": 17042,
+      "excerpt": "Cambrian Life Science is a New York-based company that's working on longevity and specifically understanding the biomarkers of longevity. The way that they operate as they actually have an umbrella of portfolio companies where each company is working on a specific unique therapeutic that will solve a disease space, but in the course of them understanding that their therapeutic approach in the disease space, they're also concurrently setting up all of their research and clinical trials to concurrently understand particular biological markers of aging, which the broader longevity community have independently understood to be important within the landscape of understanding aging frameworks.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16346,
+      "timestamps": []
+    },
+    {
+      "end": 17966,
+      "excerpt": "We became early investors in Cambrian because we thought that this is a novel, and necessary approach to understanding aging, which is to look at it not as one thing, right? It's not just telomere length or it's not just methylation clocks. We age for a compendium of reasons and if we want a holistic understanding of the space, we should look at the space holistically. That company has done very, very well. We're delighted to see the progress and the number of maturing underlying portfolio companies that are coming up through the Cambrian pipeline. Through engaging with the leadership team, James Peyer, the CEO, we got to talk a lot about nutrition, metabolomics, and the effect that diet has on our whole body system. And at the same time, we were hearing maybe more broadly in the space that in oncology and cancer care we essentially do everything we possibly can for cancer patients except address their diets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17044,
+      "timestamps": []
+    },
+    {
+      "end": 18660,
+      "excerpt": "It's like, man, if you are dealing with cancer, you are in a tough spot. It is a horrific experience for you, your immediate caretakers, your extended family. People are just doing everything they possibly can to support cancer patients on their journeys. One of the great challenges with cancer patients is keeping their weight up. Because if they start getting emaciated, the very strong and tough therapeutic modalities of action start addressing the healthy cells first. What you want to do is keep the person as healthy as possible while attacking the cancer. So, the answer is like, \"well, let them eat cheeseburgers, let them eat whatever they want to eat, just so they keep weight on.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17968,
+      "timestamps": []
+    },
+    {
+      "end": 19612,
+      "excerpt": "It's crazy to consider when we think about how we know diet is so important to our overall health and yet we effectively don't address the diets of cancer patients. Through that and through the understanding that we had gained with Cambrian, we became investors in Faeth Therapeutics. Faeth is an amazing company that is basically partnering nutrition metabolomics with artificial intelligence and cancer therapy modalities to create holistic sets of care for cancer patients. Through that, we became so aware of just how much metabolism metabolomics, and diet nutrition affects the immune system. That's how we became investors in Beeflow, which is basically a bee immunology company. It's a company that helps bolster the immune systems of bees through nutrition to allow them to survive these global hive colony collapse issues and continue to pollinate our food because a vast portion of the food on earth continues to be pollinated through bees.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18662,
+      "timestamps": []
+    },
+    {
+      "end": 20095,
+      "excerpt": "And so, this is how we ended up from longevity in humans to immune systems of bees, which was this, over the course of a couple of years, continuing to explore deeper and deeper into these spaces of biomarkers of health, understanding longevity, then understanding metabolomics and understanding how the metabolism affects the immune system, and then being able to take that and pop it over into it almost entirely adjacent space, and yet a lot of the learnings really translated. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19614,
+      "timestamps": []
+    },
+    {
+      "end": 20689,
+      "excerpt": "Gopi Rangan: I can see that your investment thesis flows from one startup to the next, and they're all kind of interlinked. I'm curious to understand what are some common mistakes entrepreneurs make when they come to you? You mentioned earlier that if the leader says, \"Hey, I need to get back to you on some basic-level questions. I need to bring the technical expert, that gives you a pause, but other things about especially deep tech startups that entrepreneurs like type one mistakes that they make, or maybe even more complicated mistakes that you find out after multiple conversations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20097,
+      "timestamps": []
+    },
+    {
+      "end": 20782,
+      "excerpt": "Can you highlight a few things that make you say, \"Well, this is not an investment for me\"?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20691,
+      "timestamps": []
+    },
+    {
+      "end": 21350,
+      "excerpt": "Maryanna Saenko: Yeah, I love this question. I hesitate to call them mistakes because I was like as a venture fund, Future Ventures, as myself and Steve, we have a particular view on the world, but it's our own particular set of perspectives, biases, and opinions. If someone approaches us in a manner that doesn't resonate with us, I hesitate to call that a mistake. It just means that whatever this entrepreneur did, it didn't resonate with us, but that doesn't mean it's wrong. It just means that we didn't quite follow. So for us, it's a couple of simple tenets.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 20784,
+      "timestamps": []
+    },
+    {
+      "end": 21662,
+      "excerpt": "The first you just reiterated it. Just bring your technical team, like just do everyone a favor, you know, like show up the first meeting with I get it. I mean, you and I have both talked to plenty of our peers in the space. It's amazing how decidedly high level, certain people are just adamant at staying at.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21352,
+      "timestamps": []
+    },
+    {
+      "end": 22621,
+      "excerpt": "That's not us, Steve and I are deep in the technical weeds. That's what inspires us. It's what drives us. It's what motivates us. It's what makes us excited to do this work. So, I think the first-order effect is like, know your audience. I think we're pretty loud in the world about who we are and what our interests are and so you show up with your technical team. We want to talk to them. We care. We're interested. Those are the most interesting questions for us. The second effect is maybe along the same lines, which is when we chat with someone who doesn't have maybe a very grounded perspective of the landscape that they're operating in the sense that, I mean, everyone has the two by two chart where there are the four quadrants and everyone else potentially in the field is. Some random access that they've decided in the left-hand and lower-hand quadrants. And they're the only company at all in the upper right, and they're so far off the chart.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21664,
+      "timestamps": []
+    },
+    {
+      "end": 22662,
+      "excerpt": "Gopi Rangan: All slide decks have that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22623,
+      "timestamps": []
+    },
+    {
+      "end": 23833,
+      "excerpt": "Maryanna Saenko: Yeah, every single slide deck. Or the one with the check marks of like, here is all of the relevant axes on which we compare ourselves to any other approach in the space and we're better on every single aspect of it, and there's no modulation for that. I always pause and say, \"there is a trade-off here, so whatever it is, be aware of it and be able to speak to it.\" because it's exceptionally rare that there's no trade-off and that trade-off maybe it's not technical. Maybe it's time, maybe it's regulation, maybe it's public sentiment, right? A lot of the reason that nuclear fusion hasn't happened is not because it's unsafe or technically infeasible or more expensive. It's that public sentiment and regulation around fusion sucks. So, we have lots of fusion companies that have come and pitched to us and not a single one of them has at all approached us with a sentiment of \"regulation is really hard. Here's a novel or interesting take on it\" and said, \"we generally hear regulation is really hard. We're going to keep trying out at the same way that everyone else has\" and maybe they'll make it, but it's just not that compelling of a story. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 22664,
+      "timestamps": []
+    },
+    {
+      "end": 24311,
+      "excerpt": "These are the kinds of things where we say, there's a reason that an industry hasn't moved forward in the way that you would like it to and if you're going to come in and say that you've solved every single problem, and you're better than all of your competitors on every axis, and there's no question in your mind, then that's another place that we have paused and say, \"yeah, but let's get into the weeds because after we invest, we're going to be on your side of the table.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23835,
+      "timestamps": []
+    },
+    {
+      "end": 24587,
+      "excerpt": "So like, let's talk honestly about where the challenge points are\" You're not winning yourself any favors by trying to pull the wool over someone's eyes and say \"there are no problems in the space. Where a sure bet.\" Because look, statistically, startups aren't a sure bet. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24313,
+      "timestamps": []
+    },
+    {
+      "end": 24746,
+      "excerpt": "Gopi Rangan: This is fascinating indeed. The deep tech world is slightly different from the rest of venture capital although there are a lot of similarities.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24589,
+      "timestamps": []
+    },
+    {
+      "end": 25298,
+      "excerpt": "Your advice to entrepreneurs in this space is bring your technical team, don't be shy to dig deeper on technical topics because that's what you care about, and be aware of regulatory challenges, and public policy challenges. A company might be viable technically, and a company might be viable from a business model revenue perspective, but we also need to be aware of how the company will tackle some of the challenges that exist today in public policy and other situations that might prevent the company from growing quickly. It's very interesting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24748,
+      "timestamps": []
+    },
+    {
+      "end": 25378,
+      "excerpt": "If you were to change one thing about venture capital, what would you change? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25300,
+      "timestamps": []
+    },
+    {
+      "end": 26639,
+      "excerpt": "Maryanna Saenko: That's interesting. As an engineer, I think mechanistically about problems. There's the philosophical and ethical and moral issues. We need to address those on a societal level. And then I also think, at the end of the day, economics kind of holds a particularly efficient way. If I was to change something about venture capital, it should be around something that I have annoyance with. And maybe not me, you know, that we collectively have some annoyance within venture capital. It's tough because one of the spaces that people complain about venture capital is its opacity to founders. Its lack of equitability. Its lack of access. All of those things are important to address. But when I think about it structurally, I think one of people's great frustrations with venture capital is essentially their sentiment that like I'm doing something important and interesting in the world and I'm having a really hard time getting funding for it. So venture capitalists are horrible humans who don't understand what is good for the world because otherwise, I would be raising money. Look over here on the left. There are all these clowns who're raising money for terrible things that there are already 15 iterations of. How deeply unfair is that?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 25380,
+      "timestamps": []
+    },
+    {
+      "end": 27547,
+      "excerpt": "I think that's a reasonable perspective. To game this out in real-time, what are the structural issues that'll allow people to have those perspectives? It's two things, one, on the entrepreneur side, there's maybe a bit of lack of understanding of what are good venture capital businesses? We don't do a good job as VCs broadly as an industry, broadly as a global capitalist economy of saying like, these are the kinds of businesses that are well suited to venture dollars, and here's why, particularly in the deep tech spaces where people lose their minds trying to understand why they can or can't get venture funding. It just requires a more nuanced conversation saying, yes, something like Commonwealth fusion systems, which is building a nuclear fusion plant can raise billions of dollars of venture capital dollars, yet your interesting and equally important company is struggling to raise 2 million.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26641,
+      "timestamps": []
+    },
+    {
+      "end": 28342,
+      "excerpt": "I think the first thing that I would try to change is a better global sense of understanding of where venture dollars are best suited and how the industry works. The other is on us as venture capitalists, and I might be screaming into the void on this one, is to give a damn about what you're funding and why. What good are you doing in this world? And to whom are you benefiting? And to really pause if the entirety of the focus of a funds investment thesis is to bolster their own and their LPs pockets in the near term, and to essentially pay little to no mind to the long-term effects of continuing to push a particular type of extractive company forward in the world or a company that prays on human frailty or on an attention economy that we're already broadly suffering at the hands of.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27549,
+      "timestamps": []
+    },
+    {
+      "end": 28607,
+      "excerpt": "The more important question for me is: how do we get VCs to start caring about what they're funding and caring beyond how many dollars it immediately returns to them, but to actually care about their legacies and what their help bringing into being in the world. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28344,
+      "timestamps": []
+    },
+    {
+      "end": 29266,
+      "excerpt": "Gopi Rangan: Very very important indeed. I especially empathize with entrepreneurs who point to all these clowns who build mobile apps and raise millions of dollars overnight while these entrepreneurs complain, \"Hey, look, I've been working on this important problem that has an impact on the world and society. It's a very difficult problem. I've spent many years of research building the solution, but no one's willing to fund this solution. I hope there are more firms like Future Ventures that focus on deep tech and enable entrepreneurs like the deep tech entrepreneurs that you meet, helping them build big businesses that really transformed society. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28609,
+      "timestamps": []
+    },
+    {
+      "end": 29439,
+      "excerpt": "I want to switch to the last part of our conversation and ask you about your community involvement. Is there a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 29268,
+      "timestamps": []
+    },
+    {
+      "end": 30338,
+      "excerpt": "Maryanna Saenko: I have been so deeply grateful for the work and the support of the humanitarian aid that has been pouring into Ukraine. It's absolutely wild to me. And it's made me recognize that grassroots hand-to-hand movements are the ones that really work. As this war drags on, and as I think about the part of the world that I come from, I am so deeply grateful for the organizations like World Central Kitchen, and Care, which focus on children in conflict and war-torn areas. I think that for all of us, we can pause and say, what are the parts of the world that are most suffering, and what are the organizations that are going in there when the headlines stop printing when the constant newsfeed turns its attention elsewhere? Who are the people who are showing up in the places that everyone else seems to forget about? These are the kinds of organizations that I'm deeply inspired by.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 29441,
+      "timestamps": []
+    },
+    {
+      "end": 30522,
+      "excerpt": "Gopi Rangan: Maryanna, I thank you so much for sharing deep insights on deep tech and your personal involvement in important activities, especially given what's happening in Ukraine.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30340,
+      "timestamps": []
+    },
+    {
+      "end": 30646,
+      "excerpt": "Thanks a lot for sharing your time and insights with the entrepreneurs. I look forward to sharing your nuggets of wisdom. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 30524,
+      "timestamps": []
+    },
+    {
+      "end": 30747,
+      "excerpt": "Maryanna Saenko: Thank you. It was such a pleasure. Thank you for the time and for the work you do.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Maryanna Saenko",
+      "start": 30648,
+      "timestamps": []
+    },
+    {
+      "end": 31090,
+      "excerpt": "Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 30749,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "bb0db18e065563a6859beac97de97035311d8e2f10d9c386dca6baa2e269dcf7",
+  "text_sha256": "db6b4b3ccd108b448d551df0b65d2dad6d5f8de736fa03927c95a9bae1d65257"
+}

@@ -1,0 +1,13 @@
+{
+  "provenance": "Queries grounded in retained official TSSE pilot sources; checks assert a source type/episode, not an exact rank.",
+  "queries": [
+    {"query":"Gokul Rajaram","source":"metadata","expected_episode":2,"purpose":"Guest/source-speaker name in catalogue-search fields"},
+    {"query":"proof of value","source":"episode_title","expected_episode":195,"purpose":"Official title phrase for recent content"},
+    {"query":"Commerce Ventures","source":"show_notes","expected_episode":75,"purpose":"Company in published notes"},
+    {"query":"relentlessly resourceful","source":"transcript","expected_episode":2,"purpose":"Founder/investor concept and exact older transcript phrase"},
+    {"query":"choosing a partner in life","source":"transcript","expected_episode":191,"purpose":"Known transcript phrase with source timestamp and speaker"},
+    {"query":"physical enterprise","source":"show_notes","expected_episode":195,"purpose":"Published notes distinguishable from transcript"},
+    {"query":"Welcome and quick intro","source":"episode_title","expected_episode":1,"purpose":"Oldest episode metadata"},
+    {"query":"Rohini Chakravarthy","source":"metadata","expected_episode":195,"purpose":"Recent guest/source speaker metadata"}
+  ]
+}

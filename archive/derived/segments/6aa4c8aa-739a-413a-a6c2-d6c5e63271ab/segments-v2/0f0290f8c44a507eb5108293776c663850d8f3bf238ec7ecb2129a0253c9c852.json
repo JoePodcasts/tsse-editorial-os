@@ -1,0 +1,1039 @@
+{
+  "end": "exclusive",
+  "extractor_version": "segments-v2",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 306,
+      "excerpt": "I make a lot of introductions for founding teams. There's a little secret there. (A) I want to do that because whether I invest or not, I want the team to succeed. (B) while I'm making those introductions, I'm just gathering data. What I find in those scenarios is that I just keep learning and uncovering.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 414,
+      "excerpt": "It's almost like an onion, right? You just keep peeling back the layers and learning about opportunities. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 308,
+      "timestamps": []
+    },
+    {
+      "end": 673,
+      "excerpt": "[00:00:34] Gopi Rangan: You  are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful and authentic stories to help you realize your vision.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 416,
+      "timestamps": [
+        {
+          "offset": 416,
+          "raw": "[00:00:34]",
+          "seconds": 34
+        }
+      ]
+    },
+    {
+      "end": 939,
+      "excerpt": "Welcome to the Sure Shot Entrepreneur. Today's guest is Andrea Kalmans. She is an investor, founder at Lontra Ventures. Andrea and I collaborate on opportunities where we try to find great entrepreneurs to invest in. Andrea, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 675,
+      "timestamps": []
+    },
+    {
+      "end": 1014,
+      "excerpt": "[00:01:12] Andrea Kalmans: Hey Gopi, it's fun to be here. Happy New Year.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 941,
+      "timestamps": [
+        {
+          "offset": 941,
+          "raw": "[00:01:12]",
+          "seconds": 72
+        }
+      ]
+    },
+    {
+      "end": 1022,
+      "excerpt": "Happy ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1016,
+      "timestamps": []
+    },
+    {
+      "end": 1330,
+      "excerpt": "[00:01:15] Gopi Rangan: New Year to you too. In this episode, Andrea and I talk about her journey as an investor, starting from where she grew up in Minnesota and how she spent time on the Wall Street in New York, and then she eventually moved to Austin. Austin's going through a boom for many, many years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1024,
+      "timestamps": [
+        {
+          "offset": 1024,
+          "raw": "[00:01:15]",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "end": 1686,
+      "excerpt": "She gives specific examples of startups she has invested in, how she met the founders, and how they impressed her and what she looks for in these founders, especially at the earliest stages. She talks about how she is not afraid to have an opinion that's contrarian and differs from other investors and what she has learned as an investor over the years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1332,
+      "timestamps": []
+    },
+    {
+      "end": 1788,
+      "excerpt": "Andrea, tell us about yourself, starting with where you grew up and how you built a life in Austin. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1688,
+      "timestamps": []
+    },
+    {
+      "end": 1992,
+      "excerpt": "[00:02:04] Andrea Kalmans: Well, there's a lot to share and I'm excited to be here to chat with you. By the way, I've loved listening to the recent episodes. So thank you for using your time to do this.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 1790,
+      "timestamps": [
+        {
+          "offset": 1790,
+          "raw": "[00:02:04]",
+          "seconds": 124
+        }
+      ]
+    },
+    {
+      "end": 2313,
+      "excerpt": "So I live in Austin, Texas, which I feel very, very, very fortunate to live in such a thriving, wonderful city. When people ask me all the time, sort of, how did you become interested in entrepreneurship and why are you supportive of startups? I always sort of think back to my grandparents who are Holocaust survivors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1994,
+      "timestamps": []
+    },
+    {
+      "end": 2640,
+      "excerpt": "And my grandparents really instilled in all of us a 'make it happen', 'can do', 'American Dream' sort of attitude. And so when I think about why am I an angel investor, it's really about finding things that I believe in and using the power of my energy and my checkbook and my connections to sort of make those things happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2315,
+      "timestamps": []
+    },
+    {
+      "end": 3027,
+      "excerpt": "So I grew up in Minnesota. I went to the university of Wisconsin and studied finance and economics. While I was there, I got to know a professor who sent me to some of his colleagues in Chicago to meet folks at Solomon Smith Barney. From there, they sent me to New York where I accepted a two year position at an investment banking analyst position at Solomon Smith Barney in New York.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2642,
+      "timestamps": []
+    },
+    {
+      "end": 3436,
+      "excerpt": "It was funny times, 1998. When I accepted the job, it was Solomon Brothers. By the time I accepted the offer, it was Solomon Smith Barney, and by the time I actually took the job, it was Solomon Smith Barney, a member of Citigroup. That's just sort of an indication of the amount of mergers that were happening at that time, and the amount of innovation and consolidation that was happening in the industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3029,
+      "timestamps": []
+    },
+    {
+      "end": 4148,
+      "excerpt": "I got to New York in the summer of 1998. Actually, Jamie Dimon introduced our class the very first day, which I now every time I see him on the news, I just think, wow, what an unbelievable way to have started my career. I was placed in the media and telecom division. And if you remember that time in history, 1998, was the IPO boom, and then of course the bust. I was put on IPO deal teams. We took Double Click, helped them do secondary convertible notes, like a billion dollars in a day. We did so many different IPOs. I realized at that time getting to know the founders of the companies that we were helping finance that I would love to be part of the entrepreneurial journey that they were experiencing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3438,
+      "timestamps": []
+    },
+    {
+      "end": 4460,
+      "excerpt": "So I met my husband in New York and he was a native Texan and I was wanting to go back for my MBA. So we got engaged. I read an article in 1999 about Austin was booming in Fortune magazine. I said, Walter, we're going to move to Austin. We're going to spend the rest of our life there. I'm going to get my MBA.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4150,
+      "timestamps": []
+    },
+    {
+      "end": 4702,
+      "excerpt": "We're going to do entrepreneurial things and life is going to be great. The thing about that, that's so amazing is the journey we laid out over 20 years ago is the journey that we've followed. I'm very, very grateful for my life every day. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4462,
+      "timestamps": []
+    },
+    {
+      "end": 4839,
+      "excerpt": "[00:05:24] Gopi Rangan: Oh, this is great. Starting in Minnesota, going through New York and now in Austin and Austin is still booming.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4704,
+      "timestamps": [
+        {
+          "offset": 4704,
+          "raw": "[00:05:24]",
+          "seconds": 324
+        }
+      ]
+    },
+    {
+      "end": 4859,
+      "excerpt": "That's fantastic. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4841,
+      "timestamps": []
+    },
+    {
+      "end": 5061,
+      "excerpt": "[00:05:31] Andrea Kalmans: Well, it's very ironic to have read that article then because the articles that people are reading now are almost the same. I wish I could go back and look at the archives. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 4861,
+      "timestamps": [
+        {
+          "offset": 4861,
+          "raw": "[00:05:31]",
+          "seconds": 331
+        }
+      ]
+    },
+    {
+      "end": 5143,
+      "excerpt": "[00:05:42] Gopi Rangan: And that's right. Yeah. How did you become an investor? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5063,
+      "timestamps": [
+        {
+          "offset": 5063,
+          "raw": "[00:05:42]",
+          "seconds": 342
+        }
+      ]
+    },
+    {
+      "end": 5269,
+      "excerpt": "[00:05:46] Andrea Kalmans: So I had always wanted to get involved in startups. It was very much like an itch that was in me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 5145,
+      "timestamps": [
+        {
+          "offset": 5145,
+          "raw": "[00:05:46]",
+          "seconds": 346
+        }
+      ]
+    },
+    {
+      "end": 5646,
+      "excerpt": "I did a number of internships during my MBA at startups. And at that time it was Austin Ventures and Austin Ventures Labs, things that are part of the Austin investing history, not so much as the current environment. Then I actually took a job at Dell after my MBA, which was, I think, perceived by a lot of people as sort of a little off course, you know, what is she doing?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5271,
+      "timestamps": []
+    },
+    {
+      "end": 5977,
+      "excerpt": "She was in finance. She was on Wall Street. She worked at startups. What is she doing in product management? And those number of years were actually incredibly instrumental in teaching me about product development and product life cycles and product launch. I did those for a number of years. And I was treated very well at Dell.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5648,
+      "timestamps": []
+    },
+    {
+      "end": 6345,
+      "excerpt": "I had two kids while I was there. Sabrina's now 17. Hudson's now 15. I really, really stayed at Dell for a nice long time, and I was starting to feel like it was really time to move on. If I was going to be an entrepreneur, it was time to go. In 2008, the world was really starting to become a very complex financial environment, and Dell was doing voluntary leaves.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5979,
+      "timestamps": []
+    },
+    {
+      "end": 6666,
+      "excerpt": "So I took the package. My husband had just been part of a company called OTN. And he had also just taken a packet. And as a result of that, he had started Lontra Ventures just a couple of months before. And I said, Walter, you're getting a partner. And so it happens, you know, that's the way the world works sometimes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6347,
+      "timestamps": []
+    },
+    {
+      "end": 7031,
+      "excerpt": "When I first left Dell, I thought I was going to do consulting and I do do consulting, but today I do consulting much more in an advisory capacity. In 2012/2013, I really started to actively invest as Techstars came to Austin. There's a whole genre of companies that were started by Jason seeds, the Techstars Cloud Program, and then the Techstars Austin program.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6668,
+      "timestamps": []
+    },
+    {
+      "end": 7308,
+      "excerpt": "That's where I really began to make my network start to actively invest, get to know the other people in the Austin startup scene. And so I joined Capital Factory. I joined the University of Texas Venture Labs program. And then, you know, my investing started to have wings. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7033,
+      "timestamps": []
+    },
+    {
+      "end": 7374,
+      "excerpt": "[00:08:14] Gopi Rangan: What kind of companies do you invest in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7310,
+      "timestamps": [
+        {
+          "offset": 7310,
+          "raw": "[00:08:14]",
+          "seconds": 494
+        }
+      ]
+    },
+    {
+      "end": 7517,
+      "excerpt": "[00:08:17] Andrea Kalmans: So, I always love a startup with a big market share, like a really wildly big market share or market opportunity. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 7376,
+      "timestamps": [
+        {
+          "offset": 7376,
+          "raw": "[00:08:17]",
+          "seconds": 497
+        }
+      ]
+    },
+    {
+      "end": 7772,
+      "excerpt": "[00:08:27] Gopi Rangan: Like how do you look for that? It's very hard. I get confused when I meet a startup and they paint a picture of a large market that may or may not exist today. Especially if it doesn't exist today, it's really hard to grasp that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7519,
+      "timestamps": [
+        {
+          "offset": 7519,
+          "raw": "[00:08:27]",
+          "seconds": 507
+        }
+      ]
+    },
+    {
+      "end": 8133,
+      "excerpt": "[00:08:40] Andrea Kalmans: Let's kind of back out from this for a minute. If it weren't COVID, I would spend, and even during COVID I did Techstars Austin and Techstars Boulder office hours next week. And I've done Y Combinator during COVID and all these different programs. First, I meet hundreds and hundreds of entrepreneurs for every one that I invest in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 7774,
+      "timestamps": [
+        {
+          "offset": 7774,
+          "raw": "[00:08:40]",
+          "seconds": 520
+        }
+      ]
+    },
+    {
+      "end": 8439,
+      "excerpt": "So let's we start with a very big funnel of opportunities. While I'm talking to these wonderful people, something about me has to hit that this is a person who I want to take sort of next steps with. It always starts with a big market share. But it also has to be complimented by: what stage are they at?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8135,
+      "timestamps": []
+    },
+    {
+      "end": 8979,
+      "excerpt": "Do they have something that makes me think they're going to succeed? And that doesn't always mean that they have product market fit yet, or that they have a first customer. They usually have something there that's indicating to me there's a nugget that they can attach onto and grow. And two, we complement that with the tenacity of a really special founding team, which means that they have energy, they have education, they have the insights into how to succeed in this market, and they have sort of the audacity to be willing to do it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8441,
+      "timestamps": []
+    },
+    {
+      "end": 9357,
+      "excerpt": "If you look at my portfolio, there is a lot of enterprise stuff. tech, just straight up enterprise software, enterprise tech. We'll walk through a number of examples here to make this much more concrete for everyone. But I also, during COVID have become, I don't know if it's COVID. I don't know if it's me getting older, or I don't know if it's just a huge need in the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8981,
+      "timestamps": []
+    },
+    {
+      "end": 9663,
+      "excerpt": "I've become much more socially conscious. I think that sort of the great opportunities to invest in all around, but why not pick one that can also be a great business and a socially conscious business. As I've invested and learned from one to the next, I start to feel and see all those different things.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9359,
+      "timestamps": []
+    },
+    {
+      "end": 9932,
+      "excerpt": "[00:10:48] Gopi Rangan: You mentioned that you make about two to three investments a year, and over the years you've built a strong portfolio. Are there some common themes across these portfolio companies? Are there characteristics that stand out among the founders? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9665,
+      "timestamps": [
+        {
+          "offset": 9665,
+          "raw": "[00:10:48]",
+          "seconds": 648
+        }
+      ]
+    },
+    {
+      "end": 10213,
+      "excerpt": "[00:11:01] Andrea Kalmans: Last year, I did about five investments. One of the things that's really interesting about becoming an investor is the more you do, the better you become, the better you recognize patterns, the bigger your network, like everything starts to accelerate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 9934,
+      "timestamps": [
+        {
+          "offset": 9934,
+          "raw": "[00:11:01]",
+          "seconds": 661
+        }
+      ]
+    },
+    {
+      "end": 10516,
+      "excerpt": "So, you know, all of us start somewhere. But, you know, it's just really fun to see your first investments exiting, and then you can take some of the proceeds from the sales and start to reinvest. And so we've been fortunate to be able to do a few of those as of late. And it's just really fun to see.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10215,
+      "timestamps": []
+    },
+    {
+      "end": 10906,
+      "excerpt": "Let's talk about the evolution of my investments. One that I've invested in a number of different times is an HR analytics company called One Model. I met them in Techstars Austin a number of years ago, probably the summer of 2014 or 2015. I had a thought, a hypothesis that they were going to be successful because A, they had one customer at the time and another customer about to sign.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10518,
+      "timestamps": []
+    },
+    {
+      "end": 11134,
+      "excerpt": "Also, the team, Chris, Matt, and Dave, they had all been part of a company that was in HR analytics, sold to SuccessFactors and then I think eventually rolled up into SAP. So they had sort of been through the journey together.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10908,
+      "timestamps": []
+    },
+    {
+      "end": 11580,
+      "excerpt": "Now there were a lot of things about this company when I was investing that people said, \"Andrea, you're crazy.\" You know, the development team is in Brisbane, Australia, which is pretty far away from Austin, Texas. So, you know, it's never a perfect obvious thing. But I always like to pull from my network. Walter, who started his career at Anderson Consulting many years ago has a good friend, Holly Courtright, who's a big HR executive now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11136,
+      "timestamps": []
+    },
+    {
+      "end": 11929,
+      "excerpt": "And I said to Walter, \" let's have Chris present to Holly and see what she has to say about their offering.\" When you start to see an industry executive look at something and say, \"Oh, wow, this is fantastic.\" And then we showed it to some friends at Rackspace and Rackspace said, \"if this product had existed, we absolutely would have bought it.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11582,
+      "timestamps": []
+    },
+    {
+      "end": 12217,
+      "excerpt": "And so those are the type of things where honestly, our product was very early. We had one real customer, another customer to sign, but there were enough nuggets there to convince me that this is an investment that I want to make. And I invested in 2015, 2017, and 2019 in the company. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11931,
+      "timestamps": []
+    },
+    {
+      "end": 12262,
+      "excerpt": "[00:13:39] Gopi Rangan: This is incredible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12219,
+      "timestamps": [
+        {
+          "offset": 12219,
+          "raw": "[00:13:39]",
+          "seconds": 819
+        }
+      ]
+    },
+    {
+      "end": 12307,
+      "excerpt": "You meet these companies very, very early. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12264,
+      "timestamps": []
+    },
+    {
+      "end": 12503,
+      "excerpt": "[00:13:42] Andrea Kalmans: Very early. I love to meet companies early. There's something about an entrepreneur that there has to be a boldness and an excitement for people to want to follow you.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 12309,
+      "timestamps": [
+        {
+          "offset": 12309,
+          "raw": "[00:13:42]",
+          "seconds": 822
+        }
+      ]
+    },
+    {
+      "end": 12997,
+      "excerpt": "But then what's interesting is when you can tie that to also being rooted in reality. And so Gopi, you and I met through our friend Subbu Rama, who started BitFusion. And I believe we were both investors and they exited to VMware. And what's so interesting about Subbu is so much of what he did for years with his energy, his conversation, his friends, it was invested in the company. And he could tell a very, very big story about how they were going to change the data center of the future.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12505,
+      "timestamps": []
+    },
+    {
+      "end": 13685,
+      "excerpt": "But when you went back and you looked at the product roadmap and you were able to correlate that with his colleagues in the office, Macha and Mazar, you were able to see a path to get there. And so, you know, we like people who tell a big story and we like people who tell a big vision, but then there also needs to be behind you a team and a strategy and funding and a path to make this a reality. We don't want to be talking about things that, you know, sometimes you can think, \"Oh my God! That guy's crazy if he doesn't have a plan.\" But if the person can lay out the plan of how each day we're going to take steps to get there, then those are the type of visions we like to pursue.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12999,
+      "timestamps": []
+    },
+    {
+      "end": 13753,
+      "excerpt": "[00:15:20] Gopi Rangan: Now, we also invested in Joshin together. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13687,
+      "timestamps": [
+        {
+          "offset": 13687,
+          "raw": "[00:15:20]",
+          "seconds": 920
+        }
+      ]
+    },
+    {
+      "end": 13792,
+      "excerpt": "[00:15:23] Andrea Kalmans: Yes, yes. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 13755,
+      "timestamps": [
+        {
+          "offset": 13755,
+          "raw": "[00:15:23]",
+          "seconds": 923
+        }
+      ]
+    },
+    {
+      "end": 13851,
+      "excerpt": "[00:15:24] Gopi Rangan: What did you see in the founders?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13794,
+      "timestamps": [
+        {
+          "offset": 13794,
+          "raw": "[00:15:24]",
+          "seconds": 924
+        }
+      ]
+    },
+    {
+      "end": 14448,
+      "excerpt": "[00:15:26] Andrea Kalmans: So Joshin is a marketplace to connect families with special need children with caregivers. When I met Melissa and Melanie, (A) they have super high energy, but (B) also they were exiting their first company in the same special needs and care space. And so again, we were investing in a brilliant team. I know that's interesting too, cause they're two sisters. On a side note, sometimes people don't want to invest in siblings or don't want to invest in husband and wives. I've actually invested in both and had really good experiences, but that's a complete side note.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 13853,
+      "timestamps": [
+        {
+          "offset": 13853,
+          "raw": "[00:15:26]",
+          "seconds": 926
+        }
+      ]
+    },
+    {
+      "end": 14829,
+      "excerpt": "And so they had been in the market. And when you understand from them is that they understood how big the need for care for special needs families is. I didn't know that it's one in five and in some states one in four families. But then also they introduced me to the idea that Medicaid dollars on a federal and state level can and do support care if billed and applied properly.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14450,
+      "timestamps": []
+    },
+    {
+      "end": 15470,
+      "excerpt": "I really felt like they could educate the market and bring forth support that family needs. This is sort of where you talk about my evolution as an investor. This is still a wonderful business, but it's in a space if I hadn't met them, I wouldn't have known. And then once I did meet Melanie and Melissa, I thought to myself, \"what an amazing example of a socially conscious, very big, profitable company that we can build.\" And so that's sort of the evolution where I'm finding that we can do both. And Dockstation is another example of that. And Vitalflow is another example of those. For instance, Vitalflow, I invested in during COVID.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14831,
+      "timestamps": []
+    },
+    {
+      "end": 15774,
+      "excerpt": "We do remote monitoring of asthma patients. And what I learned is that if you blow into a spirometer, you actually can detect days before if you're going to have an asthma attack. And if we can detect that, we can dramatically reduce hospitalizations. So that's an awesome thing for asthmatics to have.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15472,
+      "timestamps": []
+    },
+    {
+      "end": 16053,
+      "excerpt": "One in eight Americans is asthmatic. But then what I also learned is that certain populations like African American populations are even more heavily inflicted with asthma. So I learned Vitalflow about how we can use remote monitoring, which is an awesome business opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15776,
+      "timestamps": []
+    },
+    {
+      "end": 16437,
+      "excerpt": "We've learned that it works very well with diabetes and heart attacks. And so we're applying it to the asthma market. We're helping reduce hospitalizations. We're helping specific parts of the population more than other, which is a wonderful thing. And because of the way that the billing codes work, all of this can be billed for, and we can eventually build another big business. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16055,
+      "timestamps": []
+    },
+    {
+      "end": 16575,
+      "excerpt": "[00:18:34] Gopi Rangan: I know you're a very curious person, but you've already given so many examples that are kind of wide in variety.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 16439,
+      "timestamps": [
+        {
+          "offset": 16439,
+          "raw": "[00:18:34]",
+          "seconds": 1114
+        }
+      ]
+    },
+    {
+      "end": 16751,
+      "excerpt": "One Model, Bitfusion, Joshin, Dockstation and Vitalflow. Do you prefer to invest in topics that are new to you or do you prefer to invest in areas that you're familiar with? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16577,
+      "timestamps": []
+    },
+    {
+      "end": 16954,
+      "excerpt": "[00:18:53] Andrea Kalmans: To tell you the truth, I think we're always learning and I wouldn't consider myself an expert in anything. Last year, I made an investment in a blockchain technology company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 16753,
+      "timestamps": [
+        {
+          "offset": 16753,
+          "raw": "[00:18:53]",
+          "seconds": 1133
+        }
+      ]
+    },
+    {
+      "end": 17798,
+      "excerpt": "I had two GPU accelerated technologies, a number of enterprise software companies. Last year, I also invested in Return Safe. And Return Safe is actually my only B Corp. That was the direct response to the pandemic where our founder Tarun was so just frustrated by the lack of tracking, tracing, testing in this country that in March, he started a nonprofit and then by May, we had turned it into a socially conscious for profit and we are helping enable return to work by making sure that offices are safe and incorporating with Internet of Things devices like badges and cameras and all of those different things at companies. I think it's team. I think it's timing. I think it's opportunity. I mean, in that case, it was just need, but they all have the ability to fundamentally be big businesses, and we're going to help a lot of people. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16956,
+      "timestamps": []
+    },
+    {
+      "end": 17886,
+      "excerpt": "[00:20:12] Gopi Rangan: This is a much needed solution, very timely in today's times. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17800,
+      "timestamps": [
+        {
+          "offset": 17800,
+          "raw": "[00:20:12]",
+          "seconds": 1212
+        }
+      ]
+    },
+    {
+      "end": 18173,
+      "excerpt": "[00:20:16] Andrea Kalmans: People thought I was crazy when making that investment because they thought, \"oh, there's going to be a billion of those apps.\" It was also interesting because if you think of it wrong, people can think, \"oh, they're taking advantage of a COVID opportunity.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 17888,
+      "timestamps": [
+        {
+          "offset": 17888,
+          "raw": "[00:20:16]",
+          "seconds": 1216
+        }
+      ]
+    },
+    {
+      "end": 18477,
+      "excerpt": "And none of those are our intentions. We want to build wellness and back to work regardless. One of our fears is that there'll be a long time in society where we have some parts of the population vaccinated. Some parts of the population maybe don't want to be vaccinated or haven't yet been vaccinated.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18175,
+      "timestamps": []
+    },
+    {
+      "end": 18841,
+      "excerpt": "There's going to be a population that we're working with different statuses. And we just need to make sure that people within our communities are safe. You know, this virus is showing that it's mutating quickly. As a result of that, we don't know what's coming. There may be annual boosters. There may be a situation where we want to wear masks for a good while.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18479,
+      "timestamps": []
+    },
+    {
+      "end": 18959,
+      "excerpt": "We just don't know yet. We want to build that platform to be prepared for these things and to keep people safe now. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18843,
+      "timestamps": []
+    },
+    {
+      "end": 19203,
+      "excerpt": "[00:21:23] Gopi Rangan: So when you're a contrarian, when the world is going in one direction and you think in a different direction, what questions do you ask the entrepreneurs? How is your engagement? We could use Return Safe as an example.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18961,
+      "timestamps": [
+        {
+          "offset": 18961,
+          "raw": "[00:21:23]",
+          "seconds": 1283
+        }
+      ]
+    },
+    {
+      "end": 19626,
+      "excerpt": "[00:21:34] Andrea Kalmans: Very, very, very high. And I think that I might be an acquired taste for plenty of teams. Believe me, I dig in a lot and make a lot of introductions for founding teams. There's a little secret there. (A) I want to do that because whether I invest or not, I want the team to succeed. But what I also find is that (B) while I'm making those introductions and I'm helping, I'm just gathering data.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 19205,
+      "timestamps": [
+        {
+          "offset": 19205,
+          "raw": "[00:21:34]",
+          "seconds": 1294
+        }
+      ]
+    },
+    {
+      "end": 19976,
+      "excerpt": "What I find in those scenarios is I just keep learning and uncovering. And it's almost like an onion, right? You just keep peeling back the layers and learning about opportunities. Because I sometimes meet founders so, so early. A lot of the times they don't have a round open. It's not like I need to decide within 24 hours if I'm going to invest.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19628,
+      "timestamps": []
+    },
+    {
+      "end": 20623,
+      "excerpt": "I met Melissa and Melanie at Joshin I think it was over a year before they actually had the round and we were ready to put the checks in. There was a lot of time to learn and engage. In Some of the earliest stage investing, you know, you spent a lot, a lot of time in diligence in the very beginning. You want to, when you write that check, feel good about it. When you're doing the wire transfer, you always know there's a huge amount of rest and there's always like a little bit of a pit in your stomach, but you also want to know that if this goes according to the plans or even bigger than the plans that you really on to something big here.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19978,
+      "timestamps": []
+    },
+    {
+      "end": 20711,
+      "excerpt": "[00:23:06] Gopi Rangan: Yeah, that is true. I usually check for that nervousness that ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 20625,
+      "timestamps": [
+        {
+          "offset": 20625,
+          "raw": "[00:23:06]",
+          "seconds": 1386
+        }
+      ]
+    },
+    {
+      "end": 20905,
+      "excerpt": "I need to be a little sweaty. Yeah, it feels like a no brainer, \"yeah, absolutely. No, this is an investment.\" That's probably not an investment I should make because everybody sees the same. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20713,
+      "timestamps": []
+    },
+    {
+      "end": 21013,
+      "excerpt": "[00:23:20] Andrea Kalmans: Yeah. I mean, when you're pressing that, that check go, you're like, Oh my God.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 20907,
+      "timestamps": [
+        {
+          "offset": 20907,
+          "raw": "[00:23:20]",
+          "seconds": 1400
+        }
+      ]
+    },
+    {
+      "end": 21386,
+      "excerpt": "[00:23:28] Gopi Rangan: It's been great to see the journey of these companies. You mentioned the secret here is that in many introductions you make, and I see that a lot and in our conversations and engagement over many, many months now. What do you look for? Like, how do you help these entrepreneurs and how do you, how do these introductions make a difference to them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21015,
+      "timestamps": [
+        {
+          "offset": 21015,
+          "raw": "[00:23:28]",
+          "seconds": 1408
+        }
+      ]
+    },
+    {
+      "end": 22043,
+      "excerpt": "[00:23:44] Andrea Kalmans: Yeah. Well, the thing is, like a lot of people will call and just say, you know, \"do you know any angels? I'm looking for money.\" And that's like the number one turnoff. I'm like, \"no, don't know any.\" And it's not that I don't want to, it's just like, \"Oh, tell me a story I don't know.\" What's interesting is the customer. For whatever reason, it's just maybe because I'm curious or because I've lived in the same city for 20 years. Like Vitalflow, when I met them, I actually had doctor friends who I could send the solution to. My husband has a lot of friends who you can send the solution to and kind of get their feedback.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 21388,
+      "timestamps": [
+        {
+          "offset": 21388,
+          "raw": "[00:23:44]",
+          "seconds": 1424
+        }
+      ]
+    },
+    {
+      "end": 23297,
+      "excerpt": "Those are the type of things that I'm really looking for. It's like when people in the industry are impressed by the solution. Dockstation is another one where we work with pharmacists through the big health plans to get the four chronic conditions that are causing costs in the health care system to go up like diabetes and heart conditions or working with the pharmacist to get to know people that come into their pharmacies to really coach them and work with them and make sure that they stay compliant on their medicines and are taking care of themselves. When in the process of due due diligence, you know, I walked into pharmacies and I can't say that I know anything about pharmacies until having made this investment, but just started walking into pharmacies and started talking to pharmacists and started learning, you know, pharmacists went to school for many, many, many years and have top tier training and oftentimes they feel like they've become pill pushers. They don't feel like they become the consultative profession that they went to school to become. And so, you know, when I was sort of bouncing around pharmacies, I thought to myself, \"wow, this could be a really important business.\" And so it was not anything that I knew about.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22045,
+      "timestamps": []
+    },
+    {
+      "end": 23530,
+      "excerpt": "Walter did know a few specialty pharmacies that we were able to do due diligence with. Then I met the innovation teams that were funding our first pilot. I heard the excitement in that group. That's when I knew I wanted to invest. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23299,
+      "timestamps": []
+    },
+    {
+      "end": 23640,
+      "excerpt": "[00:26:03] Gopi Rangan: Oh, this is very interesting. Are there some pet peeves, things that you don't like?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23532,
+      "timestamps": [
+        {
+          "offset": 23532,
+          "raw": "[00:26:03]",
+          "seconds": 1563
+        }
+      ]
+    },
+    {
+      "end": 23994,
+      "excerpt": "[00:26:07] Andrea Kalmans: Okay, well there are things, I don't know that it's things I don't like, but there are things that I learn. Okay, for instance, I used to believe, I didn't even know what the party round was in the beginning, but I thought if this smart person and that smart person and that smart person were in, then we all wanted to be in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 23642,
+      "timestamps": [
+        {
+          "offset": 23642,
+          "raw": "[00:26:07]",
+          "seconds": 1567
+        }
+      ]
+    },
+    {
+      "end": 24412,
+      "excerpt": "I have since learned that, you know, too many people on the cap table means that nobody really wants to lead or nobody has to lead. So that's sort of one of those things where I used to think it was a really good idea. I'm not saying that I wouldn't do it again. I'm never saying never. But it's one of the things that, you know, in Austin you used to hear, \"Oh, so and so's investing\" and then people would jump in.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23996,
+      "timestamps": []
+    },
+    {
+      "end": 24727,
+      "excerpt": "And I've learned that so and so has like 200 investments. Now, they don't have time for everyone. And I also have learned that, you know, so and so may just be investing so that they get information, right? They can choose to do a bigger play later, but it doesn't mean that they have like such strong conviction.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24414,
+      "timestamps": []
+    },
+    {
+      "end": 25092,
+      "excerpt": "Those are things that I've learned. The truth is that founders really raise money. And if you're looking for advisors or other people that raise money for you, is that really is just the CEO role. Okay. I know that some people don't want to do it, and it's uncomfortable, and whatever, but, but Subbu said something to me that I really found interesting one time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24729,
+      "timestamps": []
+    },
+    {
+      "end": 25624,
+      "excerpt": "He said, \"you know, When pitching angels, you can feel an emotional connection. By the time you're pitching funds, that is their job to invest. It's not like you're taking their money the way you feel with an angel. There could be sometimes. Sometimes you come over to an angel's house, you get to know their kids, where as the fund, it's an institutional thing.\" So some of the nervousness, Subbu actually described to me, sort of goes away when he went to more institutional funds, which I thought was a very interesting thing. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25094,
+      "timestamps": []
+    },
+    {
+      "end": 25891,
+      "excerpt": "[00:28:03] Gopi Rangan: I resonate with that. Things are definitely a lot more personal when entrepreneurs work with angel investors, and it progressively gets more and more sanitized and dry. After series C it's a very financial transaction. There's nothing else. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25626,
+      "timestamps": [
+        {
+          "offset": 25626,
+          "raw": "[00:28:03]",
+          "seconds": 1683
+        }
+      ]
+    },
+    {
+      "end": 26170,
+      "excerpt": "[00:28:19] Andrea Kalmans: There's nothing else. So I guess I'm a very black and white person. I'm a very honest person. I'm a very open person. I call people a lot. I text a lot. Part of it is that I want to always be in the know, but I just want to make sure everyone's okay.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 25893,
+      "timestamps": [
+        {
+          "offset": 25893,
+          "raw": "[00:28:19]",
+          "seconds": 1699
+        }
+      ]
+    },
+    {
+      "end": 26372,
+      "excerpt": "I'm sure that I probably have more pet peeves than the people who work with me. I probably have more pet peeves in me than I do of them. I'm a demanding person, too. We're here to grow, and so, yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26172,
+      "timestamps": []
+    },
+    {
+      "end": 26554,
+      "excerpt": "[00:28:50] Gopi Rangan: I want to switch to the final section of my discussion. I usually ask about community involvement. Is there a non profit organization you are excited about?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26374,
+      "timestamps": [
+        {
+          "offset": 26374,
+          "raw": "[00:28:50]",
+          "seconds": 1730
+        }
+      ]
+    },
+    {
+      "end": 26840,
+      "excerpt": "[00:29:00] Andrea Kalmans: Yeah, absolutely. I have been on the board of the Anti Defamation League. So all of the other civil liberty organizations work with one group of people. The ADL philosophy. It was begun with the Jewish people, but it works on the civil rights of all people.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 26556,
+      "timestamps": [
+        {
+          "offset": 26556,
+          "raw": "[00:29:00]",
+          "seconds": 1740
+        }
+      ]
+    },
+    {
+      "end": 27251,
+      "excerpt": "And so actually you'll see on CNN recently Jonathan Greenblatt. We have a Center for Extremism and Jonathan Greenblatt, the CEO, has been all over the news. And they're able to actually sort of decode some of the horrible symbols and things that we saw at the riots. So like their Center for Extremism can find all of the hate speech on the internet and they're able to monitor it and work with the FBI on it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26842,
+      "timestamps": []
+    },
+    {
+      "end": 27681,
+      "excerpt": "Now, my personal frustration is, if we know that, why do these things still happen? But we do plenty of education in school. So we run the No Place for Hate initiative in school, which educates teenagers on how to be advocates for diversity and change in their schools, and we do Holocaust education, we do police force trainings, all of those types of things. We do good work, but my frustration is it seems like we need more. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 27253,
+      "timestamps": []
+    },
+    {
+      "end": 27864,
+      "excerpt": "[00:30:21] Gopi Rangan: It's great to see that in addition to all the good work that you do for founders, you also make time for community involvement. That's really great to hear. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27683,
+      "timestamps": [
+        {
+          "offset": 27683,
+          "raw": "[00:30:21]",
+          "seconds": 1821
+        }
+      ]
+    },
+    {
+      "end": 27972,
+      "excerpt": "[00:30:30] Andrea Kalmans: Yeah, it's crazy. There's so much need right now for so many different things. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 27866,
+      "timestamps": [
+        {
+          "offset": 27866,
+          "raw": "[00:30:30]",
+          "seconds": 1830
+        }
+      ]
+    },
+    {
+      "end": 28049,
+      "excerpt": "[00:30:36] Gopi Rangan: Andrea, thank you so much for sharing your stories.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 27974,
+      "timestamps": [
+        {
+          "offset": 27974,
+          "raw": "[00:30:36]",
+          "seconds": 1836
+        }
+      ]
+    },
+    {
+      "end": 28088,
+      "excerpt": "It's always exciting to talk to you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28051,
+      "timestamps": []
+    },
+    {
+      "end": 28306,
+      "excerpt": "[00:30:40] Andrea Kalmans: Oh, I love talking with you. I'm glad that we had some fun today and I hope that lots of folks will listen and learn and we'll just continue to build out great entrepreneurial communities. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrea Kalmans",
+      "start": 28090,
+      "timestamps": [
+        {
+          "offset": 28090,
+          "raw": "[00:30:40]",
+          "seconds": 1840
+        }
+      ]
+    },
+    {
+      "end": 28415,
+      "excerpt": "[00:30:53] Gopi Rangan: Yes, I look forward to that. Thank you for listening to The Sure Shot Entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 28308,
+      "timestamps": [
+        {
+          "offset": 28308,
+          "raw": "[00:30:53]",
+          "seconds": 1853
+        }
+      ]
+    },
+    {
+      "end": 28690,
+      "excerpt": "I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 28417,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "0f0290f8c44a507eb5108293776c663850d8f3bf238ec7ecb2129a0253c9c852",
+  "text_sha256": "c7fd4a2741a58b75266508838641c0a74db0dd449055f2d78cf6e4052453b635"
+}

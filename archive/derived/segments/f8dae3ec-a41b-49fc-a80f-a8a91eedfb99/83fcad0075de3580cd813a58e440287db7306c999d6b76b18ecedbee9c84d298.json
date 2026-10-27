@@ -1,0 +1,893 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 349,
+      "excerpt": "Andrew Gluck: [00:00:00] I want to understand how you think about the problem more so than the output. I want to think about your process going to this problem, and I don't want to create homework for you, but I want to think about, I want to see how you think about, Hey, how does marketing scout? Oh, well, marketing is 20% of revenue in year one.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 14,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 417,
+      "excerpt": "Like how is it gonna go down to 12% in year two, 7% in year three.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 351,
+      "timestamps": []
+    },
+    {
+      "end": 658,
+      "excerpt": "Gopi Rangan: You are listening to the sure shot entrepreneur podcast. I asked for founders with ambitious ideas, venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 419,
+      "timestamps": []
+    },
+    {
+      "end": 1029,
+      "excerpt": "Welcome to the sure shot. Today's guest is Andrew Glock. Andrew is the general partner at irreverent VC. He invests in direct to [00:01:00] consumer advertisement technology, and next generation startups. He's usually one of the first investor investing 10,000 to $50,000 in startups. He's based in New York and let's hear from him how he makes investments in startups.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 660,
+      "timestamps": [
+        {
+          "offset": 789,
+          "raw": "[00:01:00]",
+          "seconds": 60
+        }
+      ]
+    },
+    {
+      "end": 1077,
+      "excerpt": "Andrew, welcome to the sure shot entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1031,
+      "timestamps": []
+    },
+    {
+      "end": 1159,
+      "excerpt": "Andrew Gluck: Thank you so much for having me excited to connect and chat today.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 1079,
+      "timestamps": []
+    },
+    {
+      "end": 1250,
+      "excerpt": "Gopi Rangan: Tell us about, so starting with, how did you enter into the investing world?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1161,
+      "timestamps": []
+    },
+    {
+      "end": 1400,
+      "excerpt": "Andrew Gluck:  Yeah, so my background's really heavily focused and still is in the digital marketing world. So I went to Brandeis for undergraduate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 1252,
+      "timestamps": []
+    },
+    {
+      "end": 1729,
+      "excerpt": "I studied economics. I always loved the interplay. Marketing and finances and how those kinds of connected. As I graduated in 20 10, 20 11, digital marketing was still very nascent. It was really focused on ad-words on paid search, but starts to get into that world. And after about three, four years in the industry, Went out.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1402,
+      "timestamps": []
+    },
+    {
+      "end": 2086,
+      "excerpt": "And co-founded a digital marketing agency called [00:02:00] agency within, I grew it with a partner to be the largest independent digital marketing agency in the U S there's about six holding companies. But outside of those big six holding companies, which are made up of smaller companies agency within was the largest in terms of spend under management.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1731,
+      "timestamps": [
+        {
+          "offset": 1780,
+          "raw": "[00:02:00]",
+          "seconds": 120
+        }
+      ]
+    },
+    {
+      "end": 2465,
+      "excerpt": "I worked with a lot of venture capital backed companies. A lot of do you see companies, companies that were early on in space companies like Jack Irwin and trade coffee, then. So a little, a head flow, he looks sleep toiletry. Also. We also work with a lot of more enterprise clients, clients like Nike into it, shake shack and Spanx and brand the agency for almost four years.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2088,
+      "timestamps": []
+    },
+    {
+      "end": 2913,
+      "excerpt": "I had a successful exit from the agency in 2018. Took a little bit of time off as I was thinking about the next thing. I really want it to bring forward the parts I loved about the agency, which were working with early stage entrepreneurs, working at that kind of zero to one, go to market sinking through unit economics, LTV, CAC pricing, [00:03:00] helping with narrative and storytelling, but really kind of being that early trusted marketing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2467,
+      "timestamps": [
+        {
+          "offset": 2807,
+          "raw": "[00:03:00]",
+          "seconds": 180
+        }
+      ]
+    },
+    {
+      "end": 3288,
+      "excerpt": "Individual and the parts of the agency that I wasn't looking to get into. And some of the more transactional nature, having employees growing teams, I really want it to be nimble and flexible and find the places to fit in where I thought I could add value. So started doing some early stage investing and advising in early 2019, and been doing this for about two years now.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2915,
+      "timestamps": []
+    },
+    {
+      "end": 3597,
+      "excerpt": "I made 20 direct investments. So investing my own capital check sizes of 10 K to 50 K, and I've done a few, probably a handful, maybe seven or eight investments via Angeles through syndicates. But like you mentioned really focused on three core areas on direct to consumer on ad tech and on next gen Carver.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3290,
+      "timestamps": []
+    },
+    {
+      "end": 3748,
+      "excerpt": "So places where I feel I can truly add value based on my experience, based on my network and based on kind of really getting my hands dirty as well. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3599,
+      "timestamps": []
+    },
+    {
+      "end": 3961,
+      "excerpt": "Gopi Rangan: Oh, this is interesting. You [00:04:00] have a long history in marketing before you jumped into investing. What kind of startups do you invest in? What stage do you like to meet these entrepreneurs?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3750,
+      "timestamps": [
+        {
+          "offset": 3792,
+          "raw": "[00:04:00]",
+          "seconds": 240
+        }
+      ]
+    },
+    {
+      "end": 4046,
+      "excerpt": "And what types of investments you make? Is it pre-seed seed stage or much earliest?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3963,
+      "timestamps": []
+    },
+    {
+      "end": 4287,
+      "excerpt": "Andrew Gluck: Yeah, I'd say it's historically it's been seed or earlier I've done some later stage stuff through the syndicates, but really whore thesis is around being as early as possible. I've invested in companies in their first round.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 4048,
+      "timestamps": []
+    },
+    {
+      "end": 4687,
+      "excerpt": "Multiple times. I've invested before lead investors were identified or really solidified by I've helped make those introductions that have led to seed investments. And I've been the first investor only investor in rounds multiple times, too. And that's where I'm like really passionate is getting you off early with kind of that founding team where there's that energy and excitement that ambition.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4289,
+      "timestamps": []
+    },
+    {
+      "end": 5104,
+      "excerpt": "And especially on the financial side, on the valuation side, like valuations are in my [00:05:00] mind, a lot more attractive. I don't think that much. Change your degree risk before the next round of capital, whether it's a 12 to 18 months later with the valuations are, are higher. I feel like I can, I can trust myself between diligencing and also adding value to offset it off of that risk of that step earlier.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4689,
+      "timestamps": [
+        {
+          "offset": 4776,
+          "raw": "[00:05:00]",
+          "seconds": 300
+        }
+      ]
+    },
+    {
+      "end": 5295,
+      "excerpt": "Plus I'm new to the game of not Sequoia and Andreessen and others. Aren't calling me to fill in the round. I have to find some of those diamonds in the rough before they become the hot cup.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5106,
+      "timestamps": []
+    },
+    {
+      "end": 5494,
+      "excerpt": "Gopi Rangan: You mentioned that you've made 20 plus investments. Where are these companies located? You're based in New York. Do you prefer to invest locally or do you also invest outside New York?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5297,
+      "timestamps": []
+    },
+    {
+      "end": 5510,
+      "excerpt": "Andrew Gluck: ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 5496,
+      "timestamps": []
+    },
+    {
+      "end": 5929,
+      "excerpt": "So, great question. It's funny because right before Corona and COVID up up and did everything and change the world, I was really focused on on York city and was leaning heavily towards only doing New York city investments dunk forward, [00:06:00] especially with being early. Meet with these founding teams wanting to work out of their offices and things like that in terms of adding value and really being with them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5512,
+      "timestamps": [
+        {
+          "offset": 5748,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 6192,
+      "excerpt": "But with everyone moving over to zoom, it's made investing across different regions a lot easier. I still invest exclusively in U S north America and investing in Canadian company. But with us structures in place, the focus really anywhere, anywhere in the U.S.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5931,
+      "timestamps": []
+    },
+    {
+      "end": 6322,
+      "excerpt": "Gopi Rangan: So you're, you're set up to go outside of New York even before the pandemic and COVID related restrictions started.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6194,
+      "timestamps": []
+    },
+    {
+      "end": 6498,
+      "excerpt": "So that's interesting. How has COVID changed the business for you? Has it become easier in some ways, or is it more challenging? Because you're not able to meet people often.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6324,
+      "timestamps": []
+    },
+    {
+      "end": 6719,
+      "excerpt": "Andrew Gluck: I think it's, it's funny because what happened in the I'll tell you about the D to C world is like kind of a microcosm it's easier than ever to start a company and get a C and harder than ever to scale it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 6500,
+      "timestamps": []
+    },
+    {
+      "end": 7090,
+      "excerpt": "I feel like it's easier than ever to get quote [00:07:00] unquote deal flow between inbound, between just people are seeing more deck sharing, word apps, like a bar instead of having to do not having to do, but for lack of better word, having to do. No, an in-person meeting in the city schedule. Arrange it. Two weeks later, you have to go in, you have to travel time.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6721,
+      "timestamps": [
+        {
+          "offset": 6768,
+          "raw": "[00:07:00]",
+          "seconds": 420
+        }
+      ]
+    },
+    {
+      "end": 7498,
+      "excerpt": "Now it's just, you could bang out a bunch of zoom calls in a day. Here's my Calendly link, or give me yours and book time. So it's like that top of the funnel has gotten, I actually brought her. It's hard for me also to judge that. I think that's definitely true from what I hear from other people. For me, it's even more so true because as I've progressed from when curl was started, it was 12 months ago.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7092,
+      "timestamps": []
+    },
+    {
+      "end": 7930,
+      "excerpt": "So monthly for my first check, probably 16 months into the business now almost two, two and a half years into the business. So like my deal flow has grown from founders. I've met founders, I've invested, co-investors building a little bit more of a brand and a name for myself. So the deal flow at the top of the funnel has gotten a [00:08:00] lot larger and also stronger because it's easier than ever to start, start businesses.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7500,
+      "timestamps": [
+        {
+          "offset": 7833,
+          "raw": "[00:08:00]",
+          "seconds": 480
+        }
+      ]
+    },
+    {
+      "end": 8246,
+      "excerpt": "You to see, especially, I think it's true in SAS. I think it's true in a lot of places. Founders are going, and de-risking a lot of the businesses, which is great. And getting that first initial customer that first pilot or launching that MVP versus even two years ago, which was still late in the game of venture.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7932,
+      "timestamps": []
+    },
+    {
+      "end": 8573,
+      "excerpt": "Obviously you're seeing things that were a little bit more likely to be pre-product pre-launch pre-revenue. You still see that it's just, again, founders are doing more and more and it's great for them and it's starting to do to move the needle forward. So it's a little bit of a different skill set that's required nowadays.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8248,
+      "timestamps": []
+    },
+    {
+      "end": 8685,
+      "excerpt": "Gopi Rangan: Why is that happening? Why is it now easier to start a DTC company? And why is it harder to grow?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8575,
+      "timestamps": []
+    },
+    {
+      "end": 8991,
+      "excerpt": "Andrew Gluck: Yeah, I mean, easier than ever between Shopify on the website side and building out e-commerce brand and all the apps and plugins, whether it's [00:09:00] subscription or referrals or whatever else you want to build into the actual platform or product on the product and manufacturing side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 8687,
+      "timestamps": [
+        {
+          "offset": 8845,
+          "raw": "[00:09:00]",
+          "seconds": 540
+        }
+      ]
+    },
+    {
+      "end": 9360,
+      "excerpt": "Just with more and more of these factories coming online and being able to source from factories. Again, this isn't my area of expertise, but from one of our founders, more and more companies that make it easier to go and break the product too, which is great, which is great. More opportunities. So I'm excited about that at the same time, harder than ever to scale.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8993,
+      "timestamps": []
+    },
+    {
+      "end": 9697,
+      "excerpt": "So you look at a lot of the channels that the first D to C or DMDB brands used originally to scale and get that tremendous growth, obviously Facebook and Instagram, where we're at the forefront. Especially due to see, especially if you're a product that's up a want and not a need pet food has search a lot of search, paid search yeah.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9362,
+      "timestamps": []
+    },
+    {
+      "end": 10033,
+      "excerpt": "Activity and the impressions and searches around that. A t-shirt brand or clothing brand that's new. It's hard to get people to search for that unless they're searching for your brand, but you can build that [00:10:00] awareness via Facebook and Instagram, but at the same time, the cost of impressions there has gone up tremendously.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9699,
+      "timestamps": [
+        {
+          "offset": 9907,
+          "raw": "[00:10:00]",
+          "seconds": 600
+        }
+      ]
+    },
+    {
+      "end": 10225,
+      "excerpt": "I think it's like four, maybe five X. Three to five years. So it's just wild where CPMs are, where cost per impression is now versus where it was just a few years ago,  strong trends there. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10035,
+      "timestamps": []
+    },
+    {
+      "end": 10359,
+      "excerpt": "Gopi Rangan: The internet is really evolving. What questions will you ask these startups when you first meet them? What do you want?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10227,
+      "timestamps": []
+    },
+    {
+      "end": 10926,
+      "excerpt": "Andrew Gluck: Yeah, one huge area that I'm really focused on again, just from being at, trying to be really early, is trying to hone in on founder market fit. So really trying to figure out, Hey, is there a, an earned or learned secret that you have from being in this industry? Working in the industry at a different startup or at a later stage company, or I invested in a founder who covered the industry as a, as an analyst on the PE side, invested in lunchbox or the founder was a bus boy to CML of bear burger that [00:11:00] created a food technology company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 10361,
+      "timestamps": [
+        {
+          "offset": 10881,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 11078,
+      "excerpt": "So what you about the industry that no one else knows. And do you have that instinct around, around the space that other people don't the same degree?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10928,
+      "timestamps": []
+    },
+    {
+      "end": 11221,
+      "excerpt": "Gopi Rangan: If, can you give an example of a startup? How did you meet the founders? What was the first interaction? Like? What did you ask?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11080,
+      "timestamps": []
+    },
+    {
+      "end": 11370,
+      "excerpt": "Andrew Gluck: Yeah, sure. So I invested in a company called caraway and caraway is a direct consumer kitchen where brands founder is Jordan Nathan.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 11223,
+      "timestamps": []
+    },
+    {
+      "end": 11742,
+      "excerpt": "One of the companies that I worked with on the, at my agencies company called Neil pal, the founder, Mary there. Got connected to Jordan because they both went to the same university years apart. And I don't even know if she ever even met Jordan really, but she forwarded me the deck. I was interested in meeting and meeting Jordan and honestly like my first impression.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11372,
+      "timestamps": []
+    },
+    {
+      "end": 12151,
+      "excerpt": "Okay. Direct to consumer kitchen where a brand like aren't these diamond doesn't like wa like, again, going back to that [00:12:00] founder market fit, like why is this founding team going to win in this space and seeing the deck and the information that was presented there without going into anything proprietary, but around different marketing channels and funnels and how they were going to approach it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11744,
+      "timestamps": [
+        {
+          "offset": 11865,
+          "raw": "[00:12:00]",
+          "seconds": 720
+        }
+      ]
+    },
+    {
+      "end": 12549,
+      "excerpt": "And again, the level of detail and thought that they had given from Jordan's background. He had worked at, at Mohawk and for me, while their kitchen were brands. Basically been GM of the businesses of business lines and run them really efficiently and effectively the way they thought about supplier relationships, the way they thought about all these different things was just wildly incredible.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12153,
+      "timestamps": []
+    },
+    {
+      "end": 13116,
+      "excerpt": "I met with Jordan and really wanted to understand from that background, like again, going back, what are these under learned insights and having been running businesses in the space for multiple years. He knew things that other founders in the space did it, they're not to talk disparagingly about other founders, but when founders come into an industry that they don't know and their, their background, their niches are [00:13:00] really good at marketing like mine would be, or I'm really good at design and branding, or I'm really good at finance and operations.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12551,
+      "timestamps": [
+        {
+          "offset": 12972,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 13419,
+      "excerpt": "Sometimes can lack that same understanding that you get from, Hey, I was in this industry, I know what can go wrong. I know how to set up things for success from day one. And now I think Terry's biggest problem today is keeping in stock. They just keep, keep selling out. So that will definitely work.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13118,
+      "timestamps": []
+    },
+    {
+      "end": 13502,
+      "excerpt": "Gopi Rangan: Is there something specific that you can share about this situation?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 13421,
+      "timestamps": []
+    },
+    {
+      "end": 13597,
+      "excerpt": "What are some insights that they were able to share? That was, wow. Okay. That's interesting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13504,
+      "timestamps": []
+    },
+    {
+      "end": 13881,
+      "excerpt": "Andrew Gluck: I'll give an example from, I think the way that most people approach marketing is really, again, it's my background. So I definitely over-index on this and drilling into it with people. And I don't expect founders, even founders with experience this space necessarily.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 13599,
+      "timestamps": []
+    },
+    {
+      "end": 14247,
+      "excerpt": "I have the same domain expertise as I do. I've spent 10, 12 years in industry have spent a billion dollars on Google and Facebook, [00:14:00] all the other channels, but the level of detail around, Hey, do your research. This is what we're seeing. This is what we think the cost per click is going to be. This is what we think the conversion rates are going to be.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13883,
+      "timestamps": [
+        {
+          "offset": 14014,
+          "raw": "[00:14:00]",
+          "seconds": 840
+        }
+      ]
+    },
+    {
+      "end": 14577,
+      "excerpt": "This is our contribution margin dollars on these orders now, versus a lot of people will just, this is the monthly impressions and there are some things that don't want to go and do on their end, but just that understanding of, Hey, this isn't just, it's not just, oh, let's, let's go in and launch. We'll run some Facebook ads.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14249,
+      "timestamps": []
+    },
+    {
+      "end": 14901,
+      "excerpt": "We'll do some influencer, run some podcast ads and things will be good. Just really thoughtful planning. A lot of times people will bash on Twitter or other places. Oh, don't investors that ask for financial plans and projections. What a joke like don't talk to those investors. I don't care so much about the projections.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14579,
+      "timestamps": []
+    },
+    {
+      "end": 15290,
+      "excerpt": "And like, do you think you're gonna get to 5 million or a hundred million dollars in three years or five years or whatever it is. I want to understand how you think about the problem more so than the [00:15:00] output. I want to think about your process going to this problem. I don't want to create homework for you, but I want to see how you think about, Hey, how does marketing scout?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14903,
+      "timestamps": [
+        {
+          "offset": 15103,
+          "raw": "[00:15:00]",
+          "seconds": 900
+        }
+      ]
+    },
+    {
+      "end": 15679,
+      "excerpt": "Oh, wow. It marketing is, and this isn't necessarily the way I looking at it. But marketing is 20% of revenue in year one. Like how is it gonna go down to 12% in year, two, 7% in year three? And just being all we're going to be more efficient. Okay. That's the dream. That's the goal, but how have you given any thought beyond being a spreadsheet monkey and just putting in improvements?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15292,
+      "timestamps": []
+    },
+    {
+      "end": 16014,
+      "excerpt": "A lot of the conversation I have around, around things like that around things like LTV. Oh, well, we're gonna. So we're going to get our customers to come back and buy again. Why? Oh, you're going to release a new product. I'm like this one, I hear all the time. The beauty space is, oh, we're going to start with this hero product.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15681,
+      "timestamps": []
+    },
+    {
+      "end": 16353,
+      "excerpt": "And we're going to launch this other product and we're going to have eventually seven skews and people are gonna buy all seven skews from us. Go to your vanity, go to your bathroom. Look how many different brands are represented? You have hero products from every different brand. Like it's not so easy to cross out or [00:16:00] brands.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16016,
+      "timestamps": [
+        {
+          "offset": 16335,
+          "raw": "[00:16:00]",
+          "seconds": 960
+        }
+      ]
+    },
+    {
+      "end": 16712,
+      "excerpt": "We'll talk about their LTV and I'll be like, that's awesome that you're going to keep customers for two years. That's your best customers. You're going to keep for two, three years. What's your weighted average customer lifetime going to be? Is it going. One and done one order, you already got 1.3 orders out of customers or is it, Hey, we'll have a bunch.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16355,
+      "timestamps": []
+    },
+    {
+      "end": 17204,
+      "excerpt": "And our drop will be between order one and our two will be 30% and another 30% flattens out. Those are the conversations I want to have. How have you thought about this? Or how are you going to think about tracking this when this becomes real? And making sure that, that the unit economics and scale and work, because you could sell a dollar for 99 cents and do a lot of revenue, but eventually you do have to make profit, especially in India to see, especially in some of these industries.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16714,
+      "timestamps": []
+    },
+    {
+      "end": 17411,
+      "excerpt": "So other industries, SAS, if you're going and buying customers and increasing recurring revenue, it's a little different, but how do you get from growing and blooming to, to, to that actually making money?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17206,
+      "timestamps": []
+    },
+    {
+      "end": 17576,
+      "excerpt": "Gopi Rangan: Yeah, founders who have that [00:17:00] founder market fit, they usually have talked through the problem. They understand the nuances of the industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17413,
+      "timestamps": [
+        {
+          "offset": 17455,
+          "raw": "[00:17:00]",
+          "seconds": 1020
+        }
+      ]
+    },
+    {
+      "end": 18010,
+      "excerpt": "They can go into specific details about CAC and LTV and the trends that are happening and big, my very comfortable about those discussions. And it's very insightful to talk to them because we all learn a lot from those types of founders. When this whole pandemic started, what I noticed was. Even some good startups struggle a lot because the personal interaction is not happening when you're not able to network and meet investors.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17578,
+      "timestamps": []
+    },
+    {
+      "end": 18131,
+      "excerpt": "It becomes a lot harder. Do you feel the same in your areas of focus? Some of the best startups still struggle to find.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18012,
+      "timestamps": []
+    },
+    {
+      "end": 18478,
+      "excerpt": "Andrew Gluck: No, I, I think it's been one of the, one of the challenges is it's never been easier to fundraise and it's never been harder to fund. If you're a networked resource founder or a founder with traction and growth, others, there's tons of capital out there and people fighting over each other to go and get you a term sheet.[00:18:00]",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 18133,
+      "timestamps": [
+        {
+          "offset": 18468,
+          "raw": "[00:18:00]",
+          "seconds": 1080
+        }
+      ]
+    },
+    {
+      "end": 18867,
+      "excerpt": "And if you're not, if you're under networked under a resource, you don't have that. That same background. And you're raising an early, an early round, but you, maybe you have some friends and family. Maybe you had a pre-seed round on, maybe this is your first round of capital, but it's harder than ever because you don't have those serendipitous bump ins at events and things like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18480,
+      "timestamps": []
+    },
+    {
+      "end": 19197,
+      "excerpt": "For my first year in the industry, from that, honestly, even all the way up to, to Corona, I was making a point. To one or two nights a week trying and going to an event at night, whether it was a happy hour or whether it was going to a startup panel, whether it was judging one of these pitch competitions, something like that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18869,
+      "timestamps": []
+    },
+    {
+      "end": 19537,
+      "excerpt": "That's how you meet how you have those conversations and meet other investors that say meet founders and it's, and it's hard. And like, yes, with digital, it becomes easier than ever to attend an event or to listen to a podcast or to reach out. But it's harder than ever to kind of create that connection that you can in person.[00:19:00]",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19199,
+      "timestamps": [
+        {
+          "offset": 19527,
+          "raw": "[00:19:00]",
+          "seconds": 1140
+        }
+      ]
+    },
+    {
+      "end": 19930,
+      "excerpt": "So for founders, I think it's a really hone that pitch and figure out how do we get fundraising? I think there are just a few different ways. One is similar to how I think about deal flow is can I, can I build a personal brand around this problem and spend a few hours a week on Twitter, on LinkedIn or wherever your constituents really are and how to build a brand in the space around them?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19539,
+      "timestamps": []
+    },
+    {
+      "end": 20281,
+      "excerpt": "Around that problem. And I've tried to do that. And I think in New York city, in direct consumer, early stage companies, I see a really high percentage of those deals because I've stuck my flag on the ground around, around that space, tried to produce useful content around that space. So you want to do that and that can definitely lead to inbound.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19932,
+      "timestamps": []
+    },
+    {
+      "end": 20690,
+      "excerpt": "Another way is batch and blast. Can you. Different people, either finding their email addresses, going to their websites and filling out forms and going in and trying to just get in front of, get your picture in front of a thousand different people. For sure. I mean, you should do that. [00:20:00] The third way is can you hone those pitches and go, and if you haven't done this yet, I highly recommend it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20283,
+      "timestamps": [
+        {
+          "offset": 20571,
+          "raw": "[00:20:00]",
+          "seconds": 1200
+        }
+      ]
+    },
+    {
+      "end": 21127,
+      "excerpt": "Go on, on Crunchbase. Find a list of a hundred investors that you want to reach out to. That makes sense for your stage eight sense for your geo, make sense for your sector who have shown a willingness to invest, whether it's early, whether it's late, whether it's in this type of round, whether it's in golf tech or legal tech or do to see whatever it is, but find the investors that are actually a fit for you and go and, and try it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20692,
+      "timestamps": []
+    },
+    {
+      "end": 21531,
+      "excerpt": "If you can find a warm intro into them. I look at every inbound, I'm very open to cold outreach, but a lot of investors you're more likely to get your deck read if they have, if you have a warm intro, but find that that list of a hundred investors, maybe it's not a hundred, maybe it's 50. If you could get 50 people who fit your need and fit your geo and stage and [00:21:00] sector to read your deck.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21129,
+      "timestamps": [
+        {
+          "offset": 21495,
+          "raw": "[00:21:00]",
+          "seconds": 1260
+        }
+      ]
+    },
+    {
+      "end": 21719,
+      "excerpt": "You are going to get meetings. You're going to get funded. If your product, your team are good, like that's what it takes. It's a sales funnel. It's a sales pipeline. Just like anything.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21533,
+      "timestamps": []
+    },
+    {
+      "end": 21953,
+      "excerpt": "Gopi Rangan: Yeah, most founders don't approach fundraising that way. If they approach the fundraising process, just like they approach the customer sales cycle process, managing the funnel, it will be a lot more efficient for them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21721,
+      "timestamps": []
+    },
+    {
+      "end": 21980,
+      "excerpt": "What are some pet peeves?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21955,
+      "timestamps": []
+    },
+    {
+      "end": 22403,
+      "excerpt": "Andrew Gluck: I think one is unfortunately under a huge underfunding in female founders, Lac founders, black female founders, people of color immigrants, all those things, I think is it. Travesty too. Just how easy for lack of a better word is to get funded. If you come from that more network background and you have this idea, even if you're a kind of me-too product it's been done before, but we have a new spin on it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 21982,
+      "timestamps": []
+    },
+    {
+      "end": 22753,
+      "excerpt": "We have founders with real revenue and real traction. That don't get afforded the same opportunities. [00:22:00] It's part of my background and what I've gravitated to, you know, earlier stage earlier stage over time has been a desire to work in places and work and be involved in things that are meritocratic, where no one gets to decide who wins.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22405,
+      "timestamps": [
+        {
+          "offset": 22507,
+          "raw": "[00:22:00]",
+          "seconds": 1320
+        }
+      ]
+    },
+    {
+      "end": 22918,
+      "excerpt": "It's not political. It's really just about like, what can you accomplish? And that's, what's exciting about startups, but it's also a challenge and an opportunity.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22755,
+      "timestamps": []
+    },
+    {
+      "end": 22993,
+      "excerpt": "Gopi Rangan: What will convince you to raise your own fund the next fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22920,
+      "timestamps": []
+    },
+    {
+      "end": 23199,
+      "excerpt": "Andrew Gluck: So I guess that's interesting. So now I invest my own capital. I also occasionally advise companies and at the same time, the students still do some marketing consulting on the side as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 22995,
+      "timestamps": []
+    },
+    {
+      "end": 23657,
+      "excerpt": "It's like a really nice mix of everything that I liked and I have control over my time and schedule. I haven't yet raised a phone. I don't know if I will. I think it kind of depends on, on a few different factors, but yeah, I think one thing I'd love to see or change not industry is a little, probably a little bit more humility, a little [00:23:00] bit more transparency, VCs investors, especially present company included in this child from the rooftop.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23201,
+      "timestamps": [
+        {
+          "offset": 23541,
+          "raw": "[00:23:00]",
+          "seconds": 1380
+        }
+      ]
+    },
+    {
+      "end": 24003,
+      "excerpt": "And invest in companies and they invest when their companies get mocked up, then they invest in them. Then they shout and tweet when their company's got to exit. And like all those things are great. And it's part of building a brand, but it's really hard. I was having a conversation before this, but it's even hard for me as an early investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23659,
+      "timestamps": []
+    },
+    {
+      "end": 24407,
+      "excerpt": "Who's, you know, early in my career in this space, who's trying to remain disciplined in terms of how I invest. For competencies and valuations and other things, a lot of the hoopla or a lot of the kind of wild valuations and things like that going on, you seem to be a little bit of a, a distraction sometimes, and I really want to stay in my wheelhouse and discipline, but it's challenging sometimes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24005,
+      "timestamps": []
+    },
+    {
+      "end": 24606,
+      "excerpt": "Gopi Rangan: I want to switch to the next segment of our conversation and ask you about [00:24:00] community involvement. Is there a nonprofit organization that you are passionate about? Which one?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24409,
+      "timestamps": [
+        {
+          "offset": 24497,
+          "raw": "[00:24:00]",
+          "seconds": 1440
+        }
+      ]
+    },
+    {
+      "end": 24792,
+      "excerpt": "Andrew Gluck: Yeah, there's a nonprofit organization was pretty involved in, still involved in Tom clay shop is that they deliver as I'm an observant, Orthodox Jew and observe Sabbath.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Andrew Gluck",
+      "start": 24608,
+      "timestamps": []
+    },
+    {
+      "end": 25290,
+      "excerpt": "And this organization, they deliver food to those in need, Sabbath, food families in need every Thursday night. Fortunate to be able to be a support of those financially for quite some time, over the past few years, I've gotten more involved in terms of actually going and doing deliveries for them and on a regular basis and being involved, not just, I guess, parallel to a startup life, not just financially, but perhaps sweat equity in the game and actually spend time and in working this way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24794,
+      "timestamps": []
+    },
+    {
+      "end": 25668,
+      "excerpt": "Gopi Rangan: This is very interesting. Thank you so much for spending time with me. You talked about how you started your career in marketing, switched to investing, and now you're contemplating whether to raise a fund next, [00:25:00] you shared a lot of insights on specific examples, how you evaluate opportunities, look at entrepreneurs and what kind of questions you ask.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25292,
+      "timestamps": [
+        {
+          "offset": 25517,
+          "raw": "[00:25:00]",
+          "seconds": 1500
+        }
+      ]
+    },
+    {
+      "end": 26020,
+      "excerpt": "So it's very, very insightful to hear real life stories. Thank you so much for sharing your experiences. I appreciate the opportunity. Thank you for listening to the shore shot entrepreneur. I hope you enjoyed listening to real life stories about early believers, supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 25670,
+      "timestamps": []
+    },
+    {
+      "end": 26138,
+      "excerpt": "Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode. .",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 26022,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "83fcad0075de3580cd813a58e440287db7306c999d6b76b18ecedbee9c84d298",
+  "text_sha256": "8b375c8b8d4fb741727e502a8127b171da2d47180a36975bdd9ebc29dfcc091d"
+}

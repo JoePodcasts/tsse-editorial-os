@@ -1,0 +1,843 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 237,
+      "excerpt": "\"One of the questions that I love to ask is, what kind of company is it that you're building? What kind of company is it in 30 years from now? Sometimes I say even 40. Sometimes I say 15. It really depends on the situation.\" Nadav Eylath",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 0,
+      "timestamps": []
+    },
+    {
+      "end": 1054,
+      "excerpt": "[00:00:22] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for. Founders with ambitious ideas. Venture capital investors, and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Nadav Eylath. He's the founder and managing partner at a VC firm called at.inc. Very interesting name indeed. As a geek, I loved hearing that name. We're gonna talk to him about the name and of course we'll talk to him about, uh, the firm, what kind of startups he invests in. He's based in Silicon Valley, but he's originally from Israel. How did he make the transition? And what themes does he get excited about and what are some trends that he's following these days?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 239,
+      "timestamps": [
+        {
+          "offset": 239,
+          "raw": "[00:00:22]",
+          "seconds": 22
+        }
+      ]
+    },
+    {
+      "end": 1205,
+      "excerpt": "And sometimes he says no, probably more often, and we're gonna talk to him to find out why he says No. Nadav, welcome to The Sure Shot Entrepreneur. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1056,
+      "timestamps": []
+    },
+    {
+      "end": 1263,
+      "excerpt": "[00:01:28] Nadav Eylath: Thank you for having me, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 1207,
+      "timestamps": [
+        {
+          "offset": 1207,
+          "raw": "[00:01:28]",
+          "seconds": 88
+        }
+      ]
+    },
+    {
+      "end": 1453,
+      "excerpt": "[00:01:30] Gopi Rangan: Let's start with you. You grew up in Israel and you moved here to the US and you've now made a home in Silicon Valley. You live here in the heart of Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1265,
+      "timestamps": [
+        {
+          "offset": 1265,
+          "raw": "[00:01:30]",
+          "seconds": 90
+        }
+      ]
+    },
+    {
+      "end": 1657,
+      "excerpt": "You were an entrepreneur earlier as well, and then you focused your career now on venture capital. I'm really curious to learn more about your journey, but let's start with where you grew up in Israel. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1455,
+      "timestamps": []
+    },
+    {
+      "end": 1875,
+      "excerpt": "[00:01:49] Nadav Eylath: Yeah, thanks. I, I grew up in a town right outside of Tel Aviv called Ramat HaSharon. This is a nice town with, uh, a lot of friends that, uh, learned a lot from, and I was, uh, doing sports.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 1659,
+      "timestamps": [
+        {
+          "offset": 1659,
+          "raw": "[00:01:49]",
+          "seconds": 109
+        }
+      ]
+    },
+    {
+      "end": 2245,
+      "excerpt": "I was like, uh, attending, uh. A very unique high school, I would say that has both like creative people in it and also like more, uh, the humanitarian theater film, et cetera. But, uh, I was on the, the geekier side on the mostly disciplinary science side of high school, but that was a great place to grow up in, just make my early life upbringing in a pleasant way.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1877,
+      "timestamps": []
+    },
+    {
+      "end": 2366,
+      "excerpt": "[00:02:26] Gopi Rangan: So you got, uh, tech involved in your life quite early, science and math and all those things. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2247,
+      "timestamps": [
+        {
+          "offset": 2247,
+          "raw": "[00:02:26]",
+          "seconds": 146
+        }
+      ]
+    },
+    {
+      "end": 2790,
+      "excerpt": "[00:02:32] Nadav Eylath: Yeah, so I would say, uh, tech as well as, uh, building stuff. So been uh, building a treehouse when I was young with some friends and I've been building model airplanes that we are, we're actually competing in, uh, national competitions with flying them and learning about thermodynamics and other stuff that you kind of like, don't necessarily get exposed at the earlier day stages of your life.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 2368,
+      "timestamps": [
+        {
+          "offset": 2368,
+          "raw": "[00:02:32]",
+          "seconds": 152
+        }
+      ]
+    },
+    {
+      "end": 2887,
+      "excerpt": "But, uh, that was a great exposure to technology and just to building stuff and creating stuff.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2792,
+      "timestamps": []
+    },
+    {
+      "end": 3290,
+      "excerpt": "[00:03:01] Gopi Rangan: You started your career in data science and data analytics. You worked at a few startups. Um, one of the companies you worked at was sold to Intuit, and you also started companies then you focused on similar topics and you've held roles in marketing. It's a variety of roles you've held, and then eventually you decided to switch to become a full-time venture capital investor.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2889,
+      "timestamps": [
+        {
+          "offset": 2889,
+          "raw": "[00:03:01]",
+          "seconds": 181
+        }
+      ]
+    },
+    {
+      "end": 3335,
+      "excerpt": "Why is venture capital interesting to you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3292,
+      "timestamps": []
+    },
+    {
+      "end": 3525,
+      "excerpt": "[00:03:26] Nadav Eylath: I think in hindsight it's what I always have been doing, but I didn't know that when I was building my career and going through my career, I remember Interesting. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 3337,
+      "timestamps": [
+        {
+          "offset": 3337,
+          "raw": "[00:03:26]",
+          "seconds": 206
+        }
+      ]
+    },
+    {
+      "end": 3554,
+      "excerpt": "[00:03:36] Gopi Rangan: I. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 3527,
+      "timestamps": [
+        {
+          "offset": 3527,
+          "raw": "[00:03:36]",
+          "seconds": 216
+        }
+      ]
+    },
+    {
+      "end": 3738,
+      "excerpt": "[00:03:38] Nadav Eylath: Yeah, I, I think, uh, when, when I joined, uh, Origami Logic, uh, the founder was interviewing me and um, asked me what do I wanna do in five years from now?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 3556,
+      "timestamps": [
+        {
+          "offset": 3556,
+          "raw": "[00:03:38]",
+          "seconds": 218
+        }
+      ]
+    },
+    {
+      "end": 4148,
+      "excerpt": "And I said, I dunno. Either start a company or, you know, being, or I called it pe I be careful what you wish for. I ended up doing both things at the same time, uh, not intentionally. And while I was, uh, learning from founders who were amazing serial entrepreneurs as a first employee at that company, you know, I just wanted to share what I've learned with others and, um, that sharing that knowledge and.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3740,
+      "timestamps": []
+    },
+    {
+      "end": 4555,
+      "excerpt": "Helping others who came to Silicon Valley and sharing what I've learned about those early days and those early iterations of, of finding product market fit and building foundations for growth turned into a formal advisory role in those companies and got, got a little bit of equity there and, uh, you know, being part of multiple things at the same time, which is basically, I would say venture investing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4150,
+      "timestamps": []
+    },
+    {
+      "end": 4894,
+      "excerpt": "[00:04:34] Gopi Rangan: Venture's a very unique profession. You get involved, uh, quite deeply in, in the topics that you research and there's a variety of things you can get involved in, and that's exactly what you're describing. Looks like you had a flavor of that early in your career and you turned it into your full-time profession.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4557,
+      "timestamps": [
+        {
+          "offset": 4557,
+          "raw": "[00:04:34]",
+          "seconds": 274
+        }
+      ]
+    },
+    {
+      "end": 4961,
+      "excerpt": "What is at.inc? And how is at.inc different from other PC firms? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4896,
+      "timestamps": []
+    },
+    {
+      "end": 5843,
+      "excerpt": "[00:04:57] Nadav Eylath: Yeah, so at.inc means at.inception or at.incorporation, because this is the stage that we like to get involved with founders with their companies, with startups. I think being partner from day one with the founders and going with them throughout their lifetime, it's a great way to build businesses. I, I would say for us it's a great way to invest as well because we get a really deep understanding and a deep relationship with the founders and the companies. So I think that in its own is very unique and different, uh, because we don't, uh, just say that it's the first institutional money or anything like that. We really say at.incorporation or inception. We invest somewhere between $100k and $500k at that point in time, and then we can potentially lead seed round a three. But then we try to keep on investing throughout the lifetime of companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 4963,
+      "timestamps": [
+        {
+          "offset": 4963,
+          "raw": "[00:04:57]",
+          "seconds": 297
+        }
+      ]
+    },
+    {
+      "end": 6650,
+      "excerpt": "We are also generalists. So I think because we come so early, I think we have to be generalist because we don't know what's the next theme, the next sector, the next uh, trend, the next industry, we try to listen founders and learn from them what they're seeing the next. Big, big trend. And lastly, I would say we focus on the intersection of technology and global, which for us means technically not easy and global means for us you can sell globally. Ideally you can sell globally from day one, but if not from day one, within the first year or two. There's amazing companies that would never sell globally and they are big, huge and amazing. It's just less of a fit for us. So I think this combination of things that I just described, describing who we're and how we invest and what differentiates us.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5845,
+      "timestamps": []
+    },
+    {
+      "end": 7044,
+      "excerpt": "[00:06:54] Gopi Rangan: Now, many VCs say that they invest very, very early at the time of incorporation. I, I have done a bunch of investments at that stage, but you took it literally to name the firm at.inc or at.incorporation. That's fascinating. I see that you invest in two styles. Like, uh, the earliest checks could be a hundred K to 500 K and you can also lead, uh, at the seed round.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6652,
+      "timestamps": [
+        {
+          "offset": 6652,
+          "raw": "[00:06:54]",
+          "seconds": 414
+        }
+      ]
+    },
+    {
+      "end": 7350,
+      "excerpt": "You like companies that have a global perspective for long-term vision and strong deep technical roots for the company. I can see that. Are there geography preferences? Do you invest in the US and or in other locations also, or are there, uh, certain sectors that you prefer although you're a generalist?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7046,
+      "timestamps": []
+    },
+    {
+      "end": 8172,
+      "excerpt": "[00:07:42] Nadav Eylath: Yeah, so, you know, I've been doing it almost for 10 years now, and, uh, as time goes by, I learn over time that, uh, geography matters to me, which has mattered less before. I prefer to be close to the founders because of the close relationship, meaning Silicon Valley presence is important. It's not a must. I've invested in Boston, in New York, in Portland, in Berlin, London, Israel of course. But the preference is to invest close to where I am, because I am trying to be a big part of business and be helpful as, as. The distance, even in today's world, makes a difference. So that's a preference, but it doesn't have to be this way. I'm definitely open to talking and investing in founders who are anywhere in the world as long as they're going after that intersection of tech and global.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 7352,
+      "timestamps": [
+        {
+          "offset": 7352,
+          "raw": "[00:07:42]",
+          "seconds": 462
+        }
+      ]
+    },
+    {
+      "end": 8225,
+      "excerpt": "So technically not easy in they can sell globally. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8174,
+      "timestamps": []
+    },
+    {
+      "end": 8338,
+      "excerpt": "[00:08:37] Gopi Rangan: How often do you make investments? How many investments do you make roughly in a year? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 8227,
+      "timestamps": [
+        {
+          "offset": 8227,
+          "raw": "[00:08:37]",
+          "seconds": 517
+        }
+      ]
+    },
+    {
+      "end": 8555,
+      "excerpt": "[00:08:42] Nadav Eylath: I've been doing it everything relatively slowly, so I, my first fund was a 2015 vintage, my second fund, 2020 vintage, and our third fund is end of 2024. So it's roughly five years per fund.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 8340,
+      "timestamps": [
+        {
+          "offset": 8340,
+          "raw": "[00:08:42]",
+          "seconds": 522
+        }
+      ]
+    },
+    {
+      "end": 8867,
+      "excerpt": "It's not typical for VCs to raise funds at that slow pace. But for us, it's part of the strategy. We like to invest across vintages. We like to invest slowly, we like to work with the founders closely. And in order to do that, you know, as a small firm as, and now solo GP, it basically requires us to be slow.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8557,
+      "timestamps": []
+    },
+    {
+      "end": 9280,
+      "excerpt": "So roughly one or two new companies a year at this point. In the past, I've done more. But the intention is to do roughly one or two new companies a year. And remember, that's not the number of investments because there are companies in the portfolio that are raising the next round and the next round, and we follow on and it takes our attention and focus and basically a big part of my day-to-day job as well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8869,
+      "timestamps": []
+    },
+    {
+      "end": 9633,
+      "excerpt": "[00:09:44] Gopi Rangan: I see that you're very deliberate and very thoughtful about each investment, and you take your time to make sure you are committed to the investment. Let's take a couple of examples, like what happens in that first meeting with the founder? What questions do you ask them? What gets you excited? Can you give an example? Yeah. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9282,
+      "timestamps": [
+        {
+          "offset": 9282,
+          "raw": "[00:09:44]",
+          "seconds": 584
+        }
+      ]
+    },
+    {
+      "end": 10351,
+      "excerpt": "[00:10:01] Nadav Eylath: You know, I think one of the questions that I love to ask is what kind of company is it that you're building? What kind of company is it in 30 years from now? Sometimes I say even 40, sometimes I, I say 15. It really depends on the situation. I think it helps me get a better feeling of the founder's vision, the mission, the incentive, the long-term thinking. It reveals a lot of the clarity, the ambition, the founder's mindset, what are they thinking about? I think we're in venture right, like we're trying to invest in the future in technology that will help shape the future. So for me it's very, very important and it's also opens up a lot of interesting conversations with founders. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 9635,
+      "timestamps": [
+        {
+          "offset": 9635,
+          "raw": "[00:10:01]",
+          "seconds": 601
+        }
+      ]
+    },
+    {
+      "end": 10456,
+      "excerpt": "[00:10:47] Gopi Rangan: Can you give me an example of a conversation you had with one of your founders?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 10353,
+      "timestamps": [
+        {
+          "offset": 10353,
+          "raw": "[00:10:47]",
+          "seconds": 647
+        }
+      ]
+    },
+    {
+      "end": 10589,
+      "excerpt": "When you ask the question, what kind of company are you building, how do you see it in the next 20, 30 years? What was the answer? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10458,
+      "timestamps": []
+    },
+    {
+      "end": 10902,
+      "excerpt": "[00:11:00] Nadav Eylath: The most common answer would be, uh, whoa, 30 years. I dunno. Like, uh, uh, 30 years Feels quite. Yeah. It's like, uh, maybe five. Or like, I know what we're gonna do today. It's not a bad answer. It's a good answer. And it's very means like, you know, founders are very focused on the.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 10591,
+      "timestamps": [
+        {
+          "offset": 10591,
+          "raw": "[00:11:00]",
+          "seconds": 660
+        }
+      ]
+    },
+    {
+      "end": 11233,
+      "excerpt": "In 30 years, we're the operating system for how you are billing houses. Hmm. What does it mean? Sometimes it's like, oh, okay, so let's, let's dip into that. What does it mean? And then it actually gives me a little bit of, uh, insight into how the founder is thinking and, and, and takes the conversation to an interesting area.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10904,
+      "timestamps": []
+    },
+    {
+      "end": 11558,
+      "excerpt": "'cause they could say a lot of different things. They could say, oh, it means that you kind of like, uh, click a few buttons and you're, you're like talking to a chat g PT type of, uh, uh, you know, AI generator. And you tell you describe the house that you want and it'll create automatically the blueprint and everything.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11235,
+      "timestamps": []
+    },
+    {
+      "end": 11937,
+      "excerpt": "And then they will actually build the house and they'll 3D print it or whatnot. That's an example, right? Like, uh, that's where the conversation can go to. And I like, I like that I. Having said all that, we wanna invest in founders who are close to reality and they, they can execute on something that is tangible and relevant right now and generate revenue relatively fast. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11560,
+      "timestamps": []
+    },
+    {
+      "end": 12002,
+      "excerpt": "[00:12:30] Gopi Rangan: Operating system for homes real estate.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11939,
+      "timestamps": [
+        {
+          "offset": 11939,
+          "raw": "[00:12:30]",
+          "seconds": 750
+        }
+      ]
+    },
+    {
+      "end": 12115,
+      "excerpt": "That statement alone makes me feel like I want learn more. I'm curious, which startup said this, which founder?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12004,
+      "timestamps": []
+    },
+    {
+      "end": 12698,
+      "excerpt": "[00:12:41] Nadav Eylath: I, I as, as mentioned, I don't think it's like a specific, uh, startup that said that we have it. We have a company in our portfolio that's called form x.com that they are doing something similar to what I described. I have to say something like that, I, I'm not quoting it, you know, one-to-one has, has came to mind like when we were talking to founders. This was just an example. I think I, I took like multiple other things, like from different conversations that I had because I, I had this conversation so many times in some, so many different areas.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 12117,
+      "timestamps": [
+        {
+          "offset": 12117,
+          "raw": "[00:12:41]",
+          "seconds": 761
+        }
+      ]
+    },
+    {
+      "end": 13084,
+      "excerpt": "[00:13:12] Gopi Rangan: That's a fascinating question that evokes a lot of thoughtful, introspective, long-term thinking from the founder's side. How long does it take for you to say yes. Start from early conversations on email or perhaps the first Zoom call or, uh, in person meeting. How many meetings and how long does it take for you to say, yes, I want to invest in this company.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 12700,
+      "timestamps": [
+        {
+          "offset": 12700,
+          "raw": "[00:13:12]",
+          "seconds": 792
+        }
+      ]
+    },
+    {
+      "end": 13590,
+      "excerpt": "[00:13:36] Nadav Eylath: I think it changes depending on the situation and the founders and the dynamics of where they are in their, you know, if it's like they're really starting right now or not. How serious are they to start the company right now? Sometimes, you know, because we like to invest early, then I, I can meet them like while, while they're still at work and just thinking about starting a company. So then we develop a relationship over time and say yes, like when they actually go for it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 13086,
+      "timestamps": [
+        {
+          "offset": 13086,
+          "raw": "[00:13:36]",
+          "seconds": 816
+        }
+      ]
+    },
+    {
+      "end": 13970,
+      "excerpt": "And sometimes it's like we say no when they actually go for it although we have developed that relationship. So it really depends. Yeah, I think like, maybe like the underlying question is like, how fast do I build my conviction? I think relatively fast. I mean, I think I, I relatively fast can understand, uh, if this is people that I would see a good fit for me to work with.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13592,
+      "timestamps": []
+    },
+    {
+      "end": 14318,
+      "excerpt": "And I, I kind of like learned over the years that all those cliches of like, you know, you, you wanna, is it a founder that you can see yourself drinking beer with? Is all these are true? I mean, it's not easy to say yes, for sure, but it's easy to say no. So you can build your conviction of like, uh, it's less of a fit for me, relatively fast.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13972,
+      "timestamps": []
+    },
+    {
+      "end": 14444,
+      "excerpt": "Building the conviction that it is a fit sometimes takes more time. It could be one or two meetings, but more often it's no.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14320,
+      "timestamps": []
+    },
+    {
+      "end": 14701,
+      "excerpt": "[00:14:57] Gopi Rangan: It's, uh, easy to say no, but when you say yes, it's, uh, sometimes a lifelong commitment. Maybe this startup works and if this startup doesn't work, maybe the relationship is even stronger and you might invest in the next startup.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14446,
+      "timestamps": [
+        {
+          "offset": 14446,
+          "raw": "[00:14:57]",
+          "seconds": 897
+        }
+      ]
+    },
+    {
+      "end": 15039,
+      "excerpt": "And I, I think about it, uh, very deeply as well. It's great to see that you start talking to founders even when they're in their current job and they haven't quit their job and they're still thinking about starting a company and they don't have a concrete idea. That's a great way to brainstorm and help founders launch a new business.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14703,
+      "timestamps": []
+    },
+    {
+      "end": 15492,
+      "excerpt": "Uh, I've done that a couple of times and it's really fun to have those brainstorming discussions. What's your advice to founders when they come to meet you. Especially founders like you mentioned, they're in the very, very early days of thinking about a new idea. It's fuzzy. Uh, they don't have a lot of clarity in their mind yet, and they want to talk to you, what are some two or three things that they can do to make meetings with you productive? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15041,
+      "timestamps": []
+    },
+    {
+      "end": 15785,
+      "excerpt": "[00:15:51] Nadav Eylath: Yeah, I think because it's a friendship, like what you're building, if you're, especially if you end up becoming partners, right? When you invest in, in a startup, you're a partner in that startup and you're partner with those founders, so build a connection, right?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 15494,
+      "timestamps": [
+        {
+          "offset": 15494,
+          "raw": "[00:15:51]",
+          "seconds": 951
+        }
+      ]
+    },
+    {
+      "end": 16094,
+      "excerpt": "Like it's kind of, it will sound all like all of those cliches, but they're many of them are true, right? Like it's about the connection. It's about people who are connecting with other people and feeling matters many times more than you know, the concrete, like, what, what are they doing at the beginning.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15787,
+      "timestamps": []
+    },
+    {
+      "end": 16548,
+      "excerpt": "But, you know, talk about the vision. Start from there. Start of like, what are you seeing? What, why are you doing this? Why are you interested in, in exploring ideas of building a company. It's not that, I don't think there's like one answer that is correct or, or incorrect. It's just it matters more to find the investors that are feet for you, that care about the thing, same things that you care about, and try to kind of like be very thoughtful.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16096,
+      "timestamps": []
+    },
+    {
+      "end": 17612,
+      "excerpt": "I think this is the most important thing, right? Like how you can share with or with other investors, I would say as well. But as I'm talking about myself only, like how did you come up with this decision? Why are you thinking this way? It's really helpful. It doesn't really matter what is the decision many times that you made or what what are you going after? It may many times it matters more. Like, how did you think about it? Why did you come to this conclusion. Because startups are so dynamic, change all the time, and you'd need to go through this process of decision making multiple times throughout your, um, startup life. And this would basically mean that how would I know that, that this is a good fit for me? I would know that only if I can learn about how you are thinking about it and similar the other way around. Like, you wanna learn about the investor or me, how do I think about those different situations? And what I think my, what I do is basically participate in, there's many, many, many, many difficult things that you do as a founder.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16550,
+      "timestamps": []
+    },
+    {
+      "end": 18104,
+      "excerpt": "I as an investor participate in two of those. One is raising capital. Raising capital is hard. Always I get to raise capital from LPs and then I get to invest in startups. So I did part of the raising capital. You in the raising capital. And the other thing that I think I'm doing there is like being part of the decision making and help you make those decisions and help bring to your periphery some unknown unknowns for you as a founder that I might have seen or I might have experienced.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17614,
+      "timestamps": []
+    },
+    {
+      "end": 18537,
+      "excerpt": "And you make the ultimate decision, but I wanna bring it into your periphery and be part of that process. And I need to learn. What would be the thought process that you would go through when you are making decisions? So I would say build a connection of a friendship kind of connection. Be thoughtful and share your thoughts and in an elaborate way, and how you think about things. More important than what you are actually doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18106,
+      "timestamps": []
+    },
+    {
+      "end": 18743,
+      "excerpt": "Yeah. And, and, and the other thing is like vision. If you have a vision about like the future and how it change and why that's gonna like happen, you know, share that many times you don't at this point. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18539,
+      "timestamps": []
+    },
+    {
+      "end": 18910,
+      "excerpt": "[00:19:23] Gopi Rangan: I see it's a combination of both the qualitative and quantitative, uh, thinking you want to build chemistry. The personal connection matters.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 18745,
+      "timestamps": [
+        {
+          "offset": 18745,
+          "raw": "[00:19:23]",
+          "seconds": 1163
+        }
+      ]
+    },
+    {
+      "end": 19290,
+      "excerpt": "You want to see, uh, an ambitious plan. You want to see them aim high, and you also wanna see them grounded in their reality, in their deep thinking of why they think this is interesting and articulate that thoughtfully to you so you understand what they're building and get conviction on it. I can see how these themes will turn into conversations and questions from your side.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18912,
+      "timestamps": []
+    },
+    {
+      "end": 19562,
+      "excerpt": "Very, very interesting. Thank you for sharing insightful, uh, stories and insightful examples from, um, how you actually operate. This is very fascinating to hear. Roughly how many companies do you meet for every one company you say yes? And why do you say no so often? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19292,
+      "timestamps": []
+    },
+    {
+      "end": 19658,
+      "excerpt": "[00:20:14] Nadav Eylath: Why do I say no so often is because I don't have the capacity to yes.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 19564,
+      "timestamps": [
+        {
+          "offset": 19564,
+          "raw": "[00:20:14]",
+          "seconds": 1214
+        }
+      ]
+    },
+    {
+      "end": 20479,
+      "excerpt": "To, to say yes to everyone. If I would have, it would've been great, but, uh, I don't know exactly and I, I don't love this metric. As many investors like you meet a lot of, uh, startup founders and, and companies and, and it's a big part of, of your day to day. I don't love to look at that metric because if I did my work well, I have said yes to a higher percentage of the companies that I've met, which meant that I'm very effective with my time and I'm meeting only amazing founders that are fit for me and I'm a perfect fit for them because you need them to say yes as well, right? Like, you need to be invited into the investment deal, et cetera. So I would've preferred that this metric would be very, very high. However, many times I would say timing would be a reason to say no. It's not a good timing for me.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19660,
+      "timestamps": []
+    },
+    {
+      "end": 21294,
+      "excerpt": "It's not a fit for me, right? Because I might have just been doing a new investment right now, so adding another one at this point or another one to, to focus on and to, or to work on as a small firm or as a solo gp, it's not easy. It might have been that an existing company in our portfolio is raising their next round and I'm helping them and I'm not focused on other things at the moment or they are closing a round and I'm investing and I'm part of that. Or it might be that I'll be fundraising, right? So, so many times, uh, the, like I would say the most common reason to say no is a timing issue, right? It just happens too often. There are other reasons that I would say, uh, and I always like to say that it's not a good fit for me because I dunno, I don't think nobody knows like, uh, who's the winner.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20481,
+      "timestamps": []
+    },
+    {
+      "end": 22014,
+      "excerpt": "And I don't like this, uh, assumption that some people know who the winner is because it's not. It's not. I've seen it so many times that this was not the case. That a companies that were struggling to fundraise, they, the winners eventually. I don't think that's a, a good reason to say no, that, you know, you'd think, oh, this is not a winner. This is not one. I think the reason is, for me at least, is many times it's not a fit for me. I'm not interested in that space. I'm interested in that space, but it's not a good fit with the founders. I'm interested in that space, but I'm not sure that I love the way that, you know, the, the founder would think about this specific problem or how they're approaching it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21296,
+      "timestamps": []
+    },
+    {
+      "end": 22544,
+      "excerpt": "It might be that, uh, you know, there's many different reasons, but I eventually, I think it's about me more about more than about the company and what they're doing because. I'll be wrong. This is part of the business many, many times, and that's why I don't like to say, oh, I might be wrong, because it's not about me judging if I'm right or wrong. It's just like, it's just not a fit in, in what, where I am right now, in the timing, where I am with this market, where I am, where my thoughts are about, where the market is.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22016,
+      "timestamps": []
+    },
+    {
+      "end": 22706,
+      "excerpt": "[00:23:24] Gopi Rangan: Timing and fit matters to you. Fit is a very personal thing and sometimes it works, sometimes it, it's hard to form conviction, correct?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 22546,
+      "timestamps": [
+        {
+          "offset": 22546,
+          "raw": "[00:23:24]",
+          "seconds": 1404
+        }
+      ]
+    },
+    {
+      "end": 23020,
+      "excerpt": "Sometimes you meet a great company and it may not be a fit for you, so you may, you will have to pass. It's a difficult decision. It's tough. It's tough to do that. And all obviously know you have limited bandwidth. You cannot invest in all the good companies you meet. You have to choose only a few out of them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22708,
+      "timestamps": []
+    },
+    {
+      "end": 23324,
+      "excerpt": "Uh, and that's really hard to do. That's very hard. You've been in VC for about 10 years and you've been in operating roles and as a founder for many years before that. As you're building your new VC firm, what's one thing you would like to change about the venture capital industry to make it better? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23022,
+      "timestamps": []
+    },
+    {
+      "end": 23497,
+      "excerpt": "[00:24:07] Nadav Eylath: So I don't know if like I would wanna change, but I believe that, um, you know, flexibility is very, very important in today's market environment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 23326,
+      "timestamps": [
+        {
+          "offset": 23326,
+          "raw": "[00:24:07]",
+          "seconds": 1447
+        }
+      ]
+    },
+    {
+      "end": 23823,
+      "excerpt": "This is why fund three for us has a lot more flexibility in, in its structure. I think that what happens many time is that there's so many things that are not, doesn't necessarily make sense to the VC investors, but they do it anyways because that's the structure how the, this part of the capital market works and operates.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23499,
+      "timestamps": []
+    },
+    {
+      "end": 24156,
+      "excerpt": "However, if GPs would have more discretion. And be able to be a little bit more creative in the way that they invest and adaptive to the market, especially in market environments like now. I think it'll create a better result overall in the ecosystem and in this part of the market for founders, for VCs, for the LPs, for everyone.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23825,
+      "timestamps": []
+    },
+    {
+      "end": 24484,
+      "excerpt": "Today we're seeing a lot of changes in the market. We're seeing, you know, founders with a small team or one person adding hundreds of thousands of dollars in ARR a day. You weren't able to do that before you are able to do that to these days that I don't think the VCs models are actually fitting this type of company growth.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24158,
+      "timestamps": []
+    },
+    {
+      "end": 24721,
+      "excerpt": "But there are other things that are happening that do fit the venture model. So I think venture models should evolve, uh, VC world and GPs discretion should evolve and there's a lot, things can change or are changing or should change. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24486,
+      "timestamps": []
+    },
+    {
+      "end": 24824,
+      "excerpt": "[00:25:39] Gopi Rangan: I hope, uh, the vision you outlined comes true and we evolve into that world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24723,
+      "timestamps": [
+        {
+          "offset": 24723,
+          "raw": "[00:25:39]",
+          "seconds": 1539
+        }
+      ]
+    },
+    {
+      "end": 25160,
+      "excerpt": "Great to have that flexibility both from the founder side and from the VC side, and in fact also from the limited partner side. It's great for the ecosystem. We're coming towards the end of our conversation, and I want to ask you about your community involvement. Is that a nonprofit organization you are passionate about? Which one? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24826,
+      "timestamps": []
+    },
+    {
+      "end": 25753,
+      "excerpt": "[00:26:04] Nadav Eylath: I dunno if I can describe it as a nonprofit, but Telaviv University, which is my Alma that I've been involved with for many, many years is an organization that I think, uh, that matters to me. And I've been trying to help throughout the years as a, starting in the undergrad, joining the alumni board of the engineering, uh, faculty and for the past 10 plus years. I think generally speaking, I think, uh, universities are important institutions that create basic research that turns into innovation eventually and changes a lot of things in the world to the better.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 25162,
+      "timestamps": [
+        {
+          "offset": 25162,
+          "raw": "[00:26:04]",
+          "seconds": 1564
+        }
+      ]
+    },
+    {
+      "end": 26115,
+      "excerpt": "[00:26:40] Gopi Rangan: Nadav, thank you very much for spending time with me today. Thank you for sharing nuggets of wisdom. Thank you for sharing specific examples of how you think, how you make decisions, how you work with founders. It's fascinating to hear examples from your own experiences. I look forward to sharing your nuggets of wisdom with the world.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 25755,
+      "timestamps": [
+        {
+          "offset": 25755,
+          "raw": "[00:26:40]",
+          "seconds": 1600
+        }
+      ]
+    },
+    {
+      "end": 26159,
+      "excerpt": "[00:26:59] Nadav Eylath: Thank you, Gopi. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Nadav Eylath",
+      "start": 26117,
+      "timestamps": [
+        {
+          "offset": 26117,
+          "raw": "[00:26:59]",
+          "seconds": 1619
+        }
+      ]
+    },
+    {
+      "end": 26513,
+      "excerpt": "[00:27:02] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 26161,
+      "timestamps": [
+        {
+          "offset": 26161,
+          "raw": "[00:27:02]",
+          "seconds": 1622
+        }
+      ]
+    }
+  ],
+  "source_sha256": "4d7e62bb0536e92a5ffa6a6520b2a0a2b01c2f1f05c879a625a67be6e3dcb228",
+  "text_sha256": "8ab6d9a428dd870257de88808610e803a43ff1f003898bc70a0e5cac66f8c3c4"
+}

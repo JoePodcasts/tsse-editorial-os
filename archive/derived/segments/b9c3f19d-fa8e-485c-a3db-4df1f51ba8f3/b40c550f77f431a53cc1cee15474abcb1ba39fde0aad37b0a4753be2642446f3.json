@@ -1,0 +1,935 @@
+{
+  "end": "exclusive",
+  "extractor_version": "archive-v1",
+  "offset_unit": "unicode_codepoints",
+  "segments": [
+    {
+      "end": 258,
+      "excerpt": "[00:00:00] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 0,
+      "timestamps": [
+        {
+          "offset": 0,
+          "raw": "[00:00:00]",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "end": 455,
+      "excerpt": "Welcome to The Sure Shot Entrepreneur. Miriam Rivera is our guest today. Miriam is the co-founder and managing director of Ulu Ventures, an early-stage venture capital fund in the Silicon Valley.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 260,
+      "timestamps": []
+    },
+    {
+      "end": 828,
+      "excerpt": "Ulu generates great financial returns using a disciplined, repeatable decision making process that analyzes risk reward trade-offs and also reduces cognitive bias. Miriam is dedicated to increasing diversity in both the entrepreneurial and the investment communities. Prior to Ulu Ventures, Miriam helped build and lead an award winning global legal department at Google.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 457,
+      "timestamps": []
+    },
+    {
+      "end": 1158,
+      "excerpt": "As a first generation college student and scholarship recipient, Miriam graduated from Stanford University where she earned the A. B., A. M., J. D., and B. A. degrees. She has helped raise $250 million for need-based undergraduate scholarships and endowed a scholarship fund for low-income and undocumented students at Stanford.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 830,
+      "timestamps": []
+    },
+    {
+      "end": 1200,
+      "excerpt": "Miriam, it's a pleasure to welcome you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1160,
+      "timestamps": []
+    },
+    {
+      "end": 1271,
+      "excerpt": "[00:01:22] Miriam Rivera: Thank you, Gopi, for having me here today. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 1202,
+      "timestamps": [
+        {
+          "offset": 1202,
+          "raw": "[00:01:22]",
+          "seconds": 82
+        }
+      ]
+    },
+    {
+      "end": 1321,
+      "excerpt": "[00:01:24] Gopi Rangan: Tell us about yourself. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 1273,
+      "timestamps": [
+        {
+          "offset": 1273,
+          "raw": "[00:01:24]",
+          "seconds": 84
+        }
+      ]
+    },
+    {
+      "end": 1548,
+      "excerpt": "[00:01:26] Miriam Rivera: Well, I would say that I'm probably the least likely person to have become a venture capitalist that you might pick up off the street. When I first came to Stanford, it was kind of a dream come true.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 1323,
+      "timestamps": [
+        {
+          "offset": 1323,
+          "raw": "[00:01:26]",
+          "seconds": 86
+        }
+      ]
+    },
+    {
+      "end": 1946,
+      "excerpt": "I am a first-generation college graduate. My parents were migrant farm workers and factory workers. They had very little education and I wasn't a tech student at Stanford. In my day, the undergraduates that were studying social sciences and humanities were called fuzzies and the students that were in engineering, math, science disciplines were called techies, but I was a very pure blood fuzzy.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1550,
+      "timestamps": []
+    },
+    {
+      "end": 2114,
+      "excerpt": "I majored in sociology and then I also had a master's in Spanish with a focus on Latin American literature. So not the stereotypical expectation of who becomes a VC. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 1948,
+      "timestamps": []
+    },
+    {
+      "end": 2224,
+      "excerpt": "[00:02:20] Gopi Rangan: How did you get into venture capital from the fuzzies to the hardcore techie world? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2116,
+      "timestamps": [
+        {
+          "offset": 2116,
+          "raw": "[00:02:20]",
+          "seconds": 140
+        }
+      ]
+    },
+    {
+      "end": 2724,
+      "excerpt": "[00:02:26] Miriam Rivera: So when I first decided I would be interested in venture, part of it was that I thought it would use a skill set that I developed over a long time, which was both working with startups, helping them to commercialize technology, And understanding how the capital formation process worked from having been at a startup and then at Google where I was before I founded Ulu Ventures that we've kind of gone through the whole life cycle of a company in a very short time period.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 2226,
+      "timestamps": [
+        {
+          "offset": 2226,
+          "raw": "[00:02:26]",
+          "seconds": 146
+        }
+      ]
+    },
+    {
+      "end": 2995,
+      "excerpt": "We went from being like $85 million when I joined in year two of the company's life to being a $10 billion company in five years from then. And that's kind of what every VC hopes to do. So I felt like I had done enough of that to maybe be helpful to startup companies. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 2726,
+      "timestamps": []
+    },
+    {
+      "end": 3122,
+      "excerpt": "[00:03:20] Gopi Rangan: Yeah. When you talk about capital formation, as gatekeepers of capital we play a very important role.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 2997,
+      "timestamps": [
+        {
+          "offset": 2997,
+          "raw": "[00:03:20]",
+          "seconds": 200
+        }
+      ]
+    },
+    {
+      "end": 3468,
+      "excerpt": "And if you look at the venture capital industry, there is no one way to get into venture capital. There are so many different ways. You can be a journalist, you can be an engineer, you can be a lawyer. That's always puzzled me that this space is so open to receiving different types of skill sets, but yet there is so much bias in the industry.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3124,
+      "timestamps": []
+    },
+    {
+      "end": 3792,
+      "excerpt": "[00:03:47] Miriam Rivera: It's certainly one of the things that is shocking about venture capital and just assets under management generally is how predominantly white and male it is. And I think in venture capital, there's about 9 percent of investment decision makers who are women. So partners and founders of VC firms.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 3470,
+      "timestamps": [
+        {
+          "offset": 3470,
+          "raw": "[00:03:47]",
+          "seconds": 227
+        }
+      ]
+    },
+    {
+      "end": 4086,
+      "excerpt": "And the great majority of all the VCs are probably 85 percent white men. So it's a very small percentage of people that are diverse. And I think that that is something that hurts venture capital in terms of returns and also in terms of creating better decision making at the investment level.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 3794,
+      "timestamps": []
+    },
+    {
+      "end": 4542,
+      "excerpt": "[00:04:39] Gopi Rangan: Yeah, tell me if you agree with me. I don't think there's a group of people that decide that \"we need to keep this to ourselves. We should not allow other people\" but I think it's the preference of people working with the people who look like them or act like them or from the same background that has kind of led to this point where we have so few women decision making partners at venture funds and very few women entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 4088,
+      "timestamps": [
+        {
+          "offset": 4088,
+          "raw": "[00:04:39]",
+          "seconds": 279
+        }
+      ]
+    },
+    {
+      "end": 4636,
+      "excerpt": "Do you have some ideas on how we got to where we are today and what can we do to change it? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 4544,
+      "timestamps": []
+    },
+    {
+      "end": 5085,
+      "excerpt": "[00:05:06] Miriam Rivera: Well, the history of assets under management is exceedingly narrow in terms of who has access to wealth and then who has access to manage wealth. On a global scale, they're about $69 trillion in assets under management, a huge percentage of which actually comes from pensions and that can be federal, state and national depending on the country, but very little of that capital is invested with women or diverse managers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 4638,
+      "timestamps": [
+        {
+          "offset": 4638,
+          "raw": "[00:05:06]",
+          "seconds": 306
+        }
+      ]
+    },
+    {
+      "end": 5315,
+      "excerpt": "Literally 99 percent of the world's wealth is managed by white men or the culture that is the leading culture in a country, but by men. And that has been true historically. And it hasn't changed very much even though it's 2020. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5087,
+      "timestamps": []
+    },
+    {
+      "end": 5384,
+      "excerpt": "[00:06:00] Gopi Rangan: So what is Ulu Ventures doing differently? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 5317,
+      "timestamps": [
+        {
+          "offset": 5317,
+          "raw": "[00:06:00]",
+          "seconds": 360
+        }
+      ]
+    },
+    {
+      "end": 5666,
+      "excerpt": "[00:06:03] Miriam Rivera: Well, we tend to look at our investments in a very quantified way where we try to apply the same criteria to all comers, and we try to evaluate the market potential of each opportunity in a way that gives us feedback in terms of learning how we're doing.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 5386,
+      "timestamps": [
+        {
+          "offset": 5386,
+          "raw": "[00:06:03]",
+          "seconds": 363
+        }
+      ]
+    },
+    {
+      "end": 5981,
+      "excerpt": "One of the things that makes venture capital a particularly difficult area is that oftentimes between an initial investment and an exit is been, you know, 10 plus years. And because of that, there isn't a lot of quick feedback. And we all know that having more immediate feedback is one of the best ways we learn.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5668,
+      "timestamps": []
+    },
+    {
+      "end": 6358,
+      "excerpt": "And that's been incorporated more and more into education where you have smaller amounts of information, you're being quizzed on them. You have a midterm exam, final exam. So there's a level of learning that's happening along the way. And you're able to test whether you're actually learning. But with the long time horizons in venture capital, that sometimes doesn't happen.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 5983,
+      "timestamps": []
+    },
+    {
+      "end": 6461,
+      "excerpt": "And it also doesn't happen because people don't write down how it is that they make their decisions. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6360,
+      "timestamps": []
+    },
+    {
+      "end": 6588,
+      "excerpt": "[00:07:14] Gopi Rangan: So what's the first point of contact with an entrepreneur for you? What's the best way to reach you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 6463,
+      "timestamps": [
+        {
+          "offset": 6463,
+          "raw": "[00:07:14]",
+          "seconds": 434
+        }
+      ]
+    },
+    {
+      "end": 6811,
+      "excerpt": "[00:07:19] Miriam Rivera: Well, the best way is definitely through a variety of referrals. And part of that is because we have a very large and diverse network of people that know our work and understand what we look for.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 6590,
+      "timestamps": [
+        {
+          "offset": 6590,
+          "raw": "[00:07:19]",
+          "seconds": 439
+        }
+      ]
+    },
+    {
+      "end": 7548,
+      "excerpt": "And so those sources that are trusted by you and by us are probably going to be your best avenue into getting a hearing at Ulu. But we have actually even hired a venture partner that is helping us with deal flow so that we can try to be responsive to all the deal flow that we have. And we're probably looking at a funnel that has 3000 different inputs in terms of potential investments in a given year. That's coming from trusted sources, outreach that we're doing more broadly in the community, demo days, and completely cold pitches. And we're trying to make a decision on the number of meetings we take, which is probably closer to a 10th of all those outreaches. And then out of those, maybe a fifth, get down to a second meeting.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 6813,
+      "timestamps": []
+    },
+    {
+      "end": 7770,
+      "excerpt": "And then finally, we're going to make only about 20 investments a year. So it is definitely a process that has a broad funnel, but it really quickly narrows down to a very few opportunities that we're going to focus on. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 7550,
+      "timestamps": []
+    },
+    {
+      "end": 8371,
+      "excerpt": "[00:08:43] Gopi Rangan: So I've always struggled with two things. The first thing is I say the same thing that I want to meet entrepreneurs through my network, which has an inherent bias, which means that only people I know can bring opportunities to me and that naturally prevents me from meeting entrepreneurs that I will not know directly. And that's feeds to more of the same kind of bias that we have in venture capital. So that's one problem. And the other problem is more of a process. I get a lot of inbound interest and I wish I was able to respond thoughtfully to every single one of them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 7772,
+      "timestamps": [
+        {
+          "offset": 7772,
+          "raw": "[00:08:43]",
+          "seconds": 523
+        }
+      ]
+    },
+    {
+      "end": 8464,
+      "excerpt": "I just don't know how, how to manage it with the limited time we have every day, 24 hours. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8373,
+      "timestamps": []
+    },
+    {
+      "end": 8763,
+      "excerpt": "[00:09:24] Miriam Rivera: Yeah, and I agree with you that this is constant challenge. One of the things that we do is actually try to increase the size and quality of our networks. So one of them is we founded an organization called Stanford Angels and Entrepreneurs, which has about 1500 members.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 8466,
+      "timestamps": [
+        {
+          "offset": 8466,
+          "raw": "[00:09:24]",
+          "seconds": 564
+        }
+      ]
+    },
+    {
+      "end": 9197,
+      "excerpt": "So, that group of people is looking at investments in a much broader area than two human beings could ever look at. Right. And almost everybody that went to Stanford went somewhere else for undergraduate or later on for graduate school. That means that that funnel is much broader than it sounds, even though it may be through people that we loosely know, because obviously I don't know all 1, 500 members of this organization well.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 8765,
+      "timestamps": []
+    },
+    {
+      "end": 9672,
+      "excerpt": "In addition, we have networks that we personally cultivate. For example, I have an intern who is working on a project to identify all the African American and Latino led venture firms in the country as well as accelerators that may focus on those populations. And so I'm actively trying to increase the size of the networks that are in areas that aren't well represented, perhaps, like at Stanford, where I'm very deeply involved, and consciously trying to counteract that.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9199,
+      "timestamps": []
+    },
+    {
+      "end": 9698,
+      "excerpt": "Focus being too narrow. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 9674,
+      "timestamps": []
+    },
+    {
+      "end": 10079,
+      "excerpt": "[00:10:55] Gopi Rangan: So from an entrepreneur's perspective, what do they need to do to prepare before they meet you? I see that you actively try to meet entrepreneurs in different areas. So you will see a whole diverse set of opportunities that other people don't see. But some of these entrepreneurs may not be very familiar with how the whole venture capital processes work.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 9700,
+      "timestamps": [
+        {
+          "offset": 9700,
+          "raw": "[00:10:55]",
+          "seconds": 655
+        }
+      ]
+    },
+    {
+      "end": 10454,
+      "excerpt": "[00:11:14] Miriam Rivera: Yes. And one of the things that we believe is really important is being transparent and also making people aware of what are the things that we're looking for. We don't want to hide the ball, if you will. What we're hoping for is to give each entrepreneur the best audience we can. And that means telling them, what is this audience interested in?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 10081,
+      "timestamps": [
+        {
+          "offset": 10081,
+          "raw": "[00:11:14]",
+          "seconds": 674
+        }
+      ]
+    },
+    {
+      "end": 10807,
+      "excerpt": "What do we care about? What are the kinds of pieces of evidence that you can present that are going to be meaningful to us? So we actually published a rubric on our website about exactly those kinds of things and we try to break down the kinds of factors that go into what looks like a good opportunity and how we evaluate them on a qualitative basis.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10456,
+      "timestamps": []
+    },
+    {
+      "end": 11171,
+      "excerpt": "So part of that would be the fit with our firm. Are they a seed-stage investment? Do they focus on enterprise IT? Are they geographically based close to us? That's one thing that we found in the seed stage. It's often the case that being able to have closer relationships and networks that you can apply to your companies makes a big difference in their success.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 10809,
+      "timestamps": []
+    },
+    {
+      "end": 11540,
+      "excerpt": "So if I don't know somebody in Davenport, Iowa, for example, it means that I'm going to be able to be less helpful if I make an investment there than if I know a large number of people who are there and have different backgrounds that would be helpful to a startup. And we kind of make all of these sort of things very clear to the teams before they walk in the door.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11173,
+      "timestamps": []
+    },
+    {
+      "end": 11673,
+      "excerpt": "So hopefully in their presentation of their company, they can address all of the factors that we've indicated are important to us. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 11542,
+      "timestamps": []
+    },
+    {
+      "end": 11931,
+      "excerpt": "[00:13:00] Gopi Rangan: So what does it take to go from the first meeting to the second meeting to more meetings later? And you mentioned that in the end, you make 20 investments a year. Can you pick one example and kind of walk through how the process is?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 11675,
+      "timestamps": [
+        {
+          "offset": 11675,
+          "raw": "[00:13:00]",
+          "seconds": 780
+        }
+      ]
+    },
+    {
+      "end": 12344,
+      "excerpt": "[00:13:15] Miriam Rivera: Sure. So I'll take a look at a company like SoFi that maybe some of your audience would know. We'll look at various aspects of the company and some of those are in our rubric. So what is the market opportunity? And by that we mean, what's the total addressable market? What kind of traction does this company have in terms of developing relationships that are critical for its success?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 11933,
+      "timestamps": [
+        {
+          "offset": 11933,
+          "raw": "[00:13:15]",
+          "seconds": 795
+        }
+      ]
+    },
+    {
+      "end": 13023,
+      "excerpt": "And a lot of people would think of SoFi as purely a consumer-oriented company, but one of the most important relationships that they have is really to other enterprises that provide the capital that's used in their lending programs. And so we saw it more as how are they able to access entreprise relationships that then give them access to end user customers. One of the things that's really interesting is that at that time, FinTech was kind of disfavored in the Valley. SoFi had really gone to a lot of the Sandhill Road firms and hadn't been extended an offer. And so they were looking to actually build relationships within Stanford to access capital from the alumni base.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 12346,
+      "timestamps": []
+    },
+    {
+      "end": 13384,
+      "excerpt": "And so that was one reason that they came to ULU was that they knew that Clint and I had founded Stanford Angels & Entrepreneurs, and they were talking about investing in having affinity groups invest in themselves. So alumni from Stanford would finance or refinance the loans of Stanford students, and they thought that this model could work across colleges.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13025,
+      "timestamps": []
+    },
+    {
+      "end": 14063,
+      "excerpt": "But one of the interesting things about the team was that even though it was a group of peers from the Stanford Business School, really there was, one person who spoke on behalf of the team and that was Mike Cagney. And that was actually a concern in that when you have a team of people, you want them to all feel that their contribution is going to be heard. You want a leader who knows how to draw out the expertise of various people on the team. And initially we did not see a lot of evidence of that. So that was of concern, but we put that as a risk factor in terms of the team. And we still found that the idea and the market were compelling enough to make an investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 13386,
+      "timestamps": []
+    },
+    {
+      "end": 14285,
+      "excerpt": "And it turned out that Mike was probably one of the best hiring managers that we've seen in our portfolio. He was able to bring on incredibly talented and diverse team members and I think he's done that again at Figure. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14065,
+      "timestamps": []
+    },
+    {
+      "end": 14778,
+      "excerpt": "[00:16:11] Gopi Rangan: This is great. I can see the initial conviction that you formed with the company and you also put the risks on the table saying, \"I'm going to accept this risk\" and then eventually just like some of the best founders do, Mike found ways to eliminate that risk by bringing on team members. This is a great story, but how do you and your partner collaborate on this? Do entrepreneurs need to convince one person first, or do they need to convince both at the same time?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 14287,
+      "timestamps": [
+        {
+          "offset": 14287,
+          "raw": "[00:16:11]",
+          "seconds": 971
+        }
+      ]
+    },
+    {
+      "end": 14809,
+      "excerpt": "How does it work within Ulu? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 14780,
+      "timestamps": []
+    },
+    {
+      "end": 15105,
+      "excerpt": "[00:16:40] Miriam Rivera: Yeah, within Ulu, it generally works that one partner will meet with an entrepreneur, then the other partner will meet with an entrepreneur. And something that's a little different about Ulu is that we do require a unanimous vote of the partners to make an investment.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 14811,
+      "timestamps": [
+        {
+          "offset": 14811,
+          "raw": "[00:16:40]",
+          "seconds": 1000
+        }
+      ]
+    },
+    {
+      "end": 15422,
+      "excerpt": "And so that doesn't mean that we always agree immediately or upfront. And I think that's really important for people to know that sometimes, we're really having some very significant differences of opinion, but part of what helps us to reach a unanimous conclusion is that we use this process called market mapping.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15107,
+      "timestamps": []
+    },
+    {
+      "end": 15861,
+      "excerpt": "Where each of us is assessing different aspects of risk in a team and in a company, and we can actually run the models with Clint's perspective, with my perspective, and oftentimes what we find is that even when we have substantially different opinions about the risks in a company, overall, the company achieves our 10X probability weighted hurdle rate, and therefore we go ahead and make the decision with those differences of opinion.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15424,
+      "timestamps": []
+    },
+    {
+      "end": 15864,
+      "excerpt": " ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 15863,
+      "timestamps": []
+    },
+    {
+      "end": 16346,
+      "excerpt": "[00:17:58] Gopi Rangan: I see what you're saying that it's okay for the partners to have different perspectives, but as long as the probability weighted multiple on invested capital crosses the threshold, then you're both on board with the investment. Do you also expect the entrepreneurs to understand your point of view that, there are these risks, and they need to agree with you that they see the same risks that you see, or is it okay if they have a differing point of view? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 15866,
+      "timestamps": [
+        {
+          "offset": 15866,
+          "raw": "[00:17:58]",
+          "seconds": 1078
+        }
+      ]
+    },
+    {
+      "end": 16739,
+      "excerpt": "[00:18:22] Miriam Rivera: Yeah, they can definitely have a different point of view. And one of the things that we do that's a little different is when we're done creating our model, we actually share it with entrepreneurs and it allows them to do what if analysis and to use their own assumptions, which may be different from the ones that we finally used in making our investment decisions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 16348,
+      "timestamps": [
+        {
+          "offset": 16348,
+          "raw": "[00:18:22]",
+          "seconds": 1102
+        }
+      ]
+    },
+    {
+      "end": 17040,
+      "excerpt": "And sometimes that leads to conversations that change an outcome. So for example, we had a company recently where the decision analysis didn't pencil out to a 10X probability weighted multiple. It was something like a 7X. And then the entrepreneur went and played with the model and the assumptions.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 16741,
+      "timestamps": []
+    },
+    {
+      "end": 17419,
+      "excerpt": "And he came back and he said, \"I see there are two things that I could do that would make this go over a 10X, one of which is maybe my valuation expectations were too high. And if I lowered them, we get much closer to the 10X probability weighted multiple.\" The other thing that he mentioned was, \"I don't think you're giving me enough credit for traction in this other market.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17042,
+      "timestamps": []
+    },
+    {
+      "end": 17761,
+      "excerpt": "And if you talk to some of the customers that are in that market, I think you would increase your sense of how transferable this technology is into that market and how customers might be more excited than you believe about taking on this technology.\" And we did that. And it was true that we had not been giving him enough credit for those.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17421,
+      "timestamps": []
+    },
+    {
+      "end": 17933,
+      "excerpt": "We actually changed our thinking and our numbers and we were able to get to a 10X probably weighted multiple with those two changes to the model and make the investment. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 17763,
+      "timestamps": []
+    },
+    {
+      "end": 18114,
+      "excerpt": "[00:20:10] Gopi Rangan: It's great to see the level of transparency you have. And you have an open discussion. That's a great way to start a new relationship with an entrepreneur.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 17935,
+      "timestamps": [
+        {
+          "offset": 17935,
+          "raw": "[00:20:10]",
+          "seconds": 1210
+        }
+      ]
+    },
+    {
+      "end": 18492,
+      "excerpt": "But this discussion also feels quite involved. From your perspective, I wonder when you spend so much time, does it slow down your decision making process? And also from an entrepreneur's point of view, if they spend so much time to make one decision, they have 20, 30 other VCs to meet, how do they spend their time? Is it fair to expect them to spend so much time with you? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18116,
+      "timestamps": []
+    },
+    {
+      "end": 18848,
+      "excerpt": "[00:20:38] Miriam Rivera: Well, it's interesting, but I find that sometimes that saying about 'you have to go slow to go fast' is really the case. And partly, oftentimes we're way faster than other firms at getting to a valuation with a company because we don't wait around for social proof and we're not the cats that need to be herded by entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 18494,
+      "timestamps": [
+        {
+          "offset": 18494,
+          "raw": "[00:20:38]",
+          "seconds": 1238
+        }
+      ]
+    },
+    {
+      "end": 19146,
+      "excerpt": "Our market mapping process and our diligence process really enables us relatively quickly, right? For the entrepreneur, maybe it's two initial meetings. The market mapping is a three hour exercise. There's another follow up meeting after that. That's about another hour. So it's about five hours.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 18850,
+      "timestamps": []
+    },
+    {
+      "end": 19789,
+      "excerpt": "It's not a small amount of time. It's definitely not lunch and here's your million dollars, but it's something that often helps the entrepreneur. To better describe their total addressable market, their opportunity and to understand, what a reasonable pricing might be and how we got there and that helps them to price in a way that coalesces a group of investors around their deal actually faster than waiting to have multiple people put forward numbers or for them to put forward a number, be told no by dozens of firms, and then have to lower their number and start the process again, which is not uncommon in early stage venture capital.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 19148,
+      "timestamps": []
+    },
+    {
+      "end": 20206,
+      "excerpt": "[00:22:10] Gopi Rangan: Yeah. I've been through the market mapping exercise a couple of times myself, and I've found it very educational. It's a great exercise to help the entrepreneur know where he or she stands. So that way they can position themselves well in the market. It's a very involved process. You go into a lot of details, which helps them uncover a lot of things that they may not have thought through.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 19791,
+      "timestamps": [
+        {
+          "offset": 19791,
+          "raw": "[00:22:10]",
+          "seconds": 1330
+        }
+      ]
+    },
+    {
+      "end": 20476,
+      "excerpt": "So from that perspective, it's certainly worth making the time to invest in this process whether you make the investment or not. And if you make the investment certainly this relationship can build on that factual information being exchanged versus personal opinions. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20208,
+      "timestamps": []
+    },
+    {
+      "end": 20572,
+      "excerpt": "[00:22:47] Miriam Rivera: Right? And for a lot of people, valuations are just made up numbers.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 20478,
+      "timestamps": [
+        {
+          "offset": 20478,
+          "raw": "[00:22:47]",
+          "seconds": 1367
+        }
+      ]
+    },
+    {
+      "end": 20927,
+      "excerpt": "You know, a certain accelerator incubator may say, \"all of you have a startup that's worth $9 million. And could that really be true that a hundred different firms have exactly the same valuation depending on what they've done with customers, depending on how much of the technology they've built out, depending on how much market research they've done?",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20574,
+      "timestamps": []
+    },
+    {
+      "end": 21114,
+      "excerpt": "To me, it seems really unlikely that everybody has the same valuation at a certain stage without actually digging in and seeing what the differences are between those hundred companies.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 20929,
+      "timestamps": []
+    },
+    {
+      "end": 21314,
+      "excerpt": "[00:23:28] Gopi Rangan: Yeah, when we make decisions optimized for speed, then we compromise on some of the nuances like this. And I see that happening with some accelerators and also many VC firms.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21116,
+      "timestamps": [
+        {
+          "offset": 21116,
+          "raw": "[00:23:28]",
+          "seconds": 1408
+        }
+      ]
+    },
+    {
+      "end": 21485,
+      "excerpt": "That goes back into the, the original topic we talked about. When we make decisions with such speed, then we fall back on our biases instead of looking at facts. Right. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21316,
+      "timestamps": []
+    },
+    {
+      "end": 21729,
+      "excerpt": "[00:23:48] Miriam Rivera: And I think a lot of entrepreneurs actually would want to understand. Where their valuation is coming from and why, how people really are looking at the different aspects of their business and how they're valuing it.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 21487,
+      "timestamps": [
+        {
+          "offset": 21487,
+          "raw": "[00:23:48]",
+          "seconds": 1428
+        }
+      ]
+    },
+    {
+      "end": 21850,
+      "excerpt": "Because sometimes they're able to ask for a higher valuation because somebody makes their criteria transparent to them.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 21731,
+      "timestamps": []
+    },
+    {
+      "end": 21953,
+      "excerpt": "[00:24:12] Gopi Rangan: Are there any nonprofit organizations that you are passionate about and why? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 21852,
+      "timestamps": [
+        {
+          "offset": 21852,
+          "raw": "[00:24:12]",
+          "seconds": 1452
+        }
+      ]
+    },
+    {
+      "end": 22149,
+      "excerpt": "[00:24:18] Miriam Rivera: I have a number of not for profits that I'm passionate about and involved in. But I'll narrow my answer to one of them, which is the Kauffman Foundation in Kansas City.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 21955,
+      "timestamps": [
+        {
+          "offset": 21955,
+          "raw": "[00:24:18]",
+          "seconds": 1458
+        }
+      ]
+    },
+    {
+      "end": 22441,
+      "excerpt": "Which is a foundation that was the initial parent of the Kauffman fellows program in venture capital, of which I'm a graduate. And the things that really excite me about what the foundation is doing is their focus on two of the most impactful ways that I think we can change people's lives.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22151,
+      "timestamps": []
+    },
+    {
+      "end": 22760,
+      "excerpt": "One of them is education and the other one is entrepreneurship. And those are the two focuses of their work. And I think those have been the transformative aspects of my life and career as well. Like many people, my family came to the mainland to try to give their kids access to a better future and better education.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22443,
+      "timestamps": []
+    },
+    {
+      "end": 23273,
+      "excerpt": "That definitely helped me to achieve the career that I have. And then entrepreneurship was something that frankly, my partner, Clint Corver, who's also my partner in life, he was the inspiration for that for me in my life. I had previously thought I would go to work in a law firm, become a partner, or go to work in a corporation and kind of go up the corporate ladder, but when I met him, he was so enthusiastic about entrepreneurship and starting companies, and I thought, \"wow, that sounds really exciting.\"",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 22762,
+      "timestamps": []
+    },
+    {
+      "end": 23521,
+      "excerpt": "And this is Silicon Valley where there are so many startup companies. So, really quickly after working first at a major law firm and then a major consultancy, I decided I wanted to be a startup founder and he and I co founded a company together. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23275,
+      "timestamps": []
+    },
+    {
+      "end": 23598,
+      "excerpt": "[00:26:07] Gopi Rangan: How are you involved with the Kauffman Foundation? ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 23523,
+      "timestamps": [
+        {
+          "offset": 23523,
+          "raw": "[00:26:07]",
+          "seconds": 1567
+        }
+      ]
+    },
+    {
+      "end": 23662,
+      "excerpt": "[00:26:10] Miriam Rivera: So I am a trustee of the foundation.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 23600,
+      "timestamps": [
+        {
+          "offset": 23600,
+          "raw": "[00:26:10]",
+          "seconds": 1570
+        }
+      ]
+    },
+    {
+      "end": 24245,
+      "excerpt": "And I am chair of the investment committee. The foundation is about a $2.3 billion endowment and some of the programs that they sponsor include scholarships for young people that are going to college. They help sponsor adult learning so that there can be workforce development for people who don't necessarily have a degree, but need to retool. And then they help to promote entrepreneurship and establish a real understanding in government and mayors' offices around the country of how communities can support entrepreneurship, which is one of the biggest employers of Americans. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 23664,
+      "timestamps": []
+    },
+    {
+      "end": 24299,
+      "excerpt": "[00:27:00] Gopi Rangan: Miriam, this is fascinating.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24247,
+      "timestamps": [
+        {
+          "offset": 24247,
+          "raw": "[00:27:00]",
+          "seconds": 1620
+        }
+      ]
+    },
+    {
+      "end": 24439,
+      "excerpt": "Thank you so much for spending time with me today and talking about Ulu Ventures. I look forward to collaborating with you in the future. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24301,
+      "timestamps": []
+    },
+    {
+      "end": 24525,
+      "excerpt": "[00:27:10] Miriam Rivera: Thank you, Gopi. It's always a pleasure to talk with you. ",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Miriam Rivera",
+      "start": 24441,
+      "timestamps": [
+        {
+          "offset": 24441,
+          "raw": "[00:27:10]",
+          "seconds": 1630
+        }
+      ]
+    },
+    {
+      "end": 24713,
+      "excerpt": "[00:27:15] Gopi Rangan: Thank you for listening to the sure shot entrepreneur. I hope you enjoyed listening to real life stories about early believers supporting ambitious entrepreneurs.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": "Gopi Rangan",
+      "start": 24527,
+      "timestamps": [
+        {
+          "offset": 24527,
+          "raw": "[00:27:15]",
+          "seconds": 1635
+        }
+      ]
+    },
+    {
+      "end": 24880,
+      "excerpt": "Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.",
+      "speaker_accuracy": "unverified",
+      "speaker_label": null,
+      "start": 24715,
+      "timestamps": []
+    }
+  ],
+  "source_sha256": "b40c550f77f431a53cc1cee15474abcb1ba39fde0aad37b0a4753be2642446f3",
+  "text_sha256": "b0bd83ccc4c6ce8dbce18a6e50d83ae89636330ef079310e71fdc5361d788dfa"
+}

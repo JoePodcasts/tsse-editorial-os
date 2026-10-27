@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "model": "birefnet-portrait",
+  "model_input": 1024,
+  "foreground_threshold": 0.98,
+  "background_threshold": 0.02,
+  "unknown_radius_fraction": 0.004,
+  "unknown_radius_min": 2,
+  "unknown_radius_max": 12,
+  "alpha_solver": "closed_form",
+  "solver_rtol": 0.0000001,
+  "solver_maxiter": 2000,
+  "foreground_solver": "multilevel",
+  "opaque_preservation_threshold": 0.999,
+  "crop_padding": 8,
+  "minimum_source_short_side": 600,
+  "minimum_subject_fraction": 0.04,
+  "maximum_subject_fraction": 0.96
+}

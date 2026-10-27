@@ -1,0 +1,244 @@
+"The challenge is how you fit in this complicated, messed up healthcare system. So it's like we're changing it, but we're not gonna operate outside of it either. Some companies have kind of tried to do that just by expensive cash pay products and a lot of them have done okay and a lot of them have failed." - Jessica Karr
+
+[00:00:25] Gopi Rangan: You are listening to The Sure Shot Entrepreneur - a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host, Gopi Rangan. My guest today is Jessica Karr. Jessica is the founder and managing partner at Coyote Ventures.
+
+[00:01:00] Kori Ventures focuses on healthcare startups. She's very interested in democratizing healthcare access to populations that don't receive the right kind of healthcare. And this can happen through technology innovation. Those are the kind of companies she likes to invest in. We're gonna talk to her about her investment thesis, the kind of founders she likes working with how she thinks about these investment decisions.
+
+[00:01:22] And sometimes she says no. Perhaps more often she says no. And why does she say no? We're gonna talk to her about those as well. Jessica, welcome to The Sure Shot Entrepreneur.
+
+[00:01:32] Jessica Karr: Thank you. Excited to be here.
+
+[00:01:34] Gopi Rangan: Let's start with you. Who are you? You grew up in Texas, but you now live in San Francisco.
+
+[00:01:42] Walk us through that journey.
+
+[00:01:43] Jessica Karr: I was born and raised in Amarillo, Texas. It's in the northwest part of Texas. It's really close to New Mexico, so that was a nice part about growing up is skiing in the mountains of New Mexico and going to Santa Fe. And I was born and raised there. So I left for college afterwards. I went to Texas State in San Marcos. It's near Austin. So I was glad to get out of, that small town Amarillo is. It was pretty small and pretty far from everything and I was excited to go see other things. So texas State was really nice. Very close to Austin and San Antonio, so there is so much to do.
+
+[00:02:26] There is a river that went through campus, so we would be floating and laying out at the river after class. And then after that I went to San Diego, so been in California ever since then.
+
+[00:02:39] Gopi Rangan: California has been home for you now. Yes. You were in R&D for some time. You were at Impossible Foods, and eventually you made your way to venture.
+
+[00:02:48] What attracted you to Venture Capital?
+
+[00:02:51] Jessica Karr: I always loved the idea of investing, and I did get to learn some from being inside at Impossible Foods and interacting with the investors, and also just seeing on the inside, every time there was a round of funding that was raised, I saw what kind of impact that had on especially hiring and growing the team and then looking at what priorities we had in the next 12 to 18 months between funding rounds. So I did get to see a lot of how venture money flowed into the actual development of the products. And yeah, I was at Impossible for about six years to saw the very early idea stage, helped make the very first prototype and that went into some patents and then all the way through the public launch where, you know, working with David Chang from Momofuku and Traci Des Jardins , a famous chef out here in sf.
+
+[00:03:43] So it was really cool to see the trajectory and what I struggled with while working there was somewhat like having a role that could be a little bit in isolation 'cause I like more. Connecting things and working on lots of different ideas. So when I left and did an MBA, I started working with tons of startups, thought I would immediately find the next Impossible Foods.
+
+[00:04:07] I would say that batch of startups hasn't quite been as successful, but I learned a ton working directly with founders, a lot of them raising their first round of either angel or VC funding. And yeah, worked with about a dozen companies over just two years. And I loved that portfolio approach supporting a ton of different ideas helping strategically.
+
+[00:04:28] And then I said the main thing I need from this next is to be able to put checks into them and not just, doing my consulting and advising. So I worked briefly with another fund and really got excited about a health tech thesis that ended up becoming Coyote Ventures when I decided to do it on my own.
+
+[00:04:47] Gopi Rangan: Very, very interesting. I wanna talk about Coyote Ventures, but I have this provocative question about Impossible Foods, if you don't mind.
+
+[00:04:56] Jessica Karr: Yeah, of course.
+
+[00:04:57] Gopi Rangan: So there are people who love meat, and then there are people who love eating plant-based food. And then there are people, and this is the cohort, I don't understand.
+
+[00:05:07] They want to eat plants, but they want it to look and taste like meat. Like I want to eat carrots and broccoli and beans, but I want it to taste like steak and chickens like that is the part that kind of baffles me. Like, why can't you just eat carrot and beans and broccoli? Why do you have to look for food?
+
+[00:05:29] Are
+
+[00:05:30] Jessica Karr: Are you a veterinarian?
+
+[00:05:32] Gopi Rangan: I am vegetarian. Yeah. But I'm perfectly fine if someone wants to eat meat and I'm perfectly fine if someone wants to not eat meat.
+
+[00:05:40] Jessica Karr: I don't think anybody sat around and said, I wish this carrot tasted like meat. The idea really came from the founder, Pat Brown, and he said, a lot of problems with climate change related to the meat industry, which continued to grow.
+
+[00:05:55] And he said, one way that to solve it is just to give people who are open to changing that, you know where, where the meat came from. It's essentially like same experience. The idea is the same experience, just. Different source and, and that's the idea of making, plant-based meat.
+
+[00:06:13] Something that substitutes without changing the experience of eating meat. So, as we've seen it evolve, some products are maybe seven to eight out of 10, similarity to meat. I don't think any of them are one for one. And of course, there is some ingredients that people might be sensitive to.
+
+[00:06:31] There is a level of processing. So, yeah, I could talk for a whole hour about the nutritional comparison, but that's more of the idea. I think it was not something that people thought that they wanted until it was there. And I think that the marketing was pretty successful and seeing like global effect has been interesting as well.
+
+[00:06:49] Other countries like Latin America and Asia. I spent some time in Singapore. I've, I've seen some of these similar products launch elsewhere in different markets from different companies. I think that Impossible and Beyond Meat, the main competitor sort of paved the way for this movement.
+
+[00:07:06] Although I think some data has shown it's a little slower growth than predicted.
+
+[00:07:11] Gopi Rangan: It's fascinating because it's real innovation. Creating things that didn't exist in the world before. It takes a lot of scientific breakthroughs as well, and connecting with the taste palettes and behaviors of people.
+
+[00:07:24] That is never easy. Coming back to Coyote Ventures, you started Coyote Ventures in the beginning of the pandemic (around 2021). 20, What is Coyote Ventures and how is the firm different from other firms?
+
+[00:07:35] Jessica Karr: Coyote Ventures, like you said, it focuses on the areas of healthcare that have been traditionally left behind. It really stems from an idea related to women's health, but definitely has evolved to how that can be intersectional with other areas of health that have been overlooked as well, including mental health, aging and caregiving, various social barriers people face to health, like lack of transportation as well as racial disparities in health, geographic disparities, economic. So the list goes on and we really focus on AI driven platforms. So the majority of the companies are in digital health and we're writing a whole AI thesis right now that will make this more clear. So I'm excited to get that out there. But essentially there's AI driven platforms that can do more in digital health than just, people. Now there's so many platforms. It's like how do you support a patient's needs on a more day-to-day basis, or potentially supporting the health system's needs or the payer's needs?
+
+[00:08:38] There's different models, using technology, so something might be a concrete example, one of our companies working with pregnant moms who have gestational diabetes. So diabetes during pregnancy. The standard of care, even at Stanford, was to have the pregnant person write down everything that they ate, all of their blood glucose tracking, all of their exercise, and wrote it all down on a piece of paper and would show it to the nurse at the appointment.
+
+[00:09:06] And this actually has huge consequences. So like it can really sometimes lead to preterm births and lead to a lot of risk of diabetes and heart disease in both the mom and baby. So this was a low hanging fruit to say we don't really need telehealth for this, but the pregnant people need a daily tracker that replaces that pen and paper, but also gives AI driven insights. What could they improve? Also, taking into account like cultural competencies, because a lot of these were designed for sort of the white American diet. But taking into account, like putting this in Spanish. What do people from different cultures want to eat? So it's been really exciting to see the growth of that company.
+
+[00:09:48] They've served over 50,000 patients. And then back to like how that ties into the thesis, there's a lot of platforms that are AI driven and they can really scale quickly through digital platforms and also like serving people on a more day-to-day basis. That's between doctor's visits and not just this telehealth for prescribing X, Y, Z type of thing.
+
+[00:10:08] We're not really into that. So, I'm glad you started with Impossible Foods because it really shows that as an innovation and that's what we're looking for here, is like there is a level of innovation that's really driven by insights from founders having either experienced this problem or having a loved one that experienced the types of problems that they're designing for.
+
+[00:10:29] And they also usually have this advantage of like working in healthcare, a lot of them have been the buyer of these products from either the payer or health system side as well.
+
+[00:10:40] Gopi Rangan: Let's get into some of the details on your investment process. What stage do you invest in? What's a sweet spot for you?
+
+[00:10:46] How early is too early? How late is too late?
+
+[00:10:49] Jessica Karr: So we're doing two buckets now. Historically we've done mostly seed, and I can explain that first, where we have a new program that is doing pre-seed. So on the seed side, what we have done traditionally is post product. So there is some kind of MVP and they're usually at least working with maybe one design partner or maybe have a little more traction with a few live contracts usually a little bit further along and we have diligence on like, what is this platform doing? What are the different stakeholders experiences with this? How can this scale to more enterprise contracts? I would say, the standard diligence, we do financials and product. I would say what is above and beyond for us that we look at a little more uniquely. One is how they are measuring healthcare access and outcomes. And a lot of the times these healthcare access and outcomes actually, sort of like a values-based care, they might show that they are in the end, cost savings for the enterprise that they're partnered with.
+
+[00:11:53] So back to the gestational diabetes example, by preventing preterm births or actually driving huge cost savings. So the payers aren't incentivized to say like, we'll pay for this because this is a great solution that is preventing things associated with high cost. So, we look at the measuring outcomes. We produce impact reports, but beyond just doing good, which is important it also ties in directly with a economic model that can scale with the better outcomes as well.
+
+[00:12:26] We look really heavily at the team. Like I said, usually the founders have direct experience and also the career experience that gives them an advantage. And then the last unique thing to us is like, what is the level of innovation? It's not just telehealth, it's a little more than just digitizing something. So those are a little more unique to us. And then going a little earlier on the pre-seed, a lot of these will not have the platforms developed yet.
+
+[00:12:51] So the really strong thing that we look at is the team, and similar to what I just described, direct experience and career experience. And then also just like a light work on the competitive landscape, like if they're going against a big incumbent and we don't see how they could really drive scale. I would say the competitive landscape, like making sure we understand that there is a blue ocean opportunity for them.
+
+[00:13:15] Gopi Rangan: How many investments do you make at the pre-seed stage and the seed stage on average in a year?
+
+[00:13:21] Jessica Karr: Ideally around six. Maybe we'll start increasing that a bit. It's interesting. Years can vary. I feel like sometimes it's like a little bit of a dry spell, like we're just waiting for a good deal.
+
+[00:13:31] And then sometimes they're like, three will come at once and it's crazy frenzy and it's unpredictable. I remember, I was in Tahoe for the summer, it was my birthday and trying to chill and it was like I have like five deals going icy. So much work that I was doing so. Yeah.
+
+[00:13:51] Gopi Rangan: This is unpredictable.
+
+[00:13:51] You never know when the next new idea comes It can come from anywhere.
+
+[00:13:55] Jessica Karr: Yeah.
+
+[00:13:56] Gopi Rangan: And you are the general partner at the firm. How do you make investment decisions? What's the process?
+
+[00:14:02] Jessica Karr: Yeah, I'm the only full-time person, but I have a really nice team of part-time venture partners and then a few members on the investment committee.
+
+[00:14:10] So I'll walk through sort of how that works. I focus a lot on the sourcing, so I am talking to a lot of people, being at events speaking just really getting the coyote name out there and helping people understand our thesis 'cause obviously, you gotta see good deals.
+
+[00:14:26] That's step one. If you don't see it, you can't invest in it. So sourcing is really, really important to us. And then once we connect with a founder, a lot of times my venture partners will do the first calls just because we do wanna talk to a lot of founders. Right now we have five on our team, and their expertise does span a lot of different, subject areas that are really relevant for us.
+
+[00:14:49] A lot of digital health operators also coming from health systems, health payers, as well as the employer side of things. So really amazing team. And we do kind of screen for some of those things that I mentioned earlier in the diligence. Looking at team, looking at business models, health outcomes, products, a little bit on competitive landscape.
+
+[00:15:08] So we'll do a first call. And if we decide to continue diligence, we'll have one of the venture partners designated as the main lead on looking into the deal. And I'm overseeing all of that. So I come in somewhere in the middle normally. We also have a team meeting every week where we're talking about the deals and the market and all of our exciting special projects that we do as well.
+
+[00:15:30] I should mention the summit at some point as well. So we have a few stages of diligence. The first stage there's certain things we're looking at. We do really heavily evaluate the product. Spend more time with the team, doing a lot of back channeling calls, like who knows who, we all know each other at some point.
+
+[00:15:48] And then, if it keeps going from there, really looking into financials doing some more subject matter expert calls. So a lot of times this does need to connect. Like so many stakeholders in healthcare, we have to look at like, how are the healthcare providers interacting with this? Like if they're the ones that need to refer patients, where does this fit into their workflow?
+
+[00:16:08] So that's a really important one; looking at. really heavily, how this also fits into health payers models. What could be opportunities to like do direct contracting for more revenue with enterprises. There's a lot of stages where we're doing diligence. There's a lot of decision trees where it's like, do we continue with this now, or say it's a pass for now, and then sort of at the end when it's time to make the decision that's where the investment committee comes in. They look at, at that point we probably have a 20 page memo and a whole data room and lots of information call notes from our interactions.
+
+[00:16:43] And then, our investment committee meets the founder and I make the final decision. But I think like having other subject matter expertise who actually have the in depth questions with the founders at that point, and they make their recommendation and then I make the final decision.
+
+[00:16:59] Most of the time we do agree and yeah, I think there's been times I felt bullish, but then they found ways to poke more holes that we didn't poke earlier. So yeah, it is a bit of a process. I commend founders for going through it, but I do think we're strong partners on a cap table, so I think for the most part it's worth it for them.
+
+[00:17:22] Gopi Rangan: I see you have a structured process and you have many experts involved in the decision making and they all support you. But ultimately you're the final decision maker on the investment. How long does it take for a founder from the first meeting to investment decision?
+
+[00:17:36] Jessica Karr: On average, it's about a month. I think if a round is closing quickly, we can make a quicker decision, especially if we know the lead investor. And we've had some where they've shared their memos and we said. We're not gonna rewrite this, because they, some of the, some of the, lead investors will have so much more time to go into customer calls and really help build the financial model together.
+
+[00:17:58] So yeah, we have some trusted co-investors that we'll go in with. That can be a little bit faster. We'll still meet the founder at least two or three times in that case. But really going off of trust from other trusted co-investors. Sometimes it does take longer and that's not usually on our end.
+
+[00:18:16] I know that right now where there's a lot of deals we're looking at that are taking some time to find a lead investor. I know there's, a huge gap in that space, especially like pre-seed and seed stage who who will like lead rounds and yeah, you don't always have a lead at pre-seed, but for seed definitely we wanna see what the terms are and who the lead investor is before making the final decision.
+
+[00:18:39] So, we'll front load most of our diligence as much as we can. And then a lot of times, yeah, that could take a few months. Ideally not the longer it takes at the seed, the more fundraising risk there is maybe at the next round, so...
+
+[00:18:52] Gopi Rangan: That is true. Yeah. A month seems like a good enough time for the founder to invest.
+
+[00:18:58] It's a distraction for them from the business. And they can focus on fundraising for a month and get it to the finish line that's a good use of their time. Over the past two, three years, AI has become such an important thing. How has all these changes we've seen in AI changed the way you make decisions?
+
+[00:19:17] What's different for you now compared to a few years ago?
+
+[00:19:20] Jessica Karr: Yeah. A lot of our companies have been using AI since before the chat GPT release. I've always been aware of like how machine learning will incorporate into some of our companies. So we've had some that have been yeah, using machine learning to understand something related to personalized health.
+
+[00:19:39] So some of them are like. What is this person's risk for cancer? Understanding some of their lifestyle and biomarkers for example, and just like personal data in general. So you can use a lot of personalized data train models and have an algorithm. We have a lot of companies that, that have been leveraging that.
+
+[00:19:57] But definitely like the ability to integrate like generative AI as part of a product has been really strong for a lot of our companies. And then, as more agentic AI has rolled out. We're seeing a lot of companies revamp their internal operations to become, it's a little bit of an investment to build in that way, but becoming a lot more efficient as well as cost efficient, using more internal AI. And then I think just it's an exciting time in healthcare with the ability to collect data, share data both on the sort of lifestyle side as well as the health data side. And in using AI to really collect, integrate, analyze a lot of data to make healthcare better.
+
+[00:20:42] Gopi Rangan: Healthcare is a complicated world. It is so broken, especially in the US. What trends are you excited about in healthcare? What kind of solutions are you interested in?
+
+[00:20:53] Jessica Karr: So I think just piggybacking off of the AI part, there's so many opportunities. Like one of our companies that was just co-founded with one of our venture partners is using AI to again, understand personalized health data.
+
+[00:21:07] So both, biomarkers as well as some devices that are measuring hormones and integrating all of this different data into one platform. There's kind of a huge lack of that and there's so many applications. You could basically take this technology and apply it to so many use cases and so many populations that essentially can just be thesis in and of itself.
+
+[00:21:27] So this company, for example, is using it towards couples trying to conceive. So, the CEO is been working individually with patients and actually worked with my friend who now has a six month old baby. And definitely helping like optimize people's health, but you need that baseline understanding of health as well as structuring all of that data, like which data is important, which things will you look to improve and how do you do that?
+
+[00:21:53] So that's some themes that we're interested. We have a whole section on our website on the thesis page about, different areas of health that we're excited about, diving into a little bit further as well. All contributing to, yeah, making healthcare better for all.
+
+[00:22:09] Gopi Rangan: What's your advice to founders in today's world now, given where the market is?
+
+[00:22:13] Fundraising has become quite difficult compared to the high peers couple of years ago, and there are new advanced technology solutions available. And I see quite often that very large enterprises, I make some healthcare investments as well. They are also struggling to figure out what's coming up in the future and how to prepare for it.
+
+[00:22:32] In this environment
+
+[00:22:33] what's your advice to founders when they're building a healthcare focused startup?
+
+[00:22:37] Jessica Karr: Yeah, there's a lot there. Definitely really understanding the problem that you're solving and really understanding the revenue model potentially before you, seek funding. I think, yeah, a lot of our companies are B2B, B two, B2C, so, touching end consumers, but really understanding like the challenge is how you fit in this complicated, messed up healthcare system.
+
+[00:23:02] So it's like. We're changing it, but we're, we're not gonna operate outside of it either. Some companies have tried to do that just by, expensive cash pay products and a lot of them have done okay. And a lot of them have failed, so. I think really understanding like if you are going to B2B what kind of relationships you have, just like willingness to, to pay and like, a lot of, a lot of companies can start out, billing like a fee for service.
+
+[00:23:30] So if it's like, we did this telehealth appointment and this is the cost and this is the unit economics, you can start off with those. There's a lot of other. Fee for service codes that digital health can utilize. Like remote patient monitoring and other things that are, beyond telehealth.
+
+[00:23:46] And the relationships are important. That's why we really care about founders who, or we prioritize investing in founders who have those relationships because healthcare is very relationship driven and yeah, it's really hard to just. Meet a health system and immediately sell. So this, the sales cycles are really long.
+
+[00:24:05] And if you're trying to do contracting, that's not fee for service can be a bridge. Like, hey, here's, here's what we're doing while we're like trying to do bigger contracts. But if you start off just trying to contract and can't really bridge that gap I've seen that be a huge challenge also because investors don't have visibility into the payer's decision making, and it's different for every payer anyway. So I've seen that be a lesson learned is, there's a lot of fundraising risk for types of companies that investors are just like, we're not sure this is gonna work. And so, yeah, I have to be, I think, really sure. You know, pre-seed, the bar and seed all across the board, the bar has raised so much that it's almost like pre-seed could be looked at as a seed in terms of, maybe if the product isn't there, but like. How fast can you get to these metrics like getting to contracts and, yeah.
+
+[00:25:02] Gopi Rangan: It's challenging, but it's also exciting. Right now.
+
+[00:25:05] Mm-hmm. To be an entrepreneur. You said that you make about six investments in a year. Roughly how many startups do you consider, do you evaluate, meet for every. Six investments like in a year.
+
+[00:25:19] Jessica Karr: Yeah. I didn't do these numbers for 2025 yet, but I remember from 2024 it was over a thousand deals. That's just tracked in our internal system.
+
+[00:25:29] I'm sure there was more that, you just see by walking out in, Alamo Square Park or wherever just, or just, demo days, emails that we don't actually end up filing. So over a thousand. Not sure how many over that we probably meet in the hundreds per year. So we, we do meet a lot of them.
+
+[00:25:50] And in this world, a lot of times, if we don't schedule a a call right away, we might see them out in the wild at one of these conferences or events as well. We're basically diligencing maybe five to 10 a month and then potentially investing in. And one every other month or so. And a lot of times those will batch together through the year
+
+[00:26:12] Gopi Rangan: tracking thousand companies and eventually making, six investments.
+
+[00:26:15] That's a couple of hundred startups for every new investment. The ratio is very small. And you say no quite often. What's your most common reason to say no? Besides like, oh, it's not healthcare, or some basic structural issues, things like that. Once it falls into an area of like, yeah, this could be a topic of interest, but it doesn't make it to the finish line.
+
+[00:26:37] Why?
+
+[00:26:38] Jessica Karr: Mm-hmm. I'm trying to think. It's been really different from like some that we even brought all the way to investment committee. But I think some of it is, really looking at, at the team. And, and sometimes I would say had experiences where really liked the problem and solution and saw an opportunity, but, but didn't have a great experience with the team.
+
+[00:26:58] I think like a lot of times we can feel when it is a fit and the type of entrepreneur who's a true partner. Some, some we've seen are like, okay, this person seems a little. On the narcissistic side or and some of them might be successful, but not, like, that's not really the type of partners that we usually have.
+
+[00:27:19] And I a lot comes out in diligence that, especially the subject matter experts could say, this wouldn't fit into a physician's workflow. Or, yeah, it's really different every time once we're past the screening questions. And we, we, I would say like. We love looking at past investor updates as well.
+
+[00:27:39] That's told us a lot and unfortunately it is such a hard time to fundraise that. We've definitely been interested in many that end up just not able to raise and we're not gonna carry that alone and they need to raise, more rounds in the future and it gets harder each time. So that's been another reason why a lot of things have fallen through as well.
+
+[00:27:59] Gopi Rangan: Every time I say no, I always wonder , what if it's the wrong decision?
+
+[00:28:03] Jessica Karr: Oh, yeah.
+
+[00:28:04] Gopi Rangan: And I've made some wrong decisions as well.
+
+[00:28:06] Jessica Karr: Well, that's true. Yeah. They, we have a, we have our anti portfolios. But yeah, I haven't said no to anything that's like gone public with a crazy payout quite yet. But I have said, said no to some things that were going on to, raise great valuations and having famous investors and.
+
+[00:28:25] I always, yeah, remind myself a lot of times, like I'll go off of my gut for some of these, but you know, when it's really, really legit, have to really like look at it objectively and be like, and why am I saying no? And there is still good reasons for all of them.
+
+[00:28:42] Gopi Rangan: Yeah. Let's talk about the summit because you care about community, you wanna bring people together, and once a year you do the summit.
+
+[00:28:50] Can you share some details about what is the summit about? What do people get out of it?
+
+[00:28:54] Jessica Karr: Yeah, so this will be our second annual Health Equity Innovator Summit April 15th to 17th and Tiburon, which is near San Francisco. And we're bringing together, yeah, around a hundred people. A lot of healthcare leaders.
+
+[00:29:08] So we do really like bringing since there's so many stakeholders in healthcare, bringing them together, lots of different orgs and really influential orgs as well as policy is really important; has a lot at stake in healthcare right now. So we also like at this one we'll have the California Surgeon General as one of our keynote. We invited some folks from San Francisco Mayor's office, which is doing some exciting things. And yeah, some folks in the past have been from Health and Human Services and then lots of founders it's, it's mostly designed around founders. Really learning on, how to integrate more with health systems, hearing different opinions and experiences from, health systems payers, lots of potential partners for them.
+
+[00:29:57] Lots of investors also attend our team as well, as well as a lot of our LPs. So it's very fun. It's designed to be like really good content, but not too heavy on the amount of content. There's a lot of experiences and breaks, and there's the entire day dedicated to wellness and leadership and yeah, lots of, happy hours, snacks.
+
+[00:30:20] Coffees, lunches and yeah, we actually did two events last year. So the fall event is more of a retreat style and it was hosted at a horse ranch in Sonoma, so we did a sound bath with the horses and just got to hang out with goats. And my puppy is always there as well. Yeah, it's, it's really great. We feature a lot of our portfolio companies.
+
+[00:30:46] Yeah, the company that I mentioned earlier and the fertility trying to conceive side, they, they actually met at the summit.
+
+[00:30:53] Gopi Rangan: What's the name of the company?
+
+[00:30:54] Jessica Karr: That one's Kiara Health, like K-I-A-R-A and then one of our other companies just closed another round. They met their lead investor at the summit.
+
+[00:31:04] And then a lot of sort of partnership conversations are going on with some of the health systems and payers who attend as well. So it's really great for our portfolio, it's great for our relationships and I know a lot of things have happened out the community meeting each other as well.
+
+[00:31:21] Gopi Rangan: We're coming towards the end of our conversation and I want to ask you about your community involvement.
+
+[00:31:25] Is there a nonprofit organization you are passionate about? Which one?
+
+[00:31:30] Jessica Karr: There's so many. I think lately there have been a lot of important work happening in reproductive health. So there's one called Reproductive Freedom for All. They're having a luncheon coming up that I'll be attending in San Francisco.
+
+[00:31:45] I'm happy to share this link with you. But yeah, really doing great things for reproductive rights for women is really important. Yeah. It's really amazing.
+
+[00:31:56] Gopi Rangan: Jessica, thank you very much for spending time with me. Thank you for sharing insightful stories. Thank you for the candid examples from how you make investment decisions.
+
+[00:32:05] What's the process? Examples from your own portfolio? Yes, and I look forward to sharing your nuggets of wisdom with the world.
+
+[00:32:12] Jessica Karr: Thank you. Thanks for hosting me. And yeah, shout out to Cool Water for our community where we met as well.
+
+[00:32:19] Gopi Rangan: That's right. Yes.
+
+[00:32:20] Jessica Karr: Yes. Thank you, Jessica. Thank you.
+
+[00:32:25] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur.
+
+[00:32:27] I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.
+

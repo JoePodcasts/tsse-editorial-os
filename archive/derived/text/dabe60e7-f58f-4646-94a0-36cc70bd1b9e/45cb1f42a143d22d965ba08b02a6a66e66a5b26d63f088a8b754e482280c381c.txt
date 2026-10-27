@@ -1,0 +1,186 @@
+[00:00:32] Gopi Rangan: You are listening to The Sure Shot Entrepreneur – a podcast for founders with ambitious ideas. Venture capital investors and other early believers tell you relatable, insightful, and authentic stories to help you realize your vision. Welcome to The Sure Shot Entrepreneur. I'm your host Gopi Rangan. My guest today is Felipe Camposano, a good friend of mine from Latin America.
+
+He's, in fact, the first Chilean venture capital investor on the podcast as a guest. Felipe is a managing partner at Taram Capital. He's based in Santiago and in Miami. He focuses on a few specific areas for investments. We're going to ask him about those topics and what is exciting, especially in Latin America.
+
+What are things that he likes to invest in? What kind of founders that he likes to work with? And sometimes he says no to investments. We'll find out why he says no as well. Felipe, welcome to The Sure Shot Entrepreneur. 
+
+[00:01:42] Felipe Camposano: Thank you so much for an invitation. Happy to be here. 
+
+[00:01:46] Gopi Rangan: Tell us about yourself. You're from Santiago, right? It's not the hub of venture capital, but you picked a unique profession, which is very unusual at the time when you got started in venture capital. Now Latam VC ecosystem is thriving. Let's start with the journey where you are from. You're from Santiago, right? 
+
+[00:02:05] Felipe Camposano: Yes, originally from Santiago. I lived in the U. S. when I was a kid, then lived in Colombia and Bogota for a while, but most of my professional life I lived in Santiago until recently that I moved to Miami. And I got started in venture capital back in 2007 in Santiago. So it was very early on back then. 
+
+[00:02:23] Gopi Rangan: The entrepreneurial ecosystem is not new to you. Very early in your career, you were very closely associated with a few companies and you are co founder and then eventually you switched to the other side as an investor. Why did you choose entrepreneurship as a career choice for you early in your career? 
+
+[00:02:42] Felipe Camposano: Yeah, I mean, I did it in the university, so it's not that I had too many choices at that point.
+
+I just loved developing. I studied computer science. I love to program. And when you start programming, you have these ideas. And some friends got together and we had this product and we started getting the first customers. And when we were still studying, we had already our customer base. And from there, it just kept on going.
+
+I never actually formally decided to do it. It was just something that naturally happened while we're there and it just evolved from there. 
+
+[00:03:13] Gopi Rangan: How did you start investing in companies? I understand that as a software engineer, you write code and you start building things and suddenly, before you know it, it becomes a company that happens quite often, but investing is more of a thoughtful process where like you decide to make investments in companies.
+
+[00:03:29] Felipe Camposano: Yeah. No, that was a longer process. So I did the startup, particularly the first one we did, we sold it to a consulting firm. We were acquired and I started working on the consulting at that point after too much traveling, I decided to give two years, I wanted to do this a not for profit organization that was in Chile and back in 2003, 2004, and I was about to join them in the South of Chile to support like local communities, when they get a call from, uh, where I did an internship, what's called Fundacion Chile, which is like a not for profit organization that creates new companies, like a company builder, right, but more traditional companies. They created the first salmon company in Chile, a fruit company, forestry products. So they tried to create new industries for the country. 
+
+And they want to set up a new organization to create biotech and I. T. companies. And that's when I joined. So it was more in the company builder side at that point that we created a lot of companies out of that group. So, at that point, I didn't invest yet.
+
+It was more of the company and we actually had to find access between public funding and private funding for these companies. And that's when somebody very close to Endeavor Chile reached out to me and asked me if I was interested in now joining the first VC fund that we're trying to build in Chile to actually invest directly into the startups.
+
+And that's when I decided to come in from the other side, because the biggest error we did at Fundación Chile when we created these companies is that we had a great technology. We had, you know, PhDs, that's very good science team behind these companies. But we never found the founders. We hired management, and that was a very, very big mistake.
+
+Because when we had any issues in the company, particularly Chile was doing very well at that point, the management just moved on to the next thing, right? And you don't have that real value that the entrepreneur has and the attraction that they want to preserve and move and challenge that they're willing to work with when you just hire a traditional management team into these companies that early on.
+
+So that was our, I would say, biggest first learning that I had there. And when we moved into the VC world, it was a much more entrepreneur-focused kind of investment where we learned that that's the real key behind any good startup. 
+
+[00:05:40] Gopi Rangan: And at the time, I think investors did that quite often. They would evaluate the opportunity with a startup and then they would try to bring a management team to run the company.
+
+How was the ecosystem at the time when you were looking at startups? How many investors and professional VCs existed in Chile, especially?
+
+[00:05:56] Felipe Camposano: Yeah, in Chile, we were like the first dedicated fund. There had been some that did some individual investments here and there, but there weren't any dedicated VC funds after us. Two more came the next 18 months. We were three funds doing a lot of co investment together and evangelizing, right? Because it wasn't that there were out there entrepreneurs with decks trying to raise money because there weren't any funding funds to raise from, right? So it was a lot of initial conversation, again, very close to endeavor, and there was a great organization that really foster the entrepreneurship in the country and in different countries, then in South America. And I think that helped out. Back then we didn't really have a very strict investment thesis. It was started with a general investment thesis saying we want to help the best entrepreneurs in Chile reach Silicon Valley.
+
+That was the initial thought that we put into the fund. We evolved it actually to move more into Latin America, which were the more successful company. It was very challenging to move companies in the technology space into the Bay Area. But at the end, what we saw there was a much better opportunity to actually expand throughout the LATAM region.
+
+But we did all kinds of investments at that big point. We was very cherry picking. We did obviously enterprise software. It wasn't SaaS at that point, most of the companies. So we went companies traditional, you know, licensed plus maintenance kind of model where we evolved into a recurrent revenue model.
+
+That was a very interesting space to change the revenue sources of those companies. But we did a biotech, we did energy, we did consumer internet. At the end we were trying to find the right people that were actively engaging, expanding their companies, particularly outside of Chile, right? So, that was a little bit where we got started back then in 2008.
+
+[00:07:36] Gopi Rangan: You took an unusual approach. You were sort of a pioneer as the first firm that created the ecosystem and you stayed on course. You doubled down on that and you became a Kauffman fellow. Now there's a thriving ecosystem with ACVC, the Chilean Venture Capital Association in Santiago. What is exciting for you? Why is venture capital so exciting for you? 
+
+[00:08:01] Felipe Camposano: I just love more than VC itself, it's, it's entrepreneurship. The things that when you're an entrepreneur, you're completely focused on what you're doing. And I think entrepreneurship is what changes the world. It changes economically, it changes in the impact they can have and changes the technology and the product and the service that are out there, changes communities.
+
+So I really believe in the power of entrepreneurship. But for entrepreneurs, you have to be very focused on what you're doing and that's the energy you're putting. I love being able to be in many things at the same time. So I think one of my loves in the VC is that you can really be a part of that and become become somebody to support and expand and helps them to generate more impact.
+
+But you can help many at the same time, right? It has its pros and cons. I love to be in the operating seat, but I love these seats where you can actually work with a lot of them at the same time. I think for me, I feel very comfortable in that space. And that's why I always say some of the best VCs I've seen are entrepreneurs who turn VC, but most entrepreneurs that I've known that try to become VC actually don't like it at the end, right? So the ones that actually are able to turn are incredible VCs, but most of them at the end have that energy of wanting to execute. It's very hard to be a VC and trying to execute for the entrepreneur that you're working with, right?
+
+So you have to take that back seat at some point. So I think it was an evolution that I had. At some point between funds I did go back to operating and I had a lot of fun, but then I decided at that point that I really feel like I can add more value as a VC, right? So I think at the end, the VC is in the service of the entrepreneur.
+
+I mean, the VC itself doesn't exist if it was not for the ecosystem and the entrepreneurs around us. 
+
+[00:09:39] Gopi Rangan: It's a very different role as an entrepreneur compared to an investor. Transition from an entrepreneur into an investor is actually not fun. Even if people can be successful, they don't really enjoy it.
+
+So they go back to being an entrepreneur, making decisions, running the ball. Being an investor is a very different type of work on a day to day basis. But you're right, like, these founders are so obsessed with what they want to build. They are deeply committed. Often it's their life's mission to create that business, build that product, try to make that successful.
+
+Working with people like that is very fulfilling, very rewarding, knowing that they give so much to make this business successful. They start at very early stages and we get involved at those stages. Let's talk about Taram. About six years ago, you started Taram Capital. How did that come about? What was the concept? What was the genesis? 
+
+[00:10:31] Felipe Camposano: Yeah, so at that point, we wanted to see if we were able to really leverage on some corporate players to support the startup, right? So one of the biggest challenges that the startups have in the beginning, obviously after there's a product market fit, is growth. And growing your own go-to-market strategy, sales team; that's a challenge. So you say, you know, how much can you really leverage on other companies that already have established that and able to accelerate that? So, in addition to capital, strategic value, specific committees, can we really add that growth into this company? That's a little bit of how we got around the concept. And we started with a group in Chile and Peru, who is the main office supply in both countries, you know, serve 20 something thousand companies in Chile, 13, 000 in Peru with a little bit of that stretch.
+
+The thing is that the challenge obviously is that in the logic, it could be, make a lot of sense but in the execution, you need a counterpart within the company to be able to work with the startup. So I've been working on how to now engage not at a company level, but actually at an executive level, that the executive in a company is incentivized and really wants to work with the startup, because it takes time before it can actually impact the results. Right. So the problem is that the executives of big corporates have short term kind of results and startups take its time to actually impact that.
+
+So we wanted to see how we can connect in the B2B SaaS world. So we focus a lot on the B2B enterprise software, recurrent model, because that's where we feel comfortable. We had a lot of experience, positive experience, know a lot of the founders, know the space and can have a good interaction with corporates that we feel that can actually help them accelerate their expansion.
+
+So that's a little bit of how it got started. We were fundraising in 2019. Our focus was to expand Chile Peru. That was the beginning of the concept. Because of everything that was happening in both countries, we decided very quickly to move that model into a more international expansion, more into Mexico and the US.
+
+And that's why I ended up moving into Miami. I'm flying a lot into Mexico because most of the investments we were looking at at the end were companies that wanted to expand into Mexico, into the U S and last two years into Brazil. And that's where we focus a lot of the energy we put into the companies.
+
+[00:12:45] Gopi Rangan: It's great to see that that Taram started, six years ago, but your portfolio has grown, your partnership has grown, your presence in Latin America and elsewhere has grown substantially. Let's talk a little more about the domains you mentioned before we go more into startups. You mentioned that you focus on SaaS businesses and I know you invest in e commerce, in fintech, and some data driven solutions, and sometimes you also look at Web three sectors. Can you give a little more color on what is exciting for you - trends in these sectors? 
+
+[00:13:15] Felipe Camposano: Well, going back, the first thing we talked about is the founders, right? So we're pretty agnostic on the sector. Obviously there's certain areas we feel more comfortable where we see there's a lot of traction. But we have seen founders being able to create incredible businesses in sectors that initially we thought that were probably not that interesting. So once we find the right teams and they really believe in what they're doing, there's an opportunity. So concentrate a lot of trying to get good reference.
+
+We work a lot with networks around to get the right reference on the right teams. That said, we look at areas where we feel that localization is important, for different reasons. Mostly, because we don't have the specialization to really understand what's happening with everything around the world. And when you have something that doesn't require localization, the world is your market, but also the world is your competitor, right?
+
+So it's very hard to really understand if what you have there as a team, as a product, the market is really competitive in the world. And there's something happening somewhere that can compete with you very quickly, right? So when you require localization, the business model and the technology, then it becomes more of an original play. Obviously going global becomes harder, even going into each of the country becomes harder, but it's much more contained.
+
+So you're able to evaluate much better that that team and that product can really expand into that space. And then you also can understand a little bit who are the natural buyers. Or how are you going to grow this company to the next phase? And you have that conversation with the founder. So we are more focused on probably on the team and then on the space and the technology that can actually be of interest in VC and this localization kind of characteristics so we feel comfortable. We have done more global plays, but in those cases, we probably don't lead. What we do is that when we find the right team, we find very interesting with a solution that we found that can have a global potential. As you said, I'm a Kauffman fellow and some other networks that we have, we normally try to refer them into more specialized global VCs and just ask them to let us follow in case they're going to lead the route.
+
+Right? So we become their local partners for those teams, but they are doing that kind of evaluation at a more global scale. 
+
+[00:15:24] Gopi Rangan: Do you have preference for founders coming from Chile or certain other regions in Latin America? Or do you also invest in founders elsewhere in the world? 
+
+[00:15:32] Felipe Camposano: Oh, we have invested elsewhere, but I would say the most, by far, of our founders are Chileans.
+
+Even if they're not living in Chile, they could be living in Mexico or living in the US. A lot of them actually live here, Peru and Colombia. And it's not only that we want to invest in Chile, right? But for us, the reference and how we evaluate our potential relationship with them, it has two very specific characteristics that makes it very easy if they're Chilean or Peru or Colombia because one, we have the same culture.
+
+So it's very easy to understand if we're talking the same thing. When you start changing culture, it becomes a little harder, the communication and explanation. So we try to make it easy. S econd is because we normally have more access to them very early on. We normally reach that community very quickly. So we're one of the first one. Even they're not doing fundraising or they're close. They're probably gonna reach out. We're gonna reach them.
+
+We're gonna join somebody very quickly. So we have early access to them that in other places we probably wouldn't have because there are other local players that normally have that kind of relationship. And third is because of the reference, right? And for us in Chile, when we want to talk with founder, we also not only talk with him, but we normally try to understand his background and how he has worked with the current team or previous teams.
+
+And in Chile and Peru, Colombia is very easy. We normally have the network. So between WhatsApp and LinkedIn, if we can't do that in four days, it becomes a yellow flag, right? It's like somebody from even Brazil, Mexico and the rest of the world because much harder to actually do that same kind of between due diligence and relationship wise kind of a reference check that for us is very important.
+
+I mean, by far, my biggest mistake has been much more on teams than on technology, on industry, right? So we try to put a lot of energy into feeling comfortable on the teams we're investing in. 
+
+[00:17:16] Gopi Rangan: And your network helps you with speed when you may want to make decisions on investments. Instead of having to do endless reference checks and due diligence, if you can quickly get to an answer on how to help the founder, you can make a decision on the investment very quickly.
+
+That's a significant advantage for you. How many investments do you make per year? And how many startups do you meet per year to make those investments? 
+
+[00:17:40] Felipe Camposano: Even though we started six years ago, we actually started investing fully 2022, right? So 2020 we did one and it was pretty much a COVID. So everyone was like trying to see what's going to happen. And 2021 valuations were so over the place. We didn't feel comfortable. So we did a much smaller investments in early stage companies. So I would say, from 2022 on, we normally do three to four, up to five investments a year. We're only three or four into new companies, and we feel comfortable there.
+
+And to do that, we have been trying to go the other way of what normally happens, right? So when I talk with a lot of my friends, VCs, they're looking for ways of increasing their pipeline. Actually, we have been consciously trying to decrease the amount of companies. That happened because many years ago, for example, we came out in a newspaper, you know, with a fund and you start getting all of this kind of companies. It's very hard to actually evaluate one from the other. Where we have to spend a lot of time now is trying to identify the right potential partners, or as you say, people in the network. And we're very consistent on telling them what exactly we're looking for in the characteristics of the team, on the traction of the company, on some of the characteristics on the industry. So we get the right reference. 
+
+So I would say most of the investments we have done have become referenced investment, right? Either from angel investors, from early stagers in seed funds, from lawyers, from financial advisors, from Endeavor or core for startup Chile or different organizations that have access to this, that understand where we're looking, where we get this, and they send that reference for us. 
+
+And normally it's much more valuable and it's much easier. So our idea is to be able to reduce the amount of companies. But spend much more time with them before investing. Sometimes we miss some of them, or that's part of, you know, different models. That's why you have different funds, each have their own characteristics.
+
+We feel comfortable that the network we're building very conscious to be able to try address most of the spaces will get us most of the companies that we feel comfortable that we should be able to invest in, but a much deeper space. So again, before we'll probably look at, you know, something like 30 companies a month, maybe, uh, when we started, you know, but very, very lean, very simple kind of evaluation that we're probably doing three or four a month, uh, by much deeper evaluation. So we talk with customers, we talk with the team because we know they're already going to filter, right? And we're trying to keep it that way. 
+
+As you mentioned, for us network is key. I mean, network's key in everyone, but in Latin America, I think it's even more important. And that's why in the new fund, we have like this big network, what we call venture partner, which are actually investors in the fund, but they're all over the place in different industries, different geographies, they're invested in the funds. So they're very aligned, not just, you know, to support the companies, but actually to support finding the right company. So they're an incredible reference. In the first fund, a lot of the investments we actually did came from this kind of network. We feel that they're very valuable for the whole ecosystem.
+
+[00:20:34] Gopi Rangan: It's very interesting. You would think that as the firm grows, your brand becomes more popular, you begin to see more companies and you want to, but I think what you're saying is initially when you started, when you went with a splash that we're starting a new firm, you got a lot of inbound interest, but you've actually actively tried to stay quieter and focus on fewer relationships, go deep with those relationships instead of looking at volume of opportunities.
+
+You're actually looking for quality. That's a very interesting way to build the quality of the firm as well. 
+
+[00:21:09] Felipe Camposano: Again, it's, it's very hard for in two meetings to really learn more of the team, right? You can get this first approach, you know, but when you get a reference of somebody who was angel investor in them in two years, or it was a mentor, or it was an accelerator that worked with them or worked with them at a previous startup, it's much easier to feel comfortable in how they handle stress situations, how they behave, you know, what's their potential.
+
+So that's why one of the reasons we also try to elicit our TRL entrepreneurs, which are much less than Latin America. They're now more of a good thing, but much less than the U S and Latin America. They're not that many that can show traction from previous. That's why we also do a little later because that way we can see some data points that can correlate also in the execution, not just on the potential, right?
+
+As we get more entrepreneurs doing more second, third time companies, we probably are going to feel much more comfortable being earlier stage investments than we feel today. 
+
+[00:22:03] Gopi Rangan: Can you give an example of one or two companies? What happened in that first meeting? What questions did you ask the founder?
+
+What got you excited? 
+
+[00:22:12] Felipe Camposano: Again, as you well know, everything's so case by case because many things happen at the end that you look back and say, well, that's too many coincidences to make it happen. Right. So for example, for me, there are like two kinds of founders that I try to identify.
+
+Nothing's black and white, right? There's always a gray area, but I believe there's one that really comes from the pain that they're trying to address, right? They understand the challenge and they just love to solve that issue. And they understand the domain expertise, they understand the customers, and they're going to try to solve that same problem in 50 different ways.
+
+And I've seen founders that have done that, they're doing in their third company with different technologies, because it's been 10 years, but solving the same conceptual problem. And they just want to tackle that and they're just motivated to do that. Right. And they're the ones who do more of a top down approach, right?
+
+They want to become an entrepreneur. They want to make a good exit and they understand this. They're more transactional. And I've seen a lot of those also be very successful because they're very result driven and very clear on the pathway. Personally, I really like the ones that really understand what they want to solve, really understand the problem of the customer and they just are in love of trying to, which is hard sometimes because they won't stop. Right? And they'll just keep going and going and going, which sometimes you have to pivot. Sometimes you have to make hard decisions and then it becomes a little harder. But I just love the passion of people who understand what they want to solve and they understand the problem and they're respected in that industry. So the first thing I tried to do is understand why they're doing this, right.
+
+And how they came into this and who they have talked to. So initially, for example, I was very concentrated just on the founder or founders to understand the potential of the team. Very quickly I learned that the right people are able to convey the right people around them. They're able to convince other incredible people to join them on their journey. If they have not been able to bring on board in different roles, right, depending on their on the amount of resources and stage they're in, but if they haven't been able to convince the people around them to support them, what they're doing, then I start questioning, you know, they might be incredible. They might have a, you know, MIT, PhD, whatever and Stanford. But if they don't build the team around them, they're going to hit very quickly a roof.
+
+And we have seen that, right? So we have seen people who really understand the domain expertise, love the problem, but are not able to build that incredible team around them. And if they don't do that, they can't grow, right? So those are the things that we try to identify in that first conversation.
+
+And particularly, you know, how long have you worked with your co founders, right? What kind of relationship you have with them? And then talk to them separately and see how correlated their vision is, right? So those kind of conversations for me are the most important because the rest, I mean, we can sit down and review in Excel. We can get the data from the industry and we can feel comfortable if the initial projections are, you know, reasonable, if that industry tends to grow. But the most important is, you know, how they're going to react when the assumptions change, right?
+
+I remember these founders that had incredible models, economic models on the business, but they hire a third party to do them, right? So when you started asking them, you know, what are the fundamentals behind this? And what happens if this assumption is wrong? They need to understand exactly how the business model works, right? You can't do it. The key has to be in that team because most of the assumptions you make very early on are not correct. What you have to have is the right team to be able to iterate every time you change that assumption, you validate one change, the other one completely change a third one, and then be able to react very quickly. Right? That's what you want to understand that they are capable in that conversation.
+
+[00:25:46] Gopi Rangan: You like working with founders who are obsessed about solving the problem, not founders who are transactional or try to build a successful business.
+
+And when you talk to founders who are obsessed about solving the problem and ask these questions about what's your relationship with co founders and have you validated this and have you talked to potential customers, they actually find it very interesting and it's less of a diligence or a scrutinizing process. It's more about having a conversation and helping them figure out more potential in the business than they perhaps had thought about. It's a much more interesting conversation for both sides. Can you give an example of one of your recent investments? 
+
+[00:26:24] Felipe Camposano: Yeah, so we have one in the health space, where we see that he has been focusing on solving a specific issue, and he's incredible finding the right product for the customer because he really understand what the customer's pain points are. 
+
+[00:26:40] Gopi Rangan: What's the name of the company? 
+
+[00:26:41] Felipe Camposano: YAPP. So they solve this whole connection between insurance companies and pharma companies and health providers and the medical doctors and their customers. The guys really understand the business, really understands the customer. But he's always trapped on that because he loves creating the next thing. So one of the things we have been working with is, you know, how do we build an organization around it to be able to execute on everything that he's building?
+
+Because that's when you really are able to create an organization that is able to grow very quick. I think that's a challenge that I've seen a lot of people who again, love the space they're in. And their biggest challenge, or at least what they'd love to do is solve that problem. But then once you solve it, it doesn't stop there.
+
+Then you have to grow it, right? And that's where the business is. It's how you grow it, right? So help them to be able to execute in that. I think it's one of the things that any partner has to do, internal or external, right? Uh, when I would feel very comfortable that the team has built a strategy around that, they model around that and they're working on that. But, but I think that's something that happens a lot on the different companies. 
+
+For example, we have another one that's called Webdox. I normally don't like to invest in like sole entrepreneurs. Four or five sometimes it's many. Two, three I think it's like the right number. When there's one in entrepreneur, I think, it's also a different kind of challenge. But one of the surprising things is how he has been able to build this whole team that they all feel like they're founders right from the beginning. They became late co founder, let's say, a lot of them. But you feel the culture on how they're moving in and they use the same language and have the same vision and you start seeing the results because of that organization. And then people join the organization and very quickly become one member of the same organization and feel like they have been there for the last three years, right?
+
+When you're able to create that kind of culture in the company, that you can able to get senior guys in there that that bring a lot of knowledge, bring a lot of their own network and credibility, but they also bring their own ways of doing things, but they joined and are able to quickly become part of that cultural organization is when you feel comfortable, there's something there solid, right? And that is also something that we try to help the founders create. But at the end, 99 percent of what happens in the company is done by the founders. 
+
+[00:28:56] Gopi Rangan: It's a strong positive sign when the founders can bring early employees into the company and make those early employees feel like they were also founders, although they came in a little later. That quality to attract high quality talent is a very strong characteristic in founders and you focus a lot on that. As an investor, I made the mistake early on in my career that if I can be useful to founders, that's a fantastic thing. Actually, it's not the right way to think about it. You want the founders to be independent. And if you leave them alone for five years, they should be able to build the business. But those are the founders. It's hard to be useful to them. If you find a way to be useful to them, that adds more value to the company. 
+
+We're also co investors in TaskHuman. It's great to see that companies like TaskHuman are looking at global expansion, mainly focused on Latin America using your relationships in the region. I'm hoping to find more opportunities like that for us to collaborate in the future. We're coming towards the end of our conversation and I want to ask you about your community involvement.
+
+Is there a non profit organization you are passionate about? Which one? 
+
+[00:30:06] Felipe Camposano: Well, but the one that I'm working with right now is called ChileFlorida.org. This organization that we're building between mostly Chileans or people related with Chile in Florida with the focus of supporting entrepreneurs that are either evaluating or have established operations in Florida to work to Latam or to the U. S. Miami and Florida or South Florida in particular have a very specific characteristic with Latin America that you wouldn't see probably in any other city in the U S is that there's a lot of people from Latin America, which in many other places you have, but here, most of them are still working with Latin America.
+
+They're either the representatives of Latin American companies here in the U S or representatives from U S companies to Latin America, or they own their operations in Latin America, but live here. Which is very different than any other city, mostly in the U. S., where you have a lot of people in America, but they're working locally in local companies like Citibank or Google, but they have family ties back to their country, not mostly work.
+
+So Miami has that, right? Most of them. So they very actively engage in business with Latin America. We see that this is an incredible hub for Latin American technology based companies to work into LATAM, to Mexico, Columbia logistically, and to be a good entry for the U S. So we create this not for profit to just through networks, be able to support entrepreneurs that are either operating from here or starting with Chile, but are aiming obviously to work with any other South American and American country afterwards, right? We want to validate the model because we have the network to do it, right?
+
+We have already 50 something members. Now we want to reach over 100. There are a lot of entrepreneurs from Chile, investors from Chile, businessmen from Chile, executives from Chile here that are willing to give time and energy in supporting those companies and startups. So that I'm very passionate about it. 
+
+[00:31:57] Gopi Rangan: Felipe, thank you very much for spending time with me today. It's fascinating to hear your unique journey, creating a whole ecosystem of venture capital investors, starting with Chile, and now it's a thriving ecosystem all over Latin America.
+
+It's fascinating to hear stories of how you make investments and how your network comes through for you in finding entrepreneurs, evaluating entrepreneurs and supporting entrepreneurs in their journey. I look forward to sharing your nuggets of wisdom with the world. 
+
+[00:32:24] Felipe Camposano: Thank you so much. Appreciate it. 
+
+[00:32:26] Gopi Rangan: Thank you for listening to The Sure Shot Entrepreneur. I hope you enjoyed listening to real-life stories about early believers supporting ambitious entrepreneurs. Please subscribe to the podcast and post a review. Your comments will help other entrepreneurs find this podcast. I look forward to catching you at the next episode.
+
