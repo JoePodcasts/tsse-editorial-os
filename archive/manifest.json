@@ -6373,16 +6373,9 @@
       "source_url": "https://api.simplecast.com/episodes/26fe7470-0a22-4d8c-808b-ed7f03b3cf84"
     },
     "intelligence": {
-      "availability": "available",
+      "availability": "not_found_locally",
       "kind": "intelligence",
-      "layer": "editorial_intelligence",
-      "references": [
-        {
-          "match_evidence": "exact_episode_url_and_number",
-          "origin_path": "data/episodes/active/episode_192.json",
-          "sha256": "1ab8d07e23d532d3d39f4dca2cd2b33c425b3cf9349892afc324b6e198d9e2b3"
-        }
-      ]
+      "layer": "editorial_intelligence"
     },
     "markdown_path": "exports/episodes/26fe7470-0a22-4d8c-808b-ed7f03b3cf84.md",
     "metadata": {
@@ -9609,6 +9602,146 @@
         "state": "present"
       },
       "validation_note": "Legacy text, not freshly verified against remote source; labels unverified."
+    }
+  },
+  "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2": {
+    "detail": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "application/json; charset=utf-8",
+        "path": "sources/49d30d6b-fb95-44df-aa8c-7097555cd0c2/detail/835ef0102fa320a8ed5897f2f7d59df7fe9d3a01324a6a60c78087cd5c6553df.json",
+        "retrieved_at": "2026-10-28T05:25:47.461053+00:00",
+        "sha256": "835ef0102fa320a8ed5897f2f7d59df7fe9d3a01324a6a60c78087cd5c6553df",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "episode_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "kind": "detail",
+      "layer": "official_source",
+      "remote_id": "49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "retrieval_status": "success",
+      "source_field": null,
+      "source_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2:detail",
+      "source_url": "https://api.simplecast.com/episodes/49d30d6b-fb95-44df-aa8c-7097555cd0c2"
+    },
+    "intelligence": {
+      "availability": "not_found_locally",
+      "kind": "intelligence",
+      "layer": "editorial_intelligence"
+    },
+    "markdown_path": "exports/episodes/49d30d6b-fb95-44df-aa8c-7097555cd0c2.md",
+    "metadata": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "application/json; charset=utf-8",
+        "path": "sources/49d30d6b-fb95-44df-aa8c-7097555cd0c2/metadata/1daca517d33ccfd1365003e095aa81fcce858c1bb6c6d28dba3efdffd65b3961.json",
+        "retrieved_at": "2026-10-28T05:25:45.316265+00:00",
+        "sha256": "1daca517d33ccfd1365003e095aa81fcce858c1bb6c6d28dba3efdffd65b3961",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "episode_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "kind": "metadata",
+      "layer": "official_source",
+      "remote_id": "49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "retrieval_status": "success",
+      "source_field": null,
+      "source_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2:metadata",
+      "source_url": "https://api.simplecast.com/podcasts/8a5f01b8-f271-4de0-b289-c224dc4fce0a/episodes"
+    },
+    "newsletter": {
+      "availability": "not_checked",
+      "kind": "newsletter"
+    },
+    "show_notes": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "text/html; charset=utf-8",
+        "path": "sources/49d30d6b-fb95-44df-aa8c-7097555cd0c2/show_notes/f26a5c32890b03387997e357fef45fe271ea3cc3c49f93c436aa936c242af0aa.html",
+        "retrieved_at": "2026-10-28T05:25:47.461053+00:00",
+        "sha256": "f26a5c32890b03387997e357fef45fe271ea3cc3c49f93c436aa936c242af0aa",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "derived_text": {
+        "extractor_version": "archive-v1",
+        "path": "derived/text/49d30d6b-fb95-44df-aa8c-7097555cd0c2/f26a5c32890b03387997e357fef45fe271ea3cc3c49f93c436aa936c242af0aa.txt",
+        "sha256": "24e3103640e8351cd81d29ec041280b668dc835460a72bd588af0086875b32c0"
+      },
+      "episode_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "kind": "show_notes",
+      "layer": "official_source",
+      "remote_id": "49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "retrieval_status": "success",
+      "source_field": "/long_description",
+      "source_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2:show_notes",
+      "source_url": "https://api.simplecast.com/episodes/49d30d6b-fb95-44df-aa8c-7097555cd0c2"
+    },
+    "social": {
+      "availability": "not_checked",
+      "kind": "social"
+    },
+    "structured_transcript": {
+      "availability": "available",
+      "kind": "structured_transcript",
+      "path": "derived/segments/49d30d6b-fb95-44df-aa8c-7097555cd0c2/segments-v2/e41d62a4e29c64f3c1da1b34ca2f1a842696f4e737ab2f5b52e02f8335948b22.json",
+      "sha256": "370e3635b744bd4284ae719334ae11665cc0007839256b0de4374918ca03c38b"
+    },
+    "summary": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "text/plain; charset=utf-8",
+        "path": "sources/49d30d6b-fb95-44df-aa8c-7097555cd0c2/summary/5c12f979cfb9b7dd99209470f58a19ae9463c6386ae27a49ca51727e0306e0c8.txt",
+        "retrieved_at": "2026-10-28T05:25:45.316265+00:00",
+        "sha256": "5c12f979cfb9b7dd99209470f58a19ae9463c6386ae27a49ca51727e0306e0c8",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "episode_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "kind": "summary",
+      "layer": "official_source",
+      "remote_id": "49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "retrieval_status": "success",
+      "source_field": "/description",
+      "source_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2:summary",
+      "source_url": "https://api.simplecast.com/podcasts/8a5f01b8-f271-4de0-b289-c224dc4fce0a/episodes"
+    },
+    "transcript": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "text/html; charset=utf-8",
+        "path": "sources/49d30d6b-fb95-44df-aa8c-7097555cd0c2/transcript/e41d62a4e29c64f3c1da1b34ca2f1a842696f4e737ab2f5b52e02f8335948b22.html",
+        "retrieved_at": "2026-10-28T05:25:47.461053+00:00",
+        "sha256": "e41d62a4e29c64f3c1da1b34ca2f1a842696f4e737ab2f5b52e02f8335948b22",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "derived_text": {
+        "extractor_version": "archive-v1",
+        "path": "derived/text/49d30d6b-fb95-44df-aa8c-7097555cd0c2/e41d62a4e29c64f3c1da1b34ca2f1a842696f4e737ab2f5b52e02f8335948b22.txt",
+        "sha256": "645b2dc393ed7eadb10cfd4f58b42e7dcaf27323f39ce7f2dc37d642a1898e9e"
+      },
+      "episode_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "kind": "transcript",
+      "layer": "official_source",
+      "remote_id": "49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "retrieval_status": "success",
+      "source_field": "/transcription",
+      "source_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2:transcript",
+      "source_url": "https://api.simplecast.com/episodes/49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "speaker_labels": {
+        "accuracy": "unverified",
+        "parseability": "partial",
+        "raw_labels": [
+          "Pavel Prata",
+          "Gopi Rangan"
+        ],
+        "state": "present"
+      },
+      "timestamps": {
+        "coverage": "partial",
+        "state": "present"
+      }
     }
   },
   "simplecast:4a03af57-b4ac-4f4c-bb0b-be22074c85a1": {

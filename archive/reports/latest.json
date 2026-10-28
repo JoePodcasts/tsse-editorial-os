@@ -1,31 +1,31 @@
 {
-  "catalogue_records": 195,
+  "catalogue_records": 196,
   "catalogue_sync_complete": true,
   "changes": {
-    "changed": 3,
-    "new": 0,
+    "changed": 1,
+    "new": 1,
     "not_seen": 0,
-    "unchanged": 192
+    "unchanged": 194
   },
-  "checked_at": "2026-10-26T14:35:28.917746+00:00",
+  "checked_at": "2026-10-28T05:26:05.615964+00:00",
   "conflicting_episode_numbers": 0,
   "coverage": {
     "ambiguous_colon_prefix_transcripts": 34,
-    "intelligence": 57,
+    "intelligence": 56,
     "legacy_strict_validator_rejected": 2,
     "legacy_transcripts": 56,
-    "locally_preserved_transcripts": 195,
-    "markdown_documents": 195,
-    "metadata": 195,
+    "locally_preserved_transcripts": 196,
+    "markdown_documents": 196,
+    "metadata": 196,
     "multiple_turns_single_html_paragraph": 3,
-    "official_speaker_labelled_transcripts": 195,
-    "official_timestamped_transcripts": 116,
-    "official_transcripts": 195,
-    "parseable_speaker_labelled_transcripts": 195,
-    "show_notes": 195,
-    "speaker_labelled_transcripts": 195,
-    "summary": 195,
-    "timestamped_transcripts": 116,
+    "official_speaker_labelled_transcripts": 196,
+    "official_timestamped_transcripts": 117,
+    "official_transcripts": 196,
+    "parseable_speaker_labelled_transcripts": 196,
+    "show_notes": 196,
+    "speaker_labelled_transcripts": 196,
+    "summary": 196,
+    "timestamped_transcripts": 117,
     "unusual_transcript_formats": 5
   },
   "duplicate_identities": 0,
@@ -35,25 +35,25 @@
     "published_at": "2020-07-17T18:37:38-07:00"
   },
   "ingestion": {
-    "accepted": 0,
+    "accepted": 1,
     "checkpoint_reused": 0,
-    "duration_seconds": 1.257,
+    "duration_seconds": 1.92,
     "failures": [],
-    "http_requests": 3,
+    "http_requests": 4,
     "interrupted": false,
-    "queued": 0,
+    "queued": 1,
     "skipped_accepted": 195,
-    "started_at": "2026-10-26T14:35:20.571504+00:00",
+    "started_at": "2026-10-28T05:25:47.270036+00:00",
     "validation": {
       "export_round_trip": "passed",
-      "records": 195,
+      "records": 196,
       "source_fidelity": "passed",
       "valid": true
     }
   },
   "latest": {
-    "episode_number": 195,
-    "published_at": "2026-09-22T04:00:00-07:00"
+    "episode_number": 196,
+    "published_at": "2026-10-27T04:00:00-07:00"
   },
   "missing_metadata": {
     "artwork_url": [
@@ -62,28 +62,28 @@
   },
   "official_source_states": {
     "show_notes": {
-      "available": 195
+      "available": 196
     },
     "transcript": {
-      "available": 195
+      "available": 196
     }
   },
-  "published_episodes": 195,
+  "published_episodes": 196,
   "retrieval_failures": 0,
   "schema_version": 1,
   "search": {
-    "corpus_sha256": "10f277ef7767d5c4e886d17fe5d7e64e01641e223f2118854f26015059a3b4d2",
-    "documents": 21780,
-    "index_bytes": 58122240,
-    "index_sha256": "5762e4ba888580320da8251676038738bd05b14d5d219479462306caa0c330d2",
-    "input_fingerprint": "baa88798b203772d1b0e0f167a6500e9dbe3aa2b5a125e3b4e773368e4a4a330",
+    "corpus_sha256": "8db9b3cfb02501b574367c0ddb660689cc32204021c92870261b74c8c683dc64",
+    "documents": 21914,
+    "index_bytes": 58445824,
+    "index_sha256": "e45fb96a4a029fdcb7373f85f7aebaf974ec3892ec311e645eadb26e9b3ced7d",
+    "input_fingerprint": "4e5ca7b7e469ce27c8a7f3cab54d945cf98d10a04d5b5ada23b27a3e47893dae",
     "method": "lexical-v2",
     "schema_version": 1,
-    "searchable_metadata_records": 195,
-    "searchable_show_note_documents": 195,
-    "searchable_show_note_passages": 2210,
-    "searchable_transcript_episodes": 195,
-    "searchable_transcript_passages": 18595,
+    "searchable_metadata_records": 196,
+    "searchable_show_note_documents": 196,
+    "searchable_show_note_passages": 2225,
+    "searchable_transcript_episodes": 196,
+    "searchable_transcript_passages": 18709,
     "status": "current"
   },
   "transcript_structure": [
@@ -1570,6 +1570,29 @@
       ],
       "short_source_labels": [],
       "source_turn_labels": 23,
+      "unparsed_label_candidates": [],
+      "untimed": false,
+      "unusual": false
+    },
+    {
+      "all_colon_candidates_name_like": true,
+      "episode_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+      "episode_number": 196,
+      "has_labels": true,
+      "has_timestamps": true,
+      "html_paragraphs": 114,
+      "label_accuracy": "unverified",
+      "labels_parseable": true,
+      "legacy_strict_validator_accepts": true,
+      "line_parser_missed_labels": [],
+      "multiple_turns_single_paragraph": false,
+      "possible_label_candidates": 34,
+      "raw_labels": [
+        "Gopi Rangan",
+        "Pavel Prata"
+      ],
+      "short_source_labels": [],
+      "source_turn_labels": 34,
       "unparsed_label_candidates": [],
       "untimed": false,
       "unusual": false
@@ -4661,7 +4684,7 @@
   ],
   "validation": {
     "export_round_trip": "passed",
-    "records": 195,
+    "records": 196,
     "source_fidelity": "passed",
     "valid": true
   },

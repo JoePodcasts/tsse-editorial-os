@@ -220,13 +220,7 @@
     "unresolved": []
   },
   "simplecast:26fe7470-0a22-4d8c-808b-ed7f03b3cf84": {
-    "intelligence": [
-      {
-        "match_evidence": "exact_episode_url_and_number",
-        "origin_path": "data/episodes/active/episode_192.json",
-        "sha256": "1ab8d07e23d532d3d39f4dca2cd2b33c425b3cf9349892afc324b6e198d9e2b3"
-      }
-    ],
+    "intelligence": [],
     "unresolved": []
   },
   "simplecast:2bb87782-f94d-431f-8134-41edd3c7c735": {
@@ -363,6 +357,10 @@
         "sha256": "f3d78ed268c1a3663bd01bcc399b703433c69081d3cd5d255d2340a334584085"
       }
     ],
+    "unresolved": []
+  },
+  "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2": {
+    "intelligence": [],
     "unresolved": []
   },
   "simplecast:4a03af57-b4ac-4f4c-bb0b-be22074c85a1": {
