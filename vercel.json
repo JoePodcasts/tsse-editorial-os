@@ -4,7 +4,7 @@
   "buildCommand": "python3 -B archive_deploy.py build",
   "outputDirectory": "public",
   "functions": {
-    "api/archive-function.py": {
+    "api/archive_function.py": {
       "excludeFiles": "{!(api|vercel_runtime),!(api|vercel_runtime)/**}",
       "maxDuration": 30
     }
@@ -12,7 +12,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "/api/archive-function?route=:path"
+      "destination": "/api/archive_function?route=:path"
     },
     {
       "source": "/archive-files",
