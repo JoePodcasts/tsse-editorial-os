@@ -2,7 +2,7 @@
 # explicit generated public set and Python function exclusion rule.
 *
 !api/
-!api/archive-function.py
+!api/archive_function.py
 !archive/
 !archive/**
 archive/search/
