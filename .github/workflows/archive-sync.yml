@@ -83,7 +83,7 @@ jobs:
           value = ops.freshness(Path('archive'))
           assert value, 'Missing matching successful status'
           with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
-              out.write('fingerprint=' + value['archive_fingerprint'] + '\n')
+              out.write('fingerprint=' + ops.state_fingerprint(Path('archive')) + '\n')
           PY
       - name: Publish the small frontend success artifact
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
