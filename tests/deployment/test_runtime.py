@@ -1,5 +1,6 @@
 """Tests for the built public adapter; run after archive_deploy.py build."""
 import http.client
+import importlib.util
 import json
 import threading
 import unittest
@@ -20,7 +21,10 @@ class RuntimeTests(unittest.TestCase):
         cls.app = public.PublicArchiveApp(ROOT / 'vercel_runtime/archive', fetch_status=lambda _: json.loads((ROOT / 'archive/sync-status.json').read_text()) if (ROOT / 'archive/sync-status.json').exists() else {})
         cls.application_patch = patch.object(public, 'application', return_value=cls.app)
         cls.application_patch.start()
-        cls.server = ThreadingHTTPServer(('127.0.0.1', 0), public.PublicHandler)
+        spec = importlib.util.spec_from_file_location('archive_entrypoint', ROOT / 'api/archive_function.py')
+        entrypoint = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(entrypoint)
+        cls.server = ThreadingHTTPServer(('127.0.0.1', 0), entrypoint.handler)
         cls.thread = threading.Thread(target=cls.server.serve_forever, daemon=True)
         cls.thread.start()
 
@@ -37,7 +41,11 @@ class RuntimeTests(unittest.TestCase):
         return response.status, response.read()
 
     def test_rewrite_query_and_readonly_methods(self):
-        code, raw = self.request('/api/archive-function?route=search&path=search&q=customer+discovery')
+        rewrite = json.loads((ROOT / 'vercel.json').read_text())['rewrites'][0]['destination']
+        code, raw = self.request(rewrite.replace(':path', 'archive'))
+        self.assertEqual(code, 200)
+        self.assertGreater(json.loads(raw)['episodes'], 0)
+        code, raw = self.request(rewrite.replace(':path', 'search') + '&q=customer+discovery')
         self.assertEqual(code, 200)
         self.assertTrue(json.loads(raw)['results'])
         for method in ('POST', 'PUT', 'PATCH', 'DELETE'):
