@@ -92,7 +92,7 @@ class PublicHandler(BaseHTTPRequestHandler):
             parsed = urlsplit(self.path)
             params = {k: v[-1] for k, v in parse_qs(parsed.query).items()}
             route = params.pop('route', '')
-            path = '/api/' + route if parsed.path == '/api/archive-function' else parsed.path
+            path = '/api/' + route if parsed.path == '/api/archive_function' else parsed.path
             self.respond(200, application().api(path, params))
         except APIError as exc:
             message = str(exc).replace('local archive', 'archive') if exc.status < 500 else 'The archive is temporarily unavailable. Please try again.'

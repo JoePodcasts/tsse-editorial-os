@@ -1,6 +1,9 @@
 # CLI uploads are allowlisted. Git builds are constrained separately by the
 # explicit generated public set and Python function exclusion rule.
 *
+# The local CLI traverses directories without a trailing slash. Keep both
+# directory forms so the leading wildcard cannot hide API function discovery.
+!api
 !api/
 !api/archive_function.py
 !archive/
