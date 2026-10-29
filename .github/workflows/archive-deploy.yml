@@ -87,7 +87,7 @@ jobs:
         env:
           DEPLOYMENT_URL: ${{ steps.stage.outputs.url }}
           VERCEL_AUTOMATION_BYPASS_SECRET: ${{ secrets.VERCEL_AUTOMATION_BYPASS_SECRET }}
-        run: python3 -B tests/deployment/smoke.py "$DEPLOYMENT_URL" --output /tmp/archive-deployment-checks.json
+        run: node tests/deployment/smoke-with-project-env.mjs "$DEPLOYMENT_URL" --output /tmp/archive-deployment-checks.json
       - name: Prevent an older queued build from replacing newer main
         env:
           GH_TOKEN: ${{ github.token }}
