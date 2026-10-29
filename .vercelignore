@@ -6,6 +6,11 @@
 !api
 !api/
 !api/archive_function.py
+# Prebuilt Python filePathMap entries reference these generated files outside
+# .vercel/output. They must survive upload filtering as well as local packaging.
+!vercel_runtime
+!vercel_runtime/
+!vercel_runtime/**
 !archive/
 !archive/**
 archive/search/

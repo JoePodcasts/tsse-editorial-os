@@ -11,6 +11,7 @@ class PrebuiltTests(unittest.TestCase):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
+        (self.root / '.vercelignore').write_text('*\n!vercel_runtime\n!vercel_runtime/**\n')
         self.output = self.root / '.vercel/output'
         self.function = self.output / 'functions/api/archive_function.func'
         self.function.mkdir(parents=True)
@@ -49,7 +50,19 @@ class PrebuiltTests(unittest.TestCase):
         self.save()
         check(self.root)
         target.unlink()
-        with self.assertRaisesRegex(ValueError, 'required file'):
+        with self.assertRaisesRegex(ValueError, 'mapped file'):
+            check(self.root)
+
+    def test_locally_present_but_upload_excluded_file_is_rejected(self):
+        name = 'vercel_runtime/archive_public.py'
+        target = self.root / name
+        target.parent.mkdir(parents=True)
+        (self.function / name).rename(target)
+        self.config['filePathMap'] = {name: name}
+        self.save()
+        check(self.root)
+        (self.root / '.vercelignore').write_text('*\n!api\n!api/\n!api/archive_function.py\n')
+        with self.assertRaisesRegex(ValueError, 'excluded by .vercelignore'):
             check(self.root)
 
     def test_wrong_route_or_runtime_is_rejected(self):
