@@ -10,7 +10,14 @@ import zipfile
 from pathlib import Path
 from urllib.error import HTTPError
 from urllib.parse import urlencode, urlsplit
-from urllib.request import Request, urlopen
+from urllib.request import HTTPRedirectHandler, Request, build_opener
+
+
+class NoRedirects(HTTPRedirectHandler):
+    """Never forward deployment credentials or accept a login page as the app."""
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        return None
 
 QUERIES = ('customer discovery', 'proof of value', 'Gokul Rajaram', 'Commerce Ventures',
            'relentlessly resourceful', 'choosing a partner in life')
@@ -36,19 +43,22 @@ def verify(base, expected):
             headers['x-vercel-protection-bypass'] = os.environ['VERCEL_AUTOMATION_BYPASS_SECRET']
         started = time.perf_counter()
         try:
-            response = urlopen(Request(base + path, headers=headers), timeout=30)
+            response = build_opener(NoRedirects).open(Request(base + path, headers=headers), timeout=30)
         except HTTPError as exc:
             response = exc
         with response:
             raw = response.read()
-            check(f'HTTP {status}: {path}', response.status == status)
+            check(f'HTTP {status}: {path} (received {response.status}; redirects are not followed)', response.status == status)
             elapsed = round((time.perf_counter() - started) * 1000, 2)
             timings.setdefault(path, []).append(elapsed)
             return response.headers, raw
 
     def api(path, status=200):
         headers, raw = request(path, status)
-        check('API type and no-store: ' + path, 'application/json' in headers.get('Content-Type', '') and 'no-store' in headers.get('Cache-Control', ''))
+        content_type = headers.get('Content-Type', '')
+        cache_control = headers.get('Cache-Control', '')
+        check(f'API type and no-store: {path} (Content-Type={content_type!r}, Cache-Control={cache_control!r})',
+              'application/json' in content_type and 'no-store' in cache_control)
         check('No server paths in API: ' + path, b'/Users/' not in raw and b'Traceback' not in raw and b'origin_path' not in raw)
         return json.loads(raw)
 
