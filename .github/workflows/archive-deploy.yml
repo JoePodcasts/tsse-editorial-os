@@ -86,6 +86,7 @@ jobs:
       - name: Verify staged deployment
         env:
           DEPLOYMENT_URL: ${{ steps.stage.outputs.url }}
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_AUTOMATION_BYPASS_SECRET: ${{ secrets.VERCEL_AUTOMATION_BYPASS_SECRET }}
         run: node tests/deployment/smoke-with-project-env.mjs "$DEPLOYMENT_URL" --output /tmp/archive-deployment-checks.json
       - name: Prevent an older queued build from replacing newer main
