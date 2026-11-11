@@ -1,0 +1,2751 @@
+[
+  {
+    "episode_id": "simplecast:5268ea16-e232-4b5d-9bec-95c444c049ae",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "1c33c3812455b9c4cacbc36f71128b955cf51e21c5dded18d0795964b70306ae",
+    "span": [
+      84,
+      276
+    ],
+    "reason": "Founder-market fit visible in the product helped an angel evaluate a founder he had never met."
+  },
+  {
+    "episode_id": "simplecast:d5191fc6-eb49-44b8-a1de-e74c3c4096cc",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "9c99b5aefba03b889a9fe992ce96ea631944c70055170a956fd6babdd9417fa4",
+    "span": [
+      0,
+      313
+    ],
+    "reason": "The guest uses targeted hypotheses about use cases to guide early investing."
+  },
+  {
+    "episode_id": "simplecast:d5191fc6-eb49-44b8-a1de-e74c3c4096cc",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "The examples concern investment intervention and mental healthcare rather than founder leadership."
+  },
+  {
+    "episode_id": "simplecast:d5191fc6-eb49-44b8-a1de-e74c3c4096cc",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "The care thesis pairs technical capability with empathy for people receiving care.",
+    "passage_id": "d9ad03266f49167fda2aa53503c899a677f50b823f5e13039909c463f5256f3b",
+    "span": [
+      0,
+      310
+    ]
+  },
+  {
+    "episode_id": "simplecast:4a19c3b7-2c38-4eff-a00c-6b38539fa3bc",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "passage_id": "94b3eb51862f7c47b512aa939211f7f24d19686b97f3f4095073a371f900cd12",
+    "span": [
+      208,
+      482
+    ],
+    "reason": "The speaker connects a technologist’s sustained passion with the energy needed to execute."
+  },
+  {
+    "episode_id": "simplecast:b9c3f19d-fa8e-485c-a3db-4df1f51ba8f3",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "cec08f0ce31c0cba2d0306c6c9ea702b1d23eef5c0e51e98c1d9a34a11d2275e",
+    "span": [
+      153,
+      454
+    ],
+    "reason": "The conversation links homogenous investment networks with unequal representation."
+  },
+  {
+    "episode_id": "simplecast:0cd0fc2a-b63d-4521-b8b1-e8d5fb928b4f",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The founder describes which roles proved difficult to hire and what earlier mistakes taught him.",
+    "passage_id": "e7a3ea32d8783edb0310ee665272cf7901e38f193c87b3549a84989095ac9a2c",
+    "span": [
+      0,
+      351
+    ]
+  },
+  {
+    "episode_id": "simplecast:e3c4099e-4825-4192-8501-131c8bbfe5f0",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "An investment example traces how synthetic biology changes chemical production.",
+    "passage_id": "81c07fcd19ffcce07e4070e24a278f3cf6cae3aca2d8db263e659399ac612579",
+    "span": [
+      0,
+      554
+    ]
+  },
+  {
+    "episode_id": "simplecast:e3c4099e-4825-4192-8501-131c8bbfe5f0",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "reason": "A smaller bioreactor changes the footprint and logistics costs of chemical production.",
+    "passage_id": "02535c62720b6288a645ac3fc09653eea335d310802fb8e183ffec4cc1fdb57a",
+    "span": [
+      0,
+      332
+    ]
+  },
+  {
+    "episode_id": "simplecast:a4deab42-01d1-49f4-aa4c-e96e16cd0f5f",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "4d0130970d20cf280cb62094ab4c12f332dfb54204f1863191c3dc0d25391018",
+    "span": [
+      95,
+      306
+    ],
+    "reason": "A funding cutoff gives the investment team a concrete rule for countering bias."
+  },
+  {
+    "episode_id": "simplecast:c74483dd-60d4-48ed-aabf-f183aa2fdb62",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "An executive biography and a congratulatory remark provide insufficient leadership evidence."
+  },
+  {
+    "episode_id": "simplecast:c74483dd-60d4-48ed-aabf-f183aa2fdb62",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "0ac8373fb0eeedc649e1f0273ae2dd00f56b16afb69400f0e6ef5069c3bb5c60",
+    "span": [
+      236,
+      394
+    ],
+    "reason": "The guest describes building businesses in cities outside the dominant startup hubs."
+  },
+  {
+    "episode_id": "simplecast:765a3a11-6cd9-48b5-9a8c-504e8cc81394",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "62ef12bbfd489e83543507846f2e17ce881f973e9626a3493e8aa2fa6e55e5a7",
+    "span": [
+      1015,
+      1121
+    ],
+    "reason": "A Black venture community provides an institutional base for increasing participation."
+  },
+  {
+    "episode_id": "simplecast:e708156b-ece1-4c4b-a12e-2306a1f5e4ff",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "a0f5423fbf1db5d3e4e153b8f20906eeedd1c04e2e302b8e80ea5af08b421044",
+    "span": [
+      0,
+      141
+    ],
+    "reason": "The investor explains why a founder’s reason for solving the problem matters in a pitch."
+  },
+  {
+    "episode_id": "simplecast:4cc35294-3d14-4a13-803d-590e8c098472",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "34eca83052baa1f252d755cb920f651275a339ac41658ad348d317c0d15c2403",
+    "span": [
+      51,
+      140
+    ],
+    "reason": "Sending material before a meeting lets the investor research the opportunity."
+  },
+  {
+    "episode_id": "simplecast:7a8c5f74-81e1-412d-8d7b-18a721341948",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "d2429c87e68cd682bf5a1223e60a121ec120a51ce933599feb2e4ec1ea40fb66",
+    "span": [
+      108,
+      315
+    ],
+    "reason": "The firm was designed specifically to support immigrant founding teams."
+  },
+  {
+    "episode_id": "simplecast:aaff8b20-b584-4fb0-9718-0f8b95dc62cb",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "95586f045ff0a7a861c6f57a506b8607fb7674544ba3ea6a80b353f009a600b8",
+    "span": [
+      65,
+      268
+    ],
+    "reason": "The guest explains how to request candid feedback in a one-to-one investor conversation."
+  },
+  {
+    "episode_id": "simplecast:041b9ce1-bc40-4788-9033-38948d144b8b",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "The excerpts describe culture and a visionary entrepreneur without developing leadership practice."
+  },
+  {
+    "episode_id": "simplecast:041b9ce1-bc40-4788-9033-38948d144b8b",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "The mandate supports founders coming from Latin America as well as those entering its markets.",
+    "passage_id": "7708de6fc3875aeac6442b11e96774466994b1912f7c45cea971007cecb5fe4c",
+    "span": [
+      0,
+      828
+    ]
+  },
+  {
+    "episode_id": "simplecast:53a4a78d-1104-4289-97dc-734a3830c466",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "bc514a8b773becdf77fa7ea3ada9d1e75dc74923d7480b49b32a1744c6c2de83",
+    "span": [
+      0,
+      124
+    ],
+    "reason": "The investor describes the role of gut feeling in early evaluation."
+  },
+  {
+    "episode_id": "simplecast:05d425da-75ae-4bd4-b964-d7f6f8e607a1",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "d403c5ce2435189f7dc84cd5b72800eade840af64f8c5d5ea5298f4057618b21",
+    "span": [
+      89,
+      212
+    ],
+    "reason": "A three-hour market mapping session makes part of the investment process explicit."
+  },
+  {
+    "episode_id": "simplecast:1b48f937-a472-4117-b51f-3a42a441ec41",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "1fe270c6117f04f93d40e0d9c0ae33aa66c67fe5fc2447c06a11f569bd83bcf6",
+    "span": [
+      32,
+      218
+    ],
+    "reason": "Investment in the middle class provides a specific filter for deciding which businesses to pursue."
+  },
+  {
+    "episode_id": "simplecast:e9cf1836-7f70-49a5-b6a3-03ff05980a38",
+    "category_id": "cat-05",
+    "strength": "strong",
+    "passage_id": "2b7036c9ca931864a85f50c849d2a2f834fc5be3f27f17a000535ed13e80c5dc",
+    "span": [
+      0,
+      280
+    ],
+    "reason": "The founder traces a business failure to unit economics that could not support growth."
+  },
+  {
+    "episode_id": "simplecast:9c62d02e-8590-4de1-9844-e45d33e314d8",
+    "category_id": "cat-01",
+    "strength": "insufficient",
+    "reason": "The selected explanation concerns recruiting employees rather than pitching an investor."
+  },
+  {
+    "episode_id": "simplecast:2fbadf7e-0e92-40cf-ad8c-29a251e0d952",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "passage_id": "e6ed4c6d3150a9bb4259c6a26f2ffee195fac2863eba3ba53daf89bbc6171413",
+    "span": [
+      196,
+      353
+    ],
+    "reason": "Technical feasibility is the risk this software investor deliberately underwrites."
+  },
+  {
+    "episode_id": "simplecast:18b641ff-352a-4254-b16c-067b3faaa4c1",
+    "category_id": "cat-02",
+    "strength": "secondary",
+    "passage_id": "7d0c5d20e170ef33c733b173942b9893e1b8294c6731807af7520424d872950a",
+    "span": [
+      335,
+      583
+    ],
+    "reason": "The investor explains why larger later-stage checks warrant a longer diligence process."
+  },
+  {
+    "episode_id": "simplecast:21c84339-89c7-437f-a96d-8c901e9c59c6",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "passage_id": "38541dbb93d66a7266c839990aa26906ed189e3a0b60b6cb9d0bfbbf438986b7",
+    "span": [
+      74,
+      309
+    ],
+    "reason": "A founder’s experience supplies an advantage in understanding a specific opportunity."
+  },
+  {
+    "episode_id": "simplecast:6aa4c8aa-739a-413a-a6c2-d6c5e63271ab",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "6cea941297292d498ce8398e0c6354dd094ed08372c36add19ff88590c717fb5",
+    "span": [
+      0,
+      130
+    ],
+    "reason": "The speaker describes developing an investment network inside Austin’s startup community."
+  },
+  {
+    "episode_id": "simplecast:db55f8a9-8524-4c05-9c02-53e38bc52622",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "cd397aaa42ab9c64288603847d7484356dc6e535dc888ec20e04e03defa147a2",
+    "span": [
+      94,
+      313
+    ],
+    "reason": "A university entrepreneurship center is one route to increasing participation."
+  },
+  {
+    "episode_id": "simplecast:c8c6faa5-e792-4a3c-bcd3-ac45079cc786",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "Regional and corporate culture predominates in the selected passages."
+  },
+  {
+    "episode_id": "simplecast:d69612b0-afb7-4cb4-9d68-a54cecff3a7f",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "204d798cb2f8e205d3e571069d27002075626af9f1fbf512e93f88712828a8fb",
+    "span": [
+      0,
+      124
+    ],
+    "reason": "The investor explains a preference for meeting teams before or at the seed round."
+  },
+  {
+    "episode_id": "simplecast:1abcbdea-d690-4d13-937f-8a09c61b7db1",
+    "category_id": "cat-09",
+    "strength": "secondary",
+    "passage_id": "7e8c98d779615ce3e7309952f31a323755d91d849f6423c5b93d1a28d8d52d00",
+    "span": [
+      0,
+      220
+    ],
+    "reason": "Unequal access to mentoring can affect observed outcomes for different groups."
+  },
+  {
+    "episode_id": "simplecast:1cf0cab6-a348-44c5-bcfd-02811768d8fd",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "passage_id": "304763e9d043f8894831aee3bd58c96c13fd1b12b0b9cae7720d51e30ccc1f38",
+    "span": [
+      0,
+      272
+    ],
+    "reason": "Running a services business gave the team insight into an apparently narrow market."
+  },
+  {
+    "episode_id": "simplecast:c9fbca28-8043-4e98-a9b4-be9e16133867",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "e3c0027c7e4c6ac4be51aa3ae23b1d8f60c55c5fb18c2bcd568137353ec894a1",
+    "span": [
+      0,
+      143
+    ],
+    "reason": "The guest describes accepting invitations as a deliberate way to build an entrepreneurial network."
+  },
+  {
+    "episode_id": "simplecast:3ce148f6-d66c-406c-b232-e95fbcd5c46c",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "66d5d92dced8574802b2cb2a481fb920d3f5c3e73d6bc16fcc4997d05dc27be6",
+    "span": [
+      240,
+      461
+    ],
+    "reason": "Research on founders is used to challenge assumptions about age and gender in selection."
+  },
+  {
+    "episode_id": "simplecast:8515d7d0-1069-4e9e-84ab-1868e0778924",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "passage_id": "d8c6b83d4f51b49230d1ff4f2ca4eea5aceb46700db17e5fe31fc1eb7bf238de",
+    "span": [
+      0,
+      167
+    ],
+    "reason": "Infrastructure investment starts with a newly available technical building block."
+  },
+  {
+    "episode_id": "simplecast:21e549e1-9edc-47e4-86b5-94c706f841cf",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "passage_id": "4dca612c929520dcd25bf63ace646e6a4a5880966b213c0c75fab6499c3321e8",
+    "span": [
+      0,
+      303
+    ],
+    "reason": "Understanding how developers consume software shapes the route to a useful product."
+  },
+  {
+    "episode_id": "simplecast:406a365a-2930-4eff-8ed0-32aafd0009b0",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "d7742e3019eae65f34b879cba879c979a2323ce480895199925b0e413101003d",
+    "span": [
+      240,
+      421
+    ],
+    "reason": "The conversation examines how ownership targets and promised returns constrain a fund."
+  },
+  {
+    "episode_id": "simplecast:1823a4e0-fdc8-474f-a002-e7186c8ccec6",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "40f28283198d0ea95db65818c2d9527323d4e553aed8f7850f1d579fdc20f2fb",
+    "span": [
+      178,
+      542
+    ],
+    "reason": "The investor invites founders to introduce themselves through their upbringing."
+  },
+  {
+    "episode_id": "simplecast:ed30e169-559a-46a8-8b57-3a3701614a3f",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "11cd8d5d2322cadba7bfaecb7aaa8551062beeb2d34067b5dcc01f23051fe9d4",
+    "span": [
+      186,
+      341
+    ],
+    "reason": "A founder’s ability to persuade an audience affects the ability to raise money."
+  },
+  {
+    "episode_id": "simplecast:e9356c4d-19c1-4917-9c16-29e37b0ce316",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "e80cd57fc8ae9990122a393e2503747aed9e378b652e9ec86e4509813616cae7",
+    "span": [
+      266,
+      592
+    ],
+    "reason": "An investor revisits an initial rejection after seeing a change in product-market fit."
+  },
+  {
+    "episode_id": "simplecast:0fe83567-947f-427e-ae36-520fdc3fce89",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "7f720a2ce1bcbe4e289e45cfe14f4ef4e2dee3016caca4cb7cd1f277b309ecaf",
+    "span": [
+      41,
+      211
+    ],
+    "reason": "The guest questions what polished accelerator-trained pitches reveal in investor meetings."
+  },
+  {
+    "episode_id": "simplecast:194fc0f8-1df1-48dd-8d7d-ccaa9b60bbfb",
+    "category_id": "cat-02",
+    "strength": "secondary",
+    "passage_id": "432f206336a678cddbec74547e53609748d96cc22cebae38aaff201d3e3ef04d",
+    "span": [
+      137,
+      251
+    ],
+    "reason": "Prior experience with a founder can affect whether the same VCs back the next venture."
+  },
+  {
+    "episode_id": "simplecast:fad1d0cf-9833-4eb2-8b90-d1050b207191",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "passage_id": "2db11817033a9ea9e93235551140b95dcd2466b27ce62a7a5accdcdbd31313a9",
+    "span": [
+      115,
+      275
+    ],
+    "reason": "A CEO is asked to prioritize cash, team and momentum when making operating decisions."
+  },
+  {
+    "episode_id": "simplecast:2cda5aca-9184-41b7-b76e-a3b1b410978e",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "06d50d0456f8fe65f09b0efd09f9b2ffb8edd3f2c89ce62536415b3ab987a725",
+    "span": [
+      0,
+      337
+    ],
+    "reason": "The investor advises founders to speak in their own words when presenting."
+  },
+  {
+    "episode_id": "simplecast:c48f9e24-1980-45e7-9189-a5eb681dcaa1",
+    "category_id": "cat-06",
+    "strength": "secondary",
+    "passage_id": "37db9c1f675baf61c03948ade2a7c8e76dbd530bdfbf4a78bf12b38ddf8ad26a",
+    "span": [
+      164,
+      358
+    ],
+    "reason": "Workforce technology is examined through changes in the employer–employee relationship."
+  },
+  {
+    "episode_id": "simplecast:7560da4c-5de7-4823-af53-fac555884b0f",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "c8c4f455d5967bcc035032ef9d8b7d6efff348be219ce85ce83a83b96d04bc54",
+    "span": [
+      81,
+      232
+    ],
+    "reason": "The investor scrutinizes the assumptions behind the metrics a founder presents."
+  },
+  {
+    "episode_id": "simplecast:e6348f6b-f4e0-426e-8090-6320d7409c6b",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "84015970c36c8ffdc64b13a53bd403ceed1b790d154532b1d7ea5e152fd91998",
+    "span": [
+      22,
+      139
+    ],
+    "reason": "The investor describes what a concise fundraising deck conveys about the problem and team."
+  },
+  {
+    "episode_id": "simplecast:92d8efcc-c1ce-44f6-bfc9-e201f55750ea",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "passage_id": "e8e36fe9b4e3f27fd27fa97b20d25cd72629abed1b624771ac072238954dbf65",
+    "span": [
+      64,
+      344
+    ],
+    "reason": "A plant-based product illustrates how entrepreneurs are changing food production."
+  },
+  {
+    "episode_id": "simplecast:15715764-96f9-40be-b572-08c8e72eae54",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "passage_id": "3872078b577ab973313095e233a47a5425c6533059af57dfc47abb00ed05e1ca",
+    "span": [
+      165,
+      296
+    ],
+    "reason": "The guest traces professional discipline and time management to athletic training."
+  },
+  {
+    "episode_id": "simplecast:efa83df4-f3ea-4c91-abc2-5c04152740f1",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "b51bcc3a8cb768754401c8a4f4902b76f0e7ba05dbd6997476d3d19345a27dca",
+    "span": [
+      0,
+      1454
+    ],
+    "reason": "The guest describes how corporate investors combine financial and strategic objectives."
+  },
+  {
+    "episode_id": "simplecast:b573d39a-0e7d-42b3-a048-cb47a1743368",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "65814b2d42656385e7d665b14d1af9b2f6841d20e000f4da33a03bd09c4e272e",
+    "span": [
+      249,
+      410
+    ],
+    "reason": "A pre-seed investor explains what a million-dollar check should allow a founder to test."
+  },
+  {
+    "episode_id": "simplecast:5d955cc6-d604-46ab-ad57-7d195c8f88e5",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "5453bb6e754d209a571944046cee713b252157199643434cd40f8226d35776df",
+    "span": [
+      0,
+      673
+    ],
+    "reason": "The speaker reconciles founder expectations with the VC’s obligations to limited partners."
+  },
+  {
+    "episode_id": "simplecast:417d6875-3e87-4aeb-894c-3dc096f3a14d",
+    "category_id": "cat-01",
+    "strength": "secondary",
+    "passage_id": "3956f463db3e6b480ff75f97a14c804d409c047fab09cf0dafef0cf28e8de6e2",
+    "span": [
+      254,
+      343
+    ],
+    "reason": "The investor describes how founders approach a meeting with a plan and slide deck."
+  },
+  {
+    "episode_id": "simplecast:77032a0f-1385-4465-9849-c17e721f17a8",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "passage_id": "c870b3840e6decb4c2c63ecf2791b3e03d8018f9d5a1bc198339c869df3ea34d",
+    "span": [
+      0,
+      159
+    ],
+    "reason": "The guest describes personal development as one of the returns of entrepreneurship."
+  },
+  {
+    "episode_id": "simplecast:d55146de-717e-4951-accc-71fe65b2de2b",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "Valley culture and investor empathy do not establish a leadership discussion in these passages."
+  },
+  {
+    "episode_id": "simplecast:7b692c64-4dc4-4a00-8897-e64ebdcc6bea",
+    "category_id": "cat-05",
+    "strength": "strong",
+    "reason": "The investor looks for users who recruit other users as a mechanism of growth.",
+    "passage_id": "8f62e990510353013ea228688aa879ebe23de7092af5907d2bccbe87404c7d45",
+    "span": [
+      0,
+      292
+    ]
+  },
+  {
+    "episode_id": "simplecast:80f82728-4730-4301-b879-2c5907e6aae0",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "passage_id": "b7c27e3902abd2c439dabc336fc377d47d31007b79ff36f5467c2c9e067dba19",
+    "span": [
+      35,
+      231
+    ],
+    "reason": "The investor explains how investment analysis changes when applied to decentralized finance."
+  },
+  {
+    "episode_id": "simplecast:1c556dca-dfc1-4398-b890-18d15f96903c",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "passage_id": "f8d5d33df5a8a7bb52a4c4a2740df877e3c1c6355fd1b98cf565d772c04bc907",
+    "span": [
+      69,
+      180
+    ],
+    "reason": "The investor links rapid learning and ambition to a founder’s willingness to attempt difficult work."
+  },
+  {
+    "episode_id": "simplecast:76a6eb4d-68f1-438c-821d-4bd425312c58",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "reason": "The investor describes access and affordability as criteria for healthcare investments.",
+    "passage_id": "adf9752d874154681632e2adfc0c7f220b4a3bcf1e21f01cb6d42388c6c675ae",
+    "span": [
+      505,
+      797
+    ]
+  },
+  {
+    "episode_id": "simplecast:76a6eb4d-68f1-438c-821d-4bd425312c58",
+    "category_id": "cat-09",
+    "strength": "secondary",
+    "passage_id": "5defccd58582447e7694f9d504a279e0d5690867da41f2073aa8a2d3144018b0",
+    "span": [
+      210,
+      342
+    ],
+    "reason": "The fund seeks founders beyond San Francisco, Boston and New York."
+  },
+  {
+    "episode_id": "simplecast:16a3d101-e4bb-47ad-b465-faf33aaf56c5",
+    "category_id": "cat-01",
+    "strength": "secondary",
+    "passage_id": "3349cd5adb50cc87c12dd47119d187db0fa6a6860c3f4f6d7df0b1aff8f474c5",
+    "span": [
+      34,
+      152
+    ],
+    "reason": "The guest recommends involving the technical team in the first investor meeting."
+  },
+  {
+    "episode_id": "simplecast:d6d6ae77-93f6-478a-936d-f4c96afdd8a2",
+    "category_id": "cat-05",
+    "strength": "secondary",
+    "reason": "Partners can help fintech teams obtain clearance needed to bring a product to market.",
+    "passage_id": "1665e92342ea73fca77b7e5c383c9d82b89f28b6f400113a20f299f87e7e96c8",
+    "span": [
+      565,
+      1038
+    ]
+  },
+  {
+    "episode_id": "simplecast:b286e5b2-245f-429c-b570-eac576d0b7bc",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "The advice explains how to present a company when seeking capital.",
+    "passage_id": "01a298e1bd2ba798e672d261d0f134d1e26437ca7182dea551b9071263862d2e",
+    "span": [
+      0,
+      197
+    ]
+  },
+  {
+    "episode_id": "simplecast:58315598-2ffd-4630-aa43-e04259c2b6b0",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "passage_id": "4fc1db9ea64e20dd15bbb6c54d1907b854f9d36bf7d972d79ba91dfed662f054",
+    "span": [
+      0,
+      518
+    ],
+    "reason": "Twelve months of technical defensibility is used as a practical test of differentiation."
+  },
+  {
+    "episode_id": "simplecast:4a03af57-b4ac-4f4c-bb0b-be22074c85a1",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "passage_id": "dcd3bdd6cb644edf7442a6b6fdb2d5e91ad832cdc130adaa4b2e779cb0f6fbc1",
+    "span": [
+      33,
+      115
+    ],
+    "reason": "The guest discusses learning to manage intrusive self-talk during entrepreneurship."
+  },
+  {
+    "episode_id": "simplecast:3d2e22f6-e5cf-42cc-b067-0e554a353409",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "reason": "The guest discusses failures that disappear from public accounts of entrepreneurial success.",
+    "passage_id": "b83f504f294c666149813c886505de0f66f9bce074b7894bef34e4d633a10a03",
+    "span": [
+      0,
+      622
+    ]
+  },
+  {
+    "episode_id": "simplecast:0de7c0b1-6088-4d68-a329-34960b3ae11e",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "e3a3b036822d403f71187682755cdda01944fc39edad30ccfba080e3bcd1016d",
+    "span": [
+      39,
+      213
+    ],
+    "reason": "Metrics give the investor a starting point for checking investment assumptions."
+  },
+  {
+    "episode_id": "simplecast:086cebb4-b2d6-4f19-9ec5-1cc9be5953af",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The investor asks what evidence beyond a technical performance claim makes a business investible.",
+    "passage_id": "7b7c0c23dbf2d43882caf8e8cbe7d21dfb073fe807f9dd4b82f05bc62d1d7e02",
+    "span": [
+      0,
+      626
+    ]
+  },
+  {
+    "episode_id": "simplecast:a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+    "category_id": "cat-01",
+    "strength": "secondary",
+    "reason": "The investor treats the financing meeting as a mutual choice about a long-term relationship.",
+    "passage_id": "3eef843b9154fb3230903e82ea54208fdcb781af978b49dcf38a686024b47979",
+    "span": [
+      0,
+      739
+    ]
+  },
+  {
+    "episode_id": "simplecast:a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The five-part investment screen links people, product, profit, potential and portfolio fit.",
+    "passage_id": "0cae34e6bb48f782c15df4588fb3055c90fe96ae6785410c3a150d68572cc15e",
+    "span": [
+      0,
+      377
+    ]
+  },
+  {
+    "episode_id": "simplecast:a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+    "category_id": "cat-09",
+    "strength": "secondary",
+    "passage_id": "780fb339e5a52a2b7382840e72fb3eb8bcc5aff2725a51ece069bb5dfb33b875",
+    "span": [
+      307,
+      443
+    ],
+    "reason": "The investor describes finding founders overlooked by other groups."
+  },
+  {
+    "episode_id": "simplecast:cb7634ac-14fd-4cb7-91f2-892f1dee7839",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "7e6af810c8eeae0650f77c415bf89926263e8401b3d8e24ba10c407915af1649",
+    "span": [
+      0,
+      298
+    ],
+    "reason": "The financing exercise asks what the business could accomplish without another raise."
+  },
+  {
+    "episode_id": "simplecast:090de2df-ba16-46a4-90f5-e82db73322f7",
+    "category_id": "cat-09",
+    "strength": "insufficient",
+    "reason": "Emerging markets describe financial-service users here, with insufficient founder-network evidence."
+  },
+  {
+    "episode_id": "simplecast:c503ba72-b034-4c49-b2ba-bf55aa5d3e39",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "eeb622fa2afe58cf50abc350c426946d354e4ab3e73075a6bbb14e1e318522d0",
+    "span": [
+      121,
+      348
+    ],
+    "reason": "The conversation tests the realism of a founder’s twelve-month Series A timetable."
+  },
+  {
+    "episode_id": "simplecast:9a33fceb-c262-4c00-b3ed-2dd64ce223d9",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "passage_id": "b53760de2a203520bc671ee26ad5d96e83f395ed77f4f840747990fa9af4214b",
+    "span": [
+      208,
+      510
+    ],
+    "reason": "The discussion links the usefulness of a product with the founder’s understanding of the customer."
+  },
+  {
+    "episode_id": "simplecast:cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+    "category_id": "cat-07",
+    "strength": "secondary",
+    "passage_id": "65b34daf40d7eb055b4f1449891ca9f1ff0128edea0197cb2040e3173f12c1a3",
+    "span": [
+      160,
+      298
+    ],
+    "reason": "The conversation examines a founder’s account of how crypto could change financial systems."
+  },
+  {
+    "episode_id": "simplecast:b0e3ffc3-1b99-4448-9c01-a4350e4949ef",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "passage_id": "eb66d915762a4376cafe58c90deee78f9fed1017a2bdf351779a941eb3715b37",
+    "span": [
+      247,
+      571
+    ],
+    "reason": "Successive AI products for one vertical illustrate the difficulty of creating a differentiated category."
+  },
+  {
+    "episode_id": "simplecast:40f4e1a8-8b51-45f9-8c16-b8f709dfd0aa",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "613c8ad2645f7b44d4c87f5bcb50d6ecaa7442ad036cb7fa8e0c3e3da5fa8220",
+    "span": [
+      58,
+      297
+    ],
+    "reason": "A cross-border network arranges buyer meetings for founders coming from India."
+  },
+  {
+    "episode_id": "simplecast:8c412426-d47f-4da3-9f90-6f252d5b15fa",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "passage_id": "b6d0212a5615f67e8d6d1d25114e0b3b0a55eafffbbfcc5e8ec2339ab84ed0a5",
+    "span": [
+      0,
+      151
+    ],
+    "reason": "The guest explains why customer research needs to account for local cultural differences."
+  },
+  {
+    "episode_id": "simplecast:961bcb46-9039-4514-b8a9-afd11445908b",
+    "category_id": "cat-01",
+    "strength": "insufficient",
+    "reason": "Audit valuations and portfolio marks concern the allocator rather than a founder financing decision."
+  },
+  {
+    "episode_id": "simplecast:961bcb46-9039-4514-b8a9-afd11445908b",
+    "category_id": "cat-06",
+    "strength": "insufficient",
+    "reason": "A personal technology background and networking example provide insufficient technological analysis."
+  },
+  {
+    "episode_id": "simplecast:6ed4e699-6451-4eaa-b79a-ec88fa671d27",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "de2847585b7022aff3371801218af2e7058f45a3aa1cc02a22b190190047bbd2",
+    "span": [
+      0,
+      322
+    ],
+    "reason": "The firm was organized around an entrepreneurial network from the outset."
+  },
+  {
+    "episode_id": "simplecast:681d3510-0750-4163-aa07-52c975391de5",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "The cited examples describe investment operations."
+  },
+  {
+    "episode_id": "simplecast:21e1a26e-e983-4e4e-b381-55341654d54c",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "6e318c5f6db89e6002ceaaa8bb4bbc3a5c4dde9e9191168821f1a78eed6dc5ac",
+    "span": [
+      290,
+      662
+    ],
+    "reason": "The speaker distinguishes the context an investor needs in a meeting from what can be sent ahead."
+  },
+  {
+    "episode_id": "simplecast:e5612c8b-f68c-4ef2-a2ea-edaea0dc1475",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "passage_id": "36efdab05d0228709f183d579d6eb1f4918f8904529a3b58872ce21f19c1dc58",
+    "span": [
+      0,
+      266
+    ],
+    "reason": "The climate discussion links expanding data-center capacity to the sustainability of infrastructure."
+  },
+  {
+    "episode_id": "simplecast:4027af88-2d27-4891-a621-ec11322f9ae0",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "Portfolio conviction and an incidental hiring reference are insufficient."
+  },
+  {
+    "episode_id": "simplecast:8dcbe28c-e754-45d1-ba12-44c0f10aa3a1",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "d308026f2897a24c5c86e35dad949a8dafe91547e294ab404c8e592fea1590b3",
+    "span": [
+      0,
+      303
+    ],
+    "reason": "Founders use a funding conversation to teach investors about a field."
+  },
+  {
+    "episode_id": "simplecast:8dcbe28c-e754-45d1-ba12-44c0f10aa3a1",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "Expert introductions and TiE support are better evidenced as network activities."
+  },
+  {
+    "episode_id": "simplecast:c14463d2-d6a1-41ac-88d2-a5c916c50441",
+    "category_id": "cat-09",
+    "strength": "secondary",
+    "reason": "Outreach at colleges and community organizations helps the firm meet overlooked founders.",
+    "passage_id": "d9afe5d30b70850a78e685fb8b833f76cf3251812747ba13c1af93460300bff6",
+    "span": [
+      328,
+      852
+    ]
+  },
+  {
+    "episode_id": "simplecast:c9a4e238-1052-41a9-9540-fad313b52f26",
+    "category_id": "cat-05",
+    "strength": "strong",
+    "passage_id": "5e65e7a1c3ed28839d7681dccab1d02cfc600b81ca8652e7f8f0e2e909030ce0",
+    "span": [
+      136,
+      380
+    ],
+    "reason": "The discussion explains how sales-led teams learn purchasing patterns in a new market."
+  },
+  {
+    "episode_id": "simplecast:d5fe6669-5823-41e7-9e8c-fbf7b3e1716d",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The guest describes observing ambition and commitment to building as founder traits.",
+    "passage_id": "ae866147d38bc8be8f2468593ea67cdd6bf6119637f24f91a0b482941a55f033",
+    "span": [
+      1027,
+      1170
+    ]
+  },
+  {
+    "episode_id": "simplecast:d5fe6669-5823-41e7-9e8c-fbf7b3e1716d",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "84519b2f1fabea9a4276c87576f0fc78d1a09d78290103b48aa3b64ae3f5abaa",
+    "span": [
+      263,
+      373
+    ],
+    "reason": "Founders, operators and investors were deliberately brought into the same founder community."
+  },
+  {
+    "episode_id": "simplecast:18e74102-241f-42a7-af35-b35c0e410dbb",
+    "category_id": "cat-09",
+    "strength": "secondary",
+    "reason": "The program organizes meetings to connect startups with prospective investors.",
+    "passage_id": "d16b489d5793733e3d564fd30b111b10d109dc0edc0028af062a403b58e8ab1e",
+    "span": [
+      0,
+      328
+    ]
+  },
+  {
+    "episode_id": "simplecast:b49d0de7-0578-4487-ae8d-9d3e17691075",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "Investor conviction and VC communications are insufficient evidence of founder leadership."
+  },
+  {
+    "episode_id": "simplecast:58ee6413-b744-4f39-b3d1-74e8b04aa2a6",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "0133cfc0720de457b676abab3368295696fa070de613a0e1a00b3586a27558d7",
+    "span": [
+      236,
+      325
+    ],
+    "reason": "The firm builds sourcing algorithms for specific investment segments."
+  },
+  {
+    "episode_id": "simplecast:12586092-9184-4a29-911a-0860f57cd464",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "Investor conviction about teams does not establish founder leadership."
+  },
+  {
+    "episode_id": "simplecast:12586092-9184-4a29-911a-0860f57cd464",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "passage_id": "0196af453a8dbd0ffcbd3ce810780de3ff45e2eddcf81ccec179ed32647e8532",
+    "span": [
+      0,
+      508
+    ],
+    "reason": "Entrenched networks and long sales cycles shape adoption in legacy industries."
+  },
+  {
+    "episode_id": "simplecast:dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+    "category_id": "cat-05",
+    "strength": "strong",
+    "reason": "The startup changed its expansion plan to enter Mexico and the US.",
+    "passage_id": "5a1f72d789824ab663fcba71fedc46788823bc3a78f271a66f6dbff9df2f80f4",
+    "span": [
+      0,
+      318
+    ]
+  },
+  {
+    "episode_id": "simplecast:5e1ed233-d1b8-4c83-8904-4f6f9341304f",
+    "category_id": "cat-01",
+    "strength": "secondary",
+    "passage_id": "10dbed4e4c905e9ff787293aaf6e60ed1791c1061661f1a14791779a5f5aff51",
+    "span": [
+      0,
+      89
+    ],
+    "reason": "Founders describe looking for a partner willing to believe in them early."
+  },
+  {
+    "episode_id": "simplecast:18bcc2bc-80d3-41c6-88fc-ecf48138982c",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "An investor describes using time outside the pitch meeting to assess a potential relationship.",
+    "passage_id": "6a4597bb82afe653249b41d4d52adb88c2933c384e058d5271c0269c6734d8c0",
+    "span": [
+      0,
+      513
+    ]
+  },
+  {
+    "episode_id": "simplecast:96b07626-e3ef-4f5d-9103-97491b5f0019",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "passage_id": "7849016102bde1b23c1851eee4852e7e252f222ac0ec8399083ed329b685d19b",
+    "span": [
+      245,
+      560
+    ],
+    "reason": "CaseText illustrates software adoption in legal practice."
+  },
+  {
+    "episode_id": "simplecast:019bd30d-ddca-41fa-a2db-18d34a7bc743",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "2b845efb042335dda3ea6a43bafa1c3b473b7794ba2933cb74df04303f14d854",
+    "span": [
+      0,
+      203
+    ],
+    "reason": "The network helps members meet co-founders, find investors and do business together."
+  },
+  {
+    "episode_id": "simplecast:0e86db85-591e-4991-a58b-4c310c9f1919",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "passage_id": "a038e0fafeb52e2eae94b3b0fccceb91d5ff48b237bcc52301ecdc4c4923f0fc",
+    "span": [
+      0,
+      84
+    ],
+    "reason": "The guest discusses cultivating a peaceful mind under difficult market conditions."
+  },
+  {
+    "episode_id": "simplecast:69a84f73-a6bc-4af8-a0f3-02abdc48b752",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "passage_id": "c3916660d02a5977e1d887664f1108678e9c9517eabc5007e8416f6c42a3092c",
+    "span": [
+      268,
+      385
+    ],
+    "reason": "The investor uses a conversation to understand the founder’s mission and long-term vision."
+  },
+  {
+    "episode_id": "simplecast:0f010f57-2fdc-45f0-bb30-c073e2940f74",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "A list of investor services and team selection provide insufficient leadership evidence."
+  },
+  {
+    "episode_id": "simplecast:857453c9-ace1-4c46-b4f3-af9eefd84ba8",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "Lead generation and a passing reference to hiring do not establish a leadership discussion."
+  },
+  {
+    "episode_id": "simplecast:857453c9-ace1-4c46-b4f3-af9eefd84ba8",
+    "category_id": "cat-05",
+    "strength": "strong",
+    "passage_id": "69cd72cb07ba222388a9bae43b2f13dbd04801799f00d43a0d9cef5769cec0f8",
+    "span": [
+      0,
+      103
+    ],
+    "reason": "The founder distinguishes inbound leads in the target market from distracting opportunities."
+  },
+  {
+    "episode_id": "simplecast:5321b62f-dcfb-4566-a943-032aceaf2b38",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "A recruiting product and a network relationship do not establish leadership practice."
+  },
+  {
+    "episode_id": "simplecast:5321b62f-dcfb-4566-a943-032aceaf2b38",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "d9b4c56e9d225ffef4f2d3b8879e6a4db142f8d0dea3e0972d413693b3b9bf0e",
+    "span": [
+      44,
+      179
+    ],
+    "reason": "The guest describes intentional networking as part of building a business."
+  },
+  {
+    "episode_id": "simplecast:0adb8f6a-0593-45b7-9c59-d32206c375db",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "Investor fit and conviction relate to financing."
+  },
+  {
+    "episode_id": "simplecast:d7878b46-2288-416c-a75f-9ff9a13ca530",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "b02b12066c177a73909738e64d3ef289fdda7d34ff7dd34a051b1030797228c6",
+    "span": [
+      0,
+      144
+    ],
+    "reason": "A nonprofit within NVCA explicitly works to widen participation in venture."
+  },
+  {
+    "episode_id": "simplecast:e21e9775-1b22-4922-a3df-09f8b970c3ce",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The guest links a founder’s willingness to challenge conventions with the type of builder the firm seeks.",
+    "passage_id": "915e887a4f1064494948b5a631a7f46b8cab470041f4b1a9bc947caacd6631d9",
+    "span": [
+      366,
+      614
+    ]
+  },
+  {
+    "episode_id": "simplecast:9827af17-5de9-470a-a6b9-d2bf0c001fb3",
+    "category_id": "cat-03",
+    "strength": "insufficient",
+    "reason": "An investor’s operating experience and a description of investment stages do not establish product validation."
+  },
+  {
+    "episode_id": "simplecast:48363488-c67c-465d-9b56-d6b6a7597968",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "The conviction is an investor’s position-sizing decision."
+  },
+  {
+    "episode_id": "simplecast:886cd152-35d0-46ad-b7cc-791ce4aa2048",
+    "category_id": "cat-02",
+    "strength": "secondary",
+    "passage_id": "e209e2a2f0018937923a1f88ccfcdff1573ca84b5162a1fae73144a60edfdbf1",
+    "span": [
+      0,
+      165
+    ],
+    "reason": "The guest distinguishes company-specific outcomes from broad market movements."
+  },
+  {
+    "episode_id": "simplecast:556c6e60-062c-4c69-982c-68eae900d909",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "passage_id": "9dccf94acad55452e9917e808bb59327fdeb821506f8ee3c9fa81acbd7be7302",
+    "span": [
+      125,
+      281
+    ],
+    "reason": "The Thiel Fellowship offered a route for young builders to work outside traditional institutions."
+  },
+  {
+    "episode_id": "simplecast:00a24c04-5983-4c5e-9f8d-b862fc602213",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "f97594d1ff993c7eb6fecaa48a4faa24e062e306771308cffbf36bfa7b33f7d2",
+    "span": [
+      0,
+      182
+    ],
+    "reason": "The investor distinguishes pre-seed selection criteria across funds."
+  },
+  {
+    "episode_id": "simplecast:4a5020ba-4b99-447d-a4b3-4f7ba206012b",
+    "category_id": "cat-01",
+    "strength": "insufficient",
+    "reason": "Marking portfolio positions and discussing vintage returns concern fund evaluation."
+  },
+  {
+    "episode_id": "simplecast:79b1b5a3-fd8e-410a-803d-9c48b446b6c7",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "passage_id": "140e3046ca9495efafff2814ceee27e31479d58dd7bcae7960bbd0006e40b345",
+    "span": [
+      258,
+      360
+    ],
+    "reason": "Entrepreneurs First invests in individuals before they have a fully formed company."
+  },
+  {
+    "episode_id": "simplecast:79b1b5a3-fd8e-410a-803d-9c48b446b6c7",
+    "category_id": "cat-09",
+    "strength": "secondary",
+    "reason": "Entrepreneurs First describes a program that backs individuals before company formation.",
+    "passage_id": "140e3046ca9495efafff2814ceee27e31479d58dd7bcae7960bbd0006e40b345",
+    "span": [
+      0,
+      360
+    ]
+  },
+  {
+    "episode_id": "simplecast:254fc97f-8c85-4d1a-bc84-0e230ec99cb5",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "passage_id": "3cb1948239c3b303d8f001d41b15692c2fd7dbd1d95c9e378d66bc12f0924a9e",
+    "span": [
+      470,
+      715
+    ],
+    "reason": "Design partners using an early product give the investor observable proof of utility."
+  },
+  {
+    "episode_id": "simplecast:254fc97f-8c85-4d1a-bc84-0e230ec99cb5",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "The remarks about conviction and hiring illustrate other subjects."
+  },
+  {
+    "episode_id": "simplecast:254fc97f-8c85-4d1a-bc84-0e230ec99cb5",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "Supply-chain operating and planning systems illustrate how technology changes industrial workflows.",
+    "passage_id": "3097bd6f513f19db4b41204b59de7edb35a0b6b47ffad4ceb2dc4c2b963d8a50",
+    "span": [
+      1439,
+      1763
+    ]
+  },
+  {
+    "episode_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "passage_id": "9e18db9a7610d4b464d75112f3ada813b46e2accec0150d1cc861ce7f468811f",
+    "span": [
+      0,
+      480
+    ],
+    "reason": "The guest explains how purchasing authority and budgets affect digitization in established industries."
+  },
+  {
+    "episode_id": "simplecast:0ef2b626-ce6b-4d5e-9e30-a80362e30dad",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "Existing market knowledge can shorten a process that often takes months."
+  },
+  {
+    "episode_id": "simplecast:80dbc636-4c29-4356-acf4-6155640f3d79",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "The opening half-minute should tell listeners what the company does."
+  },
+  {
+    "episode_id": "simplecast:9d24d1dc-3fac-4a50-bc2e-7f9df2772392",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "Debt can extend the time purchased by an equity round."
+  },
+  {
+    "episode_id": "simplecast:008e322c-b949-4773-9676-2e59d76ce5ce",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "The next milestone sets the proposed size of the round."
+  },
+  {
+    "episode_id": "simplecast:d55146de-717e-4951-accc-71fe65b2de2b",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "The difficulty of unwinding an investment explains why founders might invest time in selection."
+  },
+  {
+    "episode_id": "simplecast:e091dc9b-abaa-422d-83b4-ef9a2c875650",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "A written presentation helps a founder organize a complex explanation."
+  },
+  {
+    "episode_id": "simplecast:0adb8f6a-0593-45b7-9c59-d32206c375db",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "Excessive pricing or dilution can constrain the next round."
+  },
+  {
+    "episode_id": "simplecast:58d15263-fb67-4c72-9683-3312dfd88eab",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "Fund investments spread half the portfolio across hundreds of companies and open co-investment opportunities."
+  },
+  {
+    "episode_id": "simplecast:a8c30a40-784e-43cb-9bda-9cc77a6fdb0a",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "reason": "A meal-kit team starts with buyers of competing services."
+  },
+  {
+    "episode_id": "simplecast:0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "reason": "Working in a pawnshop gave the founder a basis for redesigning the consumer experience."
+  },
+  {
+    "episode_id": "simplecast:12549d0c-c060-486b-aaa1-8d21add096eb",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "reason": "Willingness to pay gives the team a way to test the importance of the problem."
+  },
+  {
+    "episode_id": "simplecast:26fe7470-0a22-4d8c-808b-ed7f03b3cf84",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "reason": "Privileged access to prospective customers can itself constitute an advantage."
+  },
+  {
+    "episode_id": "simplecast:d7e322bf-503a-470f-a835-7dd927dc2218",
+    "category_id": "cat-05",
+    "strength": "strong",
+    "reason": "A carrier's willingness to continue discussions governs admission into a partnership program."
+  },
+  {
+    "episode_id": "simplecast:a7166503-eec2-4e62-b455-946db1a8f608",
+    "category_id": "cat-05",
+    "strength": "strong",
+    "reason": "A larger partner can offer a sales channel."
+  },
+  {
+    "episode_id": "simplecast:66915e52-1306-4f6c-a974-f8eb5307a599",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "Verifying that a policy is valid illustrates an opportunity in insurance data infrastructure.",
+    "reviewed_passage_ids": [
+      "bbfbc11545b829d73424437a58602381b04d024a239d8413d526db8c8fa697a4",
+      "fc811f7ef7bbfd02c1612b9be4fe7525bcf83522290afc66167ff273d07c86a1"
+    ]
+  },
+  {
+    "episode_id": "simplecast:00a24c04-5983-4c5e-9f8d-b862fc602213",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "Adaptability is presented as necessary for a founder to grow with the business.",
+    "reviewed_passage_ids": [
+      "f5c21269df4e58bf3ffb6de8734e29baba9060d0879c4e4406e719d51af338e5",
+      "81ab39cbefdebace0e5564cfbc895989fa28450e02646b485f7a3bce924cb4f6"
+    ]
+  },
+  {
+    "episode_id": "simplecast:f8dae3ec-a41b-49fc-a80f-a8a91eedfb99",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "A founder’s runway and traction shape the terms available at the next round.",
+    "reviewed_passage_ids": [
+      "aba21f2a76b622f69ab5ce4c272807fcd5cc3a9c7586cc46d14eb1e0ceabde1a",
+      "2855f4c9f32557b98df39630a6ae8f9cc30f30c11d4a6228b70cd4e59169e1fb"
+    ]
+  },
+  {
+    "episode_id": "simplecast:474e83ac-e4d3-43a2-9a5e-a3e6619b6ca8",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "The pitch can emphasize points the investor raised earlier in the conversation.",
+    "reviewed_passage_ids": [
+      "e9e4509ea6256075b0e760cb85a59b6c3ac5a2c355fbd9dc9dfc1afa3c2acef4",
+      "7235b96479feb4ea6b0bb0f710f2ca518cea76dbc5fe940ec9afee2e9df0f45d"
+    ]
+  },
+  {
+    "episode_id": "simplecast:d53f7cc5-3aa3-446c-a13a-20c8882c04f8",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "Investors can use a first meeting to observe how the founding team handles difficult questions.",
+    "reviewed_passage_ids": [
+      "1b4071405184d4171ddd15e02905337cfa2f4c1cc38e6f7aa03522c0bfd7876c",
+      "49915c27218e4abc4ee76c0dc85914a1998df6b4d931625f6d130d263100d010"
+    ]
+  },
+  {
+    "episode_id": "simplecast:a5b8d933-e2fb-43cd-a716-c568e4017e5e",
+    "category_id": "cat-01",
+    "strength": "secondary",
+    "reason": "The investor questions whether the deck helps reveal the people behind an early business.",
+    "reviewed_passage_ids": [
+      "a9684739b8302528199269a9362d0dcd47aa3222892d42626c29a527210cb92c",
+      "0c95240fec971af13df0824d6b86bb350f24ccca75910c747b3dc36106a1789b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:4a03af57-b4ac-4f4c-bb0b-be22074c85a1",
+    "category_id": "cat-01",
+    "strength": "secondary",
+    "reason": "The guest compares the availability of startup capital across fundraising environments.",
+    "reviewed_passage_ids": [
+      "fae4a78fce5e1c2f97f3e1dff33b885ecf97a5e04629f5ccdb2b0e4a1d88e37f",
+      "e06c396a031b996b26c13d02662d655977823166d5a63953cd6d9717d45c3765"
+    ]
+  },
+  {
+    "episode_id": "simplecast:b291d4ef-8c94-4de8-951a-5b61ca8231d5",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "Carta’s difficulty raising capital illustrates what happens when investors underestimate a market.",
+    "reviewed_passage_ids": [
+      "ecf1c09bbe0346847ed14a3d797489b3bcde3b5b79859ac7549950a0e8cd838f",
+      "607183be1040b11582012303ed055c5a7588cdf2615f2c8811025c4d929a443b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:ba4e84c0-33e2-4b67-a128-ca5fd4f7c368",
+    "category_id": "cat-01",
+    "strength": "secondary",
+    "reason": "The repeat founder describes how experience affects subsequent fundraising.",
+    "reviewed_passage_ids": [
+      "759b15ae3d95d8c9050c38e469ce1db346775786386d58d79fa8b93f6f33381c",
+      "a054a987ecd39bd62576a6bf922bc1db8eb8cc6886646038a3e6b6bebcf2b2ec"
+    ]
+  },
+  {
+    "episode_id": "simplecast:6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "The speaker connects pitch preparation with building rapport beyond the meeting.",
+    "reviewed_passage_ids": [
+      "5c52aca300b1730987203e1fd92ca26ad420143f09fb59e2f81a04de9296460a",
+      "d9620cda325febd9b4980efcbca66c48077286e8fb67b96f088ead76151e379b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:96b07626-e3ef-4f5d-9103-97491b5f0019",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "The investor asks what a founder can demonstrate before a term sheet arrives.",
+    "reviewed_passage_ids": [
+      "d92e2ab635462d658c454fd84c28fc79d2acdad9fb3a8dcb21ec1de42d322243",
+      "ff9af044088ce5d1684d89f25cdb5914da73cd1defd7bed9434453ca72d29822"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0f010f57-2fdc-45f0-bb30-c073e2940f74",
+    "category_id": "cat-01",
+    "strength": "secondary",
+    "reason": "The investor explains how price, traction and amount raised interact in evaluating a round.",
+    "reviewed_passage_ids": [
+      "fd2b5bb4f83a0cf58bbcfcb0cd2f715a438b11c81be2fbac5bc9dd7afa6d0f1e",
+      "9f54309365eb90d9f2baf8cb57b3c89d50c170b2c2d4b1dc53de35531176f411"
+    ]
+  },
+  {
+    "episode_id": "simplecast:856da7b2-3fe0-466f-9b88-7d9360772e83",
+    "category_id": "cat-01",
+    "strength": "strong",
+    "reason": "The guest describes learning how to fundraise and writing down the process.",
+    "reviewed_passage_ids": [
+      "64c77d6358e3d7832b4ca99f7368f5440d4976ff78531595f17b641e5c6a832c",
+      "dde7ab04d54100731ea1997dad8d0e433105d23f588fd3adcfb10d8b9ad0e82b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:49b29c85-2857-473e-b476-51c6b6806f3d",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The discussion traces how limited partners can influence who deploys venture capital.",
+    "reviewed_passage_ids": [
+      "1e9b71a18884f4e752ab5178cb388516d52f6005da4e7442e3e3dc300e937261",
+      "70f2efb41aabcf3b5d760023343997de28b40c9a45f24e4a420b782b32d2405f"
+    ]
+  },
+  {
+    "episode_id": "simplecast:b89bf0a3-0c34-4df6-91f9-9fb043a1db2f",
+    "category_id": "cat-02",
+    "strength": "secondary",
+    "reason": "Diligence and collective decision-making shape the team’s willingness to invest.",
+    "reviewed_passage_ids": [
+      "a863075fec73603450e97048a5cc9eaed30e9d0e485a097a4ab7aea465a241f4",
+      "135bbc8de5fe925bdd5803086849f1684dc05ddb63cc9e9a0300b5920c83b45a"
+    ]
+  },
+  {
+    "episode_id": "simplecast:417d6875-3e87-4aeb-894c-3dc096f3a14d",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The firm uses technology and a network of collaborators in its investment process.",
+    "reviewed_passage_ids": [
+      "66cc2fcf9b21b7e72b731ae52198d95a3dbc3ad9238b3e1e8fa2535dc3c72dc7",
+      "cc68ce1da80633aa77b40276d0ba0156a49fd0ce11d909094c1b4a0ad103080b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:9d8c8145-dbf2-4001-8013-b1cf42f2d74a",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The discussion follows how limited partners choose among different managers.",
+    "reviewed_passage_ids": [
+      "f76e1895beba3e215c11ecb500232e378693ac020f501c56f27c3166483613ff",
+      "38da72e703f88769a54ee216b5c7bd3230f1c6a6a028cbf58c13f9bcb1f53953"
+    ]
+  },
+  {
+    "episode_id": "simplecast:c503ba72-b034-4c49-b2ba-bf55aa5d3e39",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The firm describes its pace of investment and how few companies it takes on each year.",
+    "reviewed_passage_ids": [
+      "001910d3aba3e01b4a567c43bc2e2a32dd46fcfeca24e11e20ec7cef546e8f9d",
+      "313fa155cfe9a8ae1c238d08741fe17a5f8c30f8c0b29a1a23c0c48ce3fd8aa2"
+    ]
+  },
+  {
+    "episode_id": "simplecast:fcb30e08-b756-4688-af39-60a19bac2fc0",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The guest examines who can participate as a limited partner and how fund managers serve them.",
+    "reviewed_passage_ids": [
+      "91d3b5653d1aac22887fe6ff200035275cf20074d3ead65a4cb358e4825014ed",
+      "a7eaaa19aa82fccd1228f9aaa05d11d59d41d0d1e36108d4c25668e832e1d22a"
+    ]
+  },
+  {
+    "episode_id": "simplecast:9d4a40b2-53db-4a9a-90b0-1fd8416551cd",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "Fund size changes the portfolio construction choices an allocator can make.",
+    "reviewed_passage_ids": [
+      "2d5207383ab7855167b65c93c8f6ad82c6e6ea55cc1c938bc4057adf5e067aa3",
+      "2dda0c1da79ced65aeb7647257e24e4442ef7f88e12e8fe5553091da30f0b666"
+    ]
+  },
+  {
+    "episode_id": "simplecast:80ee24fe-418b-4010-8388-598e0d615757",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The speaker explains how funds are qualified for a fund-of-funds vehicle.",
+    "reviewed_passage_ids": [
+      "2c328f670995bf4bbed5bf1d24640853e232e7aabf323df8bd7ecf5b4e5e3483",
+      "bc4d03a05a70f4208544f94d6903cc4ed31c657e1547cbbc44e61f47e3386d8c"
+    ]
+  },
+  {
+    "episode_id": "simplecast:681d3510-0750-4163-aa07-52c975391de5",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The guest compares investment vehicles and the time required to realize returns.",
+    "reviewed_passage_ids": [
+      "20d8c3f4e63635ac32ff6635ba163a35666d3f2c649cba86a0a74842cba42127",
+      "73a0bca117e85e34028f567dbc7cdef92c66ccdf66c4cc55bc195a1dc78e1591"
+    ]
+  },
+  {
+    "episode_id": "simplecast:d8575018-ca1d-4be3-ac50-22e0b1e02c0d",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "Access to venture returns requires an LP to evaluate products and managers.",
+    "reviewed_passage_ids": [
+      "c68ca26bf34e4ba80b70dcb9b819c700d8688b236216821ca155549a17b91e80",
+      "1bd5f53ddc5e560dbe1c350210a011b0ace25b28a372641fa1e4fdfb0d4aa3ce"
+    ]
+  },
+  {
+    "episode_id": "simplecast:40a4e066-c609-40de-a83f-fbd345cfaf55",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The guest explains why the firm prefers a concentrated, partnership-driven investment approach.",
+    "reviewed_passage_ids": [
+      "6d15b712af7b2643a073c2209d7f2382a7ce0f220bdb2cc53338bb3ae269c14f",
+      "d22190040416ac91b2285984333af5b451fd99d191ac49b8974d8e978271e879"
+    ]
+  },
+  {
+    "episode_id": "simplecast:081f2210-b721-4e7b-9c0a-e86d91a259f4",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "A later-stage investment through an emerging manager illustrates how the fund gets exposure.",
+    "reviewed_passage_ids": [
+      "822c324e115ec0276a47b277e8eb25ba48552fb5ea4c003d93639a70708c2f81",
+      "87ec4202ef6bd262b662e23691f1b9f3de8a967920ebe72e3838fdcdca0e48af"
+    ]
+  },
+  {
+    "episode_id": "simplecast:18e74102-241f-42a7-af35-b35c0e410dbb",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "Emerging managers face challenges in sourcing and raising a fund, and can co-invest through VC Nest.",
+    "reviewed_passage_ids": [
+      "175343561423c1867442985ff1bbd9de9e5d34c8372d3ef89dc00e5089cdd3ec",
+      "9d8f4e48affd212ad71012d1e2d37cf2b7b5660ecab2c2ac8f74594e7ad8fcc8"
+    ]
+  },
+  {
+    "episode_id": "simplecast:b49d0de7-0578-4487-ae8d-9d3e17691075",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "An emerging-manager portfolio needs its own construction and selection criteria.",
+    "reviewed_passage_ids": [
+      "fcc8be22bdf9655360a1e51303a2889a497b0d63f4a3fa358a180b5a764882f0",
+      "34dd5e8ee1823216897473477205e3ac1949f11ee348114f54b6d5ea89121e75"
+    ]
+  },
+  {
+    "episode_id": "simplecast:fa693df2-5ffd-48ab-8eeb-dd1fe8224b48",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "Secondary buyers describe how they find liquidity opportunities and negotiate with sellers.",
+    "reviewed_passage_ids": [
+      "0848de7fac6c0209174b7ab202624deb218589b73cc64a1edf9674985bfe1c07",
+      "5d7d363c001ae3ecfa3f07a9a3cd014f60a3a0ad3db7c2e1340638152fe13f21"
+    ]
+  },
+  {
+    "episode_id": "simplecast:d7878b46-2288-416c-a75f-9ff9a13ca530",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The discussion examines how fund practices affect participation and investment decisions.",
+    "reviewed_passage_ids": [
+      "231247dec444588cdce66554e8897608dfef9a34046c18dc42accaec5358e4d1",
+      "8c7f589e66c210514d80b4bfaf771868b2f0e0d9ace1a7d271d97531280bfee3"
+    ]
+  },
+  {
+    "episode_id": "simplecast:ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The investor recounts a backing decision and the relationship that informed it.",
+    "reviewed_passage_ids": [
+      "757906b0c614f335e6b37ae4eb7554e4f2a6dfbd90a63256eb72ac2a8323fec8",
+      "59c3bdd7e5fadac1c85b2e984ffd081ad6507f31fea1e0cabb159d3e4d922aaa"
+    ]
+  },
+  {
+    "episode_id": "simplecast:f909f265-f3f7-4af3-98d6-28164b87ae27",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The investor explains target discounts and how secondary transactions provide liquidity.",
+    "reviewed_passage_ids": [
+      "a774bbd154531b07966668b5e0a043843bdf699362482bb83c11a4f9f2a8fbcd",
+      "2f3e39b5f9bf1bc92cca7e24be3ca06271a8ce5cf18cf606e079112f527d491d"
+    ]
+  },
+  {
+    "episode_id": "simplecast:4a5020ba-4b99-447d-a4b3-4f7ba206012b",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The guest relates a changing exit market to what an LP should look for in fund managers.",
+    "reviewed_passage_ids": [
+      "25a6002db43c32881e55a2a70954774734b05e9ca1aa21ffb9951dda4aea0479",
+      "6e3a7dfb8a66e576e90d5c2841275866e5c04c2dbc9599d40b9177a0187a2ee5"
+    ]
+  },
+  {
+    "episode_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+    "category_id": "cat-02",
+    "strength": "strong",
+    "reason": "The allocator describes how emerging managers present their strategy when seeking capital.",
+    "reviewed_passage_ids": [
+      "7f62e7ef85540128a9bf3a9f3d777c3b0f4a7dce7ebdc96c2795427cceddd25a",
+      "7f153e1fedbbee0bf49f9ad5df0f230d5c0e468ead723b715a6ce2b4aa150070"
+    ]
+  },
+  {
+    "episode_id": "simplecast:e3c4099e-4825-4192-8501-131c8bbfe5f0",
+    "category_id": "cat-03",
+    "strength": "secondary",
+    "reason": "Proprietary technology, market size and eventual defensibility inform the assessment of an early idea.",
+    "reviewed_passage_ids": [
+      "a3cb2c764f73b296dc39b590d4f957a99d116e662c94db03eb29efa84a9cd28d",
+      "89b384f674aafa5d77ea2cdbfa9ee591f83942258064811512aefd5dc3ec4bd6"
+    ]
+  },
+  {
+    "episode_id": "simplecast:f8dae3ec-a41b-49fc-a80f-a8a91eedfb99",
+    "category_id": "cat-03",
+    "strength": "secondary",
+    "reason": "The conversation examines how a founder’s experience with customers can establish founder-market fit.",
+    "reviewed_passage_ids": [
+      "11699bbb908d5bd7ffb9f0b4e3d4f94b8ae26fd660e96511505b8a3d957bbe14",
+      "9891d4511379057df8e260444ac71abff4d021dcdd2c629ee7e060d58880a814"
+    ]
+  },
+  {
+    "episode_id": "simplecast:078d2402-0f24-4783-b7bc-524ef644b71b",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "reason": "The investor describes why knowledge of the whole customer experience matters in solving water-industry problems.",
+    "reviewed_passage_ids": [
+      "c959eaf7cc77d7a59cf8d8f98fab32a1c4a28e30fabbab9a3a6f8e267e9a0a55",
+      "b2475991d10cfc58fe75e60e90026604f7a2ce09377b005cd97669cf1cbc3d7b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:5e1ed233-d1b8-4c83-8904-4f6f9341304f",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "reason": "Customer interviews help reveal how well early founders understand their ideal buyer.",
+    "reviewed_passage_ids": [
+      "5fc4eda9196f17faec96b28ffa9572f1b400892f9dab6f3eda6b8dc5ce40b89c",
+      "ce957e99eea2e8e3eec5dbcf3799b48cf3c71ff2a9b98bf89e2c228b608ed377"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0e4b848f-10b1-4700-8d11-5237d97501e8",
+    "category_id": "cat-03",
+    "strength": "secondary",
+    "reason": "The investor asks whether the technical distinction matters to the specific problem the team chose.",
+    "reviewed_passage_ids": [
+      "2789b13a11cf99f2c5ede2731fa54d97846b5a35181a2c9ff2bf7069c70afe2b",
+      "dff1d6dd9f02c74240cd23cf800f7b17e0a082a87f981d3f15ac14a2c9a12b01"
+    ]
+  },
+  {
+    "episode_id": "simplecast:019bd30d-ddca-41fa-a2db-18d34a7bc743",
+    "category_id": "cat-03",
+    "strength": "strong",
+    "reason": "Talking to potential customers before building helped test an AI use case.",
+    "reviewed_passage_ids": [
+      "383b1f9af10d6947fa0e5766ffa53e8903ccc081089e8b5f2f1fe38fc11212aa",
+      "04a7e05a1d18eaab417afba0aec43dbe3d8cbc855d009b181c31ad5fb1583dca"
+    ]
+  },
+  {
+    "episode_id": "simplecast:5268ea16-e232-4b5d-9bec-95c444c049ae",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "The hiring anecdote describes the guest’s own recruitment and the second example concerns investor commitment.",
+    "reviewed_passage_ids": [
+      "fdfd19c23838429fec9b6111ecefd4945f42a8e6f2c41eb0470245aadaea2899",
+      "2e4a7155eefe538822e26aa243227ee8fd97692a3e8a16a879d678cf24a9aeb7"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0971b5c1-381f-4b0a-af5d-9fe56ac41984",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "reason": "The speakers discuss founder self-awareness and responsibility for difficult hiring decisions.",
+    "reviewed_passage_ids": [
+      "cbe9c8bca7f7273558b609719535d8e35369942a5d1a3c6e74463c57a8e323b4",
+      "75e4cb5073a007dd9835a9e524f742eba68202a7f59c1a24349e8cd37a3b4737"
+    ]
+  },
+  {
+    "episode_id": "simplecast:44654700-4cb0-4cae-b376-20c688c2dc0b",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The conversation considers what turns a founder’s bold vision into sustained execution.",
+    "reviewed_passage_ids": [
+      "e12d213bb75f5699b31cea5bdcb55a30aae876d1891219575cd2e7a9b5a95555",
+      "a5d45407be06e6d4a15cafce56d8d47683ed81489e2f3bac7c78da5089e94434"
+    ]
+  },
+  {
+    "episode_id": "simplecast:e9a6d472-8cfd-4700-a126-bf5b536144f9",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "Hiring must be accompanied by organizational structures that support the growing team.",
+    "reviewed_passage_ids": [
+      "d349e6a07e14f6911026433dda5af6cb981d238d7ae20cac36527f19e423df3c",
+      "2a0f186c74032c68c4b7c617801decbcc1fd93bbd2ef47bd0cc9eb5e47c18d2d"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0252e838-a14c-45b8-a881-192e12dccd3b",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "reason": "The guest describes persuasion as a leadership skill that extends to hiring and business development.",
+    "reviewed_passage_ids": [
+      "40c69d21c94bdfcc12220dd9a64f70eada38115fe7fdaeaf45b3a98bd12323b2",
+      "570c317ec8a51e867a7aa4792bcad7ab1c1a4321bd7f9cf17d914614a7ecb7f6"
+    ]
+  },
+  {
+    "episode_id": "simplecast:76a6eb4d-68f1-438c-821d-4bd425312c58",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "Persisting through setbacks is examined through the example of Qwick.",
+    "reviewed_passage_ids": [
+      "0d53b08acd431ccec866048120cbe805bc0bf37ce0b519ecc3122fd39a1f75ed",
+      "38fa0430fe1d258f3440a2f131012e1987275260e839d408f7cc7176037877cf"
+    ]
+  },
+  {
+    "episode_id": "simplecast:b291d4ef-8c94-4de8-951a-5b61ca8231d5",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The discussion considers the commitment required to leave another career to build a company.",
+    "reviewed_passage_ids": [
+      "c43c3a862376124e61fd5d371da06ec184804fc491504d1bca545e57b9410362",
+      "607183be1040b11582012303ed055c5a7588cdf2615f2c8811025c4d929a443b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:a551824a-d926-4a44-814a-f6520d5ce9d2",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "reason": "An operator draws on political and business experience to explain the importance of hiring capable people.",
+    "reviewed_passage_ids": [
+      "21079596dda648a564cb9f64d7b6f40c3c476ed7696a5c51b14067a1cd83c229",
+      "537f0032c22d967fb95bce873c7f854fa78cefe0681a134c5a5303c38dcfb224"
+    ]
+  },
+  {
+    "episode_id": "simplecast:cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The investor discusses self-awareness and other personal traits observed among founding teams.",
+    "reviewed_passage_ids": [
+      "d6094b9a0f976899d4822540f5f7b5f198f23c951debe7270fa13592cd8a6041",
+      "9bb8f67837ceeacd70129b2b4f9f3204c5459095e6113e519df04affca5314ca"
+    ]
+  },
+  {
+    "episode_id": "simplecast:a03fb587-6ec7-4204-bb70-4a55623b1c9a",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "An investor describes the value of helping a startup avoid a bad hire in a critical role.",
+    "reviewed_passage_ids": [
+      "00a74bd0dffca5889552606e01d81c22063c88007de632a8d6914d77480c8d4a",
+      "db60399f53630a3e17f29819200c18e81f2e0f2ab23318af8f1b838fa85885e3"
+    ]
+  },
+  {
+    "episode_id": "simplecast:8b3723c0-58f2-4956-b3c0-8ac90aa734b5",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The guest connects influence and team development with the problems a founder brings to coaching.",
+    "reviewed_passage_ids": [
+      "85f2add1d72df5a7e2d5590a99a0811ded2f4a70d6ab28ee21605255b3924d09",
+      "5763c39e312f0792db89c8410a60496d9dc7b67d9deafda7156a25de05908bf5"
+    ]
+  },
+  {
+    "episode_id": "simplecast:fac1ddc0-8d4a-4487-a8fb-aadc6e92527d",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "reason": "Recruiting technical leaders shaped the early operating team at Corvus.",
+    "reviewed_passage_ids": [
+      "e43bddf6bcf06f75fb214946e3d847fc9fb1c67650c550694a6e28e3e6c7115e",
+      "d746b1a0ba3250ce2318793bc4f7af298cca811872cd1d3d6d4f185e8f563093"
+    ]
+  },
+  {
+    "episode_id": "simplecast:2bb87782-f94d-431f-8134-41edd3c7c735",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The speakers examine how an environment that tolerates failure can encourage people to become founders.",
+    "reviewed_passage_ids": [
+      "d5912a0b03012993a8d5e0f8082d147beaddecea024f8898b832b63d22ee7fb0",
+      "f57fac3eb5b6522e5f741edaf154305161ec28ff9948d69e1a242fdc9488face"
+    ]
+  },
+  {
+    "episode_id": "simplecast:c14463d2-d6a1-41ac-88d2-a5c916c50441",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "reason": "The investors consider how founders hire from overlooked communities and handle debate.",
+    "reviewed_passage_ids": [
+      "a0ed6741230c833f9115d1e30d5f054ba6cb9c4df5ee7251ff223ff80eb62cc6",
+      "e9c48f2563fb8cdc263a15ac3c0c6c20ca007f2db28666af3f50b9ba005c17c3"
+    ]
+  },
+  {
+    "episode_id": "simplecast:58ee6413-b744-4f39-b3d1-74e8b04aa2a6",
+    "category_id": "cat-04",
+    "strength": "insufficient",
+    "reason": "The cited conviction belongs to the investor and the perseverance example is hypothetical.",
+    "reviewed_passage_ids": [
+      "98e67777673e2b88e222153e01fb46b0c3d79cae27f8692ce1624c9544161505",
+      "d190e03e7e375c9b9e6bd6477d730edb8da0babb70338dd2becc6eacb41d8daf"
+    ]
+  },
+  {
+    "episode_id": "simplecast:dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "reason": "The speaker distinguishes the original entrepreneur’s commitment from that of an early hired management team.",
+    "reviewed_passage_ids": [
+      "5186f5d37ef0a9596a0ce94836cb61bcef5305d8e87eb5bc8265aa5b25d0683c",
+      "a1c2d1f269b141ac134bc8338edc21e99858ed130b2843820b13e36f5f406dfd"
+    ]
+  },
+  {
+    "episode_id": "simplecast:019bd30d-ddca-41fa-a2db-18d34a7bc743",
+    "category_id": "cat-04",
+    "strength": "secondary",
+    "reason": "The guest describes learning from founders and supporting their mental health alongside company building.",
+    "reviewed_passage_ids": [
+      "ae07274b32f9c4f9a58a2af2e4fd856df6a634645024ff873501adeec2c1e3d4",
+      "b401ea1e2c62a77176a1cf90a39f5a0af3b32d5a9bf57596556d69cd8ecd3821"
+    ]
+  },
+  {
+    "episode_id": "simplecast:9827af17-5de9-470a-a6b9-d2bf0c001fb3",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The founder recounts having to dismiss engineering hires and managing the obligations of leadership.",
+    "reviewed_passage_ids": [
+      "d9f66f67a35abe6b47025a49092a148c6689b88eee7138f979ab338d637966ff",
+      "70c58e8e9d43ded969fc9c94523a06655c12059215d053484ab506ea9ec2d96e"
+    ]
+  },
+  {
+    "episode_id": "simplecast:4b3f3f86-fc3a-41d8-940f-b7b619b896e4",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The guest examines how sustained curiosity and commitment show up in mission-driven founders.",
+    "reviewed_passage_ids": [
+      "ff44e9918899fcaa21f8421c1455fcfcadac448dac8106454aeb601d00e7d5c6",
+      "d1c7b7d1cd064867184d0cf6be2a9a11cea74bd3cd3ab79b925a9f566c6cc589"
+    ]
+  },
+  {
+    "episode_id": "simplecast:f16996bf-c8e5-4ccb-81ef-3ad4ca5699f5",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The guest discusses building culture and choosing people who can adapt to changing work.",
+    "reviewed_passage_ids": [
+      "d36ac1ee5cf153d9073e733db5e1fc94f639d7ee9a05e6b7d7374b4b586cb90f",
+      "e30b5c449302b9209daa58dde9d244642a89d8a93025531bd6519c0083542477"
+    ]
+  },
+  {
+    "episode_id": "simplecast:ff0bef5c-7257-436c-907a-3f16a7f36691",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The speaker describes leadership as serving a team and hiring people with stronger skills.",
+    "reviewed_passage_ids": [
+      "f53a96ae6f3b8a8a5f0c9704a558464931ec720aae84819998354d1f7366e487",
+      "69c78b4b7d86d2f23efde82c4e5131484287f02e4150f33fa65644989de2799f"
+    ]
+  },
+  {
+    "episode_id": "simplecast:79b1b5a3-fd8e-410a-803d-9c48b446b6c7",
+    "category_id": "cat-04",
+    "strength": "strong",
+    "reason": "The accelerator describes the character traits it tests before there is a fully formed company.",
+    "reviewed_passage_ids": [
+      "5e0f5c0da8d5286001f687fab52dfbd5d3aa1ad6c55b613dabf6206e1175b7c6",
+      "e9d7288dd46aa993b3e2ec8de493309980f4f82d24d7f5a966708255947e76dd"
+    ]
+  },
+  {
+    "episode_id": "simplecast:f8dae3ec-a41b-49fc-a80f-a8a91eedfb99",
+    "category_id": "cat-05",
+    "strength": "strong",
+    "reason": "Discounting below cost illustrates why a sales model needs sustainable unit economics.",
+    "reviewed_passage_ids": [
+      "880b164ee65a3207d4de891f489f083e0e7215082528a7113bc044e51fdf69e4",
+      "0d374e3552e89e478899e14e41898ae40635fcca8ff7c86dd7c5fb1d72cd5a76"
+    ]
+  },
+  {
+    "episode_id": "simplecast:6f5048a7-baa5-42c7-b272-89994adf52f8",
+    "category_id": "cat-05",
+    "strength": "secondary",
+    "reason": "The healthcare software discussion identifies the commercial work needed to turn a product into a growing company.",
+    "reviewed_passage_ids": [
+      "715a9c479ab11ea586d2e3b34b30bc40cc3d5a6788c71f74dc14f4354e1c5425",
+      "b38ca25e931057eb31d8b7aa68fd70f3b0bbdba6aa8e7badbe1671fe3c0cb882"
+    ]
+  },
+  {
+    "episode_id": "simplecast:bbcf3b5b-9d87-4cf7-8434-31fded782cb0",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The guest describes a marketplace connecting investors with deep-technology startups and experts.",
+    "reviewed_passage_ids": [
+      "fe844ef08b029b15347f131147ce5c8dd4657223c556f8daa613835d9240872f",
+      "339beb25ba80d0eea65470670132e2d4a2bb33128d9192bc284875163b55ad32"
+    ]
+  },
+  {
+    "episode_id": "simplecast:36d4154a-47a1-48ac-8dfa-caaa80ca0cf6",
+    "category_id": "cat-06",
+    "strength": "secondary",
+    "reason": "The discussion examines what an AI model can learn from a large training dataset.",
+    "reviewed_passage_ids": [
+      "2a5f26a1e8c1a9bd85e118437f568b7d21ac35cf60a70861239cbb060d50e334",
+      "574aee1b03e9d2a5b09630043f505c0887aefcb1406028b51e5e9843bd7d94d5"
+    ]
+  },
+  {
+    "episode_id": "simplecast:21e549e1-9edc-47e4-86b5-94c706f841cf",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "Selecting the right training data is presented as a practical constraint on machine-learning products.",
+    "reviewed_passage_ids": [
+      "ff527c46bce3956898ff5ab943dba3eb3fad3cf984cc3630c986d71eaccb473d",
+      "55820161ae8bfe1847ebeac47d95869f9cbf6924f7cd63d669210b83392ef9f8"
+    ]
+  },
+  {
+    "episode_id": "simplecast:80dbc636-4c29-4356-acf4-6155640f3d79",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The investor identifies kinds of deep technology that can have the financing characteristics of software.",
+    "reviewed_passage_ids": [
+      "2168d50bcf9def95ccbad34c438f7bda162bb285250ff68a7c93eb9bb03260b3",
+      "e90e0929fda9eeb2e19fba74a59c1fc0acb9cd39dd2d88e6d5db60ce4d778092"
+    ]
+  },
+  {
+    "episode_id": "simplecast:16a3d101-e4bb-47ad-b465-faf33aaf56c5",
+    "category_id": "cat-06",
+    "strength": "secondary",
+    "reason": "The discussion describes assessing technical expertise in deep-tech teams.",
+    "reviewed_passage_ids": [
+      "9fe757ceda18436f17bda65174fa563f075c912e80b70060dfcfecf8d383a98a",
+      "5e781b8aee439538096133601f89031bde52d057381e048d72dd77047ccf25cf"
+    ]
+  },
+  {
+    "episode_id": "simplecast:89cb85c5-59a2-4f7a-ae93-274ab677a8f9",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The guest examines the specialist knowledge needed to evaluate early deep-tech investments.",
+    "reviewed_passage_ids": [
+      "1de05ce070ccfd09c348b4725e89e6fa22aece5cd959bbaf0be20ce557b930e5",
+      "32e8792c8bbafbc08811530155e814bb2b218699418c1c36156ac9be82c2b1bb"
+    ]
+  },
+  {
+    "episode_id": "simplecast:ba4e84c0-33e2-4b67-a128-ca5fd4f7c368",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The founder considers an API as a way to make a new AI capability available to others.",
+    "reviewed_passage_ids": [
+      "0d0c0f147b5c6516670d1c6ffcd415330b2fc1dbabcd0ef6716b4f28d8a63c79",
+      "525defa50c565423e5f7c65d312807c06cb578a2744415a6075cd2e16774a23c"
+    ]
+  },
+  {
+    "episode_id": "simplecast:6f5048a7-baa5-42c7-b272-89994adf52f8",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "Healthcare software provides a setting for comparing AI-enabled product development and infrastructure.",
+    "reviewed_passage_ids": [
+      "811456ba061e296fea2424c51a2d111457847135c0501a8e953c9a7606b481ef",
+      "b0fad783640de930e26b29afc4ebe4a4846a72b56c7d726643b824b5e2b00a82"
+    ]
+  },
+  {
+    "episode_id": "simplecast:6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The guest describes building AI tools and the early users they targeted.",
+    "reviewed_passage_ids": [
+      "b4c7d5ff5ac2fae24d57abfa7de835068ecb8b2266724eef99d6f5e20bc872df",
+      "cd54d8987f6111cd5927ebb8d0f56040b9e66aae9fdc18682dd901f47170d7c6"
+    ]
+  },
+  {
+    "episode_id": "simplecast:fac1ddc0-8d4a-4487-a8fb-aadc6e92527d",
+    "category_id": "cat-06",
+    "strength": "secondary",
+    "reason": "An insurance operator explains how software collects data for machine-learning applications.",
+    "reviewed_passage_ids": [
+      "dc3916c2998105d3e6aa167a36012699cc24300bb23ef91982aa1be4485857cf",
+      "6ecdf8e040ce5a341c5c1d48c42e852aab2e59da5382d85acc8938bfe7b239a1"
+    ]
+  },
+  {
+    "episode_id": "simplecast:12549d0c-c060-486b-aaa1-8d21add096eb",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The guest relates computer vision and AI infrastructure to the development of new products.",
+    "reviewed_passage_ids": [
+      "75502965006f4ccad75c186ff0d4dc6c0a0a81ebc4f020ff5b499a7d9e8029b1",
+      "87c4acbac6b341f2cd73f557aaed4728b2c717d31c41143e51a1f7d4fe3c1068"
+    ]
+  },
+  {
+    "episode_id": "simplecast:255a3a22-8931-40a3-a4d1-e93a53d0fd6b",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The conversation examines how generative models differ from earlier applications of AI.",
+    "reviewed_passage_ids": [
+      "df0d1712c8f3eca7359ef7ddda6f79e614eb3ecdaa828e9a93b3378943e5fa5c",
+      "1afa8ed34fb0fa1a3ee91f5b8f73984926398fd3e5cd8698110001ce3b71fc61"
+    ]
+  },
+  {
+    "episode_id": "simplecast:58ee6413-b744-4f39-b3d1-74e8b04aa2a6",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The investor describes using technology to discover opportunities as well as investing in AI companies.",
+    "reviewed_passage_ids": [
+      "b855186bee31acabf7ef54f1026f57b129d1fef768b9a532c0d02dfa516e4aea",
+      "8ca377c286572ceb0f1def5e5c93ada4eb5d283edacc4a930d614f3ed9a291ca"
+    ]
+  },
+  {
+    "episode_id": "simplecast:12586092-9184-4a29-911a-0860f57cd464",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The fund’s thesis concerns applying AI to industries slow to adopt software.",
+    "reviewed_passage_ids": [
+      "32f09d85d1f8ea04a59c255f05d9179fa1b4be321a987b27375e0f2d8c0806e8",
+      "7c3d76ffdebaa31b93dc97d75ff518be36d79882e8fd05f8ae718013a7305451"
+    ]
+  },
+  {
+    "episode_id": "simplecast:019bd30d-ddca-41fa-a2db-18d34a7bc743",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The guest recounts building a generative-AI application and confronting its cost structure.",
+    "reviewed_passage_ids": [
+      "44dbb09295d5e0b338e679e6c94ab4bd1e228dce9252fe9340ebac198676e6a7",
+      "418d9bc1602df8a056d31392e2c2c41f55fef4e768df54a0c8bfd088a222b033"
+    ]
+  },
+  {
+    "episode_id": "simplecast:f8875336-c5e4-4c7f-a215-d246e95ec3a6",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The investor considers whether commercially scalable businesses can help address AI safety.",
+    "reviewed_passage_ids": [
+      "5f9c69798c205845da043364be8d63e61fa52290d3e3217b5555f7c2febd1eb0",
+      "59f0b179c1b252cbe0422aa2d0c8157c0035fdbbcc0708e2b569a564b2cbd3d1"
+    ]
+  },
+  {
+    "episode_id": "simplecast:6640ce0b-4e59-4b38-824c-80ce77ed7c7e",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The guest describes opportunities for automation in restaurants and data-driven crop genetics.",
+    "reviewed_passage_ids": [
+      "6d8c455924de1646f3917b5282c5b5a4dd223a4d01f46b162c0433fe4d6a91db",
+      "7232e6b4f09db22de8c912b3ddd1118cce0d83c81f5e92642c71d282e5a46885"
+    ]
+  },
+  {
+    "episode_id": "simplecast:5321b62f-dcfb-4566-a943-032aceaf2b38",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The speaker considers knowledge representation and the work needed to apply generative AI in enterprise software.",
+    "reviewed_passage_ids": [
+      "a35fc32e1d8161e4b11247280d689ce839de32d3e46326217a6f0da69297545a",
+      "1d07c0232b24551d6564fd9cf1d5674d14ea0dc30dd877394655a944671a201e"
+    ]
+  },
+  {
+    "episode_id": "simplecast:9827af17-5de9-470a-a6b9-d2bf0c001fb3",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The discussion examines how high-quality data changes the kind of service an AI tool can deliver.",
+    "reviewed_passage_ids": [
+      "6b545aab8347202b4716ecc457959be5074cc3d9237bcf7c197af4e08418e763",
+      "afd5cacc3179fdf6a597cfc01fe0fdf8f8befa0641c708810d0b13cbd2070683"
+    ]
+  },
+  {
+    "episode_id": "simplecast:886cd152-35d0-46ad-b7cc-791ce4aa2048",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The investor discusses technical capability and adoption constraints in blockchain markets.",
+    "reviewed_passage_ids": [
+      "d85031bbd4f05d71176ee7534a297a4cd28bf6df596b9b4aec05fa7924665692",
+      "325a97bdd04486e61e71851a90482e762d53e89daf946ade34e90eb3b9312b00"
+    ]
+  },
+  {
+    "episode_id": "simplecast:ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+    "category_id": "cat-06",
+    "strength": "secondary",
+    "reason": "The insurance investor describes how AI changes what customers can do with a product.",
+    "reviewed_passage_ids": [
+      "3fa78527a4670e4dbabb5c59e9ed5118c0565d3e730709b5f7f3ba118b0bfaed",
+      "45dede58c074167ccf86f74d3896bec8b547d167f184b1fa59181873c092ba94"
+    ]
+  },
+  {
+    "episode_id": "simplecast:f909f265-f3f7-4af3-98d6-28164b87ae27",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "AI infrastructure, development constraints and economics shape the speakers’ assessment of the market.",
+    "reviewed_passage_ids": [
+      "5906f02ac73752047b398e0d74df8e24f1c2365bf1928da717a02f2ec073dc58",
+      "b6c57c11917d00b264665b64392f94b6a19f927f0c1d5c25f2da46496c38ffc7"
+    ]
+  },
+  {
+    "episode_id": "simplecast:f16996bf-c8e5-4ccb-81ef-3ad4ca5699f5",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The guest discusses building the application layer for AI-driven products.",
+    "reviewed_passage_ids": [
+      "938302ae3b52a462c6e3d927e68956c264c3d4defe3d3401d38aad43d6d7a1cf",
+      "e877ddda0b78857562ca439b233be47de3b1ce2d0ee0441fbba5956f792f4a2d"
+    ]
+  },
+  {
+    "episode_id": "simplecast:3e85baa8-93e9-4af1-ba9a-f850036714a4",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "Connected sensors and robotics illustrate the convergence of physical systems and software.",
+    "reviewed_passage_ids": [
+      "9cb41eed13b53fc83a3885a2b3b8c37a4733f856886eb75bcb6929a7ae2b573a",
+      "18bb73324e339266d1745021157487e11559402015c40bd57183aaf0d6d7036c"
+    ]
+  },
+  {
+    "episode_id": "simplecast:26fe7470-0a22-4d8c-808b-ed7f03b3cf84",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "Machine learning and autonomy are placed within a broader investment thesis about risk infrastructure.",
+    "reviewed_passage_ids": [
+      "7e3447f42509380e775ea9b963a452192d33ac95bdfe96f47b271f725921e598",
+      "c73ef3e65bee567457293b881e40c3a2ad4c3fe09ca71451a01727ea53508e22"
+    ]
+  },
+  {
+    "episode_id": "simplecast:856da7b2-3fe0-466f-9b88-7d9360772e83",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "The speaker describes opportunities at different layers of AI and an example using computer vision.",
+    "reviewed_passage_ids": [
+      "f5cddba86e6dfb12cfe1ee064cebee0fdab2ff369a9c755f647e3746b1ac5e4e",
+      "b9fc1674b63488f6ed55613b8f9de2237618cc5ee760a6db6e668ab968ce4e3f"
+    ]
+  },
+  {
+    "episode_id": "simplecast:254fc97f-8c85-4d1a-bc84-0e230ec99cb5",
+    "category_id": "cat-06",
+    "strength": "strong",
+    "reason": "Robotics in warehousing and AI-assisted application development illustrate changes in physical enterprise.",
+    "reviewed_passage_ids": [
+      "2dde6c2bf17bc31afb0a671ca34f7f2beeb3645bb70e9320b6af47f42c78d7e9",
+      "ccd557ae1bcf584d2a453d983e3a74d63064d0d958e4c75cd6a18ddfbfff7aa3"
+    ]
+  },
+  {
+    "episode_id": "simplecast:7ea282e7-771d-4b03-9799-f5261664c249",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The fund seeks technology investments that change how consumers access financial services.",
+    "reviewed_passage_ids": [
+      "a718759bc53642550f44d3537f1b82ca296906ec4d89a756b53509054eca675e",
+      "406355f3aa6f1f2aa7f721f624b956f7ef9add651518f1125e49b34499b87268"
+    ]
+  },
+  {
+    "episode_id": "simplecast:53a4a78d-1104-4289-97dc-734a3830c466",
+    "category_id": "cat-07",
+    "strength": "secondary",
+    "reason": "The guest describes recognizing a financial-services opportunity inside an apparently different kind of business.",
+    "reviewed_passage_ids": [
+      "47a25e83bd5ca43c4bf1709b988df481f3f6c3fb496cfab0ca44c5b1e81d39fe",
+      "1ea93254482f9a0e46ca6765712530e67a0db3cd50799832313c848437a4fe78"
+    ]
+  },
+  {
+    "episode_id": "simplecast:18b641ff-352a-4254-b16c-067b3faaa4c1",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "Consumer-controlled data can change how customers compare insurance products and coverage.",
+    "reviewed_passage_ids": [
+      "23765a9a7ea92823bfc2a696947f02ec402fbfcc2d80a31b0fca1dcea452c2e0",
+      "6efa53e24523950bd47caef560348a4fad74116a5cf6b783e3d06213d8f6af44"
+    ]
+  },
+  {
+    "episode_id": "simplecast:1620afec-0217-4849-b40f-48f1749250d1",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The conversation examines how customers can use their financial information and how incumbent institutions participate.",
+    "reviewed_passage_ids": [
+      "7d67ab84e3298f78e4c5764605fbf4f6745003b6d854cdbbcb4b9133affafa3f",
+      "d8e904a34a64b3b507055535154dd545ab9e9e8c43f61e8de6b2ee5fdcf9ca52"
+    ]
+  },
+  {
+    "episode_id": "simplecast:e15d1342-a65c-47e3-99fb-c2af2adfbfa5",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The guest explains why a growing range of consumer offerings can incorporate financial services.",
+    "reviewed_passage_ids": [
+      "392c9d5b099080383c3e09109db51ad19e08f64d60856bbe1c0c655afb64b3b8",
+      "9b42350abb3745d0ca78018a1d00103d8c264e031eb6eba6d48cd12fdd0b1d9a"
+    ]
+  },
+  {
+    "episode_id": "simplecast:1abcbdea-d690-4d13-937f-8a09c61b7db1",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "Lower-cost access to a wider menu of financial services is presented as a benefit to consumers.",
+    "reviewed_passage_ids": [
+      "a419e4f3ffcf3ac45ae09d8cdeb47ecb5f23b6fbf72926ef7eef90773ab54042",
+      "4a4fcf421487fc2b3b1ee3709f14a879356a71d7a0806ca2babc230b2e8e41b3"
+    ]
+  },
+  {
+    "episode_id": "simplecast:689454f3-0441-4a75-bb07-1ce40c47a247",
+    "category_id": "cat-07",
+    "strength": "secondary",
+    "reason": "The founder describes exploring how technology could change insurance distribution.",
+    "reviewed_passage_ids": [
+      "b3094da829e91eeee60166e2417ab3935299f78b0572fb28c5e01fdeb551bca5",
+      "c92d4298fb3314687e9d6fcb8db64d816b6839d58afee4c00442fffec4e1f3b4"
+    ]
+  },
+  {
+    "episode_id": "simplecast:1d53d843-3a7d-4326-8dc5-034817d856d8",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The discussion distinguishes technology for carrier claims operations from technology for selling policies.",
+    "reviewed_passage_ids": [
+      "29680ec1729b03e2b35338f2077f55364393525b35c00bf90f120a5924dbfaca",
+      "25bf336f19556348caa1851c4e7b5971894b07a0af0825a30a6d3bcc90db9f23"
+    ]
+  },
+  {
+    "episode_id": "simplecast:ed30e169-559a-46a8-8b57-3a3701614a3f",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "Banking and insurance infrastructure illustrate how fintech companies can build advantages using data.",
+    "reviewed_passage_ids": [
+      "8d63d5254ccaef5c76330b1cb96ecb43f428c5249ad46a1341c440bc0e98192d",
+      "00350a833eb7535815cc2a09291eae28fc6c559d734d227dc85bec9ec06767e0"
+    ]
+  },
+  {
+    "episode_id": "simplecast:b89bf0a3-0c34-4df6-91f9-9fb043a1db2f",
+    "category_id": "cat-07",
+    "strength": "secondary",
+    "reason": "A free product can change how insurers engage customers and cross-sell policies.",
+    "reviewed_passage_ids": [
+      "b69e10486a3d566f775b3d9e5c42abda9c82a301603bdcfe87d46d9fdb3dcd79",
+      "00c9bf81d2864197517c99507e4a8110ea27ffa4a5d28354e7ccf9d7a99e551e"
+    ]
+  },
+  {
+    "episode_id": "simplecast:194fc0f8-1df1-48dd-8d7d-ccaa9b60bbfb",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The investor distinguishes brokers, underwriting, data and core software within insurance.",
+    "reviewed_passage_ids": [
+      "d9e7e18ba30064099d401cab458e2c4ef1e537e345df7390f06011a92b4f4487",
+      "3c6ca7a3707b5a0db6bc696398e11cbbd2d93b671363a4dfc16dba2f13d0840e"
+    ]
+  },
+  {
+    "episode_id": "simplecast:9d24d1dc-3fac-4a50-bc2e-7f9df2772392",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The guest explains how innovative lenders and venture debt serve different financing needs.",
+    "reviewed_passage_ids": [
+      "d777598a130421515d051f09a70368da1617539098f99aec6787b7aaf54aa5d6",
+      "b003051a06e6a769faca978669a6579a5560790061ecdfd15b39c00819fc1657"
+    ]
+  },
+  {
+    "episode_id": "simplecast:8499e05c-1482-4fe7-afc1-0c6c86b64b7b",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "Access to bank partners helps shape the commercial opportunity for an early fintech company.",
+    "reviewed_passage_ids": [
+      "d5b3b433c4a8c5de1b0b2a647409bc1fd3ff6559fe85cbadd458de6438e16add",
+      "60c1ff5bad5d7cd1bd9f716785826c89b6ac8a8ce55766994d6e5a6dbeae4626"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The guest describes the work required to secure a sponsor bank and connect financial interfaces.",
+    "reviewed_passage_ids": [
+      "eaa693ca43438bb4f55f5e2eb0c04e1943389b07164458d43aeca9911f6dc4dc",
+      "b9624034aaf4198ad94ae8132cb360ea7bdc6fb459d10e29987046d3b3c4dc1b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:1c556dca-dfc1-4398-b890-18d15f96903c",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The conversation explores vertical software and the difficulty of selling into financial institutions.",
+    "reviewed_passage_ids": [
+      "1bab502ffbee8f4dcc32b0acd4d6ddab85450e2731f397cef86a7c71d4d5c3ce",
+      "4229c4ee9058ae0d18a7c733267bc3bda7db426980d474ff4837c1283e32f446"
+    ]
+  },
+  {
+    "episode_id": "simplecast:c2836d44-75cb-4c6b-a239-697e46d7a7b2",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "Micro-insurance and payout design illustrate trade-offs in offering affordable coverage.",
+    "reviewed_passage_ids": [
+      "4ed5cb1fde1f9fa717c8cb986406b8274dc4fd605fbd1eda85901b262c53ea7a",
+      "5b218bac974bf3495511f3874000ae3cbf16fa851f6d366cdd878d7debfd2b0a"
+    ]
+  },
+  {
+    "episode_id": "simplecast:d6d6ae77-93f6-478a-936d-f4c96afdd8a2",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "A banking-as-a-service platform illustrates infrastructure on which other fintech businesses can build.",
+    "reviewed_passage_ids": [
+      "f7d2e38584d9040cf9f84b9f18cd12d8e837907fbef88700000e95f421fb77b8",
+      "8a663903d975e9726593fec19b31b90e784d6bc2b3037c7566244a43f5b1c3ca"
+    ]
+  },
+  {
+    "episode_id": "simplecast:090de2df-ba16-46a4-90f5-e82db73322f7",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The investor traces an interest in microfinance and payments to opportunities for new financial services.",
+    "reviewed_passage_ids": [
+      "313d87ea58a3ff3d23a02e8e9b31d42c511c217314be37370db225e2cde2af85",
+      "209420a313e2f2fbd653d388a87dba743ab7c8fb98f149296550c5e614e4864e"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0deccdfe-e6a0-4e0a-8144-ca8f57ceda2f",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The investor compares the requirements of insurtech entrepreneurship with innovations in lending.",
+    "reviewed_passage_ids": [
+      "5f60bce136aa10bd40dda87ca3eb35658a91433253397e4dfa8844bcaf35bc9f",
+      "a3914c79afa8a7ab9ac5436d20235b98f0f96991b22e9a3d2813c13b6439fe57"
+    ]
+  },
+  {
+    "episode_id": "simplecast:8c412426-d47f-4da3-9f90-6f252d5b15fa",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The guest examines data adoption in Asian insurance markets.",
+    "reviewed_passage_ids": [
+      "f6440e60abc42f573c8963588a6e144641633f794aeddc66d8b7d5183d019a9a",
+      "bb7a918e322995d94c905947ce84145061c36af92b83b7014c9a7702d41c6d96"
+    ]
+  },
+  {
+    "episode_id": "simplecast:a7166503-eec2-4e62-b455-946db1a8f608",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The discussion distinguishes discretionary insurance purchases and the role of risk modeling.",
+    "reviewed_passage_ids": [
+      "7919aed586a4094a83fc4e71705ad2c1c050f37a0fb3741128178ea6b6eea438",
+      "76471860ccb37e2d85b1e973b6cc89bc9c02cdf20fb1c9f31f5f42dad106ded2"
+    ]
+  },
+  {
+    "episode_id": "simplecast:fac1ddc0-8d4a-4487-a8fb-aadc6e92527d",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The founder describes building systems for brokers and policyholders and what those systems revealed.",
+    "reviewed_passage_ids": [
+      "f362340f771e901b987b3dbb7993bfe0a5beae20cd86d5e725080e992e9c4ad1",
+      "6ecdf8e040ce5a341c5c1d48c42e852aab2e59da5382d85acc8938bfe7b239a1"
+    ]
+  },
+  {
+    "episode_id": "simplecast:dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+    "category_id": "cat-07",
+    "strength": "secondary",
+    "reason": "A company connects insurers with pharmaceutical firms and health providers.",
+    "reviewed_passage_ids": [
+      "95037f4e631e50eae180ac49d5713e3603c96632a6f9e5e6723ab36f6a9db958",
+      "c0a0936f3f335304173b1cd1878d6b5a809929f3cc7ecf79b715f20d2da8ae6c"
+    ]
+  },
+  {
+    "episode_id": "simplecast:ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The discussion examines the customer experience and the economic significance of insurance claims.",
+    "reviewed_passage_ids": [
+      "53ec490567a716dab956015bd020d6e2623354a6fc0cb93d773f8360341f9404",
+      "e58a5342d362a041e9b22af9fd82f04e0220ec70e2b44573ed52882860a66a4c"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0b120f95-2e8a-4be8-aa29-fe062e5f1dbf",
+    "category_id": "cat-07",
+    "strength": "strong",
+    "reason": "The guest describes learning from agents, brokers and adjusters before developing insurance technology.",
+    "reviewed_passage_ids": [
+      "fb1dc43e77a80c5d57b2bc7646b9eb7020792f1fe8f33096267f4f79ffcbd161",
+      "afa6e3b18cdf34b16c3b515e4b110d997e105b2ac9e4dc8b6975bac82fc43d01"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0971b5c1-381f-4b0a-af5d-9fe56ac41984",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "reason": "The investor examines how startups can change established sectors and their supply chains.",
+    "reviewed_passage_ids": [
+      "36d8d5129be65d42798c7e962f38dd4bcb6792b7c2edd3d49c360f16323a3e94",
+      "a76a9d284da05df6e7ee5047ccd48cbb0b6704845abb788557f49395356e5102"
+    ]
+  },
+  {
+    "episode_id": "simplecast:c1344c12-8b95-4c3b-9c03-06b0fdd83f03",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "reason": "The guest describes inefficient manufacturing processes encountered while building businesses.",
+    "reviewed_passage_ids": [
+      "2310903cf1dbdba7e2e538b686399ed5b0d72261eda9e05f4ae28a9433226545",
+      "d2abb50796bb92b2308ba95bafac6ebcb3d8f373e0ee81528b813125e7735447"
+    ]
+  },
+  {
+    "episode_id": "simplecast:7560da4c-5de7-4823-af53-fac555884b0f",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "A research study on panic attacks and a shift toward bioinformatics illustrate health technology opportunities.",
+    "reviewed_passage_ids": [
+      "d7435ec75c6dae28242c0a1d9112af948d820db5df674aaf41bc0725606729fc",
+      "6094a980b6b95216746114857d369c20a18580bb0b6eb1909125010e8bae939f"
+    ]
+  },
+  {
+    "episode_id": "simplecast:68930395-c99e-4677-8e4c-138eccc96c5d",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "Construction surveying and the limits of current building methods frame the need for new technology.",
+    "reviewed_passage_ids": [
+      "f3f03174d5f93cbb2e0ba7900cb7c2d26113f6eced03bcc38313e1a2de4772f9",
+      "fb60532506f6bcbbc9fa373a7e8e118779a5cd7e19441b462844f760dee65525"
+    ]
+  },
+  {
+    "episode_id": "simplecast:55701c48-43d8-4ddb-8411-cb5a45fbab00",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "Regulatory changes and healthcare infrastructure affect which new care businesses can succeed.",
+    "reviewed_passage_ids": [
+      "3afd91f3856f59956e70e92590eecdec3e0b3d94d14bdeff99835e1bb839c64c",
+      "739b3fe560a6962d2cdc77356b99ff64dc7ee2625ecde2ef076646e59395ff43"
+    ]
+  },
+  {
+    "episode_id": "simplecast:507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "reason": "Integration with health records allows hospitalized patients to reach remote specialists.",
+    "reviewed_passage_ids": [
+      "4b81b1045291107cf2dadeb583cff5ffd371771f322f4f357fe2578729caf111",
+      "531bd897220e6d7c939b12e6cd6b629781b1f4ae0a000db4704653826be30d78"
+    ]
+  },
+  {
+    "episode_id": "simplecast:ba4e84c0-33e2-4b67-a128-ca5fd4f7c368",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "The discussion considers the opportunity for AI in healthcare and why patient data is hard to obtain.",
+    "reviewed_passage_ids": [
+      "7a18e426c7ab076ead031d40a5311e5086fde4ddebef6375394d80159061f707",
+      "86f0d5f876c28408de9f9315b260495f8d5fde7bf4560c1a478b3608b5058166"
+    ]
+  },
+  {
+    "episode_id": "simplecast:6f5048a7-baa5-42c7-b272-89994adf52f8",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "The investor describes using software to improve quality and cost across healthcare markets.",
+    "reviewed_passage_ids": [
+      "316522e74fec8c1474f038159d0616cf31c255e99d5a3149b02273c9381a3938",
+      "9e413ffa94fffc0d4f836dba9ad80f2e2ba38f81a2b5b286d11e0ac84077347b"
+    ]
+  },
+  {
+    "episode_id": "simplecast:7c2947a4-ec99-450e-baa3-07e12b81793c",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "reason": "Clinical work and concern about access to healthcare shaped the founder’s investment approach.",
+    "reviewed_passage_ids": [
+      "60e058f269b288556d0db43ad1ceae5aa4abefd0e30447149785d84ac8d24eed",
+      "186725d8118fa1603e4906666d04103f075c922834afd9878079acc58034bfce"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0e86db85-591e-4991-a58b-4c310c9f1919",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "The guest considers what access to personalized care means for patients.",
+    "reviewed_passage_ids": [
+      "a69a186a5ab1e9aaec06a6ca7bd225bb9cc2a678ca9381b328c7eedf9b5fe565",
+      "e2dfbbc688f996610543955f84919ec169e09d3fdd06a7b69375338558aac958"
+    ]
+  },
+  {
+    "episode_id": "simplecast:6640ce0b-4e59-4b38-824c-80ce77ed7c7e",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "Food production and diet illustrate changes that could affect both industry practices and health.",
+    "reviewed_passage_ids": [
+      "ead6429d2d207eefd24e17c3ec475c4f8853e777c9806685abc451bb9e4dcd5b",
+      "75da16c58afcfdb674c66b540814a3753e16af2288b049f346450d2376f102aa"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0f010f57-2fdc-45f0-bb30-c073e2940f74",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "Integrating care coordination systems changes how clinical and administrative work is done.",
+    "reviewed_passage_ids": [
+      "f0ff83256a929598d499ff07f26ce42bc8bc7e0d6546058b13dba2f3a278b5b6",
+      "b23710396788e177802284f89865387222f643b9055c989ea09f295dfd6d614a"
+    ]
+  },
+  {
+    "episode_id": "simplecast:857453c9-ace1-4c46-b4f3-af9eefd84ba8",
+    "category_id": "cat-08",
+    "strength": "secondary",
+    "reason": "A startup addressing medical-device cybersecurity illustrates a specialized industry workflow.",
+    "reviewed_passage_ids": [
+      "c854e7cd68c17bb9f51e0fa572bb58efc53c8f3ffe0acd9a4296e82c8a3f001e",
+      "8d303f03aea4629013e63798402548125eddf3d11763f082b5da5119aaa25ee7"
+    ]
+  },
+  {
+    "episode_id": "simplecast:b240a540-e46c-4fe6-bf00-6a1e286cc7e2",
+    "category_id": "cat-08",
+    "strength": "strong",
+    "reason": "The investor focuses on improving care access and outcomes for populations that existing systems overlook.",
+    "reviewed_passage_ids": [
+      "20b4c64254abbafa35598c6fd4b6f1ea2714e4a85b844c1c0c4f5cc0e54fe49e",
+      "9a9db9cbd834813d0b322b2303ff855e9d54424bfb0361ca0513f62a8dc5cc83"
+    ]
+  },
+  {
+    "episode_id": "simplecast:b0b4a4f2-62b4-4628-bb97-871ca0fb8900",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "The guest explains how founders might assess whether an accelerator actually helps participating teams.",
+    "reviewed_passage_ids": [
+      "5a5692d3eb0bedc4e1a72122c2214939b49f273c41e9f415434c772d596ddc2e",
+      "e6eba0c30df18d3ff21c48317ae1447dcfac925c19608b5eff2d9fad25268003"
+    ]
+  },
+  {
+    "episode_id": "simplecast:c8c6faa5-e792-4a3c-bcd3-ac45079cc786",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "The conversation traces Silicon Valley’s institutions for supporting startups, including early accelerator work.",
+    "reviewed_passage_ids": [
+      "832531e2fbb81a466b165fc507a0af6da918e84635ad157f7c63c23f096552ba",
+      "362823438ee93bc82c153e149b583cf8604b7e4b00aa8b94310a5108d657e0f0"
+    ]
+  },
+  {
+    "episode_id": "simplecast:3ce148f6-d66c-406c-b232-e95fbcd5c46c",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "The guest examines what selection by an accelerator does and does not establish about a founder.",
+    "reviewed_passage_ids": [
+      "7a3f7a29fd4fab8478f753f815bf7edb543baa4aee01f0709a9a07b1dfed98fc",
+      "b6af23ed0b7104e8c3bedf0e9732a6b09072407de691645b9172a47cbd8fe5e6"
+    ]
+  },
+  {
+    "episode_id": "simplecast:5f15841a-ef73-45d6-85a3-89545287c16f",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "Sector-focused accelerators offer a particular kind of early community and support.",
+    "reviewed_passage_ids": [
+      "910b5189ec8f25ccc05dfa5470d29d33629928dffa2e0be0ef88e46b99c90d26",
+      "6577fc442ba3a35f88da459309eec78d28ddf05bacffdf1d257d65a97781ece1"
+    ]
+  },
+  {
+    "episode_id": "simplecast:c2836d44-75cb-4c6b-a239-697e46d7a7b2",
+    "category_id": "cat-09",
+    "strength": "secondary",
+    "reason": "CDL’s risk program connects founders to mentors with insurance experience.",
+    "reviewed_passage_ids": [
+      "47956151070992f005521ecbcbd3338eba20c55b90082562a1a3c3edfc2aed1b",
+      "7eb26540652a65f87dc70be80aebd5a4fe4e87039eb687cf2855b4527eb9f756"
+    ]
+  },
+  {
+    "episode_id": "simplecast:58d15263-fb67-4c72-9683-3312dfd88eab",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "A Latin American accelerator connects local founders with venture investment.",
+    "reviewed_passage_ids": [
+      "53e39a2c1d83fe2212331743f33e6c72dadbf2b26ddf183cc22857dc66634852",
+      "d52419113fde985982c1ca6fcf059f2d79c1499e1ca461ff980290cbeee44b0d"
+    ]
+  },
+  {
+    "episode_id": "simplecast:6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "Gaingels describes building education, mentorship and connections for underrepresented participants.",
+    "reviewed_passage_ids": [
+      "5d3538d34ef339317f7e2180869141ecbd9f95c6049c9222f240dff16b812a0c",
+      "e1b765c617464622fdffc5d30fd015653dae54fc07a065026e867dd2170165b2"
+    ]
+  },
+  {
+    "episode_id": "simplecast:2bb87782-f94d-431f-8134-41edd3c7c735",
+    "category_id": "cat-09",
+    "strength": "secondary",
+    "reason": "Mentorship programs provide aspiring entrepreneurs with access to knowledge and support.",
+    "reviewed_passage_ids": [
+      "cd72d25ec4333e6c10bfe45f44978a7af229019c45515c2dd6233e6b0deb46ea",
+      "3824ad8bcb76f55851319988f26a4ba6249eb1e98a92b44050eda50c43cf34d3"
+    ]
+  },
+  {
+    "episode_id": "simplecast:dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "Networks spanning Chile and Florida help entrepreneurs obtain introductions and enter new markets.",
+    "reviewed_passage_ids": [
+      "24c02926b8ff4f8d08d1b164d8deed775e02327124973e59a40be65b221e3137",
+      "88423560569ed7726c17a247c23c71e4c87f469f4c4d2b8bfddabfed9e4a75cb"
+    ]
+  },
+  {
+    "episode_id": "simplecast:0e4b848f-10b1-4700-8d11-5237d97501e8",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "Access to mentors gives founders a support network as their startups leave the garage.",
+    "reviewed_passage_ids": [
+      "3b3bc90ee6c67a3a6de59f658670050fd2c0ba880551da6ffbe87bf711a946c2",
+      "23cec46f9b9b1e30d5e7e953aa96806b45b1cf22b846da1c835c60a0eae62069"
+    ]
+  },
+  {
+    "episode_id": "simplecast:00a24c04-5983-4c5e-9f8d-b862fc602213",
+    "category_id": "cat-09",
+    "strength": "strong",
+    "reason": "The guest describes a grassroots accelerator serving entrepreneurs early in company formation.",
+    "reviewed_passage_ids": [
+      "810bee3fb007377083bcdba8a9f86b23471e91533b79a3ea483a129a0827ec5e",
+      "7707346f003c375be3e259a6350cff5e326b65940fd6270764eb26dc802568e8"
+    ]
+  }
+]

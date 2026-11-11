@@ -1,0 +1,164 @@
+[
+  {
+    "id": "portfolio-breadth",
+    "name": "How many bets make a fund?",
+    "description": "A portfolio can spread the risk of missing a rare winner or give a small number of investments enough weight to change the outcome. The same choice looks different to a direct investor, a fund-of-funds manager and an institution with a small venture allocation.",
+    "proposition": "Portfolio size expresses a view about where exceptional returns come from.",
+    "editorial_question": "Which layer is being diversified, and what would count as success at that layer?",
+    "opportunities": [
+      "Compare the allocation logic in episodes 115 and 128",
+      "Interview an LP about the smallest position that can move returns",
+      "Build an annotated reading list on outliers and access"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  },
+  {
+    "id": "earning-trust",
+    "name": "Knowing the founder before the round",
+    "description": "Introductions, small pieces of advice and repeated meetings give founders a way to see an investor at work. Investors use the same interval to learn how a team thinks. The evidence ranges from relationships spanning years to cases where prior market knowledge can compress the decision.",
+    "proposition": "Time together can give each side evidence about the partnership it is considering.",
+    "editorial_question": "What did the founder learn about the investor before accepting a check?",
+    "opportunities": [
+      "Reconstruct the timeline of the Jordan investment in episode 178",
+      "Compare seed introductions with the growth investor’s account in episode 188",
+      "Ask founders when early advice changed their choice of lead"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  },
+  {
+    "id": "customer-proof",
+    "name": "Testing demand before revenue",
+    "description": "Guests describe interviews, conversations with buyers of competing products and feedback on prototypes as evidence available before revenue. The harder question is what those conversations establish. A founder can know one customer’s problem intimately and still have little evidence of how widespread it is.",
+    "proposition": "Customer discovery becomes editorially interesting when a conversation changes a product or an investment decision.",
+    "editorial_question": "What observation would make the team change its mind about demand?",
+    "opportunities": [
+      "Trace the meal-kit interviews in episode 65",
+      "Compare studio discovery with investor diligence",
+      "Build an interview guide about pain, alternatives and willingness to switch"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  },
+  {
+    "id": "financing-milestones",
+    "name": "What should the next round buy?",
+    "description": "Founders and investors work backward from what the business must accomplish before it needs money again. That calculation includes time, pricing and dilution. Debt can extend an equity round, while a large cash balance can encourage spending without a clear operational target.",
+    "proposition": "Sizing a round requires a credible account of the progress that money will buy.",
+    "editorial_question": "Which milestone would improve the company’s choices when this financing runs out?",
+    "opportunities": [
+      "Compare the financing advice in episodes 74 and 81",
+      "Ask a debt investor when more runway helps",
+      "Revisit the overfunding example in episode 168"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  },
+  {
+    "id": "pitch-clarity",
+    "name": "Making a business easy to explain",
+    "description": "A pitch gives listeners a chance to understand what a product does, why it matters and whether they could explain it to someone else. Guests describe clarity as evidence of selling or recruiting ability. Others make room for an unpolished delivery or a more structured written presentation.",
+    "proposition": "An explanation that travels beyond the meeting is one test of a founder’s command of the business.",
+    "editorial_question": "What could the listener accurately repeat after leaving the room?",
+    "opportunities": [
+      "Pair the fifteen-minute pitch in episode 73 with the opening in episode 78",
+      "Compare selling a product with recruiting a candidate",
+      "Ask investors which presentation flaws they will overlook"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  },
+  {
+    "id": "capital-geography",
+    "name": "Getting past the Valley’s gates",
+    "description": "Where founders live affects whom they meet and whether a prospective investor understands a specialized product. These conversations describe ways across that gap, including regional investing, international fellowships and teams that combine market access in one place with technical talent in another.",
+    "proposition": "Regional opportunity depends in part on who can connect founders to expertise and capital.",
+    "editorial_question": "Which missing connection matters most in a particular market?",
+    "opportunities": [
+      "Profile the Kansas City example in episode 97",
+      "Map the two locations and roles in episode 18",
+      "Compare deliberate geographic mandates with portfolios that spread organically"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  },
+  {
+    "id": "talent-as-leverage",
+    "name": "Recruiting as a test of leadership",
+    "description": "A founder’s ability to bring people into the mission shapes what the company can build after its first product. Some investors assess that ability in meetings. Others do part of the work themselves, from calling one prospective hire to opening a recruiting pipeline.",
+    "proposition": "Recruiting is both a founder capability investors evaluate and a service some investors provide.",
+    "editorial_question": "Who actually helps close the hire after the term sheet is signed?",
+    "opportunities": [
+      "Compare an investor’s recruiting team with a personal call to a candidate",
+      "Build a collection on hiring the first team",
+      "Ask founders how they measure an investor’s recruiting contribution"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  },
+  {
+    "id": "founder-insight",
+    "name": "What does this founder know?",
+    "description": "A founder’s advantage sometimes shows up in an observation about customers that an outsider could miss. Guests trace those observations to work experience, personal exposure, customer access and deliberate research. Several also ask what evidence makes an insight credible to someone who does not share it.",
+    "proposition": "An account of how a founder learned something can be more revealing than the claim to know it.",
+    "editorial_question": "Which part of the founder’s market view could an outsider independently test?",
+    "opportunities": [
+      "Reconstruct the pawnshop apprenticeship in episode 75",
+      "Compare lived experience with the synthesized data in episode 90",
+      "Ask first-time founders how they tested an unusual market belief"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  },
+  {
+    "id": "distribution-partners",
+    "name": "Borrowing a route to market",
+    "description": "An established company can act as buyer, distributor or gatekeeper. Its existing relationships may help a startup reach customers, but they can also protect an incumbent. Other teams find a different intermediary or build a developer community to reach buyers on their own terms.",
+    "proposition": "The identity of the intermediary can change which customers a startup can reach.",
+    "editorial_question": "What does the channel partner control that the startup cannot easily reproduce?",
+    "opportunities": [
+      "Follow the property-management channel in episode 30",
+      "Compare a carrier program with a corporate investor as distributor",
+      "Contrast developer-led distribution with an incumbent broker network"
+    ],
+    "review_status": "proposed",
+    "reviewer": null,
+    "reviewed_at": null,
+    "review_notes": "",
+    "discovery_version": "1.0",
+    "evidence_updated_at": "2026-11-11"
+  }
+]

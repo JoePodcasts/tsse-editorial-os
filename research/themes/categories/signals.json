@@ -1,0 +1,37 @@
+{
+  "cat-01": {
+    "raising a round": ["fundrais|rais(e|ing|ed) (money|capital|a round|funding)|funding round", "founder|company|runway|enough|pitch|investor|milestone|months|round"],
+    "pricing and dilution": ["dilut|valuation|term sheet|venture debt", "equity|round|raise|founder|ownership|capital|pricing|price"],
+    "working with investors": ["investor.{0,28}relationship|relationship.{0,30}investor|pitch|choose.{0,18}investor|select.{0,18}investor", "trust|feedback|founder|meeting|deck|partner|rais|clear|story"]
+  },
+  "cat-02": {
+    "investment selection": ["investment thesis|due diligence|we (look for|invest in|back)|invest(ing|ment) (criteria|decision|strategy)|before we invest|when we invest|when i invest", "founder|market|stage|team|evaluat|company|companies|risk|sector|traction"],
+    "fund construction and returns": ["portfolio construction|fund of funds|diversif|concentrated portfolio|limited partners?|emerging managers?|fund manager|power law|secondar(y|ies) market", "return|allocat|invest|capital|risk|fund|liquid|portfolio|exit"]
+  },
+  "cat-03": {
+    "testing the customer problem": ["product.market fit|validat|customer (feedback|discovery|interview)|talk.{0,15}customers|pain point|solv(e|ing) (a|the|this|that|their) problem", "product|user|demand|market|customer|build|solution|pay"],
+    "finding a differentiated idea": ["unique (insight|perspective)|market insight|defensib|competitive advantage|differentiat|founder.market fit|unmet need|startup idea", "product|customer|problem|market|founder|business|compet|solution"]
+  },
+  "cat-04": {
+    "building the team": ["recruit|hir(e|ing)|culture|leadership|coachab", "team|people|founder|entrepreneur|company|talent|leader|employee"],
+    "learning and persistence": ["resilien|persisten|grit|persever|self.aware|adaptab|founder.{0,20}(passion|obsess|commit)|learn from|willing to learn|conviction|mental health", "founder|entrepreneur|setback|fail|mission|vision|feedback|team|business"]
+  },
+  "cat-05": {
+    "finding a route to customers": ["distribution|go.to.market|customer acquisition|sales (cycle|team|process|motion)|salespeople|salesperson|channel partner", "customer|sell|market|channel|buyer|enterprise|reach|product|business"],
+    "executing a business model": ["pricing|monetiz|unit economics|gross margin|expand.{0,18}market|customer retention|business model", "sell|cost|revenue|customers|price|distribution|profitable|scale"]
+  },
+  "cat-06": {
+    "applying emerging technology": ["\\bai\\b|artificial intelligence|machine learning|generative|deep learning|large language model|robotics|quantum|computer vision|blockchain|autonomous vehicles?|deep tech", "model|data|build|automat|software|learn|algorithm|problem|comput|infrastructure|technolog|startup|application|develop"]
+  },
+  "cat-07": {
+    "redesigning financial services": ["insur(ance|tech)|underwrit|banking|payments?|fintech|financial inclusion|financial services|credit scoring|lending|financial infrastructure", "customer|claim|broker|risk|bank|consumer|product|coverage|data|regulat|polic|service|technolog|digital|access|transaction|lend"]
+  },
+  "cat-08": {
+    "changing healthcare delivery": ["healthcare|health care|patient|clinical|hospital|physician|digital health|medical", "care|access|provider|treat|system|data|delivery|technolog|cost|drug|diagnos|software"],
+    "modernizing an established industry": ["construction|manufacturing|agricultur|logistics|supply chain|food system|legacy industr|traditional industr|underdigitized|under.digitized|water industr|energy grid", "software|digit|moderniz|automat|technolog|efficien|transform|produc|process|system"]
+  },
+  "cat-09": {
+    "building founder networks": ["accelerator|incubator|entrepreneurial ecosystem|startup ecosystem|founder communit|entrepreneurial communit|mentor(ship|ing)|underrepresented|underserved founders", "founder|entrepreneur|network|access|support|program|startup|opportunit|communit"],
+    "geographic access to venture": ["outside.{0,20}(silicon valley|bay area)|midwest|latin america|latam|local ecosystem|emerging markets|startup hub", "founder|entrepreneur|capital|ecosystem|investor|venture|network|funding"]
+  }
+}

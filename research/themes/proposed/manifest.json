@@ -1,0 +1,26 @@
+{
+  "episodes_with_in_range_time": 117,
+  "episodes_with_out_of_duration_markers": [
+    "simplecast:081f2210-b721-4e7b-9c0a-e86d91a259f4",
+    "simplecast:090de2df-ba16-46a4-90f5-e82db73322f7",
+    "simplecast:12549d0c-c060-486b-aaa1-8d21add096eb",
+    "simplecast:21e1a26e-e983-4e4e-b381-55341654d54c",
+    "simplecast:255a3a22-8931-40a3-a4d1-e93a53d0fd6b",
+    "simplecast:36d4154a-47a1-48ac-8dfa-caaa80ca0cf6",
+    "simplecast:42587868-9b4a-4a23-867d-3096d1a9f536",
+    "simplecast:66915e52-1306-4f6c-a974-f8eb5307a599",
+    "simplecast:89cb85c5-59a2-4f7a-ae93-274ab677a8f9",
+    "simplecast:bbcf3b5b-9d87-4cf7-8434-31fded782cb0",
+    "simplecast:c14463d2-d6a1-41ac-88d2-a5c916c50441",
+    "simplecast:c8c6faa5-e792-4a3c-bcd3-ac45079cc786",
+    "simplecast:c9a4e238-1052-41a9-9540-fad313b52f26"
+  ],
+  "schema_version": 1,
+  "discovery_version": "1.0",
+  "passage_method": "lexical-v2",
+  "source_fingerprint": "1d5c53cacc22996db5887ea351a3d37d96c18d59363c453e1ed6143828cc923a",
+  "episodes": 197,
+  "transcript_passages": 18770,
+  "candidate_hits": 840,
+  "curated_passages": 88
+}

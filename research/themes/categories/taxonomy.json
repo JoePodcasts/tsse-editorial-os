@@ -1,0 +1,179 @@
+[
+  {
+    "id": "cat-01",
+    "slug": "fundraising-investor-relationships",
+    "name": "Fundraising & investor relationships",
+    "description": "Raise capital, choose investors, and build lasting partnerships.",
+    "scope": [
+      "Fundraising strategy.",
+      "Investor selection and founder–investor fit.",
+      "Pitching and investment presentations.",
+      "Funding rounds and milestones.",
+      "Valuation and dilution.",
+      "Investor relationships and trust.",
+      "Managing investor expectations."
+    ],
+    "display_order": 1,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  },
+  {
+    "id": "cat-02",
+    "slug": "venture-capital-investing",
+    "name": "Venture capital & investing",
+    "description": "Explore how investors evaluate startups, build portfolios, and generate returns.",
+    "scope": [
+      "Investment theses.",
+      "Startup evaluation and due diligence.",
+      "Venture fund management.",
+      "Portfolio construction and diversification.",
+      "Limited partner relationships.",
+      "Investment returns and exits.",
+      "Emerging fund managers and venture capital strategy."
+    ],
+    "display_order": 2,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  },
+  {
+    "id": "cat-03",
+    "slug": "startup-ideas-product-market-fit",
+    "name": "Startup ideas & product-market fit",
+    "description": "Discover promising problems, validate solutions, and find market demand.",
+    "scope": [
+      "Startup idea generation.",
+      "Customer discovery.",
+      "Problem identification.",
+      "Product validation.",
+      "Product-market fit.",
+      "Differentiation and defensibility.",
+      "Unique market insights.",
+      "Early product development."
+    ],
+    "display_order": 3,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  },
+  {
+    "id": "cat-04",
+    "slug": "founder-mindset-leadership",
+    "name": "Founder mindset & leadership",
+    "description": "Build resilience, lead teams, and navigate the challenges of entrepreneurship.",
+    "scope": [
+      "Founder ambition and conviction.",
+      "Resilience and adaptability.",
+      "Leadership development.",
+      "Hiring and team building.",
+      "Coachability and learning.",
+      "Decision-making.",
+      "Personal growth as an entrepreneur.",
+      "Building organizational culture."
+    ],
+    "display_order": 4,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  },
+  {
+    "id": "cat-05",
+    "slug": "growth-go-to-market",
+    "name": "Growth & go-to-market",
+    "description": "Reach customers, establish distribution, and scale your business.",
+    "scope": [
+      "Customer acquisition.",
+      "Marketing and sales.",
+      "Distribution strategies.",
+      "Pricing and monetization.",
+      "Strategic partnerships.",
+      "Market expansion.",
+      "Business model execution.",
+      "Scaling operations."
+    ],
+    "display_order": 5,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  },
+  {
+    "id": "cat-06",
+    "slug": "artificial-intelligence-emerging-technologies",
+    "name": "Artificial intelligence & emerging technologies",
+    "description": "Explore technologies reshaping startups, industries, and investment opportunities.",
+    "scope": [
+      "Artificial intelligence and machine learning.",
+      "AI-native businesses.",
+      "Automation.",
+      "Emerging technology opportunities.",
+      "Technology-driven competitive advantages.",
+      "Digital infrastructure.",
+      "Technological disruption.",
+      "Implications of technology for startup investing."
+    ],
+    "display_order": 6,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  },
+  {
+    "id": "cat-07",
+    "slug": "fintech-insurtech-financial-innovation",
+    "name": "Fintech, InsurTech & financial innovation",
+    "description": "Discover innovation in insurance, banking, payments, and financial services.",
+    "scope": [
+      "Insurance technology.",
+      "Banking and financial services.",
+      "Payments.",
+      "Financial infrastructure.",
+      "Embedded finance and insurance.",
+      "Risk management technology.",
+      "Financial inclusion.",
+      "Innovation in regulated financial markets."
+    ],
+    "display_order": 7,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  },
+  {
+    "id": "cat-08",
+    "slug": "healthcare-industry-transformation",
+    "name": "Healthcare & industry transformation",
+    "description": "Explore technology-driven change in healthcare and established industries.",
+    "scope": [
+      "Digital health.",
+      "Healthcare access.",
+      "Healthcare infrastructure.",
+      "Technology-enabled transformation of established industries.",
+      "Digitization of legacy business processes.",
+      "Industry-specific innovation.",
+      "Modernization of underserved or under-digitized markets."
+    ],
+    "display_order": 8,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  },
+  {
+    "id": "cat-09",
+    "slug": "entrepreneurship-startup-ecosystems",
+    "name": "Entrepreneurship & startup ecosystems",
+    "description": "Discover the communities, networks, and opportunities supporting entrepreneurs.",
+    "scope": [
+      "Startup ecosystems.",
+      "Founder communities.",
+      "Mentorship.",
+      "Accelerators and incubators.",
+      "Entrepreneurial networks.",
+      "Geographic access to opportunity.",
+      "Entrepreneurship outside established technology hubs.",
+      "Ecosystem development and inclusive entrepreneurship."
+    ],
+    "display_order": 9,
+    "editorial_status": "approved",
+    "taxonomy_version": "1.0",
+    "approval_source": "Editor-supplied Phase 1B brief, 2026-11-11"
+  }
+]
