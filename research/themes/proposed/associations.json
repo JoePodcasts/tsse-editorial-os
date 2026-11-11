@@ -1,0 +1,795 @@
+[
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:58d15263-fb67-4c72-9683-3312dfd88eab",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "171af8b0789945241282d4b72a215492c05949e4ad71a394d1f26fcb58106bdb"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:48363488-c67c-465d-9b56-d6b6a7597968",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "774e9c072cbdac55511495027fe94e2ffe8e2ed09a8047b38953d63f7984ad68"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:53afd7c5-c9c8-4329-9b7b-168b8df01147",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "a0385d192ba40a47f700ce1a9c4dafcc849b7e9928d8fbe5be5b17cf3f13c3cd"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:42587868-9b4a-4a23-867d-3096d1a9f536",
+    "strength": "strong",
+    "role": "contrast",
+    "passage_ids": [
+      "697003ec343fd9827839a1a30f7d3b4006e083fe7704a774d60b7372bdc081fe"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:4027af88-2d27-4891-a621-ec11322f9ae0",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "8632f53f2037227371dbe3e7b4d668fd817002894fc608f1a21ff8eacd40914e"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:961bcb46-9039-4514-b8a9-afd11445908b",
+    "strength": "strong",
+    "role": "contrast",
+    "passage_ids": [
+      "fc9a9d77d2233755265415e7956f2673977f1d79988667b88383bcd7f9eed09f"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:42a4fa46-d3c4-4998-951a-fd6f59e858c4",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "20fff3a7670c49fc6fed27972914484bec225706eca6f13bbb7070c053a44dc8"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:eed83131-61f5-4654-89a1-4ca17ba485a9",
+    "strength": "strong",
+    "role": "contrast",
+    "passage_ids": [
+      "8bc350e7704b30b25b2ac8082cf9f68e2d1d63ffdac4a8bc36ce9d31250fd83d"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:4b3f3f86-fc3a-41d8-940f-b7b619b896e4",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "1c32b4ed1e053d826164f00c55d8a75d9daca87ab47ef76065603e534a402600"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "340c718cfcec8b01d53266d9ba26ba99a8dc83647554c630ced91c1d09890073",
+      "389c6464216c1ae3dcf90f427cfaa82a9f859114d311f7035db11cb5ac92b7ad"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:a7166503-eec2-4e62-b455-946db1a8f608",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "49e7f36b89d8412fa5382ea640e78d6e2d52ee1fd5dbcc091fb5896e8947bc71"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:c48f9e24-1980-45e7-9189-a5eb681dcaa1",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "849768d0775edf5d9f4967f6c61e059c884e5832f6541115247d04561e24fc9d"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:3ae69392-b535-45ae-ac78-27639c425637",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "3ef55723cd5187c4e7a7a1b348dabe7afbb5e091e4c106d2d361cc024282740b"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "757906b0c614f335e6b37ae4eb7554e4f2a6dfbd90a63256eb72ac2a8323fec8"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:ff0bef5c-7257-436c-907a-3f16a7f36691",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "e49c8bd837ebd7a809974fde482486d50479b48976b689381cc9070d6d6e21d5"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:d55146de-717e-4951-accc-71fe65b2de2b",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "1f37e3f20b0d942aab192e25947bace56d2190f04c87c430c10d3c3e51f86f12"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:e9a6d472-8cfd-4700-a126-bf5b536144f9",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "2c19a15e3cdaf79b3adcb3d0ca709e736bca8bfec7ac6b3f5d0b9d257d1f7459"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:008e322c-b949-4773-9676-2e59d76ce5ce",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "18bb423f31ff1f0b3814024a9610919fcfecb2ac3e7c315938ba896d2cbc7816"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:89cb85c5-59a2-4f7a-ae93-274ab677a8f9",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "0a204869eb5b29c24cefd88a0791d7c2f08532646c4798cfe4fd60516ffaa358"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "67e39b5ccf3056069450afe05d4fb20bd310411b0094fa2950e691d25fb9b881"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:417d6875-3e87-4aeb-894c-3dc096f3a14d",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "a4225f2c6a7afb62214579e290640819d3893f9f619476504e076c7456186318"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:8dcbe28c-e754-45d1-ba12-44c0f10aa3a1",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "a66b999057955a0a8a0dbdae6139c268cf4ffffd8f64869daa1d1cb9e8b54232"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:7b692c64-4dc4-4a00-8897-e64ebdcc6bea",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "1bbb416784f81dacd19368cd36798707d0d6cad5ceba90397aa96e5e8f25ab3a"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:a8c30a40-784e-43cb-9bda-9cc77a6fdb0a",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "391430aeeed7e15d42d013369cdc860cbbac029a3e50c5017ac48f4248c8f42b"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:1d53d843-3a7d-4326-8dc5-034817d856d8",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "393cda486bbc286725201beae20cc3e3becc516d8eaf1308f4affc6b69e0956f"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:a5e912ea-38e6-4102-9c0e-f6d6d3a7e499",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "f0b9ad0fbef28310d3f9817d0687161b38001e2bbf4e6852a5ad10f9830875c8"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:008e322c-b949-4773-9676-2e59d76ce5ce",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "9d77c708417e23b72b49b610bf56d589adbcfa58f402ae6341abf492974a09cd"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:0252e838-a14c-45b8-a881-192e12dccd3b",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "5ce6d25c01ea48877e2b9ffd2bbed420f8ca8e585c71c47683be88537273ee4e"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:0ef2b626-ce6b-4d5e-9e30-a80362e30dad",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "d1b194c4a7abd6f57082ec5460ce93e1a8510aaf864100bf080ace0d3dfd8c8e"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "0659e4609d220a33087e6e7e6db6994c8c7f3e81c02bf230873f143764db0e98"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:9d24d1dc-3fac-4a50-bc2e-7f9df2772392",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "4301e9dcbaf2c01fe4d7cff5ddefff720fff96c3cb0a556e49059ac8b76ab94b"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:6640ce0b-4e59-4b38-824c-80ce77ed7c7e",
+    "strength": "strong",
+    "role": "contrast",
+    "passage_ids": [
+      "bd6c075449e172d154070c55ea757dc72234ddb6328fb5cfa4f9c632d88255bb"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:7c2947a4-ec99-450e-baa3-07e12b81793c",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "53583eb8aad18053b7440725950a80b39a2578fe1615b2db88ed047f9be62614"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:b573d39a-0e7d-42b3-a048-cb47a1743368",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "1021075c2a550c8c4dc2a3d1f4cc34ddb3a7fd3c93b670d13dfc0d79f0ed2007"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:23d9ebc9-ce2d-49db-a2ae-565ce3ac2a29",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "73bd1de53d87fb9380caf5661aaae36d3e5758fc0f68ac720d0abaf73cf91f3c"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:e091dc9b-abaa-422d-83b4-ef9a2c875650",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "02fbbc21749e8ed06cf91e96ab69b9017d5d0cef8e11cf5bcc24e4159968a2d7"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:9c62d02e-8590-4de1-9844-e45d33e314d8",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "28ac1894b683ef17a4de26176b45ab79b1d707abc029ac3bf5b92bb98bc6643d"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:c14463d2-d6a1-41ac-88d2-a5c916c50441",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "3048804b98a86a181de695989ffcaf2bca0d2db1ff3142b3a0d0da2fc3417366"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "92000d059af063652106ae4eef66cf225c4a0cc6ddb0d08923e74b5c256460b1"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:55701c48-43d8-4ddb-8411-cb5a45fbab00",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "9aeb37c414ba2aca00cac518b63c88255101bb9dcbf08679acfb122a5dcafbae"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:e9a6d472-8cfd-4700-a126-bf5b536144f9",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "cda4e18cf1acfcf3a71fc1540b42f4271f35ef059689f335075fcbeac3227c56"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:a5b8d933-e2fb-43cd-a716-c568e4017e5e",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "e541ccc20ecb61b9dc93e09884c17a6e8b2ad1a681976b9232a3122c2a38d2a9"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:26fe7470-0a22-4d8c-808b-ed7f03b3cf84",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "084a5b6bab89712b2c65059f0ac24b1ee4031082afdd257e56acb5a08193b756"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:fcb30e08-b756-4688-af39-60a19bac2fc0",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "1b6e1918be3efd2f8a6a12d5b6215c6d250233a28836d22793d256d7d17975dd"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:bdd967e6-598c-4800-9492-b1d6d6b06429",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "9e9c1d86b1298f6c562f11025ef68718ed80cff7d7afb9db1c9439a1b06b3d74"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:aaff8b20-b584-4fb0-9718-0f8b95dc62cb",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "774ccd3264c91a4a188039d2deccdcfc10ea84a066bb9e033551bd02197c40c3"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:ac616ea1-bc14-4eec-a1b9-29da04ff9ec8",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "a30c16c7b52438de5136e212cdd06e24b298817ef0b7f797602cc6e12ce37d68"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:7a1af9ae-2855-4961-be23-11e2116072f4",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "b02a3de3feeb0856d69c189ae8c496a5c930c39d458dd3467beae5d82403892c"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:1cf0cab6-a348-44c5-bcfd-02811768d8fd",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "240a17db453c610cde7ab6eb99daa4877cb057b2d842bbbf8f6aa1384e8621e7"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:7c2947a4-ec99-450e-baa3-07e12b81793c",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "7e232a92b3b58c73905bda93aef341a2da00e6dd2c0e3206589d5362240693c8"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "186110151fc94a03d66aa9986f3289492becc1b93c14db271cc0aa7fb763b701"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:ac616ea1-bc14-4eec-a1b9-29da04ff9ec8",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "796517fdea386e411317f0abe8b8b059d27bd2a9a3e03888fda6e254446ecf85"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:80f82728-4730-4301-b879-2c5907e6aae0",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "0b3333b1f63880e8627039a439b5d28fcca31d1f780b2c66d2b810f0cede5085"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:21e549e1-9edc-47e4-86b5-94c706f841cf",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "10ca87a736143f028a64be4f8527b040d72cbebc123a43cddc8c6f7693ef916d"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:4bd4a6e9-abee-4aad-a4f4-c5a3503b81ca",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "2a8716242044b6868d0eaad5a4013d10a5234e815941e47fae0fb54c0fd36297"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:bdd967e6-598c-4800-9492-b1d6d6b06429",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "2da67a7765a17cdad12fffb8972ae7ee9e92291623055a8d4b4b38eaed5da349"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "3315782c5a1a85a9bc61a9f858a04cc04b4176046fe2ece943e4e2589e211fbd"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:078d2402-0f24-4783-b7bc-524ef644b71b",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "399f4b86bfeca1aa6096f30d037216abf94bf5c9e22e43e140c418ba5c53a0c3"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:b539857a-eb31-4e1f-88ca-b3c5150a0e9c",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "0d11dcdd852157d727a8ff17afd1b6315e9ab974025443d7a3ac0e885139f1c7"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "0d3ac1f94609f35b620e81431ca2ef1910588c40208c6870a58bc700e58588fb"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:c1344c12-8b95-4c3b-9c03-06b0fdd83f03",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "86db3653bb2a1328d9d17497053ee0cbb049e80fe22c2b35868142f905000829"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:e9a6d472-8cfd-4700-a126-bf5b536144f9",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "0fb7ab8c509f142f95dc07747c3c26996a860afe2c708c2ff32ed84315a3534b"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:5268ea16-e232-4b5d-9bec-95c444c049ae",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "1c33c3812455b9c4cacbc36f71128b955cf51e21c5dded18d0795964b70306ae"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "1cf4869d7f59af68a451f07e4db25382405dc2688a7e0c2b4a920a1cd89986ee"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "b594bb02813d429f4da89c3af3b177ef86d04ab7994c545950cccbe0687cfaf9"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:26fe7470-0a22-4d8c-808b-ed7f03b3cf84",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "c6a82d5322877757cedbb9ee54a01aff1fec84ff3c140cc5c6791b623f080193"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:b240a540-e46c-4fe6-bf00-6a1e286cc7e2",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "da93c28f21539a329da5cfe7dea505c876ea383f8abf74f9ee82317179511fec"
+    ]
+  },
+  {
+    "theme": "distribution-partners",
+    "episode_id": "simplecast:8499e05c-1482-4fe7-afc1-0c6c86b64b7b",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "20254dca29af6e6333c7b9b379914dfa9b7d565f2f084e3a3884cf140579587f"
+    ]
+  },
+  {
+    "theme": "distribution-partners",
+    "episode_id": "simplecast:92d8efcc-c1ce-44f6-bfc9-e201f55750ea",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "50cb8008f5cd07935a766d75227d7b076a96177083363bfd8f9ded03932788ab"
+    ]
+  },
+  {
+    "theme": "distribution-partners",
+    "episode_id": "simplecast:a9d545a6-b23f-482e-92f8-02ca1fef61fa",
+    "strength": "strong",
+    "role": "contrast",
+    "passage_ids": [
+      "b74765240b134f44ae5e111bc5f68d89c5315afeb55643238d14925f261164fd"
+    ]
+  },
+  {
+    "theme": "distribution-partners",
+    "episode_id": "simplecast:255a3a22-8931-40a3-a4d1-e93a53d0fd6b",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "25a53c8a3f624be31f0dc7bda991f70817b8dfaa75edae170eac2c9c6b0f1f8d"
+    ]
+  },
+  {
+    "theme": "distribution-partners",
+    "episode_id": "simplecast:5321b62f-dcfb-4566-a943-032aceaf2b38",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "42c6369f70b715b1d270d2327fdbdc8da9f1b1dbeecd9a1e25b80a4412421c21"
+    ]
+  },
+  {
+    "theme": "distribution-partners",
+    "episode_id": "simplecast:3ae69392-b535-45ae-ac78-27639c425637",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "e493b9cda03901c83cd4a34853f0c6b4d92b39115608e2687a25b9d4a9ae972c"
+    ]
+  },
+  {
+    "theme": "distribution-partners",
+    "episode_id": "simplecast:a7166503-eec2-4e62-b455-946db1a8f608",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "e4d7e84ba36769e61270ef24d4231e91f4cc820e8126747a525ee1ffc21807f2"
+    ]
+  },
+  {
+    "theme": "distribution-partners",
+    "episode_id": "simplecast:d7e322bf-503a-470f-a835-7dd927dc2218",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "e7f6571f34fbbabeffbce66eb365eda2af241325771334f59aed5e7b1c217879"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:0ef2b626-ce6b-4d5e-9e30-a80362e30dad",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "44455512fb648651197a911045f00c3bfe5f09b7d7ed37774a3d1e81e95ad3cf"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:0971b5c1-381f-4b0a-af5d-9fe56ac41984",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "dc214c51a664755fb200e358bd7ef486010cb2fda5134db5ea938d19a1ccc0c3"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:5f15841a-ef73-45d6-85a3-89545287c16f",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "b7dbd2eb9a8dddcfa37166c6af7a6849a582f7abaccc013d49cbaafcb5d256af"
+    ]
+  },
+  {
+    "theme": "founder-insight",
+    "episode_id": "simplecast:80f82728-4730-4301-b879-2c5907e6aae0",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "58ac15e8505da51bd437f65bb94dae273c4a09ac219f6152c88054339aae2ec8"
+    ]
+  },
+  {
+    "theme": "capital-geography",
+    "episode_id": "simplecast:d55146de-717e-4951-accc-71fe65b2de2b",
+    "strength": "contextual",
+    "role": "related_context",
+    "passage_ids": [
+      "8055c2ce79bc909d26b5902fb1fa05d9b0c485cc6f90be19febcfcd291117bd4"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:23d9ebc9-ce2d-49db-a2ae-565ce3ac2a29",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "73bd1de53d87fb9380caf5661aaae36d3e5758fc0f68ac720d0abaf73cf91f3c"
+    ]
+  },
+  {
+    "theme": "talent-as-leverage",
+    "episode_id": "simplecast:856da7b2-3fe0-466f-9b88-7d9360772e83",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "ac790aac2a6f9bf246fb6ddfd128721842380e9b458aa6e002ab80b6a939e8a1"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+    "strength": "strong",
+    "role": "contrast",
+    "passage_ids": [
+      "135bed0dd1f7a900d15a91c8e5c2ee3a8e37bfbda88f1f61868cc8664a6a7dc2"
+    ]
+  },
+  {
+    "theme": "portfolio-breadth",
+    "episode_id": "simplecast:5d169383-43cd-4c17-8dac-193df68c34cc",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "c8dcce9bd20eed7cacbfc3f4cb3ade2a7685876a4ea1169b34fbd493fa111583"
+    ]
+  },
+  {
+    "theme": "earning-trust",
+    "episode_id": "simplecast:0252e838-a14c-45b8-a881-192e12dccd3b",
+    "strength": "strong",
+    "role": "contrast",
+    "passage_ids": [
+      "594ed29b77b00d58cbd7c0b2bee53fcf367b388508f73edf2db47a52052df891"
+    ]
+  },
+  {
+    "theme": "customer-proof",
+    "episode_id": "simplecast:12549d0c-c060-486b-aaa1-8d21add096eb",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "922f4da78355895a30c6572729552376995c9e0e461d6e58705965905e134e58"
+    ]
+  },
+  {
+    "theme": "pitch-clarity",
+    "episode_id": "simplecast:80dbc636-4c29-4356-acf4-6155640f3d79",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "e550b1e7dd401f5fdb24766f983318f15a366a1e4f91074f43516c9decddb27f"
+    ]
+  },
+  {
+    "theme": "financing-milestones",
+    "episode_id": "simplecast:0adb8f6a-0593-45b7-9c59-d32206c375db",
+    "strength": "strong",
+    "role": "direct_support",
+    "passage_ids": [
+      "51927fef941cfb500a3ebc0836c7cdf786639bdf09f236d168d11d15f3599b03"
+    ]
+  }
+]
