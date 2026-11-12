@@ -24,6 +24,10 @@
       "destination": "/index.html"
     },
     {
+      "source": "/categories/:slug",
+      "destination": "/index.html"
+    },
+    {
       "source": "/episodes/:id",
       "destination": "/index.html"
     },
