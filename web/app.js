@@ -155,6 +155,82 @@ function filesEntry(data) {
   entry.append(el('strong', '', 'Archive files'), el('span', '', `CSV catalogue · ${data.markdown_files} Markdown episode files`), el('span', 'text-link', 'View archive files →'));
   return entry;
 }
+async function themeDirectory(section, ticket) {
+  try {
+    const {categories} = await api('/assets/categories-v1.json');
+    if (ticket !== navigation) return;
+    const heading = el('h2', '', 'Explore by theme');
+    heading.id = 'theme-heading';
+    section.setAttribute('aria-labelledby', heading.id);
+    const grid = el('div', 'theme-grid');
+    for (const category of categories) {
+      const card = link('', '/categories/' + category.slug, 'theme-card');
+      const count = category.strong.length + category.secondary.length;
+      card.append(el('h3', '', category.name), el('p', '', category.description),
+        el('span', 'theme-count', count + ' episodes'));
+      grid.append(card);
+    }
+    section.append(heading, grid);
+  } catch (error) {
+    if (ticket === navigation) errorView(error, section);
+  }
+}
+
+async function categoryView(url, ticket) {
+  main.append(link('← Full archive', '/', 'back'));
+  const {categories, episodes} = await api('/assets/categories-v1.json');
+  if (ticket !== navigation) return;
+  const category = categories.find(c => '/categories/' + c.slug === url.pathname);
+  if (!category) throw new Error('Theme not found.');
+  document.title = category.name + ' · TSSE Archive';
+  const header = el('header', 'category-header');
+  header.append(el('h1', '', category.name), el('p', 'intro', category.description));
+  const rows = ['strong', 'secondary'].flatMap(strength =>
+    category[strength].map(id => ({...episodes[id], id, strength})));
+  const bar = el('div', 'category-bar');
+  const label = el('label', '', 'Sort by ');
+  const sort = el('select');
+  for (const [value, text] of [['strength', 'Association strength'], ['newest', 'Newest first'], ['oldest', 'Oldest first']]) {
+    sort.add(new Option(text, value));
+  }
+  const requested = url.searchParams.get('sort');
+  sort.value = ['oldest', 'newest'].includes(requested) ? requested : 'strength';
+  const list = el('ol', 'category-episodes');
+  function showRows() {
+    rows.sort((a, b) => {
+      if (sort.value === 'strength' && a.strength !== b.strength) return a.strength === 'strong' ? -1 : 1;
+      const chronology = a.date.localeCompare(b.date) || a.number - b.number;
+      return sort.value === 'oldest' ? chronology : -chronology;
+    });
+    list.replaceChildren(...rows.map(record => {
+      const path = '/episodes/' + record.id;
+      const row = el('li', 'category-row');
+      const detail = el('div');
+      const title = el('h2', 'browse-title');
+      title.append(link(record.title, path));
+      const meta = el('p', 'source-hint', date(record.date) + ' · ' +
+        (record.strength === 'strong' ? 'Strong association' : 'Secondary association'));
+      const sources = el('div', 'category-sources');
+      sources.append(link('Read transcript', path + '/transcript', 'text-link'),
+        safeExternal('Original episode ↗', record.source, 'text-link'));
+      detail.append(title, meta, sources);
+      row.append(episodeNumber(record.number), detail);
+      return row;
+    }));
+  }
+  sort.addEventListener('change', () => {
+    if (sort.value === 'strength') url.searchParams.delete('sort');
+    else url.searchParams.set('sort', sort.value);
+    history.replaceState({}, '', url);
+    showRows();
+    announcer.textContent = 'Episodes sorted by ' + sort.selectedOptions[0].text + '.';
+  });
+  label.append(sort);
+  bar.append(el('strong', '', rows.length + ' episodes'), label);
+  main.append(header, bar, rows.length ? list : el('p', 'subtle', 'No episodes in this theme yet.'));
+  showRows();
+}
+
 async function archiveView(params, ticket) {
   lastArchive = location.pathname + location.search;
   document.title = params.get('q') ? `${params.get('q')} · TSSE Archive` : 'Content Archive · The Sure Shot Entrepreneur';
@@ -169,6 +245,9 @@ async function archiveView(params, ticket) {
     main.append(scope);
   }
   main.append(searchForm(params));
+  const themes = el('section', 'theme-directory');
+  if (!params.get('q')) main.append(themes);
+  const themeLoad = params.get('q') ? null : themeDirectory(themes, ticket);
   const stats = el('div'); main.append(stats);
   const body = el('section'); main.append(body);
   body.append(el('p', 'loading', 'Loading archive…'));
@@ -177,7 +256,7 @@ async function archiveView(params, ticket) {
       if (ticket === navigation) stats.replaceChildren(coverageView(data), filesEntry(data), syncStatus(status.sync));
     });
     const load = params.get('q') ? searchView(params, body, ticket) : browseView(params, body, ticket);
-    await Promise.all([coveragePromise, load]);
+    await Promise.all([coveragePromise, load, themeLoad]);
   } catch (error) { if (ticket === navigation) { body.replaceChildren(); errorView(error, body); } }
 }
 
@@ -640,6 +719,7 @@ async function render() {
   const url = new URL(location.href);
   try {
     if (url.pathname === '/') await archiveView(url.searchParams, ticket);
+    else if (url.pathname.startsWith('/categories/')) await categoryView(url, ticket);
     else if (['/archive-files', '/archive-files/episodes'].includes(url.pathname)) await archiveFilesView(url, ticket);
     else if (/^\/episodes\/[^/]+(?:\/transcript|\/show-notes|\/file)?$/.test(url.pathname)) await episodeView(url, ticket);
     else throw new Error('This archive page does not exist.');

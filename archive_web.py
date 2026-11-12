@@ -23,6 +23,7 @@ SOURCE_LABELS = {
     'show_notes': 'Published show notes',
 }
 ASSETS = {
+    '/assets/categories-v1.json': REPO / 'web/categories-v1.json',
     '/assets/app.js': REPO / 'web/app.js',
     '/assets/style.css': REPO / 'web/style.css',
     '/assets/tsse-logo.png': REPO / 'publishing/templates/quote-card/v1/assets/tsse-logo.png',
@@ -282,7 +283,9 @@ class Handler(BaseHTTPRequestHandler):
             elif parsed.path in ASSETS:
                 path = ASSETS[parsed.path]
                 self.respond(200, path.read_bytes(), mimetypes.guess_type(str(path))[0] or 'application/octet-stream')
-            elif parsed.path in ('/', '/archive-files', '/archive-files/episodes') or re.fullmatch(r'/episodes/[A-Za-z0-9:-]+(?:/transcript|/show-notes|/file)?', parsed.path):
+            elif (parsed.path in ('/', '/archive-files', '/archive-files/episodes')
+                    or re.fullmatch(r'/categories/[a-z0-9-]+', parsed.path)
+                    or re.fullmatch(r'/episodes/[A-Za-z0-9:-]+(?:/transcript|/show-notes|/file)?', parsed.path)):
                 if parsed.path.startswith('/episodes/'):
                     parts = parsed.path.split('/')
                     records, _ = self.server.app.snapshot()
