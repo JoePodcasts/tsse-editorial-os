@@ -1,0 +1,981 @@
+[
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "171af8b0789945241282d4b72a215492c05949e4ad71a394d1f26fcb58106bdb",
+    "relevance": "Fund investments spread half the portfolio across hundreds of companies and open co-investment opportunities.",
+    "classification": "supporting",
+    "span": [
+      378,
+      815
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "774e9c072cbdac55511495027fe94e2ffe8e2ed09a8047b38953d63f7984ad68",
+    "relevance": "A portfolio above fifty companies can still deliver the returns the speaker seeks.",
+    "classification": "supporting",
+    "span": [
+      122,
+      280
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "a0385d192ba40a47f700ce1a9c4dafcc849b7e9928d8fbe5be5b17cf3f13c3cd",
+    "relevance": "Pooling startups changes the risk facing an individual investor.",
+    "classification": "supporting",
+    "span": [
+      183,
+      399
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "697003ec343fd9827839a1a30f7d3b4006e083fe7704a774d60b7372bdc081fe",
+    "relevance": "The speaker explicitly seeks concentrated managers.",
+    "classification": "contrasting",
+    "span": [
+      238,
+      388
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "8632f53f2037227371dbe3e7b4d668fd817002894fc608f1a21ff8eacd40914e",
+    "relevance": "The speaker revisits an earlier argument about diversification and the power law.",
+    "classification": "qualifying",
+    "span": [
+      242,
+      462
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "fc9a9d77d2233755265415e7956f2673977f1d79988667b88383bcd7f9eed09f",
+    "relevance": "Concentration is applied at the fund-of-funds level.",
+    "classification": "contrasting",
+    "span": [
+      221,
+      279
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "20fff3a7670c49fc6fed27972914484bec225706eca6f13bbb7070c053a44dc8",
+    "relevance": "A fund of funds provides exposure to managers an investor may struggle to access.",
+    "classification": "supporting",
+    "span": [
+      33,
+      321
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "8bc350e7704b30b25b2ac8082cf9f68e2d1d63ffdac4a8bc36ce9d31250fd83d",
+    "relevance": "An allocator questions whether broad exposure can move institutional returns.",
+    "classification": "contrasting",
+    "span": [
+      412,
+      650
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "1c32b4ed1e053d826164f00c55d8a75d9daca87ab47ef76065603e534a402600",
+    "relevance": "An eighteen-month investment retrospective describes meeting the founder years earlier.",
+    "classification": "supporting",
+    "span": [
+      0,
+      271
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "340c718cfcec8b01d53266d9ba26ba99a8dc83647554c630ced91c1d09890073",
+    "relevance": "Meetings can precede a first investment by months or years.",
+    "classification": "supporting",
+    "span": [
+      621,
+      772
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "49e7f36b89d8412fa5382ea640e78d6e2d52ee1fd5dbcc091fb5896e8947bc71",
+    "relevance": "Trying to help the startup gives both parties experience working together.",
+    "classification": "supporting",
+    "span": [
+      189,
+      405
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "849768d0775edf5d9f4967f6c61e059c884e5832f6541115247d04561e24fc9d",
+    "relevance": "Early contact can lead to introductions to a future lead investor.",
+    "classification": "supporting",
+    "span": [
+      131,
+      320
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "3ef55723cd5187c4e7a7a1b348dabe7afbb5e091e4c106d2d361cc024282740b",
+    "relevance": "Introductions and advice demonstrate how the investor works before diligence.",
+    "classification": "supporting",
+    "span": [
+      219,
+      504
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "757906b0c614f335e6b37ae4eb7554e4f2a6dfbd90a63256eb72ac2a8323fec8",
+    "relevance": "A decade of acquaintance preceded a new partnership.",
+    "classification": "supporting",
+    "span": [
+      43,
+      313
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "e49c8bd837ebd7a809974fde482486d50479b48976b689381cc9070d6d6e21d5",
+    "relevance": "A growth investor describes a two-to-six-year interval before investing.",
+    "classification": "supporting",
+    "span": [
+      0,
+      397
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "1f37e3f20b0d942aab192e25947bace56d2190f04c87c430c10d3c3e51f86f12",
+    "relevance": "The difficulty of unwinding an investment explains why founders might invest time in selection.",
+    "classification": "qualifying",
+    "span": [
+      279,
+      462
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "2c19a15e3cdaf79b3adcb3d0ca709e736bca8bfec7ac6b3f5d0b9d257d1f7459",
+    "relevance": "Time together lets an investor observe how founders think.",
+    "classification": "supporting",
+    "span": [
+      150,
+      428
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "18bb423f31ff1f0b3814024a9610919fcfecb2ac3e7c315938ba896d2cbc7816",
+    "relevance": "A studio links interviews to prototype tests and iteration.",
+    "classification": "supporting",
+    "span": [
+      81,
+      298
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "0a204869eb5b29c24cefd88a0791d7c2f08532646c4798cfe4fd60516ffaa358",
+    "relevance": "An investor checks with customers whether a technical problem merits solving.",
+    "classification": "supporting",
+    "span": [
+      694,
+      883
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "67e39b5ccf3056069450afe05d4fb20bd310411b0094fa2950e691d25fb9b881",
+    "relevance": "Customer conversations give diligence a question founders themselves want answered.",
+    "classification": "supporting",
+    "span": [
+      0,
+      311
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "a4225f2c6a7afb62214579e290640819d3893f9f619476504e076c7456186318",
+    "relevance": "User feedback supplements early signs of product-market fit.",
+    "classification": "supporting",
+    "span": [
+      0,
+      155
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "a66b999057955a0a8a0dbdae6139c268cf4ffffd8f64869daa1d1cb9e8b54232",
+    "relevance": "One person's experience can conceal uncertainty about the size of demand.",
+    "classification": "qualifying",
+    "span": [
+      167,
+      491
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "1bbb416784f81dacd19368cd36798707d0d6cad5ceba90397aa96e5e8f25ab3a",
+    "relevance": "A deep interview process can count as evidence even before revenue.",
+    "classification": "supporting",
+    "span": [
+      173,
+      305
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "391430aeeed7e15d42d013369cdc860cbbac029a3e50c5017ac48f4248c8f42b",
+    "relevance": "A meal-kit team starts with buyers of competing services.",
+    "classification": "supporting",
+    "span": [
+      0,
+      179
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "393cda486bbc286725201beae20cc3e3becc516d8eaf1308f4affc6b69e0956f",
+    "relevance": "Interviews are distilled into ranked pain points and existing alternatives.",
+    "classification": "supporting",
+    "span": [
+      151,
+      298
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "f0b9ad0fbef28310d3f9817d0687161b38001e2bbf4e6852a5ad10f9830875c8",
+    "relevance": "Pricing today's round also shapes future fundraising and existing holders' dilution.",
+    "classification": "qualifying",
+    "span": [
+      694,
+      1017
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "9d77c708417e23b72b49b610bf56d589adbcfa58f402ae6341abf492974a09cd",
+    "relevance": "The next milestone sets the proposed size of the round.",
+    "classification": "supporting",
+    "span": [
+      0,
+      115
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "5ce6d25c01ea48877e2b9ffd2bbed420f8ca8e585c71c47683be88537273ee4e",
+    "relevance": "Balance-sheet cash buys time for the business.",
+    "classification": "supporting",
+    "span": [
+      164,
+      277
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "d1b194c4a7abd6f57082ec5460ce93e1a8510aaf864100bf080ace0d3dfd8c8e",
+    "relevance": "Runway is expressed as time to achieve two or three objectives.",
+    "classification": "supporting",
+    "span": [
+      55,
+      269
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "0659e4609d220a33087e6e7e6db6994c8c7f3e81c02bf230873f143764db0e98",
+    "relevance": "The next milestone must be reached before cash runs out.",
+    "classification": "supporting",
+    "span": [
+      343,
+      438
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "4301e9dcbaf2c01fe4d7cff5ddefff720fff96c3cb0a556e49059ac8b76ab94b",
+    "relevance": "Debt can extend the time purchased by an equity round.",
+    "classification": "qualifying",
+    "span": [
+      256,
+      327
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "bd6c075449e172d154070c55ea757dc72234ddb6328fb5cfa4f9c632d88255bb",
+    "relevance": "An example of abundant capital challenges the assumption that a larger round improves execution.",
+    "classification": "contrasting",
+    "span": [
+      367,
+      533
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "53583eb8aad18053b7440725950a80b39a2578fe1615b2db88ed047f9be62614",
+    "relevance": "Blending capital sources can reduce dilution.",
+    "classification": "qualifying",
+    "span": [
+      18,
+      115
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "1021075c2a550c8c4dc2a3d1f4cc34ddb3a7fd3c93b670d13dfc0d79f0ed2007",
+    "relevance": "An investor describes hearing pitches for fifteen minutes without understanding the product.",
+    "classification": "supporting",
+    "span": [
+      228,
+      564
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "73bd1de53d87fb9380caf5661aaae36d3e5758fc0f68ac720d0abaf73cf91f3c",
+    "relevance": "Explaining the business gives the investor evidence of selling ability.",
+    "classification": "supporting",
+    "span": [
+      357,
+      530
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "02fbbc21749e8ed06cf91e96ab69b9017d5d0cef8e11cf5bcc24e4159968a2d7",
+    "relevance": "A written presentation helps a founder organize a complex explanation.",
+    "classification": "qualifying",
+    "span": [
+      981,
+      1214
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "28ac1894b683ef17a4de26176b45ab79b1d707abc029ac3bf5b92bb98bc6643d",
+    "relevance": "Simplifying complexity can also help attract employees.",
+    "classification": "supporting",
+    "span": [
+      0,
+      140
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "3048804b98a86a181de695989ffcaf2bca0d2db1ff3142b3a0d0da2fc3417366",
+    "relevance": "Explaining implementation can consume the time needed to convey the vision.",
+    "classification": "supporting",
+    "span": [
+      27,
+      360
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "92000d059af063652106ae4eef66cf225c4a0cc6ddb0d08923e74b5c256460b1",
+    "relevance": "An investor looks past delivery and language imperfections when the story resonates.",
+    "classification": "qualifying",
+    "span": [
+      0,
+      296
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "9aeb37c414ba2aca00cac518b63c88255101bb9dcbf08679acfb122a5dcafbae",
+    "relevance": "A short opening gives listeners an account they can repeat.",
+    "classification": "supporting",
+    "span": [
+      0,
+      335
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "cda4e18cf1acfcf3a71fc1540b42f4271f35ef059689f335075fcbeac3227c56",
+    "relevance": "The reason for pursuing the company helps explain a decade-long commitment.",
+    "classification": "supporting",
+    "span": [
+      19,
+      241
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "e541ccc20ecb61b9dc93e09884c17a6e8b2ad1a681976b9232a3122c2a38d2a9",
+    "relevance": "A Kansas City technical founder faces a shortage of investors who understand the product.",
+    "classification": "supporting",
+    "span": [
+      520,
+      814
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "084a5b6bab89712b2c65059f0ac24b1ee4031082afdd257e56acb5a08193b756",
+    "relevance": "A bridge into the Valley can widen access for students outside established recruiting routes.",
+    "classification": "supporting",
+    "span": [
+      314,
+      548
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "1b6e1918be3efd2f8a6a12d5b6215c6d250233a28836d22793d256d7d17975dd",
+    "relevance": "Proximity once gave some investors access to a handful of high-return funds.",
+    "classification": "supporting",
+    "span": [
+      400,
+      627
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "9e9c1d86b1298f6c562f11025ef68718ed80cff7d7afb9db1c9439a1b06b3d74",
+    "relevance": "The passage describes an investment practice that includes the Midwest.",
+    "classification": "supporting",
+    "span": [
+      0,
+      78
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "774ccd3264c91a4a188039d2deccdcfc10ea84a066bb9e033551bd02197c40c3",
+    "relevance": "The team combines Valley market access with talent located elsewhere.",
+    "classification": "supporting",
+    "span": [
+      214,
+      343
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "a30c16c7b52438de5136e212cdd06e24b298817ef0b7f797602cc6e12ce37d68",
+    "relevance": "A regional difference in the availability of former operators affects local founder networks.",
+    "classification": "qualifying",
+    "span": [
+      386,
+      534
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "b02a3de3feeb0856d69c189ae8c496a5c930c39d458dd3467beae5d82403892c",
+    "relevance": "An international fellowship builds venture ecosystems beyond the United States.",
+    "classification": "supporting",
+    "span": [
+      233,
+      441
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "240a17db453c610cde7ab6eb99daa4877cb057b2d842bbbf8f6aa1384e8621e7",
+    "relevance": "More than half of one portfolio sits outside Silicon Valley.",
+    "classification": "supporting",
+    "span": [
+      0,
+      120
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "7e232a92b3b58c73905bda93aef341a2da00e6dd2c0e3206589d5362240693c8",
+    "relevance": "Explaining the mission helps founders both recruit and retain people.",
+    "classification": "supporting",
+    "span": [
+      210,
+      521
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "186110151fc94a03d66aa9986f3289492becc1b93c14db271cc0aa7fb763b701",
+    "relevance": "A venture firm's recruiters work across engineering, design and executive roles.",
+    "classification": "supporting",
+    "span": [
+      76,
+      213
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "796517fdea386e411317f0abe8b8b059d27bd2a9a3e03888fda6e254446ecf85",
+    "relevance": "The founder has to recruit employees into the same mission presented to customers and investors.",
+    "classification": "supporting",
+    "span": [
+      272,
+      690
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "0b3333b1f63880e8627039a439b5d28fcca31d1f780b2c66d2b810f0cede5085",
+    "relevance": "An investor helps close a recruit personally.",
+    "classification": "supporting",
+    "span": [
+      204,
+      380
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "10ca87a736143f028a64be4f8527b040d72cbebc123a43cddc8c6f7693ef916d",
+    "relevance": "The quality of early hires deserves sustained attention.",
+    "classification": "supporting",
+    "span": [
+      0,
+      118
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "2a8716242044b6868d0eaad5a4013d10a5234e815941e47fae0fb54c0fd36297",
+    "relevance": "Building the organization requires continuous recruiting as headcount grows.",
+    "classification": "supporting",
+    "span": [
+      72,
+      300
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "2da67a7765a17cdad12fffb8972ae7ee9e92291623055a8d4b4b38eaed5da349",
+    "relevance": "An experienced CEO frames hiring and financing as continuing responsibilities.",
+    "classification": "supporting",
+    "span": [
+      728,
+      874
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "3315782c5a1a85a9bc61a9f858a04cc04b4176046fe2ece943e4e2589e211fbd",
+    "relevance": "An investor opens recruiting networks a founder might otherwise miss.",
+    "classification": "supporting",
+    "span": [
+      0,
+      309
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "399f4b86bfeca1aa6096f30d037216abf94bf5c9e22e43e140c418ba5c53a0c3",
+    "relevance": "The ability to communicate is tested with both candidates and early buyers.",
+    "classification": "supporting",
+    "span": [
+      181,
+      472
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "0d11dcdd852157d727a8ff17afd1b6315e9ab974025443d7a3ac0e885139f1c7",
+    "relevance": "The speaker values a market view synthesized from collected evidence.",
+    "classification": "supporting",
+    "span": [
+      290,
+      819
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "0d3ac1f94609f35b620e81431ca2ef1910588c40208c6870a58bc700e58588fb",
+    "relevance": "Fascination with a specific problem can produce a distinctive proposed solution.",
+    "classification": "supporting",
+    "span": [
+      0,
+      239
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "86db3653bb2a1328d9d17497053ee0cbb049e80fe22c2b35868142f905000829",
+    "relevance": "Customer validation strengthens a founder's account of a market gap.",
+    "classification": "qualifying",
+    "span": [
+      58,
+      203
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "0fb7ab8c509f142f95dc07747c3c26996a860afe2c708c2ff32ed84315a3534b",
+    "relevance": "A team's reading of a particular pain point informed an investment.",
+    "classification": "supporting",
+    "span": [
+      212,
+      455
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "1c33c3812455b9c4cacbc36f71128b955cf51e21c5dded18d0795964b70306ae",
+    "relevance": "A product made founder-market fit visible without a prior relationship.",
+    "classification": "supporting",
+    "span": [
+      84,
+      276
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "1cf4869d7f59af68a451f07e4db25382405dc2688a7e0c2b4a920a1cd89986ee",
+    "relevance": "Early validation can make a first-time founder's perspective legible.",
+    "classification": "supporting",
+    "span": [
+      48,
+      239
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "b594bb02813d429f4da89c3af3b177ef86d04ab7994c545950cccbe0687cfaf9",
+    "relevance": "Working in a pawnshop gave the founder a basis for redesigning the consumer experience.",
+    "classification": "supporting",
+    "span": [
+      0,
+      331
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "c6a82d5322877757cedbb9ee54a01aff1fec84ff3c140cc5c6791b623f080193",
+    "relevance": "Privileged access to prospective customers can itself constitute an advantage.",
+    "classification": "qualifying",
+    "span": [
+      257,
+      590
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "da93c28f21539a329da5cfe7dea505c876ea383f8abf74f9ee82317179511fec",
+    "relevance": "Direct or family experience can reveal needs missed by other designers.",
+    "classification": "supporting",
+    "span": [
+      39,
+      385
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "distribution-partners",
+    "passage_id": "20254dca29af6e6333c7b9b379914dfa9b7d565f2f084e3a3884cf140579587f",
+    "relevance": "An unusual channel can influence an early underwriting decision.",
+    "classification": "supporting",
+    "span": [
+      411,
+      729
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "distribution-partners",
+    "passage_id": "50cb8008f5cd07935a766d75227d7b076a96177083363bfd8f9ded03932788ab",
+    "relevance": "Incumbents can provide distribution, production capacity or access to a new market.",
+    "classification": "supporting",
+    "span": [
+      514,
+      735
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "distribution-partners",
+    "passage_id": "b74765240b134f44ae5e111bc5f68d89c5315afeb55643238d14925f261164fd",
+    "relevance": "Property managers offered a route around traditional brokers.",
+    "classification": "contrasting",
+    "span": [
+      243,
+      500
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "distribution-partners",
+    "passage_id": "25a53c8a3f624be31f0dc7bda991f70817b8dfaa75edae170eac2c9c6b0f1f8d",
+    "relevance": "A corporate investor can become either buyer or distributor.",
+    "classification": "supporting",
+    "span": [
+      399,
+      544
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "distribution-partners",
+    "passage_id": "42c6369f70b715b1d270d2327fdbdc8da9f1b1dbeecd9a1e25b80a4412421c21",
+    "relevance": "Bottom-up distribution requires sustained participation in a developer community.",
+    "classification": "qualifying",
+    "span": [
+      100,
+      434
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "distribution-partners",
+    "passage_id": "e493b9cda03901c83cd4a34853f0c6b4d92b39115608e2687a25b9d4a9ae972c",
+    "relevance": "Existing broker and claims networks can preserve an incumbent's advantage.",
+    "classification": "qualifying",
+    "span": [
+      203,
+      363
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "distribution-partners",
+    "passage_id": "e4d7e84ba36769e61270ef24d4231e91f4cc820e8126747a525ee1ffc21807f2",
+    "relevance": "A larger partner can offer a sales channel.",
+    "classification": "supporting",
+    "span": [
+      0,
+      99
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "distribution-partners",
+    "passage_id": "e7f6571f34fbbabeffbce66eb365eda2af241325771334f59aed5e7b1c217879",
+    "relevance": "A carrier's willingness to continue discussions governs admission into a partnership program.",
+    "classification": "supporting",
+    "span": [
+      208,
+      421
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "44455512fb648651197a911045f00c3bfe5f09b7d7ed37774a3d1e81e95ad3cf",
+    "relevance": "Existing market knowledge can shorten a process that often takes months.",
+    "classification": "qualifying",
+    "span": [
+      48,
+      323
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "389c6464216c1ae3dcf90f427cfaa82a9f859114d311f7035db11cb5ac92b7ad",
+    "relevance": "Meetings can begin before a founder starts raising.",
+    "classification": "supporting",
+    "span": [
+      176,
+      332
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "dc214c51a664755fb200e358bd7ef486010cb2fda5134db5ea938d19a1ccc0c3",
+    "relevance": "The investor measures a typical founder relationship in years.",
+    "classification": "supporting",
+    "span": [
+      0,
+      150
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "b7dbd2eb9a8dddcfa37166c6af7a6849a582f7abaccc013d49cbaafcb5d256af",
+    "relevance": "The investment question is what these founders know about this market.",
+    "classification": "supporting",
+    "span": [
+      172,
+      316
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "founder-insight",
+    "passage_id": "58ac15e8505da51bd437f65bb94dae273c4a09ac219f6152c88054339aae2ec8",
+    "relevance": "Conversation tests the founder’s view of where the market is going.",
+    "classification": "supporting",
+    "span": [
+      244,
+      449
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "capital-geography",
+    "passage_id": "8055c2ce79bc909d26b5902fb1fa05d9b0c485cc6f90be19febcfcd291117bd4",
+    "relevance": "Investments beyond the Valley can occur without a geographic mandate.",
+    "classification": "qualifying",
+    "span": [
+      554,
+      631
+    ],
+    "strength": "contextual"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "73bd1de53d87fb9380caf5661aaae36d3e5758fc0f68ac720d0abaf73cf91f3c",
+    "relevance": "Recruiting strength helps an investor assess whether a management team can scale the product.",
+    "classification": "supporting",
+    "span": [
+      929,
+      1124
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "talent-as-leverage",
+    "passage_id": "ac790aac2a6f9bf246fb6ddfd128721842380e9b458aa6e002ab80b6a939e8a1",
+    "relevance": "Access to hiring networks is one way a founder can demonstrate competence.",
+    "classification": "supporting",
+    "span": [
+      324,
+      485
+    ],
+    "strength": "strong"
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "135bed0dd1f7a900d15a91c8e5c2ee3a8e37bfbda88f1f61868cc8664a6a7dc2",
+    "span": [
+      0,
+      625
+    ],
+    "strength": "strong",
+    "classification": "contrasting",
+    "relevance": "A target of 23–25 companies leaves room to lead rounds and own a meaningful stake."
+  },
+  {
+    "theme": "portfolio-breadth",
+    "passage_id": "c8dcce9bd20eed7cacbfc3f4cb3ade2a7685876a4ea1169b34fbd493fa111583",
+    "span": [
+      432,
+      592
+    ],
+    "strength": "strong",
+    "classification": "supporting",
+    "relevance": "The speaker gives a three-year target for underlying company exposure."
+  },
+  {
+    "theme": "earning-trust",
+    "passage_id": "594ed29b77b00d58cbd7c0b2bee53fcf367b388508f73edf2db47a52052df891",
+    "span": [
+      0,
+      182
+    ],
+    "strength": "strong",
+    "classification": "contrasting",
+    "relevance": "A large company can still need an investor’s help, even without an early relationship."
+  },
+  {
+    "theme": "customer-proof",
+    "passage_id": "922f4da78355895a30c6572729552376995c9e0e461d6e58705965905e134e58",
+    "span": [
+      132,
+      328
+    ],
+    "strength": "strong",
+    "classification": "supporting",
+    "relevance": "Willingness to pay gives the team a way to test the importance of the problem."
+  },
+  {
+    "theme": "pitch-clarity",
+    "passage_id": "e550b1e7dd401f5fdb24766f983318f15a366a1e4f91074f43516c9decddb27f",
+    "span": [
+      177,
+      291
+    ],
+    "strength": "strong",
+    "classification": "supporting",
+    "relevance": "The opening half-minute should tell listeners what the company does."
+  },
+  {
+    "theme": "financing-milestones",
+    "passage_id": "51927fef941cfb500a3ebc0836c7cdf786639bdf09f236d168d11d15f3599b03",
+    "span": [
+      223,
+      476
+    ],
+    "strength": "strong",
+    "classification": "qualifying",
+    "relevance": "Excessive pricing or dilution can constrain the next round."
+  }
+]

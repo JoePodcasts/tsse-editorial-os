@@ -1,0 +1,2105 @@
+[
+  {
+    "episode_id": "simplecast:73bb28b6-72e6-4a8c-94b8-e651d6665e84",
+    "episode_number": 1,
+    "title": "Welcome and quick intro",
+    "source_url": "https://podcast.sure.ventures/episodes/about-the-podcast",
+    "categories": [],
+    "outcome": "unclassified_for_review"
+  },
+  {
+    "episode_id": "simplecast:5268ea16-e232-4b5d-9bec-95c444c049ae",
+    "episode_number": 2,
+    "title": "Lessons from >100 angel investments",
+    "source_url": "https://podcast.sure.ventures/episodes/100-angel-investments",
+    "categories": [
+      "cat-02",
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d5191fc6-eb49-44b8-a1de-e74c3c4096cc",
+    "episode_number": 3,
+    "title": "Future of healthcare needs more empathy and technology",
+    "source_url": "https://podcast.sure.ventures/episodes/growth-mindset",
+    "categories": [
+      "cat-02",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:7ea282e7-771d-4b03-9799-f5261664c249",
+    "episode_number": 4,
+    "title": "Modernize financial infrastructure to democratize prosperity",
+    "source_url": "https://podcast.sure.ventures/episodes/democratize-prosperity",
+    "categories": [
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0971b5c1-381f-4b0a-af5d-9fe56ac41984",
+    "episode_number": 5,
+    "title": "Be bold, compete against incumbents",
+    "source_url": "https://podcast.sure.ventures/episodes/bold-incumbents",
+    "categories": [
+      "cat-01",
+      "cat-04",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:4a19c3b7-2c38-4eff-a00c-6b38539fa3bc",
+    "episode_number": 6,
+    "title": "Devotion to your business will convince skeptics",
+    "source_url": "https://podcast.sure.ventures/episodes/convince-skeptics",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b9c3f19d-fa8e-485c-a3db-4df1f51ba8f3",
+    "episode_number": 7,
+    "title": "Increase diversity in entrepreneurship, now",
+    "source_url": "https://podcast.sure.ventures/episodes/diversity-entrepreneurship",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0cd0fc2a-b63d-4521-b8b1-e8d5fb928b4f",
+    "episode_number": 8,
+    "title": "Entrepreneurship liberates you to solve impactful problems",
+    "source_url": "https://podcast.sure.ventures/episodes/entrepreneurship-is-liberating",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e3c4099e-4825-4192-8501-131c8bbfe5f0",
+    "episode_number": 9,
+    "title": "Build solutions for a large future market",
+    "source_url": "https://podcast.sure.ventures/episodes/future-market",
+    "categories": [
+      "cat-03",
+      "cat-06",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a4deab42-01d1-49f4-aa4c-e96e16cd0f5f",
+    "episode_number": 10,
+    "title": "Design a process to avoid investment biases",
+    "source_url": "https://podcast.sure.ventures/episodes/networks-and-biases",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c74483dd-60d4-48ed-aabf-f183aa2fdb62",
+    "episode_number": 11,
+    "title": "Startups in underdog cities are looking for good investors",
+    "source_url": "https://podcast.sure.ventures/episodes/startups-in-underdog-cities",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b0b4a4f2-62b4-4628-bb97-871ca0fb8900",
+    "episode_number": 12,
+    "title": "Ethos to keep pushing things forward is a rare quality",
+    "source_url": "https://podcast.sure.ventures/episodes/alchemist",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:765a3a11-6cd9-48b5-9a8c-504e8cc81394",
+    "episode_number": 13,
+    "title": "Meet a rare black VC",
+    "source_url": "https://podcast.sure.ventures/episodes/black-vc",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e708156b-ece1-4c4b-a12e-2306a1f5e4ff",
+    "episode_number": 14,
+    "title": "Tell the story of \"why\" to excite investors",
+    "source_url": "https://podcast.sure.ventures/episodes/enterprise-vc",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:4cc35294-3d14-4a13-803d-590e8c098472",
+    "episode_number": 15,
+    "title": "Prepare your investor for the conversation",
+    "source_url": "https://podcast.sure.ventures/episodes/data-driven-vc",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:7a8c5f74-81e1-412d-8d7b-18a721341948",
+    "episode_number": 16,
+    "title": "Immigrant entrepreneurs must overcome unique hurdles",
+    "source_url": "https://podcast.sure.ventures/episodes/immigrant-entrepreneur",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:49b29c85-2857-473e-b476-51c6b6806f3d",
+    "episode_number": 17,
+    "title": "Limited partners influence change from the top",
+    "source_url": "https://podcast.sure.ventures/episodes/lp-gp",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:aaff8b20-b584-4fb0-9718-0f8b95dc62cb",
+    "episode_number": 18,
+    "title": "Seek honest feedback from investors",
+    "source_url": "https://podcast.sure.ventures/episodes/honest-feedback",
+    "categories": [
+      "cat-01",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:041b9ce1-bc40-4788-9033-38948d144b8b",
+    "episode_number": 19,
+    "title": "Latin America is a huge market",
+    "source_url": "https://podcast.sure.ventures/episodes/sv-latam",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:53a4a78d-1104-4289-97dc-734a3830c466",
+    "episode_number": 20,
+    "title": "How does an investor form gut feel?",
+    "source_url": "https://podcast.sure.ventures/episodes/gut-feel",
+    "categories": [
+      "cat-02",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:05d425da-75ae-4bd4-b964-d7f6f8e607a1",
+    "episode_number": 21,
+    "title": "Decision analysis is a high-quality conversation leading to clarity of action",
+    "source_url": "https://podcast.sure.ventures/episodes/decision-analysis",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:1b48f937-a472-4117-b51f-3a42a441ec41",
+    "episode_number": 22,
+    "title": "Build products to serve the middle class",
+    "source_url": "https://podcast.sure.ventures/episodes/middle-class",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e9cf1836-7f70-49a5-b6a3-03ff05980a38",
+    "episode_number": 23,
+    "title": "Growth with negative margins is dangerous",
+    "source_url": "https://podcast.sure.ventures/episodes/unit-economics",
+    "categories": [
+      "cat-05"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:9c62d02e-8590-4de1-9844-e45d33e314d8",
+    "episode_number": 24,
+    "title": "Clarity of thought combined with empathy is a winning combo",
+    "source_url": "https://podcast.sure.ventures/episodes/clarity-of-thought",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:44654700-4cb0-4cae-b376-20c688c2dc0b",
+    "episode_number": 25,
+    "title": "Visionary entrepreneurs have the x-factor",
+    "source_url": "https://podcast.sure.ventures/episodes/x-factor",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:2fbadf7e-0e92-40cf-ad8c-29a251e0d952",
+    "episode_number": 26,
+    "title": "Create unfair advantage with novel technical insights",
+    "source_url": "https://podcast.sure.ventures/episodes/chief-engineer",
+    "categories": [
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:18b641ff-352a-4254-b16c-067b3faaa4c1",
+    "episode_number": 27,
+    "title": "Show your personality on video calls",
+    "source_url": "https://podcast.sure.ventures/episodes/fintech-nyca",
+    "categories": [
+      "cat-02",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:21c84339-89c7-437f-a96d-8c901e9c59c6",
+    "episode_number": 28,
+    "title": "Catch the attention of investors with non-obvious insights",
+    "source_url": "https://podcast.sure.ventures/episodes/non-obvious-insights",
+    "categories": [
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:6aa4c8aa-739a-413a-a6c2-d6c5e63271ab",
+    "episode_number": 29,
+    "title": "Startup ecosystem in Austin, Texas is booming",
+    "source_url": "https://podcast.sure.ventures/episodes/austin-is-booming",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a9d545a6-b23f-482e-92f8-02ca1fef61fa",
+    "episode_number": 30,
+    "title": "Convert frustration into desire to create a new business",
+    "source_url": "https://podcast.sure.ventures/episodes/convert-frustration",
+    "categories": [
+      "cat-05"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0ef2b626-ce6b-4d5e-9e30-a80362e30dad",
+    "episode_number": 31,
+    "title": "Lower your shield and openly communicate with investors",
+    "source_url": "https://podcast.sure.ventures/episodes/openly-communicate",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:db55f8a9-8524-4c05-9c02-53e38bc52622",
+    "episode_number": 32,
+    "title": "Innovate continuously to remain competitive",
+    "source_url": "https://podcast.sure.ventures/episodes/innovate-continuously",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c8c6faa5-e792-4a3c-bcd3-ac45079cc786",
+    "episode_number": 33,
+    "title": "No place in the world is like Silicon Valley",
+    "source_url": "https://podcast.sure.ventures/episodes/silicon-valley",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:1620afec-0217-4849-b40f-48f1749250d1",
+    "episode_number": 34,
+    "title": "Build agile solutions for traditional problems",
+    "source_url": "https://podcast.sure.ventures/episodes/commerce",
+    "categories": [
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:bbcf3b5b-9d87-4cf7-8434-31fded782cb0",
+    "episode_number": 35,
+    "title": "Be efficient. Don't be macho.",
+    "source_url": "https://podcast.sure.ventures/episodes/deeptech",
+    "categories": [
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:36d4154a-47a1-48ac-8dfa-caaa80ca0cf6",
+    "episode_number": 36,
+    "title": "Play the long-game to win in Silicon Valley",
+    "source_url": "https://podcast.sure.ventures/episodes/fusion",
+    "categories": [
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:4bd4a6e9-abee-4aad-a4f4-c5a3503b81ca",
+    "episode_number": 37,
+    "title": "Every day is recruiting day at a startup",
+    "source_url": "https://podcast.sure.ventures/episodes/recruiting-day",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e15d1342-a65c-47e3-99fb-c2af2adfbfa5",
+    "episode_number": 38,
+    "title": "Everything is fintech",
+    "source_url": "https://podcast.sure.ventures/episodes/everything-is-fintech",
+    "categories": [
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d69612b0-afb7-4cb4-9d68-a54cecff3a7f",
+    "episode_number": 39,
+    "title": "Turn venture blueprints into tangible, thriving futures",
+    "source_url": "https://podcast.sure.ventures/episodes/venture-blueprints",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:1abcbdea-d690-4d13-937f-8a09c61b7db1",
+    "episode_number": 40,
+    "title": "Care for your neighbors",
+    "source_url": "https://podcast.sure.ventures/episodes/care-of-neighbors",
+    "categories": [
+      "cat-07",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:1cf0cab6-a348-44c5-bcfd-02811768d8fd",
+    "episode_number": 41,
+    "title": "Win big in niche markets",
+    "source_url": "https://podcast.sure.ventures/episodes/niche-markets",
+    "categories": [
+      "cat-03",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:f8dae3ec-a41b-49fc-a80f-a8a91eedfb99",
+    "episode_number": 42,
+    "title": "Don’t be shy. Good investors like to get their hands dirty.",
+    "source_url": "https://podcast.sure.ventures/episodes/irrvrnt",
+    "categories": [
+      "cat-01",
+      "cat-03",
+      "cat-05"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:689454f3-0441-4a75-bb07-1ce40c47a247",
+    "episode_number": 43,
+    "title": "Reflect, learn and grow",
+    "source_url": "https://podcast.sure.ventures/episodes/reflect-learn-and-grow",
+    "categories": [
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c9fbca28-8043-4e98-a9b4-be9e16133867",
+    "episode_number": 44,
+    "title": "Say “Yes” more often",
+    "source_url": "https://podcast.sure.ventures/episodes/say-yes",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:3ce148f6-d66c-406c-b232-e95fbcd5c46c",
+    "episode_number": 45,
+    "title": "Succeed from your unique starting point",
+    "source_url": "https://podcast.sure.ventures/episodes/succeed-from-your-unique-starting-point",
+    "categories": [
+      "cat-02",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:8515d7d0-1069-4e9e-84ab-1868e0778924",
+    "episode_number": 46,
+    "title": "Foresee future opportunities from today’s innovations",
+    "source_url": "https://podcast.sure.ventures/episodes/foresee-future-opportunities-from-todays-innovations",
+    "categories": [
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:21e549e1-9edc-47e4-86b5-94c706f841cf",
+    "episode_number": 47,
+    "title": "Show empathy for your customers",
+    "source_url": "https://podcast.sure.ventures/episodes/show-empathy-for-your-customers",
+    "categories": [
+      "cat-03",
+      "cat-04",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:1d53d843-3a7d-4326-8dc5-034817d856d8",
+    "episode_number": 48,
+    "title": "Get everyone on the investment team excited about your business",
+    "source_url": "https://podcast.sure.ventures/episodes/get-everyone-excited",
+    "categories": [
+      "cat-03",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:406a365a-2930-4eff-8ed0-32aafd0009b0",
+    "episode_number": 49,
+    "title": "Great entrepreneurs are students of venture capital",
+    "source_url": "https://podcast.sure.ventures/episodes/research-investors-adequately-to-qualify-leads-efficiently",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:1823a4e0-fdc8-474f-a002-e7186c8ccec6",
+    "episode_number": 50,
+    "title": "Start with your childhood story not your resume",
+    "source_url": "https://podcast.sure.ventures/episodes/childhood-not-resume",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:ed30e169-559a-46a8-8b57-3a3701614a3f",
+    "episode_number": 51,
+    "title": "Be persuasive to convince investors, customers and employees",
+    "source_url": "https://podcast.sure.ventures/episodes/persuasive-fintech",
+    "categories": [
+      "cat-01",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:474e83ac-e4d3-43a2-9a5e-a3e6619b6ca8",
+    "episode_number": 52,
+    "title": "Convert investors from non-believers to believers",
+    "source_url": "https://podcast.sure.ventures/episodes/convert-investor-from-non-believer-to-believer",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:80dbc636-4c29-4356-acf4-6155640f3d79",
+    "episode_number": 53,
+    "title": "Say what your company does in 30 seconds",
+    "source_url": "https://podcast.sure.ventures/episodes/ubiquity",
+    "categories": [
+      "cat-01",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e9a6d472-8cfd-4700-a126-bf5b536144f9",
+    "episode_number": 54,
+    "title": "Focus on one user, one use case, and one solution",
+    "source_url": "https://podcast.sure.ventures/episodes/homebrew",
+    "categories": [
+      "cat-01",
+      "cat-03",
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b89bf0a3-0c34-4df6-91f9-9fb043a1db2f",
+    "episode_number": 55,
+    "title": "Look where others are not looking",
+    "source_url": "https://podcast.sure.ventures/episodes/look-where-others-are-not-looking",
+    "categories": [
+      "cat-02",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e9356c4d-19c1-4917-9c16-29e37b0ce316",
+    "episode_number": 56,
+    "title": "No is not a no. You can convert to a yes.",
+    "source_url": "https://podcast.sure.ventures/episodes/no-is-not-a-no",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0fe83567-947f-427e-ae36-520fdc3fce89",
+    "episode_number": 57,
+    "title": "Don’t have it all buttoned up",
+    "source_url": "https://podcast.sure.ventures/episodes/buttoned-up",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c1344c12-8b95-4c3b-9c03-06b0fdd83f03",
+    "episode_number": 58,
+    "title": "Don’t wait for the perfect time",
+    "source_url": "https://podcast.sure.ventures/episodes/dont-wait-for-the-perfect-time",
+    "categories": [
+      "cat-03",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:194fc0f8-1df1-48dd-8d7d-ccaa9b60bbfb",
+    "episode_number": 59,
+    "title": "It’s about people not spreadsheets",
+    "source_url": "https://podcast.sure.ventures/episodes/its-about-people-not-spreadsheets",
+    "categories": [
+      "cat-02",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:fad1d0cf-9833-4eb2-8b90-d1050b207191",
+    "episode_number": 60,
+    "title": "Prioritize cash, team and momentum in that order",
+    "source_url": "https://podcast.sure.ventures/episodes/prioritize-cash-team-and-momentum-in-that-order",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:2cda5aca-9184-41b7-b76e-a3b1b410978e",
+    "episode_number": 61,
+    "title": "Just be yourself",
+    "source_url": "https://podcast.sure.ventures/episodes/just-be-yourself",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c48f9e24-1980-45e7-9189-a5eb681dcaa1",
+    "episode_number": 62,
+    "title": "Technology redefining the future of work",
+    "source_url": "https://podcast.sure.ventures/episodes/future-of-work-starts-with-better-healthcare",
+    "categories": [
+      "cat-01",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:7560da4c-5de7-4823-af53-fac555884b0f",
+    "episode_number": 63,
+    "title": "Show your assumptions",
+    "source_url": "https://podcast.sure.ventures/episodes/show-your-assumptions",
+    "categories": [
+      "cat-01",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:bdd967e6-598c-4800-9492-b1d6d6b06429",
+    "episode_number": 64,
+    "title": "Ambitious Midwest U.S. Founders are Underrated",
+    "source_url": "https://podcast.sure.ventures/episodes/midwest-us-founders-underrated-victor-gutwein-m25",
+    "categories": [
+      "cat-04",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a8c30a40-784e-43cb-9bda-9cc77a6fdb0a",
+    "episode_number": 65,
+    "title": "Balance Commitment to the Vision with Attention to Customers' Needs",
+    "source_url": "https://podcast.sure.ventures/episodes/commitment-to-vision-nick-moran-new-stack",
+    "categories": [
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e6348f6b-f4e0-426e-8090-6320d7409c6b",
+    "episode_number": 66,
+    "title": "Keep the Deck Clear and Concise",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-66-clear-concise-deck-david-forsberg-aev",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:92d8efcc-c1ce-44f6-bfc9-e201f55750ea",
+    "episode_number": 67,
+    "title": "Appetite for Disruption: Alternative Proteins",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse67-alternative-proteins-gautam-good-startup",
+    "categories": [
+      "cat-05",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:15715764-96f9-40be-b572-08c8e72eae54",
+    "episode_number": 68,
+    "title": "Always Be Learning",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-68-always-be-learning-alexa-inspired",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:9d24d1dc-3fac-4a50-bc2e-7f9df2772392",
+    "episode_number": 69,
+    "title": "Put On Your Risk Hat With Debt Investors",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse69-venture-debt-jacob-cim",
+    "categories": [
+      "cat-01",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:efa83df4-f3ea-4c91-abc2-5c04152740f1",
+    "episode_number": 70,
+    "title": "Good Corporate VCs Think Strategically",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse70-cvcs-not-devil-patrick-counterpart",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:8499e05c-1482-4fe7-afc1-0c6c86b64b7b",
+    "episode_number": 71,
+    "title": "Beware of Regulations in Fintech",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse71-fintech-regulation-lucas-timberlake",
+    "categories": [
+      "cat-05",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:68930395-c99e-4677-8e4c-138eccc96c5d",
+    "episode_number": 72,
+    "title": "Construction Technology Will Solve the Global Housing Crisis",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse72-construction-tech-julieta-moradei",
+    "categories": [
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b573d39a-0e7d-42b3-a048-cb47a1743368",
+    "episode_number": 73,
+    "title": "Investing in Pre-revenue Startups",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse73-pre-revenue-startups-charles-precursor",
+    "categories": [
+      "cat-01",
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:008e322c-b949-4773-9676-2e59d76ce5ce",
+    "episode_number": 74,
+    "title": "Do Business with Gratitude",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse74-business-with-gratitude-heather-humanvc",
+    "categories": [
+      "cat-01",
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe",
+    "episode_number": 75,
+    "title": "Avoid ‘Me-too’ Startup Ideas",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse75-fintech-startup-ideas-dan-rosen-commercevc",
+    "categories": [
+      "cat-03",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:5d955cc6-d604-46ab-ad57-7d195c8f88e5",
+    "episode_number": 76,
+    "title": "Do You Have Unlimited Ambition?",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse76-unlimited-ambition-zainjaffer-blue-field",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:ac616ea1-bc14-4eec-a1b9-29da04ff9ec8",
+    "episode_number": 77,
+    "title": "Create Net New Value from Nothing",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse77-net-new-value-chris-wake-atypicalvc",
+    "categories": [
+      "cat-04",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:55701c48-43d8-4ddb-8411-cb5a45fbab00",
+    "episode_number": 78,
+    "title": "Bring Fresh Ideas to Improve Healthcare",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse78-fresh-healthcare-ideas-sam-toole-primaryvc",
+    "categories": [
+      "cat-01",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:417d6875-3e87-4aeb-894c-3dc096f3a14d",
+    "episode_number": 79,
+    "title": "Sell to Investors Authentically",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse79-sell-authentically-nuno-goncalves-chamaeleonvc",
+    "categories": [
+      "cat-01",
+      "cat-02",
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:77032a0f-1385-4465-9849-c17e721f17a8",
+    "episode_number": 80,
+    "title": "Entrepreneurship is a Viable Career Path",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse80-entrepreneurship-viable-career-vikrant",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a5e912ea-38e6-4102-9c0e-f6d6d3a7e499",
+    "episode_number": 81,
+    "title": "Competition is Irrelevant",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse81-competition-is-irrelevant-matth-bcv",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:5f15841a-ef73-45d6-85a3-89545287c16f",
+    "episode_number": 82,
+    "title": "Founders With Long-term Vision Are Not Distracted by Public Market Volatility",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse82-public-market-volatility-michael-forumvc",
+    "categories": [
+      "cat-02",
+      "cat-03",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0252e838-a14c-45b8-a881-192e12dccd3b",
+    "episode_number": 83,
+    "title": "Form Relationships with Investors Before Raising Capital",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse83-relationship-before-fundraising-msuster-upfrontvc",
+    "categories": [
+      "cat-01",
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d55146de-717e-4951-accc-71fe65b2de2b",
+    "episode_number": 84,
+    "title": "Choose Investors Who Solve Problems",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse84-investors-solve-problems-jonathan-vertex",
+    "categories": [
+      "cat-01",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:7b692c64-4dc4-4a00-8897-e64ebdcc6bea",
+    "episode_number": 85,
+    "title": "Investing in Product-Led Growth",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse85-product-led-growth-paige-bgv",
+    "categories": [
+      "cat-02",
+      "cat-03",
+      "cat-05"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:80f82728-4730-4301-b879-2c5907e6aae0",
+    "episode_number": 86,
+    "title": "Is Decentralized Finance Really Getting Decentralized?",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse86-decentralized-finance-andy-two-sigma",
+    "categories": [
+      "cat-02",
+      "cat-03",
+      "cat-04",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:9d8c8145-dbf2-4001-8013-b1cf42f2d74a",
+    "episode_number": 87,
+    "title": "Learn to Look for VCs With Founder Mentality",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse87-vcs-with-founder-mentality-winter-mead",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:1c556dca-dfc1-4398-b890-18d15f96903c",
+    "episode_number": 88,
+    "title": "Successful Founders Are Naive Fast Learners",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse88-naive-fast-learners-schwark-trinityvc",
+    "categories": [
+      "cat-04",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c2836d44-75cb-4c6b-a239-697e46d7a7b2",
+    "episode_number": 89,
+    "title": "Improve Society Using Risk and Insurance",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse89-risk-and-insurance-prof-joan-schmit-cdl",
+    "categories": [
+      "cat-07",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b539857a-eb31-4e1f-88ca-b3c5150a0e9c",
+    "episode_number": 90,
+    "title": "What’s Your North Star?",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse90-north-star-gale-wilkinson-vitalize-vc",
+    "categories": [
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:76a6eb4d-68f1-438c-821d-4bd425312c58",
+    "episode_number": 91,
+    "title": "Stick It Out and Execute, Don’t Fail Easily",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse91-dont-fail-easily-ayush-jain",
+    "categories": [
+      "cat-04",
+      "cat-08",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:16a3d101-e4bb-47ad-b465-faf33aaf56c5",
+    "episode_number": 92,
+    "title": "Choose Investors Who Care",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse92-investors-who-care-maryanna-saenko-future-ventures",
+    "categories": [
+      "cat-01",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d6d6ae77-93f6-478a-936d-f4c96afdd8a2",
+    "episode_number": 93,
+    "title": "Financial Technology Will Create a Better Tomorrow",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse93-fintech-better-tomorrow",
+    "categories": [
+      "cat-05",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d53f7cc5-3aa3-446c-a13a-20c8882c04f8",
+    "episode_number": 94,
+    "title": "Be Ready to Answer Hard Questions",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse94-answer-hard-questions-kfir-kachlon",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b286e5b2-245f-429c-b570-eac576d0b7bc",
+    "episode_number": 95,
+    "title": "Distill the Essence of Your Vision",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-95-distill-vision-essence-andrew-scott",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:58315598-2ffd-4630-aa43-e04259c2b6b0",
+    "episode_number": 96,
+    "title": "Build 12 Months of Barrier to Entry",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-96-build-entry-barrier-ariana-thacker-consciencevc",
+    "categories": [
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a5b8d933-e2fb-43cd-a716-c568e4017e5e",
+    "episode_number": 97,
+    "title": "Tell Your Story of Why",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse97-your-why-story-taylor-clauson",
+    "categories": [
+      "cat-01",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:23d9ebc9-ce2d-49db-a2ae-565ce3ac2a29",
+    "episode_number": 98,
+    "title": "Break Rules, Don’t Break the Law",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-98-break-rules-not-law-jasleen-kaur-nyca",
+    "categories": [
+      "cat-01",
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:4a03af57-b4ac-4f4c-bb0b-be22074c85a1",
+    "episode_number": 99,
+    "title": "The Difference Between Success and Failure is Right Between Your Ears",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse99-success-failure-difference-mike-smerklo-next-coast",
+    "categories": [
+      "cat-01",
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:3d2e22f6-e5cf-42cc-b067-0e554a353409",
+    "episode_number": 100,
+    "title": "Listen to Remarkable People",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse100-listen-to-remarkable-people-guy-kawasaki",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0de7c0b1-6088-4d68-a329-34960b3ae11e",
+    "episode_number": 101,
+    "title": "Show Strong Metrics to Stand Out",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse101-show-strong-metrics-edward-suh-alpinevc",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:086cebb4-b2d6-4f19-9ec5-1cc9be5953af",
+    "episode_number": 102,
+    "title": "Cool Technology is Not a Hot Company",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse102-cool-technology-chris-kim",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+    "episode_number": 103,
+    "title": "Be a Badass Founder",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse103-badass-founder-chingona",
+    "categories": [
+      "cat-01",
+      "cat-02",
+      "cat-03",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:078d2402-0f24-4783-b7bc-524ef644b71b",
+    "episode_number": 104,
+    "title": "Identify an Extreme Pain Point",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse104-extreme-pain-point-tom-ferguson",
+    "categories": [
+      "cat-03",
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:cb7634ac-14fd-4cb7-91f2-892f1dee7839",
+    "episode_number": 105,
+    "title": "Can You Plan for No Fundraising in the Future?",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse105-no-fundraising-future-semil-shah",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:090de2df-ba16-46a4-90f5-e82db73322f7",
+    "episode_number": 106,
+    "title": "Fintech Startups Are Underdogs Who Innovate",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse106-fintech-startups-innovate-ryan-falvey",
+    "categories": [
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:89cb85c5-59a2-4f7a-ae93-274ab677a8f9",
+    "episode_number": 107,
+    "title": "Deep Tech Startups Are Thriving",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse107-deep-tech-startups-karthee-madasamy",
+    "categories": [
+      "cat-02",
+      "cat-03",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c503ba72-b034-4c49-b2ba-bf55aa5d3e39",
+    "episode_number": 108,
+    "title": "Will You Raise Series A in 12 Months?",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse108-series-a-12-months-richard-kerby",
+    "categories": [
+      "cat-01",
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:fcb30e08-b756-4688-af39-60a19bac2fc0",
+    "episode_number": 109,
+    "title": "Venture Capital Will Open To All Investors",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse109-venture-capital-open-eric-woo-revere-vc",
+    "categories": [
+      "cat-02",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+    "episode_number": 110,
+    "title": "Grow Responsibly With Patient Investors",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse110-grow-responsibly-david-thacker",
+    "categories": [
+      "cat-01",
+      "cat-04",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b291d4ef-8c94-4de8-951a-5b61ca8231d5",
+    "episode_number": 111,
+    "title": "Don’t Lose Contact with Investors, Stay in Touch",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse111-contact-with-investors-manu-kumar",
+    "categories": [
+      "cat-01",
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:5d169383-43cd-4c17-8dac-193df68c34cc",
+    "episode_number": 112,
+    "title": "Diversified VC Portfolios Find Big Winners",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse112-diversified-vc-portfolios-jamie-rhode",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:42a4fa46-d3c4-4998-951a-fd6f59e858c4",
+    "episode_number": 113,
+    "title": "Build Strategies Around Who You Are",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-113-strategies-around-you-alex-edelson",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a551824a-d926-4a44-814a-f6520d5ce9d2",
+    "episode_number": 114,
+    "title": "Politics is Like Venture Capital. Really!",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse114-politics-like-vc-adrian-fenty",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:58d15263-fb67-4c72-9683-3312dfd88eab",
+    "episode_number": 115,
+    "title": "Let’s Demystify the Venture Capital Asset Class",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse115-lets-demystify-vc-fernando-pontaza",
+    "categories": [
+      "cat-02",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:9a33fceb-c262-4c00-b3ed-2dd64ce223d9",
+    "episode_number": 116,
+    "title": "Build Products from the Ground Up",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse116-build-ground-up-tanvi-narain",
+    "categories": [
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d7e322bf-503a-470f-a835-7dd927dc2218",
+    "episode_number": 117,
+    "title": "The Future of Insurance is Collaboration",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse117-future-of-insurance-bryan-falchuk-david-gritz",
+    "categories": [
+      "cat-05",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:ba4e84c0-33e2-4b67-a128-ca5fd4f7c368",
+    "episode_number": 118,
+    "title": "AI is a Mega-Trend Like the Internet, Social and Mobile",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse118-ai-big-mega-trend-munjal-shah",
+    "categories": [
+      "cat-01",
+      "cat-06",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0deccdfe-e6a0-4e0a-8144-ca8f57ceda2f",
+    "episode_number": 119,
+    "title": "The Insurance Industry Desperately Needs Startups",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse119-insurance-needs-startups-charles-moldow",
+    "categories": [
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+    "episode_number": 120,
+    "title": "Change The Financial System",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-120-change-financial-system-ruth-foxe-blader",
+    "categories": [
+      "cat-01",
+      "cat-02",
+      "cat-03",
+      "cat-04",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:53afd7c5-c9c8-4329-9b7b-168b8df01147",
+    "episode_number": 121,
+    "title": "No Means Not Now; Keep Trying",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse121-no-means-not-now-david-york-top-tier",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a03fb587-6ec7-4204-bb70-4a55623b1c9a",
+    "episode_number": 122,
+    "title": "VCs Help Startups Recruit Great Candidates and Catch Liars",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse122-vcs-catch-liars-oren-zeev",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:6f5048a7-baa5-42c7-b272-89994adf52f8",
+    "episode_number": 123,
+    "title": "Software Will Solve Broken Systems in Every Aspect of Healthcare",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse123-healthcare-software-investing-scott-barclay",
+    "categories": [
+      "cat-05",
+      "cat-06",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b0e3ffc3-1b99-4448-9c01-a4350e4949ef",
+    "episode_number": 124,
+    "title": "Create New Industry Categories",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse124-category-defining-companies-eric-ver-ploeg",
+    "categories": [
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:40f4e1a8-8b51-45f9-8c16-b8f709dfd0aa",
+    "episode_number": 125,
+    "title": "US-India Startup Ecosystem is Booming",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse125-us-india-startup-ecosystem-priya",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:eed83131-61f5-4654-89a1-4ca17ba485a9",
+    "episode_number": 126,
+    "title": "Put Moolah in the Coolah",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse126-moolah-in-coolah-chris-douvos",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:8c412426-d47f-4da3-9f90-6f252d5b15fa",
+    "episode_number": 127,
+    "title": "Understand Nuances of Culture to Build Useful Products",
+    "source_url": "https://podcast.sure.ventures/episodes/understand-culture-nuances-theresa-blissing",
+    "categories": [
+      "cat-03",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:961bcb46-9039-4514-b8a9-afd11445908b",
+    "episode_number": 128,
+    "title": "Concentrated Investments Can Generate Top Tier Returns, While Diversified Index Aims for Average",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-128-concentrated-investments-aram-verdiyan",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:9d4a40b2-53db-4a9a-90b0-1fd8416551cd",
+    "episode_number": 129,
+    "title": "VC is an Important Asset Class for Endowments to Generate Alpha",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse129-vc-generates-alpha-miles-dieffenbach",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:a7166503-eec2-4e62-b455-946db1a8f608",
+    "episode_number": 130,
+    "title": "Work With Your Investor to Build Strategic Partnerships",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse130-strategic-partnerships-with-investors-steve-pretre",
+    "categories": [
+      "cat-01",
+      "cat-05",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:80ee24fe-418b-4010-8388-598e0d615757",
+    "episode_number": 131,
+    "title": "Attract High-Quality Limited Partners Who Value Your Experience",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse131-high-quality-limited-partners-justin-dyer",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:8b3723c0-58f2-4956-b3c0-8ac90aa734b5",
+    "episode_number": 132,
+    "title": "Founders, and All Leaders, Need a Coach",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse132-leaders-need-coaching-patrick-mork",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:6ed4e699-6451-4eaa-b79a-ec88fa671d27",
+    "episode_number": 133,
+    "title": "A Global Village of Luminaries Help Founders Unleash Potential",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse133-global-village-vc-anne-dwane",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+    "episode_number": 134,
+    "title": "Make Venture Capital Work for Everyone, Including LGBT Founders and Investors",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse134-vc-for-everyone-lorenzo-thione",
+    "categories": [
+      "cat-01",
+      "cat-04",
+      "cat-06",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:681d3510-0750-4163-aa07-52c975391de5",
+    "episode_number": 135,
+    "title": "Path to Success is Never Linear",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse135-path-to-success-aakar-vachhani",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:42587868-9b4a-4a23-867d-3096d1a9f536",
+    "episode_number": 136,
+    "title": "Experienced VCs Investing in Under-crowded Markets with Concentrated Portfolios Win",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-136-concentrated-portfolios-win-eric-sippel",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:21e1a26e-e983-4e4e-b381-55341654d54c",
+    "episode_number": 137,
+    "title": "Don’t Let the Curse of Knowledge Drag You into Details",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse137-climate-tech-investing-tommy-leep",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:fac1ddc0-8d4a-4487-a8fb-aadc6e92527d",
+    "episode_number": 138,
+    "title": "Keep It Simple and Embrace Uncertainty",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse138-keep-it-simple-phil-edmundson",
+    "categories": [
+      "cat-04",
+      "cat-06",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:12549d0c-c060-486b-aaa1-8d21add096eb",
+    "episode_number": 139,
+    "title": "Engage With Customers Sooner Than Later When You Build AI Solutions",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse139-customer-first-ai-solutions-vijay-reddy",
+    "categories": [
+      "cat-03",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d8575018-ca1d-4be3-ac50-22e0b1e02c0d",
+    "episode_number": 140,
+    "title": "Family Office with Three Sisters Finds Alpha Through VCs",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse140-family-office-alexa-binns",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:2bb87782-f94d-431f-8134-41edd3c7c735",
+    "episode_number": 141,
+    "title": "Founders Are Made, Not Born. You Can Learn the Craft",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse141-founders-are-made-chris-mckelvy",
+    "categories": [
+      "cat-04",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e5612c8b-f68c-4ef2-a2ea-edaea0dc1475",
+    "episode_number": 142,
+    "title": "Make Sustainability Cool to Appeal to the Human Side",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse142-appeal-to-human-side-atlas-berry",
+    "categories": [
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:4027af88-2d27-4891-a621-ec11322f9ae0",
+    "episode_number": 143,
+    "title": "VC is a Truth Seeking Exercise",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse143-vc-is-truth-seeking-vishal-tripathi",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:40a4e066-c609-40de-a83f-fbd345cfaf55",
+    "episode_number": 144,
+    "title": "Courageous Entrepreneurs Are Heroes, Not Consensus Seekers",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse144-courageous-entrepreneurs-dan-kimerling",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:255a3a22-8931-40a3-a4d1-e93a53d0fd6b",
+    "episode_number": 145,
+    "title": "Prioritize Innovation Using Artificial Intelligence, Don't Fear AGI",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse145-sustainable-ai-innovation-gayathri",
+    "categories": [
+      "cat-05",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:8dcbe28c-e754-45d1-ba12-44c0f10aa3a1",
+    "episode_number": 146,
+    "title": "Patiently Teach Investors What You Know to Win Them Over",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse146-patiently-teach-investors-venktesh",
+    "categories": [
+      "cat-01",
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:081f2210-b721-4e7b-9c0a-e86d91a259f4",
+    "episode_number": 147,
+    "title": "Believe in People Early, Earn Lifelong Trust",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-147-believe-in-people-early-ben-black-akkadian",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:66915e52-1306-4f6c-a974-f8eb5307a599",
+    "episode_number": 148,
+    "title": "Build Businesses to Make Everyone’s Lives Better",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse148-make-everyones-lives-better-aaron-webster",
+    "categories": [
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c14463d2-d6a1-41ac-88d2-a5c916c50441",
+    "episode_number": 149,
+    "title": "Impact a Billion and Make a Billion",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse149-impact-a-billion-transform-vc",
+    "categories": [
+      "cat-01",
+      "cat-04",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:c9a4e238-1052-41a9-9540-fad313b52f26",
+    "episode_number": 150,
+    "title": "Learn How to Take Advice from the Right People at the Right Time",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse150-take-right-advice-rajan-upekkha",
+    "categories": [
+      "cat-05"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d5fe6669-5823-41e7-9e8c-fbf7b3e1716d",
+    "episode_number": 151,
+    "title": "Grit and Passion are Important; Ideas are a Dime a Dozen",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse151-ideas-are-dime-a-dozen",
+    "categories": [
+      "cat-04",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:18e74102-241f-42a7-af35-b35c0e410dbb",
+    "episode_number": 152,
+    "title": "Water Conservation to Venture Capital Through Arranged Marriage",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse152-water-conservation-to-venture-capital-lochan-alagh",
+    "categories": [
+      "cat-02",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b49d0de7-0578-4487-ae8d-9d3e17691075",
+    "episode_number": 153,
+    "title": "Use Your Superpowers, Don’t Dilute Your Efforts",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse153-use-your-superpowers-jessie-guo",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:58ee6413-b744-4f39-b3d1-74e8b04aa2a6",
+    "episode_number": 154,
+    "title": "Do Great Work. VCs Will Find You.",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse154-do-great-work-vcs-will-find-you-yigit-ihlamur",
+    "categories": [
+      "cat-02",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:12586092-9184-4a29-911a-0860f57cd464",
+    "episode_number": 155,
+    "title": "Build AI Solutions for Overlooked Legacy Industries",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse155-ai-solutions-for-legacy-dave-anderson",
+    "categories": [
+      "cat-06",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:7c2947a4-ec99-450e-baa3-07e12b81793c",
+    "episode_number": 156,
+    "title": "Build What the World Needs, Not Gratuitously",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse156-build-for-need-neil-devani",
+    "categories": [
+      "cat-01",
+      "cat-04",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+    "episode_number": 157,
+    "title": "Latam Entrepreneurs Use Venture Capital Networks to Expand Globally",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse157-latam-venture-capital-felipe-camposano",
+    "categories": [
+      "cat-03",
+      "cat-04",
+      "cat-05",
+      "cat-07",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:5e1ed233-d1b8-4c83-8904-4f6f9341304f",
+    "episode_number": 158,
+    "title": "Look for Early Believers, Not Just Capital Providers",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse158-early-believers-pablo-srugo",
+    "categories": [
+      "cat-01",
+      "cat-03"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:18bcc2bc-80d3-41c6-88fc-ecf48138982c",
+    "episode_number": 159,
+    "title": "Build Relationships with Investors to Create Game‑Changing Companies",
+    "source_url": "https://podcast.sure.ventures/episodes/sse159-create-gamechanging-companies-david-hornik",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:96b07626-e3ef-4f5d-9103-97491b5f0019",
+    "episode_number": 160,
+    "title": "Show Real Traction, Not Just Projections",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse160-show-real-traction-connor-ryan",
+    "categories": [
+      "cat-01",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:7a1af9ae-2855-4961-be23-11e2116072f4",
+    "episode_number": 161,
+    "title": "Build a Local Startup, Dream Global Impact",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-161-build-global-at-home-allen-taylor",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:ed8b97d0-b326-4103-8b12-247ad9c3ce2b",
+    "episode_number": 162,
+    "title": "Enable Children with Special Needs to Thrive (Special Podcasthon episode)",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse162-enable-children-with-special-needs-to-thrive-stephen-crook",
+    "categories": [],
+    "outcome": "unclassified_for_review"
+  },
+  {
+    "episode_id": "simplecast:0e4b848f-10b1-4700-8d11-5237d97501e8",
+    "episode_number": 163,
+    "title": "Master Your Technical Edge, Solve the Right Problem, and Scale Big",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse163-solve-the-right-problem-andrew-cleland",
+    "categories": [
+      "cat-03",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:019bd30d-ddca-41fa-a2db-18d34a7bc743",
+    "episode_number": 164,
+    "title": "Ship Fast, Sell Faster, Validate Deeply",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse164-ship-fast-sell-faster-mahesh-ram",
+    "categories": [
+      "cat-03",
+      "cat-04",
+      "cat-06",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0e86db85-591e-4991-a58b-4c310c9f1919",
+    "episode_number": 165,
+    "title": "Don’t Suffer to Succeed, A Peaceful Mind Will Take You Further",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse165-dont-suffer-to-succeed-tomoko-ishikura",
+    "categories": [
+      "cat-04",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:69a84f73-a6bc-4af8-a0f3-02abdc48b752",
+    "episode_number": 166,
+    "title": "Don’t Just Pitch; Connect with Investors Through Vision",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse166-dont-just-pitch-nadav-eylath",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:f8875336-c5e4-4c7f-a215-d246e95ec3a6",
+    "episode_number": 167,
+    "title": "Stop What Could Go Wrong and Build a Safer AI Future",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse167-safer-ai-future-geoff-ralston",
+    "categories": [
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:6640ce0b-4e59-4b38-824c-80ce77ed7c7e",
+    "episode_number": 168,
+    "title": "A Better Food Future Starts with Founders Who Get It",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-168-better-food-future-brian-frank",
+    "categories": [
+      "cat-01",
+      "cat-06",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:fa693df2-5ffd-48ab-8eeb-dd1fe8224b48",
+    "episode_number": 169,
+    "title": "Secondaries are Essential for the Venture Capital Market",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse169-secondaries-are-essential-dave-mcclure",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0f010f57-2fdc-45f0-bb30-c073e2940f74",
+    "episode_number": 170,
+    "title": "Transform Sick Care to Healthcare",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-170-sick-care-to-healthcare-amit-garg",
+    "categories": [
+      "cat-01",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:857453c9-ace1-4c46-b4f3-af9eefd84ba8",
+    "episode_number": 171,
+    "title": "Your Biggest Danger Is an Inbound",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse171-biggest-danger-is-an-inbound-jacques-benkoski",
+    "categories": [
+      "cat-05",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e091dc9b-abaa-422d-83b4-ef9a2c875650",
+    "episode_number": 172,
+    "title": "Don’t Ditch the Pitch Deck",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-172-dont-ditch-the-pitch-deck-zach-noorani",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:5321b62f-dcfb-4566-a943-032aceaf2b38",
+    "episode_number": 173,
+    "title": "Learn the Art of Intentional Networking",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-173-intentional-networking-bhaskar-ghosh",
+    "categories": [
+      "cat-05",
+      "cat-06",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0adb8f6a-0593-45b7-9c59-d32206c375db",
+    "episode_number": 174,
+    "title": "Don’t Overstretch; Raise The Right Amount of Funding",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse174-dont-overstretch-funding-tim-guleri",
+    "categories": [
+      "cat-01"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:d7878b46-2288-416c-a75f-9ff9a13ca530",
+    "episode_number": 175,
+    "title": "Make the Positive Power of Venture Capital Reach All Communities",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse175-venture-capital-positive-power-maryam-haque",
+    "categories": [
+      "cat-02",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:e21e9775-1b22-4922-a3df-09f8b970c3ce",
+    "episode_number": 176,
+    "title": "Be the Quirky Underdog Obsessed About Building the Next New Thing",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse176-the-quirky-underdog-adam-draper",
+    "categories": [
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:9827af17-5de9-470a-a6b9-d2bf0c001fb3",
+    "episode_number": 177,
+    "title": "Artificial Intelligence is Becoming Service-First",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse177-ai-is-becoming-service-first-itamar-novick",
+    "categories": [
+      "cat-04",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:4b3f3f86-fc3a-41d8-940f-b7b619b896e4",
+    "episode_number": 178,
+    "title": "Show Commitment to the Mission You Care About",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse178-show-commitment-to-the-mission-stephen-wemple",
+    "categories": [
+      "cat-01",
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:48363488-c67c-465d-9b56-d6b6a7597968",
+    "episode_number": 179,
+    "title": "Emerging Managers Succeed by Diversifying, Starting Early, and Staying Consistent",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse179-start-early-stay-consistent-steve-kim",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:886cd152-35d0-46ad-b7cc-791ce4aa2048",
+    "episode_number": 180,
+    "title": "Ignore the Bubble, Chase Alpha",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse180-ignore-the-bubble-amias-gerety",
+    "categories": [
+      "cat-02",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+    "episode_number": 181,
+    "title": "Are You Willing to Deal With the Pain of Building a Successful Business?",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse181-pain-of-building-jonathan-crystal-vc",
+    "categories": [
+      "cat-01",
+      "cat-02",
+      "cat-06",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:f909f265-f3f7-4af3-98d6-28164b87ae27",
+    "episode_number": 182,
+    "title": "We are in a Bubble of Bubble Talk, Not in a Real Financial Bubble",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse182-bubble-talk-aman-verjee",
+    "categories": [
+      "cat-02",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:f16996bf-c8e5-4ccb-81ef-3ad4ca5699f5",
+    "episode_number": 183,
+    "title": "AI Will Not Save You. Reinvention Will.",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse183-ai-will-not-save-you-kapil-surlaker",
+    "categories": [
+      "cat-04",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:b240a540-e46c-4fe6-bf00-6a1e286cc7e2",
+    "episode_number": 184,
+    "title": "Improve Healthcare Access for Overlooked Populations",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse184-improve-healthcare-access-jessica-karr",
+    "categories": [
+      "cat-03",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:556c6e60-062c-4c69-982c-68eae900d909",
+    "episode_number": 185,
+    "title": "Some Ideas Can’t Wait. Accelerate Now.",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse185-accelerate-now-1517-fund",
+    "categories": [
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:3e85baa8-93e9-4af1-ba9a-f850036714a4",
+    "episode_number": 186,
+    "title": "Unlock Breakthroughs as Physical and Digital Worlds Merge",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse18-physical-and-digital-worlds-merge-debjit-mukerji",
+    "categories": [
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:0b120f95-2e8a-4be8-aa29-fe062e5f1dbf",
+    "episode_number": 187,
+    "title": "Skip the InsurTech Hype and Focus on What Actually Works",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-187-skip-the-insurtech-hype-gilad-shai",
+    "categories": [
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:ff0bef5c-7257-436c-907a-3f16a7f36691",
+    "episode_number": 188,
+    "title": "Young Kind Leaders are Our Hope for a Better Future",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse188-kind-leaders-better-future-ian-sandler",
+    "categories": [
+      "cat-01",
+      "cat-04"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:00a24c04-5983-4c5e-9f8d-b862fc602213",
+    "episode_number": 189,
+    "title": "Winning Founders Build with Authenticity, Adaptability, and Resilience",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn",
+    "categories": [
+      "cat-02",
+      "cat-04",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:4a5020ba-4b99-447d-a4b3-4f7ba206012b",
+    "episode_number": 190,
+    "title": "Develop a Point of View and Let Your Advantage Compound",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:3ae69392-b535-45ae-ac78-27639c425637",
+    "episode_number": 191,
+    "title": "Have desire to build with unwavering commitment",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-191-desire-to-build-justin-smith-lorenzetti",
+    "categories": [
+      "cat-01",
+      "cat-05",
+      "cat-07"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:26fe7470-0a22-4d8c-808b-ed7f03b3cf84",
+    "episode_number": 192,
+    "title": "Don't Compete on Artificial Intelligence. Compete on Insight.",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse192-compete-on-insight-amir-kabir",
+    "categories": [
+      "cat-03",
+      "cat-06",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:856da7b2-3fe0-466f-9b88-7d9360772e83",
+    "episode_number": 193,
+    "title": "Demonstrate Ambition Before You Ask Investors to Believe in You",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse193-demonstrate-ambition-sudarshan-sridharan",
+    "categories": [
+      "cat-01",
+      "cat-04",
+      "cat-06"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:79b1b5a3-fd8e-410a-803d-9c48b446b6c7",
+    "episode_number": 194,
+    "title": "Why Founders Matter More Than Their Ideas at the Earliest Stages",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse-194-founders-matter-more-than-ideas-isabel-bescos",
+    "categories": [
+      "cat-02",
+      "cat-04",
+      "cat-09"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:254fc97f-8c85-4d1a-bc84-0e230ec99cb5",
+    "episode_number": 195,
+    "title": "Show Proof of Value Before You Build for Scale",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse195-show-proof-of-value-rohini-chakravarthy",
+    "categories": [
+      "cat-03",
+      "cat-06",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:49d30d6b-fb95-44df-aa8c-7097555cd0c2",
+    "episode_number": 196,
+    "title": "Think from first principles. Play to your natural advantage.",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse196-first-principles-pavel-prata",
+    "categories": [
+      "cat-02"
+    ],
+    "outcome": "proposed"
+  },
+  {
+    "episode_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+    "episode_number": 197,
+    "title": "Build innovative solutions for under-digitized critical industries",
+    "source_url": "https://podcast.sure.ventures/episodes/tsse197-under-digitized-critical-industries-dan-borok",
+    "categories": [
+      "cat-02",
+      "cat-08"
+    ],
+    "outcome": "proposed"
+  }
+]

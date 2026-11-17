@@ -1,0 +1,68 @@
+[
+  {
+    "themes": [
+      "portfolio-breadth",
+      "capital-geography"
+    ],
+    "passage_ids": [
+      "20fff3a7670c49fc6fed27972914484bec225706eca6f13bbb7070c053a44dc8",
+      "1b6e1918be3efd2f8a6a12d5b6215c6d250233a28836d22793d256d7d17975dd"
+    ],
+    "interpretation": "Both conversations ask who can reach scarce managers. One describes a pooled vehicle, the other the historical advantage of proximity."
+  },
+  {
+    "themes": [
+      "earning-trust",
+      "distribution-partners"
+    ],
+    "passage_ids": [
+      "3ef55723cd5187c4e7a7a1b348dabe7afbb5e091e4c106d2d361cc024282740b",
+      "e493b9cda03901c83cd4a34853f0c6b4d92b39115608e2687a25b9d4a9ae972c"
+    ],
+    "interpretation": "Introductions can show an investor’s value before a round. In insurance the broker and claims networks explain why some introductions have commercial value."
+  },
+  {
+    "themes": [
+      "founder-insight",
+      "customer-proof"
+    ],
+    "passage_ids": [
+      "86db3653bb2a1328d9d17497053ee0cbb049e80fe22c2b35868142f905000829",
+      "18bb423f31ff1f0b3814024a9610919fcfecb2ac3e7c315938ba896d2cbc7816"
+    ],
+    "interpretation": "A founder’s account of a gap can be tested through a sequence of interviews and product iterations."
+  },
+  {
+    "themes": [
+      "customer-proof",
+      "financing-milestones"
+    ],
+    "passage_ids": [
+      "18bb423f31ff1f0b3814024a9610919fcfecb2ac3e7c315938ba896d2cbc7816",
+      "9d77c708417e23b72b49b610bf56d589adbcfa58f402ae6341abf492974a09cd"
+    ],
+    "interpretation": "The studio’s discovery process gives concrete content to the question of what the next round should finance."
+  },
+  {
+    "themes": [
+      "pitch-clarity",
+      "talent-as-leverage"
+    ],
+    "passage_ids": [
+      "28ac1894b683ef17a4de26176b45ab79b1d707abc029ac3bf5b92bb98bc6643d",
+      "73bd1de53d87fb9380caf5661aaae36d3e5758fc0f68ac720d0abaf73cf91f3c"
+    ],
+    "interpretation": "Both conversations treat a founder’s explanation as evidence of an ability to recruit a team."
+  },
+  {
+    "themes": [
+      "earning-trust",
+      "founder-insight"
+    ],
+    "passage_ids": [
+      "2c19a15e3cdaf79b3adcb3d0ca709e736bca8bfec7ac6b3f5d0b9d257d1f7459",
+      "0fb7ab8c509f142f95dc07747c3c26996a860afe2c708c2ff32ed84315a3534b"
+    ],
+    "interpretation": "Time together lets an investor examine how a founder came to understand a particular pain point."
+  }
+]
