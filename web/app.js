@@ -237,7 +237,16 @@ async function archiveView(params, ticket) {
   const hero = el('section', 'hero' + (params.get('q') ? ' search-mode' : ''));
   hero.append(el('span', 'eyebrow', 'The Sure Shot Entrepreneur'), el('h1', '', 'Content Archive'),
     el('p', 'intro', 'Search episodes, transcripts and published show notes.'), el('span', 'hero-index', 'An archive of entrepreneurial thinking'));
-  hero.append(link('Ask the TSSE Archive →', '/ask', 'text-link'));
+  const invitation = el('div', 'ask-invitation');
+  invitation.append(
+    el('h2', '', 'Curious about a startup topic?'),
+    el('p', '',
+      'Ask a question about entrepreneurship, venture capital, fundraising, or another topic that interests you. Discover what TSSE guests have shared, explore different perspectives, and follow links to the original conversations.')
+  );
+  invitation.append(
+    link('Ask the TSSE Archive →', '/ask', 'ask-cta')
+  );
+  hero.append(invitation);
   main.append(hero);
   if (params.get('episode')) {
     const scope = el('div', 'scope');

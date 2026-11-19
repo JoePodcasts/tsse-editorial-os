@@ -1354,3 +1354,63 @@ main:focus {
 .category-row {display:grid;grid-template-columns:3rem 1fr;gap:1rem;padding:1.15rem .25rem;border-top:1px solid var(--line)}
 .category-row .source-hint {margin:.3rem 0}
 .category-row h2 a:hover {text-decoration:underline}
+
+
+.ask-invitation {
+  max-width:720px;
+  margin-top:30px;
+  padding:24px 28px;
+  border-left:4px solid var(--cyan);
+  background:var(--wash);
+  border-radius:4px
+}
+
+.ask-invitation h2 {
+  font-size:23px;
+  line-height:1.25;
+  font-weight:600;
+  letter-spacing:-.3px
+}
+
+.ask-invitation p {
+  margin-top:10px;
+  font-size:16px;
+  line-height:1.6;
+  color:var(--muted)
+}
+
+.ask-cta {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  margin-top:20px;
+  padding:13px 22px;
+  min-height:48px;
+  background:var(--cyan);
+  color:var(--navy);
+  border-radius:4px;
+  font-size:16px;
+  font-weight:700;
+  text-decoration:none
+}
+
+.ask-cta:hover {
+  background:#32cce8;
+  text-decoration:none
+}
+
+@media(max-width:600px) {
+  .ask-invitation {
+    padding:20px;
+    margin-top:25px
+  }
+
+  .ask-invitation h2 {
+    font-size:21px
+  }
+
+  .ask-cta {
+    width:100%;
+    text-align:center
+  }
+}
