@@ -42,6 +42,33 @@ def natural_spans(text, max_length=1800):
         if text[left:right].strip():yield left,right
 
 
+def attributed_spans(text):
+    """Carry the most recent valid speaker label across transcript passages.
+
+    Preserve the original passage boundaries, text and offsets.
+    Attribution is inferred from transcript structure, not verified audio.
+    """
+    labels = iter(turns(text))
+    upcoming = next(labels, None)
+    speaker = None
+
+    for start, end in natural_spans(text):
+        explicit = False
+
+        while upcoming is not None and upcoming.start() <= start:
+            speaker = (upcoming.group(1) or upcoming.group(2)).strip()
+            explicit = upcoming.start() == start
+            upcoming = next(labels, None)
+
+        attribution = (
+            "explicit" if explicit
+            else "inherited" if speaker
+            else "unknown"
+        )
+
+        yield start, end, speaker, attribution
+
+
 class Paragraphs(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True);self.depth=0;self.parts=[];self.blocks=[]
@@ -82,11 +109,13 @@ def source_documents(root,record,entry,kind):
     if not a.available(entry):return
     text=(root/entry['derived_text']['path']).read_bytes().decode('utf-8')
     source=entry['current_version']
-    for start,end in natural_spans(text):
+    spans = (
+        attributed_spans(text) if kind == 'transcript'
+        else ((start, end, None, 'not_applicable')
+              for start, end in natural_spans(text))
+    )
+    for start, end, speaker, attribution in spans:
         excerpt=text[start:end]
-        label=TURN.match(excerpt) if kind=='transcript' else None
-        if label and not a.plausible_label(label.group(1) or label.group(2)):
-            label=None
         times=list(a.TIME_RE.finditer(excerpt))
         locator={'source_id':entry['source_id'],'source_path':source['path'],'source_sha256':source['sha256'],
                  'source_field':entry['source_field'],'text_path':entry['derived_text']['path'],
@@ -97,7 +126,8 @@ def source_documents(root,record,entry,kind):
                'title':record['official_title'],'episode_url':record['episode_url'],'source_type':kind,
                'text':excerpt,'locator':locator,'source_url':entry['source_url'],
                'timestamp':times[0].group() if times else None,
-               'speaker_label':(label.group(1) or label.group(2)).strip() if label else None,
+               'speaker_label':speaker,
+               'speaker_attribution':attribution,
                'speaker_accuracy':'unverified' if kind=='transcript' else 'not_applicable','passage_method':VERSION}
 
 
