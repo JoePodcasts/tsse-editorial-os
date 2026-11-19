@@ -1,6 +1,7 @@
 name: Preview Ask the TSSE Archive
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - feature/ask-tsse-archive-phase3c
