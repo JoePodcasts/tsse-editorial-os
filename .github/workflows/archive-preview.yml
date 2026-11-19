@@ -54,9 +54,9 @@ jobs:
         env:
           ARCHIVE_STATUS_TOKEN: ${{ github.token }}
         run: |
-          python3 -B -m unittest discover -s tests/deployment -q
           vercel build
           python3 -B tests/deployment/check_prebuilt.py
+          python3 -B -m unittest discover -s tests/deployment -q
 
       - name: Deploy Preview only
         env:
