@@ -82,9 +82,9 @@ class DiscoveryTests(unittest.TestCase):
         state = reply['state'];state['suggestions'] = ['What role does integrity play?']
         follow = guide.answer(self.app, {'question':state['suggestions'][0], 'state':state})
         self.assertEqual(follow['topic'], topic)
-        self.assertLessEqual(len(follow['state']['episode_ids']), 4)
+        self.assertLessEqual(len(follow['state']['episode_ids']), 6)
         self.assertLessEqual(len(follow['state']['passage_ids']), 8)
-        for state in [{'episode_ids':['x']*5}, {'passage_ids':['invented']}, {'topic':'x'*601}]:
+        for state in [{'episode_ids':['x']*7}, {'passage_ids':['invented']}, {'topic':'x'*601}]:
             with self.assertRaises(APIError):
                 guide.answer(self.app, {'question':'Hello', 'state':state})
 
@@ -120,7 +120,12 @@ class DiscoveryTests(unittest.TestCase):
         with patch.dict(os.environ, TSSE_CHAT_MODE='live'), patch.object(guide.limits,'rate'), patch.object(
                 guide,'complete',return_value={'recommendations':[],'suggestions':['Invented question?']}):
             reply=guide.answer(self.app, {'question':'How do investors evaluate founders?'})
-            self.assertFalse(reply['recommendations']);self.assertFalse(reply['suggestions'])
+            self.assertTrue(reply['recommendations'])
+            self.assertTrue(all(
+                not item['description']
+                for item in reply['recommendations']
+            ))
+            self.assertFalse(reply['suggestions'])
 
     def test_quota_cooldown_returns_links_without_paid_fallback(self):
         with tempfile.TemporaryDirectory() as directory, patch.dict(os.environ, TSSE_CHAT_MODE='live',

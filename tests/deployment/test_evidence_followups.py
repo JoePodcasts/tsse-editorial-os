@@ -252,5 +252,62 @@ class EvidenceFollowupTests(unittest.TestCase):
         self.assertIn(ava, state["passage_ids"])
 
 
+    def test_discovery_does_not_let_model_hide_candidates(self):
+        from unittest.mock import patch
+
+        question = "What do investors look for in startup founders?"
+        candidates, _ = guide.retrieve_discovery(
+            self.app, question, question, [], False, False
+        )
+
+        self.assertGreater(len(candidates), 1)
+        self.assertIn(
+            self.identity,
+            [c["episode_id"] for c in candidates]
+        )
+
+        def selective_model(instructions, data, token_limit):
+            return {
+                "answer": {"text": "", "passage_ids": []},
+                "recommendations": [{
+                    "episode_id": self.identity,
+                    "passage_ids": [PID],
+                    "description": "David discusses founder integrity."
+                }],
+                "suggestions": []
+            }
+
+        with (
+            patch.dict("os.environ", {"TSSE_CHAT_MODE": "live"}),
+            patch.object(guide.limits, "rate"),
+            patch.object(guide, "complete", side_effect=selective_model)
+        ):
+            result = guide.answer(
+                self.app, {"question": question}
+            )
+
+        self.assertEqual(
+            [c["episode_id"] for c in candidates],
+            [c["episode_id"] for c in result["recommendations"]]
+        )
+
+        self.assertEqual(
+            result["state"]["episode_ids"],
+            [c["episode_id"] for c in candidates]
+        )
+
+        descriptions = {
+            c["episode_id"]: c["description"]
+            for c in result["recommendations"]
+        }
+
+        self.assertTrue(descriptions[self.identity])
+        self.assertTrue(any(
+            not text
+            for identity, text in descriptions.items()
+            if identity != self.identity
+        ))
+
+
 if __name__ == "__main__":
     unittest.main()
