@@ -1,0 +1,67 @@
+name: Preview Ask the TSSE Archive
+
+on:
+  push:
+    branches:
+      - feature/ask-tsse-archive-phase3c
+    paths:
+      - '.github/workflows/archive-preview.yml'
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: tsse-archive-preview
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    # Reuse the existing authorized deployment credentials.
+    # All Vercel operations below explicitly target Preview.
+    environment: preview
+
+    env:
+      VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ vars.VERCEL_PROJECT_ID }}
+
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
+
+      - uses: actions/setup-python@83679a892e2d95755f2dac6acb0bfd1e9ac5d548
+        with:
+          python-version: '3.12'
+
+      - name: Check project configuration
+        run: |
+          test -n "$VERCEL_ORG_ID"
+          test -n "$VERCEL_PROJECT_ID"
+
+      - name: Install deployment tools
+        run: |
+          npm install --global vercel@65.4.0
+          python3 -m pip install uv==0.9.25
+
+      - name: Pull Preview configuration
+        run: vercel pull --yes --environment=preview
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+
+      - name: Run tests and build Preview
+        env:
+          ARCHIVE_STATUS_TOKEN: ${{ github.token }}
+        run: |
+          python3 -B -m unittest discover -s tests/deployment -q
+          vercel build
+          python3 -B tests/deployment/check_prebuilt.py
+
+      - name: Deploy Preview only
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          vercel deploy --prebuilt > /tmp/tsse-preview-url
+          echo "### Ask the TSSE Archive Preview" >> "$GITHUB_STEP_SUMMARY"
+          cat /tmp/tsse-preview-url >> "$GITHUB_STEP_SUMMARY"
