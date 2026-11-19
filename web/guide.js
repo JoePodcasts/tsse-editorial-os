@@ -17,6 +17,28 @@ function guideReply(turn) {
   section.append(el('h2', '', turn.question));
   const data = turn.answer;
   if (data.message) section.append(el('p', '', data.message));
+
+  if (data.answer?.text) {
+    const response = el('div', 'guide-direct-answer');
+    response.append(el('p', '', data.answer.text));
+
+    if (data.answer.sources?.length) {
+      const evidence = el('div', 'guide-evidence');
+      evidence.append(el('h3', '', 'Supporting transcript evidence'));
+
+      for (const source of data.answer.sources) {
+        const attribution = source.speaker || source.title || 'Transcript';
+        const label = 'Ep. ' + source.episode + ' · ' + attribution;
+        evidence.append(
+          link(label, source.url, 'text-link guide-source')
+        );
+      }
+
+      response.append(evidence);
+    }
+
+    section.append(response);
+  }
   for (const item of data.recommendations || []) {
     const card = el('section', 'guide-episode');
     card.append(el('h3', '', 'Ep. ' + item.episode + ' · ' + item.title));
