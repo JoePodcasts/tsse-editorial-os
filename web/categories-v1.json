@@ -1,0 +1,1607 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "cat-01",
+      "slug": "fundraising-investor-relationships",
+      "name": "Fundraising & investor relationships",
+      "description": "Raise capital, choose investors, and build lasting partnerships.",
+      "strong": [
+        "e708156b-ece1-4c4b-a12e-2306a1f5e4ff",
+        "4cc35294-3d14-4a13-803d-590e8c098472",
+        "aaff8b20-b584-4fb0-9718-0f8b95dc62cb",
+        "0ef2b626-ce6b-4d5e-9e30-a80362e30dad",
+        "f8dae3ec-a41b-49fc-a80f-a8a91eedfb99",
+        "1823a4e0-fdc8-474f-a002-e7186c8ccec6",
+        "ed30e169-559a-46a8-8b57-3a3701614a3f",
+        "474e83ac-e4d3-43a2-9a5e-a3e6619b6ca8",
+        "80dbc636-4c29-4356-acf4-6155640f3d79",
+        "e9356c4d-19c1-4917-9c16-29e37b0ce316",
+        "0fe83567-947f-427e-ae36-520fdc3fce89",
+        "2cda5aca-9184-41b7-b76e-a3b1b410978e",
+        "c48f9e24-1980-45e7-9189-a5eb681dcaa1",
+        "7560da4c-5de7-4823-af53-fac555884b0f",
+        "e6348f6b-f4e0-426e-8090-6320d7409c6b",
+        "9d24d1dc-3fac-4a50-bc2e-7f9df2772392",
+        "008e322c-b949-4773-9676-2e59d76ce5ce",
+        "5d955cc6-d604-46ab-ad57-7d195c8f88e5",
+        "0252e838-a14c-45b8-a881-192e12dccd3b",
+        "d55146de-717e-4951-accc-71fe65b2de2b",
+        "d53f7cc5-3aa3-446c-a13a-20c8882c04f8",
+        "b286e5b2-245f-429c-b570-eac576d0b7bc",
+        "cb7634ac-14fd-4cb7-91f2-892f1dee7839",
+        "c503ba72-b034-4c49-b2ba-bf55aa5d3e39",
+        "b291d4ef-8c94-4de8-951a-5b61ca8231d5",
+        "6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+        "21e1a26e-e983-4e4e-b381-55341654d54c",
+        "8dcbe28c-e754-45d1-ba12-44c0f10aa3a1",
+        "18bcc2bc-80d3-41c6-88fc-ecf48138982c",
+        "96b07626-e3ef-4f5d-9103-97491b5f0019",
+        "69a84f73-a6bc-4af8-a0f3-02abdc48b752",
+        "e091dc9b-abaa-422d-83b4-ef9a2c875650",
+        "0adb8f6a-0593-45b7-9c59-d32206c375db",
+        "3ae69392-b535-45ae-ac78-27639c425637",
+        "856da7b2-3fe0-466f-9b88-7d9360772e83"
+      ],
+      "secondary": [
+        "0971b5c1-381f-4b0a-af5d-9fe56ac41984",
+        "e9a6d472-8cfd-4700-a126-bf5b536144f9",
+        "b573d39a-0e7d-42b3-a048-cb47a1743368",
+        "55701c48-43d8-4ddb-8411-cb5a45fbab00",
+        "417d6875-3e87-4aeb-894c-3dc096f3a14d",
+        "a5e912ea-38e6-4102-9c0e-f6d6d3a7e499",
+        "16a3d101-e4bb-47ad-b465-faf33aaf56c5",
+        "a5b8d933-e2fb-43cd-a716-c568e4017e5e",
+        "23d9ebc9-ce2d-49db-a2ae-565ce3ac2a29",
+        "4a03af57-b4ac-4f4c-bb0b-be22074c85a1",
+        "a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+        "507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+        "ba4e84c0-33e2-4b67-a128-ca5fd4f7c368",
+        "cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+        "a7166503-eec2-4e62-b455-946db1a8f608",
+        "c14463d2-d6a1-41ac-88d2-a5c916c50441",
+        "7c2947a4-ec99-450e-baa3-07e12b81793c",
+        "5e1ed233-d1b8-4c83-8904-4f6f9341304f",
+        "6640ce0b-4e59-4b38-824c-80ce77ed7c7e",
+        "0f010f57-2fdc-45f0-bb30-c073e2940f74",
+        "4b3f3f86-fc3a-41d8-940f-b7b619b896e4",
+        "ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+        "ff0bef5c-7257-436c-907a-3f16a7f36691"
+      ]
+    },
+    {
+      "id": "cat-02",
+      "slug": "venture-capital-investing",
+      "name": "Venture capital & investing",
+      "description": "Explore how investors evaluate startups, build portfolios, and generate returns.",
+      "strong": [
+        "5268ea16-e232-4b5d-9bec-95c444c049ae",
+        "d5191fc6-eb49-44b8-a1de-e74c3c4096cc",
+        "a4deab42-01d1-49f4-aa4c-e96e16cd0f5f",
+        "49b29c85-2857-473e-b476-51c6b6806f3d",
+        "53a4a78d-1104-4289-97dc-734a3830c466",
+        "05d425da-75ae-4bd4-b964-d7f6f8e607a1",
+        "1b48f937-a472-4117-b51f-3a42a441ec41",
+        "d69612b0-afb7-4cb4-9d68-a54cecff3a7f",
+        "3ce148f6-d66c-406c-b232-e95fbcd5c46c",
+        "406a365a-2930-4eff-8ed0-32aafd0009b0",
+        "efa83df4-f3ea-4c91-abc2-5c04152740f1",
+        "b573d39a-0e7d-42b3-a048-cb47a1743368",
+        "417d6875-3e87-4aeb-894c-3dc096f3a14d",
+        "9d8c8145-dbf2-4001-8013-b1cf42f2d74a",
+        "0de7c0b1-6088-4d68-a329-34960b3ae11e",
+        "086cebb4-b2d6-4f19-9ec5-1cc9be5953af",
+        "a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+        "c503ba72-b034-4c49-b2ba-bf55aa5d3e39",
+        "fcb30e08-b756-4688-af39-60a19bac2fc0",
+        "5d169383-43cd-4c17-8dac-193df68c34cc",
+        "42a4fa46-d3c4-4998-951a-fd6f59e858c4",
+        "58d15263-fb67-4c72-9683-3312dfd88eab",
+        "53afd7c5-c9c8-4329-9b7b-168b8df01147",
+        "eed83131-61f5-4654-89a1-4ca17ba485a9",
+        "961bcb46-9039-4514-b8a9-afd11445908b",
+        "9d4a40b2-53db-4a9a-90b0-1fd8416551cd",
+        "80ee24fe-418b-4010-8388-598e0d615757",
+        "681d3510-0750-4163-aa07-52c975391de5",
+        "42587868-9b4a-4a23-867d-3096d1a9f536",
+        "d8575018-ca1d-4be3-ac50-22e0b1e02c0d",
+        "4027af88-2d27-4891-a621-ec11322f9ae0",
+        "40a4e066-c609-40de-a83f-fbd345cfaf55",
+        "081f2210-b721-4e7b-9c0a-e86d91a259f4",
+        "18e74102-241f-42a7-af35-b35c0e410dbb",
+        "b49d0de7-0578-4487-ae8d-9d3e17691075",
+        "58ee6413-b744-4f39-b3d1-74e8b04aa2a6",
+        "fa693df2-5ffd-48ab-8eeb-dd1fe8224b48",
+        "d7878b46-2288-416c-a75f-9ff9a13ca530",
+        "48363488-c67c-465d-9b56-d6b6a7597968",
+        "ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+        "f909f265-f3f7-4af3-98d6-28164b87ae27",
+        "00a24c04-5983-4c5e-9f8d-b862fc602213",
+        "4a5020ba-4b99-447d-a4b3-4f7ba206012b",
+        "79b1b5a3-fd8e-410a-803d-9c48b446b6c7",
+        "49d30d6b-fb95-44df-aa8c-7097555cd0c2"
+      ],
+      "secondary": [
+        "18b641ff-352a-4254-b16c-067b3faaa4c1",
+        "b89bf0a3-0c34-4df6-91f9-9fb043a1db2f",
+        "194fc0f8-1df1-48dd-8d7d-ccaa9b60bbfb",
+        "5f15841a-ef73-45d6-85a3-89545287c16f",
+        "7b692c64-4dc4-4a00-8897-e64ebdcc6bea",
+        "80f82728-4730-4301-b879-2c5907e6aae0",
+        "89cb85c5-59a2-4f7a-ae93-274ab677a8f9",
+        "cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+        "886cd152-35d0-46ad-b7cc-791ce4aa2048",
+        "12347f30-6d08-4ad5-a13a-3f8865a1bd71"
+      ]
+    },
+    {
+      "id": "cat-03",
+      "slug": "startup-ideas-product-market-fit",
+      "name": "Startup ideas & product-market fit",
+      "description": "Discover promising problems, validate solutions, and find market demand.",
+      "strong": [
+        "21c84339-89c7-437f-a96d-8c901e9c59c6",
+        "1cf0cab6-a348-44c5-bcfd-02811768d8fd",
+        "21e549e1-9edc-47e4-86b5-94c706f841cf",
+        "e9a6d472-8cfd-4700-a126-bf5b536144f9",
+        "a8c30a40-784e-43cb-9bda-9cc77a6fdb0a",
+        "0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe",
+        "58315598-2ffd-4630-aa43-e04259c2b6b0",
+        "078d2402-0f24-4783-b7bc-524ef644b71b",
+        "9a33fceb-c262-4c00-b3ed-2dd64ce223d9",
+        "b0e3ffc3-1b99-4448-9c01-a4350e4949ef",
+        "8c412426-d47f-4da3-9f90-6f252d5b15fa",
+        "12549d0c-c060-486b-aaa1-8d21add096eb",
+        "5e1ed233-d1b8-4c83-8904-4f6f9341304f",
+        "019bd30d-ddca-41fa-a2db-18d34a7bc743",
+        "26fe7470-0a22-4d8c-808b-ed7f03b3cf84",
+        "254fc97f-8c85-4d1a-bc84-0e230ec99cb5"
+      ],
+      "secondary": [
+        "5268ea16-e232-4b5d-9bec-95c444c049ae",
+        "e3c4099e-4825-4192-8501-131c8bbfe5f0",
+        "f8dae3ec-a41b-49fc-a80f-a8a91eedfb99",
+        "1d53d843-3a7d-4326-8dc5-034817d856d8",
+        "c1344c12-8b95-4c3b-9c03-06b0fdd83f03",
+        "008e322c-b949-4773-9676-2e59d76ce5ce",
+        "417d6875-3e87-4aeb-894c-3dc096f3a14d",
+        "5f15841a-ef73-45d6-85a3-89545287c16f",
+        "7b692c64-4dc4-4a00-8897-e64ebdcc6bea",
+        "80f82728-4730-4301-b879-2c5907e6aae0",
+        "b539857a-eb31-4e1f-88ca-b3c5150a0e9c",
+        "a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+        "89cb85c5-59a2-4f7a-ae93-274ab677a8f9",
+        "cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+        "8dcbe28c-e754-45d1-ba12-44c0f10aa3a1",
+        "dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+        "0e4b848f-10b1-4700-8d11-5237d97501e8",
+        "b240a540-e46c-4fe6-bf00-6a1e286cc7e2"
+      ]
+    },
+    {
+      "id": "cat-04",
+      "slug": "founder-mindset-leadership",
+      "name": "Founder mindset & leadership",
+      "description": "Build resilience, lead teams, and navigate the challenges of entrepreneurship.",
+      "strong": [
+        "4a19c3b7-2c38-4eff-a00c-6b38539fa3bc",
+        "0cd0fc2a-b63d-4521-b8b1-e8d5fb928b4f",
+        "44654700-4cb0-4cae-b376-20c688c2dc0b",
+        "4bd4a6e9-abee-4aad-a4f4-c5a3503b81ca",
+        "e9a6d472-8cfd-4700-a126-bf5b536144f9",
+        "fad1d0cf-9833-4eb2-8b90-d1050b207191",
+        "77032a0f-1385-4465-9849-c17e721f17a8",
+        "1c556dca-dfc1-4398-b890-18d15f96903c",
+        "76a6eb4d-68f1-438c-821d-4bd425312c58",
+        "b291d4ef-8c94-4de8-951a-5b61ca8231d5",
+        "cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+        "a03fb587-6ec7-4204-bb70-4a55623b1c9a",
+        "8b3723c0-58f2-4956-b3c0-8ac90aa734b5",
+        "2bb87782-f94d-431f-8134-41edd3c7c735",
+        "d5fe6669-5823-41e7-9e8c-fbf7b3e1716d",
+        "0e86db85-591e-4991-a58b-4c310c9f1919",
+        "e21e9775-1b22-4922-a3df-09f8b970c3ce",
+        "9827af17-5de9-470a-a6b9-d2bf0c001fb3",
+        "4b3f3f86-fc3a-41d8-940f-b7b619b896e4",
+        "f16996bf-c8e5-4ccb-81ef-3ad4ca5699f5",
+        "ff0bef5c-7257-436c-907a-3f16a7f36691",
+        "00a24c04-5983-4c5e-9f8d-b862fc602213",
+        "79b1b5a3-fd8e-410a-803d-9c48b446b6c7"
+      ],
+      "secondary": [
+        "0971b5c1-381f-4b0a-af5d-9fe56ac41984",
+        "9c62d02e-8590-4de1-9844-e45d33e314d8",
+        "21e549e1-9edc-47e4-86b5-94c706f841cf",
+        "bdd967e6-598c-4800-9492-b1d6d6b06429",
+        "15715764-96f9-40be-b572-08c8e72eae54",
+        "ac616ea1-bc14-4eec-a1b9-29da04ff9ec8",
+        "0252e838-a14c-45b8-a881-192e12dccd3b",
+        "80f82728-4730-4301-b879-2c5907e6aae0",
+        "23d9ebc9-ce2d-49db-a2ae-565ce3ac2a29",
+        "4a03af57-b4ac-4f4c-bb0b-be22074c85a1",
+        "3d2e22f6-e5cf-42cc-b067-0e554a353409",
+        "078d2402-0f24-4783-b7bc-524ef644b71b",
+        "507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+        "a551824a-d926-4a44-814a-f6520d5ce9d2",
+        "6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+        "fac1ddc0-8d4a-4487-a8fb-aadc6e92527d",
+        "c14463d2-d6a1-41ac-88d2-a5c916c50441",
+        "7c2947a4-ec99-450e-baa3-07e12b81793c",
+        "dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+        "019bd30d-ddca-41fa-a2db-18d34a7bc743",
+        "856da7b2-3fe0-466f-9b88-7d9360772e83"
+      ]
+    },
+    {
+      "id": "cat-05",
+      "slug": "growth-go-to-market",
+      "name": "Growth & go-to-market",
+      "description": "Reach customers, establish distribution, and scale your business.",
+      "strong": [
+        "e9cf1836-7f70-49a5-b6a3-03ff05980a38",
+        "f8dae3ec-a41b-49fc-a80f-a8a91eedfb99",
+        "d7e322bf-503a-470f-a835-7dd927dc2218",
+        "a7166503-eec2-4e62-b455-946db1a8f608",
+        "c9a4e238-1052-41a9-9540-fad313b52f26",
+        "dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+        "857453c9-ace1-4c46-b4f3-af9eefd84ba8",
+        "c48f9e24-1980-45e7-9189-a5eb681dcaa1"
+      ],
+      "secondary": [
+        "a9d545a6-b23f-482e-92f8-02ca1fef61fa",
+        "92d8efcc-c1ce-44f6-bfc9-e201f55750ea",
+        "8499e05c-1482-4fe7-afc1-0c6c86b64b7b",
+        "7b692c64-4dc4-4a00-8897-e64ebdcc6bea",
+        "d6d6ae77-93f6-478a-936d-f4c96afdd8a2",
+        "6f5048a7-baa5-42c7-b272-89994adf52f8",
+        "255a3a22-8931-40a3-a4d1-e93a53d0fd6b",
+        "5321b62f-dcfb-4566-a943-032aceaf2b38",
+        "3ae69392-b535-45ae-ac78-27639c425637",
+        "db55f8a9-8524-4c05-9c02-53e38bc52622",
+        "e15d1342-a65c-47e3-99fb-c2af2adfbfa5",
+        "1cf0cab6-a348-44c5-bcfd-02811768d8fd",
+        "21e549e1-9edc-47e4-86b5-94c706f841cf",
+        "55701c48-43d8-4ddb-8411-cb5a45fbab00",
+        "89cb85c5-59a2-4f7a-ae93-274ab677a8f9",
+        "0deccdfe-e6a0-4e0a-8144-ca8f57ceda2f",
+        "019bd30d-ddca-41fa-a2db-18d34a7bc743",
+        "856da7b2-3fe0-466f-9b88-7d9360772e83"
+      ]
+    },
+    {
+      "id": "cat-06",
+      "slug": "artificial-intelligence-emerging-technologies",
+      "name": "Artificial intelligence & emerging technologies",
+      "description": "Explore technologies reshaping startups, industries, and investment opportunities.",
+      "strong": [
+        "e3c4099e-4825-4192-8501-131c8bbfe5f0",
+        "2fbadf7e-0e92-40cf-ad8c-29a251e0d952",
+        "bbcf3b5b-9d87-4cf7-8434-31fded782cb0",
+        "21e549e1-9edc-47e4-86b5-94c706f841cf",
+        "80dbc636-4c29-4356-acf4-6155640f3d79",
+        "89cb85c5-59a2-4f7a-ae93-274ab677a8f9",
+        "ba4e84c0-33e2-4b67-a128-ca5fd4f7c368",
+        "6f5048a7-baa5-42c7-b272-89994adf52f8",
+        "12549d0c-c060-486b-aaa1-8d21add096eb",
+        "255a3a22-8931-40a3-a4d1-e93a53d0fd6b",
+        "58ee6413-b744-4f39-b3d1-74e8b04aa2a6",
+        "12586092-9184-4a29-911a-0860f57cd464",
+        "019bd30d-ddca-41fa-a2db-18d34a7bc743",
+        "f8875336-c5e4-4c7f-a215-d246e95ec3a6",
+        "6640ce0b-4e59-4b38-824c-80ce77ed7c7e",
+        "5321b62f-dcfb-4566-a943-032aceaf2b38",
+        "9827af17-5de9-470a-a6b9-d2bf0c001fb3",
+        "886cd152-35d0-46ad-b7cc-791ce4aa2048",
+        "f909f265-f3f7-4af3-98d6-28164b87ae27",
+        "f16996bf-c8e5-4ccb-81ef-3ad4ca5699f5",
+        "3e85baa8-93e9-4af1-ba9a-f850036714a4",
+        "26fe7470-0a22-4d8c-808b-ed7f03b3cf84",
+        "856da7b2-3fe0-466f-9b88-7d9360772e83",
+        "254fc97f-8c85-4d1a-bc84-0e230ec99cb5"
+      ],
+      "secondary": [
+        "36d4154a-47a1-48ac-8dfa-caaa80ca0cf6",
+        "8515d7d0-1069-4e9e-84ab-1868e0778924",
+        "16a3d101-e4bb-47ad-b465-faf33aaf56c5",
+        "6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+        "fac1ddc0-8d4a-4487-a8fb-aadc6e92527d",
+        "ef06e4ed-7614-46dd-9a09-38fc6e4085d8"
+      ]
+    },
+    {
+      "id": "cat-07",
+      "slug": "fintech-insurtech-financial-innovation",
+      "name": "Fintech, InsurTech & financial innovation",
+      "description": "Discover innovation in insurance, banking, payments, and financial services.",
+      "strong": [
+        "7ea282e7-771d-4b03-9799-f5261664c249",
+        "18b641ff-352a-4254-b16c-067b3faaa4c1",
+        "1620afec-0217-4849-b40f-48f1749250d1",
+        "e15d1342-a65c-47e3-99fb-c2af2adfbfa5",
+        "1abcbdea-d690-4d13-937f-8a09c61b7db1",
+        "1d53d843-3a7d-4326-8dc5-034817d856d8",
+        "ed30e169-559a-46a8-8b57-3a3701614a3f",
+        "194fc0f8-1df1-48dd-8d7d-ccaa9b60bbfb",
+        "9d24d1dc-3fac-4a50-bc2e-7f9df2772392",
+        "8499e05c-1482-4fe7-afc1-0c6c86b64b7b",
+        "0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe",
+        "80f82728-4730-4301-b879-2c5907e6aae0",
+        "1c556dca-dfc1-4398-b890-18d15f96903c",
+        "c2836d44-75cb-4c6b-a239-697e46d7a7b2",
+        "d6d6ae77-93f6-478a-936d-f4c96afdd8a2",
+        "090de2df-ba16-46a4-90f5-e82db73322f7",
+        "d7e322bf-503a-470f-a835-7dd927dc2218",
+        "0deccdfe-e6a0-4e0a-8144-ca8f57ceda2f",
+        "8c412426-d47f-4da3-9f90-6f252d5b15fa",
+        "fac1ddc0-8d4a-4487-a8fb-aadc6e92527d",
+        "66915e52-1306-4f6c-a974-f8eb5307a599",
+        "ef06e4ed-7614-46dd-9a09-38fc6e4085d8",
+        "0b120f95-2e8a-4be8-aa29-fe062e5f1dbf",
+        "3ae69392-b535-45ae-ac78-27639c425637"
+      ],
+      "secondary": [
+        "53a4a78d-1104-4289-97dc-734a3830c466",
+        "689454f3-0441-4a75-bb07-1ce40c47a247",
+        "b89bf0a3-0c34-4df6-91f9-9fb043a1db2f",
+        "cb316eac-6193-4ee8-aaed-97e5b494ecf7",
+        "a7166503-eec2-4e62-b455-946db1a8f608",
+        "dabe60e7-f58f-4646-94a0-36cc70bd1b9e"
+      ]
+    },
+    {
+      "id": "cat-08",
+      "slug": "healthcare-industry-transformation",
+      "name": "Healthcare & industry transformation",
+      "description": "Explore technology-driven change in healthcare and established industries.",
+      "strong": [
+        "d5191fc6-eb49-44b8-a1de-e74c3c4096cc",
+        "7560da4c-5de7-4823-af53-fac555884b0f",
+        "92d8efcc-c1ce-44f6-bfc9-e201f55750ea",
+        "68930395-c99e-4677-8e4c-138eccc96c5d",
+        "55701c48-43d8-4ddb-8411-cb5a45fbab00",
+        "6f5048a7-baa5-42c7-b272-89994adf52f8",
+        "12586092-9184-4a29-911a-0860f57cd464",
+        "0e86db85-591e-4991-a58b-4c310c9f1919",
+        "6640ce0b-4e59-4b38-824c-80ce77ed7c7e",
+        "0f010f57-2fdc-45f0-bb30-c073e2940f74",
+        "b240a540-e46c-4fe6-bf00-6a1e286cc7e2",
+        "254fc97f-8c85-4d1a-bc84-0e230ec99cb5",
+        "12347f30-6d08-4ad5-a13a-3f8865a1bd71"
+      ],
+      "secondary": [
+        "0971b5c1-381f-4b0a-af5d-9fe56ac41984",
+        "e3c4099e-4825-4192-8501-131c8bbfe5f0",
+        "c1344c12-8b95-4c3b-9c03-06b0fdd83f03",
+        "76a6eb4d-68f1-438c-821d-4bd425312c58",
+        "507a3aa0-468a-42c7-b8b9-637ef3bc6493",
+        "ba4e84c0-33e2-4b67-a128-ca5fd4f7c368",
+        "e5612c8b-f68c-4ef2-a2ea-edaea0dc1475",
+        "7c2947a4-ec99-450e-baa3-07e12b81793c",
+        "96b07626-e3ef-4f5d-9103-97491b5f0019",
+        "857453c9-ace1-4c46-b4f3-af9eefd84ba8"
+      ]
+    },
+    {
+      "id": "cat-09",
+      "slug": "entrepreneurship-startup-ecosystems",
+      "name": "Entrepreneurship & startup ecosystems",
+      "description": "Discover the communities, networks, and opportunities supporting entrepreneurs.",
+      "strong": [
+        "b9c3f19d-fa8e-485c-a3db-4df1f51ba8f3",
+        "c74483dd-60d4-48ed-aabf-f183aa2fdb62",
+        "b0b4a4f2-62b4-4628-bb97-871ca0fb8900",
+        "765a3a11-6cd9-48b5-9a8c-504e8cc81394",
+        "7a8c5f74-81e1-412d-8d7b-18a721341948",
+        "041b9ce1-bc40-4788-9033-38948d144b8b",
+        "6aa4c8aa-739a-413a-a6c2-d6c5e63271ab",
+        "c8c6faa5-e792-4a3c-bcd3-ac45079cc786",
+        "c9fbca28-8043-4e98-a9b4-be9e16133867",
+        "3ce148f6-d66c-406c-b232-e95fbcd5c46c",
+        "bdd967e6-598c-4800-9492-b1d6d6b06429",
+        "5f15841a-ef73-45d6-85a3-89545287c16f",
+        "58d15263-fb67-4c72-9683-3312dfd88eab",
+        "40f4e1a8-8b51-45f9-8c16-b8f709dfd0aa",
+        "6ed4e699-6451-4eaa-b79a-ec88fa671d27",
+        "6362f3e7-1345-4d5f-bd95-5251d794bb4e",
+        "d5fe6669-5823-41e7-9e8c-fbf7b3e1716d",
+        "dabe60e7-f58f-4646-94a0-36cc70bd1b9e",
+        "7a1af9ae-2855-4961-be23-11e2116072f4",
+        "0e4b848f-10b1-4700-8d11-5237d97501e8",
+        "019bd30d-ddca-41fa-a2db-18d34a7bc743",
+        "5321b62f-dcfb-4566-a943-032aceaf2b38",
+        "d7878b46-2288-416c-a75f-9ff9a13ca530",
+        "556c6e60-062c-4c69-982c-68eae900d909",
+        "00a24c04-5983-4c5e-9f8d-b862fc602213"
+      ],
+      "secondary": [
+        "aaff8b20-b584-4fb0-9718-0f8b95dc62cb",
+        "db55f8a9-8524-4c05-9c02-53e38bc52622",
+        "1abcbdea-d690-4d13-937f-8a09c61b7db1",
+        "ac616ea1-bc14-4eec-a1b9-29da04ff9ec8",
+        "d55146de-717e-4951-accc-71fe65b2de2b",
+        "c2836d44-75cb-4c6b-a239-697e46d7a7b2",
+        "76a6eb4d-68f1-438c-821d-4bd425312c58",
+        "a5b8d933-e2fb-43cd-a716-c568e4017e5e",
+        "a0c4aa97-fa1d-4ecf-8d43-2c6adb052799",
+        "fcb30e08-b756-4688-af39-60a19bac2fc0",
+        "2bb87782-f94d-431f-8134-41edd3c7c735",
+        "c14463d2-d6a1-41ac-88d2-a5c916c50441",
+        "18e74102-241f-42a7-af35-b35c0e410dbb",
+        "26fe7470-0a22-4d8c-808b-ed7f03b3cf84",
+        "79b1b5a3-fd8e-410a-803d-9c48b446b6c7"
+      ]
+    }
+  ],
+  "episodes": {
+    "008e322c-b949-4773-9676-2e59d76ce5ce": {
+      "number": 74,
+      "title": "Do Business with Gratitude",
+      "date": "2021-12-07",
+      "source": "https://podcast.sure.ventures/episodes/tsse74-business-with-gratitude-heather-humanvc"
+    },
+    "00a24c04-5983-4c5e-9f8d-b862fc602213": {
+      "number": 189,
+      "title": "Winning Founders Build with Authenticity, Adaptability, and Resilience",
+      "date": "2026-05-26",
+      "source": "https://podcast.sure.ventures/episodes/tsse189-build-with-authenticity-adaptability-and-resilience-christina-quinn"
+    },
+    "019bd30d-ddca-41fa-a2db-18d34a7bc743": {
+      "number": 164,
+      "title": "Ship Fast, Sell Faster, Validate Deeply",
+      "date": "2025-04-15",
+      "source": "https://podcast.sure.ventures/episodes/tsse164-ship-fast-sell-faster-mahesh-ram"
+    },
+    "0252e838-a14c-45b8-a881-192e12dccd3b": {
+      "number": 83,
+      "title": "Form Relationships with Investors Before Raising Capital",
+      "date": "2022-02-15",
+      "source": "https://podcast.sure.ventures/episodes/tsse83-relationship-before-fundraising-msuster-upfrontvc"
+    },
+    "041b9ce1-bc40-4788-9033-38948d144b8b": {
+      "number": 19,
+      "title": "Latin America is a huge market",
+      "date": "2020-11-03",
+      "source": "https://podcast.sure.ventures/episodes/sv-latam"
+    },
+    "05d425da-75ae-4bd4-b964-d7f6f8e607a1": {
+      "number": 21,
+      "title": "Decision analysis is a high-quality conversation leading to clarity of action",
+      "date": "2020-11-17",
+      "source": "https://podcast.sure.ventures/episodes/decision-analysis"
+    },
+    "078d2402-0f24-4783-b7bc-524ef644b71b": {
+      "number": 104,
+      "title": "Identify an Extreme Pain Point",
+      "date": "2022-11-15",
+      "source": "https://podcast.sure.ventures/episodes/tsse104-extreme-pain-point-tom-ferguson"
+    },
+    "081f2210-b721-4e7b-9c0a-e86d91a259f4": {
+      "number": 147,
+      "title": "Believe in People Early, Earn Lifelong Trust",
+      "date": "2024-08-06",
+      "source": "https://podcast.sure.ventures/episodes/tsse-147-believe-in-people-early-ben-black-akkadian"
+    },
+    "086cebb4-b2d6-4f19-9ec5-1cc9be5953af": {
+      "number": 102,
+      "title": "Cool Technology is Not a Hot Company",
+      "date": "2022-10-18",
+      "source": "https://podcast.sure.ventures/episodes/tsse102-cool-technology-chris-kim"
+    },
+    "090de2df-ba16-46a4-90f5-e82db73322f7": {
+      "number": 106,
+      "title": "Fintech Startups Are Underdogs Who Innovate",
+      "date": "2022-12-13",
+      "source": "https://podcast.sure.ventures/episodes/tsse106-fintech-startups-innovate-ryan-falvey"
+    },
+    "0971b5c1-381f-4b0a-af5d-9fe56ac41984": {
+      "number": 5,
+      "title": "Be bold, compete against incumbents",
+      "date": "2020-08-05",
+      "source": "https://podcast.sure.ventures/episodes/bold-incumbents"
+    },
+    "0adb8f6a-0593-45b7-9c59-d32206c375db": {
+      "number": 174,
+      "title": "Don’t Overstretch; Raise The Right Amount of Funding",
+      "date": "2025-09-23",
+      "source": "https://podcast.sure.ventures/episodes/tsse174-dont-overstretch-funding-tim-guleri"
+    },
+    "0b120f95-2e8a-4be8-aa29-fe062e5f1dbf": {
+      "number": 187,
+      "title": "Skip the InsurTech Hype and Focus on What Actually Works",
+      "date": "2026-04-21",
+      "source": "https://podcast.sure.ventures/episodes/tsse-187-skip-the-insurtech-hype-gilad-shai"
+    },
+    "0cd0fc2a-b63d-4521-b8b1-e8d5fb928b4f": {
+      "number": 8,
+      "title": "Entrepreneurship liberates you to solve impactful problems",
+      "date": "2020-08-19",
+      "source": "https://podcast.sure.ventures/episodes/entrepreneurship-is-liberating"
+    },
+    "0d3b81ea-07ab-4603-a8be-98bcbe0e2ffe": {
+      "number": 75,
+      "title": "Avoid ‘Me-too’ Startup Ideas",
+      "date": "2021-12-14",
+      "source": "https://podcast.sure.ventures/episodes/tsse75-fintech-startup-ideas-dan-rosen-commercevc"
+    },
+    "0de7c0b1-6088-4d68-a329-34960b3ae11e": {
+      "number": 101,
+      "title": "Show Strong Metrics to Stand Out",
+      "date": "2022-10-04",
+      "source": "https://podcast.sure.ventures/episodes/tsse101-show-strong-metrics-edward-suh-alpinevc"
+    },
+    "0deccdfe-e6a0-4e0a-8144-ca8f57ceda2f": {
+      "number": 119,
+      "title": "The Insurance Industry Desperately Needs Startups",
+      "date": "2023-06-20",
+      "source": "https://podcast.sure.ventures/episodes/tsse119-insurance-needs-startups-charles-moldow"
+    },
+    "0e4b848f-10b1-4700-8d11-5237d97501e8": {
+      "number": 163,
+      "title": "Master Your Technical Edge, Solve the Right Problem, and Scale Big",
+      "date": "2025-04-01",
+      "source": "https://podcast.sure.ventures/episodes/tsse163-solve-the-right-problem-andrew-cleland"
+    },
+    "0e86db85-591e-4991-a58b-4c310c9f1919": {
+      "number": 165,
+      "title": "Don’t Suffer to Succeed, A Peaceful Mind Will Take You Further",
+      "date": "2025-04-29",
+      "source": "https://podcast.sure.ventures/episodes/tsse165-dont-suffer-to-succeed-tomoko-ishikura"
+    },
+    "0ef2b626-ce6b-4d5e-9e30-a80362e30dad": {
+      "number": 31,
+      "title": "Lower your shield and openly communicate with investors",
+      "date": "2021-02-09",
+      "source": "https://podcast.sure.ventures/episodes/openly-communicate"
+    },
+    "0f010f57-2fdc-45f0-bb30-c073e2940f74": {
+      "number": 170,
+      "title": "Transform Sick Care to Healthcare",
+      "date": "2025-07-22",
+      "source": "https://podcast.sure.ventures/episodes/tsse-170-sick-care-to-healthcare-amit-garg"
+    },
+    "0fe83567-947f-427e-ae36-520fdc3fce89": {
+      "number": 57,
+      "title": "Don’t have it all buttoned up",
+      "date": "2021-08-10",
+      "source": "https://podcast.sure.ventures/episodes/buttoned-up"
+    },
+    "12347f30-6d08-4ad5-a13a-3f8865a1bd71": {
+      "number": 197,
+      "title": "Build innovative solutions for under-digitized critical industries",
+      "date": "2026-11-10",
+      "source": "https://podcast.sure.ventures/episodes/tsse197-under-digitized-critical-industries-dan-borok"
+    },
+    "12549d0c-c060-486b-aaa1-8d21add096eb": {
+      "number": 139,
+      "title": "Engage With Customers Sooner Than Later When You Build AI Solutions",
+      "date": "2024-04-16",
+      "source": "https://podcast.sure.ventures/episodes/tsse139-customer-first-ai-solutions-vijay-reddy"
+    },
+    "12586092-9184-4a29-911a-0860f57cd464": {
+      "number": 155,
+      "title": "Build AI Solutions for Overlooked Legacy Industries",
+      "date": "2024-11-26",
+      "source": "https://podcast.sure.ventures/episodes/tsse155-ai-solutions-for-legacy-dave-anderson"
+    },
+    "15715764-96f9-40be-b572-08c8e72eae54": {
+      "number": 68,
+      "title": "Always Be Learning",
+      "date": "2021-10-26",
+      "source": "https://podcast.sure.ventures/episodes/tsse-68-always-be-learning-alexa-inspired"
+    },
+    "1620afec-0217-4849-b40f-48f1749250d1": {
+      "number": 34,
+      "title": "Build agile solutions for traditional problems",
+      "date": "2021-03-02",
+      "source": "https://podcast.sure.ventures/episodes/commerce"
+    },
+    "16a3d101-e4bb-47ad-b465-faf33aaf56c5": {
+      "number": 92,
+      "title": "Choose Investors Who Care",
+      "date": "2022-05-31",
+      "source": "https://podcast.sure.ventures/episodes/tsse92-investors-who-care-maryanna-saenko-future-ventures"
+    },
+    "1823a4e0-fdc8-474f-a002-e7186c8ccec6": {
+      "number": 50,
+      "title": "Start with your childhood story not your resume",
+      "date": "2021-06-22",
+      "source": "https://podcast.sure.ventures/episodes/childhood-not-resume"
+    },
+    "18b641ff-352a-4254-b16c-067b3faaa4c1": {
+      "number": 27,
+      "title": "Show your personality on video calls",
+      "date": "2021-01-12",
+      "source": "https://podcast.sure.ventures/episodes/fintech-nyca"
+    },
+    "18bcc2bc-80d3-41c6-88fc-ecf48138982c": {
+      "number": 159,
+      "title": "Build Relationships with Investors to Create Game‑Changing Companies",
+      "date": "2025-02-04",
+      "source": "https://podcast.sure.ventures/episodes/sse159-create-gamechanging-companies-david-hornik"
+    },
+    "18e74102-241f-42a7-af35-b35c0e410dbb": {
+      "number": 152,
+      "title": "Water Conservation to Venture Capital Through Arranged Marriage",
+      "date": "2024-10-15",
+      "source": "https://podcast.sure.ventures/episodes/tsse152-water-conservation-to-venture-capital-lochan-alagh"
+    },
+    "194fc0f8-1df1-48dd-8d7d-ccaa9b60bbfb": {
+      "number": 59,
+      "title": "It’s about people not spreadsheets",
+      "date": "2021-08-24",
+      "source": "https://podcast.sure.ventures/episodes/its-about-people-not-spreadsheets"
+    },
+    "1abcbdea-d690-4d13-937f-8a09c61b7db1": {
+      "number": 40,
+      "title": "Care for your neighbors",
+      "date": "2021-04-13",
+      "source": "https://podcast.sure.ventures/episodes/care-of-neighbors"
+    },
+    "1b48f937-a472-4117-b51f-3a42a441ec41": {
+      "number": 22,
+      "title": "Build products to serve the middle class",
+      "date": "2020-12-01",
+      "source": "https://podcast.sure.ventures/episodes/middle-class"
+    },
+    "1c556dca-dfc1-4398-b890-18d15f96903c": {
+      "number": 88,
+      "title": "Successful Founders Are Naive Fast Learners",
+      "date": "2022-04-05",
+      "source": "https://podcast.sure.ventures/episodes/tsse88-naive-fast-learners-schwark-trinityvc"
+    },
+    "1cf0cab6-a348-44c5-bcfd-02811768d8fd": {
+      "number": 41,
+      "title": "Win big in niche markets",
+      "date": "2021-04-20",
+      "source": "https://podcast.sure.ventures/episodes/niche-markets"
+    },
+    "1d53d843-3a7d-4326-8dc5-034817d856d8": {
+      "number": 48,
+      "title": "Get everyone on the investment team excited about your business",
+      "date": "2021-06-08",
+      "source": "https://podcast.sure.ventures/episodes/get-everyone-excited"
+    },
+    "21c84339-89c7-437f-a96d-8c901e9c59c6": {
+      "number": 28,
+      "title": "Catch the attention of investors with non-obvious insights",
+      "date": "2021-01-19",
+      "source": "https://podcast.sure.ventures/episodes/non-obvious-insights"
+    },
+    "21e1a26e-e983-4e4e-b381-55341654d54c": {
+      "number": 137,
+      "title": "Don’t Let the Curse of Knowledge Drag You into Details",
+      "date": "2024-03-19",
+      "source": "https://podcast.sure.ventures/episodes/tsse137-climate-tech-investing-tommy-leep"
+    },
+    "21e549e1-9edc-47e4-86b5-94c706f841cf": {
+      "number": 47,
+      "title": "Show empathy for your customers",
+      "date": "2021-06-01",
+      "source": "https://podcast.sure.ventures/episodes/show-empathy-for-your-customers"
+    },
+    "23d9ebc9-ce2d-49db-a2ae-565ce3ac2a29": {
+      "number": 98,
+      "title": "Break Rules, Don’t Break the Law",
+      "date": "2022-08-23",
+      "source": "https://podcast.sure.ventures/episodes/tsse-98-break-rules-not-law-jasleen-kaur-nyca"
+    },
+    "254fc97f-8c85-4d1a-bc84-0e230ec99cb5": {
+      "number": 195,
+      "title": "Show Proof of Value Before You Build for Scale",
+      "date": "2026-09-22",
+      "source": "https://podcast.sure.ventures/episodes/tsse195-show-proof-of-value-rohini-chakravarthy"
+    },
+    "255a3a22-8931-40a3-a4d1-e93a53d0fd6b": {
+      "number": 145,
+      "title": "Prioritize Innovation Using Artificial Intelligence, Don't Fear AGI",
+      "date": "2024-07-09",
+      "source": "https://podcast.sure.ventures/episodes/tsse145-sustainable-ai-innovation-gayathri"
+    },
+    "26fe7470-0a22-4d8c-808b-ed7f03b3cf84": {
+      "number": 192,
+      "title": "Don't Compete on Artificial Intelligence. Compete on Insight.",
+      "date": "2026-07-07",
+      "source": "https://podcast.sure.ventures/episodes/tsse192-compete-on-insight-amir-kabir"
+    },
+    "2bb87782-f94d-431f-8134-41edd3c7c735": {
+      "number": 141,
+      "title": "Founders Are Made, Not Born. You Can Learn the Craft",
+      "date": "2024-05-14",
+      "source": "https://podcast.sure.ventures/episodes/tsse141-founders-are-made-chris-mckelvy"
+    },
+    "2cda5aca-9184-41b7-b76e-a3b1b410978e": {
+      "number": 61,
+      "title": "Just be yourself",
+      "date": "2021-09-07",
+      "source": "https://podcast.sure.ventures/episodes/just-be-yourself"
+    },
+    "2fbadf7e-0e92-40cf-ad8c-29a251e0d952": {
+      "number": 26,
+      "title": "Create unfair advantage with novel technical insights",
+      "date": "2021-01-05",
+      "source": "https://podcast.sure.ventures/episodes/chief-engineer"
+    },
+    "36d4154a-47a1-48ac-8dfa-caaa80ca0cf6": {
+      "number": 36,
+      "title": "Play the long-game to win in Silicon Valley",
+      "date": "2021-03-16",
+      "source": "https://podcast.sure.ventures/episodes/fusion"
+    },
+    "3ae69392-b535-45ae-ac78-27639c425637": {
+      "number": 191,
+      "title": "Have desire to build with unwavering commitment",
+      "date": "2026-06-23",
+      "source": "https://podcast.sure.ventures/episodes/tsse-191-desire-to-build-justin-smith-lorenzetti"
+    },
+    "3ce148f6-d66c-406c-b232-e95fbcd5c46c": {
+      "number": 45,
+      "title": "Succeed from your unique starting point",
+      "date": "2021-05-18",
+      "source": "https://podcast.sure.ventures/episodes/succeed-from-your-unique-starting-point"
+    },
+    "3d2e22f6-e5cf-42cc-b067-0e554a353409": {
+      "number": 100,
+      "title": "Listen to Remarkable People",
+      "date": "2022-09-20",
+      "source": "https://podcast.sure.ventures/episodes/tsse100-listen-to-remarkable-people-guy-kawasaki"
+    },
+    "3e85baa8-93e9-4af1-ba9a-f850036714a4": {
+      "number": 186,
+      "title": "Unlock Breakthroughs as Physical and Digital Worlds Merge",
+      "date": "2026-04-07",
+      "source": "https://podcast.sure.ventures/episodes/tsse18-physical-and-digital-worlds-merge-debjit-mukerji"
+    },
+    "4027af88-2d27-4891-a621-ec11322f9ae0": {
+      "number": 143,
+      "title": "VC is a Truth Seeking Exercise",
+      "date": "2024-06-11",
+      "source": "https://podcast.sure.ventures/episodes/tsse143-vc-is-truth-seeking-vishal-tripathi"
+    },
+    "406a365a-2930-4eff-8ed0-32aafd0009b0": {
+      "number": 49,
+      "title": "Great entrepreneurs are students of venture capital",
+      "date": "2021-06-15",
+      "source": "https://podcast.sure.ventures/episodes/research-investors-adequately-to-qualify-leads-efficiently"
+    },
+    "40a4e066-c609-40de-a83f-fbd345cfaf55": {
+      "number": 144,
+      "title": "Courageous Entrepreneurs Are Heroes, Not Consensus Seekers",
+      "date": "2024-06-25",
+      "source": "https://podcast.sure.ventures/episodes/tsse144-courageous-entrepreneurs-dan-kimerling"
+    },
+    "40f4e1a8-8b51-45f9-8c16-b8f709dfd0aa": {
+      "number": 125,
+      "title": "US-India Startup Ecosystem is Booming",
+      "date": "2023-09-12",
+      "source": "https://podcast.sure.ventures/episodes/tsse125-us-india-startup-ecosystem-priya"
+    },
+    "417d6875-3e87-4aeb-894c-3dc096f3a14d": {
+      "number": 79,
+      "title": "Sell to Investors Authentically",
+      "date": "2022-01-18",
+      "source": "https://podcast.sure.ventures/episodes/tsse79-sell-authentically-nuno-goncalves-chamaeleonvc"
+    },
+    "42587868-9b4a-4a23-867d-3096d1a9f536": {
+      "number": 136,
+      "title": "Experienced VCs Investing in Under-crowded Markets with Concentrated Portfolios Win",
+      "date": "2024-03-05",
+      "source": "https://podcast.sure.ventures/episodes/tsse-136-concentrated-portfolios-win-eric-sippel"
+    },
+    "42a4fa46-d3c4-4998-951a-fd6f59e858c4": {
+      "number": 113,
+      "title": "Build Strategies Around Who You Are",
+      "date": "2023-03-28",
+      "source": "https://podcast.sure.ventures/episodes/tsse-113-strategies-around-you-alex-edelson"
+    },
+    "44654700-4cb0-4cae-b376-20c688c2dc0b": {
+      "number": 25,
+      "title": "Visionary entrepreneurs have the x-factor",
+      "date": "2020-12-29",
+      "source": "https://podcast.sure.ventures/episodes/x-factor"
+    },
+    "474e83ac-e4d3-43a2-9a5e-a3e6619b6ca8": {
+      "number": 52,
+      "title": "Convert investors from non-believers to believers",
+      "date": "2021-07-06",
+      "source": "https://podcast.sure.ventures/episodes/convert-investor-from-non-believer-to-believer"
+    },
+    "48363488-c67c-465d-9b56-d6b6a7597968": {
+      "number": 179,
+      "title": "Emerging Managers Succeed by Diversifying, Starting Early, and Staying Consistent",
+      "date": "2025-12-02",
+      "source": "https://podcast.sure.ventures/episodes/tsse179-start-early-stay-consistent-steve-kim"
+    },
+    "49b29c85-2857-473e-b476-51c6b6806f3d": {
+      "number": 17,
+      "title": "Limited partners influence change from the top",
+      "date": "2020-10-20",
+      "source": "https://podcast.sure.ventures/episodes/lp-gp"
+    },
+    "49d30d6b-fb95-44df-aa8c-7097555cd0c2": {
+      "number": 196,
+      "title": "Think from first principles. Play to your natural advantage.",
+      "date": "2026-10-27",
+      "source": "https://podcast.sure.ventures/episodes/tsse196-first-principles-pavel-prata"
+    },
+    "4a03af57-b4ac-4f4c-bb0b-be22074c85a1": {
+      "number": 99,
+      "title": "The Difference Between Success and Failure is Right Between Your Ears",
+      "date": "2022-09-06",
+      "source": "https://podcast.sure.ventures/episodes/tsse99-success-failure-difference-mike-smerklo-next-coast"
+    },
+    "4a19c3b7-2c38-4eff-a00c-6b38539fa3bc": {
+      "number": 6,
+      "title": "Devotion to your business will convince skeptics",
+      "date": "2020-08-05",
+      "source": "https://podcast.sure.ventures/episodes/convince-skeptics"
+    },
+    "4a5020ba-4b99-447d-a4b3-4f7ba206012b": {
+      "number": 190,
+      "title": "Develop a Point of View and Let Your Advantage Compound",
+      "date": "2026-06-09",
+      "source": "https://podcast.sure.ventures/episodes/tsse-190-develop-point-of-view-david-zhou"
+    },
+    "4b3f3f86-fc3a-41d8-940f-b7b619b896e4": {
+      "number": 178,
+      "title": "Show Commitment to the Mission You Care About",
+      "date": "2025-11-18",
+      "source": "https://podcast.sure.ventures/episodes/tsse178-show-commitment-to-the-mission-stephen-wemple"
+    },
+    "4bd4a6e9-abee-4aad-a4f4-c5a3503b81ca": {
+      "number": 37,
+      "title": "Every day is recruiting day at a startup",
+      "date": "2021-03-23",
+      "source": "https://podcast.sure.ventures/episodes/recruiting-day"
+    },
+    "4cc35294-3d14-4a13-803d-590e8c098472": {
+      "number": 15,
+      "title": "Prepare your investor for the conversation",
+      "date": "2020-10-06",
+      "source": "https://podcast.sure.ventures/episodes/data-driven-vc"
+    },
+    "507a3aa0-468a-42c7-b8b9-637ef3bc6493": {
+      "number": 110,
+      "title": "Grow Responsibly With Patient Investors",
+      "date": "2023-02-14",
+      "source": "https://podcast.sure.ventures/episodes/tsse110-grow-responsibly-david-thacker"
+    },
+    "5268ea16-e232-4b5d-9bec-95c444c049ae": {
+      "number": 2,
+      "title": "Lessons from >100 angel investments",
+      "date": "2020-07-30",
+      "source": "https://podcast.sure.ventures/episodes/100-angel-investments"
+    },
+    "5321b62f-dcfb-4566-a943-032aceaf2b38": {
+      "number": 173,
+      "title": "Learn the Art of Intentional Networking",
+      "date": "2025-09-02",
+      "source": "https://podcast.sure.ventures/episodes/tsse-173-intentional-networking-bhaskar-ghosh"
+    },
+    "53a4a78d-1104-4289-97dc-734a3830c466": {
+      "number": 20,
+      "title": "How does an investor form gut feel?",
+      "date": "2020-11-10",
+      "source": "https://podcast.sure.ventures/episodes/gut-feel"
+    },
+    "53afd7c5-c9c8-4329-9b7b-168b8df01147": {
+      "number": 121,
+      "title": "No Means Not Now; Keep Trying",
+      "date": "2023-07-18",
+      "source": "https://podcast.sure.ventures/episodes/tsse121-no-means-not-now-david-york-top-tier"
+    },
+    "556c6e60-062c-4c69-982c-68eae900d909": {
+      "number": 185,
+      "title": "Some Ideas Can’t Wait. Accelerate Now.",
+      "date": "2026-03-24",
+      "source": "https://podcast.sure.ventures/episodes/tsse185-accelerate-now-1517-fund"
+    },
+    "55701c48-43d8-4ddb-8411-cb5a45fbab00": {
+      "number": 78,
+      "title": "Bring Fresh Ideas to Improve Healthcare",
+      "date": "2022-01-11",
+      "source": "https://podcast.sure.ventures/episodes/tsse78-fresh-healthcare-ideas-sam-toole-primaryvc"
+    },
+    "58315598-2ffd-4630-aa43-e04259c2b6b0": {
+      "number": 96,
+      "title": "Build 12 Months of Barrier to Entry",
+      "date": "2022-07-26",
+      "source": "https://podcast.sure.ventures/episodes/tsse-96-build-entry-barrier-ariana-thacker-consciencevc"
+    },
+    "58d15263-fb67-4c72-9683-3312dfd88eab": {
+      "number": 115,
+      "title": "Let’s Demystify the Venture Capital Asset Class",
+      "date": "2023-04-25",
+      "source": "https://podcast.sure.ventures/episodes/tsse115-lets-demystify-vc-fernando-pontaza"
+    },
+    "58ee6413-b744-4f39-b3d1-74e8b04aa2a6": {
+      "number": 154,
+      "title": "Do Great Work. VCs Will Find You.",
+      "date": "2024-11-12",
+      "source": "https://podcast.sure.ventures/episodes/tsse154-do-great-work-vcs-will-find-you-yigit-ihlamur"
+    },
+    "5d169383-43cd-4c17-8dac-193df68c34cc": {
+      "number": 112,
+      "title": "Diversified VC Portfolios Find Big Winners",
+      "date": "2023-03-14",
+      "source": "https://podcast.sure.ventures/episodes/tsse112-diversified-vc-portfolios-jamie-rhode"
+    },
+    "5d955cc6-d604-46ab-ad57-7d195c8f88e5": {
+      "number": 76,
+      "title": "Do You Have Unlimited Ambition?",
+      "date": "2021-12-28",
+      "source": "https://podcast.sure.ventures/episodes/tsse76-unlimited-ambition-zainjaffer-blue-field"
+    },
+    "5e1ed233-d1b8-4c83-8904-4f6f9341304f": {
+      "number": 158,
+      "title": "Look for Early Believers, Not Just Capital Providers",
+      "date": "2025-01-21",
+      "source": "https://podcast.sure.ventures/episodes/tsse158-early-believers-pablo-srugo"
+    },
+    "5f15841a-ef73-45d6-85a3-89545287c16f": {
+      "number": 82,
+      "title": "Founders With Long-term Vision Are Not Distracted by Public Market Volatility",
+      "date": "2022-02-08",
+      "source": "https://podcast.sure.ventures/episodes/tsse82-public-market-volatility-michael-forumvc"
+    },
+    "6362f3e7-1345-4d5f-bd95-5251d794bb4e": {
+      "number": 134,
+      "title": "Make Venture Capital Work for Everyone, Including LGBT Founders and Investors",
+      "date": "2024-01-23",
+      "source": "https://podcast.sure.ventures/episodes/tsse134-vc-for-everyone-lorenzo-thione"
+    },
+    "6640ce0b-4e59-4b38-824c-80ce77ed7c7e": {
+      "number": 168,
+      "title": "A Better Food Future Starts with Founders Who Get It",
+      "date": "2025-06-24",
+      "source": "https://podcast.sure.ventures/episodes/tsse-168-better-food-future-brian-frank"
+    },
+    "66915e52-1306-4f6c-a974-f8eb5307a599": {
+      "number": 148,
+      "title": "Build Businesses to Make Everyone’s Lives Better",
+      "date": "2024-08-20",
+      "source": "https://podcast.sure.ventures/episodes/tsse148-make-everyones-lives-better-aaron-webster"
+    },
+    "681d3510-0750-4163-aa07-52c975391de5": {
+      "number": 135,
+      "title": "Path to Success is Never Linear",
+      "date": "2024-02-06",
+      "source": "https://podcast.sure.ventures/episodes/tsse135-path-to-success-aakar-vachhani"
+    },
+    "68930395-c99e-4677-8e4c-138eccc96c5d": {
+      "number": 72,
+      "title": "Construction Technology Will Solve the Global Housing Crisis",
+      "date": "2021-11-23",
+      "source": "https://podcast.sure.ventures/episodes/tsse72-construction-tech-julieta-moradei"
+    },
+    "689454f3-0441-4a75-bb07-1ce40c47a247": {
+      "number": 43,
+      "title": "Reflect, learn and grow",
+      "date": "2021-05-04",
+      "source": "https://podcast.sure.ventures/episodes/reflect-learn-and-grow"
+    },
+    "69a84f73-a6bc-4af8-a0f3-02abdc48b752": {
+      "number": 166,
+      "title": "Don’t Just Pitch; Connect with Investors Through Vision",
+      "date": "2025-05-13",
+      "source": "https://podcast.sure.ventures/episodes/tsse166-dont-just-pitch-nadav-eylath"
+    },
+    "6aa4c8aa-739a-413a-a6c2-d6c5e63271ab": {
+      "number": 29,
+      "title": "Startup ecosystem in Austin, Texas is booming",
+      "date": "2021-01-26",
+      "source": "https://podcast.sure.ventures/episodes/austin-is-booming"
+    },
+    "6ed4e699-6451-4eaa-b79a-ec88fa671d27": {
+      "number": 133,
+      "title": "A Global Village of Luminaries Help Founders Unleash Potential",
+      "date": "2024-01-09",
+      "source": "https://podcast.sure.ventures/episodes/tsse133-global-village-vc-anne-dwane"
+    },
+    "6f5048a7-baa5-42c7-b272-89994adf52f8": {
+      "number": 123,
+      "title": "Software Will Solve Broken Systems in Every Aspect of Healthcare",
+      "date": "2023-08-15",
+      "source": "https://podcast.sure.ventures/episodes/tsse123-healthcare-software-investing-scott-barclay"
+    },
+    "7560da4c-5de7-4823-af53-fac555884b0f": {
+      "number": 63,
+      "title": "Show your assumptions",
+      "date": "2021-09-21",
+      "source": "https://podcast.sure.ventures/episodes/show-your-assumptions"
+    },
+    "765a3a11-6cd9-48b5-9a8c-504e8cc81394": {
+      "number": 13,
+      "title": "Meet a rare black VC",
+      "date": "2020-09-24",
+      "source": "https://podcast.sure.ventures/episodes/black-vc"
+    },
+    "76a6eb4d-68f1-438c-821d-4bd425312c58": {
+      "number": 91,
+      "title": "Stick It Out and Execute, Don’t Fail Easily",
+      "date": "2022-05-17",
+      "source": "https://podcast.sure.ventures/episodes/tsse91-dont-fail-easily-ayush-jain"
+    },
+    "77032a0f-1385-4465-9849-c17e721f17a8": {
+      "number": 80,
+      "title": "Entrepreneurship is a Viable Career Path",
+      "date": "2022-01-25",
+      "source": "https://podcast.sure.ventures/episodes/tsse80-entrepreneurship-viable-career-vikrant"
+    },
+    "79b1b5a3-fd8e-410a-803d-9c48b446b6c7": {
+      "number": 194,
+      "title": "Why Founders Matter More Than Their Ideas at the Earliest Stages",
+      "date": "2026-09-01",
+      "source": "https://podcast.sure.ventures/episodes/tsse-194-founders-matter-more-than-ideas-isabel-bescos"
+    },
+    "7a1af9ae-2855-4961-be23-11e2116072f4": {
+      "number": 161,
+      "title": "Build a Local Startup, Dream Global Impact",
+      "date": "2025-03-04",
+      "source": "https://podcast.sure.ventures/episodes/tsse-161-build-global-at-home-allen-taylor"
+    },
+    "7a8c5f74-81e1-412d-8d7b-18a721341948": {
+      "number": 16,
+      "title": "Immigrant entrepreneurs must overcome unique hurdles",
+      "date": "2020-10-13",
+      "source": "https://podcast.sure.ventures/episodes/immigrant-entrepreneur"
+    },
+    "7b692c64-4dc4-4a00-8897-e64ebdcc6bea": {
+      "number": 85,
+      "title": "Investing in Product-Led Growth",
+      "date": "2022-03-01",
+      "source": "https://podcast.sure.ventures/episodes/tsse85-product-led-growth-paige-bgv"
+    },
+    "7c2947a4-ec99-450e-baa3-07e12b81793c": {
+      "number": 156,
+      "title": "Build What the World Needs, Not Gratuitously",
+      "date": "2024-12-10",
+      "source": "https://podcast.sure.ventures/episodes/tsse156-build-for-need-neil-devani"
+    },
+    "7ea282e7-771d-4b03-9799-f5261664c249": {
+      "number": 4,
+      "title": "Modernize financial infrastructure to democratize prosperity",
+      "date": "2020-07-30",
+      "source": "https://podcast.sure.ventures/episodes/democratize-prosperity"
+    },
+    "80dbc636-4c29-4356-acf4-6155640f3d79": {
+      "number": 53,
+      "title": "Say what your company does in 30 seconds",
+      "date": "2021-07-13",
+      "source": "https://podcast.sure.ventures/episodes/ubiquity"
+    },
+    "80ee24fe-418b-4010-8388-598e0d615757": {
+      "number": 131,
+      "title": "Attract High-Quality Limited Partners Who Value Your Experience",
+      "date": "2023-12-05",
+      "source": "https://podcast.sure.ventures/episodes/tsse131-high-quality-limited-partners-justin-dyer"
+    },
+    "80f82728-4730-4301-b879-2c5907e6aae0": {
+      "number": 86,
+      "title": "Is Decentralized Finance Really Getting Decentralized?",
+      "date": "2022-03-08",
+      "source": "https://podcast.sure.ventures/episodes/tsse86-decentralized-finance-andy-two-sigma"
+    },
+    "8499e05c-1482-4fe7-afc1-0c6c86b64b7b": {
+      "number": 71,
+      "title": "Beware of Regulations in Fintech",
+      "date": "2021-11-16",
+      "source": "https://podcast.sure.ventures/episodes/tsse71-fintech-regulation-lucas-timberlake"
+    },
+    "8515d7d0-1069-4e9e-84ab-1868e0778924": {
+      "number": 46,
+      "title": "Foresee future opportunities from today’s innovations",
+      "date": "2021-05-25",
+      "source": "https://podcast.sure.ventures/episodes/foresee-future-opportunities-from-todays-innovations"
+    },
+    "856da7b2-3fe0-466f-9b88-7d9360772e83": {
+      "number": 193,
+      "title": "Demonstrate Ambition Before You Ask Investors to Believe in You",
+      "date": "2026-07-21",
+      "source": "https://podcast.sure.ventures/episodes/tsse193-demonstrate-ambition-sudarshan-sridharan"
+    },
+    "857453c9-ace1-4c46-b4f3-af9eefd84ba8": {
+      "number": 171,
+      "title": "Your Biggest Danger Is an Inbound",
+      "date": "2025-08-05",
+      "source": "https://podcast.sure.ventures/episodes/tsse171-biggest-danger-is-an-inbound-jacques-benkoski"
+    },
+    "886cd152-35d0-46ad-b7cc-791ce4aa2048": {
+      "number": 180,
+      "title": "Ignore the Bubble, Chase Alpha",
+      "date": "2026-01-13",
+      "source": "https://podcast.sure.ventures/episodes/tsse180-ignore-the-bubble-amias-gerety"
+    },
+    "89cb85c5-59a2-4f7a-ae93-274ab677a8f9": {
+      "number": 107,
+      "title": "Deep Tech Startups Are Thriving",
+      "date": "2023-01-03",
+      "source": "https://podcast.sure.ventures/episodes/tsse107-deep-tech-startups-karthee-madasamy"
+    },
+    "8b3723c0-58f2-4956-b3c0-8ac90aa734b5": {
+      "number": 132,
+      "title": "Founders, and All Leaders, Need a Coach",
+      "date": "2023-12-19",
+      "source": "https://podcast.sure.ventures/episodes/tsse132-leaders-need-coaching-patrick-mork"
+    },
+    "8c412426-d47f-4da3-9f90-6f252d5b15fa": {
+      "number": 127,
+      "title": "Understand Nuances of Culture to Build Useful Products",
+      "date": "2023-10-10",
+      "source": "https://podcast.sure.ventures/episodes/understand-culture-nuances-theresa-blissing"
+    },
+    "8dcbe28c-e754-45d1-ba12-44c0f10aa3a1": {
+      "number": 146,
+      "title": "Patiently Teach Investors What You Know to Win Them Over",
+      "date": "2024-07-23",
+      "source": "https://podcast.sure.ventures/episodes/tsse146-patiently-teach-investors-venktesh"
+    },
+    "92d8efcc-c1ce-44f6-bfc9-e201f55750ea": {
+      "number": 67,
+      "title": "Appetite for Disruption: Alternative Proteins",
+      "date": "2021-10-19",
+      "source": "https://podcast.sure.ventures/episodes/tsse67-alternative-proteins-gautam-good-startup"
+    },
+    "961bcb46-9039-4514-b8a9-afd11445908b": {
+      "number": 128,
+      "title": "Concentrated Investments Can Generate Top Tier Returns, While Diversified Index Aims for Average",
+      "date": "2023-10-24",
+      "source": "https://podcast.sure.ventures/episodes/tsse-128-concentrated-investments-aram-verdiyan"
+    },
+    "96b07626-e3ef-4f5d-9103-97491b5f0019": {
+      "number": 160,
+      "title": "Show Real Traction, Not Just Projections",
+      "date": "2025-02-18",
+      "source": "https://podcast.sure.ventures/episodes/tsse160-show-real-traction-connor-ryan"
+    },
+    "9827af17-5de9-470a-a6b9-d2bf0c001fb3": {
+      "number": 177,
+      "title": "Artificial Intelligence is Becoming Service-First",
+      "date": "2025-11-04",
+      "source": "https://podcast.sure.ventures/episodes/tsse177-ai-is-becoming-service-first-itamar-novick"
+    },
+    "9a33fceb-c262-4c00-b3ed-2dd64ce223d9": {
+      "number": 116,
+      "title": "Build Products from the Ground Up",
+      "date": "2023-05-09",
+      "source": "https://podcast.sure.ventures/episodes/tsse116-build-ground-up-tanvi-narain"
+    },
+    "9c62d02e-8590-4de1-9844-e45d33e314d8": {
+      "number": 24,
+      "title": "Clarity of thought combined with empathy is a winning combo",
+      "date": "2020-12-15",
+      "source": "https://podcast.sure.ventures/episodes/clarity-of-thought"
+    },
+    "9d24d1dc-3fac-4a50-bc2e-7f9df2772392": {
+      "number": 69,
+      "title": "Put On Your Risk Hat With Debt Investors",
+      "date": "2021-11-02",
+      "source": "https://podcast.sure.ventures/episodes/tsse69-venture-debt-jacob-cim"
+    },
+    "9d4a40b2-53db-4a9a-90b0-1fd8416551cd": {
+      "number": 129,
+      "title": "VC is an Important Asset Class for Endowments to Generate Alpha",
+      "date": "2023-11-07",
+      "source": "https://podcast.sure.ventures/episodes/tsse129-vc-generates-alpha-miles-dieffenbach"
+    },
+    "9d8c8145-dbf2-4001-8013-b1cf42f2d74a": {
+      "number": 87,
+      "title": "Learn to Look for VCs With Founder Mentality",
+      "date": "2022-03-22",
+      "source": "https://podcast.sure.ventures/episodes/tsse87-vcs-with-founder-mentality-winter-mead"
+    },
+    "a03fb587-6ec7-4204-bb70-4a55623b1c9a": {
+      "number": 122,
+      "title": "VCs Help Startups Recruit Great Candidates and Catch Liars",
+      "date": "2023-08-01",
+      "source": "https://podcast.sure.ventures/episodes/tsse122-vcs-catch-liars-oren-zeev"
+    },
+    "a0c4aa97-fa1d-4ecf-8d43-2c6adb052799": {
+      "number": 103,
+      "title": "Be a Badass Founder",
+      "date": "2022-11-01",
+      "source": "https://podcast.sure.ventures/episodes/tsse103-badass-founder-chingona"
+    },
+    "a4deab42-01d1-49f4-aa4c-e96e16cd0f5f": {
+      "number": 10,
+      "title": "Design a process to avoid investment biases",
+      "date": "2020-09-01",
+      "source": "https://podcast.sure.ventures/episodes/networks-and-biases"
+    },
+    "a551824a-d926-4a44-814a-f6520d5ce9d2": {
+      "number": 114,
+      "title": "Politics is Like Venture Capital. Really!",
+      "date": "2023-04-11",
+      "source": "https://podcast.sure.ventures/episodes/tsse114-politics-like-vc-adrian-fenty"
+    },
+    "a5b8d933-e2fb-43cd-a716-c568e4017e5e": {
+      "number": 97,
+      "title": "Tell Your Story of Why",
+      "date": "2022-08-09",
+      "source": "https://podcast.sure.ventures/episodes/tsse97-your-why-story-taylor-clauson"
+    },
+    "a5e912ea-38e6-4102-9c0e-f6d6d3a7e499": {
+      "number": 81,
+      "title": "Competition is Irrelevant",
+      "date": "2022-02-01",
+      "source": "https://podcast.sure.ventures/episodes/tsse81-competition-is-irrelevant-matth-bcv"
+    },
+    "a7166503-eec2-4e62-b455-946db1a8f608": {
+      "number": 130,
+      "title": "Work With Your Investor to Build Strategic Partnerships",
+      "date": "2023-11-21",
+      "source": "https://podcast.sure.ventures/episodes/tsse130-strategic-partnerships-with-investors-steve-pretre"
+    },
+    "a8c30a40-784e-43cb-9bda-9cc77a6fdb0a": {
+      "number": 65,
+      "title": "Balance Commitment to the Vision with Attention to Customers' Needs",
+      "date": "2021-10-05",
+      "source": "https://podcast.sure.ventures/episodes/commitment-to-vision-nick-moran-new-stack"
+    },
+    "a9d545a6-b23f-482e-92f8-02ca1fef61fa": {
+      "number": 30,
+      "title": "Convert frustration into desire to create a new business",
+      "date": "2021-02-02",
+      "source": "https://podcast.sure.ventures/episodes/convert-frustration"
+    },
+    "aaff8b20-b584-4fb0-9718-0f8b95dc62cb": {
+      "number": 18,
+      "title": "Seek honest feedback from investors",
+      "date": "2020-10-27",
+      "source": "https://podcast.sure.ventures/episodes/honest-feedback"
+    },
+    "ac616ea1-bc14-4eec-a1b9-29da04ff9ec8": {
+      "number": 77,
+      "title": "Create Net New Value from Nothing",
+      "date": "2022-01-04",
+      "source": "https://podcast.sure.ventures/episodes/tsse77-net-new-value-chris-wake-atypicalvc"
+    },
+    "b0b4a4f2-62b4-4628-bb97-871ca0fb8900": {
+      "number": 12,
+      "title": "Ethos to keep pushing things forward is a rare quality",
+      "date": "2020-09-16",
+      "source": "https://podcast.sure.ventures/episodes/alchemist"
+    },
+    "b0e3ffc3-1b99-4448-9c01-a4350e4949ef": {
+      "number": 124,
+      "title": "Create New Industry Categories",
+      "date": "2023-08-29",
+      "source": "https://podcast.sure.ventures/episodes/tsse124-category-defining-companies-eric-ver-ploeg"
+    },
+    "b240a540-e46c-4fe6-bf00-6a1e286cc7e2": {
+      "number": 184,
+      "title": "Improve Healthcare Access for Overlooked Populations",
+      "date": "2026-03-10",
+      "source": "https://podcast.sure.ventures/episodes/tsse184-improve-healthcare-access-jessica-karr"
+    },
+    "b286e5b2-245f-429c-b570-eac576d0b7bc": {
+      "number": 95,
+      "title": "Distill the Essence of Your Vision",
+      "date": "2022-07-12",
+      "source": "https://podcast.sure.ventures/episodes/tsse-95-distill-vision-essence-andrew-scott"
+    },
+    "b291d4ef-8c94-4de8-951a-5b61ca8231d5": {
+      "number": 111,
+      "title": "Don’t Lose Contact with Investors, Stay in Touch",
+      "date": "2023-02-28",
+      "source": "https://podcast.sure.ventures/episodes/tsse111-contact-with-investors-manu-kumar"
+    },
+    "b49d0de7-0578-4487-ae8d-9d3e17691075": {
+      "number": 153,
+      "title": "Use Your Superpowers, Don’t Dilute Your Efforts",
+      "date": "2024-10-29",
+      "source": "https://podcast.sure.ventures/episodes/tsse153-use-your-superpowers-jessie-guo"
+    },
+    "b539857a-eb31-4e1f-88ca-b3c5150a0e9c": {
+      "number": 90,
+      "title": "What’s Your North Star?",
+      "date": "2022-05-03",
+      "source": "https://podcast.sure.ventures/episodes/tsse90-north-star-gale-wilkinson-vitalize-vc"
+    },
+    "b573d39a-0e7d-42b3-a048-cb47a1743368": {
+      "number": 73,
+      "title": "Investing in Pre-revenue Startups",
+      "date": "2021-11-30",
+      "source": "https://podcast.sure.ventures/episodes/tsse73-pre-revenue-startups-charles-precursor"
+    },
+    "b89bf0a3-0c34-4df6-91f9-9fb043a1db2f": {
+      "number": 55,
+      "title": "Look where others are not looking",
+      "date": "2021-07-27",
+      "source": "https://podcast.sure.ventures/episodes/look-where-others-are-not-looking"
+    },
+    "b9c3f19d-fa8e-485c-a3db-4df1f51ba8f3": {
+      "number": 7,
+      "title": "Increase diversity in entrepreneurship, now",
+      "date": "2020-08-12",
+      "source": "https://podcast.sure.ventures/episodes/diversity-entrepreneurship"
+    },
+    "ba4e84c0-33e2-4b67-a128-ca5fd4f7c368": {
+      "number": 118,
+      "title": "AI is a Mega-Trend Like the Internet, Social and Mobile",
+      "date": "2023-06-06",
+      "source": "https://podcast.sure.ventures/episodes/tsse118-ai-big-mega-trend-munjal-shah"
+    },
+    "bbcf3b5b-9d87-4cf7-8434-31fded782cb0": {
+      "number": 35,
+      "title": "Be efficient. Don't be macho.",
+      "date": "2021-03-09",
+      "source": "https://podcast.sure.ventures/episodes/deeptech"
+    },
+    "bdd967e6-598c-4800-9492-b1d6d6b06429": {
+      "number": 64,
+      "title": "Ambitious Midwest U.S. Founders are Underrated",
+      "date": "2021-09-28",
+      "source": "https://podcast.sure.ventures/episodes/midwest-us-founders-underrated-victor-gutwein-m25"
+    },
+    "c1344c12-8b95-4c3b-9c03-06b0fdd83f03": {
+      "number": 58,
+      "title": "Don’t wait for the perfect time",
+      "date": "2021-08-17",
+      "source": "https://podcast.sure.ventures/episodes/dont-wait-for-the-perfect-time"
+    },
+    "c14463d2-d6a1-41ac-88d2-a5c916c50441": {
+      "number": 149,
+      "title": "Impact a Billion and Make a Billion",
+      "date": "2024-09-03",
+      "source": "https://podcast.sure.ventures/episodes/tsse149-impact-a-billion-transform-vc"
+    },
+    "c2836d44-75cb-4c6b-a239-697e46d7a7b2": {
+      "number": 89,
+      "title": "Improve Society Using Risk and Insurance",
+      "date": "2022-04-19",
+      "source": "https://podcast.sure.ventures/episodes/tsse89-risk-and-insurance-prof-joan-schmit-cdl"
+    },
+    "c48f9e24-1980-45e7-9189-a5eb681dcaa1": {
+      "number": 62,
+      "title": "Technology redefining the future of work",
+      "date": "2021-09-14",
+      "source": "https://podcast.sure.ventures/episodes/future-of-work-starts-with-better-healthcare"
+    },
+    "c503ba72-b034-4c49-b2ba-bf55aa5d3e39": {
+      "number": 108,
+      "title": "Will You Raise Series A in 12 Months?",
+      "date": "2023-01-17",
+      "source": "https://podcast.sure.ventures/episodes/tsse108-series-a-12-months-richard-kerby"
+    },
+    "c74483dd-60d4-48ed-aabf-f183aa2fdb62": {
+      "number": 11,
+      "title": "Startups in underdog cities are looking for good investors",
+      "date": "2020-09-09",
+      "source": "https://podcast.sure.ventures/episodes/startups-in-underdog-cities"
+    },
+    "c8c6faa5-e792-4a3c-bcd3-ac45079cc786": {
+      "number": 33,
+      "title": "No place in the world is like Silicon Valley",
+      "date": "2021-02-23",
+      "source": "https://podcast.sure.ventures/episodes/silicon-valley"
+    },
+    "c9a4e238-1052-41a9-9540-fad313b52f26": {
+      "number": 150,
+      "title": "Learn How to Take Advice from the Right People at the Right Time",
+      "date": "2024-09-17",
+      "source": "https://podcast.sure.ventures/episodes/tsse150-take-right-advice-rajan-upekkha"
+    },
+    "c9fbca28-8043-4e98-a9b4-be9e16133867": {
+      "number": 44,
+      "title": "Say “Yes” more often",
+      "date": "2021-05-11",
+      "source": "https://podcast.sure.ventures/episodes/say-yes"
+    },
+    "cb316eac-6193-4ee8-aaed-97e5b494ecf7": {
+      "number": 120,
+      "title": "Change The Financial System",
+      "date": "2023-07-04",
+      "source": "https://podcast.sure.ventures/episodes/tsse-120-change-financial-system-ruth-foxe-blader"
+    },
+    "cb7634ac-14fd-4cb7-91f2-892f1dee7839": {
+      "number": 105,
+      "title": "Can You Plan for No Fundraising in the Future?",
+      "date": "2022-11-29",
+      "source": "https://podcast.sure.ventures/episodes/tsse105-no-fundraising-future-semil-shah"
+    },
+    "d5191fc6-eb49-44b8-a1de-e74c3c4096cc": {
+      "number": 3,
+      "title": "Future of healthcare needs more empathy and technology",
+      "date": "2020-07-30",
+      "source": "https://podcast.sure.ventures/episodes/growth-mindset"
+    },
+    "d53f7cc5-3aa3-446c-a13a-20c8882c04f8": {
+      "number": 94,
+      "title": "Be Ready to Answer Hard Questions",
+      "date": "2022-06-28",
+      "source": "https://podcast.sure.ventures/episodes/tsse94-answer-hard-questions-kfir-kachlon"
+    },
+    "d55146de-717e-4951-accc-71fe65b2de2b": {
+      "number": 84,
+      "title": "Choose Investors Who Solve Problems",
+      "date": "2022-02-22",
+      "source": "https://podcast.sure.ventures/episodes/tsse84-investors-solve-problems-jonathan-vertex"
+    },
+    "d5fe6669-5823-41e7-9e8c-fbf7b3e1716d": {
+      "number": 151,
+      "title": "Grit and Passion are Important; Ideas are a Dime a Dozen",
+      "date": "2024-10-01",
+      "source": "https://podcast.sure.ventures/episodes/tsse151-ideas-are-dime-a-dozen"
+    },
+    "d69612b0-afb7-4cb4-9d68-a54cecff3a7f": {
+      "number": 39,
+      "title": "Turn venture blueprints into tangible, thriving futures",
+      "date": "2021-04-06",
+      "source": "https://podcast.sure.ventures/episodes/venture-blueprints"
+    },
+    "d6d6ae77-93f6-478a-936d-f4c96afdd8a2": {
+      "number": 93,
+      "title": "Financial Technology Will Create a Better Tomorrow",
+      "date": "2022-06-14",
+      "source": "https://podcast.sure.ventures/episodes/tsse93-fintech-better-tomorrow"
+    },
+    "d7878b46-2288-416c-a75f-9ff9a13ca530": {
+      "number": 175,
+      "title": "Make the Positive Power of Venture Capital Reach All Communities",
+      "date": "2025-10-07",
+      "source": "https://podcast.sure.ventures/episodes/tsse175-venture-capital-positive-power-maryam-haque"
+    },
+    "d7e322bf-503a-470f-a835-7dd927dc2218": {
+      "number": 117,
+      "title": "The Future of Insurance is Collaboration",
+      "date": "2023-05-23",
+      "source": "https://podcast.sure.ventures/episodes/tsse117-future-of-insurance-bryan-falchuk-david-gritz"
+    },
+    "d8575018-ca1d-4be3-ac50-22e0b1e02c0d": {
+      "number": 140,
+      "title": "Family Office with Three Sisters Finds Alpha Through VCs",
+      "date": "2024-04-30",
+      "source": "https://podcast.sure.ventures/episodes/tsse140-family-office-alexa-binns"
+    },
+    "dabe60e7-f58f-4646-94a0-36cc70bd1b9e": {
+      "number": 157,
+      "title": "Latam Entrepreneurs Use Venture Capital Networks to Expand Globally",
+      "date": "2025-01-07",
+      "source": "https://podcast.sure.ventures/episodes/tsse157-latam-venture-capital-felipe-camposano"
+    },
+    "db55f8a9-8524-4c05-9c02-53e38bc52622": {
+      "number": 32,
+      "title": "Innovate continuously to remain competitive",
+      "date": "2021-02-16",
+      "source": "https://podcast.sure.ventures/episodes/innovate-continuously"
+    },
+    "e091dc9b-abaa-422d-83b4-ef9a2c875650": {
+      "number": 172,
+      "title": "Don’t Ditch the Pitch Deck",
+      "date": "2025-08-19",
+      "source": "https://podcast.sure.ventures/episodes/tsse-172-dont-ditch-the-pitch-deck-zach-noorani"
+    },
+    "e15d1342-a65c-47e3-99fb-c2af2adfbfa5": {
+      "number": 38,
+      "title": "Everything is fintech",
+      "date": "2021-03-30",
+      "source": "https://podcast.sure.ventures/episodes/everything-is-fintech"
+    },
+    "e21e9775-1b22-4922-a3df-09f8b970c3ce": {
+      "number": 176,
+      "title": "Be the Quirky Underdog Obsessed About Building the Next New Thing",
+      "date": "2025-10-21",
+      "source": "https://podcast.sure.ventures/episodes/tsse176-the-quirky-underdog-adam-draper"
+    },
+    "e3c4099e-4825-4192-8501-131c8bbfe5f0": {
+      "number": 9,
+      "title": "Build solutions for a large future market",
+      "date": "2020-08-26",
+      "source": "https://podcast.sure.ventures/episodes/future-market"
+    },
+    "e5612c8b-f68c-4ef2-a2ea-edaea0dc1475": {
+      "number": 142,
+      "title": "Make Sustainability Cool to Appeal to the Human Side",
+      "date": "2024-05-28",
+      "source": "https://podcast.sure.ventures/episodes/tsse142-appeal-to-human-side-atlas-berry"
+    },
+    "e6348f6b-f4e0-426e-8090-6320d7409c6b": {
+      "number": 66,
+      "title": "Keep the Deck Clear and Concise",
+      "date": "2021-10-12",
+      "source": "https://podcast.sure.ventures/episodes/tsse-66-clear-concise-deck-david-forsberg-aev"
+    },
+    "e708156b-ece1-4c4b-a12e-2306a1f5e4ff": {
+      "number": 14,
+      "title": "Tell the story of \"why\" to excite investors",
+      "date": "2020-09-30",
+      "source": "https://podcast.sure.ventures/episodes/enterprise-vc"
+    },
+    "e9356c4d-19c1-4917-9c16-29e37b0ce316": {
+      "number": 56,
+      "title": "No is not a no. You can convert to a yes.",
+      "date": "2021-08-03",
+      "source": "https://podcast.sure.ventures/episodes/no-is-not-a-no"
+    },
+    "e9a6d472-8cfd-4700-a126-bf5b536144f9": {
+      "number": 54,
+      "title": "Focus on one user, one use case, and one solution",
+      "date": "2021-07-20",
+      "source": "https://podcast.sure.ventures/episodes/homebrew"
+    },
+    "e9cf1836-7f70-49a5-b6a3-03ff05980a38": {
+      "number": 23,
+      "title": "Growth with negative margins is dangerous",
+      "date": "2020-12-08",
+      "source": "https://podcast.sure.ventures/episodes/unit-economics"
+    },
+    "ed30e169-559a-46a8-8b57-3a3701614a3f": {
+      "number": 51,
+      "title": "Be persuasive to convince investors, customers and employees",
+      "date": "2021-06-29",
+      "source": "https://podcast.sure.ventures/episodes/persuasive-fintech"
+    },
+    "eed83131-61f5-4654-89a1-4ca17ba485a9": {
+      "number": 126,
+      "title": "Put Moolah in the Coolah",
+      "date": "2023-09-26",
+      "source": "https://podcast.sure.ventures/episodes/tsse126-moolah-in-coolah-chris-douvos"
+    },
+    "ef06e4ed-7614-46dd-9a09-38fc6e4085d8": {
+      "number": 181,
+      "title": "Are You Willing to Deal With the Pain of Building a Successful Business?",
+      "date": "2026-01-27",
+      "source": "https://podcast.sure.ventures/episodes/tsse181-pain-of-building-jonathan-crystal-vc"
+    },
+    "efa83df4-f3ea-4c91-abc2-5c04152740f1": {
+      "number": 70,
+      "title": "Good Corporate VCs Think Strategically",
+      "date": "2021-11-09",
+      "source": "https://podcast.sure.ventures/episodes/tsse70-cvcs-not-devil-patrick-counterpart"
+    },
+    "f16996bf-c8e5-4ccb-81ef-3ad4ca5699f5": {
+      "number": 183,
+      "title": "AI Will Not Save You. Reinvention Will.",
+      "date": "2026-02-24",
+      "source": "https://podcast.sure.ventures/episodes/tsse183-ai-will-not-save-you-kapil-surlaker"
+    },
+    "f8875336-c5e4-4c7f-a215-d246e95ec3a6": {
+      "number": 167,
+      "title": "Stop What Could Go Wrong and Build a Safer AI Future",
+      "date": "2025-06-10",
+      "source": "https://podcast.sure.ventures/episodes/tsse167-safer-ai-future-geoff-ralston"
+    },
+    "f8dae3ec-a41b-49fc-a80f-a8a91eedfb99": {
+      "number": 42,
+      "title": "Don’t be shy. Good investors like to get their hands dirty.",
+      "date": "2021-04-27",
+      "source": "https://podcast.sure.ventures/episodes/irrvrnt"
+    },
+    "f909f265-f3f7-4af3-98d6-28164b87ae27": {
+      "number": 182,
+      "title": "We are in a Bubble of Bubble Talk, Not in a Real Financial Bubble",
+      "date": "2026-02-10",
+      "source": "https://podcast.sure.ventures/episodes/tsse182-bubble-talk-aman-verjee"
+    },
+    "fa693df2-5ffd-48ab-8eeb-dd1fe8224b48": {
+      "number": 169,
+      "title": "Secondaries are Essential for the Venture Capital Market",
+      "date": "2025-07-08",
+      "source": "https://podcast.sure.ventures/episodes/tsse169-secondaries-are-essential-dave-mcclure"
+    },
+    "fac1ddc0-8d4a-4487-a8fb-aadc6e92527d": {
+      "number": 138,
+      "title": "Keep It Simple and Embrace Uncertainty",
+      "date": "2024-04-02",
+      "source": "https://podcast.sure.ventures/episodes/tsse138-keep-it-simple-phil-edmundson"
+    },
+    "fad1d0cf-9833-4eb2-8b90-d1050b207191": {
+      "number": 60,
+      "title": "Prioritize cash, team and momentum in that order",
+      "date": "2021-08-31",
+      "source": "https://podcast.sure.ventures/episodes/prioritize-cash-team-and-momentum-in-that-order"
+    },
+    "fcb30e08-b756-4688-af39-60a19bac2fc0": {
+      "number": 109,
+      "title": "Venture Capital Will Open To All Investors",
+      "date": "2023-01-31",
+      "source": "https://podcast.sure.ventures/episodes/tsse109-venture-capital-open-eric-woo-revere-vc"
+    },
+    "ff0bef5c-7257-436c-907a-3f16a7f36691": {
+      "number": 188,
+      "title": "Young Kind Leaders are Our Hope for a Better Future",
+      "date": "2026-05-05",
+      "source": "https://podcast.sure.ventures/episodes/tsse188-kind-leaders-better-future-ian-sandler"
+    }
+  }
+}

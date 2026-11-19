@@ -3328,6 +3328,146 @@
       }
     }
   },
+  "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71": {
+    "detail": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "application/json; charset=utf-8",
+        "path": "sources/12347f30-6d08-4ad5-a13a-3f8865a1bd71/detail/590daa712a69fe9c986ceb9a542178620f54b7495729f13b70e05cd477a1ff6f.json",
+        "retrieved_at": "2026-11-10T20:55:59.363927+00:00",
+        "sha256": "590daa712a69fe9c986ceb9a542178620f54b7495729f13b70e05cd477a1ff6f",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "episode_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "kind": "detail",
+      "layer": "official_source",
+      "remote_id": "12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "retrieval_status": "success",
+      "source_field": null,
+      "source_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71:detail",
+      "source_url": "https://api.simplecast.com/episodes/12347f30-6d08-4ad5-a13a-3f8865a1bd71"
+    },
+    "intelligence": {
+      "availability": "not_found_locally",
+      "kind": "intelligence",
+      "layer": "editorial_intelligence"
+    },
+    "markdown_path": "exports/episodes/12347f30-6d08-4ad5-a13a-3f8865a1bd71.md",
+    "metadata": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "application/json; charset=utf-8",
+        "path": "sources/12347f30-6d08-4ad5-a13a-3f8865a1bd71/metadata/ade0c8c9dc6c4264a89d8d6e040bcae08d6be3ace0a2eb4eb2faf640cdd89ff3.json",
+        "retrieved_at": "2026-11-10T20:55:57.845034+00:00",
+        "sha256": "ade0c8c9dc6c4264a89d8d6e040bcae08d6be3ace0a2eb4eb2faf640cdd89ff3",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "episode_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "kind": "metadata",
+      "layer": "official_source",
+      "remote_id": "12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "retrieval_status": "success",
+      "source_field": null,
+      "source_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71:metadata",
+      "source_url": "https://api.simplecast.com/podcasts/8a5f01b8-f271-4de0-b289-c224dc4fce0a/episodes"
+    },
+    "newsletter": {
+      "availability": "not_checked",
+      "kind": "newsletter"
+    },
+    "show_notes": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "text/html; charset=utf-8",
+        "path": "sources/12347f30-6d08-4ad5-a13a-3f8865a1bd71/show_notes/04c2841d95f8fd83d0454824afbc5737d3e13df9305374fff2894639671443ed.html",
+        "retrieved_at": "2026-11-10T20:55:59.363927+00:00",
+        "sha256": "04c2841d95f8fd83d0454824afbc5737d3e13df9305374fff2894639671443ed",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "derived_text": {
+        "extractor_version": "archive-v1",
+        "path": "derived/text/12347f30-6d08-4ad5-a13a-3f8865a1bd71/04c2841d95f8fd83d0454824afbc5737d3e13df9305374fff2894639671443ed.txt",
+        "sha256": "25c9cd12a18cc0d043b30ddbadf6946ed98600c3c932e1fc692e6ad308159436"
+      },
+      "episode_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "kind": "show_notes",
+      "layer": "official_source",
+      "remote_id": "12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "retrieval_status": "success",
+      "source_field": "/long_description",
+      "source_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71:show_notes",
+      "source_url": "https://api.simplecast.com/episodes/12347f30-6d08-4ad5-a13a-3f8865a1bd71"
+    },
+    "social": {
+      "availability": "not_checked",
+      "kind": "social"
+    },
+    "structured_transcript": {
+      "availability": "available",
+      "kind": "structured_transcript",
+      "path": "derived/segments/12347f30-6d08-4ad5-a13a-3f8865a1bd71/segments-v2/47153f5a309c2f98b96667103d5d2be463a617bc124bd39ec74b557de65ca1c2.json",
+      "sha256": "dee2f4c5d52b8f079b5e3738f2fcc585bf48c407be78ad461b29f910eea5d2c2"
+    },
+    "summary": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "text/plain; charset=utf-8",
+        "path": "sources/12347f30-6d08-4ad5-a13a-3f8865a1bd71/summary/b2d5fff5ea2fed7cfdda9f5ad788f5ae7ff9b6969f8bc94b4050ab82b3394b25.txt",
+        "retrieved_at": "2026-11-10T20:55:57.845034+00:00",
+        "sha256": "b2d5fff5ea2fed7cfdda9f5ad788f5ae7ff9b6969f8bc94b4050ab82b3394b25",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "episode_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "kind": "summary",
+      "layer": "official_source",
+      "remote_id": "12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "retrieval_status": "success",
+      "source_field": "/description",
+      "source_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71:summary",
+      "source_url": "https://api.simplecast.com/podcasts/8a5f01b8-f271-4de0-b289-c224dc4fce0a/episodes"
+    },
+    "transcript": {
+      "availability": "available",
+      "current_version": {
+        "media_type": "text/html; charset=utf-8",
+        "path": "sources/12347f30-6d08-4ad5-a13a-3f8865a1bd71/transcript/47153f5a309c2f98b96667103d5d2be463a617bc124bd39ec74b557de65ca1c2.html",
+        "retrieved_at": "2026-11-10T20:55:59.363927+00:00",
+        "sha256": "47153f5a309c2f98b96667103d5d2be463a617bc124bd39ec74b557de65ca1c2",
+        "validation": "accepted_source",
+        "validation_method": "archive-v1"
+      },
+      "derived_text": {
+        "extractor_version": "archive-v1",
+        "path": "derived/text/12347f30-6d08-4ad5-a13a-3f8865a1bd71/47153f5a309c2f98b96667103d5d2be463a617bc124bd39ec74b557de65ca1c2.txt",
+        "sha256": "4e614947f7ad9f3c0c8ff9f3ba044034edf0cceb499f606a5e02e4f01231a720"
+      },
+      "episode_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "kind": "transcript",
+      "layer": "official_source",
+      "remote_id": "12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "retrieval_status": "success",
+      "source_field": "/transcription",
+      "source_id": "simplecast:12347f30-6d08-4ad5-a13a-3f8865a1bd71:transcript",
+      "source_url": "https://api.simplecast.com/episodes/12347f30-6d08-4ad5-a13a-3f8865a1bd71",
+      "speaker_labels": {
+        "accuracy": "unverified",
+        "parseability": "partial",
+        "raw_labels": [
+          "Dan Borok",
+          "Gopi Rangan"
+        ],
+        "state": "present"
+      },
+      "timestamps": {
+        "coverage": "partial",
+        "state": "present"
+      }
+    }
+  },
   "simplecast:12549d0c-c060-486b-aaa1-8d21add096eb": {
     "detail": {
       "availability": "available",
