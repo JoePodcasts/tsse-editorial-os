@@ -36,9 +36,15 @@ def integer(name, default, low, high):
 
 
 def reserve(limits, amount, ttl):
-    endpoint = os.environ.get('TSSE_CHAT_REDIS_URL')
+    endpoint = (
+        os.environ.get('TSSE_CHAT_REDIS_URL')
+        or os.environ.get('KV_REST_API_URL')
+    )
     if endpoint:
-        token = os.environ.get('TSSE_CHAT_REDIS_TOKEN')
+        token = (
+            os.environ.get('TSSE_CHAT_REDIS_TOKEN')
+            or os.environ.get('KV_REST_API_TOKEN')
+        )
         if not token or urlsplit(endpoint).scheme != 'https':
             raise APIError('The shared guide limits are unavailable.', 503)
         command = ['EVAL', RESERVE, len(limits), *limits, amount, ttl, *limits.values()]
