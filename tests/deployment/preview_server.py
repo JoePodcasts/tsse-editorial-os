@@ -18,7 +18,7 @@ class Handler(PublicHandler):
         path = unquote(urlsplit(self.path).path)
         if path.startswith('/api/'):
             return super().do_GET()
-        if path in ('/', '/archive-files', '/archive-files/episodes') or re.fullmatch(r'/episodes/[A-Za-z0-9:-]+(?:/transcript|/show-notes|/file)?', path):
+        if path in ('/', '/ask', '/archive-files', '/archive-files/episodes') or re.fullmatch(r'/categories/[a-z0-9-]+', path) or re.fullmatch(r'/episodes/[A-Za-z0-9:-]+(?:/transcript|/show-notes|/file)?', path):
             path = '/index.html'
         target = (ROOT / 'public' / path.lstrip('/')).resolve()
         if not target.is_relative_to(ROOT / 'public') or not target.is_file():

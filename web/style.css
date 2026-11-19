@@ -1317,3 +1317,22 @@ main:focus {
 .sync-status { color: var(--muted); font-size: .8rem; line-height: 1.6; margin: 12px 0 0; }
 .files-hero + .sync-status { margin: -8px 0 26px; }
 .sync-status time { white-space: normal; }
+
+.guide { max-width: 48rem; margin: 2rem auto 4rem; }
+.guide h1 { margin: 1rem 0 .5rem; font-size: clamp(2.4rem, 7vw, 4rem); }
+.guide-form, .guide-turn { padding: clamp(1rem, 3vw, 1.6rem); margin: 1.5rem 0; border: 1px solid var(--line); background: white; }
+.guide-form label { display: block; font-weight: 600; }
+.guide-form textarea { width: 100%; resize: vertical; font: inherit; padding: .75rem; margin: .5rem 0; }
+.guide-form button, .guide-examples button { padding: .65rem 1rem; border-radius: .3rem; }
+.guide-form button { color: white; background: var(--navy); }
+.guide-form [role=status]:empty { margin: 0; }
+.guide-examples { display: flex; flex-wrap: wrap; gap: .5rem; }
+.guide-examples button { text-align: left; background: var(--wash); }
+.guide-turn { overflow-wrap: anywhere; }
+.guide-turn h2 { margin-top: 0; }
+.guide-turn h3 { font-size: 1.05rem; margin-bottom: 0; }
+.guide-turn blockquote { padding-left: 1rem; margin: 1rem 0 .3rem; border-left: 3px solid var(--teal); }
+
+.guide-episode { padding: 1rem 0; border-bottom: 1px solid var(--line, #d8d4ca); }
+.guide-episode h3 { margin-bottom: .4rem; }
+.guide-source { display: block; font-size: .9rem; margin-top: .5rem; }

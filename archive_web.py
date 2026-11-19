@@ -23,6 +23,7 @@ SOURCE_LABELS = {
     'show_notes': 'Published show notes',
 }
 ASSETS = {
+    '/assets/guide.js': REPO / 'web/guide.js',
     '/assets/app.js': REPO / 'web/app.js',
     '/assets/style.css': REPO / 'web/style.css',
     '/assets/tsse-logo.png': REPO / 'publishing/templates/quote-card/v1/assets/tsse-logo.png',
@@ -195,6 +196,10 @@ class ArchiveApp:
                                'derived_text': text_info}}
 
     def api(self, path, params):
+        if path == '/api/chat/status':
+            import os
+            mode = os.environ.get('TSSE_CHAT_MODE', 'mock')
+            return {'mode': mode if mode in ('mock', 'live') else 'off'}
         if path == '/api/sync-status':
             from archive_operations import freshness
             return {'sync': freshness(self.root)}
@@ -253,6 +258,10 @@ class Handler(BaseHTTPRequestHandler):
         if self.command != 'HEAD':
             self.wfile.write(body)
 
+    def do_POST(self):
+        from archive_guide import handle
+        handle(self, lambda: self.server.app)
+
     def do_HEAD(self):
         self.do_GET()
 
@@ -282,7 +291,7 @@ class Handler(BaseHTTPRequestHandler):
             elif parsed.path in ASSETS:
                 path = ASSETS[parsed.path]
                 self.respond(200, path.read_bytes(), mimetypes.guess_type(str(path))[0] or 'application/octet-stream')
-            elif parsed.path in ('/', '/archive-files', '/archive-files/episodes') or re.fullmatch(r'/episodes/[A-Za-z0-9:-]+(?:/transcript|/show-notes|/file)?', parsed.path):
+            elif parsed.path in ('/', '/ask', '/archive-files', '/archive-files/episodes') or re.fullmatch(r'/episodes/[A-Za-z0-9:-]+(?:/transcript|/show-notes|/file)?', parsed.path):
                 if parsed.path.startswith('/episodes/'):
                     parts = parsed.path.split('/')
                     records, _ = self.server.app.snapshot()

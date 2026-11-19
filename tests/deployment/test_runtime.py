@@ -51,6 +51,23 @@ class RuntimeTests(unittest.TestCase):
         for method in ('POST', 'PUT', 'PATCH', 'DELETE'):
             self.assertEqual(self.request('/api/archive', method)[0], 405)
 
+    def test_chat_rewrite_and_origin(self):
+        path = '/api/archive_function?route=chat'
+        with patch.dict('os.environ', TSSE_CHAT_MODE='mock'):
+            for origin, code in [(None, 200), ('https://elsewhere.invalid', 403)]:
+                conn = http.client.HTTPConnection('127.0.0.1', self.server.server_port)
+                self.addCleanup(conn.close)
+                headers = {'Content-Type': 'application/json'}
+                if origin:
+                    headers['Origin'] = origin
+                conn.request('POST', path, json.dumps({'question': 'What is venture capital?'}), headers)
+                response = conn.getresponse()
+                self.assertEqual(response.status, code)
+                result = json.loads(response.read())
+                if code == 200:
+                    self.assertTrue(result['recommendations'])
+                    self.assertEqual(response.getheader('Cache-Control'), 'no-store')
+
     def test_backend_failure_is_generic_and_does_not_leak_paths(self):
         with patch.object(self.app, 'api', side_effect=OSError('/private/database unavailable')), self.assertLogs(level='ERROR'):
             code, raw = self.request('/api/search?q=test')

@@ -16,6 +16,10 @@
       "destination": "/api/archive_function?route=:path"
     },
     {
+      "source": "/ask",
+      "destination": "/index.html"
+    },
+    {
       "source": "/archive-files",
       "destination": "/index.html"
     },

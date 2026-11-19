@@ -161,6 +161,7 @@ async function archiveView(params, ticket) {
   const hero = el('section', 'hero' + (params.get('q') ? ' search-mode' : ''));
   hero.append(el('span', 'eyebrow', 'The Sure Shot Entrepreneur'), el('h1', '', 'Content Archive'),
     el('p', 'intro', 'Search episodes, transcripts and published show notes.'), el('span', 'hero-index', 'An archive of entrepreneurial thinking'));
+  hero.append(link('Ask the TSSE Archive →', '/ask', 'text-link'));
   main.append(hero);
   if (params.get('episode')) {
     const scope = el('div', 'scope');
@@ -640,6 +641,7 @@ async function render() {
   const url = new URL(location.href);
   try {
     if (url.pathname === '/') await archiveView(url.searchParams, ticket);
+    else if (url.pathname === '/ask') guideView();
     else if (['/archive-files', '/archive-files/episodes'].includes(url.pathname)) await archiveFilesView(url, ticket);
     else if (/^\/episodes\/[^/]+(?:\/transcript|\/show-notes|\/file)?$/.test(url.pathname)) await episodeView(url, ticket);
     else throw new Error('This archive page does not exist.');

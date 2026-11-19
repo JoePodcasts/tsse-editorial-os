@@ -18,7 +18,7 @@ from archive_files import ExportLibrary
 from archive_public import PublicArchiveApp
 from archive_web import ASSETS
 
-RUNTIME_CODE = ('archive_public.py', 'archive_status.py', 'archive_web.py',
+RUNTIME_CODE = ('archive_guide_limits.py', 'archive_guide.py', 'archive_public.py', 'archive_status.py', 'archive_web.py',
                 'archive_search.py', 'archive_sync.py', 'archive_files.py', 'episode_discovery.py')
 SOURCE_KINDS = ('metadata', 'summary', 'show_notes', 'transcript')
 QUERIES = ('customer discovery', 'proof of value', 'Gokul Rajaram', 'Commerce Ventures',

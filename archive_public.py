@@ -102,8 +102,12 @@ class PublicHandler(BaseHTTPRequestHandler):
             self.respond(503, {'error': 'The archive is temporarily unavailable. Please try again.'})
 
     def do_POST(self):
+        from archive_guide import handle
+        handle(self, application, public=True)
+
+    def readonly(self):
         self.respond(405, {'error': 'This archive is read-only.'})
 
-    do_PUT = do_POST
-    do_PATCH = do_POST
-    do_DELETE = do_POST
+    do_PUT = readonly
+    do_PATCH = readonly
+    do_DELETE = readonly
