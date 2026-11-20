@@ -24,7 +24,7 @@ def public_value(value):
 class PublicArchiveApp(ArchiveApp):
     def __init__(self, root, fetch_status=None):
         self.root = Path(root).resolve()
-        self.records = archive.load_catalogue(self.root / 'catalogue.jsonl')
+        self._records = archive.load_catalogue(self.root / 'catalogue.jsonl')
         self.manifest = archive.read_json(self.root / 'manifest.json')
         self.inventory = archive.read_json(self.root / 'export-inventory.json')
         self.file_info = {f['remote_id']: f for f in self.inventory['files']}
@@ -32,7 +32,7 @@ class PublicArchiveApp(ArchiveApp):
         self.status = PublicStatus(status, **({'fetch': fetch_status} if fetch_status else {}))
 
     def snapshot(self):
-        return list(self.records), self.manifest
+        return list(self._records), self.manifest
 
     def episode(self, record, entries):
         value = super().episode(record, entries)
