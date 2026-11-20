@@ -12,6 +12,13 @@ const guideExamples = [
   'What have TSSE guests said about artificial intelligence?'
 ];
 
+function guideSourceLink(text, href, className = 'text-link') {
+  const anchor = link(text, href, className);
+  anchor.target = '_blank';
+  anchor.rel = 'noopener noreferrer';
+  return anchor;
+}
+
 function guideReply(turn) {
   const section = el('article', 'guide-turn');
   section.append(el('h2', '', turn.question));
@@ -30,7 +37,7 @@ function guideReply(turn) {
         const attribution = source.speaker || source.title || 'Transcript';
         const label = 'Ep. ' + source.episode + ' · ' + attribution;
         evidence.append(
-          link(label, source.url, 'text-link guide-source')
+          guideSourceLink(label, source.url, 'text-link guide-source')
         );
       }
 
@@ -44,8 +51,8 @@ function guideReply(turn) {
     card.append(el('h3', '', 'Ep. ' + item.episode + ' · ' + item.title));
     if (item.guests.length) card.append(el('p', 'side-label', item.guests.join(' & ')));
     if (item.description) card.append(el('p', '', item.description));
-    card.append(link('Listen to the official episode ↗', item.url, 'text-link'));
-    for (const source of item.sources) card.append(link('Read supporting passage →', source.url, 'text-link guide-source'));
+    card.append(guideSourceLink('Listen to the official episode ↗', item.url, 'text-link'));
+    for (const source of item.sources) card.append(guideSourceLink('Read supporting passage →', source.url, 'text-link guide-source'));
     section.append(card);
   }
   if (data.suggestions?.length) {
