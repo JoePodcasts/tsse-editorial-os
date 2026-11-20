@@ -271,6 +271,31 @@ def conversation_state(app, body):
     return topic, ids, passages
 
 
+
+def guest_evidence_priority(passage, guests):
+    """Prefer identified guest speakers; do not guess unknown attribution."""
+    label = passage.get('speaker_label')
+    if not label or passage.get('speaker_attribution') == 'unknown':
+        return 0
+
+    def normalize(value):
+        return ' '.join(''.join(ch if ch.isalnum() else ' '
+                        for ch in value.casefold()).split())
+
+    speaker = normalize(label)
+    if not speaker or speaker == 'gopi' or speaker.startswith('gopi rangan'):
+        return 0
+
+    for guest in guests:
+        name = normalize(guest)
+        if not name:
+            continue
+        if speaker == name or (len(speaker.split()) == 1
+                               and speaker == name.split()[0]):
+            return 1
+
+    return 0
+
 def retrieve_discovery(app, question, topic, previous, follow, expand, previous_passages=None):
     concepts = search_concepts(topic)
     if follow and re.search('integrity', question, re.I):
@@ -290,14 +315,14 @@ def retrieve_discovery(app, question, topic, previous, follow, expand, previous_
         for query in queries[:3]:
             if not query:
                 continue
-            params = {'q': query, 'source': 'transcript', 'limit': 12 if episode is None else 4}
+            params = {'q': query, 'source': 'transcript', 'limit': 24 if episode is None else 8}
             if episode is not None:
                 params['episode'] = episode
             for d in app.query(params)['results']:
                 if expand and d['episode_id'] in previous:
                     continue
                 items = groups.setdefault(d['episode_id'], [])
-                capacity = 4 if example_request and follow and not expand else 2
+                capacity = 8 if example_request and follow and not expand else 4
                 if d['passage_id'] not in {x['passage_id'] for x in items} and len(items) < capacity:
                     items.append(d)
 
@@ -331,6 +356,27 @@ def retrieve_discovery(app, question, topic, previous, follow, expand, previous_
     scoped = bool(groups)
     if not scoped or expand:
         collect(concepts)
+    # Keep lexical retrieval order while allowing a nearby guest passage
+    # to compete for the limited evidence slots.
+    for identity, items in groups.items():
+        guests = guest_names(by_id[identity])
+        pinned = set(previous_passages or []) if follow and not expand else set()
+        capacity = 4 if example_request and follow and not expand else 2
+        candidates = []
+        for index, item in enumerate(items):
+            fresh = app.passage(item['passage_id'])
+            if fresh['episode_id'] != identity or fresh['source_type'] != 'transcript':
+                continue
+            priority = guest_evidence_priority(fresh, guests)
+            candidates.append((item, index, priority))
+
+        # Preserve previous evidence for conversational follow-ups.
+        retained = [entry for entry in candidates if entry[0]['passage_id'] in pinned]
+        remaining = [entry for entry in candidates if entry[0]['passage_id'] not in pinned]
+        remaining.sort(key=lambda entry: (entry[1] - 2 * entry[2], -entry[2], entry[1]))
+        selected = (retained + remaining)[:capacity]
+        groups[identity] = [entry[0] for entry in selected]
+
     # Give the generator sufficient alternatives without flooding its context.
     ranked = sorted(groups, key=lambda i: (not any(len(d['text']) > 120 and not d['text'].rstrip().endswith('?') for d in groups[i]),
                                            -len(groups[i])))[:6]

@@ -56,6 +56,11 @@ class ArchiveApp:
         self.root = Path(root).resolve()
         self.files = ExportLibrary(self.root)
 
+    @property
+    def records(self):
+        # Ask uses the current published catalogue for evidence retrieval.
+        return self.snapshot()[0]
+
     def snapshot(self):
         # These small files are read together per request. No stale in-memory
         # episode database, and ingestion changes appear on the next request.
